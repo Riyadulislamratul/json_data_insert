@@ -1,0 +1,1197 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 360888,
+      "value": {
+        "options": {
+          "ক": "3:30",
+          "খ": "4:30",
+          "গ": "6:30",
+          "ঘ": "2:30"
+        },
+        "question": "আয়নার মধ্যে দিয়ে দেখলে একটি অ্যানালগ ঘড়িতে 9:30 বাজে। আসল সময় কত?",
+        "solution": "2:30",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 57,
+          "year": "৪১",
+          "pivot": {
+            "question_bank_id": 360888,
+            "year_id": 57
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360888,
+            "tag_id": 3203,
+            "year": "৪১",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360896,
+      "value": {
+        "options": {
+          "ক": "11 সেকেন্ড",
+          "খ": "10 সেকেন্ড",
+          "গ": "12 সেকেন্ড",
+          "ঘ": "[math]10\\frac{1}{5}[/math] সেকেন্ড"
+        },
+        "question": "একটি ঘড়িতে 6 টার ঘণ্টা ধ্বনি ঠিক টোয় শুরু করে বাজতে 5 সেকেন্ড সময় লাগে, ঐ ঘড়িতে 12টার ঘণ্টা ধ্বনি বাজতে কত সেকেন্ড সময় লাগবে? ঘণ্টাধ্বনি সমান সময় ব্যবধানে বাজে ।",
+        "solution": "[math]6[/math]\u003Cbr\u003E টার ঘণ্টা ধ্বনি বাজতে [math]5[/math]\u003Cbr\u003E সেকেণ্ড সময় লাগে[math]\\therefore 12[/math]\u003Cbr\u003E টার ঘণ্টা ধ্বনি বাজতে [math]\\frac{5 \\times \\overset{2}{\\not{12}}}{\\not6}[/math]\u003Cbr\u003E সেকেণ্ড সময় লাগে[math]= 10[/math]\u003Cbr\u003E সেকেণ্ড",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 69,
+          "year": "১৪",
+          "pivot": {
+            "question_bank_id": 360896,
+            "year_id": 69
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360896,
+            "tag_id": 3203,
+            "year": "১৪",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360895,
+      "value": {
+        "options": {
+          "ক": "4",
+          "খ": "3",
+          "গ": "2",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "রেডিওতে একটি বিজ্ঞাপন 15 মিনিট পর পর প্রচারিত হয় এবং বিজ্ঞাপনটি 1 মিনিট ধরে প্রচারিত হয়। সকাল ৮ টায় বিজ্ঞাপনটি প্রথম প্রচারিত হলে, সকাল ৭টা পর্যন্ত বিজ্ঞাপনটি কতবার প্রচারিত হবে?",
+        "solution": "বিজ্ঞাপনটি [math]15[/math]\u003Cbr\u003E মিনিট পর পর [math]1[/math]\u003Cbr\u003E মিনিট ধরে প্রচারিত হয়। সকাল [math]8[/math]\u003Cbr\u003E টায় বিজ্ঞাপনটি শুরু হলে [math]1[/math]\u003Cbr\u003E মিনিট ধরে চলবে। অর্থাৎ প্রথমবার বিজ্ঞাপন শেষ হবে [math]\\mathrm {8:01 {~} \\text{A.M}}[/math]\u003Cbr\u003E এ, এর [math]15[/math]\u003Cbr\u003E মিনিট বিরতি দিয়ে আবার [math]1[/math]\u003Cbr\u003E মিনিট ধরে চলবে।[math]\\therefore[/math]\u003Cbr\u003E দ্বিতীয়বার বিজ্ঞাপনটি শেষ হবে [math]8[/math]\u003Cbr\u003Eটা [math](1 + 16)[/math]\u003Cbr\u003E বা [math]17[/math]\u003Cbr\u003E মিনিটে একইভাবে,তৃতীয়বার বিজ্ঞাপনটি শেষ হবে [math]8[/math]\u003Cbr\u003Eটা [math](17 + 16)[/math]\u003Cbr\u003E বা [math]33[/math]\u003Cbr\u003E মিনিটেচতুর্থবার বিজ্ঞাপনটি শেষ হবে [math]8[/math]\u003Cbr\u003Eটা [math](33 + 16)[/math]\u003Cbr\u003E বা [math]49[/math]\u003Cbr\u003E মিনিটেএরপর [math]15[/math]\u003Cbr\u003E মিনিট বিরতি নিলে [math]9[/math]\u003Cbr\u003Eটা পার হয়ে যাবে[math]\\therefore[/math]\u003Cbr\u003E বিজ্ঞাপনটি প্রচার হবে [math]4[/math]\u003Cbr\u003E বার ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 43,
+          "year": "2009",
+          "pivot": {
+            "question_bank_id": 360895,
+            "year_id": 43
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360895,
+            "tag_id": 3201,
+            "year": "2009",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360894,
+      "value": {
+        "options": {
+          "ক": "10 মিনিট",
+          "খ": "14 মিনিট",
+          "গ": "18 মিনিট",
+          "ঘ": "23 মিনিট",
+          "ঙ": "কোনোটিই নয়"
+        },
+        "question": "পাঁচটি ঘণ্টা একত্রে বেজে পরে যথাক্রমে [math]3, 5, 7, 8[/math] এবং [math]10[/math] সেকেন্ড অন্তর বাজতে লাগল। কত সময় পর ঘণ্টাগুলো আবার একত্রে বাজবে?",
+        "solution": "ন্যূনতম যে সময় পর ঘন্টাগুলো একত্রে বাজে, তা হলো ঘন্টাগুলোর পর্যায়কাল এর ল.সা.গু ।[math]3(3 \\times 1), 5(5 \\times 1), 7(7 \\times 1), 8\\left(2^{3}\\right)[/math]\u003Cbr\u003E এর ল.সা.গু[math]=3 \\times 5 \\times 7 \\times 2^{3}=840[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ঘন্টাগুলো [math]840[/math]\u003Cbr\u003E সেকেন্ডে [math]= \\frac{840}{60}[/math]\u003Cbr\u003E মিনিট বা [math]14[/math]\u003Cbr\u003E মিনিট পর পর একত্রে বাজবে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 42,
+          "year": "2010",
+          "pivot": {
+            "question_bank_id": 360894,
+            "year_id": 42
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360894,
+            "tag_id": 3201,
+            "year": "2010",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360893,
+      "value": {
+        "options": {
+          "ক": "[math]22\\frac{1}{2}\\circ[/math]",
+          "খ": "[math]20^\\circ[/math]",
+          "গ": "[math]23^\\circ[/math]",
+          "ঘ": "[math]23\\frac{1}{2}\\circ[/math]"
+        },
+        "question": "2টা 15 মিনিটের সময় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যে কত ডিগ্রী কোণ উৎপন্ন হয়?",
+        "solution": "[math]\\mathrm{H}=2, \\mathrm{M}=15[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E মধ্যবর্তী কোণ [math]=\\left|30 \\mathrm{H}-\\frac{11 \\mathrm{M}}{2}\\right|[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\left|30 \\times 2-\\frac{11 \\times 15}{2}\\right| \\\\=\\left|60-\\frac{165}{2}\\right|=\\left|-22.5^{\\circ}\\right|=22.5^{\\circ}\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 41,
+          "year": "2011",
+          "pivot": {
+            "question_bank_id": 360893,
+            "year_id": 41
+          }
+        },
+        {
+          "id": 49,
+          "year": "১১",
+          "pivot": {
+            "question_bank_id": 360893,
+            "year_id": 49
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3202,
+          "full_name": "শিক্ষক নিয়োগ '2021",
+          "short_name": "শিক্ষক নিয়োগ",
+          "slug": "sikshk-niyog",
+          "pivot": {
+            "question_bank_id": 360893,
+            "tag_id": 3202,
+            "year": "2011",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        },
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360893,
+            "tag_id": 3203,
+            "year": "১১",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360892,
+      "value": {
+        "options": {
+          "ক": "[math]90^°[/math]",
+          "খ": "[math]120^°[/math]",
+          "গ": "[math]150^°[/math]",
+          "ঘ": "[math]180^°[/math]"
+        },
+        "question": "ঘড়িতে যখন 7টা বাজে তখন ঘণ্টা ও মিনিটের কাঁটা দুটির মধ্যবর্তী কোণ কত ডিগ্রী?",
+        "solution": "[math]150^°[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 44,
+          "year": "2013",
+          "pivot": {
+            "question_bank_id": 360892,
+            "year_id": 44
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360892,
+            "tag_id": 3201,
+            "year": "2013",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360891,
+      "value": {
+        "options": {
+          "ক": "[math]90^°[/math]",
+          "খ": "[math]5^°[/math]",
+          "গ": "[math]60^°[/math]",
+          "ঘ": "[math]120^°[/math]",
+          "ঙ": "Correct Answer not found"
+        },
+        "question": "বেলা 2.30 ঘটিকার সময় ঘড়িতে ঘণ্টা ও মিনিটের কাঁটা পরস্পর কত ডিগ্রি কোণ উৎপন্ন করবে?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "."
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 53,
+          "year": "2014",
+          "pivot": {
+            "question_bank_id": 360891,
+            "year_id": 53
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3202,
+          "full_name": "শিক্ষক নিয়োগ '2021",
+          "short_name": "শিক্ষক নিয়োগ",
+          "slug": "sikshk-niyog",
+          "pivot": {
+            "question_bank_id": 360891,
+            "tag_id": 3202,
+            "year": "2014",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360890,
+      "value": {
+        "options": {
+          "A": "[math]5 {~}\\text{min. past} {~}7[/math]",
+          "B": "[math]5 \\frac{2}{11}{~}\\text{min. past} {~}7[/math]",
+          "C": "[math]5 \\frac{3}{11}{~}\\text{min. past} {~}7[/math]",
+          "D": "[math]5 \\frac{5}{11}{~}\\text{min. past} {~}7[/math]"
+        },
+        "question": "At what time between 7 and 8 o'clock will the hands of a clock be in the same straight line but not together?",
+        "solution": "জানা আছে, ঘড়ির ঘন্টার কাটা ও মিনিটের কাটা প্রতি [math]1[/math]\u003Cbr\u003E ঘন্টা [math]\\frac{60}{11}[/math]\u003Cbr\u003E মিনিট পর পর একই সরলরেখায় আসে।ঠিক [math]6:00[/math]\u003Cbr\u003E টায় ঘন্টা ও মিনিটের কাটা এক সরল রেখায় থাকে ।পরের বার একই সরলরেখায় আসবে ঘন্টা,[math]= (6+1)[/math]\u003Cbr\u003E ঘন্টা, [math]\\bigg( 0+ \\frac{60}{11} \\bigg)[/math]\u003Cbr\u003E মিনিটে[math]=7[/math]\u003Cbr\u003E টা [math]\\frac{60}{11}[/math]\u003Cbr\u003E মিনিটে [math]=7[/math]\u003Cbr\u003E টা [math]5\\frac{5}{11}[/math]\u003Cbr\u003E মিনিটে",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 53,
+          "year": "2014",
+          "pivot": {
+            "question_bank_id": 360890,
+            "year_id": 53
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360890,
+            "tag_id": 3201,
+            "year": "2014",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360889,
+      "value": {
+        "options": {
+          "ক": "[math]105^°[/math]",
+          "খ": "[math]95^°[/math]",
+          "গ": "[math]115^°[/math]",
+          "ঘ": "[math]110^°[/math]"
+        },
+        "question": "দুপুর আড়াইটায় ঘড়ির ঘণ্টার কাঁটা ও মিনিটের কাঁটার পার্থক্য কত ডিগ্রি হবে?",
+        "solution": "[math]105^°[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 57,
+          "year": "৪১",
+          "pivot": {
+            "question_bank_id": 360889,
+            "year_id": 57
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360889,
+            "tag_id": 3203,
+            "year": "৪১",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360887,
+      "value": {
+        "options": {
+          "ক": "[math]45^°[/math]",
+          "খ": "[math]54^°[/math]",
+          "গ": "[math]40^°[/math]",
+          "ঘ": "[math]36^°[/math]"
+        },
+        "question": "ঘড়িতে যখন 4 টা 30 বাজে তখন ঘণ্টার কাটা ও মিনিটের কাটার মধ্যে কত ডিগ্রি কোণ উৎপন্ন হয়?",
+        "solution": "[math]45^°[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 360887,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360887,
+            "tag_id": 3201,
+            "year": "2019",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360886,
+      "value": {
+        "options": {
+          "ক": "96",
+          "খ": "102",
+          "গ": "124",
+          "ঘ": "126",
+          "ঙ": "কোনোটিই নয়"
+        },
+        "question": "একটি ঘড়িতে যখন সকাল 10 টা 12 মিনিট তখন ঘণ্টা ও মিনিটের কাঁটার মধ্যে কত ডিগ্রি কোণ উৎপন্ন হয়?",
+        "solution": "সময় : [math]10[/math]\u003Cbr\u003E টা [math]12[/math]\u003Cbr\u003E মিনিট[math]\\begin{array}{c}\\mathrm{H}=10, \\mathrm{M}=12 \\\\\\theta=\\left|30 \\mathrm{H}-\\frac{11 \\mathrm{M}}{2}\\right|=\\left|30 \\times 10-\\frac{11}{2} \\times 12\\right|\\end{array}[/math]\u003Cbr\u003E [math]=|300-66|=234^{\\circ}[/math]\u003Cbr\u003E যা প্রবৃদ্ধ[math]\\therefore \\theta=360^{\\circ}-234^{\\circ}=126^{\\circ}[/math]\u003Cbr\u003Eবিকল্প সমাধান : [math]10:00[/math]\u003Cbr\u003E টাঘণ্টার কাঁটা [math]10[/math]\u003Cbr\u003E এমিনিটের কাঁটা [math]12[/math]\u003Cbr\u003E এমিনিটের কাঁটা এগিয়ে ছিল [math]2 × 30^° = 60^°[/math]\u003Cbr\u003E [math]12[/math]\u003Cbr\u003E মিনিটে ঘণ্টার কাঁটা আগায় [math]12 × \\frac{1^°}{2} = 6^°[/math]\u003Cbr\u003E [math]12[/math]\u003Cbr\u003E মিনিটে মিনিটের কাঁটা আগায় [math]12 × 6^° = 72^°[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E মিনিটের কাঁটা এগিয়ে যায় [math]= (72 – 6) = 66^°[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E উৎপন্ন কোণ, [math]\\theta = 60^° + 66^° = 126^°[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 360886,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360886,
+            "tag_id": 3201,
+            "year": "2019",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360885,
+      "value": {
+        "options": {
+          "ক": "12 টা 12 মিনিটে",
+          "খ": "12 টা 18 মিনিটে",
+          "গ": "12 টা 24 মিনিটে",
+          "ঘ": "12 টা 30 মিনিটে"
+        },
+        "question": "দুটি ঘণ্টা যথাক্রমে [math]8[/math] মিনিট ও [math]6[/math] মিনিট অন্তর বাজে। দুপুর [math]12[/math] টায় দুটি ঘণ্টা একত্রে বাজার পর আবার কখন তারা একত্রে বাজবে?",
+        "solution": "[math]8 = 2^3[/math]\u003Cbr\u003E [math]6 = 2 × 3[/math]\u003Cbr\u003E [math]8, 6[/math]\u003Cbr\u003E এর ল.সা.গু. [math]2^3 × 3 = 24[/math]\u003Cbr\u003Eসুতরাং, তারা একত্রে [math]24[/math]\u003Cbr\u003E মিনিট পর পর বাজবে ।সুতরাং, পুনরায় বাজার সময় [math]= 12[/math]\u003Cbr\u003Eটা [math]+ {~}24[/math]\u003Cbr\u003E মিনিট[math]= 12:24 {~} \\text{pm}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 360885,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360885,
+            "tag_id": 3201,
+            "year": "2020",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360884,
+      "value": {
+        "options": {
+          "ক": "150 ডিগ্রি",
+          "খ": "160 ডিগ্রি",
+          "গ": "90 ডিগ্রি",
+          "ঘ": "120 ডিগ্রি"
+        },
+        "question": "ঘড়িতে এখন ৪টা বাজে। ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যেকার কোণটি হবে-",
+        "solution": "ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী বেগ [math]=\\left|30 \\mathrm{H}-\\frac{11 \\mathrm{M}}{2}\\right|[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\left.\\begin{array}{l}\\mathrm{H}=8 \\\\\\mathrm{M}=0\\end{array}\\right\\} \\longrightarrow=\\left|30 \\times 8-\\frac{11 \\times 0}{2}\\right| \\\\=\\left|240^{\\circ}-0^{\\circ}\\right|=240^{\\circ} \\\\\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E মধ্যবর্তী কোণ [math]=360^{\\circ}-240^{\\circ}=120^{\\circ}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D. 120 ডিগ্রি"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360884,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 360884,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 59,
+          "year": "৩৯",
+          "pivot": {
+            "question_bank_id": 360884,
+            "year_id": 59
+          }
+        },
+        {
+          "id": 62,
+          "year": "৩৪",
+          "pivot": {
+            "question_bank_id": 360884,
+            "year_id": 62
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360884,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        },
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360884,
+            "tag_id": 3201,
+            "year": "2017",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        },
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360884,
+            "tag_id": 3203,
+            "year": "৩৯",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        },
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360884,
+            "tag_id": 3203,
+            "year": "৩৪",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360883,
+      "value": {
+        "options": {
+          "ক": "22 বার",
+          "খ": "23 বার",
+          "গ": "11 বার",
+          "ঘ": "12 বার"
+        },
+        "question": "ঘড়ির ঘণ্টা এবং মিনিটের কাঁটা পরস্পরের সঙ্গে 30 ডিগ্রী কোণ করে কত বার?",
+        "solution": "22 বার",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360883,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360883,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360882,
+      "value": {
+        "options": {
+          "A": "[math]144^°[/math]",
+          "B": "[math]150^°[/math]",
+          "C": "[math]168^°[/math]",
+          "D": "[math]180^°[/math]"
+        },
+        "question": "An accurate clock shows 8 o'clock in the morning. Through how many degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+        "solution": "[math]180^°[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360882,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360882,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360881,
+      "value": {
+        "options": {
+          "ক": "উত্তর",
+          "খ": "দক্ষিণ",
+          "গ": "পূর্ব",
+          "ঘ": "পশ্চিম"
+        },
+        "question": "একটি দেয়াল ঘড়িতে যখন এটা বাজে তখন ঘণ্টার কাঁটা যদি পশ্চিম দিকে থাকে, তবে মিনিটের কাঁটা কোন দিকে থাকবে?",
+        "solution": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fjobmath354_1755575608_mkBDJMOe.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nঘণ্টার কাঁটা পশ্চিম দিকে হলে মিনিটের কাঁটা উত্তর দিকে",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360881,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360881,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:53:28.000000Z",
+            "updated_at": "2025-08-19T03:53:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360880,
+      "value": {
+        "options": {
+          "ক": "1 বার",
+          "খ": "2 বার",
+          "গ": "3 বার",
+          "ঘ": "4 বার"
+        },
+        "question": "প্রতি 1 ঘণ্টায় ঘড়ির মিনিটের এবং ঘণ্টার কাঁটা কতবার লম্বভাবে অবস্থান করে?",
+        "solution": "প্রতি [math]1[/math]\u003Cbr\u003E ঘন্টা [math]\\frac{60}{11}[/math]\u003Cbr\u003E মিনিট পর পর ঘড়ির ঘন্টার কাটা এবং মিনিটের কাটা একই অবস্থানে আসে ।কিন্তু প্রতি [math]1[/math]\u003Cbr\u003E ঘন্টা [math]\\frac{60}{11}[/math]\u003Cbr\u003E মিনিটের এই চক্রে ঘন্টার কাটা ও মিনিটের কাটা [math]2[/math]\u003Cbr\u003E বার লম্বভাবে অবস্থান করে ।[math]\\therefore 1[/math]\u003Cbr\u003E ঘন্টা [math]\\frac{60}{11}[/math]\u003Cbr\u003E মিনিটে [math]2[/math]\u003Cbr\u003E বার ঘন্টা ও মিনিটের কাটা লম্বভাবে অবস্থান করবে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360880,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 45,
+          "year": "2012",
+          "pivot": {
+            "question_bank_id": 360880,
+            "year_id": 45
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360880,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        },
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360880,
+            "tag_id": 3201,
+            "year": "2012",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4185&grade=1&lesson=7072&per_page=200&question_paper_id=47963&subject=229&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4185&grade=1&lesson=7072&per_page=200&question_paper_id=47963&subject=229&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4185&grade=1&lesson=7072&per_page=200&question_paper_id=47963&subject=229&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 17,
+  "total": 17
+}

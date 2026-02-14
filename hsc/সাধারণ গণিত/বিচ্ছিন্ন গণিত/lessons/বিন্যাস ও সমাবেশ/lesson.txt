@@ -1,0 +1,2617 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 360349,
+      "value": {
+        "options": {
+          "ক": "20",
+          "খ": "190",
+          "গ": "380",
+          "ঘ": "760"
+        },
+        "question": "[math]20[/math] সদস্যবিশিষ্ট একটি ফুটবল দল থেকে একজন অধিনায়ক ও একজন সহ-অধিনায়ক কতভাবে নির্বাচন করা যাবে?",
+        "solution": "[math]20[/math]\u003Cbr\u003E জন সদস্য হতে একজন অধিনায়ক নির্বাচন করা যাবে [math]={ }^{20} \\mathrm{C}_{1}[/math]\u003Cbr\u003E উপায়েএকজন অধিনায়ক নির্বাচন করেছি এখন ফুটবল দলে সদস্য সংখ্যা [math](20 – 1 )[/math]\u003Cbr\u003E বা [math]19[/math]\u003Cbr\u003E জনএই [math]19[/math]\u003Cbr\u003E জন হতে [math]1[/math]\u003Cbr\u003E জন সহ অধিনায়ক বাছাই করা যাবে [math]={ }^{19} \\mathrm{C}_{1}[/math]\u003Cbr\u003E উপায়ে[math]20[/math]\u003Cbr\u003E জন সদস্য হতে অধিনায়ক ও সহ অধিনায়ক বাছাই করা যাবে [math]={ }^{20} \\mathrm{C}_{1} \\times{ }^{19} \\mathrm{C}_{1}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{20 !}{(20-1) ! 1 !} \\times \\frac{191}{(19-1) ! 1 !}\\left[\\because \\mathrm {{ }^{n} C_{r}=\\frac{n !}{(n-r) ! r !}}\\right] \\\\=\\frac{20 !}{19 !} \\times \\frac{19 !}{18 !}=\\frac{20 \\times \\not{19 !}}{\\not{19 !}} \\times \\frac{19 \\times \\not{18 !}}{\\not{18 !}} \\\\=20 \\times 19=380\\end{array}[/math]\u003Cbr\u003Eবিকল্প সমাধান : ফুটবল দলের [math]20[/math]\u003Cbr\u003E জন সদস্য হতে একজন অধিনায়ক ও একজন সহ অধিনায়ক মানে [math]2[/math]\u003Cbr\u003E জন বাছাই করা যাবে [math]={ }^{20} \\mathrm{C}_{2}[/math]\u003Cbr\u003E উপায়েএখন, আমরা যে দুইজন অধিনায়ক ও সহ অধিনায়ক বাছাই করলাম। তাদের মধ্যে যে অধিনায়ক আছে সে সহ অধিনায়ক হতে পারে এবং যে সহ অধিনায়ক আছে সে অধিনায়ক হতে পারে। সেক্ষেত্রে তাদের মধ্যে বিন্যাস সংখ্যা [math]2![/math]\u003Cbr\u003Eমোট উপায় [math]={ }^{20} \\mathrm{C}_{2} \\times 2 ![/math]\u003Cbr\u003E [math]\\mathrm {=\\frac{20 !}{(20-2) ! 2 !} \\times 2 !\\left[\\because{ }^{n} C_{r}=\\frac{n !}{(n-r) ! r !}\\right]}[/math]\u003Cbr\u003E [math]=\\frac{20 \\times 19 \\times \\not{18 !} \\times \\not{2 !}}{\\not{18 !}\\not {2 !}}=380[/math]\u003Cbr\u003E উপায়",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 63,
+          "year": "২৩",
+          "pivot": {
+            "question_bank_id": 360349,
+            "year_id": 63
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360349,
+            "tag_id": 3203,
+            "year": "২৩",
+            "created_at": "2025-08-19T03:52:06.000000Z",
+            "updated_at": "2025-08-19T03:52:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360346,
+      "value": {
+        "options": {
+          "A": "[math]\\mathrm {2n-1}[/math]",
+          "B": "[math]\\mathrm {n+1}[/math]",
+          "C": "[math]\\mathrm n[/math]",
+          "D": "[math]\\mathrm {n-1}[/math]"
+        },
+        "question": "[math]\\mathrm {{ }^{n} C_{r}={ }^{2 n} C_{r+2}}[/math] হলে [math]\\mathrm r[/math]-এর মান কত?",
+        "solution": "[math]\\text { Given, } \\mathrm {{ } ^{2 n} C_{r}={ }^{2 n} C_{r}+2}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow \\mathrm {\\frac{ \\not {(2 n) !}}{r !(2 n-r) !}=\\frac{\\not{(2 n) !}}{(r+2) !(2 n-r-2) !}} \\\\\\Rightarrow \\mathrm {\\frac{1}{\\not{r!}(2 n-r)(2 n-r-1)}=\\frac{1}{(r+2)(r+1) \\not{r!}}} \\\\\\Rightarrow \\mathrm {(2 n-r)(2 n-r-1)=(r+2)(r+1)} \\\\\\Rightarrow \\mathrm {(2 n-r)^{2}-1(2 n-r)=r^{2}+r+2 r+2 } \\\\\\Rightarrow \\mathrm {4 n^{2}-4 n r+ \\not{r^{2}}-2 n+r={\\not r^{2}}+3 r+2 }\\\\\\Rightarrow \\mathrm {4 n^{2}-2 n-=4 n r+3 r-r }\\\\\\Rightarrow \\mathrm {4 n^{2}-4 n+2 n-2=4 n r+2 r} \\\\\\Rightarrow \\mathrm {4 n(n-1)+2(n-1)=r(4 n+2) }\\\\\\Rightarrow \\mathrm {(n-1) \\not {(4 n+2)}=r \\not {(4 n+2)} }\\\\\\therefore \\mathrm {r=n-1}\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 47,
+          "year": "2007",
+          "pivot": {
+            "question_bank_id": 360346,
+            "year_id": 47
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360346,
+            "tag_id": 3201,
+            "year": "2007",
+            "created_at": "2025-08-19T03:52:06.000000Z",
+            "updated_at": "2025-08-19T03:52:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360345,
+      "value": {
+        "options": {
+          "ক": "361",
+          "খ": "300",
+          "গ": "120",
+          "ঘ": "360"
+        },
+        "question": "স্বরবর্ণগুলোর স্থান পরিবর্তন না করে [math]\\mathrm {'DISCOURAGE'}[/math] শব্দটির অক্ষরগুলো কত প্রকারে সাজানো সম্ভব?",
+        "solution": "[math]\\mathrm {DISCOURAGE}[/math]\u003Cbr\u003E শব্দটিতে স্বরবর্ণ আছে [math]=5[/math]\u003Cbr\u003Eটিব্যঞ্জন বর্ণ আছে [math]= 5[/math]\u003Cbr\u003Eটিস্বরবর্ণগুলোকে স্থির রেখে শব্দ সংখ্যা [math]= 5![/math]\u003Cbr\u003E [math]= 5 \\times 4 \\times 3 \\times 2[/math]\u003Cbr\u003E [math]= 120[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 50,
+          "year": "2008",
+          "pivot": {
+            "question_bank_id": 360345,
+            "year_id": 50
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3202,
+          "full_name": "শিক্ষক নিয়োগ '2021",
+          "short_name": "শিক্ষক নিয়োগ",
+          "slug": "sikshk-niyog",
+          "pivot": {
+            "question_bank_id": 360345,
+            "tag_id": 3202,
+            "year": "2008",
+            "created_at": "2025-08-19T03:52:06.000000Z",
+            "updated_at": "2025-08-19T03:52:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360344,
+      "value": {
+        "options": {
+          "ক": "20",
+          "খ": "120",
+          "গ": "35",
+          "ঘ": "140"
+        },
+        "question": "একটি দশভুজের কৌণিক বিন্দুগুলো সংযোজন করে কতকগুলো ত্রিভুজ পাওয়া যাবে?",
+        "solution": "দশভুজে বাহু আছে [math]10[/math]\u003Cbr\u003Eটিত্রিভুজে বাহু আছে [math]3[/math]\u003Cbr\u003Eটি[math]\\therefore[/math]\u003Cbr\u003E ত্রিভুজ গঠন করা যাবে [math]={ }^{10} \\mathrm{C}_{3}[/math]\u003Cbr\u003E টি[math]\\begin{array}{l}=\\frac{10 !}{3 !(10-3) !}=\\frac{10 !}{3 ! 7 !} \\\\=\\frac{10 \\times 9 \\times 8 \\times 7 !}{6 \\times 7 !}=120\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 43,
+          "year": "2009",
+          "pivot": {
+            "question_bank_id": 360344,
+            "year_id": 43
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3202,
+          "full_name": "শিক্ষক নিয়োগ '2021",
+          "short_name": "শিক্ষক নিয়োগ",
+          "slug": "sikshk-niyog",
+          "pivot": {
+            "question_bank_id": 360344,
+            "tag_id": 3202,
+            "year": "2009",
+            "created_at": "2025-08-19T03:52:06.000000Z",
+            "updated_at": "2025-08-19T03:52:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360343,
+      "value": {
+        "options": {
+          "ক": "4989600",
+          "খ": "4960089",
+          "গ": "6004989",
+          "ঘ": "8949600"
+        },
+        "question": "[math]\\mathrm {Mathematics}[/math] শব্দটির অক্ষরগুলো কত প্রকারে সাজানো যায়?",
+        "solution": "[math]\\mathrm {MATHEMATICS}[/math]\u003Cbr\u003E শব্দটিতে[math]\\mathsf M[/math]\u003Cbr\u003E আছে [math]2[/math]\u003Cbr\u003E টা, [math]\\mathsf A[/math]\u003Cbr\u003E আছে [math]2[/math]\u003Cbr\u003E টা, [math]\\mathsf T[/math]\u003Cbr\u003E আছে [math]2[/math]\u003Cbr\u003E টা, [math]\\mathsf H[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা, [math]\\mathsf E[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা, [math]\\mathsf I[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা, [math]\\mathsf C[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা, [math]\\mathsf S[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা ।[math]\\mathrm {MATHEMATICS }[/math]\u003Cbr\u003E শব্দটিকে বিন্যাস করা সম্ভব [math]= \\frac{11!}{2! 2! 2!}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 43,
+          "year": "2009",
+          "pivot": {
+            "question_bank_id": 360343,
+            "year_id": 43
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3202,
+          "full_name": "শিক্ষক নিয়োগ '2021",
+          "short_name": "শিক্ষক নিয়োগ",
+          "slug": "sikshk-niyog",
+          "pivot": {
+            "question_bank_id": 360343,
+            "tag_id": 3202,
+            "year": "2009",
+            "created_at": "2025-08-19T03:52:06.000000Z",
+            "updated_at": "2025-08-19T03:52:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360342,
+      "value": {
+        "options": {
+          "ক": "728",
+          "খ": "286",
+          "গ": "364",
+          "ঘ": "1001"
+        },
+        "question": "14 জন খেলোয়াড়ের মধ্য থেকে নির্দিষ্ট একজন অধিনায়কসহ 11 জনের একটি ক্রিকেট দল কতভাবে বাছাই করা যাবে?",
+        "solution": "[math]14[/math]\u003Cbr\u003E জন খেলোয়াড়ের মধ্যে একজন অধিনায়ক সবসময় থাকবেন, অধিনায়ক যেহেতু নির্দিষ্ট তাই, [math]10[/math]\u003Cbr\u003E জন খেলোয়াড় বাছাই করতে হবে। অধিনায়ক বাদে খেলোয়াড় সংখ্যা [math]= (14 – 1)[/math]\u003Cbr\u003E জন [math]= 13[/math]\u003Cbr\u003E জন[math]13[/math]\u003Cbr\u003E জন খেলোয়াড় থেকে [math]10[/math]\u003Cbr\u003E জন খেলোয়াড় বাছাই করা যাবে [math]={ }^{13} \\mathrm{C}_{10}=\\frac{13 !}{10 !(13-10) !}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{13 !}{10 ! 3 !}=\\frac{13 \\times 12 \\times 11 \\times 10 !}{10 ! 3 !} \\\\=\\frac{13 \\times 12 \\times 11}{6}=286\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 48,
+          "year": "৩৫",
+          "pivot": {
+            "question_bank_id": 360342,
+            "year_id": 48
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360342,
+            "tag_id": 3203,
+            "year": "৩৫",
+            "created_at": "2025-08-19T03:52:06.000000Z",
+            "updated_at": "2025-08-19T03:52:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360341,
+      "value": {
+        "options": {
+          "ক": "12টি",
+          "খ": "8টি",
+          "গ": "18টি",
+          "ঘ": "16টি"
+        },
+        "question": "[math]5, 9, 1, 4[/math] অংকগুলি দ্বারা [math]5000[/math] এর চেয়ে বড় কতগুলো সংখ্যা তৈরি করা যায়?",
+        "solution": "অংকগুলো হচ্ছে [math]5, 9, 1, 4[/math]\u003Cbr\u003Eমোট অংক [math]= 4[/math]\u003Cbr\u003E টি ।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fjobmath347_1755575526_NoXFudFI.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, [math]5000[/math]\u003Cbr\u003E এর চেয়ে বড় সংখ্যা গঠন করতে হবে। তাহলে প্রথম ঘরে [math]5, 9[/math]\u003Cbr\u003E এর মধ্য হতে [math]1[/math]\u003Cbr\u003E টি বসাতে হবে বাকি গুলো হতে বাকি তিনঘরে বসাতে হবেএখন, প্রথম ঘর 5 বা 9 বসানো যায় [math]= 2 \\mathrm P_1 \" = 2[/math]\u003Cbr\u003E উপায়ে বাকি তিন ঘরে বাকি তিনটি অংক (প্রথম ঘরে [math]5[/math]\u003Cbr\u003E বা [math]9[/math]\u003Cbr\u003E এর যেকোন [math]1[/math]\u003Cbr\u003E টি বসালে বাকি [math]5, 9, 1, 4[/math]\u003Cbr\u003E এর মধ্যে বাকি থাকবে তিনটা অংক )বসানোর উপায় [math]= 3 \\mathrm P_3 = 3! = 6[/math]\u003Cbr\u003E উপায়ে[math]\\therefore[/math]\u003Cbr\u003E মোট উপায় [math]= 2 × 6 = 12[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 41,
+          "year": "2011",
+          "pivot": {
+            "question_bank_id": 360341,
+            "year_id": 41
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360341,
+            "tag_id": 3201,
+            "year": "2011",
+            "created_at": "2025-08-19T03:52:06.000000Z",
+            "updated_at": "2025-08-19T03:52:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360348,
+      "value": {
+        "options": {
+          "A": "[math]\\mathrm {\\frac{\\lfloor {n}}{ \\lfloor {(n-r)}}}[/math]",
+          "B": "[math]\\mathrm {\\frac{\\lfloor {n}}{ \\lfloor {r} {~} \\lfloor {(n-r)}}}[/math]",
+          "C": "[math]\\mathrm {\\frac{\\lfloor {n}}{ \\lfloor {r}}}[/math]",
+          "D": "[math]\\mathrm {\\frac{\\lfloor {(n-r)}}{ \\lfloor {r}}}[/math]"
+        },
+        "question": "[math]{ }^{n} \\mathrm{P}_{\\mathbf{r}}=[/math] কত?",
+        "solution": "[math]\\mathrm {\\frac{\\lfloor {n}}{ \\lfloor {(n-r)}}}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 54,
+          "year": "2006",
+          "pivot": {
+            "question_bank_id": 360348,
+            "year_id": 54
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360348,
+            "tag_id": 3201,
+            "year": "2006",
+            "created_at": "2025-08-19T03:52:06.000000Z",
+            "updated_at": "2025-08-19T03:52:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360347,
+      "value": {
+        "options": {
+          "A": "[math]\\mathrm { \\frac{\\lfloor {n}}{\\lfloor(n-r)}}[/math]",
+          "B": "[math]\\mathrm { \\frac{\\lfloor {n}} r}[/math]",
+          "C": "[math]\\mathrm { \\frac{\\lfloor {n}}{\\lfloor {r}}}[/math]",
+          "D": "[math]\\mathrm { \\frac{\\lfloor {(n-r)}}{\\lfloor{r}}}[/math]"
+        },
+        "question": "[math]\\mathrm {\\left\\lfloor\\mathbf{r} \\cdot{ }^{n} \\mathbf{C}_{\\mathbf{r}}=?\\right.}[/math]",
+        "solution": "[math]\\mathrm { \\frac{\\lfloor {n}}{\\lfloor(n-r)}}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 54,
+          "year": "2006",
+          "pivot": {
+            "question_bank_id": 360347,
+            "year_id": 54
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360347,
+            "tag_id": 3201,
+            "year": "2006",
+            "created_at": "2025-08-19T03:52:06.000000Z",
+            "updated_at": "2025-08-19T03:52:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360340,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "3",
+          "গ": "4",
+          "ঘ": "5"
+        },
+        "question": "[math]\\mathrm {CALCUTTA}[/math] শব্দটির বর্ণগুলোকে একত্রে নিয়ে বিন্যাস সংখ্যা [math]\\mathrm {AMERICA}[/math] শব্দটির বর্ণগুলো একত্রে নিয়ে বিন্যাস সংখ্যার কত গুণ?",
+        "solution": "[math]\\mathrm {'CALCUTTA'}[/math]\u003Cbr\u003E শব্দে [math]\\mathrm C[/math]\u003Cbr\u003E আছে [math]2[/math]\u003Cbr\u003E টা, [math]\\mathrm A[/math]\u003Cbr\u003E আছে [math]2[/math]\u003Cbr\u003E টা, [math]\\mathrm L[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা, [math]\\mathrm U[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা, [math]\\mathrm T[/math]\u003Cbr\u003E আছে [math]2[/math]\u003Cbr\u003E টা [math]\\mathrm {CALCUTTA }[/math]\u003Cbr\u003E শব্দে মোট [math]8[/math]\u003Cbr\u003Eটি অক্ষ আছে।[math]\\mathrm {CALCUTTA}[/math]\u003Cbr\u003E শব্দগুলোকে নিয়ে বিন্যাস [math]=\\frac{8!}{2!2!2!}[/math]\u003Cbr\u003E [math]\\mathrm {AMERICA}[/math]\u003Cbr\u003E শব্দটিতে [math]\\mathrm A[/math]\u003Cbr\u003E আছে [math]2[/math]\u003Cbr\u003E টা, [math]\\mathrm M[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা, [math]\\mathrm E[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা, [math]\\mathrm R[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা, [math]\\mathrm I[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা, [math]\\mathrm C[/math]\u003Cbr\u003E আছে [math]1[/math]\u003Cbr\u003E টা [math]\\mathrm {AMERICA}[/math]\u003Cbr\u003E শব্দটিতে মোট শব্দ [math]7[/math]\u003Cbr\u003E টি ।[math]\\mathrm {AMERICA}[/math]\u003Cbr\u003E শব্দগুলোকে নিয়ে বিন্যাস [math]= \\frac{7 !}{2!}[/math]\u003Cbr\u003E [math]\\mathrm {CALCUTTA}[/math]\u003Cbr\u003E এর বিন্যাস সংখ্যা : [math]\\mathrm {AMERICA}[/math]\u003Cbr\u003E এরবিন্যাস সংখ্যা = [math]=\\frac{\\frac{8 !}{2 ! 2 ! 2 !}}{\\frac{7 !}{2 !}}=\\frac{8 ! \\times 2 !}{7 ! \\times 2 ! \\times 2 ! \\times 2 !}[/math]\u003Cbr\u003E [math]=\\frac{8 \\times 7 ! \\times 2 !}{7 ! \\times 2 ! \\times 2 ! \\times 2 !}=\\frac{8}{2 ! \\times 2 !}=\\frac{8}{4}=2[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 48,
+          "year": "৩৫",
+          "pivot": {
+            "question_bank_id": 360340,
+            "year_id": 48
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360340,
+            "tag_id": 3203,
+            "year": "৩৫",
+            "created_at": "2025-08-19T03:52:05.000000Z",
+            "updated_at": "2025-08-19T03:52:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360339,
+      "value": {
+        "options": {
+          "A": "1",
+          "B": "6",
+          "C": "2",
+          "D": "8"
+        },
+        "question": "[math]\\mathrm {{ }^{n} P_{4}=12{ ~}^{n} P_{2}}[/math] হলে, [math]\\mathrm n =[/math] কত?",
+        "solution": "[math]\\mathrm {{ }^{n} P_{4}=12 { ~}^{n}P_{2}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow \\mathrm {\\frac{n !}{(n-4) !}=12 \\times \\frac{n !}{(n-2) !}} \\\\\\Rightarrow \\mathrm {12 \\times(n-4) !=(n-2) !}\\end{array}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow \\mathrm {12 \\times(n-4) !=(n-2)(n-3)(n-4) }\\\\\\Rightarrow \\mathrm {12=(n-2)(n-3) }\\\\\\Rightarrow \\mathrm {n^{2}-3 n-2 n+6=12 }\\\\\\Rightarrow \\mathrm {n^{2}-5 n-6=0} \\\\\\Rightarrow \\mathrm {n^{2}-6 n+n-6=0} \\\\\\Rightarrow \\mathrm {n(n-6)+1(n-6)=0 }\\\\\\Rightarrow \\mathrm {(n-6)(n+1)=0 }\\end{array}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm n-6=0 {~}[/math]\u003Cbr\u003E বা, [math]\\mathrm n+1=0[/math]\u003Cbr\u003E [math]\\therefore \\mathrm n =0 \\qquad[/math]\u003Cbr\u003E বা, [math]\\mathrm n = -1[/math]\u003Cbr\u003E কিন্তু [math]\\mathrm n[/math]\u003Cbr\u003E ঋণাত্বক হতে পারে না।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 41,
+          "year": "2011",
+          "pivot": {
+            "question_bank_id": 360339,
+            "year_id": 41
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3202,
+          "full_name": "শিক্ষক নিয়োগ '2021",
+          "short_name": "শিক্ষক নিয়োগ",
+          "slug": "sikshk-niyog",
+          "pivot": {
+            "question_bank_id": 360339,
+            "tag_id": 3202,
+            "year": "2011",
+            "created_at": "2025-08-19T03:52:05.000000Z",
+            "updated_at": "2025-08-19T03:52:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360338,
+      "value": {
+        "options": {
+          "ক": "252",
+          "খ": "792",
+          "গ": "224",
+          "ঘ": "120"
+        },
+        "question": "12 টি পুস্তক থেকে 5 টি কত প্রকারে বাছাই করা যায় যেখানে 2 টি পুস্তক সর্বদাই অন্তর্ভুক্ত থাকবে?",
+        "solution": "[math]12[/math]\u003Cbr\u003E টি পুস্তক হতে [math]5[/math]\u003Cbr\u003E টি পুস্তক বাছাই করতে হবে যেখানে [math]2[/math]\u003Cbr\u003E টি পুস্তক সর্বদাই থাকবে ।[math]2[/math]\u003Cbr\u003E টি বাদে পুস্তক সংখ্যা [math]= (12 – 2)[/math]\u003Cbr\u003E টি [math]= 10[/math]\u003Cbr\u003E টি[math]5[/math]\u003Cbr\u003E টি বাছাই হতে [math]2[/math]\u003Cbr\u003E টি পুস্তক বাদে পুস্তক [math]= (5–2)[/math]\u003Cbr\u003E ” [math]= 3[/math]\u003Cbr\u003E টিবাছাই সংখ্যা [math]={ }^{10} \\mathrm{C}_{3}=120[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 71,
+          "year": "৩৬",
+          "pivot": {
+            "question_bank_id": 360338,
+            "year_id": 71
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360338,
+            "tag_id": 3203,
+            "year": "৩৬",
+            "created_at": "2025-08-19T03:52:05.000000Z",
+            "updated_at": "2025-08-19T03:52:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360337,
+      "value": {
+        "options": {
+          "ক": "170",
+          "খ": "182",
+          "গ": "190",
+          "ঘ": "192"
+        },
+        "question": "10 টি জিনিসের মধ্যে 2 টি এক জাতীয় এবং বাকিগুলো ভিন্ন ভিন্ন জিনিস। ঐ জিনিসগুলো থেকে প্রতিবারে 5 টি নিয়ে কত প্রকারে বাছাই করা যায়?",
+        "solution": "[math]10[/math]\u003Cbr\u003E টি জিনিসের মধ্যে [math]2[/math]\u003Cbr\u003E টি একজাতীয়।[math]2[/math]\u003Cbr\u003E টি একজাতীয় হতে [math]2[/math]\u003Cbr\u003E টি নিয়ে ও বাকী [math]৪[/math]\u003Cbr\u003E টি হতে [math]3[/math]\u003Cbr\u003E টি নিয়ে বাছাই সংখ্যা [math]={ }^{8} \\mathrm{C}_{3}=56[/math]\u003Cbr\u003E [math]9[/math]\u003Cbr\u003E টি ভিন্ন ভিন্ন জিনিস ( [math]2[/math]\u003Cbr\u003E টা একজাতীয় [math]1[/math]\u003Cbr\u003E টা ধরে) হতে [math]5[/math]\u003Cbr\u003E টি নিয়ে বাছাই সংখ্যা [math]={ }^{9} \\mathrm{C}_{5}=126[/math]\u003Cbr\u003Eমোট বাছাই সংখ্যা [math]= 126 + 56 = 182[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 55,
+          "year": "৩৭",
+          "pivot": {
+            "question_bank_id": 360337,
+            "year_id": 55
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360337,
+            "tag_id": 3203,
+            "year": "৩৭",
+            "created_at": "2025-08-19T03:52:05.000000Z",
+            "updated_at": "2025-08-19T03:52:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360336,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\lfloor {7}}{\\lfloor {2}}[/math]",
+          "খ": "[math]\\frac{\\lfloor {7}}{\\lfloor {5}}[/math]",
+          "গ": "[math]\\frac{\\lfloor {5}}{\\lfloor {2}}[/math]",
+          "ঘ": "[math]\\frac{\\lfloor {7}}{\\lfloor {2} {~}{\\lfloor {5}}}[/math]"
+        },
+        "question": "[math]\\mathsf { FREEDOM}[/math] শব্দটি সবগুলো বর্ণ একত্রে নিয়ে কত প্রকারে সাজানো যায়?",
+        "solution": "[math]\\frac{\\lfloor {7}}{\\lfloor {2}}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 44,
+          "year": "2013",
+          "pivot": {
+            "question_bank_id": 360336,
+            "year_id": 44
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360336,
+            "tag_id": 3201,
+            "year": "2013",
+            "created_at": "2025-08-19T03:52:05.000000Z",
+            "updated_at": "2025-08-19T03:52:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360335,
+      "value": {
+        "options": {
+          "ক": "210",
+          "খ": "304",
+          "গ": "84",
+          "ঘ": "120"
+        },
+        "question": "4 জন মহিলা ও 6 জন পুরুষের মধ্য থেকে 4 সদস্যবিশিষ্ট একটি উপ-কমিটি গঠন করতে হবে যাতে 1 জন নির্দিষ্ট পুরুষ সর্বদাই উপস্থিত থাকেন। কত প্রকারে ঐ কমিটি গঠন করা যেতে পারে?",
+        "solution": "[math]4[/math]\u003Cbr\u003E জন মহিলা ও [math]6[/math]\u003Cbr\u003E জন পুরুষের মধ্যে [math]4[/math]\u003Cbr\u003E সদস্য বিশিষ্ট উপকমিটি গঠন করতে হবে যেখানে [math]1[/math]\u003Cbr\u003E জন পুরুষ সর্বদা থাকবে। যেহেতু [math]1[/math]\u003Cbr\u003E জন পুরুষ সর্বদা থাকবে হবে।সেহেতু, পুরুষের সংখ্যা [math](6 – 1) = 5[/math]\u003Cbr\u003E জন।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fjobmath348_1755575525_2XH8yhfC.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eবিকল্প পদ্ধতি: [math]1[/math]\u003Cbr\u003E জন পুরুষ যেহেতু সর্বদা থাকবে পুরুষের সংখ্যা [math](6 – 1)[/math]\u003Cbr\u003E বা [math]5[/math]\u003Cbr\u003E জন[math]5[/math]\u003Cbr\u003E জন পুরুষও [math]4[/math]\u003Cbr\u003E জন মহিলা হতে [math]3[/math]\u003Cbr\u003E জন নিয়ে উপকমিটির সংখ্যা [math]\\mathrm {={ }^{5+4} \\mathrm{C}_{3}={ }^{9} \\mathrm{C}_{3}=84}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 52,
+          "year": "৩৮",
+          "pivot": {
+            "question_bank_id": 360335,
+            "year_id": 52
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360335,
+            "tag_id": 3203,
+            "year": "৩৮",
+            "created_at": "2025-08-19T03:52:05.000000Z",
+            "updated_at": "2025-08-19T03:52:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360334,
+      "value": {
+        "options": {
+          "ক": "2টি",
+          "খ": "5টি",
+          "গ": "6টি",
+          "ঘ": "7টি"
+        },
+        "question": "2, 3 এবং 4 দ্বারা তিন অংকের কতটি বিজোড় সংখ্যা গঠন করা যায়?",
+        "solution": "2, 3, 4 দ্বারা তিন অংকের বিজোড় সংখ্যা গঠন করতে হবে।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fjobmath346_1755575525_E9N1D22D.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eতিন অংকের বিজোড় সংখ্যার শেষে অবশ্যই [math]3[/math]\u003Cbr\u003E থাকবে প্রথম দুই ঘরে [math]2[/math]\u003Cbr\u003E বা [math]4[/math]\u003Cbr\u003E বসবে[math]\\therefore[/math]\u003Cbr\u003E মোট উপায় সংখ্যাপ্রথম দুই ঘরে [math]2[/math]\u003Cbr\u003E বা [math]4[/math]\u003Cbr\u003E এর যে কোনটি বসানোর উপায়[math]= 2! = 2[/math]\u003Cbr\u003Eবিকল্প সমাধান : [math]2, 3, 4[/math]\u003Cbr\u003E দ্বারা গঠিত তিন অংকের বিজোড় সংখ্যা [math]423[/math]\u003Cbr\u003E এবং [math]243[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E মোট সংখ্যা [math]= 2[/math]\u003Cbr\u003Eটি",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360334,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 44,
+          "year": "2013",
+          "pivot": {
+            "question_bank_id": 360334,
+            "year_id": 44
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360334,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:52:05.000000Z",
+            "updated_at": "2025-08-19T03:52:05.000000Z"
+          }
+        },
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360334,
+            "tag_id": 3201,
+            "year": "2013",
+            "created_at": "2025-08-19T03:52:05.000000Z",
+            "updated_at": "2025-08-19T03:52:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360318,
+      "value": {
+        "options": {
+          "A": "35",
+          "B": "12",
+          "C": "7",
+          "D": "5"
+        },
+        "question": "A bicycle company makes five styles of bikes in seven different colors. How many different bicycles can the company make when considering both style and color?",
+        "solution": "কোম্পানির সাইকেলের স্টাইল [math]= 5[/math]\u003Cbr\u003Eটিসাইকেলের রং [math]= 7[/math]\u003Cbr\u003Eটি[math]\\therefore[/math]\u003Cbr\u003E মোট সাইকেলের ধরন হতে পারে [math]= 5 × 7 = 35[/math]\u003Cbr\u003E ধরনের।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 360318,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360318,
+            "tag_id": 3201,
+            "year": "2020",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360314,
+      "value": {
+        "options": {
+          "ক": "2টি",
+          "খ": "5টি",
+          "গ": "6টি",
+          "ঘ": "7টি"
+        },
+        "question": "2, 3 এবং 4 দ্বারা তিন অংকের কতটি বিজোড় সংখ্যা গঠন করা যায়?",
+        "solution": "2, 3, 4 দ্বারা তিন অংকের বিজোড় সংখ্যা গঠন করতে হবে।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fjobmath346_1755575524_S7ldMBhR.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eতিন অংকের বিজোড় সংখ্যার শেষে অবশ্যই [math]3[/math]\u003Cbr\u003E থাকবে প্রথম দুই ঘরে [math]2[/math]\u003Cbr\u003E বা [math]4[/math]\u003Cbr\u003E বসবে[math]\\therefore[/math]\u003Cbr\u003E মোট উপায় সংখ্যাপ্রথম দুই ঘরে [math]2[/math]\u003Cbr\u003E বা [math]4[/math]\u003Cbr\u003E এর যে কোনটি বসানোর উপায়[math]= 2! = 2[/math]\u003Cbr\u003Eবিকল্প সমাধান : [math]2, 3, 4[/math]\u003Cbr\u003E দ্বারা গঠিত তিন অংকের বিজোড় সংখ্যা [math]423[/math]\u003Cbr\u003E এবং [math]243[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E মোট সংখ্যা [math]= 2[/math]\u003Cbr\u003Eটি",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360314,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 44,
+          "year": "2013",
+          "pivot": {
+            "question_bank_id": 360314,
+            "year_id": 44
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360314,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        },
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360314,
+            "tag_id": 3201,
+            "year": "2013",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360315,
+      "value": {
+        "options": {
+          "ক": "120",
+          "খ": "220",
+          "গ": "180",
+          "ঘ": "210"
+        },
+        "question": "12টি বাহুবিশিষ্ট একটি সমতল ক্ষেত্রের কৌণিক বিন্দুগুলোর সংযোগ রেখা দ্বারা কতগুলো ত্রিভুজ গঠন করা যায়?",
+        "solution": "কোনো তিনটি বিন্দু যদি সমরেখ না হয়,তবে, ত্রিভুজ সংখ্যা [math]=12 C_{3}=\\frac{12 !}{9 ! 3 !}=\\frac{12 \\times 11 \\times 10}{6}=220[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360315,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 360315,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360315,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        },
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360315,
+            "tag_id": 3201,
+            "year": "2019",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360316,
+      "value": {
+        "options": {
+          "ক": "3060",
+          "খ": "5060",
+          "গ": "73",
+          "ঘ": "1260"
+        },
+        "question": "10 জন বালক ও ৪ জন বালিকা থেকে 2 জন বালক ও 2 জন বালিকা কত উপায়ে বেছে নেওয়া যায়?",
+        "solution": "[math]10[/math]\u003Cbr\u003E জন বালক থেকে [math]2[/math]\u003Cbr\u003E জন বালককে [math]{ }^{10} \\mathrm{C}_{2}[/math]\u003Cbr\u003E এবং [math]8[/math]\u003Cbr\u003E জন বালিকা থেকে [math]2[/math]\u003Cbr\u003E জন বালিকাকে [math]{ }^{8} \\mathrm{C}_{2}[/math]\u003Cbr\u003E উপায়ে বাছাই করা যায় ।[math]\\therefore[/math]\u003Cbr\u003E মোট বাছাই করার উপায় [math]={ }^{10} \\mathrm{C}_{2} \\times{ }^{8} \\mathrm{C}_{2}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{10 !}{(10-2) ! 2 !} \\times \\frac{8 !}{(8-2) ! 2 !} \\\\=\\frac{10.9 .8 !}{8 ! 2 !} \\times \\frac{8.7 .6 !}{6 ! .2 !} \\\\=\\frac{10.9}{2} \\times \\frac{8.7}{2} \\\\=5 \\times 9 \\times 4 \\times 7 \\\\=1260\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360316,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360316,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360333,
+      "value": {
+        "options": {
+          "A": "720",
+          "B": "120",
+          "C": "60",
+          "D": "180"
+        },
+        "question": "In how many ways can the letters of the word [math]\\text{'APPLE'}[/math] be arranged ?",
+        "solution": "60",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 53,
+          "year": "2014",
+          "pivot": {
+            "question_bank_id": 360333,
+            "year_id": 53
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360333,
+            "tag_id": 3201,
+            "year": "2014",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360332,
+      "value": {
+        "options": {
+          "ক": "3 উপায়ে",
+          "খ": "4 উপায়ে",
+          "গ": "5 উপায়ে",
+          "ঘ": "6 উপায়ে"
+        },
+        "question": "[math]\\mathrm {A, B, C}[/math] বর্ণের 3টি করে বর্ণ নিয়ে কত প্রকারে বিন্যাস করা যায়?",
+        "solution": "6 উপায়ে",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 53,
+          "year": "2014",
+          "pivot": {
+            "question_bank_id": 360332,
+            "year_id": 53
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360332,
+            "tag_id": 3201,
+            "year": "2014",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360331,
+      "value": {
+        "options": {
+          "A": "12",
+          "B": "14",
+          "C": "16",
+          "D": "18"
+        },
+        "question": "[math]\\mathrm {{ }^{n} C_{12}={ }^{n} C_{6}}[/math] হলে [math]\\mathrm n[/math] এর মান কত?",
+        "solution": "[math]\\mathrm{n}=12+6=18[/math]\u003Cbr\u003E [math]\\mathrm {\\left[{ }^{n} c_{x}={ }^{n} c_{y}\\right.}[/math]\u003Cbr\u003E হলে, [math]\\mathrm {x=y}[/math]\u003Cbr\u003E অথবা, [math]\\mathrm {n = x+y}][/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 59,
+          "year": "৩৯",
+          "pivot": {
+            "question_bank_id": 360331,
+            "year_id": 59
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360331,
+            "tag_id": 3203,
+            "year": "৩৯",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360330,
+      "value": {
+        "options": {
+          "ক": "10",
+          "খ": "20",
+          "গ": "60",
+          "ঘ": "120"
+        },
+        "question": "6 জন খেলোয়াড়কে সমান সংখ্যক দুইটি দলে কত ভাবে বিভক্ত করা যায়?",
+        "solution": "[math]6[/math]\u003Cbr\u003E জন খেলোয়াড়কে সমান দুইভাগে বিভক্ত করতে হবে। তারমানে একটি দলে [math]3[/math]\u003Cbr\u003E জন ও অপর দলেও [math]3[/math]\u003Cbr\u003E জন ।[math]6[/math]\u003Cbr\u003E জনকে দুইভাগে বিভক্ত করা যায় [math]=\\frac{{ }^{6} \\mathrm{c}_{3} \\times{ }^{3} \\mathrm{c}_{3}}{2}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{\\frac{6 !}{3 ! 3 !} \\times 1}{2} \\\\=\\frac{\\frac{6 \\times 5 \\times 4 \\times 3 !}{3 ! 3 !}}{2} \\\\=\\frac{\\frac{6 \\times 5 \\times 4}{3 !}}{2}=\\frac{20}{2}=10\\end{array}[/math]\u003Cbr\u003Eলক্ষ্যনীয় : [math]\\mathrm {ABCD}[/math]\u003Cbr\u003E এই চারটি হতে দুইটি সমান ভাগে ভাগ করতে হবে[math]\\qquad[/math]\u003Cbr\u003E ১ম টিম \t\t [math]\\hspace{2cm}[/math]\u003Cbr\u003E\t২য় টিম[math]\\qquad \\quad \\mathrm {AB \t\t\\hspace{2cm} \\qquad\tCD}[/math]\u003Cbr\u003E [math]\\qquad \\quad \\mathrm {AC \t\t\\hspace{2cm} \\qquad\tBD}[/math]\u003Cbr\u003E [math]\\qquad \\quad \\mathrm {AD \t\t\\hspace{2cm} \\qquad BC}[/math]\u003Cbr\u003Eছয়টি উপায় আছে কিন্তু, [math]\\mathrm {AB}[/math]\u003Cbr\u003E যদি আমরা নিই তবে [math]\\text{Automatically} {~} \\mathrm { CD} {~} \\text {Selected}[/math]\u003Cbr\u003E হবে। ঠিক তেমনি [math]\\mathrm {AC}[/math]\u003Cbr\u003E নিলে [math]\\mathrm {BD}[/math]\u003Cbr\u003E ও [math]\\mathrm {AD}[/math]\u003Cbr\u003E নিলে [math]\\mathrm {BC}[/math]\u003Cbr\u003E [math]\\text {Selected }[/math]\u003Cbr\u003E হবে। অর্থাৎ আসলে মূলত এখানে উপায় হলো [math]3[/math]\u003Cbr\u003E টি । তাই, [math]2[/math]\u003Cbr\u003E দ্বারা ভাগ হবে ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 58,
+          "year": "৪০",
+          "pivot": {
+            "question_bank_id": 360330,
+            "year_id": 58
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360330,
+            "tag_id": 3203,
+            "year": "৪০",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360329,
+      "value": {
+        "options": {
+          "ক": "10",
+          "খ": "15",
+          "গ": "25",
+          "ঘ": "30"
+        },
+        "question": "5 জন পুরুষ ও 4 জন মহিলার একটি দল থেকে একজন পুরুষ ও দুইজন মহিলা নিয়ে কত প্রকারে একটি কমিটি গঠন করা যাবে?",
+        "solution": "[math]5[/math]\u003Cbr\u003E জন পুরুষ থেকে [math]1[/math]\u003Cbr\u003E জন বাছাই করা যায় [math]\\mathrm {=5 c_{1}}[/math]\u003Cbr\u003E উপায়ে[math]= 5[/math]\u003Cbr\u003E উপায়ে[math]4[/math]\u003Cbr\u003E জন মহিলা থেকে [math]2[/math]\u003Cbr\u003E জন বাছাই করা যায় [math]=4 \\mathrm c_{2}[/math]\u003Cbr\u003E উপায়ে[math]=\\frac{4.3}{2 !}[/math]\u003Cbr\u003E [math]= 6[/math]\u003Cbr\u003E উপায়ে[math]\\therefore[/math]\u003Cbr\u003E মোট কমিটি গঠন করার উপায় [math]= 5 × 6 = 30[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 57,
+          "year": "৪১",
+          "pivot": {
+            "question_bank_id": 360329,
+            "year_id": 57
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360329,
+            "tag_id": 3203,
+            "year": "৪১",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360328,
+      "value": {
+        "options": {
+          "ক": "9",
+          "খ": "6",
+          "গ": "5",
+          "ঘ": "3"
+        },
+        "question": "3 জন পুরুষ ও 3 জন মহিলা হতে কত ভাবে 2 সদস্য বিশিষ্ট কমিটি গঠন করা যাবে যেখানে ন্যূনতম পক্ষে 1 জন পুরুষ ও 1 জন মহিলা থাকবে?",
+        "solution": "9",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 360328,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360328,
+            "tag_id": 3201,
+            "year": "2018",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360327,
+      "value": {
+        "options": {
+          "ক": "2 বার",
+          "খ": "3 বার",
+          "গ": "6 বার",
+          "ঘ": "9 বার"
+        },
+        "question": "একটি দাবা খেলার প্রতিযোগিতায় 3 জন প্রতিযোগির প্রত্যেকে অন্য একজন খেলোয়াড়ের সাথে একবার মাত্র খেলবে। সর্বমোট কতগুলো খেলা অনুষ্ঠিত হবে?",
+        "solution": "3 বার",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 360327,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360327,
+            "tag_id": 3201,
+            "year": "2018",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360326,
+      "value": {
+        "options": {
+          "ক": "6",
+          "খ": "10",
+          "গ": "25",
+          "ঘ": "20"
+        },
+        "question": "কালামের বাড়ি থেকে ডাকঘরে যাওয়ার পাঁচটি পথ আছে। সে কতভাবে বাড়ি থেকে ডাকঘরে গিয়ে আবার বাড়িতে ফিরে আসতে পারবে?",
+        "solution": "পথ আছে [math]= 5[/math]\u003Cbr\u003E টিযাওয়া ও আসার উপায় সংখ্যা [math]= 5 \\times 5 = 25[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 360326,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360326,
+            "tag_id": 3201,
+            "year": "2018",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360325,
+      "value": {
+        "options": {
+          "A": "[math]{ }^{10} \\mathrm{C}_{7}[/math]",
+          "B": "[math]{ }^{10} \\mathrm{C}_{4}[/math]",
+          "C": "[math]{ }^{6} \\mathrm{C}_{3}[/math]",
+          "D": "[math]{ }^{6} \\mathrm{C}_{4}[/math]"
+        },
+        "question": "[math]{ }^{5} \\mathrm{C}_{3}+{ }^{5} \\mathrm{C}_{4}=?[/math]",
+        "solution": "[math]\\begin{array}{l}{ }^{5} \\mathrm{C}_{3}+{ }^{5} \\mathrm{C}_{4} \\\\=\\frac{5 !}{3 !(5-3) !}+\\frac{5 !}{4 !(5-4) !} \\\\=\\frac{120}{6 \\times 2}+\\frac{120}{24 \\times 1}=\\frac{240+120}{24}=\\frac{360}{24}=15\\end{array}[/math]\u003Cbr\u003Eঅপশন থেকে, [math]{ }^{6} \\mathrm{C}_{4}=\\frac{6 !}{4 !(6-4) !}=\\frac{720}{24 \\times 2}=15[/math]\u003Cbr\u003Eবিকল্প সমাধান :আমরা জানি, [math]\\mathrm {{ }^{n} C_{r}+{ }^{n} C_{r-1}={ }^{n+1} C_{r}}[/math]\u003Cbr\u003Eএখন, [math]{ }^{5} \\mathrm{C}_{4}+{ }^{5} \\mathrm{C}_{4-1}={ }^{5+1} \\mathrm{C}_{4}[/math]\u003Cbr\u003E [math]\\Rightarrow{ }^{5} \\mathrm{C}_{4}+{ }^{5} \\mathrm{C}_{3}={ }^{6} \\mathrm{C}_{4}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 360325,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360325,
+            "tag_id": 3201,
+            "year": "2018",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360324,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "+1",
+          "গ": "0",
+          "ঘ": "-2"
+        },
+        "question": "[math]0 {~}![/math] এর মান কত?",
+        "solution": "আমরা জানি, [math]\\mathrm {{ }^{n} P_{r}=\\frac{n !}{(n-r) !}}[/math]\u003Cbr\u003E [math]r=n[/math]\u003Cbr\u003E বসিয়ে পাই, [math]\\mathrm{{ }^{n} P_{n}=\\frac{n !}{(n-n) !}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow \\mathrm{n} !=\\frac{\\mathrm{n} !}{0 !}\\left[\\because \\mathrm{n} !={ }^{\\mathrm{n}} \\mathrm{P}_{\\mathrm{n}}\\right] \\\\\\Rightarrow 1=\\frac{1}{0 !} \\therefore 0 !=1\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 360324,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360324,
+            "tag_id": 3201,
+            "year": "2018",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360323,
+      "value": {
+        "options": {
+          "ক": "24",
+          "খ": "25",
+          "গ": "30",
+          "ঘ": "60"
+        },
+        "question": "একটি অনুষ্ঠানে কিছু লোক উপস্থিত ছিল। তারা কেবল একজন মাত্র একজনের সাথে একবার করমর্দন করতে পারবে। যদি করমর্দনের সংখ্যা 300 হয়, তাহলে ঐ অনুষ্ঠানে কতজন লোক ছিল?",
+        "solution": "মনে করি, অনুষ্ঠানে উপস্থিত লোকসংখ্যা [math]= \\mathrm n[/math]\u003Cbr\u003Eতাহলে, মোট করমর্দন সংখ্যা হবে [math]\\mathrm {={ }^{n} C_{2}}[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\mathrm {{ }^{n} C_{2}=300}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow \\mathrm {\\frac{n(n-1)}{2}=300 }\\\\\\Rightarrow \\mathrm {n^{2}-n=600 }\\\\\\Rightarrow \\mathrm {n^{2}-n-600=0 }\\\\\\Rightarrow \\mathrm {n^{2}-25 n+24 n-600=0} \\\\\\Rightarrow \\mathrm {n(n-25)+24(n-25)=0} \\\\\\Rightarrow \\mathrm {(n-25)(n+24)=0}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm n - 25 = 0 \\quad[/math]\u003Cbr\u003E অথবা, [math]\\mathrm n + 24 = 0[/math]\u003Cbr\u003E [math]⇒ \\mathrm n = 25 \\qquad \\qquad \\Rightarrow \\mathrm n = 24[/math]\u003Cbr\u003E [গ্রহণযোগ্য নয়][math]\\therefore[/math]\u003Cbr\u003E উপস্থিত লোকসংখ্যা [math]= 25[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 61,
+          "year": "৪৩",
+          "pivot": {
+            "question_bank_id": 360323,
+            "year_id": 61
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360323,
+            "tag_id": 3203,
+            "year": "৪৩",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360322,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "6"
+        },
+        "question": "[math]\\mathrm {PSC}[/math] শব্দটির সবগুলো বর্ণ একত্রে নিয়ে কত প্রকারে সাজানো যায়?",
+        "solution": "[math]\\mathrm {PSC }[/math]\u003Cbr\u003E তে বর্ণ আছে [math]3[/math]\u003Cbr\u003Eটিবিন্যাস সংখ্যা [math]= 3! = 6[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 360322,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360322,
+            "tag_id": 3201,
+            "year": "2019",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360321,
+      "value": {
+        "options": {
+          "A": "16",
+          "B": "18",
+          "C": "23",
+          "D": "26"
+        },
+        "question": "There are 10 orange sodas, 15 cream sodas, and 7 cherry sodas in an ice chest. How many sodas must be removed from the ice chest to guarantee that one of each type of soda has been chosen?",
+        "solution": "26",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 360321,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360321,
+            "tag_id": 3201,
+            "year": "2020",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360320,
+      "value": {
+        "options": {
+          "A": "672",
+          "B": "762",
+          "C": "572",
+          "D": "567"
+        },
+        "question": "How many 5 - digit numerals have 9 as the first digit, 3 or 6 as the third digit, and no digit repeated?",
+        "solution": "672",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 360320,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360320,
+            "tag_id": 3201,
+            "year": "2020",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360319,
+      "value": {
+        "options": {
+          "A": "8",
+          "B": "64",
+          "C": "40,320",
+          "D": "80,640"
+        },
+        "question": "In how many different orders can 8 different colors of flowers be arranged in a straight line?",
+        "solution": "[math]8[/math]\u003Cbr\u003Eটি বিভিন্ন রংয়ের ফুলকে এক সরলরেখায় সাজানোর মোট উপায় [math]= 8! = 40320[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 360319,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360319,
+            "tag_id": 3201,
+            "year": "2020",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360317,
+      "value": {
+        "options": {
+          "ক": "210",
+          "খ": "70",
+          "গ": "45",
+          "ঘ": "28"
+        },
+        "question": "10টি বইয়ের মধ্যে 4টি কত প্রকারে বাছাই করা যায়, যাতে নির্দিষ্ট দুইটি বই সর্বদা বাদ থাকে?",
+        "solution": "মোট বই [math]= 10[/math]\u003Cbr\u003Eটিসর্বদা দুটি বই বাদ থাকলে [math]= 8[/math]\u003Cbr\u003Eটি[math]\\therefore[/math]\u003Cbr\u003E বাছাই করা যাবে [math]\\mathrm {={ }^{8} C_{4}}[/math]\u003Cbr\u003E উপায়ে/প্রকারে [math]= 70[/math]\u003Cbr\u003E প্রকারে",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360317,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360317,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:52:04.000000Z",
+            "updated_at": "2025-08-19T03:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360311,
+      "value": {
+        "options": {
+          "A": "42",
+          "B": "48",
+          "C": "56",
+          "D": "64"
+        },
+        "question": "[math]\\mathrm {\\frac{1}{6 !}+\\frac{1}{7 !}=\\frac{x}{8 !}}[/math] হলে, [math]x[/math] এর মান কত?",
+        "solution": "[math]\\begin{array}{l}\\mathrm {\\frac{1}{6 !}+\\frac{1}{7 !}=\\frac{x}{8 !} \\Rightarrow \\frac{1}{6 !}+\\frac{1}{7 \\times 6 !}=\\frac{x}{8 !} } \\\\\\Rightarrow \\mathrm {\\frac{1}{ \\not6 !}\\left(1+\\frac{1}{7}\\right)=\\frac{x}{8.7 .6 !} } \\\\\\Rightarrow \\mathrm {1+\\frac{1}{7}=\\frac{x}{56} \\Rightarrow \\frac{8}{7}=\\frac{x}{56} \\Rightarrow x=\\frac{8 \\times \\overset{8}{\\not 56}}{\\not7}=64}\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360311,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360311,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:52:03.000000Z",
+            "updated_at": "2025-08-19T03:52:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360313,
+      "value": {
+        "options": {
+          "ক": "320",
+          "খ": "430",
+          "গ": "210",
+          "ঘ": "360"
+        },
+        "question": "[math]\\mathrm{'DIGITAL'}[/math] শব্দটির বর্ণগুলোকে কত প্রকারে সাজানো যায় যাতে স্বরবর্ণগুলো একত্রে থাকে?",
+        "solution": "স্বরবর্ণগুলোকে একত্রে রেখে সাজালে,[math]\\mathrm {( I {~}I{~}A) {~}D {~}G {~}T {~}L }[/math]\u003Cbr\u003Eস্বরবর্ণগুলোকে একটি বর্ণ বিবেচনা করে সাজালে [math]=5![/math]\u003Cbr\u003E উপায়ে সাজানোর যাবে।আবার, স্বরবর্ণগুলো নিজেদের মধ্যে [math]\\frac{3!}{2!}[/math]\u003Cbr\u003E উপায়ে বিন্যস্ত হবে।[math]\\therefore[/math]\u003Cbr\u003E সাজানোর প্রকার [math]= 5! \\times \\frac{3!}{2!} = 360[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360313,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360313,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:52:03.000000Z",
+            "updated_at": "2025-08-19T03:52:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360312,
+      "value": {
+        "options": {
+          "A": "3",
+          "B": "6",
+          "C": "12",
+          "D": "18"
+        },
+        "question": "How many seating arrangements can be made with three men beside a round table? (4 গোল টেবিলে 3 জন পুরুষ কত উপায়ে বসতে পারে?)",
+        "solution": "3",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360312,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360312,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:52:03.000000Z",
+            "updated_at": "2025-08-19T03:52:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360310,
+      "value": {
+        "options": {
+          "ক": "5",
+          "খ": "6",
+          "গ": "7",
+          "ঘ": "11"
+        },
+        "question": "তিনটি ক্রমিক সংখ্যার গুণফল সর্বদাই নিচের কোন সংখ্যার দ্বারা বিভাজ্য হবে?",
+        "solution": "যেকোনো [math]\\mathrm n[/math]\u003Cbr\u003E সংখ্যক স্বাভাবিক ক্রমিক সংখ্যার গুণফল সর্বদা [math]\\mathrm n ![/math]\u003Cbr\u003E দ্বারা বিভাজ্য হবে।একইভাবে [math]3[/math]\u003Cbr\u003Eটি স্বাভাবিক ক্রমিক সংখ্যার গুণফল সর্বদা [math]3![/math]\u003Cbr\u003E বা [math]3 × 2 × 1[/math]\u003Cbr\u003E বা [math]6[/math]\u003Cbr\u003E দ্বারা বিভাজ্য হবে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 360310,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360310,
+            "tag_id": 3201,
+            "year": "2021",
+            "created_at": "2025-08-19T03:52:03.000000Z",
+            "updated_at": "2025-08-19T03:52:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360350,
+      "value": {
+        "options": {
+          "A": "[math]\\mathrm { \\frac{\\lfloor {}n}{\\lfloor {(n-r)}}}[/math]",
+          "B": "[math]\\mathrm { \\frac{\\lfloor {}n}{ \\lfloor {r} {~}\\lfloor {(n-r)}}}[/math]",
+          "C": "[math]\\mathrm { \\frac{\\lfloor {r}{~} \\lfloor{n}}{\\lfloor {(n-r)}}}[/math]",
+          "D": "[math]\\mathrm { \\frac{\\lfloor {(n-r)}}{\\lfloor {r}}}[/math]"
+        },
+        "question": "[math]\\mathrm {\\left\\lfloor\\mathbf{r} \\cdot{ }^{n} \\mathbf{P}_{\\mathrm{r}}=?\\right.}[/math]",
+        "solution": "[math]\\mathrm { \\frac{\\lfloor {r}{~} \\lfloor{n}}{\\lfloor {(n-r)}}}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4184,
+      "created_at": "2025-08-19T03:52:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4184&grade=1&lesson=7070&per_page=200&question_paper_id=47963&subject=229&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4184&grade=1&lesson=7070&per_page=200&question_paper_id=47963&subject=229&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4184&grade=1&lesson=7070&per_page=200&question_paper_id=47963&subject=229&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 41,
+  "total": 41
+}

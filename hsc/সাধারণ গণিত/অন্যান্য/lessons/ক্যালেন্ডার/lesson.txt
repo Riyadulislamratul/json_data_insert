@@ -1,0 +1,616 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 360748,
+      "value": {
+        "options": {
+          "ক": "2020",
+          "খ": "2018",
+          "গ": "2014",
+          "ঘ": "2010"
+        },
+        "question": "কোনটি অধিবর্ষ?",
+        "solution": "যে সালটি 4 দ্বারা বিভাজ্য সেটি অধিবর্ষ। তবে শতাব্দী হলেও 400 দ্বারা বিভাজ্য হতে হবে।\n\nনিম্নোক্ত সালগুলোর মধ্যে 2020 কেবল 4 দ্বারা বিভাজ্য, তাই এটি অধিবর্ষ। অন্যগুলো অধিবর্ষ নয় ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 360748,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360748,
+            "tag_id": 3201,
+            "year": "2020",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360749,
+      "value": {
+        "options": {
+          "ক": "14 y",
+          "খ": "8 y",
+          "গ": "7 y",
+          "ঘ": "9 y",
+          "ঙ": "কোনোটিই নয়"
+        },
+        "question": "[math]{' \\mathrm y'}[/math] সপ্তাহ [math]' \\mathrm y'[/math] দিনে মোট কত দিন আছে?",
+        "solution": "[math]\\mathrm y[/math]\u003Cbr\u003E সপ্তাহ আছে [math]7 × \\mathrm y[/math]\u003Cbr\u003E বা [math]7\\mathrm y[/math]\u003Cbr\u003E দিন[math]\\therefore \\mathrm y[/math]\u003Cbr\u003E সপ্তাহ [math]\\mathrm y[/math]\u003Cbr\u003E দিনে আছে [math]7\\mathrm {y + y}[/math]\u003Cbr\u003E বা [math]8 \\mathrm y[/math]\u003Cbr\u003E দিন ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 360749,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360749,
+            "tag_id": 3201,
+            "year": "2019",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360750,
+      "value": {
+        "options": {
+          "ক": "বৃহস্পতিবার",
+          "খ": "রবিবার",
+          "গ": "সোমবার",
+          "ঘ": "শনিবার",
+          "ঙ": "কোনোটিই নয়"
+        },
+        "question": "আজ সোমবার; ৬১ দিন পরের দিনটি হবে -",
+        "solution": "আজ সোমবার হলে আজ থেকে [math]7[/math]\u003Cbr\u003E দিন পর সোমবার ।[math](7 × 8)[/math]\u003Cbr\u003E বা [math]56[/math]\u003Cbr\u003E দিন পর সোমবার[math]\\therefore 56 + 5 = 61[/math]\u003Cbr\u003E দিন পর শনিবার[math]\\therefore 61[/math]\u003Cbr\u003E দিন পরের দিনের পরের দিন রবিবার",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 360750,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360750,
+            "tag_id": 3201,
+            "year": "2019",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360751,
+      "value": {
+        "options": {
+          "ক": "বুধবার",
+          "খ": "শুক্রবার",
+          "গ": "শনিবার",
+          "ঘ": "বৃহস্পতিবার"
+        },
+        "question": "[math]1990[/math] সালে [math]1[/math] ফেব্রুয়ারি যদি বৃহস্পতিবার হয় তাহলে [math]1991[/math] সালের [math]1[/math] ফেব্রুয়ারি কি বার হবে?",
+        "solution": "[math]\\qquad \\qquad 4 | \\underline {\\underset{16}{1990}}|497 \\\\ \\hspace{2.6cm}\\underline{\\overset{39}{39}}\\\\ \\hspace{2.7cm} \\underline{\\underset{30}{28}} \\\\ \\hspace{2.8cm} 2[/math]\u003Cbr\u003E [math]\\therefore 1990[/math]\u003Cbr\u003E সালটি লিপ ইয়ার নয়। তাহলে [math]1990[/math]\u003Cbr\u003E সালের [math]1[/math]\u003Cbr\u003Eফেব্রুয়ারি হতে [math]1991[/math]\u003Cbr\u003E সালের [math]1[/math]\u003Cbr\u003E ফেব্রুয়ারি পর্যন্ত মোট [math]365[/math]\u003Cbr\u003E দিন ।আমরা জানি, [math]7[/math]\u003Cbr\u003E দিনে [math]1[/math]\u003Cbr\u003E সপ্তাহ তাই [math]7[/math]\u003Cbr\u003E দিন পর পর সপ্তাহের বার পুনরাবৃত্তি হয়।[math]\\qquad 7 | \\underline {\\underset{35}{365}}|52 \\\\ \\hspace{1.5cm}\\underline{\\underset{15}{14}}\\\\ \\hspace{1.6cm} 1[/math]\u003Cbr\u003E [math]\\therefore 365 = 7 × 52 + 1[/math]\u003Cbr\u003E অর্থাৎ [math]1[/math]\u003Cbr\u003E বছর [math]= 52[/math]\u003Cbr\u003E সপ্তাহ [math]+ {~}1[/math]\u003Cbr\u003E দিন।তাহলে [math]1991[/math]\u003Cbr\u003E সালের [math]1[/math]\u003Cbr\u003E ফেব্রুয়ারি হবে— বৃহস্পতিবার এর চেয়ে [math]1[/math]\u003Cbr\u003E দিন বেশি অর্থাৎ শুক্রবার ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 360751,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360751,
+            "tag_id": 3201,
+            "year": "2015",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360752,
+      "value": {
+        "options": {
+          "ক": "বৃহস্পতিবার",
+          "খ": "শুক্রবার",
+          "গ": "বুধবার",
+          "ঘ": "শনিবার"
+        },
+        "question": "[math]1994[/math] সালের [math]1[/math] ডিসেম্বর বৃহস্পতিবার হলে [math]1995[/math] সালের একই তারিখ কি বার হবে?",
+        "solution": "[math]1994[/math]\u003Cbr\u003E সালের [math]1[/math]\u003Cbr\u003E ডিসেম্বর বৃহস্পতিবার ।[math]1[/math]\u003Cbr\u003E বছর [math]= 365[/math]\u003Cbr\u003E দিন [math]= 52 × 7 + 1[/math]\u003Cbr\u003E দিনঅর্থাৎ [math]1[/math]\u003Cbr\u003E বছরে [math]52[/math]\u003Cbr\u003E টি সপ্তাহ ঘুরে আরও [math]1[/math]\u003Cbr\u003E দিন বেশী যাবে ।অর্থাৎ বৃহস্পতিবারে পরের দিন বা শুক্রবার",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 52,
+          "year": "৩৮",
+          "pivot": {
+            "question_bank_id": 360752,
+            "year_id": 52
+          }
+        },
+        {
+          "id": 86,
+          "year": "১৭",
+          "pivot": {
+            "question_bank_id": 360752,
+            "year_id": 86
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360752,
+            "tag_id": 3203,
+            "year": "৩৮",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        },
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360752,
+            "tag_id": 3203,
+            "year": "১৭",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360753,
+      "value": {
+        "options": {
+          "ক": "সোমবার",
+          "খ": "মঙ্গলবার",
+          "গ": "বৃহস্পতিবার",
+          "ঘ": "শনিবার"
+        },
+        "question": "আগামী পরশুর পরের দিন যদি রবিবার হয় তবে, গতকালের আগের দিন কি বার ছিল?",
+        "solution": "মঙ্গলবার",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 52,
+          "year": "৩৮",
+          "pivot": {
+            "question_bank_id": 360753,
+            "year_id": 52
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360753,
+            "tag_id": 3203,
+            "year": "৩৮",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360754,
+      "value": {
+        "options": {
+          "A": "Tuesday",
+          "B": "Monday",
+          "C": "Sunday",
+          "D": "Wednesday"
+        },
+        "question": "On [math]8^{\\mathrm {\\small{th}}}[/math] Feb, 2005 it was Tuesday. What was the day of the week on [math]8^{\\mathrm {\\small{th}}}[/math] Feb, [math]2004 ?[/math]",
+        "solution": "সপ্তাহে দিন সংখ্যা [math]= 7[/math]\u003Cbr\u003Eবছরে দিন সংখ্যা [math]= 365[/math]\u003Cbr\u003E [math]2004[/math]\u003Cbr\u003E সালের মোট দিন সংখ্যা [math]= 365 + 1 \\quad[/math]\u003Cbr\u003E [math][\\text{leeap year}[/math]\u003Cbr\u003E বলে [math]][/math]\u003Cbr\u003E [math]= 366[/math]\u003Cbr\u003Eকিন্তু, [math]366 = 52 \\times 7 +2[/math]\u003Cbr\u003Eঅর্থাৎ, [math]7[/math]\u003Cbr\u003E দিন করে [math]52[/math]\u003Cbr\u003E সপ্তাহ পার হবার পর আরও [math]2[/math]\u003Cbr\u003E দিন বেশী থাকবে ৷অর্থাৎ [math]52[/math]\u003Cbr\u003Eটি [math]\\text{Cycle}[/math]\u003Cbr\u003E পার হয়ে পরের বছর আরও [math]2[/math]\u003Cbr\u003E দিন এগিয়ে যাবে ।অর্থাৎ, [math]2005[/math]\u003Cbr\u003E সালে বা পরের বছরের সাপেক্ষে [math]2004[/math]\u003Cbr\u003E সাল [math]2[/math]\u003Cbr\u003E দিন পিছিয়ে থাকবে ।[math]\\mathrm {8^{\\small {th}} {~} Feb, {~} 2005}[/math]\u003Cbr\u003E দিনটি যদি মঙ্গলবার [math]\\text {(Tuesday)}[/math]\u003Cbr\u003E হয়, তাহলে, [math]\\mathrm {8^{\\small {th}} {~} Feb, {~} 2004}[/math]\u003Cbr\u003E দিনটি [math]2[/math]\u003Cbr\u003E দিন পিছিয়ে রবিবার [math]\\text{(Sunday)}[/math]\u003Cbr\u003E হবে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 53,
+          "year": "2014",
+          "pivot": {
+            "question_bank_id": 360754,
+            "year_id": 53
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3201,
+          "full_name": "পিএসসি ও অন্যান্য '2022",
+          "short_name": "পিএসসি ও অন্যান্য",
+          "slug": "piessi-oo-onzanz",
+          "pivot": {
+            "question_bank_id": 360754,
+            "tag_id": 3201,
+            "year": "2014",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360755,
+      "value": {
+        "options": {
+          "ক": "7",
+          "খ": "8",
+          "গ": "9",
+          "ঘ": "10"
+        },
+        "question": "17 দিন আগে আবদুর রহিম বলেছিল যে তার জন্মদিন ‘আগামীকাল। আজ ২৩ তারিখ হল তার জন্মদিন কোন তারিখে?",
+        "solution": "আজ [math]23[/math]\u003Cbr\u003E তারিখ হলে [math]17[/math]\u003Cbr\u003E দিন আগে তারিখ ছিল [math]= (23 – 17)[/math]\u003Cbr\u003E বা [math]6[/math]\u003Cbr\u003E তারিখ ।যেহেতু, রহিমের জন্মদিন আগামীকাল অর্থাৎ তার জন্মতারিখ হবে [math]= (6 + 1)[/math]\u003Cbr\u003E বা [math]7[/math]\u003Cbr\u003E তারিখ",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 62,
+          "year": "৩৪",
+          "pivot": {
+            "question_bank_id": 360755,
+            "year_id": 62
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360755,
+            "tag_id": 3203,
+            "year": "৩৪",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 360756,
+      "value": {
+        "options": {
+          "A": "Sunday",
+          "B": "Tuesday",
+          "C": "Wednesday",
+          "D": "Monday"
+        },
+        "question": "If the second day of the month is Monday, the eighteenth day of the month is a – (যদি একটি মাসের দ্বিতীয় দিন সোমবার হয় তবে ঐ মাসের [math]18[/math]তম দিনটি কী বার হবে?)",
+        "solution": "দ্বিতীয় দিন যদি সোমবার হয় তবে নবম দিনটিও সোমবার হবে । আবার ষোলতম দিনটিও সোমবার হবে। সতেরতম দিনটি হবে মঙ্গলবার । আঠারোতম দিনটি হবে বুধবার ।[math]\\therefore[/math]\u003Cbr\u003E উত্তর হবে বুধবার [math]\\text{( Wednesday)}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 229,
+      "book_grade_id": 1,
+      "content_chunk_id": 4185,
+      "created_at": "2025-08-19T03:53:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 65,
+          "year": "২৮",
+          "pivot": {
+            "question_bank_id": 360756,
+            "year_id": 65
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 229,
+        "title": "সাধারণ গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3203,
+          "full_name": "বিসিএস প্রিলি '৪৩ তম",
+          "short_name": "বিসিএস প্রিলি",
+          "slug": "bisies-prili",
+          "pivot": {
+            "question_bank_id": 360756,
+            "tag_id": 3203,
+            "year": "২৮",
+            "created_at": "2025-08-19T03:53:27.000000Z",
+            "updated_at": "2025-08-19T03:53:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4185&grade=1&lesson=7073&per_page=200&question_paper_id=47963&subject=229&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4185&grade=1&lesson=7073&per_page=200&question_paper_id=47963&subject=229&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4185&grade=1&lesson=7073&per_page=200&question_paper_id=47963&subject=229&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}
