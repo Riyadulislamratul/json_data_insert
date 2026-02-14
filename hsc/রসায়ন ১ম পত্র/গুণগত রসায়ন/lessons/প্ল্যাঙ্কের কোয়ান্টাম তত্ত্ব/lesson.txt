@@ -1,0 +1,1101 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 368598,
+      "value": {
+        "options": [],
+        "question": "একটি ইলেকট্রিক বাল্ব হলুদ রংয়ের আলো (বিকিরণ) ছড়ায় যার তরঙ্গ দৈর্ঘ্য 589 nm, নিক্ষেপিত ফোটনের শক্তি কত জুল? [দেওয়া আছে, [math]\\left.h=6.624 \\times 10^{-34} \\mathrm{Js}\\right][/math]",
+        "solution": "তরঙ্গ দৈর্ঘ্য [math]\\lambda=589 \\times 10^{-9} \\mathrm{~m} \\text {; }[/math]\u003Cbr\u003E শক্তি [math]\\mathrm{E}=\\frac{\\mathrm{hC}}{\\lambda}=3.373 \\times 10^{-19} \\mathrm{~J}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ফোটনের শক্তি [math]E=hc/λ[/math] সূত্র দিয়ে নির্ণয় করা যায়; এখানে [math]h=6.624×10^{-34}\\,\\mathrm{Js}[/math], [math]c=3.00×10^8\\,\\mathrm{m/s}[/math], [math]λ=589\\,\\mathrm{nm}=5.89×10^{-7}\\,\\mathrm{m}[/math]। তাই [math]E=\\dfrac{6.624×10^{-34}×3.00×10^8}{5.89×10^{-7}}≈3.37×10^{-19}\\,\\mathrm{J}[/math], এবং ফোটনের শক্তি তরঙ্গদৈর্ঘ্যের বিপরীত অনুপাতে থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 25,
+          "year": "2006-2007",
+          "pivot": {
+            "question_bank_id": 368598,
+            "year_id": 25
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 368598,
+            "tag_id": 80,
+            "year": "06-07",
+            "created_at": "2025-08-19T04:22:13.000000Z",
+            "updated_at": "2025-08-19T04:22:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368597,
+      "value": {
+        "options": {
+          "ঘ": "A ও C শক্তিস্তরের শক্তির পার্থক্য [math]1.93 × 10^{-18}[/math] J হলে নির্গত - আলোক রশ্মি দৃশ্যমান হবে কিনা? গাণিতিকভাবে বিশ্লেষণ করো।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture_1755577333_EnnU0uw8.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের A ও C শক্তিস্তর যথাক্রমে ১ম ও ৩য় শক্তিস্তরকে নির্দেশ করছে।এখানে,প্লাঙ্কের ধ্রুবক, h = 6.626 × [math]10^{-27}[/math]\u003Cbr\u003E erg-sআলোর. বেগ, C = 3 [math]\\times 10^{10} cms^{-1}[/math]\u003Cbr\u003Eশক্তির পার্থক্য, ΔΕ = 1.93 × [math]10^{-11}[/math]\u003Cbr\u003E ergতরঙ্গদৈর্ঘ্য, [math]\\lambda[/math]\u003Cbr\u003E = ?আমরা জানি,nতম শক্তিস্তরের শক্তি, [math]E=-\\frac{2 \\pi^{2} m Z^{2} e^{4}}{n^{2} h^{2}}[/math]\u003Cbr\u003Eপ্রশ্নমতে,[math]\\begin{array}{l}\\mathrm{E}_{\\mathrm{C}}-\\mathrm{E}_{\\mathrm{A}}=1.93 \\times 10^{-18} \\mathrm{~J} \\\\\\Rightarrow\\text { } \\mathrm{E}_{\\mathrm{C}}-\\mathrm{E}_{\\mathrm{A}}=1.93 \\times 10^{-11} \\mathrm{erg} \\\\\\Rightarrow\\text { } \\Delta \\mathrm{E}=1.93 \\times 10^{-11} \\mathrm{erg} \\\\\\Rightarrow\\text { } \\frac{\\mathrm{hc}}{\\lambda}=1.93 \\times 10^{-11} \\mathrm{erg} \\\\\\Rightarrow\\text { } \\lambda=\\frac{6.626 \\times 10^{-27} \\times 3 \\times 10^{10}}{1.93 \\times 10^{-11}} \\\\\\Rightarrow\\text { } \\lambda=1.02995 \\times 10^{-5} \\mathrm{~cm} \\\\\\therefore \\lambda=102.995 \\mathrm{~nm}\\end{array}[/math]\u003Cbr\u003Eআমরা জানি, দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের রেঞ্জ 380nm – 780 nm তরঙ্গদৈর্ঘ্য 380 nm এর কম হলে আলোটি দৃশ্যমান হবে না। সেক্ষেত্রে, 10nm 380 nm এর রেঞ্জে থাকলে অতিবেগুনী রশ্মি হিসেবে বিকিরিত হবে। সুতরাং, প্রদত্ত বিকিরণটি (102.995 nm) অতিবেগুনী রশ্মি হিসেবে বিকিরিত হবে যা দৃশ্যমান হবে না।",
+        "explanation": "ব্যাখ্যা: ফোটনের তরঙ্গদৈর্ঘ্য নির্ণয় করতে [math]λ=\\frac{hc}{E}[/math] ব্যবহার করি। এখানে [math]h=6.63×10^{-34}\\,\\text{J·s},\\; c=3.00×10^8\\,\\text{m/s}[/math] হলে [math]λ=\\frac{6.63×10^{-34}×3.00×10^8}{1.93×10^{-18}}\\approx1.03×10^{-7}\\,\\text{m}=103\\,\\text{nm}[/math]। এটি দৃশ্যমান পরিসর (≈400–700 nm) থেকে অনেক ছোট, তাই নির্গত রশ্মি অতিবেগুনী (UV) — দৃশ্যমান না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 368597,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 368597,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 368597,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T04:22:13.000000Z",
+            "updated_at": "2025-08-19T04:22:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368588,
+      "value": {
+        "options": {
+          "ক": "[math]\\lambda=\\frac{\\mathrm{h}}{\\mathrm{m} \\mathrm{\\nu}}[/math]",
+          "খ": "[math]\\lambda=\\frac{\\mathrm{h}}{\\mathrm{mn}}[/math]",
+          "গ": "[math]\\mathrm{\\nu}=\\frac{c}{\\lambda}[/math]",
+          "ঘ": "[math]\\Delta E=h \\nu[/math]"
+        },
+        "question": "নিচের কোনটি ডি. ব্রগলি সমীকরণ নামে পরিচিত?",
+        "solution": "এই সমীকরণটি পদার্থের তরঙ্গ ধর্ম ব্যাখ্যা করে, যেখানে [math]\\lambda[/math]\u003Cbr\u003E হলো তরঙ্গদৈর্ঘ্য, [math]h[/math]\u003Cbr\u003E হলো প্ল্যাঙ্কের ধ্রুবক, [math]m[/math]\u003Cbr\u003E হলো ভর এবং [math]\\nu[/math]\u003Cbr\u003E (বা [math]v[/math]\u003Cbr\u003E) হলো বেগ। এটি বস্তুকণা এবং তরঙ্গের দ্বৈত প্রকৃতিকে সংযুক্ত করে। বিকল্প C আলোর বেগ এবং তরঙ্গদৈর্ঘ্যের সম্পর্ক নির্দেশ করে, যা ডি. ব্রগলির সমীকরণ নয়। বিকল্প D আলোর ফোটন কণার শক্তি এবং কম্পাঙ্কের সম্পর্ক স্থাপন করে, যা প্ল্যাঙ্কের সূত্র নামে পরিচিত। বিকল্প B তে [math]n[/math]\u003Cbr\u003E ব্যবহার করা হয়েছে যা ভরের পরিবর্তে ব্যবহৃত হয়, তাই এটি ভুল।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 368588,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:22:12.000000Z",
+            "updated_at": "2025-08-19T04:22:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368591,
+      "value": {
+        "options": {
+          "ক": "[math]6.63 \\times 10^{-27} \\text { J.s }[/math]",
+          "খ": "[math]6.63 \\times 10^{-34} \\text { erg.s }[/math]",
+          "গ": "[math]6.63 \\times 10^{-34} \\text { J.S }[/math]",
+          "ঘ": "[math]6.63 \\times 10^{-31} \\text { erg.s }[/math]"
+        },
+        "question": "প্লাকের ধ্রুবকের মান কত?",
+        "solution": "প্লাঙ্কের ধ্রুবকের SI এককে মান হল [math]6.63 \\times 10^{-34}[/math]\u003Cbr\u003E জুল-সেকেন্ড (J.s)। এটি পদার্থের কোয়ান্টাম বৈশিষ্ট্য বোঝার জন্য একটি মৌলিক ধ্রুবক। এটি আলোর শক্তি ( [math]E[/math]\u003Cbr\u003E) এবং তার কম্পাঙ্কের ( [math]\\nu[/math]\u003Cbr\u003E) মধ্যে সম্পর্ক স্থাপন করে, যা [math]E = h\\nu[/math]\u003Cbr\u003E সূত্র দ্বারা প্রকাশ করা হয়, যেখানে [math]h[/math]\u003Cbr\u003E হল প্লাঙ্কের ধ্রুবক। বিকল্প A তে SI এককের পরিবর্তে CGS এককে মান দেওয়া হয়েছে, যা ভুল। বিকল্প B তে SI এককের পরিবর্তে CGS এককে মান দেওয়া হয়েছে এবং SI একক হিসাবে ভুল লেখা হয়েছে। বিকল্প D তে CGS এককে মানটি ভুলভাবে লেখা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 368591,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:22:12.000000Z",
+            "updated_at": "2025-08-19T04:22:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368590,
+      "value": {
+        "options": {
+          "ক": "সমানুপাতিক",
+          "খ": "ব্যস্তানুপাতিক",
+          "গ": "সমান",
+          "ঘ": "বর্গমূলের সমানুপাতিক"
+        },
+        "question": "কোয়ান্টাম শক্তি বিকিরিত শক্তির কম্পাংকের সাথে কীভাবে সম্পর্কিত?",
+        "solution": "কোয়ান্টাম শক্তি বিকিরিত শক্তির কম্পাংকের সাথে সরাসরি সমানুপাতিক। প্ল্যাঙ্কের সম্পর্ক অনুসারে, [math]E = hf[/math]\u003Cbr\u003E, যেখানে [math]E[/math]\u003Cbr\u003E হলো শক্তি, [math]h[/math]\u003Cbr\u003E হলো প্ল্যাঙ্কের ধ্রুবক এবং [math]f[/math]\u003Cbr\u003E হলো কম্পাঙ্ক। এর মানে হলো, কম্পাঙ্ক যত বাড়বে, কোয়ান্টাম শক্তিও তত বাড়বে। এই ধারণাটি ফোটো-ইলেকট্রিক ইফেক্ট-এর মতো ঘটনা ব্যাখ্যা করার জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 368590,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:22:12.000000Z",
+            "updated_at": "2025-08-19T04:22:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368589,
+      "value": {
+        "options": {
+          "ক": "[math]\\text { X-ray }[/math]",
+          "খ": "[math]\\text { UV }[/math]",
+          "গ": "[math]\\text { MW }[/math]",
+          "ঘ": "[math]\\text { IR }[/math]"
+        },
+        "question": "কোনটির কম্পাংক বেশি–",
+        "solution": "আলোর কম্পাঙ্ক তার তরঙ্গদৈর্ঘ্যের ব্যস্তানুপাতিক। X-ray-এর তরঙ্গদৈর্ঘ্য UV, IR এবং MW-এর তুলনায় অনেক কম, তাই এর কম্পাঙ্ক সবচেয়ে বেশি। এটি ইলেক্ট্রোম্যাগনেটিক স্পেকট্রামে দৃশ্যমান আলোর চেয়ে উচ্চ কম্পাঙ্কের এবং উচ্চ শক্তির বিকিরণ। MW (মাইক্রোওয়েভ) এর কম্পাঙ্ক সবচেয়ে কম।",
+        "explanation": "",
+        "correct_answer": "A.[math]\\text { X-ray }[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 368589,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:22:12.000000Z",
+            "updated_at": "2025-08-19T04:22:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368587,
+      "value": {
+        "options": [],
+        "question": "একটি ইলেকট্রিক বাল্ব হলুদ রংয়ের আলো (বিকিরণ) ছড়ায় যার তরঙ্গ দৈর্ঘ্য 589 nm, নিক্ষেপিত ফোটনের শক্তি কত জুল? [দেওয়া আছে, [math]\\left.h=6.624 \\times 10^{-34} \\mathrm{Js}\\right][/math]",
+        "solution": "তরঙ্গ দৈর্ঘ্য [math]\\lambda=589 \\times 10^{-9} \\mathrm{~m} \\text {; }[/math]\u003Cbr\u003E শক্তি [math]\\mathrm{E}=\\frac{\\mathrm{hC}}{\\lambda}=3.373 \\times 10^{-19} \\mathrm{~J}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ফোটনের শক্তি হিসাব করার সূত্র হল [math]E=\\dfrac{hc}{\\lambda}[/math], এখানে [math]\\lambda=589\\times10^{-9}\\,\\text{m}[/math]. তাই [math]E=\\dfrac{6.624\\times10^{-34}\\times3.00\\times10^{8}}{589\\times10^{-9}}\\approx3.37\\times10^{-19}\\ \\text{J}[/math], যা প্রশ্নের সঠিক উত্তর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 25,
+          "year": "2006-2007",
+          "pivot": {
+            "question_bank_id": 368587,
+            "year_id": 25
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 368587,
+            "tag_id": 80,
+            "year": "06-07",
+            "created_at": "2025-08-19T04:22:12.000000Z",
+            "updated_at": "2025-08-19T04:22:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368586,
+      "value": {
+        "options": {
+          "ঘ": "A ও C শক্তিস্তরের শক্তির পার্থক্য [math]1.93 × 10^{-18}[/math] J হলে নির্গত - আলোক রশ্মি দৃশ্যমান হবে কিনা? গাণিতিকভাবে বিশ্লেষণ করো।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture_1755577332_cE5NhGJB.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের A ও C শক্তিস্তর যথাক্রমে ১ম ও ৩য় শক্তিস্তরকে নির্দেশ করছে।এখানে,প্লাঙ্কের ধ্রুবক, h = 6.626 × [math]10^{-27}[/math]\u003Cbr\u003E erg-sআলোর. বেগ, C = 3 [math]\\times 10^{10} cms^{-1}[/math]\u003Cbr\u003Eশক্তির পার্থক্য, ΔΕ = 1.93 × [math]10^{-11}[/math]\u003Cbr\u003E ergতরঙ্গদৈর্ঘ্য, [math]\\lambda[/math]\u003Cbr\u003E = ?আমরা জানি,nতম শক্তিস্তরের শক্তি, [math]E=-\\frac{2 \\pi^{2} m Z^{2} e^{4}}{n^{2} h^{2}}[/math]\u003Cbr\u003Eপ্রশ্নমতে,[math]\\begin{array}{l}\\mathrm{E}_{\\mathrm{C}}-\\mathrm{E}_{\\mathrm{A}}=1.93 \\times 10^{-18} \\mathrm{~J} \\\\\\Rightarrow\\text { } \\mathrm{E}_{\\mathrm{C}}-\\mathrm{E}_{\\mathrm{A}}=1.93 \\times 10^{-11} \\mathrm{erg} \\\\\\Rightarrow\\text { } \\Delta \\mathrm{E}=1.93 \\times 10^{-11} \\mathrm{erg} \\\\\\Rightarrow\\text { } \\frac{\\mathrm{hc}}{\\lambda}=1.93 \\times 10^{-11} \\mathrm{erg} \\\\\\Rightarrow\\text { } \\lambda=\\frac{6.626 \\times 10^{-27} \\times 3 \\times 10^{10}}{1.93 \\times 10^{-11}} \\\\\\Rightarrow\\text { } \\lambda=1.02995 \\times 10^{-5} \\mathrm{~cm} \\\\\\therefore \\lambda=102.995 \\mathrm{~nm}\\end{array}[/math]\u003Cbr\u003Eআমরা জানি, দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের রেঞ্জ 380nm – 780 nm তরঙ্গদৈর্ঘ্য 380 nm এর কম হলে আলোটি দৃশ্যমান হবে না। সেক্ষেত্রে, 10nm 380 nm এর রেঞ্জে থাকলে অতিবেগুনী রশ্মি হিসেবে বিকিরিত হবে। সুতরাং, প্রদত্ত বিকিরণটি (102.995 nm) অতিবেগুনী রশ্মি হিসেবে বিকিরিত হবে যা দৃশ্যমান হবে না।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E নির্গত ফোটনের তরঙ্গদৈর্ঘ্য নির্ণয় করতে [math]E=hc/λ[/math] ব্যবহার করে [math]λ=\\dfrac{hc}{E}=\\dfrac{6.626\\times10^{-34}\\times3.00\\times10^{8}}{1.93\\times10^{-18}}=1.03\\times10^{-7}\\ \\text{m}=103\\ \\text{nm}[/math]. 103 nm হল অতিবেগুনী অঞ্চলে (UV), যা দৃশ্যমান তরঙ্গদৈর্ঘ্যের সীমা [math]≈400–700\\ \\text{nm}[/math]-এর বাইরে, তাই আলোক রশ্মি দৃশ্যমান হবে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 368586,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 368586,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 368586,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T04:22:12.000000Z",
+            "updated_at": "2025-08-19T04:22:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368577,
+      "value": {
+        "options": {
+          "ক": "[math]\\lambda=\\frac{\\mathrm{h}}{\\mathrm{m} \\mathrm{\\nu}}[/math]",
+          "খ": "[math]\\lambda=\\frac{\\mathrm{h}}{\\mathrm{mn}}[/math]",
+          "গ": "[math]\\mathrm{\\nu}=\\frac{c}{\\lambda}[/math]",
+          "ঘ": "[math]\\Delta E=h \\nu[/math]"
+        },
+        "question": "নিচের কোনটি ডি. ব্রগলি সমীকরণ নামে পরিচিত?",
+        "solution": "এই সমীকরণটি পদার্থের তরঙ্গ ধর্ম ব্যাখ্যা করে, যেখানে [math]\\lambda[/math]\u003Cbr\u003E হলো তরঙ্গদৈর্ঘ্য, [math]h[/math]\u003Cbr\u003E হলো প্ল্যাঙ্কের ধ্রুবক, [math]m[/math]\u003Cbr\u003E হলো ভর এবং [math]\\nu[/math]\u003Cbr\u003E (বা [math]v[/math]\u003Cbr\u003E) হলো বেগ। এটি বস্তুকণা এবং তরঙ্গের দ্বৈত প্রকৃতিকে সংযুক্ত করে। বিকল্প C আলোর বেগ এবং তরঙ্গদৈর্ঘ্যের সম্পর্ক নির্দেশ করে, যা ডি. ব্রগলির সমীকরণ নয়। বিকল্প D আলোর ফোটন কণার শক্তি এবং কম্পাঙ্কের সম্পর্ক স্থাপন করে, যা প্ল্যাঙ্কের সূত্র নামে পরিচিত। বিকল্প B তে [math]n[/math]\u003Cbr\u003E ব্যবহার করা হয়েছে যা ভরের পরিবর্তে ব্যবহৃত হয়, তাই এটি ভুল।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 368577,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:22:10.000000Z",
+            "updated_at": "2025-08-19T04:22:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368580,
+      "value": {
+        "options": {
+          "ক": "[math]6.63 \\times 10^{-27} \\text { J.s }[/math]",
+          "খ": "[math]6.63 \\times 10^{-34} \\text { erg.s }[/math]",
+          "গ": "[math]6.63 \\times 10^{-34} \\text { J.S }[/math]",
+          "ঘ": "[math]6.63 \\times 10^{-31} \\text { erg.s }[/math]"
+        },
+        "question": "প্লাকের ধ্রুবকের মান কত?",
+        "solution": "প্লাঙ্কের ধ্রুবকের SI এককে মান হল [math]6.63 \\times 10^{-34}[/math]\u003Cbr\u003E জুল-সেকেন্ড (J.s)। এটি পদার্থের কোয়ান্টাম বৈশিষ্ট্য বোঝার জন্য একটি মৌলিক ধ্রুবক। এটি আলোর শক্তি ( [math]E[/math]\u003Cbr\u003E) এবং তার কম্পাঙ্কের ( [math]\\nu[/math]\u003Cbr\u003E) মধ্যে সম্পর্ক স্থাপন করে, যা [math]E = h\\nu[/math]\u003Cbr\u003E সূত্র দ্বারা প্রকাশ করা হয়, যেখানে [math]h[/math]\u003Cbr\u003E হল প্লাঙ্কের ধ্রুবক। বিকল্প A তে SI এককের পরিবর্তে CGS এককে মান দেওয়া হয়েছে, যা ভুল। বিকল্প B তে SI এককের পরিবর্তে CGS এককে মান দেওয়া হয়েছে এবং SI একক হিসাবে ভুল লেখা হয়েছে। বিকল্প D তে CGS এককে মানটি ভুলভাবে লেখা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 368580,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:22:10.000000Z",
+            "updated_at": "2025-08-19T04:22:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368579,
+      "value": {
+        "options": {
+          "ক": "সমানুপাতিক",
+          "খ": "ব্যস্তানুপাতিক",
+          "গ": "সমান",
+          "ঘ": "বর্গমূলের সমানুপাতিক"
+        },
+        "question": "কোয়ান্টাম শক্তি বিকিরিত শক্তির কম্পাংকের সাথে কীভাবে সম্পর্কিত?",
+        "solution": "কোয়ান্টাম শক্তি বিকিরিত শক্তির কম্পাংকের সাথে সরাসরি সমানুপাতিক। প্ল্যাঙ্কের সম্পর্ক অনুসারে, [math]E = hf[/math]\u003Cbr\u003E, যেখানে [math]E[/math]\u003Cbr\u003E হলো শক্তি, [math]h[/math]\u003Cbr\u003E হলো প্ল্যাঙ্কের ধ্রুবক এবং [math]f[/math]\u003Cbr\u003E হলো কম্পাঙ্ক। এর মানে হলো, কম্পাঙ্ক যত বাড়বে, কোয়ান্টাম শক্তিও তত বাড়বে। এই ধারণাটি ফোটো-ইলেকট্রিক ইফেক্ট-এর মতো ঘটনা ব্যাখ্যা করার জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 368579,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:22:10.000000Z",
+            "updated_at": "2025-08-19T04:22:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368578,
+      "value": {
+        "options": {
+          "ক": "[math]\\text { X-ray }[/math]",
+          "খ": "[math]\\text { UV }[/math]",
+          "গ": "[math]\\text { MW }[/math]",
+          "ঘ": "[math]\\text { IR }[/math]"
+        },
+        "question": "কোনটির কম্পাংক বেশি–",
+        "solution": "আলোর কম্পাঙ্ক তার তরঙ্গদৈর্ঘ্যের ব্যস্তানুপাতিক। X-ray-এর তরঙ্গদৈর্ঘ্য UV, IR এবং MW-এর তুলনায় অনেক কম, তাই এর কম্পাঙ্ক সবচেয়ে বেশি। এটি ইলেক্ট্রোম্যাগনেটিক স্পেকট্রামে দৃশ্যমান আলোর চেয়ে উচ্চ কম্পাঙ্কের এবং উচ্চ শক্তির বিকিরণ। MW (মাইক্রোওয়েভ) এর কম্পাঙ্ক সবচেয়ে কম।",
+        "explanation": "",
+        "correct_answer": "A.[math]\\text { X-ray }[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 368578,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:22:10.000000Z",
+            "updated_at": "2025-08-19T04:22:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368592,
+      "value": {
+        "options": {
+          "ক": "[math]E=h v[/math]",
+          "খ": "[math]E=m c^{2}[/math]",
+          "গ": "[math]\\lambda=\\frac{h}{m v}[/math]",
+          "ঘ": "[math]\\pi=\\mathrm{cRT}[/math]"
+        },
+        "question": "নিচের কোনটি প্ল্যাঙ্কের সমীকরণ?",
+        "solution": "প্ল্যাঙ্কের সমীকরণ, [math]E=h v[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368593,
+      "value": {
+        "options": {
+          "ক": "কস্রোডিঞ্জার সমীকরণ",
+          "খ": "প্লাঙ্ক সমীকরণ",
+          "গ": "বোর সমীকরণ",
+          "ঘ": "আইনস্টাইন সমীকরণ"
+        },
+        "question": "[math]E=h v[/math] সমীকরণটি হলো-",
+        "solution": "প্ল্যাঙ্কের সমীকরণ, [math]E=h v[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368594,
+      "value": {
+        "options": {
+          "ক": "তরঙ্গ শক্তি",
+          "খ": "তরঙ্গ সংখ্যা",
+          "গ": "কম্পাঙ্ক",
+          "ঘ": "কোয়ান্টাম শক্তি"
+        },
+        "question": "চার্জিত গতিশীল কণা যেমন ইলেকট্রন বিচ্ছিন্নভাবে যে নির্দিষ্ট পরিমাণ বা তার সরল গুণিতকের সমান শক্তি বিকিরণ বা শোষণ করে তাকে কী বলে?",
+        "solution": "চার্জিত গতিশীল কণা যেমন ইলেকট্রন বিচ্ছিন্নভাবে যে নির্দিষ্ট পরিমাণ বা তার সরল গুণিতকের সমান শক্তি বিকিরণ বা শোষণ করে তাকে কোয়ান্টাম শক্তি বলে। একে E দ্বারা প্রকাশ করা হয়।[math]E=h v=h \\frac{c}{\\lambda}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368595,
+      "value": {
+        "options": {
+          "ক": "রাদারফোর্ড",
+          "খ": "ম্যাক্স প্লাংক",
+          "গ": "ম্যাক্স প্লাংক",
+          "ঘ": "আইনস্টাইন"
+        },
+        "question": "আলোর কোয়ান্টাম তত্ত্বের প্রবক্তা-",
+        "solution": "বিজ্ঞানীর নাম এবং অবদানরাদারফোর্ড - পরমাণুবাদের জনকম্যাক্স প্লাংক - আলোর কোয়ান্টাম তত্ত্বম্যাক্সওয়েল - দৃশ্য-অদৃশ্য আলোক রশ্মিআইনস্টাইন - [math]E = mc²[/math]বার্গ - অনিশ্চয়তা নীতি",
+        "explanation": "",
+        "correct_answer": "B.ম্যাক্স প্লাংক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368596,
+      "value": {
+        "options": {
+          "ক": "1873 সালে",
+          "খ": "1905 সালে",
+          "গ": "1901 সালে",
+          "ঘ": "1888 সালে"
+        },
+        "question": "কত সালে বিজ্ঞানী আইনস্টাইন রেডিয়শনের ফোটন মতবাদ প্রবর্তন করেন?",
+        "solution": "ফোটন মতবাদ: 1905 সালে বিজ্ঞানী আইনস্টাইন রেডিয়েশনের ফোটন মতবাদ প্রবর্তন করেন। এ মতবাদ অনুসারে রেডিয়েশন ঝাঁক ঝাঁক কণা বা ফোটন সমষ্টিরূপে প্রবাহিত হয়ে থাকে। তাঁর এ মতবাদ প্লাঙ্কের কোয়ান্টাম তত্ত্বকে আরও সুপ্রতিষ্ঠিত করে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368585,
+      "value": {
+        "options": {
+          "ক": "1873 সালে",
+          "খ": "1905 সালে",
+          "গ": "1901 সালে",
+          "ঘ": "1888 সালে"
+        },
+        "question": "কত সালে বিজ্ঞানী আইনস্টাইন রেডিয়শনের ফোটন মতবাদ প্রবর্তন করেন?",
+        "solution": "ফোটন মতবাদ: 1905 সালে বিজ্ঞানী আইনস্টাইন রেডিয়েশনের ফোটন মতবাদ প্রবর্তন করেন। এ মতবাদ অনুসারে রেডিয়েশন ঝাঁক ঝাঁক কণা বা ফোটন সমষ্টিরূপে প্রবাহিত হয়ে থাকে। তাঁর এ মতবাদ প্লাঙ্কের কোয়ান্টাম তত্ত্বকে আরও সুপ্রতিষ্ঠিত করে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368584,
+      "value": {
+        "options": {
+          "ক": "রাদারফোর্ড",
+          "খ": "ম্যাক্স প্লাংক",
+          "গ": "ম্যাক্স প্লাংক",
+          "ঘ": "আইনস্টাইন"
+        },
+        "question": "আলোর কোয়ান্টাম তত্ত্বের প্রবক্তা-",
+        "solution": "বিজ্ঞানীর নাম এবং অবদানরাদারফোর্ড - পরমাণুবাদের জনকম্যাক্স প্লাংক - আলোর কোয়ান্টাম তত্ত্বম্যাক্সওয়েল - দৃশ্য-অদৃশ্য আলোক রশ্মিআইনস্টাইন - [math]E = mc²[/math]বার্গ - অনিশ্চয়তা নীতি",
+        "explanation": "",
+        "correct_answer": "B.ম্যাক্স প্লাংক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368583,
+      "value": {
+        "options": {
+          "ক": "তরঙ্গ শক্তি",
+          "খ": "তরঙ্গ সংখ্যা",
+          "গ": "কম্পাঙ্ক",
+          "ঘ": "কোয়ান্টাম শক্তি"
+        },
+        "question": "চার্জিত গতিশীল কণা যেমন ইলেকট্রন বিচ্ছিন্নভাবে যে নির্দিষ্ট পরিমাণ বা তার সরল গুণিতকের সমান শক্তি বিকিরণ বা শোষণ করে তাকে কী বলে?",
+        "solution": "চার্জিত গতিশীল কণা যেমন ইলেকট্রন বিচ্ছিন্নভাবে যে নির্দিষ্ট পরিমাণ বা তার সরল গুণিতকের সমান শক্তি বিকিরণ বা শোষণ করে তাকে কোয়ান্টাম শক্তি বলে। একে E দ্বারা প্রকাশ করা হয়।[math]E=h v=h \\frac{c}{\\lambda}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368582,
+      "value": {
+        "options": {
+          "ক": "কস্রোডিঞ্জার সমীকরণ",
+          "খ": "প্লাঙ্ক সমীকরণ",
+          "গ": "বোর সমীকরণ",
+          "ঘ": "আইনস্টাইন সমীকরণ"
+        },
+        "question": "[math]E=h v[/math] সমীকরণটি হলো-",
+        "solution": "প্ল্যাঙ্কের সমীকরণ, [math]E=h v[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 368581,
+      "value": {
+        "options": {
+          "ক": "[math]E=h v[/math]",
+          "খ": "[math]E=m c^{2}[/math]",
+          "গ": "[math]\\lambda=\\frac{h}{m v}[/math]",
+          "ঘ": "[math]\\pi=\\mathrm{cRT}[/math]"
+        },
+        "question": "নিচের কোনটি প্ল্যাঙ্কের সমীকরণ?",
+        "solution": "প্ল্যাঙ্কের সমীকরণ, [math]E=h v[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:22:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4151&grade=1&lesson=6762&per_page=200&question_paper_id=47742&subject=184&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4151&grade=1&lesson=6762&per_page=200&question_paper_id=47742&subject=184&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4151&grade=1&lesson=6762&per_page=200&question_paper_id=47742&subject=184&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 22,
+  "total": 22
+}

@@ -1,0 +1,3608 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 365016,
+      "value": {
+        "options": {
+          "ক": "1p",
+          "খ": "2p",
+          "গ": "2d",
+          "ঘ": "3f"
+        },
+        "question": "নিচের কোন অরবিটালটি সম্ভব?",
+        "solution": "পারমাণবিক অরবিটালের নামকরণের ক্ষেত্রে, প্রধান কোয়ান্টাম সংখ্যা (n) দ্বারা কক্ষপথের শক্তিস্তর এবং অ্যাজিমুথাল কোয়ান্টাম সংখ্যা (l) দ্বারা অরবিটালের আকৃতি নির্দেশ করা হয়। অ্যাজিমুথাল কোয়ান্টাম সংখ্যার মান [math]l = 0, 1, 2, \\dots, n-1[/math]\u003Cbr\u003E পর্যন্ত হতে পারে। [math]l=0[/math]\u003Cbr\u003E হলে s অরবিটাল, [math]l=1[/math]\u003Cbr\u003E হলে p অরবিটাল, [math]l=2[/math]\u003Cbr\u003E হলে d অরবিটাল এবং [math]l=3[/math]\u003Cbr\u003E হলে f অরবিটাল বোঝায়।বিকল্প A) 1p: এখানে [math]n=1[/math]\u003Cbr\u003E এবং [math]l=1[/math]\u003Cbr\u003E। কিন্তু [math]n=1[/math]\u003Cbr\u003E হলে [math]l[/math]\u003Cbr\u003E এর সর্বোচ্চ মান হতে পারে [math]n-1 = 1-1 = 0[/math]\u003Cbr\u003E। তাই [math]l=1[/math]\u003Cbr\u003E সম্ভব নয়।বিকল্প B) 2p: এখানে [math]n=2[/math]\u003Cbr\u003E এবং [math]l=1[/math]\u003Cbr\u003E। [math]n=2[/math]\u003Cbr\u003E হলে [math]l[/math]\u003Cbr\u003E এর মান 0 এবং 1 হতে পারে ( [math]n-1 = 2-1 = 1[/math]\u003Cbr\u003E)। যেহেতু [math]l=1[/math]\u003Cbr\u003E সম্ভব, তাই 2p অরবিটাল সম্ভব।বিকল্প C) 2d: এখানে [math]n=2[/math]\u003Cbr\u003E এবং [math]l=2[/math]\u003Cbr\u003E। কিন্তু [math]n=2[/math]\u003Cbr\u003E হলে [math]l[/math]\u003Cbr\u003E এর সর্বোচ্চ মান হতে পারে 1। তাই [math]l=2[/math]\u003Cbr\u003E সম্ভব নয়।বিকল্প D) 3f: এখানে [math]n=3[/math]\u003Cbr\u003E এবং [math]l=3[/math]\u003Cbr\u003E। কিন্তু [math]n=3[/math]\u003Cbr\u003E হলে [math]l[/math]\u003Cbr\u003E এর সর্বোচ্চ মান হতে পারে [math]n-1 = 3-1 = 2[/math]\u003Cbr\u003E। তাই [math]l=3[/math]\u003Cbr\u003E সম্ভব নয়।সুতরাং, শুধুমাত্র 2p অরবিটালটি সম্ভব। পারমাণবিক অরবিটালগুলি হল s, p, d, f ইত্যাদি, যা বিভিন্ন পরমাণুতে ইলেকট্রনের সম্ভাব্য অবস্থান নির্দেশ করে।",
+        "explanation": "n=2 হলে l = 0, 1সুতরাং অরবিটাল দুটি হবে 2s এবং 2p",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 365016,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 199,
+          "full_name": "University of Barishal",
+          "short_name": "BU",
+          "slug": "bu",
+          "pivot": {
+            "question_bank_id": 365016,
+            "tag_id": 199,
+            "year": "15-16",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365001,
+      "value": {
+        "options": {
+          "ক": "৩টি",
+          "খ": "2টি",
+          "গ": "5টি",
+          "ঘ": "7টি"
+        },
+        "question": "P উপস্তরে অরবিটালের সংখ্যা কত ?",
+        "solution": "P উপস্তরে ৩টি অরবিটাল থাকে। প্রতিটি অরবিটাল দুটি ইলেকট্রন ধারণ করতে পারে। P উপস্তর [math]p_x[/math]\u003Cbr\u003E, [math]p_y[/math]\u003Cbr\u003E, এবং [math]p_z[/math]\u003Cbr\u003E এই তিনটি অরবিটাল নিয়ে গঠিত। এই তিনটি অরবিটালের শক্তি সমান।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2ftw110-removebg-preview_1755576970_9q0fcjvs.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "explanation": "",
+        "correct_answer": "A.৩টি"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 34,
+          "year": "2002-2003",
+          "pivot": {
+            "question_bank_id": 365001,
+            "year_id": 34
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 365001,
+            "tag_id": 3225,
+            "year": "02-03",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365002,
+      "value": {
+        "options": {
+          "ক": "10",
+          "খ": "6",
+          "গ": "14",
+          "ঘ": "2",
+          "ঙ": "None"
+        },
+        "question": "সর্বমোট কয়টি ইলেকট্রন [math]f-[/math] অরবিটাল ধারণ করতে পারে ?",
+        "solution": "Solution :[math]\\mathrm{f}=3 \\therefore[/math]\u003Cbr\u003E m = –3, – 2, –1,0,1,2,3 [math]\\therefore[/math]\u003Cbr\u003E মোট অরবিটাল = 7; মোট ইলেক্ট্রন = [math]7 \\times 2=14[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 365002,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 365002,
+            "tag_id": 80,
+            "year": "12-13",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365003,
+      "value": {
+        "options": {
+          "ক": "10",
+          "খ": "6",
+          "গ": "14",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "সর্বমোট কয়টি ইলেকট্রন f- অরবিটাল ধারণ করতে পারে?",
+        "solution": "f-অরবিটালে সর্বাধিক ১৪টি ইলেকট্রন থাকতে পারে। অরবিটালের ইলেকট্রন ধারণক্ষমতা [math]2(2l+1)[/math]\u003Cbr\u003E সূত্র দ্বারা নির্ণয় করা হয়, যেখানে [math]l[/math]\u003Cbr\u003E হলো অরবিটালের অ্যাজিমুথাল কোয়ান্টাম সংখ্যা। f-অরবিটালের জন্য [math]l=3[/math]\u003Cbr\u003E, তাই ইলেকট্রন ধারণক্ষমতা [math]2(2 \\times 3 + 1) = 2(6+1) = 2 \\times 7 = 14[/math]\u003Cbr\u003E। s, p, d অরবিটাল যথাক্রমে ২, ৬, এবং ১০টি ইলেকট্রন ধারণ করতে পারে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 365003,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 365003,
+            "tag_id": 80,
+            "year": "12-13",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365004,
+      "value": {
+        "options": {
+          "ক": "10",
+          "খ": "6",
+          "গ": "14",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "সর্বমোট কয়টি ইলেকট্রন f-অরবিটাল ধারণ করতে পারে?",
+        "solution": "f-অরবিটালে সর্বাধিক ১৪টি ইলেকট্রন থাকতে পারে। প্রতিটি অরবিটালে সর্বোচ্চ ২টি ইলেকট্রন থাকতে পারে এবং f-উপশক্তিস্তরে মোট ৭টি f-অরবিটাল থাকে। তাই, [math]7 \\text{ অরবিটাল} \\times 2 \\text{ ইলেকট্রন/অরবিটাল} = 14 \\text{ ইলেকট্রন}[/math]। p-উপশক্তিস্তরে সর্বাধিক ৬টি ইলেকট্রন এবং d-উপশক্তিস্তরে সর্বাধিক ১০টি ইলেকট্রন থাকতে পারে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 365004,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 365004,
+            "tag_id": 80,
+            "year": "12-13",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365005,
+      "value": {
+        "options": {
+          "ক": "2p",
+          "খ": "3d",
+          "গ": "4f",
+          "ঘ": "3f"
+        },
+        "question": "কোন অরবিটালটি অসম্ভব?",
+        "solution": "[math]\\mathrm n = 3[/math]\u003Cbr\u003E হলে সহকারী কোয়ান্টাম সংখ্যার মান [math]l = 0, 1, 2[/math]\u003Cbr\u003E হবে। অর্থাৎ তৃতীয় শক্তিস্তরে [math]3[/math]\u003Cbr\u003Eটি উপশক্তিস্তর [math]\\text {3s, 3p, 3d}[/math]\u003Cbr\u003E থাকতে পারবে। অতএব [math]\\mathrm {3f}[/math]\u003Cbr\u003E অরবিটালটি অসম্ভব।",
+        "explanation": "",
+        "correct_answer": "D.3f"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 365005,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 365005,
+            "tag_id": 119,
+            "year": "23-24",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365006,
+      "value": {
+        "options": {
+          "ক": "s",
+          "খ": "p",
+          "গ": "d",
+          "ঘ": "f"
+        },
+        "question": "কোন অরবিটালের দিক ধর্ম নেই?",
+        "solution": "s অরবিটালের কোনো নির্দিষ্ট দিক ধর্ম নেই, এটি সমভাবে বিস্তৃত। p, d, এবং f অরবিটালগুলির নির্দিষ্ট দিক বৈশিষ্ট্য রয়েছে যা তাদের লোবগুলির বিন্যাস থেকে উদ্ভূত হয়।",
+        "explanation": "s অরবিটাল গোলক আকৃতির হওয়ায় এর কোনো দিকধর্ম নেই৷",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 365006,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3181,
+          "full_name": "Home Economics College - গার্হস্থ্য অর্থনীতি কলেজ",
+          "short_name": "HEC",
+          "slug": "hec",
+          "pivot": {
+            "question_bank_id": 365006,
+            "tag_id": 3181,
+            "year": "21-22",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365007,
+      "value": {
+        "options": {
+          "ক": "dxy & dyz",
+          "খ": "dz 2 & dzx",
+          "গ": "dx ² -y ² & dz 2",
+          "ঘ": "dx 2 -y 2 & dxy"
+        },
+        "question": "কোন d অরবিটালগুলো অক্ষ বরাবর অবস্থিত?",
+        "solution": "d অরবিটালগুলোর মধ্যে [math]d_{x^2-y^2}[/math]\u003Cbr\u003E এবং [math]d_{z^2}[/math]\u003Cbr\u003E অরবিটাল দুটি অক্ষ বরাবর অবস্থিত। [math]d_{x^2-y^2}[/math]\u003Cbr\u003E অরবিটালের লোব (lobes) x এবং y অক্ষ বরাবর বিস্তৃত থাকে, যেখানে [math]d_{z^2}[/math]\u003Cbr\u003E অরবিটালের লোব z অক্ষ বরাবর এবং একটি রিং (ring) xy তলে অবস্থিত। অন্য d অরবিটালগুলো, যেমন [math]d_{xy}[/math]\u003Cbr\u003E, [math]d_{yz}[/math]\u003Cbr\u003E, এবং [math]d_{zx}[/math]\u003Cbr\u003E, অক্ষগুলোর মধ্যবর্তী অবস্থানে থাকে।",
+        "explanation": "dxy X ও Y উভয় অক্ষের মাঝখানেdyz Y ও Z উভয় অক্ষের মাঝখানেdzx Z ও X উভয় অক্ষের মাঝখানেdx 2 - y 2 → X ও Y অক্ষ বরাবরdz 2 → Z অক্ষ বরাবর",
+        "correct_answer": "C.dx ² -y ² & dz 2"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 365007,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3181,
+          "full_name": "Home Economics College - গার্হস্থ্য অর্থনীতি কলেজ",
+          "short_name": "HEC",
+          "slug": "hec",
+          "pivot": {
+            "question_bank_id": 365007,
+            "tag_id": 3181,
+            "year": "21-22",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365008,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "3",
+          "গ": "5",
+          "ঘ": "7"
+        },
+        "question": "3 - p উপশক্তিস্তরে অরবিটাল কয়টি ?",
+        "solution": "Solution :\n\n3p (1 = 1) অরবিটাল সংখ্যা = 21 + 1 = 2 × 1+1 = 3",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 365008,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 365008,
+            "tag_id": 57,
+            "year": "20-21",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365010,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{n}{2}\\{1+(2 n-2)\\}[/math]",
+          "খ": "[math]\\frac{\\mathrm{n}}{2}\\{1+(2 \\mathrm{n}-1)\\}[/math]",
+          "গ": "[math]\\frac{\\mathrm{n}}{2}\\{2+(2 \\mathrm{n}+1)\\}[/math]",
+          "ঘ": "[math]\\frac{\\mathrm{n}}{2}\\{2+(2 \\mathrm{n}-1)\\}[/math]"
+        },
+        "question": "কোনটি n তম শক্তি স্তরে মোট অরবিটালের সংখ্যা প্রকাশ করে ?",
+        "solution": "Solution :জানি, শক্তিস্তর সংখ্যা n হলে অরবিটাল সংখ্যা [math]n^{2}[/math]\u003Cbr\u003E |এখন, [math]0+n^{2}=\\frac{n}{2}-\\frac{n}{2}+n^{2}=\\frac{n}{2}+2 \\times \\frac{n}{2} \\times n-\\frac{n}{2}=\\frac{n}{2}\\{1+(2 n-1)\\}[/math]\u003Cbr\u003Eঅথবা অপশন চেক করেও উত্তর পাওয়া যায়।",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{\\mathrm{n}}{2}\\{1+(2 \\mathrm{n}-1)\\}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 365010,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 365010,
+            "tag_id": 77,
+            "year": "19-20",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365011,
+      "value": {
+        "options": {
+          "ক": "n = 2,l = 0",
+          "খ": "n = 3,l=0",
+          "গ": "n = 3,l = 1",
+          "ঘ": "n = 1,l = 0"
+        },
+        "question": "নিচের কোন অর্বিটালটি বৃত্তাকার নয় ?",
+        "solution": "Solution :\n\nl= 0 এর জন্য s অরবিটাল। আর কেবল s অরবিটালের আকৃতিই গোলাকার।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 365011,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 365011,
+            "tag_id": 11,
+            "year": "19-20",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365012,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{n}{2}\\{1+(2 n-2)\\}[/math]",
+          "খ": "[math]\\frac{n}{2}\\{1+(2 n-1)\\}[/math]",
+          "গ": "[math]\\frac{n}{2}\\{2+(2 n+1)\\}[/math]",
+          "ঘ": "[math]\\frac{n}{2}\\{2+(2 n-1)\\}[/math]"
+        },
+        "question": "কোনটি n-তম শক্তিস্তরে মোট অরবিটালের সংখ্যা প্রকাশ করে?",
+        "solution": "n-তম শক্তিস্তরে মোট অরবিটালের সংখ্যা হলো [math]n^2[/math]\u003Cbr\u003E ।অপশন A কে সরলীকরণ করলে পাওয়া যায়:[math]\\frac{n}{2}\\{1+(2 n-2)\\} = \\frac{n}{2}\\{1+2n-2\\} = \\frac{n}{2}\\{2n-1\\} = n^2 - \\frac{n}{2}[/math]\u003Cbr\u003Eএটি [math]n^2[/math]\u003Cbr\u003E-এর সমান নয়।অপশন B কে সরলীকরণ করলে পাওয়া যায়:[math]\\frac{n}{2}\\{1+(2 n-1)\\} = \\frac{n}{2}\\{1+2n-1\\} = \\frac{n}{2}\\{2n\\} = n^2[/math]\u003Cbr\u003Eএটি n-তম শক্তিস্তরে মোট অরবিটালের সংখ্যার সঠিক সূত্র।অন্যান্য অপশনগুলো [math]n^2[/math]\u003Cbr\u003E-এর সমান হয় না।পরমাণুর n-তম শক্তিস্তরে মোট অরবিটালের সংখ্যা [math]n^2[/math]\u003Cbr\u003E হয়। প্রতিটি শক্তিস্তরে s, p, d, f ইত্যাদি উপশক্তিস্তর থাকে, যেখানে অরবিটালের সংখ্যা নির্দিষ্ট। যেমন, n=1 তে 1টি ( [math]1s^2[/math]\u003Cbr\u003E), n=2 তে 4টি ( [math]2s^2, 2p^6[/math]\u003Cbr\u003E), n=3 তে 9টি ( [math]3s^2, 3p^6, 3d^{10}[/math]\u003Cbr\u003E) অরবিটাল থাকে।",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{n}{2}\\{1+(2 n-1)\\}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 365012,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 365012,
+            "tag_id": 77,
+            "year": "19-20",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365013,
+      "value": {
+        "options": {
+          "ক": "2p",
+          "খ": "2s",
+          "গ": "1s",
+          "ঘ": "3s"
+        },
+        "question": "কোন অরবিটালে ইলেকট্রনের ঘনত্ব সর্বাধিক?",
+        "solution": "1s অরবিটাল হলো সবচেয়ে ছোট এবং নিউক্লিয়াসের সবচেয়ে কাছাকাছি অবস্থিত।\n\nইলেকট্রন নিউক্লিয়াসের আকর্ষণের কারণে 1s অরবিটালে সবচেয়ে বেশি আবদ্ধ থাকে।\n\n1s অরবিটালের আকৃতি গোলাকার এবং এর কোনো angular momentum নেই।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 365013,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 365013,
+            "tag_id": 3,
+            "year": "18-19",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365014,
+      "value": {
+        "options": {
+          "ক": "9 টি",
+          "খ": "12 টি",
+          "গ": "16 টি",
+          "ঘ": "14 টি"
+        },
+        "question": "একটি মৌলের প্রধান শক্তি স্তরের মান n = 4 হলে, উক্তশক্তি স্তরে মোট অরবিটালের সংখ্যা কত ?",
+        "solution": "Solution :প্রধান শক্তি স্তরের মান হলে, ঐ শক্তি স্তরে মোট অরবিটাল সংখ্যা = [math]\\mathrm{n}^{2}[/math]\u003Cbr\u003E।[math]\\therefore[/math]\u003Cbr\u003E n= 4 হলে, অরবিটাল সংখ্যা [math]=4^{2}=16[/math]\u003Cbr\u003E.",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 365014,
+            "year_id": 22
+          }
+        },
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 365014,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 365014,
+            "tag_id": 11,
+            "year": "15-16",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        },
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 365014,
+            "tag_id": 84,
+            "year": "14-15",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365015,
+      "value": {
+        "options": {
+          "ক": "3 টি",
+          "খ": "5 টি",
+          "গ": "7 টি",
+          "ঘ": "6 টি"
+        },
+        "question": "f-উপস্তরে কয়টি অরবিটাল রয়েছে ?",
+        "solution": "f-উপস্তরে ৭টি অরবিটাল থাকে। অরবিটালের সংখ্যা নির্ভর করে উপস্তরের উপর। s-উপস্তরে ১টি, p-উপস্তরে ৩টি, d-উপস্তরে ৫টি এবং f-উপস্তরে ৭টি অরবিটাল থাকে। প্রতিটি অরবিটাল সর্বোচ্চ দুটি ইলেকট্রন ধারণ করতে পারে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 365015,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 365015,
+            "tag_id": 3,
+            "year": "15-16",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365009,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "3",
+          "গ": "5",
+          "ঘ": "7"
+        },
+        "question": "3p উপশক্তি স্তরে অরবিটাল কয়টি?",
+        "solution": "p উপশক্তি স্তরে অরবিটালের সংখ্যা সর্বদা ৩ টি। যেকোনো উপশক্তি স্তরের জন্য অরবিটালের সংখ্যা [math]2l + 1[/math]\u003Cbr\u003E সূত্র দ্বারা নির্ণয় করা হয়, যেখানে [math]l[/math]\u003Cbr\u003E হলো অ্যাজিমুথাল কোয়ান্টাম সংখ্যা। p উপশক্তি স্তরের জন্য [math]l[/math]\u003Cbr\u003E-এর মান হলো 1, তাই অরবিটালের সংখ্যা হবে [math]2(1) + 1 = 3[/math]\u003Cbr\u003E। s উপশক্তি স্তরের জন্য [math]l=0[/math]\u003Cbr\u003E হওয়ায় অরবিটাল সংখ্যা ১ টি, d উপশক্তি স্তরের জন্য [math]l=2[/math]\u003Cbr\u003E হওয়ায় অরবিটাল সংখ্যা ৫ টি এবং f উপশক্তি স্তরের জন্য [math]l=3[/math]\u003Cbr\u003E হওয়ায় অরবিটাল সংখ্যা ৭ টি।",
+        "explanation": "• কোনো উপশক্তিস্তরে অরবিটাল সংখ্যা = 2l + 1এখানে, l = সহকারী কোয়ান্টাম সংখ্যার মান।s : l = 0, p : l = 1, d : l = 2, f : l = 3যেকোনো s উপশক্তিস্তরে অরবিটাল সংখ্যা = 2l + 1 = 2 × 0 + 1 = 1 টি'' p '' '' '' = 2l + 1 = 2 × 1 + 1 = 3 টি'' d '' '' '' = 2l + 1 = 2 × 2 + 1 = 5 টি'' f '' '' '' = 2l + 1 = 2 × 3 + 1 = 7 টিNote: • উপশক্তিস্তরে মোট ইলেকট্রন সংখ্যা = 2(2l+1)• শক্তিস্তরে মোট অরবিটাল সংখ্যা = n 2• শক্তিস্তরে মোট ইলেকট্রন সংখ্যা 2n 2",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 365009,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 365009,
+            "tag_id": 57,
+            "year": "20-21",
+            "created_at": "2025-08-19T04:16:10.000000Z",
+            "updated_at": "2025-08-19T04:16:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364989,
+      "value": {
+        "options": [],
+        "question": "অরবিটাল কী?",
+        "solution": "পরমাণুর নিউক্লিয়াসকে কেন্দ্র করে বিভিন্ন শক্তিস্তরের যে সব অঞ্চলে ইলেকট্রন থাকা বা পাওয়ার সম্ভাবনা সবচেয়ে বেশি সেই অঞ্চলকে অরবিটাল বলে ।",
+        "explanation": "অরবিটাল হচ্ছে পরমাণুর নিউক্লিয়াসের চারপাশে এমন একটি ত্রিমাত্রিক অঞ্চল যেখানে একটি ইলেকট্রন পাওয়ার সম্ভাবনা সবচেয়ে বেশি থাকে। এটি সঠিক কারণ কোয়ান্টাম মেকানিক্সে ইলেকট্রনের আচরণকে ওয়েভফাংশন দিয়ে বর্ণনা করা হয় এবং সেই ওয়েভফাংশনের সমাধান থেকেই বিভিন্ন আকৃতি ও শক্তি স্তরের অরবিটাল নির্ধারিত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 364989,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 364989,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364989,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364989,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364989,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364989,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364989,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "tag_id": 3,
+            "year": "2022",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "tag_id": 5,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "tag_id": 3,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 364989,
+            "tag_id": 1,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364990,
+      "value": {
+        "options": [],
+        "question": "3f অর্বিটাল সম্ভব কিনা? ব্যাখ্যা কর?",
+        "solution": "3f এর ক্ষেত্রে n 3 সুতরাং / এর মান হচ্ছে 0, 1, 2\n\n1 = 0 হলে s অরবিটাল\n\n1 = 1 হলে p অরবিটাল এবং 1 = 2 হলে d অরবিটাল হয়।\n\nঅরবিটালের জন্য। এর মান 3 হওয়া আবশ্যক। যেহেতু এক্ষেত্রে / এর সর্বোচ্চ মান 2 তাই 3f অরবিটাল অসম্ভব।",
+        "explanation": "ব্যাখ্যা: f-অর্বিটাল-এর জন্য অভিক্ষেপীয় কোয়ান্টাম সংখ্যা [math]l=3[/math]. মূল কোয়ান্টাম সংখ্যা [math]n[/math] همیشه [math]n\u003El[/math] বা সমতুল্যভাবে [math]n≥l+1[/math] হতে হবে, তাই সর্বনিম্ন সম্ভাব্য [math]n=4[/math]. ফলে [math]3f[/math] অর্বিটাল সম্ভব নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 364990,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364990,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 364990,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364991,
+      "value": {
+        "options": [],
+        "question": "2d অরবিটালের অস্তিত্ব নেই কেন?",
+        "solution": "প্রধান কোয়ান্টাম সংখ্যা 'n' দ্বারা অরবিট বা প্রধান শক্তিস্তর এবং সহকারী কোয়ান্টাম সংখ্যা ‘/' দ্বারা উপশক্তিস্তর বোঝায়। ‘/’এর মান 0 থেকে ( n − 1 ) পর্যন্ত হয়। '7' এর মান 0, 1, 2, 3 হলে উপশক্তিস্তরকে যথাক্রমে s, p, d, f দ্বারা চিহ্নিত করা হয়।\n\nসুতরাং যখন, n = 2 তখন । 0. 1\n\nঅর্থাৎ ২য় শক্তিস্তরে উপশক্তিস্তরে 2s, 2p। তাই দ্বিতীয় শক্তিস্তরে (n = 2 ) 2d অরবিটাল অসম্ভব ।",
+        "explanation": "কোয়ান্টাম সংখ্যার নিয়ম অনুযায়ী কোণীয় ক্বান্ত সংখ্যা [math]l[/math] সর্বদা থাকে [math]0 \\le l \\le n-1[/math]; d অরবিটালের জন্য [math]l=2[/math] হওয়া জরুরি, তাই ন্যূনতম প্রধান ক্বান্ত সংখ্যা হবে [math]n=3[/math]। ফলে [math]n=2[/math] এ [math]l=2[/math] সম্ভব নয় এবং 2d অরবিটাল নেই।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 364991,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364991,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 364991,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364992,
+      "value": {
+        "options": [],
+        "question": "2d অরবিটাল সম্ভব নয় কেন?",
+        "solution": "প্রধান কোয়ান্টাম সংখ্যা ‘n’ দ্বারা অরবিট বা প্রধান শক্তিস্তর এবং সহকারী কোয়ান্টাম সংখ্যা ‘/' দ্বারা উপশক্তিস্তর বোঝায়।\n\n‘P’এর মান 0 থেকে ( n − 1) পর্যন্ত হয়। ‘/’এর মান 0, 1, 2, 3 হলে উপশক্তিস্তরকে যথাক্রমে s, p, d, f দ্বারা চিহ্নিত করা হয়।\n\nসুতরাং যখন, n = 2 তখন / = 0, 1\n\nঅর্থাৎ ২য় শক্তিস্তরে উপশক্তিস্তরে 2s, 2p ।\n\nতাই দ্বিতীয় শক্তিস্তরে (n = 2 ) 2d অরবিটাল অসম্ভব।",
+        "explanation": "ব্যাখ্যা: 2d অরবিটাল সম্ভব নয় কারণ কৌণিক ভ্রাম্যমানতা কোয়ান্টাম সংখ্যা [math]l[/math] এর মান সর্বদা [math]0\\le l\\le n-1[/math] হতে হবে। 2d হলে [math]n=2,\\,l=2[/math] হবে যা শর্ত লঙ্ঘন করে, তাই 2d অরবিটাল থাকতে পারে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364992,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364992,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 364992,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 364992,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364992,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 364992,
+            "tag_id": 3,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 364992,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 364992,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 364992,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364993,
+      "value": {
+        "options": {
+          "ক": "[math]2 n^{2}[/math]",
+          "খ": "[math](2 l+1)[/math]",
+          "গ": "[math]2(2 l+1)[/math]",
+          "ঘ": "[math]2(2 n+1)[/math]"
+        },
+        "question": "যে কোনো অরবিটালে সর্বোচ্চ ধারণকৃত ইলেকট্রন সংখ্যা কতটি?",
+        "solution": "প্রশ্ন ও উত্তর সম্পর্কিত আরও তথ্যকোনো শক্তিস্তরে সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা [math]2 n^{2}[/math]\u003Cbr\u003Eকোনো অরবিটালে সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা [math]2(2 l+1)[/math]\u003Cbr\u003EP অরবিটালের সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা হলো — 2 ( 2 × 1 + 1) = 6টি । [:. =1]",
+        "explanation": "",
+        "correct_answer": "C.[math]2(2 l+1)[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 364993,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364993,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 364993,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364994,
+      "value": {
+        "options": {
+          "ক": "5s",
+          "খ": "3f",
+          "গ": "2d",
+          "ঘ": "1p"
+        },
+        "question": "কোন অরবিটালটি সম্ভব-",
+        "solution": "পরমাণুতে অরবিটালের নামকরণ প্রধান কোয়ান্টাম সংখ্যা (n) এবং অ্যাজিমুথাল কোয়ান্টাম সংখ্যা (l) দ্বারা করা হয়। অ্যাজিমুথাল কোয়ান্টাম সংখ্যা (l) এর মান [math]0, 1, 2, ..., n-1[/math]\u003Cbr\u003E পর্যন্ত হতে পারে। [math]l=0[/math]\u003Cbr\u003E হলে s অরবিটাল, [math]l=1[/math]\u003Cbr\u003E হলে p অরবিটাল, [math]l=2[/math]\u003Cbr\u003E হলে d অরবিটাল এবং [math]l=3[/math]\u003Cbr\u003E হলে f অরবিটাল বোঝায়। বিকল্প A) 5s ক্ষেত্রে, [math]n=5[/math]\u003Cbr\u003E এবং [math]l=0[/math]\u003Cbr\u003E, যা সম্ভব কারণ [math]l[/math]\u003Cbr\u003E এর মান [math]0 \\leq n-1[/math]\u003Cbr\u003E ( [math]0 \\leq 4[/math]\u003Cbr\u003E)। বিকল্প B) 3f ক্ষেত্রে, [math]n=3[/math]\u003Cbr\u003E এবং [math]l=3[/math]\u003Cbr\u003E, যা সম্ভব নয় কারণ [math]l[/math]\u003Cbr\u003E এর সর্বোচ্চ মান [math]n-1 = 3-1 = 2[/math]\u003Cbr\u003E হতে পারে। বিকল্প C) 2d ক্ষেত্রে, [math]n=2[/math]\u003Cbr\u003E এবং [math]l=2[/math]\u003Cbr\u003E, যা সম্ভব নয় কারণ [math]l[/math]\u003Cbr\u003E এর সর্বোচ্চ মান [math]n-1 = 2-1 = 1[/math]\u003Cbr\u003E হতে পারে। বিকল্প D) 1p ক্ষেত্রে, [math]n=1[/math]\u003Cbr\u003E এবং [math]l=1[/math]\u003Cbr\u003E, যা সম্ভব নয় কারণ [math]l[/math]\u003Cbr\u003E এর সর্বোচ্চ মান [math]n-1 = 1-1 = 0[/math]\u003Cbr\u003E হতে পারে। তাই 5s অরবিটালটি সম্ভব।",
+        "explanation": "",
+        "correct_answer": "A. 5s"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364994,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364994,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 364994,
+            "tag_id": 1,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364995,
+      "value": {
+        "options": {
+          "ক": "বর্তুলাকার",
+          "খ": "গোলাকার",
+          "গ": "ডাম্বেল",
+          "ঘ": "ডাবোল ডাম্বেল"
+        },
+        "question": "p অরবিটালের আকৃতি কীরূপ ?",
+        "solution": "p অরবিটালের আকৃতি ডাম্বেল আকৃতির হয়ে থাকে। এটি দুটি লোব (lobe) নিয়ে গঠিত যা একটি নিউক্লিয়াসের সাথে সংযুক্ত থাকে। ইলেকট্রন মেঘ এই লোবগুলির মধ্যে বিস্তৃত থাকে।\n\nঅরবিটাল হলো একটি ত্রিমাত্রিক অঞ্চল যেখানে ইলেকট্রন খুঁজে পাওয়ার সম্ভাবনা সর্বাধিক। s অরবিটালের আকৃতি গোলাকার হয়, যেখানে p অরবিটালের আকৃতি ডাম্বেলের মতো এবং d ও f অরবিটালের আকৃতি আরও জটিল হয়ে থাকে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364995,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364995,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 364995,
+            "tag_id": 236,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364996,
+      "value": {
+        "options": {
+          "ক": "1p",
+          "খ": "4s",
+          "গ": "3f",
+          "ঘ": "2d"
+        },
+        "question": "নিচের কোন অরবিটালটি সম্ভব ?",
+        "solution": "পরমাণুতে ইলেকট্রনের অরবিটালের ধারণা অনুযায়ী, মুখ্য কোয়ান্টাম সংখ্যা (n) দ্বারা অরবিটালের শক্তিস্তর বোঝানো হয় এবং অ্যাজিমুথাল কোয়ান্টাম সংখ্যা (l) দ্বারা অরবিটালের আকৃতি বোঝানো হয়। অ্যাজিমুথাল কোয়ান্টাম সংখ্যার মান [math]l = 0, 1, 2, ..., n-1[/math]\u003Cbr\u003E পর্যন্ত হতে পারে। [math]l=0[/math]\u003Cbr\u003E হলে s অরবিটাল, [math]l=1[/math]\u003Cbr\u003E হলে p অরবিটাল, [math]l=2[/math]\u003Cbr\u003E হলে d অরবিটাল এবং [math]l=3[/math]\u003Cbr\u003E হলে f অরবিটাল বোঝায়।অপশন A) 1p: এখানে [math]n=1[/math]\u003Cbr\u003E এবং [math]l=1[/math]\u003Cbr\u003E। কিন্তু [math]n=1[/math]\u003Cbr\u003E হলে [math]l[/math]\u003Cbr\u003E এর সম্ভাব্য মান [math]0[/math]\u003Cbr\u003E (যা 1s অরবিটাল)। তাই 1p অরবিটাল সম্ভব নয়।অপশন B) 4s: এখানে [math]n=4[/math]\u003Cbr\u003E এবং [math]l=0[/math]\u003Cbr\u003E (s অরবিটালের জন্য)। [math]n=4[/math]\u003Cbr\u003E হলে [math]l[/math]\u003Cbr\u003E এর সম্ভাব্য মান [math]0, 1, 2, 3[/math]\u003Cbr\u003E। যেহেতু [math]l=0[/math]\u003Cbr\u003E সম্ভাব্য, তাই 4s অরবিটাল সম্ভব।অপশন C) 3f: এখানে [math]n=3[/math]\u003Cbr\u003E এবং [math]l=3[/math]\u003Cbr\u003E (f অরবিটালের জন্য)। কিন্তু [math]n=3[/math]\u003Cbr\u003E হলে [math]l[/math]\u003Cbr\u003E এর সম্ভাব্য মান [math]0, 1, 2[/math]\u003Cbr\u003E। [math]l=3[/math]\u003Cbr\u003E সম্ভব নয়।অপশন D) 2d: এখানে [math]n=2[/math]\u003Cbr\u003E এবং [math]l=2[/math]\u003Cbr\u003E (d অরবিটালের জন্য)। কিন্তু [math]n=2[/math]\u003Cbr\u003E হলে [math]l[/math]\u003Cbr\u003E এর সম্ভাব্য মান [math]0, 1[/math]\u003Cbr\u003E। [math]l=2[/math]\u003Cbr\u003E সম্ভব নয়।সুতরাং, 4s অরবিটালটি সম্ভব। এই নিয়মটি কোয়ান্টাম সংখ্যা সম্পর্কিত এবং বিভিন্ন অরবিটালের অস্তিত্ব ব্যাখ্যা করে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364996,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364996,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 364996,
+            "tag_id": 5,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364997,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "6",
+          "গ": "10",
+          "ঘ": "14"
+        },
+        "question": "একটি অরবিটালে সর্বাধিক কয়টি ইলেকট্রন থাকে?",
+        "solution": "একটি অরবিটালে সর্বাধিক দুটি ইলেকট্রন থাকতে পারে।",
+        "explanation": "ইলেকট্রনের দুটি মৌলিক বৈশিষ্ট্য রয়েছে: স্পিন এবং আধান।\n\nস্পিন হল ইলেকট্রনের ঘূর্ণনের বৈশিষ্ট্য। ইলেকট্রনের দুটি স্পিন অবস্থা থাকতে পারে: +1/2 (\"আপ\") এবং -1/2 (\"ডাউন\")।\n\nআধান হল ইলেকট্রনের বিদ্যুৎ চুম্বকীয় ভার। ইলেকট্রনের নেতিবাচক আধান (-) থাকে।\n\nপাউলির বর্জন নীতি অনুসারে, কোন দুটি ইলেকট্রন একই কোয়ান্টাম অবস্থায় থাকতে পারে না।\n\nকোয়ান্টাম অবস্থা হল ইলেকট্রনের তিনটি কোয়ান্টাম সংখ্যা (প্রধান কোয়ান্টাম সংখ্যা (n), l কোয়ান্টাম সংখ্যা এবং ml কোয়ান্টাম সংখ্যা) দ্বারা নির্ধারিত হয়।\n\nএকটি অরবিটাল হল একটি ত্রিমাত্রিক স্থান যেখানে ইলেকট্রন পাওয়ার সম্ভাবনা সবচেয়ে বেশি।\n\nএকটি অরবিটালে সর্বাধিক দুটি ইলেকট্রন থাকতে পারে যদি তাদের স্পিন বিপরীত হয়।\n\nএই দুটি ইলেকট্রনকে \"যুক্ত ইলেকট্রন\" বলা হয়।",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364997,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364997,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 364997,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364998,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "3",
+          "গ": "5",
+          "ঘ": "7"
+        },
+        "question": "d-উপস্তরে অরবিটাল কয়টি ?",
+        "solution": "d-উপস্তরে মোট ৫টি অরবিটাল থাকে। প্রতিটি অরবিটালে সর্বোচ্চ দুটি ইলেকট্রন থাকতে পারে, তাই d-উপস্তরে মোট [math]5 \\times 2 = 10[/math] টি ইলেকট্রন থাকতে পারে। s, p, d, f উপস্তরগুলিতে যথাক্রমে 1, 3, 5, 7টি অরবিটাল থাকে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 364998,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364998,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 364998,
+            "tag_id": 7,
+            "year": "2021",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364999,
+      "value": {
+        "options": {
+          "ক": "5 টি",
+          "খ": "9 টি",
+          "গ": "16 টি",
+          "ঘ": "25 টি"
+        },
+        "question": "পঞ্চম শক্তিস্তরে মোট অরবিটাল কতটি ?",
+        "solution": "পঞ্চম শক্তিস্তরে, মুখ্য কোয়ান্টাম সংখ্যা [math]n=5[/math]\u003Cbr\u003E। অরবিটালের সংখ্যা নির্ণয়ের সূত্র হলো [math]n^2[/math]\u003Cbr\u003E। তাই, পঞ্চম শক্তিস্তরে মোট অরবিটালের সংখ্যা হবে [math]5^2 = 25[/math]\u003Cbr\u003E টি।কক্ষীয় কোয়ান্টাম সংখ্যা [math]l[/math]\u003Cbr\u003E এর মান 0 থেকে [math]n-1[/math]\u003Cbr\u003E পর্যন্ত হতে পারে। সুতরাং, [math]n=5[/math]\u003Cbr\u003E এর জন্য [math]l[/math]\u003Cbr\u003E এর মানগুলি হবে 0, 1, 2, 3, 4। প্রতিটি [math]l[/math]\u003Cbr\u003E মানের জন্য অরবিটালের সংখ্যা [math](2l+1)[/math]\u003Cbr\u003E হয়।* [math]l=0[/math]\u003Cbr\u003E (s অরবিটাল): [math]2(0)+1 = 1[/math]\u003Cbr\u003E টি অরবিটাল* [math]l=1[/math]\u003Cbr\u003E (p অরবিটাল): [math]2(1)+1 = 3[/math]\u003Cbr\u003E টি অরবিটাল* [math]l=2[/math]\u003Cbr\u003E (d অরবিটাল): [math]2(2)+1 = 5[/math]\u003Cbr\u003E টি অরবিটাল* [math]l=3[/math]\u003Cbr\u003E (f অরবিটাল): [math]2(3)+1 = 7[/math]\u003Cbr\u003E টি অরবিটাল* [math]l=4[/math]\u003Cbr\u003E (g অরবিটাল): [math]2(4)+1 = 9[/math]\u003Cbr\u003E টি অরবিটালমোট অরবিটাল = [math]1 + 3 + 5 + 7 + 9 = 25[/math]\u003Cbr\u003E টি।সুতরাং, পঞ্চম শক্তিস্তরে মোট 25টি অরবিটাল রয়েছে। g অরবিটাল পঞ্চম শক্তিস্তরে প্রথম দেখা যায়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 364999,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364999,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 364999,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 365000,
+      "value": {
+        "options": {
+          "ক": "3s",
+          "খ": "2p",
+          "গ": "2d",
+          "ঘ": "1p"
+        },
+        "question": "কোন অরবিটালটি সম্ভব?",
+        "solution": "2p অরবিটালটি সম্ভব",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 365000,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 365000,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 365000,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364988,
+      "value": {
+        "options": [],
+        "question": "অরবিটাল কাকে বলে?",
+        "solution": "পরমাণুর যে অঞ্চলে ইলেকট্রন প্রাপ্তির সম্ভাবনা 90–95%, ইলেকট্রন মেঘের সে অঞ্চলকে অরবিটাল বলে ।",
+        "explanation": "অরবিটাল হল সেই অঞ্চল বা ক্ষেত্র যেখানে কোনো পারমাণবিক ইলেকট্রনের পাওয়া যাওয়ার সম্ভাবনা সবচেয়ে বেশি। এটিকে কোয়ান্টাম মেকানিক্সের তরঙ্গসমীকরণের সমাধান (ওয়েভফাংশন) দিয়ে পাওয়া যায় এবং প্রতিটি অরবিটাল তার আকৃতি ও শক্তি নির্ধারণকারী কোয়ান্টাম সংখ্যার মাধ্যমে চিহ্নিত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 364988,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 364988,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 364988,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 364988,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 364988,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364988,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364988,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364988,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364988,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 364988,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 364988,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 364988,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 364988,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 364988,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364987,
+      "value": {
+        "options": [],
+        "question": "অরবিটাল কী? পাঁচটি d অরবিটালের নাম লিখ এবং এদের দ্বি-মাত্রিক চিত্র অঙ্কন কর।",
+        "solution": "অরবিটাল: নিউক্লিয়াসের চারদিকে যে এলাকায় আবর্তনশীল ও নির্দিষ্ট শক্তিযুক্ত ইলেকট্রন মেঘের অবস্থানের সম্ভাবনা 90-95% হয়ে থাকে, ইলেকট্রন মেঘের সে এলাকাকে অরবিটাল বলা হয়।পাঁচটি d অরবিটাল: [math]\\mathrm{d}_{x y}, \\mathrm{~d}_{y z}, \\mathrm{~d}_{z x}, \\mathrm{~d}_{\\mathrm{x}^{2}-\\mathrm{y}^{2}}, \\mathrm{~d}_{\\mathrm{z}^{2}}[/math]\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2ftd11-removebg-preview_1755576969_ZP79qbEL.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "explanation": "ব্যাখ্যা: অরবিটাল হল সেই অঞ্চল যেখানে কোনো ইলেকট্রন পাওয়ার সম্ভাবনা বেশি; d অরবিটালগুলোর কোয়ান্টাম সংখ্যা [l = 2] হওয়ায় তাদের পাঁচটি আলাদা অভিক্ষেপ/আকৃতি থাকে, তাই পাঁচটি ভিন্ন d অরবিটাল আছে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E অরবিটাল কী? — ইলেকট্রন থাকার সম্ভাব্য অবস্থানের ত্রিমাত্রিক অঞ্চল।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পাঁচটি d অরবিটালের নাম ও দ্বি-মাত্রিক চিত্র (সরল বর্ণনা ও সাধারণ 2D স্কেচ):  \n- d_xy : d_xy — চার লব (বৃত্তের চার কোয়ার্টারে), অক্ষগুলির মাঝখানে অবস্থান  \n   · প্যাটার্ন: \n     \\  |  /\n      \\ | /\n    —  •  —\n      / | \\\n     /  |  \\  \n- d_xz : d_xz — x ও z অক্ষে চার লব (xz প্লেনে), d_yz : d_yz — y ও z অক্ষে চার লব (yz প্লেনে) (দৃশ্যে d_xy–এর মতো কিন্তু ভিন্ন প্লেন)  \n- d_x^2−y^2 : d_x^2−y^2 — চার লব সরাসরি x ও y অক্ষ বরাবর (লবগুলো অক্ষে অবস্থিত)  \n   + যেমন: লবগুলো অনুভূমিক ও উল্লম্ব দিকগুলোতে।  \n- d_z^2 : d_z^2 — উপরের ও নীচের দুটি লব এবং মাঝখানে একটি রিং/ডোনাট (অনুভূমিক কাঁঠাল)  \n   · প্যাটার্ন (বদলে দেন): উপরি লব  \n     (ring)  •  \n     নীচে লব\n\nএই পয়েন্টগুলো দেখে বোঝা যায় প্রতিটি d অরবিটালের নাম তার লবের দিকনির্দেশ/আকৃতির ওপর ভিত্তি করে দেওয়া।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 364987,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 364987,
+            "tag_id": 8,
+            "year": "20-21",
+            "created_at": "2025-08-19T04:16:09.000000Z",
+            "updated_at": "2025-08-19T04:16:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364960,
+      "value": {
+        "options": {
+          "ক": "8",
+          "খ": "10",
+          "গ": "14",
+          "ঘ": "18"
+        },
+        "question": "f অরবিটাল সর্বমোট কয়টি ইলেকট্রন ধারণ করতে পারে ?",
+        "solution": "s অরবিটাল = 2টি; p অরবিটাল = 6 টি ; d অরবিটাল = 10 টি ; f অরবিটাল = 14",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 364960,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 364960,
+            "tag_id": 3,
+            "year": "12-13",
+            "created_at": "2025-08-19T04:16:07.000000Z",
+            "updated_at": "2025-08-19T04:16:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364959,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "3",
+          "গ": "4",
+          "ঘ": "5"
+        },
+        "question": "2s অরবিটালে নোড থাকে কয়টি?",
+        "solution": "2s অরবিটালে নোডের সংখ্যা হলো [math]n-1[/math]\u003Cbr\u003E, যেখানে [math]n[/math]\u003Cbr\u003E হল মুখ্য কোয়ান্টাম সংখ্যা। 2s অরবিটালের জন্য, [math]n=2[/math]\u003Cbr\u003E, তাই নোডের সংখ্যা [math]2-1 = 1[/math]\u003Cbr\u003E। অরবিটালে রেডিয়াল নোডের সংখ্যা [math]n-l-1[/math]\u003Cbr\u003E এবং অ্যাঙ্গুলার নোডের সংখ্যা [math]l[/math]\u003Cbr\u003E দ্বারা প্রকাশ করা হয়। 2s অরবিটালের জন্য [math]n=2[/math]\u003Cbr\u003E এবং [math]l=0[/math]\u003Cbr\u003E (কারণ এটি s অরবিটাল)। সুতরাং, রেডিয়াল নোডের সংখ্যা [math]2-0-1 = 1[/math]\u003Cbr\u003E এবং অ্যাঙ্গুলার নোডের সংখ্যা [math]0[/math]\u003Cbr\u003E। মোট নোডের সংখ্যা রেডিয়াল নোড এবং অ্যাঙ্গুলার নোডের যোগফল, অর্থাৎ [math]1+0=1[/math]\u003Cbr\u003E।",
+        "explanation": "ns অরবিটালে নোড এর সংখ্যা = (n-1) টি= ( 2 - 1 )= 1 টি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 364959,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3259,
+          "full_name": "University of Rajshahi (G Unit)",
+          "short_name": "RU-G",
+          "slug": "ru-g",
+          "pivot": {
+            "question_bank_id": 364959,
+            "tag_id": 3259,
+            "year": "14-15",
+            "created_at": "2025-08-19T04:16:07.000000Z",
+            "updated_at": "2025-08-19T04:16:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364961,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "5",
+          "গ": "8",
+          "ঘ": "9"
+        },
+        "question": "পরমাণুর ৩য় কক্ষপথে মোট অরবিটাল সংখ্যা কতটি?",
+        "solution": "পরমাণুর [math]n[/math]\u003Cbr\u003E-তম কক্ষপথে মোট অরবিটালের সংখ্যা [math]n^2[/math]\u003Cbr\u003E সূত্র দ্বারা নির্ণয় করা হয়। এখানে [math]n[/math]\u003Cbr\u003E হলো মুখ্য কোয়ান্টাম সংখ্যা, যা কক্ষপথের সংখ্যা নির্দেশ করে। তৃতীয় কক্ষপথের জন্য [math]n=3[/math]\u003Cbr\u003E। অতএব, তৃতীয় কক্ষপথে অরবিটালের মোট সংখ্যা হলো [math]3^2 = 9[/math]\u003Cbr\u003E।পরমাণুর ইলেক্ট্রন বিন্যাসে অরবিটালগুলো [math]s[/math]\u003Cbr\u003E, [math]p[/math]\u003Cbr\u003E, [math]d[/math]\u003Cbr\u003E, [math]f[/math]\u003Cbr\u003E ইত্যাদি নামে পরিচিত। প্রতিটি অরবিটালের নির্দিষ্ট সংখ্যক ইলেকট্রন ধারণের ক্ষমতা রয়েছে। [math]s[/math]\u003Cbr\u003E অরবিটালে সর্বোচ্চ ২ টি, [math]p[/math]\u003Cbr\u003E অরবিটালে সর্বোচ্চ ৬ টি, [math]d[/math]\u003Cbr\u003E অরবিটালে সর্বোচ্চ ১০ টি এবং [math]f[/math]\u003Cbr\u003E অরবিটালে সর্বোচ্চ ১৪ টি ইলেকট্রন থাকতে পারে।প্রথম কক্ষপথে ( [math]n=1[/math]\u003Cbr\u003E) মাত্র একটি [math]s[/math]\u003Cbr\u003E অরবিটাল থাকে, মোট অরবিটালের সংখ্যা [math]1^2=1[/math]\u003Cbr\u003E।দ্বিতীয় কক্ষপথে ( [math]n=2[/math]\u003Cbr\u003E) একটি [math]s[/math]\u003Cbr\u003E এবং তিনটি [math]p[/math]\u003Cbr\u003E অরবিটাল থাকে, মোট অরবিটালের সংখ্যা [math]2^2=4[/math]\u003Cbr\u003E।তৃতীয় কক্ষপথে ( [math]n=3[/math]\u003Cbr\u003E) একটি [math]s[/math]\u003Cbr\u003E, তিনটি [math]p[/math]\u003Cbr\u003E এবং পাঁচটি [math]d[/math]\u003Cbr\u003E অরবিটাল থাকে, মোট অরবিটালের সংখ্যা [math]3^2=9[/math]\u003Cbr\u003E।চতুর্থ কক্ষপথে ( [math]n=4[/math]\u003Cbr\u003E) একটি [math]s[/math]\u003Cbr\u003E, তিনটি [math]p[/math]\u003Cbr\u003E, পাঁচটি [math]d[/math]\u003Cbr\u003E এবং সাতটি [math]f[/math]\u003Cbr\u003E অরবিটাল থাকে, মোট অরবিটালের সংখ্যা [math]4^2=16[/math]\u003Cbr\u003E।সুতরাং, তৃতীয় কক্ষপথে মোট অরবিটালের সংখ্যা ৯ টি।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 364961,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 364961,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 364961,
+            "tag_id": 4,
+            "year": "11-12",
+            "created_at": "2025-08-19T04:16:07.000000Z",
+            "updated_at": "2025-08-19T04:16:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364962,
+      "value": {
+        "options": {
+          "ক": "4",
+          "খ": "7",
+          "গ": "10",
+          "ঘ": "16"
+        },
+        "question": "পরমাণুর চতুর্থ শক্তিস্তরে মোট আরবিটাল সংখ্যা কয়টি?",
+        "solution": "পরমাণুর যেকোনো শক্তিস্তরে মোট আরবিটালের সংখ্যা ঐ শক্তিস্তরের প্রধান কোয়ান্টাম সংখ্যা (n) এর বর্গের সমান। অর্থাৎ, মোট আরবিটালের সংখ্যা = [math]n^2[/math]\u003Cbr\u003E। চতুর্থ শক্তিস্তরের জন্য [math]n=4[/math]\u003Cbr\u003E, সুতরাং মোট আরবিটালের সংখ্যা হবে [math]4^2 = 16[/math]\u003Cbr\u003E।বিভিন্ন প্রধান শক্তিস্তরে (n) অনুমোদিত উপশক্তিস্তর (l) এবং তাদের সংশ্লিষ্ট আরবিটালের সংখ্যা নিচে দেওয়া হলো:n=1: 1s (1 আরবিটাল)n=2: 2s (1 আরবিটাল), 2p (3 আরবিটাল)n=3: 3s (1 আরবিটাল), 3p (3 আরবিটাল), 3d (5 আরবিটাল)n=4: 4s (1 আরবিটাল), 4p (3 আরবিটাল), 4d (5 আরবিটাল), 4f (7 আরবিটাল)।মোট আরবিটালের সংখ্যা = 1 + 3 + 5 + 7 = 16।অপশন A, B, এবং C তে প্রদত্ত সংখ্যাগুলো যথাক্রমে প্রধান কোয়ান্টাম সংখ্যা (n), p উপশক্তিস্তরের আরবিটালের সংখ্যা (3), এবং d উপশক্তিস্তরের আরবিটালের সংখ্যা (5) এর সাথে সম্পর্কিত, কিন্তু চতুর্থ শক্তিস্তরের মোট আরবিটালের সঠিক সংখ্যা নয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3491,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "lingkn-szar",
+          "pivot": {
+            "question_bank_id": 364962,
+            "tag_id": 3491,
+            "year": null,
+            "created_at": "2025-08-19T04:16:07.000000Z",
+            "updated_at": "2025-08-19T04:16:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364963,
+      "value": {
+        "options": {
+          "ক": "n সংখ্যক",
+          "খ": "( n + 1) সংখ্যক",
+          "গ": "[math]2 \\mathrm{n}^{2}[/math] সংখ্যক",
+          "ঘ": "(n-1) সংখ্যক"
+        },
+        "question": "একটি ns অরবিটালে কত সংখ্যক পর্ব বা নোড (node) থাকতে পারে—",
+        "solution": "একটি ns অরবিটালে মোট নোডের সংখ্যা হল [math](n-1)[/math]\u003Cbr\u003E। এর মধ্যে [math](n-1)[/math]\u003Cbr\u003E সংখ্যক তलीय নোড (radial node) এবং 0 সংখ্যক কৌণিক নোড (angular node) থাকে। তलीय নোডের সংখ্যা [math](n-1)[/math]\u003Cbr\u003E এবং কৌণিক নোডের সংখ্যা [math]l[/math]\u003Cbr\u003E-এর উপর নির্ভর করে, যেখানে [math]l[/math]\u003Cbr\u003E হল অ্যাজিমুথাল কোয়ান্টাম সংখ্যা। ns অরবিটালের জন্য [math]l=0[/math]\u003Cbr\u003E, তাই কৌণিক নোডের সংখ্যা 0। মোট নোডের সংখ্যা [math](n-1)[/math]\u003Cbr\u003E টি।",
+        "explanation": "",
+        "correct_answer": "D.(n-1) সংখ্যক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3492,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "snjit-szar",
+          "pivot": {
+            "question_bank_id": 364963,
+            "tag_id": 3492,
+            "year": null,
+            "created_at": "2025-08-19T04:16:07.000000Z",
+            "updated_at": "2025-08-19T04:16:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364964,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "4"
+        },
+        "question": "[math]d_{x y}[/math] অরবিটালে কয়টি লোব (lobe) থাকে?",
+        "solution": "[math]d_{xy}[/math]\u003Cbr\u003E অরবিটালে চারটি লোব থাকে। এই চারটি লোব [math]x[/math]\u003Cbr\u003E এবং [math]y[/math]\u003Cbr\u003E অক্ষদ্বয়ের মধ্যবর্তী স্থানে অবস্থিত। [math]d[/math]\u003Cbr\u003E অরবিটালগুলির মধ্যে [math]d_{xy}[/math]\u003Cbr\u003E, [math]d_{yz}[/math]\u003Cbr\u003E, এবং [math]d_{xz}[/math]\u003Cbr\u003E অরবিটালগুলিতে চারটি করে লোব থাকে, এবং এগুলি অক্ষের মাঝে অবস্থিত। অন্যদিকে, [math]d_{x^2-y^2}[/math]\u003Cbr\u003E অরবিটালেও চারটি লোব থাকে, তবে সেগুলি অক্ষ বরাবর অবস্থিত। [math]d_{z^2}[/math]\u003Cbr\u003E অরবিটালে দুটি লোব এবং একটি বলয় (torus) থাকে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3493,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "hajaree-szar",
+          "pivot": {
+            "question_bank_id": 364964,
+            "tag_id": 3493,
+            "year": null,
+            "created_at": "2025-08-19T04:16:07.000000Z",
+            "updated_at": "2025-08-19T04:16:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364965,
+      "value": {
+        "options": {
+          "ক": "2P",
+          "খ": "1s",
+          "গ": "2s",
+          "ঘ": "3s"
+        },
+        "question": "কোন অরবিটালে ইলেকট্রন ঘনত্ব সর্বাধিক?",
+        "solution": "1s অরবিটালটি পারমাণবিক নিউক্লিয়াসের সবচেয়ে কাছে অবস্থিত, তাই ইলেকট্রন ঘনত্ব সর্বাধিক। P এবং s অরবিটালগুলি প্রধান কোয়ান্টাম সংখ্যার উপর নির্ভর করে। 1s অরবিটালের প্রধান কোয়ান্টাম সংখ্যা 1, যা অন্য বিকল্পগুলির (2s, 2p, 3s) চেয়ে কম। প্রধান কোয়ান্টাম সংখ্যা যত কম হয়, অরবিটালটি নিউক্লিয়াসের তত কাছাকাছি থাকে এবং ইলেকট্রন ঘনত্ব তত বেশি হয়। 2s অরবিটালের ইলেকট্রন ঘনত্ব 2p অরবিটালের চেয়ে বেশি, কারণ s অরবিটালের আকৃতি গোলাকার এবং নিউক্লিয়াসের কাছাকাছি অঞ্চলে ইলেকট্রন পাওয়ার সম্ভাবনা বেশি। 3s অরবিটাল 1s এবং 2s অরবিটালের চেয়ে দূরে অবস্থিত।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3493,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "hajaree-szar",
+          "pivot": {
+            "question_bank_id": 364965,
+            "tag_id": 3493,
+            "year": null,
+            "created_at": "2025-08-19T04:16:07.000000Z",
+            "updated_at": "2025-08-19T04:16:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364966,
+      "value": {
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4"
+        },
+        "question": "[math]\\mathrm{d}_\\mathrm{x y}[/math] অরবিটালে Lobe সংখ্যা কয়টি?",
+        "solution": "dx, dy অরবিটালটির চারটি লোব থাকে। এটি d উপশক্তিস্তরের একটি অরবিটাল এবং এর আকৃতি একটি চার-পাপড়িযুক্ত ফুলের মতো। প্রতিটি পাপড়িকে একটি লোব বলা হয়। এই চারটি লোব xz এবং yz তলে অবস্থিত।d উপশক্তিস্তরে মোট পাঁচটি অরবিটাল থাকে: [math]d_{xy}[/math]\u003Cbr\u003E, [math]d_{yz}[/math]\u003Cbr\u003E, [math]d_{xz}[/math]\u003Cbr\u003E, [math]d_{x^2-y^2}[/math]\u003Cbr\u003E, এবং [math]d_{z^2}[/math]\u003Cbr\u003E। এদের মধ্যে [math]d_{xy}[/math]\u003Cbr\u003E, [math]d_{yz}[/math]\u003Cbr\u003E, [math]d_{xz}[/math]\u003Cbr\u003E এবং [math]d_{x^2-y^2}[/math]\u003Cbr\u003E অরবিটালগুলির আকৃতিতে চারটি করে লোব থাকে। [math]d_{z^2}[/math]\u003Cbr\u003E অরবিটালটির দুটি লোব z-অক্ষ বরাবর এবং একটি বলয় বা ডোনাট আকৃতির লোব xy-তলে থাকে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 364966,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:16:07.000000Z",
+            "updated_at": "2025-08-19T04:16:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364967,
+      "value": {
+        "options": {
+          "ক": "2d ও 3f",
+          "খ": "6s ও 5f",
+          "গ": "2s ও 2p",
+          "ঘ": "4s ও 4p"
+        },
+        "question": "নিচের অরবিটাল সমূহের মধ্যে কোনটি অসম্ভব?",
+        "solution": "[math]2d: n=2[/math]\u003Cbr\u003E এর জন্য l এর মান 0 এবং 1 হতে পারে। l=0 হলে s অরবিটাল এবং l=1 হলে p অরবিটাল। d অরবিটালের জন্য l এর মান 2 হতে হয়। সুতরাং 2d অরবিটাল অসম্ভব।[math]3f: n=3[/math]\u003Cbr\u003E এর জন্য l এর মান 0, 1 এবং 2 হতে পারে। l=0 হলে s অরবিটাল, l=1 হলে p অরবিটাল এবং l=2 হলে d অরবিটাল। f অরবিটালের জন্য l এর মান 3 হতে হয়। সুতরাং 3f অরবিটাল অসম্ভব।",
+        "explanation": "",
+        "correct_answer": "A.2d ও 3f"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 260,
+          "full_name": "Pabna Govt. Women’s College",
+          "short_name": "PGWC",
+          "slug": "pgwc",
+          "pivot": {
+            "question_bank_id": 364967,
+            "tag_id": 260,
+            "year": null,
+            "created_at": "2025-08-19T04:16:07.000000Z",
+            "updated_at": "2025-08-19T04:16:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364969,
+      "value": {
+        "options": {
+          "ক": "1টি",
+          "খ": "2টি",
+          "গ": "3টি",
+          "ঘ": "4টি"
+        },
+        "question": "প্রতিটি অরবিটালে সর্বোচ্চ কতটি ইলেকট্রন থাকতে পারে?",
+        "solution": "১টি অরবিটালে সর্বোচ্চ ২টি ইলেকট্রন থাকতে পারে। যাদের স্পিন পরস্পর বিপরীতমুখী হয়।",
+        "explanation": "",
+        "correct_answer": "B.2টি"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364986,
+      "value": {
+        "options": {
+          "ক": "[math]1s[/math]",
+          "খ": "[math]2p[/math]",
+          "গ": "[math]2d[/math]",
+          "ঘ": "[math]4d[/math]"
+        },
+        "question": "নিম্নে দেয়া অরবিটালসমূহের কোনটি থাকা সম্ভব নয়?",
+        "solution": "[math]n = 2[/math]\u003Cbr\u003E হলে, [math]l = 0 1, 2d[/math]\u003Cbr\u003E এর ক্ষেত্রে, [math]n = 2 l = 2[/math]\u003Cbr\u003E যা সম্ভব নয়। সুতরাং [math]2d[/math]\u003Cbr\u003E অসম্ভব।",
+        "explanation": "",
+        "correct_answer": "C.[math]2d[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364985,
+      "value": {
+        "options": {
+          "ক": "৩টি",
+          "খ": "৪টি",
+          "গ": "৫টি",
+          "ঘ": "৬টি"
+        },
+        "question": "পারমাণবিক সংখ্যা 11 এবং ভর সংখ্যা 23 বিশিষ্ট কোন মৌলের অরবিটাল সংখ্যা-",
+        "solution": "মৌলটি সোডিয়াম (Na)।এর ইলেকট্রন বিন্যাস হলো: [math]\\mathrm{Na}(11) \\rightarrow 1 \\mathrm{~s}^{2} 2 s^{2} 2 p_{x}^{1} 2 p_{y}^{1} 2 p_{z}^{1} 3 s^{1}[/math] অরবিটাল = ৩টিp অরবিটাল = ৩টি মোট = ৬টি",
+        "explanation": "",
+        "correct_answer": "D.৬টি"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364984,
+      "value": {
+        "options": {
+          "ক": "অরবিট",
+          "খ": "ইলেকট্রন ক্লাউড",
+          "গ": "অরবিটাল",
+          "ঘ": "উপশক্তিস্তর"
+        },
+        "question": "পরমাণুর নিউক্লিয়াসের চারদিকের যে এলাকার মধ্যে ইলেকট্রনের উপস্থিতির সম্ভাবনা নব্বই শতাংশ সে এলাকার নাম কী?",
+        "solution": "পরমাণুর নিউক্লিয়াসের চারদিকে যেখানে ইলেকট্রন প্রাপ্তির সম্ভাবনা সবচেয়ে বেশি (90-95%) তাকে অরবিটাল বলে।",
+        "explanation": "",
+        "correct_answer": "C.অরবিটাল"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364983,
+      "value": {
+        "options": {
+          "ক": "প্রধান শক্তিস্তরই অররিট নামে পরিচিত।",
+          "খ": "অরবিটাল হচ্ছে তরঙ্গ ফাংশনের যা দ্বারা 'পরমাণুতে ইলেকট্রনের অবস্থান বর্ণনা, করা যায়।",
+          "গ": "বিজ্ঞানী Broglie ইলেকট্রনকে তরঙ্গের সাথে তুলনা করেন এবং তরঙ্গ ফাংশন দ্বারা প্রকাশ করেন।",
+          "ঘ": "[math]\\psi^{2}[/math] এর মান ইলেকট্রন তরঙ্গের তীব্রতার ব্যস্তানুপাতিক।"
+        },
+        "question": "অরবিট ও অরবিটাল সম্পর্কে কোনটি সত্য নয়?",
+        "solution": "[math]\\psi^{2}[/math]\u003Cbr\u003E প্রশ্নটি কয়েকটি Topic থেকে সমন্বিতভাবে করা হয়েছে। লক্ষ করুন- পরমাণুতে নিউক্লিয়াসের চতুর্দিকে ইলেকট্রন আবর্তনের জন্য কতকগুলো নির্দিষ্ট শক্তিবিশিষ্ট কক্ষপথ রয়েছে। এদেরকে প্রধান শক্তিস্তর বা শেল বলে। এ প্রধান শক্তিস্তরই অরবিট নামে পরিচিত। বিজ্ঞানী Broglie ইলেকট্রনকে তরঙ্গের সাথে তুলনা করেন এবং একে তরঙ্গ ফাংশন $ [math]\\psi^{2}[/math]\u003Cbr\u003E [math]দ্বারা প্রকাশ করেন।[/math]\u003Cbr\u003E\\psi^{2}$-এর মান ইলেকট্রন তরঙ্গের তীব্রতার সমানুপাতিক।",
+        "explanation": "",
+        "correct_answer": "D.[math]\\psi^{2}[/math] এর মান ইলেকট্রন তরঙ্গের তীব্রতার ব্যস্তানুপাতিক।"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364982,
+      "value": {
+        "options": {
+          "ক": "৮০-৮৫%",
+          "খ": "৮০-৯০%",
+          "গ": "৯০-৯৫%",
+          "ঘ": "৯০-৯৫%"
+        },
+        "question": "অরবিটাল ইলেকট্রনের অবস্থানের সম্ভাবনা কত?",
+        "solution": "অরবিটাল: নিউক্লিয়াসের চারদিকে যে নির্দিষ্ট ত্রিমাত্রিক স্থানে কোন নির্দিষ্ট শক্তির ইলেকট্রনের অবস্থানের সম্ভাবনা বেশি থাকে (90-95%) তাকে অরবিটাল বলে। সুতরাং অরবিটাল হচ্ছে তরঙ্গ ফাংশন যা দ্বারা কোন পরমাণুতে ইলেকট্রনের অবস্থান বর্ণনা করা যায়। অরবিটাল শব্দটি দ্বারা পরমাণুতে বিভিন্ন উপশক্তিস্তর বোঝানো হয়।",
+        "explanation": "",
+        "correct_answer": "D.৯০-৯৫%"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364981,
+      "value": {
+        "options": {
+          "ক": "অরবিট",
+          "খ": "অরবিটাল",
+          "গ": "চৌম্বক কোয়ান্টাম সংখ্যা",
+          "ঘ": "প্রধান কোয়ান্টাম সংখ্যা"
+        },
+        "question": "নিউক্লিয়াসের চারদিকে যে নির্দিষ্ট ত্রিমাত্রিক স্থানে কোন নির্দিষ্ট শক্তির ইলেকট্রনের অবস্থানের সম্ভাবনা বেশী থাকে তাকে কি বলে?",
+        "solution": "অরবিটাল: নিউক্লিয়াসের চারদিকে যে নির্দিষ্ট ত্রিমাত্রিক স্থানে কোন নির্দিষ্ট শক্তির ইলেকট্রনের অবস্থানের সম্ভাবনা বেশি থাকে (90-95%) তাকে অরবিটাল বলে। সুতরাং অরবিটাল হচ্ছে তরঙ্গ ফাংশন যা দ্বারা কোন পরমাণুতে ইলেকট্রনের অবস্থান বর্ণনা করা যায়। অরবিটাল শব্দটি দ্বারা পরমাণুতে বিভিন্ন উপশক্তিস্তর বোঝানো হয়।",
+        "explanation": "",
+        "correct_answer": "B.অরবিটাল"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364980,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৬"
+        },
+        "question": "অরবিটালে কয়টি নোড থাকে?",
+        "solution": "অরবিটাল: কোনো ইলেকট্রনের শক্তিস্তরের সহকারী কোয়ান্টাম সংখ্যা [math]l = 2[/math]\u003Cbr\u003E হলে তখন d-অরবিটাল সম্ভব। যখন [math]l = 2[/math]\u003Cbr\u003E, হয়, তখন m এর মান পাঁচটি হয়; যেমন- [math]m=(2 /+1)=(2 \\times 2+1)=5;[/math]\u003Cbr\u003E এসব মান হলো [math]+2,+1,0,-1,-21 \\mathrm{~d}-[/math]\u003Cbr\u003E অরবিটালের পাঁচ প্রকার ত্রিমাত্রিক বিন্যাস সম্ভব অর্থাৎ পাঁচটি সমশক্তির -অরবিটাল আছে; এদেরকে [math]d_{x y}, d_{y x}, d_{1 x}, d_{x}{ }^{2} y^{2}, d_{y}^{2}[/math]\u003Cbr\u003E বলে। [math]d[/math]\u003Cbr\u003E-অরবিটাল আকৃতি চারটি লোব (নোড) বিশিষ্ট ডাবল ডাম্বেলের মত।",
+        "explanation": "",
+        "correct_answer": "C.৪"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364979,
+      "value": {
+        "options": {
+          "ক": "৫ প্রকার",
+          "খ": "৪ প্রকার",
+          "গ": "৩ প্রকার",
+          "ঘ": "৬ প্রকার"
+        },
+        "question": "[math]d[/math] -অরবিটালের কত প্রকার ত্রিমাত্রিক বিন্যাস সম্ভব?",
+        "solution": "অরবিটাল: কোনো ইলেকট্রনের শক্তিস্তরের সহকারী কোয়ান্টাম সংখ্যা [math]l = 2[/math]\u003Cbr\u003E হলে তখন d-অরবিটাল সম্ভব। যখন [math]l = 2[/math]\u003Cbr\u003E , হয়, তখন m এর মান পাঁচটি হয়; যেমন- [math]m=(2 /+1)=(2 \\times 2+1)=5;[/math]\u003Cbr\u003E এসব মান হলো [math]+2,+1,0,-1,-21 \\mathrm{~d}-[/math]\u003Cbr\u003E অরবিটালের পাঁচ প্রকার ত্রিমাত্রিক বিন্যাস সম্ভব অর্থাৎ পাঁচটি সমশক্তির -অরবিটাল আছে; এদেরকে [math]d_{x y}, d_{y x}, d_{1 x}, d_{x}{ }^{2} y^{2}, d_{y}^{2}[/math]\u003Cbr\u003E বলে। [math]d[/math]\u003Cbr\u003E-অরবিটাল আকৃতি চারটি লোব (নোড) বিশিষ্ট ডাবল ডাম্বেলের মত।",
+        "explanation": "",
+        "correct_answer": "A.৫ প্রকার"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364968,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "6",
+          "গ": "10",
+          "ঘ": "14"
+        },
+        "question": "একটি অরবিটালে সর্বাধিক কয়টি ইলেকট্রন থাকে?",
+        "solution": "উপন্তরে সর্বোচ্চ ইলেকট্রন ধারন ক্ষমতা: কোন অরবিটে সর্বাধিক ইলেকট্রন ধারণ ক্ষমতা [math]2n²[/math] যেখানে । অরবিট সংখ্যা প্রকাশ করে। আবার, প্রতিটি অরবিটালে বিপরীত স্পিনযুক্ত সর্বাধিক ২টি ইলেকট্রন থাকতে পারে।",
+        "explanation": "",
+        "correct_answer": "A.2"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364978,
+      "value": {
+        "options": {
+          "ক": "ডাবল-ডাম্বেলের ন্যায়",
+          "খ": "ডাম্বেলের ন্যায়",
+          "গ": "গোলকের ন্যায়",
+          "ঘ": "ফুটবলের ন্যায়"
+        },
+        "question": "[math]p[/math]-অরবিটালের আকৃতি কীসের ন্যায়?",
+        "solution": "উপন্তরসমূহের আকৃতি: চারপাশের ইলেকট্রনের অবস্থানের সম্ভাব্য এলাকাগুলোকে ইলেকট্রন মেঘবলয় দ্বারা প্রকাশ করা হয়। ইলেকট্রন মেঘবলয়ের সর্বাধিক ঘনত্ব বিশিষ্ট অঞ্চলকেই অরবিটাল বলা হয়। চারটি ভিন্ন অরবিটাল বা উপত্তর (s, p, d, f) এর আকৃতি ভিন্ন।(i) s-অরবিটালের আকৃতি গোলকের মত।(ii) p-অরবিটালের আকৃতি ডাম্বেলের মত।(iii) d-অরবিটালের আকৃতি চারটি লোব বিশিষ্ট ডাবল-ডাম্বেলের মত।(iv) f-অরবিটালে আটটি করে ইলেকট্রন লোবকে তিনটি নোডাল প্লেন আলাদা করে রাখে।",
+        "explanation": "",
+        "correct_answer": "B.ডাম্বেলের ন্যায়"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364970,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "6",
+          "গ": "10",
+          "ঘ": "14"
+        },
+        "question": "[math]s[/math]-অরবিটালে সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা কত?",
+        "solution": "[math]s[/math]\u003Cbr\u003E-অরবিটালে সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা:[math]s-[/math]\u003Cbr\u003Eউপস্তরে (অরবিটাল) [math]l = 0[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2 l+1)=2(0+1)=2[/math]\u003Cbr\u003E [math]p[/math]\u003Cbr\u003E-উপরে (অরবিটাল) [math]l = 1[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2 (2l + 1) = 2(2 + 1) = 6[/math]\u003Cbr\u003E [math]d[/math]\u003Cbr\u003E-উপস্তরে (অরবিটাল) l = 2[math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2 l+1)=2(4+1)=10[/math]\u003Cbr\u003E [math]f[/math]\u003Cbr\u003Eউপস্তরে (অরবিটাল) l = 3[math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2l + 1) = 2(6 + 1) = 14[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.2"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364971,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "6",
+          "গ": "10",
+          "ঘ": "14"
+        },
+        "question": "[math]p[/math]-অরবিটালে সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা কত?",
+        "solution": "[math]s[/math]\u003Cbr\u003E-অরবিটালে সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা:[math]s-[/math]\u003Cbr\u003Eউপস্তরে (অরবিটাল) [math]l = 0[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2 l+1)=2(0+1)=2[/math]\u003Cbr\u003E [math]p[/math]\u003Cbr\u003E-উপরে (অরবিটাল) [math]l = 1[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2 (2l + 1) = 2(2 + 1) = 6[/math]\u003Cbr\u003E [math]d[/math]\u003Cbr\u003E-উপস্তরে (অরবিটাল) l = 2[math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2 l+1)=2(4+1)=10[/math]\u003Cbr\u003E [math]f[/math]\u003Cbr\u003Eউপস্তরে (অরবিটাল) l = 3[math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2l + 1) = 2(6 + 1) = 14[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.6"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364972,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "6",
+          "গ": "10",
+          "ঘ": "14"
+        },
+        "question": "[math]d[/math]-অরবিটালে সর্বোচ্চ ধারণ ক্ষমতা কত?",
+        "solution": "[math]s[/math]\u003Cbr\u003E-অরবিটালে সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা:[math]s-[/math]\u003Cbr\u003Eউপস্তরে (অরবিটাল) [math]l = 0[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2 l+1)=2(0+1)=2[/math]\u003Cbr\u003E [math]p[/math]\u003Cbr\u003E-উপরে (অরবিটাল) [math]l = 1[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2 (2l + 1) = 2(2 + 1) = 6[/math]\u003Cbr\u003E [math]d[/math]\u003Cbr\u003E-উপস্তরে (অরবিটাল) [math]l = 2[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2 l+1)=2(4+1)=10[/math]\u003Cbr\u003E [math]f[/math]\u003Cbr\u003Eউপস্তরে (অরবিটাল) [math]l = 3[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2l + 1) = 2(6 + 1) = 14[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.10"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364973,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "6",
+          "গ": "10",
+          "ঘ": "14"
+        },
+        "question": "[math]f[/math] -অরবিটালের সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা কত?",
+        "solution": "[math]s[/math]\u003Cbr\u003E-অরবিটালে সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা:[math]s-[/math]\u003Cbr\u003Eউপস্তরে (অরবিটাল) [math]l = 0[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2 l+1)=2(0+1)=2[/math]\u003Cbr\u003E [math]p[/math]\u003Cbr\u003E-উপরে (অরবিটাল) [math]l = 1[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2 (2l + 1) = 2(2 + 1) = 6[/math]\u003Cbr\u003E [math]d[/math]\u003Cbr\u003E-উপস্তরে (অরবিটাল) [math]l = 2[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2 l+1)=2(4+1)=10[/math]\u003Cbr\u003E [math]f[/math]\u003Cbr\u003Eউপস্তরে (অরবিটাল) [math]l = 3[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইলেকট্রনের সংখ্যা [math]2(2l + 1) = 2(6 + 1) = 14[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.14"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364974,
+      "value": {
+        "options": {
+          "ক": "[math]2p[/math]",
+          "খ": "[math]1s[/math]",
+          "গ": "[math]2s[/math]",
+          "ঘ": "[math]3s[/math]"
+        },
+        "question": "কোন অরবিটালের ইলেকট্রনের ঘনত্ব সর্বাধিক?",
+        "solution": "সর্বাধিক ইলেকট্রন ঘনত্বের অরবিটাল: অরবিটালগুলোর মধ্যে is এর আকার সবচেয়ে ছোট। কারণ প্রধান কোয়ান্টাম সংখ্যা। এর মান দ্বারা আকার প্রকাশ করে এবং n = 1 হলে আকার সবচেয়ে ছোট বোঝায়। তাই [math]Is[/math]\u003Cbr\u003E এ দুইটি ইলেকট্রন থাকলে তুলনামূলকভাবে [math]1৪[/math]\u003Cbr\u003E এর ইলেকট্রন ঘনত্ব সর্বাধিক হয়।",
+        "explanation": "",
+        "correct_answer": "A.[math]2p[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364975,
+      "value": {
+        "options": {
+          "ক": "[math]1[/math]",
+          "খ": "[math]3[/math]",
+          "গ": "[math]5[/math]",
+          "ঘ": "[math]7[/math]"
+        },
+        "question": "[math]f[/math] উপশক্তিস্তরে কয়টি অরবিটাল থাকে?",
+        "solution": "[math]f[/math]\u003Cbr\u003E উপশক্তিস্তরের অরবিটাল সংখ্যা:উপশক্তিস্তর [math]f[/math]\u003Cbr\u003E এর জন্য, [math]l = 3[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E [math]m = - 3, - 2, - 1, 0, 1, 2, 3[/math]\u003Cbr\u003Eসুতরাং উপশক্তিস্তরে [math]f[/math]\u003Cbr\u003E অরবিটাল 7টি।",
+        "explanation": "",
+        "correct_answer": "D.[math]7[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364976,
+      "value": {
+        "options": {
+          "ক": "বৃত্তাকার",
+          "খ": "বর্তুলাকার",
+          "গ": "ডাম্বেল আকার",
+          "ঘ": "ডাবল ডাম্বেল"
+        },
+        "question": "অরবিটালের আকৃতি কোনটি?",
+        "solution": "উপন্তরসমূহের আকৃতি: চারপাশের ইলেকট্রনের অবস্থানের সম্ভাব্য এলাকাগুলোকে ইলেকট্রন মেঘবলয় দ্বারা প্রকাশ করা হয়। ইলেকট্রন মেঘবলয়ের সর্বাধিক ঘনত্ব বিশিষ্ট অঞ্চলকেই অরবিটাল বলা হয়। চারটি ভিন্ন অরবিটাল বা উপত্তর (s, p, d, f) এর আকৃতি ভিন্ন।\n(i) s-অরবিটালের আকৃতি গোলকের মত।\n(ii) p-অরবিটালের আকৃতি ডাম্বেলের মত।\n(iii) d-অরবিটালের আকৃতি চারটি লোব বিশিষ্ট ডাবল-ডাম্বেলের মত।\n(iv) f-অরবিটালে আটটি করে ইলেকট্রন লোবকে তিনটি নোডাল প্লেন আলাদা করে রাখে।",
+        "explanation": "",
+        "correct_answer": "C.ডাম্বেল আকার"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 364977,
+      "value": {
+        "options": {
+          "ক": "বৃত্তাকার",
+          "খ": "গোলাকার",
+          "গ": "ডাম্বেল আকৃতির",
+          "ঘ": "ডাবল ডাম্বেল আকৃতির"
+        },
+        "question": "[math]s[/math]-অরবিটালের আকৃতি কোনটি?",
+        "solution": "উপন্তরসমূহের আকৃতি: চারপাশের ইলেকট্রনের অবস্থানের সম্ভাব্য এলাকাগুলোকে ইলেকট্রন মেঘবলয় দ্বারা প্রকাশ করা হয়। ইলেকট্রন মেঘবলয়ের সর্বাধিক ঘনত্ব বিশিষ্ট অঞ্চলকেই অরবিটাল বলা হয়। চারটি ভিন্ন অরবিটাল বা উপত্তর (s, p, d, f) এর আকৃতি ভিন্ন।(i) s-অরবিটালের আকৃতি গোলকের মত।(ii) p-অরবিটালের আকৃতি ডাম্বেলের মত।(iii) d-অরবিটালের আকৃতি চারটি লোব বিশিষ্ট ডাবল-ডাম্বেলের মত।(iv) f-অরবিটালে আটটি করে ইলেকট্রন লোবকে তিনটি নোডাল প্লেন আলাদা করে রাখে।",
+        "explanation": "",
+        "correct_answer": "B.গোলাকার"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:16:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4151&grade=1&lesson=6764&per_page=200&question_paper_id=47742&subject=184&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4151&grade=1&lesson=6764&per_page=200&question_paper_id=47742&subject=184&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4151&grade=1&lesson=6764&per_page=200&question_paper_id=47742&subject=184&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 58,
+  "total": 58
+}

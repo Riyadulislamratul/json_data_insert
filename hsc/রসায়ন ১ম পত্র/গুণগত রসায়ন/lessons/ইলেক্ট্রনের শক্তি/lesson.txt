@@ -1,0 +1,2155 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 367132,
+      "value": {
+        "options": [],
+        "question": "[math]\\mathbf{R}_{f}[/math] এর মান 1 এর চেয়ে কম কেন?",
+        "solution": "কোনো যৌগের-সবচেয়ে বেশি গাঢ়ত্ব বিশিষ্ট অংশ যতদূর অতিক্রম করে তাকে দ্রাবকের অতিক্রান্ত দূরত্ব দ্বারা ভাগ করলে যে সংখ্যা পাওয়া যায় সে সংখ্যাকে ঐ যৌগের [math]R_{f}[/math]\u003Cbr\u003E মান বলে ।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fche202nd20paper20chpter20220er20onudabon202c20227_1755577154_mGm9dJLG.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eঅর্থাৎ, [math]R_{f}[/math]\u003Cbr\u003E একটি বিশুদ্ধ সংখ্যা। যেহেতু এটি একটি অনুপাত তাই এর কোন একক নেই। আর কোন যৌগ দ্রাবক অপেক্ষা বেশি পথ অতিক্রম করতে পারে না, তাই [math]R_{f}[/math]\u003Cbr\u003E সর্বদাই ! অপেক্ষা কম হয়",
+        "explanation": "ব্যাখ্যা: সাধারণত [math]\\mathbf{R}_{f}[/math]টি ভবিষ্যতের ১ টাকার বর্তমানমূল্য বা ডিসকাউন্ট ফ্যাক্টরকে বোঝায়, এবং এটি হয় [math]\\mathbf{R}_{f}=\\dfrac{1}{1+r_{f}}[/math]. যেহেতু সুদের হার [math]r_{f}\u003E0[/math] হলে নামখণ্ডটি 1 এর চেয়ে বড় হয়, ফলে [math]\\mathbf{R}_{f}\u003C1[/math] — অর্থাৎ ভবিষ্যতের টাকা আজকের টাকার চেয়ে কম মূল্যবান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 367132,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 367132,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 367132,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T04:19:14.000000Z",
+            "updated_at": "2025-08-19T04:19:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367114,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{I}_{9}\u003C\\mathrm{I}_{10}\u003C\\mathrm{I}_{11}[/math]",
+          "খ": "[math]\\mathrm{I}_{9}\u003E\\mathrm{I}_{10}\u003E\\mathrm{I}_{11}[/math]",
+          "গ": "[math]\\mathrm{I}_{11}\u003C\\mathrm{I}_{9}\u003C\\mathrm{I}_{10}[/math]",
+          "ঘ": "[math]\\mathrm{I}_{11}\u003E\\mathrm{I}_{10}\u003E\\mathrm{I}_{9}[/math]"
+        },
+        "question": "তিনটি মৌল A,B ও C এর পারমাণবিক সংখ্যা Z যথাক্রমে 9,10 ও 11। তাদের আয়নিকরণ শক্তি Iz কিভাবে পরিবর্তিত হয়?",
+        "solution": "[math]\\text{ } A \\rightarrow F, B \\rightarrow N e, C \\rightarrow N a \\text{;}\\\\\\mathrm{Ne}\u003E\\mathrm{F}\u003E\\mathrm{Na} \\\\\\therefore \\mathrm{I}_{10}\u003E\\mathrm{I}_{9}\u003E\\mathrm{I}_{11}[/math]",
+        "explanation": "আয়নিকরণ শক্তি পর্যাবৃত্ত ধর্ম সম্পন্ন। পরমাণুর আকার বৃদ্ধিতে আয়নিকরণ শক্তি হ্রাস পায়।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 27,
+          "year": "2007-2008",
+          "pivot": {
+            "question_bank_id": 367114,
+            "year_id": 27
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 367114,
+            "tag_id": 73,
+            "year": "07-08",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367131,
+      "value": {
+        "options": [],
+        "question": "হাইড্রোজেন পরমাণুর তৃতীয় এবং দ্বিতীয় শক্তিস্তরের ইলেকট্রনের শক্তি যথাক্রমে [math]5.54 \\times 10^{-10} \\mathrm{erg}[/math] এবং [math]2.44 \\times 10^{-11}[/math]। তৃতীয় শক্তিস্তর থেকে দ্বিতীয় শক্তিস্তরে ইলেকট্রনটি পতিত হলে যে রশ্মি বিকরিত হয় তার কম্পাঙ্ক (হার্জ) কত হবে ?",
+        "solution": "Solution : (e)[math]\\text { } \\Delta \\mathrm{E}=5.54 \\times 10^{-10} \\mathrm{erg}-2.44 \\times 10^{-11} \\mathrm{erg}=5.296 \\times 10^{-10} \\mathrm{erg}=5.296 \\times 10^{-17} \\mathrm{~J}[/math]\u003Cbr\u003E [math]\\therefore E=h v \\Rightarrow v=\\frac{E}{h}=\\frac{5.296 \\times 10^{-17}}{h}=7.99 \\times 10^{16} \\mathrm{~Hz}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: পতনে নির্গত শক্তি হল স্তরগুলোর এনার্জির পার্থক্য, তাই [math]ΔE=5.54\\times10^{-10}-2.44\\times10^{-11}=5.296\\times10^{-10}\\ \\mathrm{erg}[/math]. 1 erg = [math]10^{-7}[/math] J হলে [math]ΔE=5.296\\times10^{-17}\\ \\mathrm{J}[/math] এবং প্ল্যাংকের সূত্রে [math]ν=ΔE/h[/math] যেখানে [math]h=6.626\\times10^{-34}\\ \\mathrm{J\\,s}[/math], ফলে [math]ν=\\dfrac{5.296\\times10^{-17}}{6.626\\times10^{-34}}\\approx7.99\\times10^{16}\\ \\mathrm{Hz}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 367131,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 367131,
+            "tag_id": 88,
+            "year": "16-17",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367122,
+      "value": {
+        "options": {
+          "ক": "ইলেকট্রন আসক্তি",
+          "খ": "তড়িৎ ঋনাত্মকতা",
+          "গ": "হাইড্রেশান এনথালপি",
+          "ঘ": "আয়নীকরণ শক্তি"
+        },
+        "question": "ইলেকট্রন ত্যাগ করে ধনাত্মক আয়নে পরিণত হতে যে শক্তির প্রয়োজন তা হচ্ছে-",
+        "solution": "আয়নীকরণ শক্তির গুরুত্ব :\nমৌলের রাসায়নিক সক্রিয়তা নির্ধারণে সাহায্য করে।\nবিভিন্ন রাসায়নিক বিক্রিয়ায় মৌলের আচরণ বুঝতে সাহায্য করে।\nপর্যায় সারণীতে মৌলের অবস্থান নির্ণয়ে সাহায্য করে।",
+        "explanation": "",
+        "correct_answer": "D.আয়নীকরণ শক্তি"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1154,
+          "full_name": "Dhaka City College",
+          "short_name": "DCC",
+          "slug": "dcc",
+          "pivot": {
+            "question_bank_id": 367122,
+            "tag_id": 1154,
+            "year": null,
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367121,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{nh} / 2 \\pi[/math]",
+          "খ": "[math]\\mathrm{nh} / 6 \\pi[/math]",
+          "গ": "[math]3 \\mathrm{~h} / 2 \\pi[/math]",
+          "ঘ": "[math]1.2 \\mathrm{~h} / \\pi[/math]"
+        },
+        "question": "৩য় শক্তিস্তরে mvr এর মান কত?",
+        "solution": "বোর মডেল অনুসারে, যেকোনো শক্তিস্তরে ইলেকট্রনের কৌণিক ভরবেগ [math]L = mvr = nh/2\\pi[/math]\u003Cbr\u003E দ্বারা নির্ধারিত হয়। এখানে [math]n[/math]\u003Cbr\u003E হলো প্রধান কোয়ান্টাম সংখ্যা, [math]h[/math]\u003Cbr\u003E হলো প্ল্যাঙ্কের ধ্রুবক, [math]m[/math]\u003Cbr\u003E হলো ইলেকট্রনের ভর, [math]v[/math]\u003Cbr\u003E হলো ইলেকট্রনের বেগ এবং [math]r[/math]\u003Cbr\u003E হলো কক্ষপথের ব্যাসার্ধ।তৃতীয় শক্তিস্তরের জন্য [math]n=3[/math]\u003Cbr\u003E ।সুতরাং, [math]mvr = 3h/2\\pi[/math]\u003Cbr\u003E ।বিকল্প C এই মানটিকে সরাসরি উপস্থাপন করে।বোর পরমাণু মডেল অনুসারে, ইলেকট্রন নিউক্লিয়াসের চারপাশে নির্দিষ্ট কিছু অনুমোদিত কক্ষপথে ঘোরে। এই অনুমোদিত কক্ষপথগুলোতে ইলেকট্রনের কৌণিক ভরবেগ [math]h/2\\pi[/math]\u003Cbr\u003E-এর পূর্ণ সাংখ্যিক গুণিতক হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 367121,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367120,
+      "value": {
+        "options": {
+          "ক": "3d",
+          "খ": "5s",
+          "গ": "4p",
+          "ঘ": "4d"
+        },
+        "question": "নিচের কোনটির শক্তির মান সর্বোচ্চ?",
+        "solution": "এখানে, বিকল্পগুলির মধ্যে প্রধান কোয়ান্টাম সংখ্যা (n) এবং অ্যাজিমুথাল কোয়ান্টাম সংখ্যা (l) বিবেচনা করতে হবে। শক্তির ক্রম প্রধান কোয়ান্টাম সংখ্যার উপর নির্ভরশীল, তবে যদি প্রধান কোয়ান্টাম সংখ্যা সমান হয়, তবে অ্যাজিমুথাল কোয়ান্টাম সংখ্যা বিবেচনা করা হয়।* 3d: [math]n=3[/math]\u003Cbr\u003E, [math]l=2[/math]\u003Cbr\u003E* 5s: [math]n=5[/math]\u003Cbr\u003E, [math]l=0[/math]\u003Cbr\u003E* 4p: [math]n=4[/math]\u003Cbr\u003E, [math]l=1[/math]\u003Cbr\u003E* 4d: [math]n=4[/math]\u003Cbr\u003E, [math]l=2[/math]\u003Cbr\u003Eশক্তির ক্রম প্রধান কোয়ান্টাম সংখ্যার উপর নির্ভর করে, তাই [math]n=5[/math]\u003Cbr\u003E ( [math]5s[/math]\u003Cbr\u003E) এর শক্তি সর্বোচ্চ। যদি প্রধান কোয়ান্টাম সংখ্যা সমান হয়, তাহলে [math]l[/math]\u003Cbr\u003E এর মান বেশি হলে শক্তি বেশি হয় (যেমন 4d এর শক্তি 4p এর চেয়ে বেশি)। কিন্তু এখানে 5s এর প্রধান কোয়ান্টাম সংখ্যাই সর্বোচ্চ।অতিরিক্ত তথ্য: পরমাণুতে ইলেকট্রনের শক্তি প্রধান কোয়ান্টাম সংখ্যা ( [math]n[/math]\u003Cbr\u003E) দ্বারা নির্ধারিত হয়। [math]n[/math]\u003Cbr\u003E এর মান যত বেশি হয়, শক্তি তত বেশি হয়। অ্যাজিমুথাল কোয়ান্টাম সংখ্যা ( [math]l[/math]\u003Cbr\u003E) শক্তির উপর প্রভাব ফেলে যখন [math]n[/math]\u003Cbr\u003E এর মান একই থাকে। [math]l=0, 1, 2, 3[/math]\u003Cbr\u003E যথাক্রমে s, p, d, f অরবিটালের জন্য ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 367120,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367119,
+      "value": {
+        "options": {
+          "ক": "3d",
+          "খ": "4s",
+          "গ": "4p",
+          "ঘ": "3s"
+        },
+        "question": "নিচের কোন অরবিটাল সর্বনিম্ন শক্তি সম্পন্ন?",
+        "solution": "এখানে ইলেকট্রন বিন্যাসের নিয়ম অনুযায়ী, মুখ্য কোয়ান্টাম সংখ্যা (n) এবং অ্যাজিমুথাল কোয়ান্টাম সংখ্যা (l) এর মানের ওপর অরবিটালের শক্তি নির্ভর করে। সাধারণত, [math]n+l[/math]\u003Cbr\u003E এর মান যত কম হয়, অরবিটালের শক্তি তত কম হয়। যদি [math]n+l[/math]\u003Cbr\u003E এর মান সমান হয়, তবে মুখ্য কোয়ান্টাম সংখ্যা (n) এর মান যার কম, সেই অরবিটালের শক্তি কম হয়।বিকল্পগুলির জন্য [math]n+l[/math]\u003Cbr\u003E এর মান গণনা করা যাক:A) 3d: [math]n=3[/math]\u003Cbr\u003E, [math]l=2[/math]\u003Cbr\u003E, [math]n+l = 3+2 = 5[/math]\u003Cbr\u003EB) 4s: [math]n=4[/math]\u003Cbr\u003E, [math]l=0[/math]\u003Cbr\u003E, [math]n+l = 4+0 = 4[/math]\u003Cbr\u003EC) 4p: [math]n=4[/math]\u003Cbr\u003E, [math]l=1[/math]\u003Cbr\u003E, [math]n+l = 4+1 = 5[/math]\u003Cbr\u003ED) 3s: [math]n=3[/math]\u003Cbr\u003E, [math]l=0[/math]\u003Cbr\u003E, [math]n+l = 3+0 = 3[/math]\u003Cbr\u003Eএই গণনা থেকে দেখা যাচ্ছে যে 3s অরবিটালের জন্য [math]n+l[/math]\u003Cbr\u003E এর মান সর্বনিম্ন (3)। তাই 3s অরবিটালটি সর্বনিম্ন শক্তি সম্পন্ন।Aufbau নীতি অনুসারে, ইলেকট্রনগুলি সর্বনিম্ন শক্তি সম্পন্ন অরবিটালে প্রবেশ করে। তাই 3s অরবিটালটি সর্বনিম্ন শক্তি সম্পন্ন।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3490,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "rbiul-szar",
+          "pivot": {
+            "question_bank_id": 367119,
+            "tag_id": 3490,
+            "year": null,
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367118,
+      "value": {
+        "options": {
+          "ক": "4f",
+          "খ": "5s",
+          "গ": "5p",
+          "ঘ": "6s"
+        },
+        "question": "উচ্চ শক্তির অরবিটাল নিচের কোনটি?",
+        "solution": "পরমাণুতে ইলেকট্রনের শক্তি প্রধান কোয়ান্টাম সংখ্যা (n) এবং অ্যাজিমুথাল কোয়ান্টাম সংখ্যা (l) দ্বারা নির্ধারিত হয়। সাধারণত, [math]n[/math]\u003Cbr\u003E এর মান যত বেশি হয়, অরবিটালের শক্তি তত বেশি হয়। আবার [math]n[/math]\u003Cbr\u003E এর মান সমান হলে, [math]l[/math]\u003Cbr\u003E এর মান যত বেশি হয়, অরবিটালের শক্তি তত বেশি হয়।প্রদত্ত বিকল্পগুলির জন্য:A) 4f: [math]n=4[/math]\u003Cbr\u003E, [math]l=3[/math]\u003Cbr\u003EB) 5s: [math]n=5[/math]\u003Cbr\u003E, [math]l=0[/math]\u003Cbr\u003EC) 5p: [math]n=5[/math]\u003Cbr\u003E, [math]l=1[/math]\u003Cbr\u003ED) 6s: [math]n=6[/math]\u003Cbr\u003E, [math]l=0[/math]\u003Cbr\u003Eএখানে, 6s অরবিটালের প্রধান কোয়ান্টাম সংখ্যা (6) অন্য অরবিটালগুলির (4 এবং 5) চেয়ে বেশি। তাই 6s অরবিটালটির শক্তি সর্বোচ্চ।পরমাণুতে বিভিন্ন অরবিটালের শক্তির ক্রম নিম্নলিখিত নিয়মের উপর ভিত্তি করে নির্ধারিত হয়:1. প্রধান কোয়ান্টাম সংখ্যা (n) এর মান যত বেশি, শক্তি তত বেশি।2. যদি n এর মান সমান হয়, তবে অ্যাজিমুথাল কোয়ান্টাম সংখ্যা (l) এর মান যত বেশি, শক্তি তত বেশি।3. n+l এর মান যত বেশি, অরবিটালের শক্তি তত বেশি। যদি n+l এর মান সমান হয়, তবে n এর মান যার বেশি, তার শক্তিও বেশি।উপরের নিয়ম অনুসারে, 6s অরবিটালের জন্য n=6 এবং l=0, সুতরাং n+l = 6।4f অরবিটালের জন্য n=4 এবং l=3, সুতরাং n+l = 7।5s অরবিটালের জন্য n=5 এবং l=0, সুতরাং n+l = 5।5p অরবিটালের জন্য n=5 এবং l=1, সুতরাং n+l = 6।এখানে 4f অরবিটালের n+l (7) সর্বোচ্চ। তবে, প্রশ্নটি \"উচ্চ শক্তির অরবিটাল\" সম্পর্কে জানতে চেয়েছে, যা সাধারণত প্রধান কোয়ান্টাম সংখ্যা দ্বারা প্রভাবিত হয়। 6s অরবিটালের প্রধান কোয়ান্টাম সংখ্যা 6, যা অন্য বিকল্পগুলির (4, 5) চেয়ে বেশি। আধুনিক রসায়নে, 6s অরবিটালের শক্তি 4f অরবিটালের চেয়ে বেশি হয়, কারণ প্রধান কোয়ান্টাম সংখ্যার প্রভাব বেশি।যদিও 4f এর n+l মান বেশি, 6s এর n মান সর্বোচ্চ হওয়ায় এটি উচ্চতর শক্তিস্তর নির্দেশ করে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3493,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "hajaree-szar",
+          "pivot": {
+            "question_bank_id": 367118,
+            "tag_id": 3493,
+            "year": null,
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367117,
+      "value": {
+        "options": {
+          "ক": "3d",
+          "খ": "4s",
+          "গ": "4p",
+          "ঘ": "3s"
+        },
+        "question": "নিচের কোন অরবিটালের শক্তি সর্বনিম্ন হবে?",
+        "solution": "পরমাণুতে ইলেকট্রন শক্তিস্তরের নিম্নক্রম অনুসারে অরবিটালগুলিতে প্রবেশ করে। এই নিয়ম অনুসারে, 3s অরবিটালের শক্তি সর্বনিম্ন। কারণ, [math]n+l[/math]\u003Cbr\u003E মান অনুসারে শক্তির ক্রম নির্ধারিত হয়, যেখানে [math]n[/math]\u003Cbr\u003E হলো প্রধান কোয়ান্টাম সংখ্যা এবং [math]l[/math]\u003Cbr\u003E হলো অ্যাজিমুথাল কোয়ান্টাম সংখ্যা। 3s এর জন্য [math]n=3, l=0[/math]\u003Cbr\u003E, তাই [math]n+l=3[/math]\u003Cbr\u003E. 3d এর জন্য [math]n=3, l=2[/math]\u003Cbr\u003E, তাই [math]n+l=5[/math]\u003Cbr\u003E. 4s এর জন্য [math]n=4, l=0[/math]\u003Cbr\u003E, তাই [math]n+l=4[/math]\u003Cbr\u003E. 4p এর জন্য [math]n=4, l=1[/math]\u003Cbr\u003E, তাই [math]n+l=5[/math]\u003Cbr\u003E. যখন [math]n+l[/math]\u003Cbr\u003E মান সমান হয়, তখন কম [math]n[/math]\u003Cbr\u003E মান বিশিষ্ট অরবিটালের শক্তি কম হয়। তাই 3s এর শক্তি সর্বনিম্ন।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3493,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "hajaree-szar",
+          "pivot": {
+            "question_bank_id": 367117,
+            "tag_id": 3493,
+            "year": null,
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367116,
+      "value": {
+        "options": {
+          "ক": "s",
+          "খ": "p",
+          "গ": "d",
+          "ঘ": "f"
+        },
+        "question": "অধিক স্থায়িত্বের জন্য কোন অরবিটাল হতে ইলেকট্রন স্থানান্তরিত হয়?",
+        "solution": "পরমাণুর স্থিতিশীলতা বৃদ্ধির জন্য, প্রায়শই উচ্চতর শক্তিস্তর বা অর্ধ-পূর্ণ বা পূর্ণ-পূর্ণ উপশক্তিস্তর থেকে ইলেকট্রন নিম্নতর শক্তিস্তর বা পূর্ণ-পূর্ণ উপশক্তিস্তরে স্থানান্তরিত হয়। এই ক্ষেত্রে, d অরবিটালগুলি বিশেষ করে স্থিতিশীলতা অর্জনের জন্য ইলেকট্রন স্থানান্তর করতে পারে, কারণ d [math]^5[/math]\u003Cbr\u003E (অর্ধ-পূর্ণ) বা d [math]^{10}[/math]\u003Cbr\u003E (পূর্ণ-পূর্ণ) বিন্যাস উল্লেখযোগ্যভাবে স্থিতিশীল। s এবং p অরবিটালগুলিও স্থিতিশীলতা অর্জনে ভূমিকা রাখে, তবে d অরবিটালের ক্ষেত্রে এই স্থানান্তর বেশি দেখা যায়, যা স্থিতিশীলতা বাড়াতে সাহায্য করে। f অরবিটালগুলিও স্থিতিশীলতা দিতে পারে, কিন্তু d অরবিটালের ইলেকট্রন স্থানান্তরের ঘটনাটি বেশি পরিচিত।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3491,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "lingkn-szar",
+          "pivot": {
+            "question_bank_id": 367116,
+            "tag_id": 3491,
+            "year": null,
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367115,
+      "value": {
+        "options": {
+          "ক": "[math]-41 \\mathrm{\\ kJmol}^{-1}[/math]",
+          "খ": "[math]-1312 \\mathrm{\\ kJmol}^{-1}[/math]",
+          "গ": "[math]-164 \\mathrm{\\ kJmol}^{-1}[/math]",
+          "ঘ": "[math]-82 \\mathrm{\\ kJmol}^{-1}[/math]"
+        },
+        "question": "H পরমাণুর ২য় বোর কক্ষের শক্তি [math]-328 \\mathrm{\\ KJmol}^{-1}[/math] হলে চতুর্থ বোর কক্ষের শক্তি হবে-",
+        "solution": "হাইড্রোজেন পরমাণুর কোনো বোর কক্ষের শক্তি [math]E_n = -\\frac{1312}{n^2} \\mathrm{\\ kJmol}^{-1}[/math]\u003Cbr\u003E সূত্র দ্বারা নির্ণয় করা হয়, যেখানে [math]n[/math]\u003Cbr\u003E হলো কক্ষের সংখ্যা।প্রশ্নানুসারে, ২য় বোর কক্ষের শক্তি ( [math]n=2[/math]\u003Cbr\u003E) হলো [math]-328 \\mathrm{\\ KJmol}^{-1}[/math]\u003Cbr\u003E।সুতরাং, [math]-328 = -\\frac{1312}{2^2}[/math]\u003Cbr\u003E [math]-328 = -\\frac{1312}{4}[/math]\u003Cbr\u003E [math]-328 = -328[/math]\u003Cbr\u003E (এটি তথ্যের সাথে সামঞ্জস্যপূর্ণ)এবার চতুর্থ বোর কক্ষের শক্তি ( [math]n=4[/math]\u003Cbr\u003E) নির্ণয় করতে হবে:[math]E_4 = -\\frac{1312}{4^2} \\mathrm{\\ kJmol}^{-1}[/math]\u003Cbr\u003E [math]E_4 = -\\frac{1312}{16} \\mathrm{\\ kJmol}^{-1}[/math]\u003Cbr\u003E [math]E_4 = -82 \\mathrm{\\ kJmol}^{-1}[/math]\u003Cbr\u003Eবোর মডেল অনুসারে, ইলেকট্রন যত উচ্চতর কক্ষপথে যায়, তার শক্তি তত বৃদ্ধি পায় (ঋণাত্মক মানের দিক থেকে কম হয়)। তাই চতুর্থ কক্ষের শক্তি দ্বিতীয় কক্ষের শক্তির চেয়ে কম ঋণাত্মক হবে। বিকল্প A, B, C এই শর্ত পূরণ করে না। বিকল্প D সঠিক কারণ [math]-82[/math]\u003Cbr\u003E মানটি [math]-328[/math]\u003Cbr\u003E অপেক্ষা কম ঋণাত্মক।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3491,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "lingkn-szar",
+          "pivot": {
+            "question_bank_id": 367115,
+            "tag_id": 3491,
+            "year": null,
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367113,
+      "value": {
+        "options": {
+          "ক": "5p \u003C 4p \u003C 6s \u003C 5d",
+          "খ": "5p \u003C 6s \u003C 4f \u003C6p",
+          "গ": "5p \u003C 5d \u003C 4f \u003C 6s",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "শক্তি বৃদ্ধির জন্য ক্রম কোনটি ?",
+        "solution": "পরমাণুতে ইলেকট্রন প্রবেশ করে প্রধান কোয়ান্টাম সংখ্যা (n) এবং অ্যাজিমুথাল কোয়ান্টাম সংখ্যা (l) এর মান অনুসারে। শক্তি স্তর সাধারণত n+l এর মান দ্বারা নির্ধারিত হয়। যখন n+l এর মান একই হয়, তখন যে অরবিটালের জন্য n এর মান বেশি, তার শক্তিও বেশি হয়।বিকল্প A) 5p ( [math]n=5, l=1 \\Rightarrow n+l=6[/math]\u003Cbr\u003E), 4p ( [math]n=4, l=1 \\Rightarrow n+l=5[/math]\u003Cbr\u003E), 6s ( [math]n=6, l=0 \\Rightarrow n+l=6[/math]\u003Cbr\u003E), 5d ( [math]n=5, l=2 \\Rightarrow n+l=7[/math]\u003Cbr\u003E). এখানে 4p এর শক্তি সবচেয়ে কম। 5p এবং 6s এর [math]n+l[/math]\u003Cbr\u003E মান একই, কিন্তু 6s এর n মান বেশি হওয়ায় 6s এর শক্তি 5p থেকে বেশি। 5d এর [math]n+l[/math]\u003Cbr\u003E মান সবচেয়ে বেশি। তাই এই ক্রমটি সঠিক নয়।বিকল্প B) 5p ( [math]n+l=6[/math]\u003Cbr\u003E), 6s ( [math]n+l=6[/math]\u003Cbr\u003E), 4f ( [math]n=4, l=3 \\Rightarrow n+l=7[/math]\u003Cbr\u003E), 6p ( [math]n=6, l=1 \\Rightarrow n+l=7[/math]\u003Cbr\u003E). এখানে 5p এবং 6s এর [math]n+l[/math]\u003Cbr\u003E মান একই, কিন্তু 6s এর n মান বেশি হওয়ায় 6s এর শক্তি 5p থেকে বেশি। 4f এবং 6p এর [math]n+l[/math]\u003Cbr\u003E মান একই, কিন্তু 6p এর n মান বেশি হওয়ায় 6p এর শক্তি 4f থেকে বেশি। তাই ক্রমটি 5p \u003C 6s \u003C 4f \u003C 6p সঠিক।বিকল্প C) 5p ( [math]n+l=6[/math]\u003Cbr\u003E), 5d ( [math]n+l=7[/math]\u003Cbr\u003E), 4f ( [math]n+l=7[/math]\u003Cbr\u003E), 6s ( [math]n+l=6[/math]\u003Cbr\u003E). এখানে 5p এবং 6s এর [math]n+l[/math]\u003Cbr\u003E মান একই, কিন্তু 6s এর n মান বেশি হওয়ায় 6s এর শক্তি 5p থেকে বেশি। 5d এবং 4f এর [math]n+l[/math]\u003Cbr\u003E মান একই, কিন্তু 5d এর n মান বেশি হওয়ায় 5d এর শক্তি 4f থেকে বেশি। তাই এই ক্রমটি সঠিক নয়।এই ক্রমগুলি হুন্ডের নিয়ম এবং আউফবাউ নীতি দ্বারা নির্ধারিত হয়, যা পরমাণুর ইলেকট্রন বিন্যাস এবং অরবিটালের শক্তি স্তর ব্যাখ্যা করে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 367113,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 367113,
+            "tag_id": 11,
+            "year": "13-14",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367112,
+      "value": {
+        "options": {
+          "ক": "[math]4 \\mathrm{~s}\u003C3 \\mathrm{~d}\u003C4 \\mathrm{p}[/math]",
+          "খ": "[math]4 s\u003C5 p\u003C3 d[/math]",
+          "গ": "[math]3 \\mathrm{~d}\u003C4 \\mathrm{~s}\u003C4 \\mathrm{p}[/math]",
+          "ঘ": "[math]4 \\mathrm{p}\u003C4 \\mathrm{~s}\u003C3 \\mathrm{~d}[/math]"
+        },
+        "question": "শক্তির বিবেচনায় অরবিটালের কোন ক্রমটি সঠিক?",
+        "solution": "শক্তির ক্রম অরবিটালের প্রধান কোয়ান্টাম সংখ্যা (n) এবং অ্যাজিমুথাল কোয়ান্টাম সংখ্যা (l) দ্বারা নির্ধারিত হয়। সাধারণভাবে, n-এর মান যত বেশি হয়, অরবিটালের শক্তি তত বেশি হয়। একই n-এর জন্য, l-এর মান যত বেশি হয়, শক্তি তত বেশি হয়। এখানে 4s অরবিটালের জন্য n=4, l=0; 3d অরবিটালের জন্য n=3, l=2; এবং 4p অরবিটালের জন্য n=4, l=1।4s: n=4, l=03d: n=3, l=24p: n=4, l=1Aufbau নীতি অনুসারে, অরবিটালের শক্তি n+l এর মানের উপর নির্ভর করে। n+l এর মান যত বেশি হবে, অরবিটালের শক্তি তত বেশি হবে।4s: n+l = 4+0 = 43d: n+l = 3+2 = 54p: n+l = 4+1 = 5যখন n+l এর মান একই হয়, তখন প্রধান কোয়ান্টাম সংখ্যা (n) যার বেশি, তার শক্তি বেশি হয়। তাই 4p (n=4) 3d (n=3) থেকে বেশি শক্তিশালী।অতএব, শক্তির ক্রম হল 4s \u003C 3d \u003C 4p।এই ক্রমটি ইলেকট্রন বিন্যাসের সময় অরবিটালগুলিতে ইলেকট্রন প্রবেশের ক্রম নির্দেশ করে।",
+        "explanation": "অরবিটালের শক্তির ক্রম:[math]1 \\mathrm{~s}\u003C2 \\mathrm{~s}\u003C2 \\mathrm{p}\u003C3 \\mathrm{~s}\u003C3 \\mathrm{p}\u003C4 \\mathrm{~s}\u003C3 \\mathrm{~d}\u003C4 \\mathrm{p}\u003C5 \\mathrm{~s}\u003C4 \\mathrm{~d}\u003C5 \\mathrm{p}\u003C6 \\mathrm{~s}\u003C4 \\mathrm{f}[/math]\u003Cbr\u003E [math]\u003C5 \\mathrm{~d}\u003C6 \\mathrm{p}\u003C7 \\mathrm{~s}\u003C5 \\mathrm{f}[/math]\u003Cbr\u003E",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 367112,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 471,
+          "full_name": "Sylhet Agricultural University",
+          "short_name": "SAU",
+          "slug": "sau",
+          "pivot": {
+            "question_bank_id": 367112,
+            "tag_id": 471,
+            "year": "16-17",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367111,
+      "value": {
+        "options": {
+          "ক": "[math]4 \\mathrm{~s}\u003C3 \\mathrm{~d}\u003C4 \\mathrm{p}[/math]",
+          "খ": "[math]4 s\u003C5 p\u003C3 d[/math]",
+          "গ": "[math]3 d\u003C4 s\u003C4 p[/math]",
+          "ঘ": "[math]4 \\mathrm{p}\u003C4 \\mathrm{~s}\u003C3 \\mathrm{~d}[/math]"
+        },
+        "question": "শক্তির বিবেচনায় অরবিটালের কোন ক্রমটি সঠিক?",
+        "solution": "অরবিটালের শক্তির ক্রম: [math]1 s\u003C2 s\u003C2 p\u003C3[/math]\u003Cbr\u003E [math]s\u003C3 p\u003C4 s\u003C3 d\u003C4[/math]\u003Cbr\u003E [math]p\u003C5 s\u003C4[/math]\u003Cbr\u003E [math]d\u003C5 p\u003C6 s\u003C4 f[/math]\u003Cbr\u003E [math]\u003C5 d\u003C6[/math]\u003Cbr\u003E [math]p\u003C7[/math]\u003Cbr\u003E [math]s\u003C5 f[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 367111,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 471,
+          "full_name": "Sylhet Agricultural University",
+          "short_name": "SAU",
+          "slug": "sau",
+          "pivot": {
+            "question_bank_id": 367111,
+            "tag_id": 471,
+            "year": "16-17",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367110,
+      "value": {
+        "options": {
+          "ক": "ব্যস্তানুপাতিক",
+          "খ": "সমানুপাতিক",
+          "গ": "বর্গের সমানুপাতিক",
+          "ঘ": "বর্গের ব্যস্তানুপাতিক"
+        },
+        "question": "[math]\\psi^{2}[/math] এর মান ইলেকট্রন তরঙ্গের তীব্রতার -",
+        "solution": "[math]\\psi^{2}[/math]\u003Cbr\u003E হলো তরঙ্গ অপেক্ষক (wave function) এর বর্গের মান, যা একটি নির্দিষ্ট বিন্দুতে ইলেকট্রন পাওয়ার সম্ভাবনা ঘনত্ব (probability density) নির্দেশ করে। ইলেকট্রন তরঙ্গের তীব্রতা এই সম্ভাবনা ঘনত্বের সাথে সরাসরি সমানুপাতিক। তাই [math]\\psi^{2}[/math]\u003Cbr\u003E এর মান ইলেকট্রন তরঙ্গের তীব্রতার সমানুপাতিক।",
+        "explanation": "[math]\\psi^{2}[/math] এর প্রতিটি মান ইলেকট্রনের তরঙ্গের তীব্রতার সমানুপাতিক।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 367110,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 94,
+          "full_name": "Islamic University, Bangladesh (A Unit)",
+          "short_name": "IU-A",
+          "slug": "iu-a",
+          "pivot": {
+            "question_bank_id": 367110,
+            "tag_id": 94,
+            "year": "17-18",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367108,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i, ii",
+          "গ": "ii, iii",
+          "ঘ": "i, ii, iii"
+        },
+        "question": "পরমাণুস্থ কোন ইলেকট্রন নিম্ন শক্তি স্তর থেকে উচ্চ শক্তি স্তরে গমন করলে -\n\n(i) পরমাণুর স্থিতি হ্রাস পায়\n\n(ii) পরমাণুটি আয়নিত হয়\n\n(iii) পরমাণুর গতিশক্তি বৃদ্ধি পায়\n\nনিচের কোনটি সঠিক ?",
+        "solution": "যখন একটি পরমাণুর ইলেকট্রন নিম্ন শক্তিস্তর থেকে উচ্চ শক্তিস্তরে গমন করে, তখন এটি শক্তি শোষণ করে। এই শক্তি শোষণ করার ফলে ইলেকট্রন উত্তেজিত অবস্থায় থাকে।\n\n(i) পরমাণুর স্থিতি হ্রাস পায়: এই বিবৃতিটি ভুল। ইলেকট্রন যখন নিম্ন শক্তিস্তর থেকে উচ্চ শক্তিস্তরে যায়, তখন এটি আরও বেশি স্থিতিশীল হয় না, বরং এটি একটি উত্তেজিত অবস্থায় থাকে।\n\n(ii) পরমাণুটি আয়নিত হয়: এই বিবৃতিটি সঠিক। যদি ইলেকট্রন এত বেশি শক্তি শোষণ করে যে এটি পরমাণুর আকর্ষণ বল থেকে সম্পূর্ণ মুক্ত হয়ে যায়, তাহলে পরমাণুটি আয়নিত হয়। তবে, প্রশ্নে শুধু উচ্চ শক্তিস্তরে যাওয়ার কথা বলা হয়েছে, যা আয়নিকরণের জন্য প্রয়োজনীয় ন্যূনতম শক্তি নাও হতে পারে। কিন্তু, ইলেকট্রন উচ্চ শক্তিস্তরে যাওয়ার জন্য শক্তি শোষণ করে, যা পরমাণুর ইলেকট্রনিক গঠনে পরিবর্তন আনে।\n\n(iii) পরমাণুর গতিশক্তি বৃদ্ধি পায়: এই বিবৃতিটি সঠিক। ইলেকট্রন যখন উচ্চ শক্তিস্তরে যায়, তখন তার কৌণিক ভরবেগ বৃদ্ধি পায় এবং এটি আরও দ্রুত গতিতে নিউক্লিয়াসের চারপাশে ঘুরতে থাকে।\n\nঅতএব, সঠিক বিকল্পটি হল যেখানে (ii) এবং (iii) উভয়ই অন্তর্ভুক্ত।\n\nঅতিরিক্ত তথ্য: একটি পরমাণুর ইলেকট্রন যখন একটি শক্তিস্তর থেকে অন্য শক্তিস্তরে লাফ দেয়, তখন সে নির্দিষ্ট পরিমাণ শক্তি শোষণ বা বিকিরণ করে, যা প্লাংকের কোয়ান্টাম তত্ত্ব দ্বারা ব্যাখ্যা করা হয়। ইলেকট্রন যখন উচ্চ শক্তিস্তরে যায়, তখন এটি উত্তেজিত অবস্থা (excited state) তে থাকে এবং যখন এটি আবার নিম্ন শক্তিস্তরে ফিরে আসে, তখন আলোকরশ্মি (ফোটন) নির্গত করে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 367108,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 367108,
+            "tag_id": 57,
+            "year": "17-18",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367099,
+      "value": {
+        "options": {
+          "ক": "শক্তি শোষণ",
+          "খ": "শক্তি বিকিরণ",
+          "গ": "শক্তি শোষণ",
+          "ঘ": "শক্তি বিকিরণ"
+        },
+        "question": "হাইড্রোজেন পরমাণুর একটি ইলেকট্রন ১ম শক্তিস্তর থেকে দ্বিতীয় শক্তিবদ্যরে গেলে কী হবে?",
+        "solution": "ইলেকট্রন নিচের শক্তিস্তর থেকে উপরের শক্তিস্তরে গেলে শক্তির শোষণ হয়। যেহেতু হাইড্রোজেন পরমাণুর একটি ইলেকট্রন নিচের শক্তিস্তর (১ম শক্তিস্তর) থেকে উপরের শক্তিস্তরে (২য় শক্তিস্তর) গেছে, তাই শক্তি শোষণ হবে।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20admission20chemistry201e0a78120e2808de0a78120paper2c20riyel20roy20chapter-022c20date-30-09-202420mcq2c20serial20no-1_1755577153_SS0PqDnm.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 367099,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 367099,
+            "tag_id": 80,
+            "year": "23-24",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367100,
+      "value": {
+        "options": {
+          "ক": "3.4",
+          "খ": "10.2",
+          "গ": "40.8",
+          "ঘ": "91.8"
+        },
+        "question": "[math]\\mathrm {He^+}[/math] এর ১ম ও ২য় শক্তিস্তরের শক্তির পার্থক্য কত [math]\\mathrm {eV?}[/math]",
+        "solution": "[math]\\dfrac{1}{\\lambda}=\\mathrm{R}_{\\mathrm{H}}\\left(\\dfrac{1}{\\mathrm{n}_{1}^{2}}-\\dfrac{1}{\\mathrm{n}_{2}^{2}}\\right)=\\mathrm{R}_{\\mathrm{H}}\\left(\\dfrac{1}{1^{2}}-\\dfrac{1}{2^{2}}\\right) \\\\ =\\mathrm{R}_{\\mathrm{H}}\\left(1-\\dfrac{1}{4}\\right)=\\dfrac{3 \\mathrm{R}_{\\mathrm{H}}}{4} \\\\ \\therefore \\lambda=\\dfrac{4}{3 \\mathrm{R}_{\\mathrm{H}}}=\\dfrac{4}{3 \\times 109678 \\mathrm{~cm}^{-1}}=1.22 \\times 10^{-5} \\mathrm{~cm}=1.22 \\times 10^{-7} \\mathrm{~m}[/math]\u003Cbr\u003Eশক্তির পার্থক্য [math]\\Delta \\mathrm{E}=\\mathrm{h} v=\\mathrm{h} \\dfrac{\\mathrm{c}}{\\lambda}=\\dfrac{6.626 \\times 10^{-34} \\times 3 \\times 10^{8}}{1.22 \\times 10^{-7}}[/math]\u003Cbr\u003E [math]=1.63 \\times 10^{-18} \\mathrm{~J}=10.06~ \\mathrm{eV}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 367100,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 367100,
+            "tag_id": 119,
+            "year": "22-23",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367101,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{1}{3}[/math]",
+          "খ": "[math]\\frac{1}{6}[/math]",
+          "গ": "[math]\\frac{1}{9}[/math]",
+          "ঘ": "[math]\\frac{1}{4}[/math]"
+        },
+        "question": "হাইড্রোজেন পরমাণুর তৃতীয় কক্ষপথের ইলেকট্রনের শক্তি প্রথম কক্ষপথের শক্তির কত গুণ?",
+        "solution": "[math]\\mathrm{E}_{\\mathrm{n}}=\\dfrac{\\mathrm{E}_{1}}{\\mathrm{n}^{2}} \\therefore \\mathrm{E}_{3}=\\dfrac{\\mathrm{E}_{1}}{3^{2}}=\\dfrac{\\mathrm{E}_{1}}{9}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 367101,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 367101,
+            "tag_id": 11,
+            "year": "23-24",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367102,
+      "value": {
+        "options": {
+          "ক": "[math]-0.8488[/math]",
+          "খ": "[math]-1.6977[/math]",
+          "গ": "[math]-1.5090[/math]",
+          "ঘ": "[math]-3.3954[/math]"
+        },
+        "question": "হাইড্রোজেন পরমাণুর প্রথম কক্ষপথে ইলেকট্রনের শক্তি [math]\\mathrm {-13.5815 ~eV}[/math] হলে, চতুর্থ কক্ষপথে ইলেকট্রনের শক্তি [math]\\mathrm {(eV)}[/math] কত?",
+        "solution": "[math]\\mathrm{E}_{\\mathrm{n}}=\\dfrac{\\mathrm{E}_{1}}{\\mathrm{n}^{2}} \\therefore \\mathrm{E}_{4}=\\dfrac{-13.5815}{4^{2}} \\mathrm{eV}=-0.8488 \\mathrm{eV}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 367102,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 367102,
+            "tag_id": 11,
+            "year": "23-24",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367103,
+      "value": {
+        "options": {
+          "ক": "5p",
+          "খ": "4d",
+          "গ": "6s",
+          "ঘ": "4f"
+        },
+        "question": "নিচের কোন উপস্তরটির শক্তি সবচেয়ে বেশি?",
+        "solution": "[math]n+l[/math] নিয়ম অনুযায়ী, 4f (n=4, l=3 → 7) এর শক্তি সবচেয়ে বেশি। f-অরবিটালের ভৌত আকার বড় এবং এটি নিউক্লিয়াস থেকে দূরে অবস্থান করায় শক্তি বেশি হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 367103,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 148,
+          "full_name": "Agriculture Cluster Admission System",
+          "short_name": "ACAS",
+          "slug": "acas",
+          "pivot": {
+            "question_bank_id": 367103,
+            "tag_id": 148,
+            "year": "23-24",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367105,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm {3d}[/math]",
+          "খ": "[math]\\mathrm {4d}[/math]",
+          "গ": "[math]\\mathrm {5s}[/math]",
+          "ঘ": "[math]\\mathrm {4s}[/math]"
+        },
+        "question": "কোনটি সর্বোচ্চ শক্তি স্তরের?",
+        "solution": "[math]\\mathrm {3d}[/math]\u003Cbr\u003E অরবিটালের শক্তি [math]= 3+2=5[/math]\u003Cbr\u003E [math]\\text {4d}[/math]\u003Cbr\u003E অরবিটালের শক্তি [math]= 4 + 2 = 6[/math]\u003Cbr\u003E [math]\\text {5s}[/math]\u003Cbr\u003E অরবিটালের শক্তি [math]= 5 + 0 = 5[/math]\u003Cbr\u003E [math]\\text {4s}[/math]\u003Cbr\u003E অরবিটালের শক্তি [math]= 4+0 = 4[/math]\u003Cbr\u003E [math]\\text {4d}[/math]\u003Cbr\u003E অরবিটালে [math]( \\mathrm n + l)[/math]\u003Cbr\u003E এর মান বেশি। তাই [math]\\text {4d}[/math]\u003Cbr\u003E অরবিটালের শক্তি সর্বোচ্চ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 367105,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 367105,
+            "tag_id": 57,
+            "year": "22-23",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367104,
+      "value": {
+        "options": {
+          "ক": "3d",
+          "খ": "4d",
+          "গ": "5s",
+          "ঘ": "4s"
+        },
+        "question": "কোনটি সর্বোচ্চ শক্তি স্তরের?",
+        "solution": "পরমাণুতে ইলেকট্রনের শক্তি স্তর নির্ণয় করা হয় প্রধান কোয়ান্টাম সংখ্যা (n) এবং অ্যাজিমুথাল কোয়ান্টাম সংখ্যা (l) দ্বারা। সাধারণত, প্রধান কোয়ান্টাম সংখ্যা বেশি হলে শক্তি বেশি হয়। তবে, কিছু ক্ষেত্রে অ্যাজিমুথাল কোয়ান্টাম সংখ্যাও শক্তির উপর প্রভাব ফেলে। 4d অরবিটালের জন্য n=4 এবং l=2, অর্থাৎ [math]n+l = 4+2 = 6[/math]\u003Cbr\u003E । 5s অরবিটালের জন্য n=5 এবং l=0, অর্থাৎ [math]n+l = 5+0 = 5[/math]\u003Cbr\u003E । 4d অরবিটালের [math]n+l[/math]\u003Cbr\u003E মান 5s অরবিটালের চেয়ে বেশি হওয়ায় 4d অরবিটালের শক্তি 5s অরবিটালের চেয়ে বেশি। অন্যান্য বিকল্পগুলির মধ্যে, 3d (n=3, l=2, n+l=5) এবং 4s (n=4, l=0, n+l=4) এর শক্তি 4d এবং 5s এর চেয়ে কম। অতএব, 4d অরবিটাল সর্বোচ্চ শক্তি স্তরের। ম্যাডelung নিয়ম (n+l নিয়ম) অনুসারে, অরবিটালের শক্তি প্রধানত n এবং l এর সমষ্টির উপর নির্ভর করে, যেখানে n বেশি হলে বা n সমান হলে l বেশি হলে শক্তি বেশি হয়।",
+        "explanation": "3d অরবিটালের শক্তি = 3 + 2 = 54d অরবিটালের শক্তি = 4 + 2 = 65s অরবিটালের শক্তি = 5 +0 = 54s অরবিটালের শক্তি = 4 +0 = 44d অরবিটালে (n + l) এর মান বেশি। তাই 4d অরবিটালের শক্তি সর্বোচ্চ।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 367104,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 367104,
+            "tag_id": 57,
+            "year": "22-23",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367106,
+      "value": {
+        "options": {
+          "ক": "Infrared",
+          "খ": "Visible",
+          "গ": "Ultraviolet",
+          "ঘ": "Microwave"
+        },
+        "question": "বিকিরণগুলোর মধ্যে কোনটির শক্তি সবচেয়ে বেশি?",
+        "solution": "ফোটনের শক্তি তার কম্পাঙ্কের (frequency) সমানুপাতিক, অর্থাৎ [math]E=h\\nu[/math]\u003Cbr\u003E, যেখানে [math]E[/math]\u003Cbr\u003E হল শক্তি, [math]h[/math]\u003Cbr\u003E হল প্ল্যাঙ্কের ধ্রুবক এবং [math]\\nu[/math]\u003Cbr\u003E হল কম্পাঙ্ক। তড়িৎচুম্বকীয় বর্ণালীতে, কম্পাঙ্ক মাইক্রোওয়েভ থেকে শুরু করে অতিবেগুনী রশ্মি পর্যন্ত বৃদ্ধি পায়। তাই, অতিবেগুনী রশ্মির কম্পাঙ্ক সবচেয়ে বেশি হওয়ায় এর শক্তিও সবচেয়ে বেশি। বিকিরণের তরঙ্গদৈর্ঘ্য (wavelength) যত কম হয়, কম্পাঙ্ক তত বেশি হয় এবং শক্তিও তত বেশি হয়। অতিবেগুনী রশ্মির তরঙ্গদৈর্ঘ্য দৃশ্যমান আলো এবং অবলোহিত রশ্মির চেয়ে কম।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 367106,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 148,
+          "full_name": "Agriculture Cluster Admission System",
+          "short_name": "ACAS",
+          "slug": "acas",
+          "pivot": {
+            "question_bank_id": 367106,
+            "tag_id": 148,
+            "year": "20-21",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367107,
+      "value": {
+        "options": {
+          "ক": "3s\u003C3d\u003C4p",
+          "খ": "3d\u003C3s\u003C4p",
+          "গ": "4p\u003C3s\u003C3d",
+          "ঘ": "3s\u003C4p\u003C3d"
+        },
+        "question": "অরবিটালের শক্তির ক্ষেত্রে কোনটি সঠিক ক্রম?",
+        "solution": "অরবিটালের শক্তির ক্রম n+l সূত্র দ্বারা নির্ধারিত হয়। যে অরবিটালের জন্য n+l এর মান কম, তার শক্তিও কম। যদি n+l এর মান সমান হয়, তবে যে অরবিটালের জন্য n এর মান কম, তার শক্তি কম।\n\nএখানে অরবিটালগুলি হল 3s, 3d, এবং 4p।\n\n* 3s এর জন্য, n=3, l=0, তাই n+l = 3+0 = 3।\n\n* 4p এর জন্য, n=4, l=1, তাই n+l = 4+1 = 5।\n\n* 3d এর জন্য, n=3, l=2, তাই n+l = 3+2 = 5।\n\nযেহেতু 3s এর জন্য n+l এর মান সবচেয়ে কম (3), তাই 3s অরবিটালের শক্তি সবচেয়ে কম।\n\nএবার 4p এবং 3d এর মধ্যে তুলনা করলে দেখা যায়, উভয়ের জন্য n+l এর মান সমান (5)। এই ক্ষেত্রে, যে অরবিটালের n এর মান কম, তার শক্তি কম। 3d এর জন্য n=3 এবং 4p এর জন্য n=4। সুতরাং, 3d অরবিটালের শক্তি 4p অরবিটালের চেয়ে কম।\n\nঅতএব, শক্তির সঠিক ক্রম হল 3s \u003C 3d \u003C 4p।\n\nএই নিয়মটি মূলত বহু-ইলেকট্রন পরমাণুর ক্ষেত্রে প্রযোজ্য যেখানে ইলেকট্রনগুলি বিভিন্ন শক্তিস্তরে বিন্যস্ত থাকে।",
+        "explanation": "আউফবাউ নীতি অনুসারে, অরবিটালের প্রধান কোয়ান্টাম সংখ্যা (n) ও সহকারী কোয়ান্টাম সংখ্যা(l) -এর যোগফল দ্বারা তার শক্তিমাত্র নির্ণয় করা হয়। (n+l) এর মান সমান হলে, যার n-এর মান বেশি, সেটি-ই উচ্চশক্তির অরবিটাল।\n3s এ ( n + l) = (3+0) = 3,\n4p-এর (n + l) = ( 4 + 1) = 5,\n3d-এর (n + l) = (3 + 2) = 5",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 367107,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3181,
+          "full_name": "Home Economics College - গার্হস্থ্য অর্থনীতি কলেজ",
+          "short_name": "HEC",
+          "slug": "hec",
+          "pivot": {
+            "question_bank_id": 367107,
+            "tag_id": 3181,
+            "year": "19-20",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367109,
+      "value": {
+        "options": {
+          "ক": "s",
+          "খ": "p",
+          "গ": "d",
+          "ঘ": "f"
+        },
+        "question": "অধিক স্থায়িত্বের জন্য কোন অরবিটাল হতে ইলেকট্রন স্থানান্তরিত হয় ?",
+        "solution": "স্থিতিশীলতা বাড়ানোর জন্য, বিশেষ করে অর্ধ-পূর্ণ বা সম্পূর্ণরূপে পূর্ণ অরবিটাল অর্জনের জন্য, ইলেকট্রন প্রায়শই d অরবিটাল থেকে s অরবিটালে স্থানান্তরিত হয়। এটি পারমাণবিক ইলেকট্রন বিন্যাসের একটি সাধারণ ঘটনা যা স্থিতিশীলতা বৃদ্ধির জন্য ঘটে। উদাহরণস্বরূপ, ক্রোমিয়াম (Cr) এবং তামার (Cu) পারমাণবিক সংখ্যা যথাক্রমে ২৪ এবং ২৯। ক্রোমিয়ামের ইলেকট্রন বিন্যাস [math][Ar] 3d^4 4s^2[/math]\u003Cbr\u003E হওয়ার কথা থাকলেও, এটি [math][Ar] 3d^5 4s^1[/math]\u003Cbr\u003E হয়, যেখানে 3d অরবিটাল অর্ধ-পূর্ণ এবং 4s অরবিটালে একটি ইলেকট্রন থাকে। একইভাবে, তামার ইলেকট্রন বিন্যাস [math][Ar] 3d^9 4s^2[/math]\u003Cbr\u003E হওয়ার কথা থাকলেও, এটি [math][Ar] 3d^{10} 4s^1[/math]\u003Cbr\u003E হয়, যেখানে 3d অরবিটাল সম্পূর্ণরূপে পূর্ণ এবং 4s অরবিটালে একটি ইলেকট্রন থাকে। এই পরিবর্তনগুলি তাদের স্থায়িত্ব বৃদ্ধি করে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 367109,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 14,
+          "full_name": "Hajee Mohammad Danesh Science & Technology University (A Unit)",
+          "short_name": "HSTU-A",
+          "slug": "hstu-a",
+          "pivot": {
+            "question_bank_id": 367109,
+            "tag_id": 14,
+            "year": "17-18",
+            "created_at": "2025-08-19T04:19:13.000000Z",
+            "updated_at": "2025-08-19T04:19:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367096,
+      "value": {
+        "options": {
+          "ক": "গামা",
+          "খ": "রেডিও ওয়েভ",
+          "গ": "অবলোহিত",
+          "ঘ": "মাইক্রোওয়েভ"
+        },
+        "question": "কোন রশ্মিটির শক্তি সর্বাধিক ?",
+        "solution": "গামা রশ্মির কম্পাঙ্ক সর্বাধিক হওয়ায় এদের শক্তিও সর্বাধিক। কম্পাঙ্ক ও শক্তির সম্পর্ক [math]E = hf[/math]\u003Cbr\u003E সমীকরণ দ্বারা প্রকাশ করা হয়, যেখানে [math]E[/math]\u003Cbr\u003E শক্তি, [math]h[/math]\u003Cbr\u003E প্ল্যাঙ্কের ধ্রুবক এবং [math]f[/math]\u003Cbr\u003E কম্পাঙ্ক। রেডিও ওয়েভ, অবলোহিত এবং মাইক্রোওয়েভের চেয়ে গামা রশ্মির কম্পাঙ্ক অনেক বেশি।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 367096,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 367096,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T04:19:12.000000Z",
+            "updated_at": "2025-08-19T04:19:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367097,
+      "value": {
+        "options": {
+          "ক": "3p",
+          "খ": "3d",
+          "গ": "4s",
+          "ঘ": "3f"
+        },
+        "question": "কোন অরবিটালের শক্তি সর্বাধিক?",
+        "solution": "পরমাণুতে ইলেকট্রনের শক্তি প্রধান কোয়ান্টাম সংখ্যা ( [math]n[/math]\u003Cbr\u003E) এবং অ্যাজিমুথাল কোয়ান্টাম সংখ্যা ( [math]l[/math]\u003Cbr\u003E) দ্বারা নির্ধারিত হয়। সাধারণ নিয়ম হলো, [math]n+l[/math]\u003Cbr\u003E এর মান যত বেশি হবে, অরবিটালের শক্তি তত বেশি হবে। যদি [math]n+l[/math]\u003Cbr\u003E এর মান সমান হয়, তবে যে অরবিটালের [math]n[/math]\u003Cbr\u003E এর মান বেশি, তার শক্তিও বেশি হবে।এখানে বিকল্পগুলির জন্য [math]n[/math]\u003Cbr\u003E এবং [math]l[/math]\u003Cbr\u003E এর মানগুলো দেখা যাক:A) 3p: [math]n=3[/math]\u003Cbr\u003E, [math]l=1[/math]\u003Cbr\u003E ( [math]p[/math]\u003Cbr\u003E অরবিটালের জন্য [math]l=1[/math]\u003Cbr\u003E)B) 3d: [math]n=3[/math]\u003Cbr\u003E, [math]l=2[/math]\u003Cbr\u003E ( [math]d[/math]\u003Cbr\u003E অরবিটালের জন্য [math]l=2[/math]\u003Cbr\u003E)C) 4s: [math]n=4[/math]\u003Cbr\u003E, [math]l=0[/math]\u003Cbr\u003E ( [math]s[/math]\u003Cbr\u003E অরবিটালের জন্য [math]l=0[/math]\u003Cbr\u003E)D) 3f: [math]n=3[/math]\u003Cbr\u003E, [math]l=3[/math]\u003Cbr\u003E ( [math]f[/math]\u003Cbr\u003E অরবিটালের জন্য [math]l=3[/math]\u003Cbr\u003E)এখন [math]n+l[/math]\u003Cbr\u003E এর মান হিসাব করি:A) 3p: [math]3+1=4[/math]\u003Cbr\u003EB) 3d: [math]3+2=5[/math]\u003Cbr\u003EC) 4s: [math]4+0=4[/math]\u003Cbr\u003ED) 3f: [math]3+3=6[/math]\u003Cbr\u003Eদেখা যাচ্ছে, 3f অরবিটালের জন্য [math]n+l[/math]\u003Cbr\u003E এর মান সর্বাধিক (6)। তাই, 3f অরবিটালের শক্তি সর্বাধিক।পরমাণুতে ইলেকট্রনের শক্তি নির্ধারণের এই নীতিটি মেলি-বাউয়ারের নিয়ম (Mali-Bauer's rule) বা [math]n+l[/math]\u003Cbr\u003E নিয়ম নামে পরিচিত। এটি শুধুমাত্র বহু-ইলেকট্রন পরমাণুর ক্ষেত্রে প্রযোজ্য।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 367097,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 367097,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 367097,
+            "tag_id": 7,
+            "year": "2015",
+            "created_at": "2025-08-19T04:19:12.000000Z",
+            "updated_at": "2025-08-19T04:19:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367098,
+      "value": {
+        "options": {
+          "ক": "infrared",
+          "খ": "visible",
+          "গ": "Ultraviolet",
+          "ঘ": "microwave"
+        },
+        "question": "নিম্নের বিকিরণগুলোর মধ্যে কোনটির শক্তি সবচেয়ে বেশী?",
+        "solution": "বিকিরণের শক্তি তার কম্পাঙ্কের (frequency) সমানুপাতিক এবং তরঙ্গদৈর্ঘ্যের (wavelength) ব্যস্তানুপাতিক। বিকিরণের শক্তি [math]E = hf[/math]\u003Cbr\u003E, যেখানে [math]h[/math]\u003Cbr\u003E হল প্ল্যাঙ্কের ধ্রুবক এবং [math]f[/math]\u003Cbr\u003E হল কম্পাঙ্ক। কম্পাঙ্ক যত বেশি, শক্তিও তত বেশি।এই বিকল্পগুলির মধ্যে, অবলোহিত (infrared), দৃশ্যমান (visible), অতিবেগুনী (Ultraviolet) এবং মাইক্রোওয়েভ (microwave) বিকিরণ রয়েছে। এদের তরঙ্গদৈর্ঘ্যের ক্রম হল: মাইক্রোওয়েভ \u003E অবলোহিত \u003E দৃশ্যমান \u003E অতিবেগুনী।সুতরাং, অতিবেগুনী বিকিরণের তরঙ্গদৈর্ঘ্য সবচেয়ে কম এবং কম্পাঙ্ক সবচেয়ে বেশি, তাই এটির শক্তি সবচেয়ে বেশি।এই বিকিরণগুলি তড়িৎ-চুম্বকীয় বর্ণালীর (electromagnetic spectrum) অংশ।",
+        "explanation": "যে বিকিরণের তরঙ্গ দৈর্ঘ্যের মান যত কম, সে বিকিরণ তত বেশি শক্তিশালী। এখানে বিকিরণগুলোর মধ্যে ultraviolet এর তরঙ্গ দৈর্ঘ্য সবচেয়ে কম। তাই এর শক্তি সবচেয়ে বেশি।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 367098,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 367098,
+            "tag_id": 8,
+            "year": "10-11",
+            "created_at": "2025-08-19T04:19:12.000000Z",
+            "updated_at": "2025-08-19T04:19:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367095,
+      "value": {
+        "options": {
+          "ক": "[math]3 \\mathrm{~s}\u003C3 \\mathrm{~d}\u003C4 \\mathrm{p}[/math]",
+          "খ": "[math]3 \\mathrm{~d}\u003C3 \\mathrm{~s}\u003C4 \\mathrm{p}[/math]",
+          "গ": "[math]4 p\u003C3 s\u003C3 d[/math]",
+          "ঘ": "[math]3 \\mathrm{~s}\u003C4 \\mathrm{p}\u003C3 \\mathrm{~d}[/math]"
+        },
+        "question": "অরবিটালসমূহের সঠিক শক্তির ক্রম কোনটি ?",
+        "solution": "পরমাণুতে ইলেকট্রন প্রবেশ করে n+l নিয়ম অনুসারে, যেখানে n হল প্রধান কোয়ান্টাম সংখ্যা এবং l হল অ্যাজিমুথাল কোয়ান্টাম সংখ্যা। অরবিটালের শক্তির ক্রম নির্ভর করে n+l মানের উপর। যার n+l মান কম, তার শক্তি কম। যদি n+l মান সমান হয়, তবে যার n মান কম, তার শক্তি কম।এখানে বিকল্পগুলি বিশ্লেষণ করা হলো:A) [math]3 \\mathrm{~s}[/math]\u003Cbr\u003E: n=3, l=0; n+l = 3+0 = 3[math]3 \\mathrm{~d}[/math]\u003Cbr\u003E: n=3, l=2; n+l = 3+2 = 5[math]4 \\mathrm{p}[/math]\u003Cbr\u003E: n=4, l=1; n+l = 4+1 = 5এই ক্রমে [math]3 \\mathrm{~s}[/math]\u003Cbr\u003E এর n+l মান সবচেয়ে কম (3), তাই এর শক্তি সবচেয়ে কম। [math]3 \\mathrm{~d}[/math]\u003Cbr\u003E এবং [math]4 \\mathrm{p}[/math]\u003Cbr\u003E উভয়ের n+l মান সমান (5)। এই ক্ষেত্রে, যার n এর মান কম, তার শক্তি কম। এখানে [math]3 \\mathrm{~d}[/math]\u003Cbr\u003E এর n=3 এবং [math]4 \\mathrm{p}[/math]\u003Cbr\u003E এর n=4। তাই [math]3 \\mathrm{~d}[/math]\u003Cbr\u003E এর শক্তি [math]4 \\mathrm{p}[/math]\u003Cbr\u003E এর চেয়ে কম। সুতরাং, সঠিক ক্রমটি হবে [math]3 \\mathrm{~s}\u003C3 \\mathrm{~d}\u003C4 \\mathrm{p}[/math]\u003Cbr\u003E।B) [math]3 \\mathrm{~d}\u003C3 \\mathrm{~s}\u003C4 \\mathrm{p}[/math]\u003Cbr\u003E : এখানে [math]3 \\mathrm{~d}[/math]\u003Cbr\u003E এর শক্তি [math]3 \\mathrm{~s}[/math]\u003Cbr\u003E এর চেয়ে বেশি।C) [math]4 p\u003C3 s\u003C3 d[/math]\u003Cbr\u003E : এখানে [math]4 \\mathrm{p}[/math]\u003Cbr\u003E এর শক্তি [math]3 \\mathrm{~s}[/math]\u003Cbr\u003E এর চেয়ে বেশি।D) [math]3 \\mathrm{~s}\u003C4 \\mathrm{p}\u003C3 \\mathrm{~d}[/math]\u003Cbr\u003E : এখানে [math]4 \\mathrm{p}[/math]\u003Cbr\u003E এর শক্তি [math]3 \\mathrm{~d}[/math]\u003Cbr\u003E এর চেয়ে বেশি।সুতরাং, অরবিটালসমূহের সঠিক শক্তির ক্রম হল [math]3 \\mathrm{~s}\u003C3 \\mathrm{~d}\u003C4 \\mathrm{p}[/math]\u003Cbr\u003E। এই নিয়মটি ইলেকট্রন বিন্যাসের ক্ষেত্রে প্রযোজ্য।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 367095,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 367095,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 367095,
+            "tag_id": 7,
+            "year": "2021",
+            "created_at": "2025-08-19T04:19:12.000000Z",
+            "updated_at": "2025-08-19T04:19:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367123,
+      "value": {
+        "options": {
+          "ক": "[math]s\u003Ep\u003Ed\u003Ef[/math]",
+          "খ": "[math]s f[/math]",
+          "গ": "[math]s",
+          "ঘ": "[math]f\u003Ed\u003Ep"
+        },
+        "question": "অরবিটালগুলোর শক্তিক্রম কোনটি?",
+        "solution": "শক্তিক্রম: একটি প্রধান শক্তিস্তরের উপশক্তিস্তরসমূহেও ইলেকট্রন শক্তির উচ্চক্রম অনুসারে স্থান গ্রহণ করে। অর্থাৎ প্রথমে ও উপত্তরে, তা পূর্ণ হলে p উপস্তরে এবং এভাবে ক্রমান্বয়ে উচ্চশক্তির উপস্তর di এবং -িএ প্রবেশ করে। অর্থাৎ, উপস্তরের ক্রম হলো- [math]s",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367124,
+      "value": {
+        "options": {
+          "ক": "[math]4s[/math]",
+          "খ": "[math]3d[/math]",
+          "গ": "[math]5p[/math]",
+          "ঘ": "[math]3f[/math]"
+        },
+        "question": "নিচের কোনটি উচ্চ শক্তিশ্বর?",
+        "solution": "উচ্চ শক্তিবিশিষ্ট উপন্তর: উপস্তরগুলো শক্তির মান তাদের প্রধান কোয়ান্টাম সংখ্যা [math](n)[/math]\u003Cbr\u003E এবং সহকারী কোয়ান্টাম সংখ্যা [math](l)[/math]\u003Cbr\u003E এর মান এর যোগফল [math]n + /[/math]\u003Cbr\u003E এর উপর নির্ভর করে। যে উপত্তরে [math]n + 1[/math]\u003Cbr\u003E এর মান বেশি, সেটিই উচ্চশক্তির উপস্তর।[math]3d[/math]\u003Cbr\u003E উপস্তরের জন্য, [math](n + l) = 3 + 2 = 5[/math]\u003Cbr\u003E [math]4s[/math]\u003Cbr\u003E উপস্থরের জন্য, [math](n + l) = 4 + 0 = 4[/math]\u003Cbr\u003E [math]5p[/math]\u003Cbr\u003E উপস্থরের জন্য, [math](n + l) = (5 + 1) = 6[/math]\u003Cbr\u003E [math]3f[/math]\u003Cbr\u003E উপস্থরের জন্য, [math](n + l) = (3 + 3) = 6[/math]\u003Cbr\u003Eকিন্তু, [math]5p[/math]\u003Cbr\u003E ও [math]3f[/math]\u003Cbr\u003E উভয়ক্ষেত্রে [math](n+1)[/math]\u003Cbr\u003E এর মান সমান, সেক্ষেত্রে যে অরবিটালে । এর মান বেশি সেটি উচ্চ শক্তিস্তরের [math]5p[/math]\u003Cbr\u003E এ [math]n = 5[/math]\u003Cbr\u003E তাই [math]5p[/math]\u003Cbr\u003E উঁচু শক্তিস্তরের।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367125,
+      "value": {
+        "options": {
+          "ক": "[math]3d[/math]",
+          "খ": "[math]4f[/math]",
+          "গ": "[math]5p[/math]",
+          "ঘ": "[math]6s[/math]"
+        },
+        "question": "উচ্চ শক্তির অরবিটাল নিচের কোনটি?",
+        "solution": "উপস্তরগুলো শক্তির মান তাদের প্রধান কোয়ান্টাম সংখ্যা [math](n)[/math]\u003Cbr\u003E এবং সহকারী কোয়ান্টাম সংখ্যা [math](1)[/math]\u003Cbr\u003E এর মান এর যোগফল [math]n +/[/math]\u003Cbr\u003E এর উপর নির্ভর করে। যে উপস্তরে [math]n + 1[/math]\u003Cbr\u003E এর মান বেশি, সেটিই উচ্চশক্তির উপন্তর।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367126,
+      "value": {
+        "options": {
+          "ক": "[math]3s \u003C 3d \u003C 4p[/math]",
+          "খ": "[math]4p \u003C 3s \u003C 3d[/math]",
+          "গ": "[math]4p \u003C 3s \u003C 3d[/math]",
+          "ঘ": "[math]3s \u003C 4p \u003C 3d[/math]"
+        },
+        "question": "অরবিটালসমূহের সঠিক শক্তির ক্রম কোনটি?",
+        "solution": "(n + 1) এর মান দিয়ে অরবিটালের শক্তি নির্ণয় করা যায়।[math]3s = 3 + 0 = 3[/math]\u003Cbr\u003E [math]3d = 3 + 2 = 5[/math]\u003Cbr\u003E [math]4p = 4 + 2 = 6[/math]\u003Cbr\u003Eসুতরাং, [math]3s \u003C 3d \u003C 4p[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367127,
+      "value": {
+        "options": {
+          "ক": "[math]8.73 \\times 10^{23}[/math]",
+          "খ": "[math]7.99 \\times 10^{23}[/math]",
+          "গ": "[math]7.99 \\times 10^{18}[/math]",
+          "ঘ": "[math]7.99 \\times 10^{16}[/math]"
+        },
+        "question": "হাইড্রোজেন পরমাণু তৃতীয় এবং দ্বিতীয় শক্তিস্তরের ইলেকট্রনের শক্তি যথাক্রমে [math]5.54 \\times 10^{-10} \\mathrm{erg}[/math] এবং [math]2.44 \\times 10^{-11} \\mathrm{erg}[/math] তৃতীয় শক্তিস্তর খেতে দ্বিতীয় শক্তিস্তরে ইলেকট্রনটি পতিত হলে যে রশ্মি বিকরিত হয় তার কম্পাঙ্ক (হার্জ) কত হবে?",
+        "solution": "[math]\\Delta \\mathrm{E}=5.54 \\times 10^{-10} \\mathrm{crg}-2.44 \\times 10^{-11} \\mathrm{erg}[/math]\u003Cbr\u003E [math]=5.296 \\times 10^{-10} \\mathrm{erg}[/math]\u003Cbr\u003E [math]=5.296 \\times 10^{-17} \\mathrm{~J}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{E}=\\mathrm{h} v[/math]\u003Cbr\u003E [math]\\Rightarrow v=\\frac{E}{h}=\\frac{5.296 \\times 10^{-17}}{h}=7.99 \\times 10^{16} \\mathrm{~Hz}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367128,
+      "value": {
+        "options": {
+          "ক": "infrared",
+          "খ": "visible",
+          "গ": "ultraviolet",
+          "ঘ": "microwave"
+        },
+        "question": "নিম্নের বিকিরণগুলোর মধ্যে কোনটির শক্তি সবচেয়ে বেশি?",
+        "solution": "যে বিকিরণের তরঙ্গ দৈর্ঘ্যের মান যত কম, সে বিকিরণ তত বেশি শক্তিশালী। এখানে বিকিরণগুলোর মধ্যে ultraviolet-এর তরঙ্গ দৈর্ঘ্য সবচেয়ে কম। তাই এর শক্তি সবচেয়ে বেশি।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367129,
+      "value": {
+        "options": {
+          "ক": "গামা",
+          "খ": "রেডিও ওয়েভ",
+          "গ": "অবলোহিত",
+          "ঘ": "মাইক্রোওয়েভ"
+        },
+        "question": "কোন রশ্মিটির শক্তি সর্বাধিক?",
+        "solution": "যে রশ্মির কম্পাঙ্ক বেশি সে রশ্মির শক্তি বেশি।কারণ, [math]E = hv[/math]\u003Cbr\u003E [math]v[/math]\u003Cbr\u003E = কম্পাঙ্ক [math][E \\propto v][/math]\u003Cbr\u003Eআবার, [math]v \\propto \\frac{1}{\\lambda}[/math]\u003Cbr\u003Eউপর্যুক্ত রশ্মিগুলোর মধ্যে গামা রশ্মির তরঙ্গ দৈর্ঘ্যের মান সবচেয়ে কম, কম্পাঙ্ক সবচেয়ে বেশি। তাই গামা রশ্মির শক্তি সর্বাধিক।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 367130,
+      "value": {
+        "options": {
+          "ক": "[math]E_{1} \\times \\frac{1}{9}[/math]",
+          "খ": "[math]E_{1} \\times 9[/math]",
+          "গ": "[math]E_{1} \\times \\frac{1}{3}[/math]",
+          "ঘ": "[math]E_{1} \\times 3[/math]"
+        },
+        "question": "হাইড্রোজেন পরমাণুর প্রথম কক্ষপথের শক্তি [math]E₁[/math] হলে তৃতীয় কক্ষপথের শক্তি হবে-",
+        "solution": "n তম কক্ষপথে আবর্তনশীল ইলেকট্রনের মোট শক্তি [math]=-\\frac{2 \\pi^{2} m Z^{2} e^{4}}{n^{2} h^{2}}[/math]\u003Cbr\u003Eহাইড্রোজেনের প্রথম কক্ষপথের শক্তি [math]\\mathrm{E}_{1}=-\\frac{2 \\pi^{2} m Z^{2} \\mathrm{e}^{4}}{\\mathrm{~h}^{2}}[/math]\u003Cbr\u003Eহাইড্রোজেনের ৩য় কক্ষপথের শক্তি [math]E_{3}=-\\frac{2 \\pi^{2} m Z^{2} e^{4}}{9 h^{2}}[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{E}_{3}}{\\mathrm{E}_{1}}=-\\frac{2 \\pi^{2} m Z^{2} \\mathrm{e}^{4}}{9 h^{2}} \\times[/math]\u003Cbr\u003E [math]-\\frac{h^{2}}{2 \\pi^{2} m Z^{2} e^{4}}=\\frac{1}{9}[/math]\u003Cbr\u003E [math]\\therefore \\mathbf{E}_{3}=\\frac{\\mathbf{E}_{1}}{9}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 184,
+      "book_grade_id": 1,
+      "content_chunk_id": 4151,
+      "created_at": "2025-08-19T04:19:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 184,
+        "title": "রসায়ন ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4151&grade=1&lesson=6761&per_page=200&question_paper_id=47742&subject=184&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4151&grade=1&lesson=6761&per_page=200&question_paper_id=47742&subject=184&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4151&grade=1&lesson=6761&per_page=200&question_paper_id=47742&subject=184&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 38,
+  "total": 38
+}
