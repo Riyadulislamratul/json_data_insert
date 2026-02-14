@@ -1,0 +1,654 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 756819,
+      "value": {
+        "options": {
+          "ক": "বিজ্ঞান",
+          "খ": "জ্ঞান",
+          "গ": "রাশি",
+          "ঘ": "বিশ্বাস"
+        },
+        "question": "কোনো কিছু সম্পর্কিত তথ্যকে কী বলা হয়?",
+        "solution": "খ. জ্ঞান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 756820,
+      "value": {
+        "options": {
+          "ক": "পর্যবেক্ষণ",
+          "খ": "প্রযুক্তি",
+          "গ": "বিজ্ঞান",
+          "ঘ": "রহস্য"
+        },
+        "question": "পরীক্ষা বা পর্যবেক্ষণ থেকে পাওয়া তথ্য দ্বারা সমর্থিত জ্ঞানকে কী বলে?",
+        "solution": "গ. বিজ্ঞান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756820,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756821,
+      "value": {
+        "options": {
+          "ক": "পরীক্ষা",
+          "খ": "সিদ্ধান্ত",
+          "গ": "ফলাফল",
+          "ঘ": "উপাত্ত সংগ্রহ"
+        },
+        "question": "বৈজ্ঞানিক পদ্ধতির শেষ ধাপ কোনটি?",
+        "solution": "গ. ফলাফল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 756822,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বৈজ্ঞানিক প্রক্রিয়ার ধাপ—\u003Cbr\u003E\ni. সম্ভাব্য ফলাফল গ্রহণ\u003Cbr\u003E\nii. ফলাফল প্রকাশ\u003Cbr\u003E\niii. তথ্যসংগ্রহ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 756822,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 756822,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 756823,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সবিতা বিজ্ঞানের নানা দিক, দৈনন্দিন প্রয়োজনীয়তা এবং বিজ্ঞানের ভ্রান্ত দিক সম্পর্কে বাবার কাছ থেকে দিক-নির্দেশনা নেয়। এতে সে বিজ্ঞানের বিভিন্ন দিক সম্পর্কে জানতে পারে।\u003Cbr\u003E\nসবিতা বিজ্ঞানমনস্ক হবে যদি সে—\u003Cbr\u003E\ni. কোনো ভুল না করে\u003Cbr\u003E\nii. যুক্তিযুক্তভাবে চিন্তা করে\u003Cbr\u003E\niii. অপরের মতামতের মূল্য দেয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 756823,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 756823,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 756823,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 756824,
+      "value": {
+        "options": {
+          "ক": "৫টি",
+          "খ": "৬টি",
+          "গ": "৭টি",
+          "ঘ": "৮টি"
+        },
+        "question": "বৈজ্ঞানিক প্রক্রিয়ার ধাপ কয়টি?",
+        "solution": "ঘ. ৮টি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 756825,
+      "value": {
+        "options": {
+          "ক": "তথ্য সংগ্রহ",
+          "খ": "তথ্য গ্রহণ বা বর্জন",
+          "গ": "উপাত্ত বিশ্লেষণ",
+          "ঘ": "সমস্যা নির্বাচন"
+        },
+        "question": "বৈজ্ঞানিক পদ্ধতির প্রথম ধাপ কোনটি?",
+        "solution": "ঘ. সমস্যা নির্বাচন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 756826,
+      "value": {
+        "options": {
+          "ক": "বৈজ্ঞানিক প্রক্রিয়া",
+          "খ": "মনগড়া ব্যাখ্যা",
+          "গ": "বাবা-মা'র মতামত",
+          "ঘ": "শিক্ষকের মতামত"
+        },
+        "question": "সবিতা বিজ্ঞানের নানা দিক, দৈনন্দিন প্রয়োজনীয়তা এবং বিজ্ঞানের ভ্রান্ত দিক সম্পর্কে বাবার কাছ থেকে দিক-নির্দেশনা নেয়। এতে সে বিজ্ঞানের বিভিন্ন দিক সম্পর্কে জানতে পারে।\u003Cbr\u003E\nবিজ্ঞানের জ্ঞানকে নির্ভুলভাবে পেতে হলে সবিতার কী প্রয়োজন?",
+        "solution": "ক. বৈজ্ঞানিক প্রক্রিয়া",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 756826,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 756826,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 756827,
+      "value": {
+        "options": {
+          "ক": "বিজ্ঞানমনস্কতা",
+          "খ": "বিজ্ঞান",
+          "গ": "প্রযুক্তি",
+          "ঘ": "জ্ঞান"
+        },
+        "question": "অপরের মতামতের মূল্য দেওয়া এবং নিজের ভুল স্বীকার করাকে কী বলা হয়?",
+        "solution": "ক. বিজ্ঞানমনস্কতা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 756827,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756828,
+      "value": {
+        "options": {
+          "ক": "প্রশ্ন নির্বাচন",
+          "খ": "সম্ভাব্য ফলাফল",
+          "গ": "উপাত্ত সংগ্রহ",
+          "ঘ": "উপাত্ত বিশ্লেষণ"
+        },
+        "question": "সংগৃহীত তথ্য বিশ্লেষণ করে কোনো সিদ্ধান্ত গ্রহণ করাকে কী বলা হয়?",
+        "solution": "খ. সম্ভাব্য ফলাফল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 756828,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756829,
+      "value": {
+        "options": {
+          "ক": "অবাস্তব ধ্যানধারণা",
+          "খ": "যুক্তিযুক্ত চিন্তাভাবনা",
+          "গ": "কল্পনাপ্রবণতা",
+          "ঘ": "অতি প্রাকৃতিক বিশ্বাস"
+        },
+        "question": "বিজ্ঞানমনস্ক বলতে কোনটি বোঝায়?",
+        "solution": "খ. যুক্তিযুক্ত চিন্তাভাবনা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 756830,
+      "value": {
+        "options": {
+          "ক": "iii",
+          "খ": "i ও ii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আমরা বিজ্ঞানের জ্ঞান অর্জন করি—\u003Cbr\u003E\ni. পরীক্ষা-নিরীক্ষার মাধ্যমে\u003Cbr\u003E\nii. পর্যবেক্ষণের মাধ্যমে\u003Cbr\u003E\niii. যুক্তিযুক্ত চিন্তার মাধ্যমে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 756830,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 756830,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 756831,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্রাকৃতিক পরিবেশের অংশ—\u003Cbr\u003E\ni. জীব ii. পানি iii. বায়ু\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:16:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 756831,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 756831,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7677&grade=6&lesson=13677&per_page=100&question_paper_id=47324&subject=78&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7677&grade=6&lesson=13677&per_page=100&question_paper_id=47324&subject=78&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7677&grade=6&lesson=13677&per_page=100&question_paper_id=47324&subject=78&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 13,
+  "total": 13
+}

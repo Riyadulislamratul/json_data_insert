@@ -1,0 +1,757 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 752782,
+      "value": {
+        "options": {
+          "ক": "ঝাঁকি জাল",
+          "খ": "ঠেলা জাল",
+          "গ": "খাড়া জাল",
+          "ঘ": "কারেন্ট জাল"
+        },
+        "question": "মামুন তিন কোনা বিশিষ্ট জাল দিয়ে মাছ ধরতে পছন্দ করে। মামুনের জালটি কীরূপ জালকে নির্দেশ করে?",
+        "solution": "খ. ঠেলা জাল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 752782,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 752783,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "স্থানীয় মাছ ধরার যন্ত্রপাতি হচ্ছে-\u003Cbr\u003E\ni. জাল ii. পলো iii. বড়শি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 752783,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 752783,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 752784,
+      "value": {
+        "options": {
+          "ক": "কম্পন দ্বারা",
+          "খ": "ঢেউ দ্বারা",
+          "গ": "বুদবুদ দ্বারা",
+          "ঘ": "শব্দ দ্বারা"
+        },
+        "question": "পলোতে মাছ আটকা পড়লে কীভাবে বোঝা যায়?",
+        "solution": "ক. কম্পন দ্বারা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 752784,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 752785,
+      "value": {
+        "options": {
+          "ক": "যাতে তাড়াতাড়ি পানিতে ডুবে যেতে পারে",
+          "খ": "যাতে দেরিতে পানিতে ডুবে যেতে পারে",
+          "গ": "তাড়াতাড়ি পানিতে ভেসে থাকতে পারে",
+          "ঘ": "আস্তে আস্তে পানিতে ভেসে উঠতে পারে"
+        },
+        "question": "ঝাঁকি জালের নিচের দিকে লোহার ছোট ছোট কাঠি যুক্ত করা হয় কেন?",
+        "solution": "ক. যাতে তাড়াতাড়ি পানিতে ডুবে যেতে পারে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 752786,
+      "value": {
+        "options": {
+          "ক": "ঠেলা জাল",
+          "খ": "ঝাঁকি জাল",
+          "গ": "বড়শি",
+          "ঘ": "খাড়া জাল"
+        },
+        "question": "সব ধরনের মাছ ধরতে কোনটি উপযোগী?",
+        "solution": "গ. বড়শি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 752786,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 752787,
+      "value": {
+        "options": {
+          "ক": "ঝাঁকি জাল",
+          "খ": "ঠেলা জাল",
+          "গ": "খরা জাল",
+          "ঘ": "কারেন্ট জাল"
+        },
+        "question": "অনুচ্ছেদে কোন জালের ইঙ্গিত রয়েছে?",
+        "solution": "ক. ঝাঁকি জাল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 752787,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 752787,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 752788,
+      "value": {
+        "options": {
+          "ক": "৪০০ সে.মি.",
+          "খ": "৩০০ সে.মি.",
+          "গ": "২০০ সে.মি.",
+          "ঘ": "১০০ সে.মি."
+        },
+        "question": "বড়শির জন্য কত সে.মি. লম্বা ছিপ দরকার?",
+        "solution": "গ. ২০০ সে.মি.",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 752789,
+      "value": {
+        "options": {
+          "ক": "লোহার কাঠি",
+          "খ": "কাঠের কাঠি",
+          "গ": "বাঁশের কাঠি",
+          "ঘ": "তামার কাঠি"
+        },
+        "question": "ঝাঁকি জালের নিচের দিকে ছোট ছোট কী যুক্ত করা হয়?",
+        "solution": "ক. লোহার কাঠি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 752789,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 752790,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "উক্ত জালে আটকা পড়ে-\u003Cbr\u003E\ni. ইলিশ মাছ ii. চিংড়ি মাছ iii. পুঁটি মাছ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 752790,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 752790,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 752790,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 752791,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ঝাঁকি জাল দিয়ে মাছ ধরা হয়-\u003Cbr\u003E\ni. খাল থেকে ii. সমুদ্র থেকে iii. নদী থেকে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 752791,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 752791,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 752792,
+      "value": {
+        "options": {
+          "ক": "সুতা",
+          "খ": "কাঠ",
+          "গ": "বাঁশ",
+          "ঘ": "লোহা"
+        },
+        "question": "জাল কী দ্বারা তৈরি করা হয়?",
+        "solution": "ক. সুতা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 752792,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 752793,
+      "value": {
+        "options": {
+          "ক": "গভীর",
+          "খ": "অগভীর",
+          "গ": "স্রোতযুক্ত",
+          "ঘ": "স্রোতহীন"
+        },
+        "question": "কোন ধরনের পানিতে পলো দিয়ে মাছ চাষ করা হয়?",
+        "solution": "খ. অগভীর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 752793,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 752794,
+      "value": {
+        "options": {
+          "ক": "৬-১২ মি.",
+          "খ": "৬-১৪ মি.",
+          "গ": "৬-১৬ মি.",
+          "ঘ": "৬-১৮ মি."
+        },
+        "question": "খরা জাল লম্বায় কতটুকু হতে পারে?",
+        "solution": "ঘ. ৬-১৮ মি.",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 752795,
+      "value": {
+        "options": {
+          "ক": "বাঁশ",
+          "খ": "কাঠ",
+          "গ": "লোহা",
+          "ঘ": "তামা"
+        },
+        "question": "কোনটি দিয়ে ঠেলা জালের ফ্রেম তৈরি করা হয়?",
+        "solution": "ক. বাঁশ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 752795,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 752796,
+      "value": {
+        "options": {
+          "ক": "সরু রশি",
+          "খ": "মোটা রশি",
+          "গ": "চিকন সুতা",
+          "ঘ": "ফিতা"
+        },
+        "question": "ঝাঁকি জালের উপরের প্রান্তে কী বাঁধা থাকে?",
+        "solution": "ক. সরু রশি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 73,
+      "book_grade_id": 6,
+      "content_chunk_id": 864,
+      "created_at": "2025-11-28T03:40:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 73,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 752796,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=864&grade=6&lesson=13539&per_page=100&question_paper_id=47313&subject=73&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=864&grade=6&lesson=13539&per_page=100&question_paper_id=47313&subject=73&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=864&grade=6&lesson=13539&per_page=100&question_paper_id=47313&subject=73&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 15,
+  "total": 15
+}

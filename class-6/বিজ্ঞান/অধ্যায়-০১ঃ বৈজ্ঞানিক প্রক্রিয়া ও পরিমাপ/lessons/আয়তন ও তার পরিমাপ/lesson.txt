@@ -1,0 +1,735 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 756752,
+      "value": {
+        "options": {
+          "ক": "আয়তন",
+          "খ": "ক্ষেত্রফল",
+          "গ": "ঘনকের একক",
+          "ঘ": "দৈর্ঘ্য"
+        },
+        "question": "ক্ষেত্রফলকে উচ্চতা দিয়ে গুণ করলে কী পাওয়া যায়?",
+        "solution": "ক. আয়তন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756752,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756753,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আয়তন বের করার সূত্র—\u003Cbr\u003E\ni. ক্ষেত্রফল × উচ্চতা\u003Cbr\u003E\nii. দৈর্ঘ্য × প্রস্থ × উচ্চতা\u003Cbr\u003E\niii. ভর × ঘনত্ব\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. ii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 756753,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 756753,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 756754,
+      "value": {
+        "options": {
+          "ক": "৩২০০ ঘনমিটার",
+          "খ": "১৬০০ ঘন সেন্টিমিটার",
+          "গ": "১০৪০ ঘন সেন্টিমিটার",
+          "ঘ": "১০৪০ বর্গ সেন্টিমিটার"
+        },
+        "question": "তোমার একটি পাঠ্যবইয়ের দৈর্ঘ্য ২৬ সেন্টিমিটার, প্রস্থ ২০ সেন্টিমিটার এবং উচ্চতা ২ সেন্টিমিটার। বইটিতে ৮০টি পৃষ্ঠা আছে।\u003Cbr\u003E\nবইটির আয়তন কত?",
+        "solution": "গ. ১০৪০ ঘন সেন্টিমিটার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 756754,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 756755,
+      "value": {
+        "options": {
+          "ক": "কুইন্টাল, মেট্রিক টন",
+          "খ": "ফারেনহাইট, সেলসিয়াস",
+          "গ": "সিসি, মিলিলিটার",
+          "ঘ": "সেকেন্ড, মিনিট"
+        },
+        "question": "কোন দুটি একক পরস্পর সমান?",
+        "solution": "গ. সিসি, মিলিলিটার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3789,
+          "full_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "short_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "slug": "bgura-kzantnment-pablik-skul-end-klej",
+          "pivot": {
+            "question_bank_id": 756755,
+            "tag_id": 3789,
+            "year": null,
+            "created_at": "2025-11-30T06:14:15.000000Z",
+            "updated_at": "2025-11-30T06:14:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 756756,
+      "value": {
+        "options": {
+          "ক": "লিটার",
+          "খ": "এয়র",
+          "গ": "স্টেয়র",
+          "ঘ": "একর"
+        },
+        "question": "তরল পদার্থের আয়তন কোন এককে মাপা হয়?",
+        "solution": "ক. লিটার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756756,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756757,
+      "value": {
+        "options": {
+          "ক": "মিটার",
+          "খ": "ঘনমিটার",
+          "গ": "বর্গমিটার",
+          "ঘ": "কিলোমিটার"
+        },
+        "question": "আন্তর্জাতিক পদ্ধতিতে আয়তনের একক নিচের কোনটি?",
+        "solution": "খ. ঘনমিটার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 756757,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756758,
+      "value": {
+        "options": {
+          "ক": "আয়তন",
+          "খ": "ওজন",
+          "গ": "ভর",
+          "ঘ": "উচ্চতা"
+        },
+        "question": "কোনো বস্তু যে জায়গা দখল করে তাকে কী বলে?",
+        "solution": "ক. আয়তন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756758,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756759,
+      "value": {
+        "options": {
+          "ক": "১ বর্গ সেন্টিমিটার",
+          "খ": "১ ঘন সেন্টিমিটার",
+          "গ": "৩ বর্গ সেন্টিমিটার",
+          "ঘ": "৩ ঘন সেন্টিমিটার"
+        },
+        "question": "একটি বস্তুর দৈর্ঘ্য, প্রস্থ, উচ্চতা তিনটিই ১ সেন্টিমিটার হলে বস্তুটির আয়তন কত?",
+        "solution": "খ. ১ ঘন সেন্টিমিটার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3789,
+          "full_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "short_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "slug": "bgura-kzantnment-pablik-skul-end-klej",
+          "pivot": {
+            "question_bank_id": 756759,
+            "tag_id": 3789,
+            "year": null,
+            "created_at": "2025-11-30T06:14:15.000000Z",
+            "updated_at": "2025-11-30T06:14:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 756760,
+      "value": {
+        "options": {
+          "ক": "১ সিসি",
+          "খ": "১০ সিসি",
+          "গ": "১০০ সিসি",
+          "ঘ": "১০০০ সিসি"
+        },
+        "question": "১ লিটার = ?",
+        "solution": "ঘ. ১০০০ সিসি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3789,
+          "full_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "short_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "slug": "bgura-kzantnment-pablik-skul-end-klej",
+          "pivot": {
+            "question_bank_id": 756760,
+            "tag_id": 3789,
+            "year": null,
+            "created_at": "2025-11-30T06:14:15.000000Z",
+            "updated_at": "2025-11-30T06:14:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 756760,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 756761,
+      "value": {
+        "options": {
+          "ক": "বৃদ্ধি পায়",
+          "খ": "কমে",
+          "গ": "অপরিবর্তিত থাকে",
+          "ঘ": "হ্রাস পায়"
+        },
+        "question": "উচ্চতা যত বাড়ে আয়তন তত কী হয়?",
+        "solution": "ক. বৃদ্ধি পায়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 756761,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756762,
+      "value": {
+        "options": {
+          "ক": "০.০২৫ সেমি",
+          "খ": "০.০২৫ বর্গসেমি",
+          "গ": "০.০২৫ ঘনসেমি",
+          "ঘ": "০.২৫ সেমি"
+        },
+        "question": "তোমার একটি পাঠ্যবইয়ের দৈর্ঘ্য ২৬ সেন্টিমিটার, প্রস্থ ২০ সেন্টিমিটার এবং উচ্চতা ২ সেন্টিমিটার। বইটিতে ৮০টি পৃষ্ঠা আছে।\u003Cbr\u003E\nবইটির পাতার পুরবত্ব কত হবে?",
+        "solution": "ক. ০.০২৫ সেমি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 756762,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 756763,
+      "value": {
+        "options": {
+          "ক": "১ বর্গমিটার",
+          "খ": "১ মিটার",
+          "গ": "১ ঘনমিটার",
+          "ঘ": "১ ডেসিমিটার"
+        },
+        "question": "দৈর্ঘ্য ১ মিটার, প্রস্থ ১ মিটার এবং উচ্চতা ১ মিটার বিশিষ্ট বস্তুর আয়তন কত হবে?",
+        "solution": "গ. ১ ঘনমিটার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 756763,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756764,
+      "value": {
+        "options": {
+          "ক": "ঘনমিটার",
+          "খ": "মিটার",
+          "গ": "ঘন সেন্টিমিটার",
+          "ঘ": "মিলিমিটার"
+        },
+        "question": "সিজিএস পদ্ধতিতে আয়তনের একক কী?",
+        "solution": "গ. ঘন সেন্টিমিটার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 756764,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756765,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মাপচোঙের সাহায্যে আয়তন নির্ণয়ের সময় খেয়াল রাখতে হবে—\u003Cbr\u003E\ni. মাপচোঙে দাগ কাটা আছে কিনা\u003Cbr\u003E\nii. পাথর খন্ডটি ডুবানো হয়েছে কিনা\u003Cbr\u003E\niii. মাপচোঙটি সমতল জায়গায় রাখা হয়েছে কিনা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 78,
+      "book_grade_id": 6,
+      "content_chunk_id": 7677,
+      "created_at": "2025-11-30T06:14:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 78,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 756765,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 756765,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7677&grade=6&lesson=13671&per_page=200&question_paper_id=47324&subject=78&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7677&grade=6&lesson=13671&per_page=200&question_paper_id=47324&subject=78&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7677&grade=6&lesson=13671&per_page=200&question_paper_id=47324&subject=78&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 14,
+  "total": 14
+}

@@ -1,0 +1,733 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 755743,
+      "value": {
+        "options": {
+          "ক": "উপাত্ত",
+          "খ": "জ্ঞান",
+          "গ": "তথ্য",
+          "ঘ": "চিঠি"
+        },
+        "question": "ঘটনা বা প্রেক্ষাপট ছাড়া কোনটি অর্থহীন?",
+        "solution": "ক. উপাত্ত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4291,
+          "full_name": "গভ. ল্যাবরেটরি হাই স্কুল, খুলনা",
+          "short_name": "গভ. ল্যাবরেটরি হাই স্কুল, খুলনা",
+          "slug": "gv-lzabretri-hai-skul-khulna",
+          "pivot": {
+            "question_bank_id": 755743,
+            "tag_id": 4291,
+            "year": null,
+            "created_at": "2025-11-30T03:14:10.000000Z",
+            "updated_at": "2025-11-30T03:14:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 755744,
+      "value": {
+        "options": {
+          "ক": "উপাত্ত",
+          "খ": "প্রেক্ষাপট",
+          "গ": "ঘটনা",
+          "ঘ": "জ্ঞান"
+        },
+        "question": "তথ্যকে বিশ্লেষণ করলে কী পাওয়া যায়?",
+        "solution": "ক. উপাত্ত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 755744,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 755745,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "উপাত্তের সাথে ঘটনা সংযুক্ত করলে তথ্য সৃষ্টি হয় যা—\u003Cbr\u003E\ni. অর্থহীন ii. অর্থপূর্ণ iii. ব্যবহার উপযোগী\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 755745,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 755745,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 755746,
+      "value": {
+        "options": {
+          "ক": "তথ্য",
+          "খ": "উপাত্ত",
+          "গ": "ফিল্ড",
+          "ঘ": "রেকর্ড"
+        },
+        "question": "উপাত্তের সুশৃঙ্খল ও কার্যকর উপস্থাপনাকে কী বলে?",
+        "solution": "ক. তথ্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 755746,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 755747,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সম্প্রতি মালিহা তাদের বিদ্যালয়ের পাঠাগারের সদস্য হয়েছে। এজন্য তাকে একটি ফরম পূরণ করতে হয়েছে। ফরমে নির্ধারিত স্থানে সে তার নাম, ঠিকানা, জন্ম তারিখ, পিতামাতার নাম, শ্রেণি, রোল ইত্যাদি লিখে স্বাক্ষর প্রদান করেছে।\u003Cbr\u003E\nমালিহা যদি উক্ত শব্দ ও সংখ্যা কোনো সাদা কাগজে লিখে তাহলে তা—\u003Cbr\u003E\ni. উপাত্ত হিসেবে গণ্য হবে\u003Cbr\u003E\nii. তথ্য হিসেবে গণ্য হবে\u003Cbr\u003E\niii. ব্যবহার অনুপযোগী হবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 755747,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 755747,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 755747,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 755748,
+      "value": {
+        "options": {
+          "ক": "ডাটা",
+          "খ": "তথ্য",
+          "গ": "ঘটনা",
+          "ঘ": "জ্ঞান"
+        },
+        "question": "উপাত্ত ও প্রেক্ষাপট মিলে কী তৈরি হয়?",
+        "solution": "খ. তথ্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 755748,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 755749,
+      "value": {
+        "options": {
+          "ক": "জ্ঞান",
+          "খ": "উপাত্ত",
+          "গ": "প্রেক্ষাপট",
+          "ঘ": "পরিস্থিতি"
+        },
+        "question": "যেকোনো অক্ষর, শব্দ, সংখ্যা বা প্রতীককে লিখিত আকারে প্রকাশ করাকে কী বলে?",
+        "solution": "খ. উপাত্ত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 755749,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 755750,
+      "value": {
+        "options": {
+          "ক": "ফিল্ড",
+          "খ": "উপাত্ত",
+          "গ": "রেকর্ড",
+          "ঘ": "সেল"
+        },
+        "question": "তথ্যের মৌলিক একক কোনটি?",
+        "solution": "খ. উপাত্ত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 755751,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তথ্যের বৈশিষ্ট্য হলো—\u003Cbr\u003E\ni. এতে উপাত্ত থাকবে\u003Cbr\u003E\nii. এর সাথে ঘটনা সংশ্লিষ্ট থাকবে\u003Cbr\u003E\niii. এর একটি সুনির্দিষ্ট পরিকল্পনা থাকবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 755751,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 755751,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 755752,
+      "value": {
+        "options": {
+          "ক": "তথ্য",
+          "খ": "উপাত্ত",
+          "গ": "প্রেক্ষাপট",
+          "ঘ": "ঘটনা"
+        },
+        "question": "সম্প্রতি মালিহা তাদের বিদ্যালয়ের পাঠাগারের সদস্য হয়েছে। এজন্য তাকে একটি ফরম পূরণ করতে হয়েছে। ফরমে নির্ধারিত স্থানে সে তার নাম, ঠিকানা, জন্ম তারিখ, পিতামাতার নাম, শ্রেণি, রোল ইত্যাদি লিখে স্বাক্ষর প্রদান করেছে।\u003Cbr\u003E\nসদস্য ফরম পূরণের ক্ষেত্রে মালিহা যেসব শব্দ ও সংখ্যা লিখেছে সেগুলো কী?",
+        "solution": "ক. তথ্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 755752,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 755752,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 755753,
+      "value": {
+        "options": {
+          "ক": "উপাত্ত ও ঘটনা",
+          "খ": "রিপোর্ট ও ঘটনা",
+          "গ": "রেকর্ড ও উপাত্ত",
+          "ঘ": "রেকর্ড ও রিপোর্ট"
+        },
+        "question": "তথ্য কী?",
+        "solution": "ক. উপাত্ত ও ঘটনা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4291,
+          "full_name": "গভ. ল্যাবরেটরি হাই স্কুল, খুলনা",
+          "short_name": "গভ. ল্যাবরেটরি হাই স্কুল, খুলনা",
+          "slug": "gv-lzabretri-hai-skul-khulna",
+          "pivot": {
+            "question_bank_id": 755753,
+            "tag_id": 4291,
+            "year": null,
+            "created_at": "2025-11-30T03:14:10.000000Z",
+            "updated_at": "2025-11-30T03:14:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 755754,
+      "value": {
+        "options": {
+          "ক": "তথ্য",
+          "খ": "উপাত্ত",
+          "গ": "প্রেক্ষাপট",
+          "ঘ": "ঘটনা"
+        },
+        "question": "কেবল ৫, ১৭, ২৯, ৪৫, ১০০ দ্বারা সাধারণভাবে কী বোঝায়?",
+        "solution": "খ. উপাত্ত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 755754,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 755755,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "উপাত্তের সাথে যার সম্পর্ক থাকলে তা অর্থপূর্ণ হয়ে ওঠে—\u003Cbr\u003E\ni. ঘটনা ii. প্রেক্ষাপট iii. পরিস্থিতি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 755755,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 755755,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 755756,
+      "value": {
+        "options": [],
+        "question": "\"আমাদের প্রিয় দেশটাকেই আমরা ডিজিটাল করে ফেলব”-&nbsp;এর অর্থ কী?",
+        "solution": "আমাদের প্রিয় দেশটাকেই আমরা ডিজিটাল করে ফেলব- যার অর্থ একেবারে আধুনিক প্রযুক্তি ব্যবহার করে বাংলাদেশের সব মানুষের জীবন সহজ করে দেবো, সবার দুঃখ দুর্দশা দূর করে জীবনকে আনন্দময় করে দেবো।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7623,
+      "created_at": "2025-11-30T03:14:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7623&grade=6&lesson=13646&per_page=200&question_paper_id=47318&subject=76&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7623&grade=6&lesson=13646&per_page=200&question_paper_id=47318&subject=76&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7623&grade=6&lesson=13646&per_page=200&question_paper_id=47318&subject=76&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 14,
+  "total": 14
+}

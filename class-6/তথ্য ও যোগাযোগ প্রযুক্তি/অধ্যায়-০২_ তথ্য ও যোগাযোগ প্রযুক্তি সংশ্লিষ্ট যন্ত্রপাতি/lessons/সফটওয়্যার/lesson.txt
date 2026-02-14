@@ -1,0 +1,913 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 756135,
+      "value": {
+        "options": {
+          "ক": "ম্যাক",
+          "খ": "লিনাক্স",
+          "গ": "উবুন্তু",
+          "ঘ": "ইউনিক্স"
+        },
+        "question": "পৃথিবীজুড়ে কোন অপারেটিং সিস্টেমটি অত্যন্ত জনপ্রিয়?",
+        "solution": "খ. লিনাক্স",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756135,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756143,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও ii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সফটওয়্যারের সাহায্যে কম্পিউটারের যন্ত্রপাতিগুলো- i. সচল হয়ে ওঠে ii. অর্থপূর্ণ হয়ে ওঠে iii. কাজের উপযোগী হয়ে ওঠে নিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 756143,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 756143,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 756142,
+      "value": {
+        "options": {
+          "ক": "সুপার",
+          "খ": "মেইনফ্রেম",
+          "গ": "মিনিফ্রেম",
+          "ঘ": "পার্সোনাল"
+        },
+        "question": "উইন্ডোজ কোন কম্পিউটারের অপারেটিং সিস্টেম?",
+        "solution": "ঘ. পার্সোনাল",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756142,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756141,
+      "value": {
+        "options": {
+          "ক": "হার্ডওয়্যার",
+          "খ": "সফটওয়্যার",
+          "গ": "অপারেটিং সিস্টেম",
+          "ঘ": "অ্যাপ্লিকেশন সফটওয়্যার"
+        },
+        "question": "ইনপুট ও আউটপুট ডিভাইস, মেমোরি, প্রসেসর- এগুলো কী?",
+        "solution": "ক. হার্ডওয়্যার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756141,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756140,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বিনামূল্যে যেসব অপারেটিং সিস্টেম পাওয়া যায় সেগুলো-\u003Cbr\u003E\ni. কার্যকর\u003Cbr\u003E\nii. অত্যন্ত চমৎকার\u003Cbr\u003E\niii. জনপ্রিয়তা অর্জনে ব্যর্থ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 756140,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 756140,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 756139,
+      "value": {
+        "options": {
+          "ক": "ম্যাক",
+          "খ": "ইউনিক্স",
+          "গ": "লিনাক্স",
+          "ঘ": "উইন্ডোজ"
+        },
+        "question": "আরমান বিনামূল্যে তার কম্পিউটারে কোন অপারেটিং সিস্টেমটি ব্যবহার করতে পারবে?",
+        "solution": "গ. লিনাক্স",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 756139,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756138,
+      "value": {
+        "options": {
+          "ক": "স্মার্টফোনের",
+          "খ": "মোবাইল ফোনের",
+          "গ": "পার্সোনাল কম্পিউটারের",
+          "ঘ": "সুপার কম্পিউটারের"
+        },
+        "question": "নিজস্ব অপারেটিং সিস্টেম থাকে কোনটির?",
+        "solution": "ঘ. সুপার কম্পিউটারের",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756138,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756137,
+      "value": {
+        "options": {
+          "ক": "এই সফটওয়্যার বিশেষভাবে তৈরি",
+          "খ": "এই সফটওয়্যার বিশেষ কাজের জন্য তৈরি হয় না",
+          "গ": "এই সফটওয়্যার অসংখ্য অ্যাপ্লিকেশন করতে পারে",
+          "ঘ": "এই সফটওয়্যার অসংখ্য অ্যাপ্লিকেশনের সমন্বয়ে তৈরি"
+        },
+        "question": "অ্যাপ্লিকেশন সফটওয়্যার নামকরণের কারণ কী?",
+        "solution": "গ. এই সফটওয়্যার অসংখ্য অ্যাপ্লিকেশন করতে পারে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 756137,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756136,
+      "value": {
+        "options": {
+          "ক": "ফাইল সিস্টেম নিয়ন্ত্রণ",
+          "খ": "ইনপুট-আউটপুট অপারেশন",
+          "গ": "প্রোগ্রাম পরিচালনার পরিবেশ সৃষ্টি",
+          "ঘ": "বিভিন্ন ডিভাইসের ত্রুটি নির্ণয়"
+        },
+        "question": "অপারেটিং সিস্টেম যেসব কাজ করে তার মধ্যে সবচেয়ে গুরুত্বপূর্ণ কাজ কোনটি?",
+        "solution": "গ. প্রোগ্রাম পরিচালনার পরিবেশ সৃষ্টি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 756134,
+      "value": {
+        "options": {
+          "ক": "অপারেটিং সিস্টেম",
+          "খ": "অপারেটিং সাইন",
+          "গ": "ওপেন সোর্স",
+          "ঘ": "ওপেন সেল"
+        },
+        "question": "ওএস কী?",
+        "solution": "ক. অপারেটিং সিস্টেম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756134,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756133,
+      "value": {
+        "options": {
+          "ক": "ইউটিলিটি",
+          "খ": "ফার্মওয়্যার",
+          "গ": "অ্যাপ্লিকেশন",
+          "ঘ": "অপারেটিং সিস্টেম"
+        },
+        "question": "কম্পিউটারে তথ্য জমা রাখা কোন সফটওয়্যারের কাজ?",
+        "solution": "ঘ. অপারেটিং সিস্টেম",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756133,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756132,
+      "value": {
+        "options": {
+          "ক": "OS",
+          "খ": "CS",
+          "গ": "MP3",
+          "ঘ": "SS"
+        },
+        "question": "কোনটি ছাড়া কম্পিউটার চালানো অসম্ভব?",
+        "solution": "ক. OS",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756132,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756131,
+      "value": {
+        "options": {
+          "ক": "ইনপুট ডিভাইস",
+          "খ": "আউটপুট ডিভাইস",
+          "গ": "সফটওয়্যার",
+          "ঘ": "মেমোরি"
+        },
+        "question": "হার্ডওয়্যার কার সাহায্যে সচল ও অর্থপূর্ণ হয়ে ওঠে?",
+        "solution": "গ. সফটওয়্যার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756131,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756126,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "কম্পিউটারের সফটওয়্যারকে কয় ভাগে ভাগ করা যায়?",
+        "solution": "ক. ২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4051,
+          "full_name": "নওগাঁ জিলা স্কুল",
+          "short_name": "নওগাঁ জিলা স্কুল",
+          "slug": "noogann-jila-skul",
+          "pivot": {
+            "question_bank_id": 756126,
+            "tag_id": 4051,
+            "year": null,
+            "created_at": "2025-11-30T03:19:40.000000Z",
+            "updated_at": "2025-11-30T03:19:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 756130,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কম্পিউটারকে অন করার সাথে সাথে অপারেটিং সিস্টেম-\u003Cbr\u003E\ni. কম্পিউটারের সব যন্ত্রপাতি পরীক্ষা করে\u003Cbr\u003E\nii. কম্পিউটারের ইনপুট আউটপুটকে অচল করে\u003Cbr\u003E\niii. বিভিন্ন যন্ত্রাংশের মধ্যে সংযোগ রক্ষা করে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 756130,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 756130,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 756129,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও ii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কম্পিউটারের হার্ডওয়্যার হচ্ছে-\u003Cbr\u003E\ni. অপারেটিং সিস্টেম\u003Cbr\u003E\nii. ইনপুট ডিভাইস\u003Cbr\u003E\niii. আউটপুট ডিভাইস\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 756129,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 756129,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 756128,
+      "value": {
+        "options": {
+          "ক": "ম্যাক",
+          "খ": "লিনাক্স",
+          "গ": "ইউনিক্স",
+          "ঘ": "উইন্ডোজ"
+        },
+        "question": "কোনটি মুক্ত অপারেটিং সিস্টেম?",
+        "solution": "খ. লিনাক্স",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 756128,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 756127,
+      "value": {
+        "options": {
+          "ক": "কম্পিউটারে ব্যবহার করা যায়",
+          "খ": "কম্পিউটারে ব্যবহার করা যায় না",
+          "গ": "কম্পিউটারে সংযুক্ত করা যায় না",
+          "ঘ": "ব্যবসায়িক উদ্দেশ্যে ব্যবহার করা যায় না"
+        },
+        "question": "অ্যাপ্লিকেশন সফটওয়্যারকে সোজাসুজি-",
+        "solution": "খ. কম্পিউটারে ব্যবহার করা যায় না",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 76,
+      "book_grade_id": 6,
+      "content_chunk_id": 7624,
+      "created_at": "2025-11-30T03:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 76,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 756127,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7624&grade=6&lesson=13658&per_page=200&question_paper_id=47318&subject=76&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7624&grade=6&lesson=13658&per_page=200&question_paper_id=47318&subject=76&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7624&grade=6&lesson=13658&per_page=200&question_paper_id=47318&subject=76&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 18,
+  "total": 18
+}
