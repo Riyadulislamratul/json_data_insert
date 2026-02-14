@@ -1,0 +1,97 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 364350,
+      "value": {
+        "options": {
+          "ক": "ডলার",
+          "খ": "পেসো",
+          "গ": "ইউরো",
+          "ঘ": "পাউন্ড"
+        },
+        "question": "ইউরোপীয় ইউনিয়নের মুদ্রার নাম কী?",
+        "solution": "ইউরো",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 230,
+      "book_grade_id": 1,
+      "content_chunk_id": 4188,
+      "created_at": "2025-08-19T04:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 364350,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 230,
+        "title": "সাধারণ জ্ঞান (আন্তর্জাতিক)",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3207,
+          "full_name": "BSC Nursing",
+          "short_name": "BSC Nursing",
+          "slug": "bsc-nursing",
+          "pivot": {
+            "question_bank_id": 364350,
+            "tag_id": 3207,
+            "year": "20-21",
+            "created_at": "2025-08-19T04:10:53.000000Z",
+            "updated_at": "2025-08-19T04:10:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4188&grade=1&lesson=7088&per_page=200&question_paper_id=47971&subject=230&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4188&grade=1&lesson=7088&per_page=200&question_paper_id=47971&subject=230&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4188&grade=1&lesson=7088&per_page=200&question_paper_id=47971&subject=230&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 1,
+  "total": 1
+}
