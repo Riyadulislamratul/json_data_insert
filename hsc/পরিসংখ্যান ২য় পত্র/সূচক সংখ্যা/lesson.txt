@@ -1,0 +1,2611 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 393128,
+      "value": {
+        "options": [],
+        "question": "মূল্যসূচক সংখ্যা কী?",
+        "solution": "যে সূচক সংখ্যা বিভিন্ন দ্রব্যের মূল্যের পরিবর্তনের পরিমাপ করে তাকে মূল্যসূচক সংখ্যা বলে।",
+        "explanation": "মূল্যসূচক সংখ্যা হলো নির্দিষ্ট একটি বেস(মৌলিক) সময়ের তুলনায় পণ্যের গড় মূল্য কতোটা বেড়েছে বা কমেছে তা নির্দেশকারী সংখ্যা। এটি সাধারণত পণ্যের ওজন দেওয়া গড় মূল্য relatives নিয়ে গণনা করা হয়, তাই বিভিন্ন সময়ের দাম পরিবর্তন সহজে তুলনা করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393128,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393128,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393128,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393128,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393128,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393128,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393128,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 393128,
+            "tag_id": 46,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 393128,
+            "tag_id": 3179,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 393128,
+            "tag_id": 6,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 393128,
+            "tag_id": 7,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393127,
+      "value": {
+        "options": [],
+        "question": "ভিত্তি বছর কী?",
+        "solution": "যে বছরের সাথে তুলনা করে সূচক সংখ্যা নির্ণয় করা হয় সেই বছরকে ভিত্তি বছর বলে।",
+        "explanation": "বিতি বছর হলো সেই নির্দিষ্ট বছর যাকে তুলনা ও বিশ্লেষণের রেফারেন্স হিসেবে নেয়া হয়; অর্থাৎ সূচক বা পরিসংখ্যান তৈরিতে ওই বছরের মানকে ভিত্তি হিসেবে ধরে পরবর্তী বছরের পরিবর্তন পরিমাপ করা হয়। এটি দরকার যাতে মূল্য, উৎপাদন বা আয়ের পরিবর্তন সহজে এবং সঙ্গতভাবে তুলনা করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393127,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393127,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393127,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393127,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393127,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393127,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393127,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 393127,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 393127,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 393127,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 393127,
+            "tag_id": 47,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393126,
+      "value": {
+        "options": [],
+        "question": "সূচক সংখ্যা কী?",
+        "solution": "যে পরিসংখ্যানিক পদ্ধতির সাহায্যে আমরা সময়, স্থান বা অন্য কোন বৈশিষ্ট্যের সাপেক্ষে একটি বা একসারি চলকের মানের পরিবর্তনকে পরিমাপ করতে পারি তাকে সূচক সংখ্যা বলে।",
+        "explanation": "ব্যাখ্যা: সূচক সংখ্যা (exponent) হলো কোনো বেস সংখ্যাকে নিজের সঙ্গে কতবার গুণ করা হয়েছে তা নির্দেশকারী সংখ্যা; উদাহরণস্বরূপ [math]a^n[/math]-এ [math]n[/math] হচ্ছে সূচক, এবং এটিকেই ঘাত বা শক্তি বলা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393126,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393126,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393126,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393126,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393126,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393126,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393126,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393126,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393126,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 393126,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393125,
+      "value": {
+        "options": {
+          "ক": "সূচক সংখ্যা কি?",
+          "খ": "মূল্য সূচক সংখ্যা 126 বলতে কি বুঝায়? ব্যাখ্যা কর।",
+          "গ": "প্যাসের মূল্য সূচক সংখ্যা নির্ণয় কর।",
+          "ঘ": "জীবনযাত্রার ব্যয়সূচক সংখ্যা নির্ণয়পূর্বক শ্রমিকদের দাবীর সত্যতা যাচাই কর।"
+        },
+        "question": "2015 সালের সরকারি পে-স্কেল ঘোষণার পর রহিমা গার্মেন্টস কর্মচারীদের বেতন মালিকা 20% বৃদ্ধি করল। শ্রমিকরা দাবী করে নিত্য প্রয়োজনীয় দ্রব্যের দাম বেতনের তুলনায় বেশি বৃদ্ধি পেয়েছে এবং প্রমাণস্বরূপ নিম্নের তথ্য সরবরাহ করে:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-6_1755580228_Cwi91Brw.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে পরিসংখ্যানিক পদ্ধতির সাহায্যে আমরা সময়, স্থান বা অন্য কোনো বৈশিষ্ট্যের সাপেক্ষে একটি বা একসারি চলকের মানের পরিবর্তনকে পরিমাপ করতে পারি তাকে সূচক সংখ্যা বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eমূল্য সূচক সংখ্যা 126 বলতে বোঝায়, ভিত্তি বছরের সাপেক্ষে চলতি বছরের মূল্য সূচক 126 অর্থাৎ ভিত্তি বছরের তুলনায় চলতি বছরে দ্রব্যের মূল্য (126-100) = 26% বৃদ্ধি পেয়েছে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eসূচক সংখ্যা নির্ণয়ের সারণি:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-13_1755580229_4r4SC892.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E∴ প্যাসের মূল্য সূচক সংখ্যা: [math]\\mathrm{P}_{\\text {on }}^{\\mathrm{pa}}=\\frac{\\sum \\mathrm{p}_{\\mathrm{n}} \\mathrm{q}_{\\mathrm{n}}}{\\sum \\mathrm{p}_{\\mathrm{o}} \\mathrm{q}_{\\mathrm{n}}} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{2680}{2430} \\times 100[/math]\u003Cbr\u003E [math]=110.288[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপারিবারিক বাজেট পদ্ধতিতে জীবনযাত্রার ব্যয়সূচক সংখ্যা, [math]\\mathrm{C}_{\\mathrm{cn}}=\\frac{\\sum \\frac{\\mathrm{p}_{\\mathrm{n}}}{\\mathrm{p}_{\\mathrm{o}}} \\times \\mathrm{w}}{\\sum \\mathrm{w}} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{2155}{1950} \\times 100[/math]\u003Cbr\u003E100 ['গ' নং হতে প্রাপ্ত]∴ জীবনযাত্রার ব্যয় (110.51 - 100)% = 10.51% বৃদ্ধি পেয়েছে। সুতরাং শ্রমিকদের দাবীটি অযৌক্তিক।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সূচক সংখ্যা হলো কোনো চলক—সাধারণত মূল্য বা পরিমাণ—এক নির্দিষ্ট ভিত্তিবর্ষের তুলনায় কতটুকু পরিবর্তিত হয়েছে তা প্রকাশ করার সরল অনুপাত; সাধারণ সমীকরণটি হলো [math]I=\\frac{\\sum p_1 q}{\\sum p_0 q}\\times100[/math], যেখানে ওজন q কে যেভাবে ধরে নেওয়া হয় সেটি অনুযায়ী বিভিন্ন সূচক (যেমন লাস্পেয়ারেস বা প্যাসে) মেলে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মূল্য সূচক সংখ্যা 126 মানে হলো বর্তমান মূল্যস্তর ভিত্তিবর্ষের তুলনায় [math]26\\%[/math] বেশি; অন্যভাবে বলা যায় যে যে জিনিসের দাম আগে [math]100[/math] ছিল এখন তা [math]126[/math] টাকায় কিনতে হবে। ফলে যদি বেতন [math]20\\%[/math] বৃদ্ধি পায়, তবে বাস্তব ক্রয়ক্ষমতা পরিবর্তন হবে [math]\\frac{1.20}{1.26}-1\\approx -0.0476\u003C/math], অর্থাৎ প্রায় [math]4.76\\%[/math] হ্রাস পাবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্যাস (Paasche) মূল্য সূচক নির্ণয়ের সূত্র হল [math]P_P=\\frac{\\sum p_1 q_1}{\\sum p_0 q_1}\\times100[/math] — এখানে প্রতিটি ওষধ/পণ্যের বর্তমান মূল্য [math]p_1[/math] ও বর্তমান পরিমাণ [math]q_1[/math] ব্যবহার করে সংখ্যা নির্ণয় করা হয়; টেবিলের মানগুলি এই সূত্রে বসিয়ে গুন যোগ করে ও ভাগ করে ফল বের করবেন।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E জীবনযাত্রার ব্যয়সূচক সাধারণত লাস্পেয়ারেস সূচক ব্যবহার করে নেওয়া যায়: [math]P_L=\\frac{\\sum p_1 q_0}{\\sum p_0 q_0}\\times100[/math]। যদি এই জীবনযাত্রা সূচক 120-এর চেয়ে বেশি হয় তাহলে শ্রমিকদের দাবি সঠিক (কারণ জীবিকার খরচ বেতনের বৃদ্ধির চেয়েও বেশি বাড়েছে); এখানে প্রদত্ত মোট মূল্য সূচক 126 হওয়ায় (যদি সেটা সংগত জীবনযাত্রা সূচকও হয়) শ্রমিকদের দাবি বৈধ—কারণ খরচ [math]26\\%[/math] বেড়েছে যা বেতনের [math]20\\%[/math] বৃদ্ধির চেয়ে বেশি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393125,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393125,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393125,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393125,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393125,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393125,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393125,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 393125,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:29.000000Z",
+            "updated_at": "2025-08-19T05:10:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393124,
+      "value": {
+        "options": {
+          "ক": "আদর্শ সূচক সংখ্যা কোনটি?",
+          "খ": "সূচক সংখ্যা এককমুক্ত কি না? ব্যাখ্যা কর।",
+          "গ": "সরল সমষ্টি পদ্ধতিতে 2013 সালের সাপেক্ষে 2015 সালের মূল্য সূচক সংখ্যা নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের তথ্যের আলোকে ল্যাসপিয়ার্সের মূল্য সূচক সংখ্যা সময় উল্টানো পরীক্ষা মেনে চলে কিনা বিশ্লেষণপূর্বক মতামত দাও।"
+        },
+        "question": "মি. রহিম কতকগুলো দ্রব্যের 2013 ও 2015 সালের দাম ও পরিমাণের তথ্য সংগ্রহ করল যা নিম্নরূপ:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-5_1755580226_uHYhvgnl.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eআরভিং ফিশারের সূচক সংখ্যাটিই হচ্ছে আদর্শ সূচক সংখ্যা।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eসূচক সংখ্যা একটি একক বিহীন বিশুদ্ধ সংখ্যা। যে সংখ্যার সাহায্যে সময়, স্থান বা অন্য কোন বৈশিষ্ট্যের সাপেক্ষে কতকগুলো দ্রব্যের মূল্য, উৎপাদন বা মানের আপেক্ষিক পরিবর্তন পরিমাপ করা হয়, তাকে সূচক সংখ্যা বলে। যেহেতু সূচক সংখ্যা ভিন্ন ভিন্ন একক বিশিষ্ট চলকের মানের তুলনা করতে পারে এবং এটি একটি অনুপাত বা আনুপাতিক গড়ের শতকরা- হার নির্ণয়কারী একটি সংখ্যা। যার ফলে লবে ও হরে একই একক থাকে বলে সূচক সংখ্যা একটি এককবিহীন সংখ্যা।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eসূচক সংখ্যা নির্ণয়ের সারণি:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-12_1755580227_CXMW2qgS.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, ভিত্তি বছর = 2013, চলতি বছর = 2015 সরল সমষ্টি পদ্ধতিতে মূল্য সূচক সংখ্যা,[math]\\mathrm{P}_{\\mathrm{on}}=\\frac{\\Sigma \\mathrm{p}_{\\mathrm{n}}}{\\Sigma \\mathrm{p}_{\\mathrm{o}}} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{240}{235} \\times 100[/math]\u003Cbr\u003E [math]=102.13 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eভিত্তি বছর 2013 এবং চলতি বছর 2015 ধরে ল্যাসপিয়ার্সের মূল্য সূচক সংখ্যা,[math]\\mathrm{P}_{\\mathrm{on}}=\\frac{\\sum \\mathrm{p}_{\\mathrm{n}} \\mathrm{q}_{0}}{\\sum \\mathrm{p}_{\\mathrm{o}} \\mathrm{q}_{\\mathrm{o}}} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{2210}{2045} \\times 100[/math]\u003Cbr\u003E'গ' নং থেকে প্রাপ্ত]= 108.068আবার, ভিত্তি বছর 2015 এবং চলতি বছর 2013 ধরে ল্যাসপিয়ার্সের মূল্য সূচক সংখ্যা, [math]P_{n o}=\\frac{\\sum p_{0} q_{n}}{\\sum p_{n} q_{n}} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{45 \\times 40+105 \\times 8+85 \\times 5}{50 \\times 40+110 \\times 8+80 \\times 5} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{3065}{3280} \\times 100=93.445[/math]\u003Cbr\u003E∴ ল্যাসপিয়ার্সের মূল্য সূচক সংখ্যার ক্ষেত্রে,[math]\\mathrm{P}_{\\mathrm{on}} \\times \\mathrm{P}_{\\mathrm{no}}=1.081 \\times 0.9345=1.01 \\neq 1[/math]\u003Cbr\u003Eসুতরাং, ল্যাসপিয়ার্সের সূত্র সময় উল্টানো পরীক্ষা মেনে চলে না।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E উত্তর: আদর্শ সূচক সংখ্যা হলো ফিশারের আদর্শ সূচক (Fisher Ideal Index), কারণ এটি ল্যাসপিয়ার্স ও পাস্‌শের সূচকের জিওমেট্রিক গড় এবং অনেক মানদণ্ড (যেমন সময় উল্টানো ও গুণকর উল্টো পরীক্ষা) সন্তোষ্‍ट করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সূচক সংখ্যা এককমুক্ত কি না? হ্যাঁ — সূচক সংখ্যা ইউনিট-মুক্ত, কারণ এটি সাধারণত অনুপাতের রূপে প্রকাশিত হয়; উদাহরণস্বরূপ সরল সমষ্টি সূচক [math]I=\\dfrac{\\sum p_1}{\\sum p_0}\\times100[/math]‑এ এককগুলো উপরে ও নিচে কেটে যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সরল সমষ্টি পদ্ধতিতে 2013 সালের সাপেক্ষে 2015 সালের মূল্য সূচক সংখ্যা নির্ণয়: সূত্র হলো [math]I_{2015/2013}=\\dfrac{\\sum p_{2015}}{\\sum p_{2013}}\\times100[/math]। এখন টেবিল থেকে সব পণ্যগুলোর 2015 ও 2013 এর দাম যোগ করে ওই অনুপাতে বসালে আপনি নির্ণয় পাবেন (টেবিলের সংখ্যাগুলো প্রতিস্থাপন করেই গণনা করুন)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ল্যাসপিয়ার্সের ক্ষেত্র: ল্যাসপিয়ার্স সাধারণত সময় উল্টানো পরীক্ষা মেনে চলে না। কারণ ল্যাসপিয়ার্সের সূত্র [math]L_{0\\to1}=\\dfrac{\\sum p_1 q_0}{\\sum p_0 q_0}[/math] ও উল্টো পথে [math]L_{1\\to0}=\\dfrac{\\sum p_0 q_1}{\\sum p_1 q_1}[/math] হলে সাধারণভাবে তাদের গুণ [math]L_{0\\to1}\\times L_{1\\to0}\\neq1[/math] হয়, সেক্ষেত্রে সময় উল্টানো শর্ত ভঙ্গ হয় (কোনো বিশেষ অনুপাতে গেলে ছাড়া)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393124,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 393124,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:27.000000Z",
+            "updated_at": "2025-08-19T05:10:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393123,
+      "value": {
+        "options": {
+          "ক": "মূল্যসূচক সংখ্যা কী?",
+          "খ": "সূচক সংখ্যাকে অর্থনীতির ব্যারোমিটার বলে- ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের আলোকে সরল সমষ্টি পদ্ধতিতে মূল্য সূচক সংখ্যা নির্ণয় কর।",
+          "ঘ": "রহমান সাহেবের মন্তব্যের যৌক্তিকতা ব্যাখ্যা কর।"
+        },
+        "question": "নিচে রহমান সাহেবের পরিবারের জীবনযাত্রার ব্যয়ের তথ্য দেওয়া হলো:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-4_1755580224_E3iJ3DRk.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nরহমান সাহেবের মন্তব্য হলো যে 2015 সালের তুলনায় 2016 সালে তার খরচ প্রায় দেড় গুণ হয়েছে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে সূচক সংখ্যা বিভিন্ন দ্রব্যের মূল্যের পরিবর্তনের পরিমাপ করে তাকে মূল্যসূচক সংখ্যা বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপদার্থবিদ্যায় বায়ুর চাপ পরিমাপ করার জন্য যে যন্ত্র ব্যবহৃত হয়, * তাকে ব্যারোমিটার বলে। একইভাবে, কোনো দেশের অর্থনৈতিক অবস্থা অর্থাৎ, ব্যবসা-বাণিজ্য, শিল্প কারখানায় উৎপাদন, আমদানি-রপ্তানির গতি, অর্থনীতির উত্থান-পতন ইত্যাদি সূচক সংখ্যার সাহায্যে পরিমাপ করা হয়, তাই সূচক সংখ্যাকে অর্থনীতির ব্যারোমিটার বলা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, [math]\\mathrm{p}_{0}[/math]\u003Cbr\u003E = ভিত্তি বছরের মূল্য (2015)[math]\\mathrm{p}_{\\mathrm{n}}[/math]\u003Cbr\u003E= চলতি বছরের মূল্য (2016)এখানে, [math]\\sum \\mathrm{p}_{\\mathrm{o}}=130+60+35+50+20=295[/math]\u003Cbr\u003Eএবং [math]\\sum p_{n}=180+70+50+70+30=400[/math]\u003Cbr\u003E∴ সরল সমষ্টি পদ্ধতিতে মূল্য সূচক সংখ্যা,[math]\\mathrm{P}_{\\mathrm{on}}=\\frac{\\sum \\mathrm{p}_{\\mathrm{n}}}{\\sum \\mathrm{p}_{\\mathrm{o}}} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{400}{295} \\times 100[/math]\u003Cbr\u003E [math]=135.59[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eজীবনযাত্রার ব্যয় সূচক সংখ্যা নির্ণয়ের তালিকা:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-11_1755580225_yDAUCsIw.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E∴ পারিবারিক বাজেট পদ্ধতিতে, ব্যয়সূচক সংখ্যা,[math]C_{\\text {on }}=\\frac{\\sum \\frac{p_{n}}{p_{0}}}{\\sum w} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{161.81}{120} \\times 100=134.84[/math]\u003Cbr\u003E∴ 2015 সালের তুলনায় 2016 সালে তার খরচ বৃদ্ধি পায় [math]\\frac{134.84}{100}[/math]\u003Cbr\u003E [math]=1.3484[/math]\u003Cbr\u003E গুণ।সুতরাং বলা যায় যে, রহমান সাহেবের মন্তব্যটি সঠিক।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মূল্যসূচক সংখ্যা হলো নির্দিষ্ট পণ্যের একটি নিবার্চিত বস্তুকুচির গড় মূল্য পর্যায়ে সময় অনুযায়ী পরিবর্তনকে প্রদর্শন করে এমন একটি সংখ্যা, যা বেস বছরকে শতকরা হিসেবে ধরে পরিবর্তনটি দেখায়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E এটিকে অর্থনীতির ব্যারোমিটার বলা হয় কারণ মূল্যসূচক মূল্যস্তরের ওঠা-নামা দিয়ে মুদ্রাস্ফীতি বা কম দামের প্রবণতা নির্দেশ করে, যা ভোক্তা আয়, ক্রয়ক্ষমতা ও নীতি নির্ধারণে গুরুত্বপূর্ণ সংকেত দেয়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সরল সমষ্টি পদ্ধতিতে মূল্য সূচক গণনা করার সূত্র হলো [math]I = \\frac{Σ p_1 q_1}{Σ p_0 q_0} \\times 100[/math] (এখানে [math]p_0,q_0[/math] বেস বছরের দাম ও পরিমাণ, [math]p_1,q_1[/math] বর্তমান বছরের)। টেবিলের সংখ্যাগুলো দিন, আমি মোট বর্তমান বছর ও বেস বছরের ব্যয় যোগ করে সূত্রে বসিয়ে হিসাব করে দেব।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E আপনার মন্তব্য যাচাই করতে হবে গণিতগত সূচকের ওপর: যদি গণিতগত মূল্যসূচক প্রায় [math]150[/math] (বা [math]≈150\\%[/math]) আসে, তাহলে “দেড় গুণ” হওয়া যুক্তিযুক্ত; যদি তা অনেক কম বা বেশি হয় তাহলে মন্তব্যটি সঠিক নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393123,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393123,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393123,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393123,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393123,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393123,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393123,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 393123,
+            "tag_id": 3179,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:25.000000Z",
+            "updated_at": "2025-08-19T05:10:25.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 393123,
+            "tag_id": 6,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:25.000000Z",
+            "updated_at": "2025-08-19T05:10:25.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 393123,
+            "tag_id": 7,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:25.000000Z",
+            "updated_at": "2025-08-19T05:10:25.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 393123,
+            "tag_id": 46,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:25.000000Z",
+            "updated_at": "2025-08-19T05:10:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393122,
+      "value": {
+        "options": {
+          "ক": "ভিত্তি বছর কী?",
+          "খ": "\"সূচক সংখ্যা হল অর্থনীতির ব্যারোমিটার।”- বুঝিয়ে লিখ।",
+          "গ": "ল্যাসপিয়ার্সের মূল্য সূচক সংখ্যা নির্ণয় কর। '",
+          "ঘ": "ফিশারের সূচক সংখ্যার সূত্রটি সময় পাল্টানো পরীক্ষায় উত্তীর্ণ হয় কী? উদ্দীপকের তথ্যের আলোকে বিশ্লেষণ কর।"
+        },
+        "question": "নিম্নে কতকগুলো দ্রব্যের ভিত্তি ও চলতি বছরের বাজার মূল্যের তথ্য দেয়া হল:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-3_1755580222_aEUu0Lzi.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে বছরের সাথে তুলনা করে সূচক সংখ্যা নির্ণয় করা হয় সেই বছরকে ভিত্তি বছর বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপদার্থবিদ্যায় বায়ুর চাপ পরিমাপ করার জন্য যে যন্ত্র ব্যবহৃত হয়, তাকে ব্যারোমিটার বলে। একইভাবে' কোনো দেশের অর্থনৈতিক অবস্থা অর্থাৎ, ব্যবসা-বাণিজ্য, শিল্প কারখানার উৎপাদন, আমদানি-রপ্তানির গতি, অর্থনীতির উত্থান-পতন ইত্যাদি সূচক সংখ্যার সাহায্যে পরিমাপ করা হয়, তাই সূচক সংখ্যাকে অর্থনীতির ব্যারোমিটার বলা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-10_1755580223_3SlEf4bD.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E∴ ল্যাসপিয়ার্সের মূল্য সূচক সংখ্যা, [math]\\mathrm{P}_{\\text {on }}^{\\mathrm{La}}=\\frac{\\sum \\mathrm{p}_{\\mathrm{n}} \\mathrm{q}_{0}}{\\sum \\mathrm{p}_{0} \\mathrm{q}_{0}} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{333}{270} \\times 100[/math]\u003Cbr\u003E [math]=123.33 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eসময় পাল্টানো পরীক্ষায় উত্তীর্ণ হওয়ার ক্ষেত্রে [math]P_{\\text {on }} \\times P_{n o}=1[/math]\u003Cbr\u003E হবে।'গ' এর সারণি ব্যবহার করে পাই, ফিশারের মূল্যসূচক সংখ্যা,[math]P_{\\text {on }}=\\sqrt{\\frac{\\sum p_{n} q_{0}}{\\sum p_{0} q_{0}} \\times \\frac{\\sum p_{n} q_{n}}{\\sum p_{0} q_{n}}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{333}{270} \\times \\frac{384}{312}}=1.1544[/math]\u003Cbr\u003Eআবার, [math]P_{n o}=\\sqrt{\\frac{\\sum p_{0} q_{n}}{\\sum p_{n} q_{n}} \\times \\frac{\\sum p_{0} q_{0}}{\\sum p_{n} q_{0}}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{312}{384} \\times \\frac{270}{333}}=0.812[/math]\u003Cbr\u003E [math]\\therefore \\quad P_{\\text {on }} \\times P_{n o}=[/math]\u003Cbr\u003E [math]=1.1544 \\times 0.812=1[/math]\u003Cbr\u003Eসুতরাং ফিশারের সূচক সংখ্যার সূত্রটি সময় পাল্টানো পরীক্ষায় উত্তীর্ণ হয়।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ভিত্তি বছর নির্ধারণের নিয়ম: টেবিলে যেই বছরকে “বিত্ত” (base) হিসেবে দেখানো আছে বা যেই বছরে সূচককে [math]100[/math] ধরা হয়েছে, সেটিই ভিত্তি বছর; ছবিটি এখানে স্পষ্ট নয়—অনুগ্রহ করে টেবিলে থাকা ভিত্তি সনটি লিখে দিলে আমি নিশ্চিতভাবে বলব।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E “সূচক সংখ্যা হল অর্থনীতির ব্যারোমিটার।” — এর মানে: সূচক সংখ্যা কোনো পরিমাণ (যেমন মূল্য বা উৎপাদন) সময়ের সাথে কীভাবে বদলাচ্ছে তা সংক্ষেপে দেখায়, যাতে নীতিনির্ধারক ও ব্যবসায়ীরা বাজারের সামগ্রিক দিকচিহ্ন (উদ্ভাবন, মুদ্রাস্ফীতি ইত্যাদি) দ্রুত বুঝতে পারে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ল্যাসপিয়ার্স মূল্য সূচক গণনার সূত্র ও প্রয়োগ: ল্যাসপিয়ার্স সূচক হলো ভিত্তি বছরের পরিমাণকে স্থির রেখে বর্তমান ও ভিত্তি বছরের মূল্য তুলনা; সূত্র [math]L_p=\\frac{\\sum p_t q_0}{\\sum p_0 q_0}\\times100[/math]। টেবিলের প্রতিটি দ্রব্যের [math]p_0,p_t,q_0[/math] মান দিলেই আমি সংখ্যাগত হিসাব করে দেব।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ফিশারের সূচক সময় পাল্টানোর পরীক্ষায় উত্তীর্ণ হয় কেন: ফিশার হলো ল্যাসপিয়ার্স ও পশে (Paasche) সূচকের জ্যামিতিক গড়, [math]F=\\sqrt{L\\times P}[/math], এবং এ কারণে সময় পাল্টালে সূচকের উলটোটি তার রূপান্তরের প্রতিসম (reciprocal) হয়—অর্থাৎ যদি সূচকগুলোকে [math]100[/math] ভিত্তিতে প্রকাশ করা হয় তবে সামনের ও উল্টো নির্দেশের গুণফল [math]100\\times100=10000[/math] হবে; তাই ফিশার সময়-পাল্টানো পরীক্ষায় উত্তীর্ণ। আপনি যদি চান আমি উদ্দীপকের সংখ্যাগুলো ব্যবহার করে এটি সংখ্যাগতভাবে যাচাই করে দেখাই।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393122,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393122,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393122,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393122,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393122,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393122,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393122,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 393122,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:23.000000Z",
+            "updated_at": "2025-08-19T05:10:23.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 393122,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:23.000000Z",
+            "updated_at": "2025-08-19T05:10:23.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 393122,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:23.000000Z",
+            "updated_at": "2025-08-19T05:10:23.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 393122,
+            "tag_id": 47,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:23.000000Z",
+            "updated_at": "2025-08-19T05:10:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393121,
+      "value": {
+        "options": {
+          "ক": "ভিত্তি বছর কী?",
+          "খ": "\"সূচক সংখ্যা হল অর্থনীতির ব্যারোমিটার।”- বুঝিয়ে লিখ।",
+          "গ": "ল্যাসপিয়ার্সের মূল্য সূচক সংখ্যা নির্ণয় কর। '",
+          "ঘ": "ফিশারের সূচক সংখ্যার সূত্রটি সময় পাল্টানো পরীক্ষায় উত্তীর্ণ হয় কী? উদ্দীপকের তথ্যের আলোকে বিশ্লেষণ কর।"
+        },
+        "question": "নিম্নে কতকগুলো দ্রব্যের ভিত্তি ও চলতি বছরের বাজার মূল্যের তথ্য দেয়া হল:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-3_1755580220_pynCAe80.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে বছরের সাথে তুলনা করে সূচক সংখ্যা নির্ণয় করা হয় সেই বছরকে ভিত্তি বছর বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপদার্থবিদ্যায় বায়ুর চাপ পরিমাপ করার জন্য যে যন্ত্র ব্যবহৃত হয়, তাকে ব্যারোমিটার বলে। একইভাবে' কোনো দেশের অর্থনৈতিক অবস্থা অর্থাৎ, ব্যবসা-বাণিজ্য, শিল্প কারখানার উৎপাদন, আমদানি-রপ্তানির গতি, অর্থনীতির উত্থান-পতন ইত্যাদি সূচক সংখ্যার সাহায্যে পরিমাপ করা হয়, তাই সূচক সংখ্যাকে অর্থনীতির ব্যারোমিটার বলা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-10_1755580221_4tl33cKu.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E∴ ল্যাসপিয়ার্সের মূল্য সূচক সংখ্যা, [math]\\mathrm{P}_{\\text {on }}^{\\mathrm{La}}=\\frac{\\sum \\mathrm{p}_{\\mathrm{n}} \\mathrm{q}_{0}}{\\sum \\mathrm{p}_{0} \\mathrm{q}_{0}} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{333}{270} \\times 100[/math]\u003Cbr\u003E [math]=123.33 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eসময় পাল্টানো পরীক্ষায় উত্তীর্ণ হওয়ার ক্ষেত্রে [math]P_{\\text {on }} \\times P_{n o}=1[/math]\u003Cbr\u003E হবে।'গ' এর সারণি ব্যবহার করে পাই, ফিশারের মূল্যসূচক সংখ্যা,[math]P_{\\text {on }}=\\sqrt{\\frac{\\sum p_{n} q_{0}}{\\sum p_{0} q_{0}} \\times \\frac{\\sum p_{n} q_{n}}{\\sum p_{0} q_{n}}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{333}{270} \\times \\frac{384}{312}}=1.1544[/math]\u003Cbr\u003Eআবার, [math]P_{n o}=\\sqrt{\\frac{\\sum p_{0} q_{n}}{\\sum p_{n} q_{n}} \\times \\frac{\\sum p_{0} q_{0}}{\\sum p_{n} q_{0}}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{312}{384} \\times \\frac{270}{333}}=0.812[/math]\u003Cbr\u003E [math]\\therefore \\quad P_{\\text {on }} \\times P_{n o}=[/math]\u003Cbr\u003E [math]=1.1544 \\times 0.812=1[/math]\u003Cbr\u003Eসুতরাং ফিশারের সূচক সংখ্যার সূত্রটি সময় পাল্টানো পরীক্ষায় উত্তীর্ণ হয়।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ভিত্তি বছর নির্ধারণ করতে টেবিলের সেই বছরটি দেখুন যাকে ঐতিহ্যগতভাবে 'বেস' হিসেবে নেয়া হয়েছে বা যার সূচক মানকে ১০০ ধরা হয়েছে; যদি টেবিল না দেখাই থাকে তাহলে নির্দিষ্ট সংখ্যা দেখে বলা যাবে (আমি টেবিলের সংখ্যা না পেলে নির্দিষ্ট বছর বলতে পারি না)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"সূচক সংখ্যা হল অর্থনীতির ব্যারোমিটার।\"—কারণ সূচকগুলো বাজারমূল্য, উৎপাদন বা রপ্তানির মতো বিভিন্ন অর্থনীতিক পরিবর্তনগুলোর মোটদিক নির্দেশ করে এবং নীতিনির্ধারক ও ব্যবসায়ীদের সিদ্ধান্তে দ্রুত তথ্য দেয়; তাই এগুলো অর্থনীতির অবস্থা পরিমাপক যন্ত্রের মতো কাজ করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ল্যাসপিয়ার্সের মূল্য সূচক নির্ণয়ের সূত্র হলো [math]L_{0t}=\\frac{\\sum p_t q_0}{\\sum p_0 q_0}\\times100[/math] যেখানে [math]p_0,q_0[/math] হলো ভিত্তিবর্ষের মূল্য ও পরিমাণ এবং [math]p_t[/math] হলো সময়ের মূল্যের তথ্য; টেবিলের সংখ্যাগুলো দিলে এই সূত্র প্রয়োগ করে সরাসরি গণনা করা যাবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ফিশারের সূচক [math]F_{0t}=\\sqrt{L_{0t}\\times P_{0t}}[/math] সময়-পালটানো (time-reversal) পরিক্ষায় উত্তীর্ণ হয় কারণ এটা ল্যাসপিয়ার্স ও প্ল্যাশের সূচকের গাণিতিক গড় (জিওমেট্রিক মান) হওয়ায় সামনের ও পশ্চাৎ দুদিকের সূচকের গুণফল ১ বা প্রোপোরশনালি সামঞ্জস্যপূর্ণ থাকে; সূত্রগতভাবে এটি সময়-পালটানোর বৈশিষ্ট্য পূরণ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393121,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393121,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393121,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393121,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393121,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393121,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393121,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 393121,
+            "tag_id": 47,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:21.000000Z",
+            "updated_at": "2025-08-19T05:10:21.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 393121,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:21.000000Z",
+            "updated_at": "2025-08-19T05:10:21.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 393121,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:21.000000Z",
+            "updated_at": "2025-08-19T05:10:21.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 393121,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:21.000000Z",
+            "updated_at": "2025-08-19T05:10:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393120,
+      "value": {
+        "options": {
+          "ক": "সূচক সংখ্যা কী?",
+          "খ": "বাংলাদেশের প্রেক্ষিতে 1971 সালকে ভিত্তি বছর বিবেচনা করা ঠিক হবে কি? ব্যাখ্যা কর।",
+          "গ": "প্যাসের মূল্য সূচক সংখ্যা নির্ণয় কর।",
+          "ঘ": "ফিশারের সূত্র উপাদান পাল্টানো পরীক্ষায় উত্তীর্ণ হয় কি? উদ্দীপকের আলোকে যাচাই কর।"
+        },
+        "question": "2015 ও 2016 সালের চারটি পণ্যের তথ্য নিম্নরূপ-\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-2_1755580219_Nev7uAZi.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eসূচক সংখ্যা একটি অনুপাত বা আনুপাতিক গড়ের শতকরা হার নির্ণয়কারী এককবিহীন সংখ্যা।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eবাংলাদেশের প্রেক্ষিত্রে 1971 সালকে ভিত্তি বছর বিবেচনা করা ঠিক হবে না।কারণ, ভিত্তি বছর বিবেচনার ক্ষেত্রে খেয়াল রাখতে হয় বছরটি যেন যুদ্ধ, খরা বা অন্য কোনো দূর্যোগের বছর না হয়।এক্ষেত্রে 1971 সালে বাংলাদেশে মুক্তিযুদ্ধ সংঘটিত হয়। তাই 1971 সালকে বাংলাদেশের সাপেক্ষে ভিত্তি বছর ধরা যাবে না।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eসূচক সংখ্যা নির্ণয়ের প্রয়োজনীয় সারণি:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-9_1755580220_u4xxClz7.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eপ্যাসের মূল্য সূচক সংখ্যা, [math]\\mathrm{p}_{0 \\mathrm{n}}=\\frac{\\sum \\mathrm{p}_{\\mathrm{n}} \\mathrm{q}_{\\mathrm{n}}}{\\sum \\mathrm{p}_{0} \\mathrm{q}_{\\mathrm{n}}} \\times 100[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{303}{283} \\times 100=107.067[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eফিশারের সূত্র উপাদান পাল্টানো পরীক্ষায় উত্তীর্ণ হবে যদি, [math]\\mathrm{P}_{0 \\mathrm{n}} \\times \\mathrm{Q}_{0 \\mathrm{n}}=\\mathrm{V}_{0 \\mathrm{n}}[/math]\u003Cbr\u003E হয়বা, [math]\\sqrt{\\frac{\\sum \\mathrm{p}_{n} \\mathrm{q}_{0}}{\\sum \\mathrm{p}_{0} \\mathrm{q}_{0}} \\times \\frac{\\sum \\mathrm{p}_{n} \\mathrm{q}_{\\mathrm{n}}}{\\mathrm{p}_{0} \\mathrm{q}_{\\mathrm{n}}}}[/math]\u003Cbr\u003E [math]\\times \\sqrt{\\frac{\\sum \\mathrm{q}_{\\mathrm{n}} \\mathrm{p}_{0}}{\\sum \\mathrm{q}_{0} \\mathrm{p}_{0}} \\times \\frac{\\sum \\mathrm{q}_{\\mathrm{n}} \\mathrm{p}_{\\mathrm{n}}}{\\mathrm{q}_{0} \\mathrm{p}_{\\mathrm{n}}}}=\\frac{\\sum \\mathrm{p}_{\\mathrm{n}} \\mathrm{q}_{\\mathrm{n}}}{\\sum \\mathrm{p}_{0} \\mathrm{q}_{0}}[/math]\u003Cbr\u003E হয়∴ বামপক্ষ [math]=\\sqrt{\\frac{328 \\times 303}{299 \\times 283}}[/math]\u003Cbr\u003E [math]\\times \\sqrt{\\frac{283 \\times 303}{299 \\times 328}}[/math]\u003Cbr\u003E [math]= 1.0838 x 0.9351 = 1.0134[/math]\u003Cbr\u003Eএবং ডানপক্ষ [math]=\\frac{303}{299}=1.0134[/math]\u003Cbr\u003Eসুতরাং ফিশারের সূত্র সূচক সংখ্যার উপাদান পাল্টানো পরীক্ষায় উত্তীর্ণ হয়।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সূচক সংখ্যা হল কোনো চলকের নির্দিষ্ট একটি সূত্রানুগ সম্পর্কের মাধ্যমে উপরের (চলতি) কালের মানকে ভিত্তি কালের মানের সহিত তুলনা করে প্রকাশ করা সংখ্যাসূচক, সাধারণত শতকরা অংশে বা [math]100[/math] ভিত্তিতে প্রকাশ করা হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ১৯৭১ সালকে ভিত্তি বছর হিসেবে নেওয়া সাধারণত উচিত নয়, কারণ ১৯৭১ বাংলাদেশে যুদ্ধতপ্ত ও অস্বাভাবিক অর্থনৈতিক পরিবেশের বছর ছিলো — সেই বছরের মূল্য ও ভোক্তা প্যাটার্ন স্বাভাবিক প্রতিনিধিত্ব করে না; ভিত্তি বছর হওয়া উচিত এমন কোনো সাধারণ, সম্প্রতি আপডেট করা ও প্রতিনিধিত্বশীল বছর যা ভোক্তাব্যবহার ও উৎপাদন কাঠামোর সাথে সামঞ্জস্যপূর্ণ।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্যাসের মূল্য সূচকসংখ্যার সূত্র হচ্ছে [math]P_{P}=\\dfrac{\\sum p_{1}q_{1}}{\\sum p_{0}q_{1}}\\times100[/math]; তাই উদ্দীপকের টেবিল থেকে প্রথমে প্রতিটি পণ্যের জন্য [math]p_{1}q_{1}[/math] ও [math]p_{0}q_{1}[/math] গুন করে যোগ করুন, তারপর সেগুলোর অনুপাত নিয়ে [math]×100[/math] করুন — এটাই প্যাসের সূচক।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ফিশারের সূত্ৰ (Fisher ideal) হল Laspeyres ও Paasche এর জ্যামিতিক গড়, ফলে উপাদান (কমোডিটি) পাল্টালে Laspeyres ও Paasche পরস্পর বিনিময় হতে পারে কিন্তু তাদের জ্যামিতিক গড় অপরিবর্তিত থাকে; তাই ফিশারের সূত্ৰ উপাদান পাল্টানোর পরীক্ষায় উত্তীর্ণ হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393120,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393120,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393120,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393120,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393120,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393120,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393120,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 393120,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:20.000000Z",
+            "updated_at": "2025-08-19T05:10:20.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 393120,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:20.000000Z",
+            "updated_at": "2025-08-19T05:10:20.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 393120,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:20.000000Z",
+            "updated_at": "2025-08-19T05:10:20.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 393120,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:20.000000Z",
+            "updated_at": "2025-08-19T05:10:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393119,
+      "value": {
+        "options": {
+          "ক": "সূচক সংখ্যা কী?",
+          "খ": "সূচক সংখ্যার এককের ধরন ব‍্যাখ্যা কর।",
+          "গ": "উদ্দীপকের তথ্য হতে ল্যাসপিয়ার্সের মূল্যসূচক সংখ্যা বের কর।",
+          "ঘ": "অধ্যাপক রহিম সাহেবের বক্তব্যের সত্যতা যাচাই কর।"
+        },
+        "question": "অধ্যাপক রহিম সাহেব তার পরিবারের সদস্যদের নিত্যপ্রয়োজনীয় 2016 ও 2017 সালে ব্যবহৃত দ্রব্যদির মূল্যের তালিকা ছাত্র-ছাত্রীদের নিকট প্রদর্শন করে বললেন, আজকাল নিত্য প্রয়োজনীয় জিনিসপত্রের মূল্য ঊর্ধ্বগামী। তবে উক্ত তথ্যসমূহের সাহায্যে ফিশারের সূচক সংখ্যা নির্ণয় করলে ইহা আদর্শ সূচক সংখ্যা হবে।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-1_1755580217_Ky8BZMo7.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে পরিসংখ্যানিক পদ্ধতির সাহায্যে আমরা সময়, স্থান বা অন্য কোন বৈশিষ্ট্যের সাপেক্ষে একটি বা একসারি চলকের মানের পরিবর্তনকে পরিমাপ করতে পারি তাকে সূচক সংখ্যা বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eসূচক সংখ্যা একটি একক বিহীন বিশুদ্ধ সংখ্যা।যে সংখ্যার সাহায্যে সময়, স্থান বা অন্য কোন বৈশিষ্ট্যের সাপেক্ষে কতকগুলো দ্রব্যের মূল্য, উৎপাদন বা মানের আপেক্ষিক পরিবর্তন পরিমাপ করা হয়, তাকে সূচক সংখ্যা বলে। যেহেতু সূচক সংখ্যা ভিন্ন ভিন্ন একক বিশিষ্ট চলকের মানের তুলনা করতে পারে এবং ইহা একটি অনুপাত বা আনুপাতিক গড়ের শতকরা হার নির্ণয়কারী একটি সংখ্যা। যার ফলে লবে ও হরে একই একক থাকে বলে সূচক সংখ্যা একটি এককবিহীন বিশুদ্ধ সংখ্যা।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eল্যাসপিয়ার্সের মূল্যসূচক সংখ্যা নির্ণয়ের প্রয়োজনীয় সারণি:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-8_1755580218_jXvfGy8c.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eল্যাসপিয়ার্সের মূল্য সূচক সংখ্যা, [math]\\mathrm{P}_{0 \\mathrm{n}}=\\frac{\\sum \\mathrm{P}_{\\mathrm{n}} \\mathrm{Q}_{0}}{\\sum \\mathrm{P}_{0} \\mathrm{Q}_{0}} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{2145}{1940} \\times 100[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=110.567[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, ল্যাসপিয়ার্সের মূল্যসূচক সংখ্যা 110.567 সুতরাং (110.567- 100) = 10.567% মূল্য বৃদ্ধি পেয়েছে। অর্থাৎ নিত্য প্রয়োজনীয় জিনিসপত্রের মূল্য ঊর্ধ্বগামী।আবার, ফিশারের মূল্য সূচক সংখ্যা, [math]P_{0 n}=\\sqrt{\\frac{\\sum P_{n} Q_{0}}{\\sum P_{0} Q_{0}} \\times \\frac{\\sum P_{n} Q_{n}}{\\sum P_{0} Q_{n}}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{2145}{1940} \\times \\frac{5210}{4670}}=1.11064[/math]\u003Cbr\u003Eফিশারের মূল্যমান সূচক সংখ্যা, [math]\\mathrm{Q}_{0 \\mathrm{n}}=\\sqrt{\\frac{\\sum \\mathrm{Q}_{\\mathrm{n}} \\mathrm{P}_{0}}{\\sum \\mathrm{Q}_{0} \\mathrm{P}_{0}} \\times \\frac{\\sum \\mathrm{Q}_{\\mathrm{n}} \\mathrm{P}_{\\mathrm{n}}}{\\sum \\mathrm{Q}_{0} \\mathrm{P}_{\\mathrm{n}}}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{4670}{1940} \\times \\frac{5210}{2145}}=2.41803[/math]\u003Cbr\u003Eফিশারের মূল্যমান সূচক সংখ্যা, [math]\\mathrm{V}_{\\mathrm{O}_{\\mathrm{n}}}=\\frac{\\sum \\mathrm{P}_{\\mathrm{n}} \\mathrm{Q}_{\\mathrm{n}}}{\\sum \\mathrm{P}_{0} \\mathrm{Q}_{0}}=\\frac{5210}{1940}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=2.6856[/math]\u003Cbr\u003Eফিশারের মূল্য সূচক সংখ্যা, [math]\\mathrm{P}_{\\mathrm{n} 0}=\\sqrt{\\frac{\\sum \\mathrm{P}_{0} \\mathrm{Q}_{\\mathrm{n}}}{\\sum \\mathrm{P}_{\\mathrm{n}} \\mathrm{Q}_{\\mathrm{n}}} \\times \\frac{\\sum \\mathrm{P}_{0} \\mathrm{Q}_{0}}{\\sum \\mathrm{P}_{\\mathrm{n}} \\mathrm{Q}_{0}}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{4670}{5210} \\times \\frac{1940}{2145}}=0.9004[/math]\u003Cbr\u003Eএখানে, [math]\\mathrm{P}_{0 \\mathrm{n}} \\times \\mathrm{P}_{\\mathrm{n} 0}=1.11064 \\times 0.9004=1.00002 \\approx 1[/math]\u003Cbr\u003E অর্থাৎ ফিশারের সূচক সংখ্যা সময় পাল্টানো পরীক্ষায় উত্তীর্ণ হয়।আবার, [math]P_{0 n} \\times Q_{0 n}=1.11064 \\times 2.41803=2.6856=V_{0 n}[/math]\u003Cbr\u003Eঅর্থাৎ ফিশারের সূচক সংখ্যা উপাদান পাল্টানো পরীক্ষায় উত্তীর্ণ হয়। সেহেতু ফিশারের সূচকসংখ্যা সময় ও উপাদান পাল্টানো পরীক্ষায় উত্তীর্ণহয়। সুতরাং ফিশারের সূচক সংখ্যাটি একটি আদর্শ সূচক সংখ্যা।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সূচক সংখ্যা কী?  \nসূচক সংখ্যা হলো কোনো পরিমাপের তুলনামূলক পরিবর্তন প্রকাশ করার এক বিনিময়গত সংখ্যা, যা একটি সময় বা অবস্থার তুলনায় অন্যটির আপেক্ষিক পরিমাণ বা মূল্য দেখায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সূচক সংখ্যার এককের ধরন ব‍্যাখ্যা কর।  \nসূচক এককহীন (dimensionless) হয় কারণ এটি অনুপাত বা শতকরা পরিবর্তন প্রদর্শন করে এবং সাধারণত একটি ভিত্তি মানকে [math]100[/math] ধরে শতকরা হিসেবে প্রকাশ করা হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উদ্দীপকের তথ্য হতে ল্যাসপিয়ার্সের মূল্যসূচক সংখ্যা বের কর।  \nল্যাসপিয়ার্সের মূল্যসূচক সূত্র হলো [math]L_P=\\frac{\\sum p_1 q_0}{\\sum p_0 q_0}\\times100[/math]; এখানে টেবিলের প্রতিটি পণ্যটির জন্য ভিত্তি বছরের পরিমান [math]q_0[/math] ও ২০১৬ ও ২০১৭ সালের মূল্য [math]p_0,\\,p_1[/math] ব্যবহার করে প্রথমে নম্বরেটর ও ডিনোমিনেটর যোগ করে সেটার অনুপাতে [math]×100[/math] করলে সূচক পাওয়া যাবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অধ্যাপক রহিম সাহেবের বক্তব্যের সত্যতা যাচাই কর।  \nহ্যাঁ—ফিশারের সূচক সাধারণত \"আদর্শ\" বলা হয় কারণ এটি লাস্পিয়ার্স ও প্যাশের-উভয়ের জ্যামিতিক গড় এবং time-reversal ও factor-reversal পরীক্ষাগুলো সন্তুষ্ট করে, তাই ওই বক্তব্যটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 393119,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393119,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393119,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393119,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393119,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393119,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393119,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393119,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 393119,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T05:10:18.000000Z",
+            "updated_at": "2025-08-19T05:10:18.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 393119,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:18.000000Z",
+            "updated_at": "2025-08-19T05:10:18.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 393119,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:18.000000Z",
+            "updated_at": "2025-08-19T05:10:18.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 393119,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:18.000000Z",
+            "updated_at": "2025-08-19T05:10:18.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 393119,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:18.000000Z",
+            "updated_at": "2025-08-19T05:10:18.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393116,
+      "value": {
+        "options": {
+          "ক": "132.00",
+          "খ": "130.00",
+          "গ": "129.98",
+          "ঘ": "128.00"
+        },
+        "question": "ল্যাস পিয়ার্সের মূল্যসূচক সংখ্যা 132 এবং প্যাসের মূল্যসূচক সংখ্যা 128 হলে ফিশারের মূল্যসূচক সংখ্যা কত?",
+        "solution": "129.98",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393116,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393116,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393118,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নির্বাচিত সম্ভাব্য নমুনাসমূহের ক্ষেত্রে-\n\ni. নমুনা গড় সমগ্রক গড়ের নিরপেক্ষ নিরূপক\n\nii. নমুনা গড়ের গড় সমগ্রক গড়ের সমান\n\nii. নমুনা নির্বাচনের সম্ভাবনা [math]\\frac{1}{{ }^{\\mathrm{N}} C_{n}}[/math] নিয়মটি মেনে চলে।",
+        "solution": "i, ii ও iii",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393118,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393118,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393117,
+      "value": {
+        "options": {
+          "ক": "({(2, 2) (3,4))",
+          "খ": "{(3, 4) (4,3)}",
+          "গ": "((2, 3) (3, 4) (3, 3)}",
+          "ঘ": "((2, 3) (2, 4) (3, 4)}"
+        },
+        "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাওঃ\n\n{2, 3, 4} একক বিশিষ্ট সমগ্রক হতে দৈবভাবে পুনঃস্থাপন ছাড়া দুই আকারের সম্ভাব্য নমুনা চয়ন করা হল।\nনির্বাচিত সম্ভাব্য নমুনাসমূহ কোনটি?",
+        "solution": "((2, 3) (3, 4) (3, 3)}",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393117,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393117,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393104,
+      "value": {
+        "options": {
+          "ক": "75",
+          "খ": "120",
+          "গ": "125",
+          "ঘ": "130"
+        },
+        "question": "কোনো একটি পণ্যের মূল্য 2012 সালের তুলনায় 2014 সালে 25 টাকা বৃদ্ধি পেলে মূল্য সূচক সংখ্যা কত হবে?",
+        "solution": "125",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393104,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393104,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393115,
+      "value": {
+        "options": {
+          "ক": "ফিশারের",
+          "খ": "ল্যাসপিয়ার্সের",
+          "গ": "বাউলির",
+          "ঘ": "মার্শাল এজওয়ার্থের"
+        },
+        "question": "কার সূচক সংখ্যাকে আদর্শ সূচক সংখ্যা বলা হয়?",
+        "solution": "ফিশারের",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393115,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393115,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393114,
+      "value": {
+        "options": {
+          "ক": "ল্যাসপিয়ার্সের",
+          "খ": "প্যাসের",
+          "গ": "বাউলির",
+          "ঘ": "ফিশারের"
+        },
+        "question": "কার সূচক সংখ্যাকে আদর্শ সূচক সংখ্যা বলা হয়?",
+        "solution": "ফিশারের",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393114,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393114,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393113,
+      "value": {
+        "options": {
+          "ক": "132.00",
+          "খ": "130.00",
+          "গ": "129.98",
+          "ঘ": "128.00"
+        },
+        "question": "ল্যাসপিয়ার্সের মূল্যসূচক সংখ্যা 132 এবং প্যাসের মূল্যসূচক সংখ্যা 128 হলে ফিশারের মূল্যসূচক সংখ্যা কত?",
+        "solution": "129.98",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393113,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393113,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393112,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "iii",
+          "ঘ": "i ও ii"
+        },
+        "question": "ফিশারের সূচক সংখ্যা ল্যাসপিয়ার্স ও প্যাসের সূচক সংখ্যার—\n\ni. জ্যামিতিক গড়\n\nii. গাণিতিক গড়\n\niii. তরঙ্গ গড়\n\nনিচের কোনটি সঠিক?",
+        "solution": "i",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393112,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393112,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393111,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "3",
+          "গ": "4",
+          "ঘ": "5"
+        },
+        "question": "সূচক সংখ্যা কত প্রকার?",
+        "solution": "3",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393111,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393111,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393110,
+      "value": {
+        "options": {
+          "ক": "4.00",
+          "খ": "5.00",
+          "গ": "5.25",
+          "ঘ": "5.50"
+        },
+        "question": "প্রত্যাশিত নমুানা নিচের কোনটি?\n\nআমরা জানি,\n\n∴ সমগ্রকের গড় বের করলেই প্রত্যাশিত নমুনা গড় পাওয়া যাবে।\n\nপ্রত্যাশিত নমুনা গড়,\n\n[math]\\mathrm{E}(\\overline{\\mathrm{x}})=\\overline{\\mathrm{X}}=\\frac{4+6+1+10}{4}=5.25[/math]",
+        "solution": "5.25",
+        "explanation": "∴ সমগ্রকের গড় বের করলেই প্রত্যাশিত নমুনা গড় পাওয়া যাবে।প্রত্যাশিত নমুনা গড়,[math]\\mathrm{E}(\\overline{\\mathrm{x}})=\\overline{\\mathrm{X}}=\\frac{4+6+1+10}{4}=5.25[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393110,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393110,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393109,
+      "value": {
+        "options": {
+          "ক": "2.50",
+          "খ": "3.00",
+          "গ": "4.00",
+          "ঘ": "5.00"
+        },
+        "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :\n\nচার আঁকার বিশিষ্ট একটি তথ্যবিশ্ব ( 4, 6, 1, 10) হতে 2 আকারের নমুনা সংগ্রহ করা হলো যা নিম্নরূপ:\n\nদ্বিতীয় নমুনাটির গড় কত?",
+        "solution": "2.50",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393109,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393109,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393108,
+      "value": {
+        "options": {
+          "ক": "0.05",
+          "খ": "0.10",
+          "গ": "0.25",
+          "ঘ": "0.50"
+        },
+        "question": "নির্বাচিত সম্ভাব্য নমুনাগুলোর মধ্যে প্রতিটি নমুনা নির্বাচিত হওয়ার সম্ভাবনা কত?",
+        "solution": "0.10",
+        "explanation": "প্রতিটি নমুনা নির্বাচনের সম্ভাবনা সমান।∴যেকোনো নমুনা নির্বাচিত হওয়ার সম্ভাবনা [math]=\\frac{1}{5 C_{2}}=\\frac{1}{10}[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393108,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393108,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393107,
+      "value": {
+        "options": {
+          "ক": "5",
+          "খ": "10",
+          "গ": "15",
+          "ঘ": "20"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও :\n\n13.5.6.8. 10 সমগ্রকটি হতে 2 আকারের পুনঃস্থাপন না করে সম্ভাব্য নমুনা চয়ন করা হল।\n\nপ্রদত্ত সমগ্রক হতে পুনঃস্থাপন না করে 2 আকারের কতগুলি নমুনা পাওয়া যায়।",
+        "solution": "10",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393107,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393107,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393106,
+      "value": {
+        "options": {
+          "ক": "75",
+          "খ": "120",
+          "গ": "125",
+          "ঘ": "130"
+        },
+        "question": "কোনো একটি পণ্যের দ্রব্যের মূল্য 2012 সালের তুলনায় 2014 সালে 25 টাকা বৃদ্ধি পেলে মূল্য সূচক সংখ্যা কত?",
+        "solution": "125",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393106,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393106,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393105,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ফিশারের সূচক সংখ্যা-\n\ni. সময় পাল্টানো পরীক্ষায় উত্তীর্ণ হয়\n\nii. উপাদান পাল্টানো পরীক্ষায় উত্তীর্ণ হয়\n\niii. আদর্শ সূচক সংখ্যা\n\nনিচের কোনটি সঠিক?",
+        "solution": "i, ii ও iii",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4147,
+      "created_at": "2025-08-19T05:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393105,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393105,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:16.000000Z",
+            "updated_at": "2025-08-19T05:10:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4147&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4147&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4147&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 25,
+  "total": 25
+}

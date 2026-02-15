@@ -1,0 +1,1219 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 392854,
+      "value": {
+        "options": {
+          "ক": "আদর্শ পরিমিত চলক কী?",
+          "খ": "পরিমিত বিন্যাস [math]P(z=3)=0-[/math] ব্যাখ্যা কর।",
+          "গ": "প্রতি প্যাকেটে 4টি খারাপ মিষ্টি থাকার সম্ভাবনা নির্ণয় কর।",
+          "ঘ": "দোকানীর বক্তব্যের সাথে তুমি কী একমত? গাণিতিক বিশ্লেষণের মাধ্যমে মন্তব্য কর।"
+        },
+        "question": "একটি দোকানের উৎপাদিত মিষ্টির 2% খারাপ। মিষ্টিগুলো 50টির প্যাকেটে সরবরাহ করা হয়। কোনো একদিনের উৎপাদন হতে 500টি প্যাকেট নেয়া হল। দোকানী বললেন, বড়জোর একটি খারাপ মিষ্টি থাকবে এমন প্যাকেটের সংখ্যা 370টির বেশি হবে না।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো পরিমিত চলকের প্রতিটি মান থেকে এর গড় বিয়োগ করে বিয়োগফলকে পরিমিত ব্যবধান দিয়ে ভাগ করলে যে নতুন চলক পাওয়া যায় তাকে আদর্শ পরিমিত চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপরিমিত বিন্যাস একটি অবিচ্ছিন্ন চলকের সম্ভাবনা বিন্যাস। আমরা জানি, অবিচ্ছিন্ন চলকের সম্ভাবনা বিন্যাসে কোনো নির্দিষ্ট মান গ্রহণ করার সম্ভাবনা শূন্য। তাই এর আদর্শ পরিমিত চলক z এর মান.3 হলে, z এর মান ও হওয়ার সম্ভাবনা, P(z= 3) = 0\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd-paper-090224-chapter-6-all-board-cq-1_1755580177_Fn1kXbhd.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eঅর্থাৎ পরিমিত বিন্যাসে, P(z= 3) = 0[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, উৎপাদিত মিষ্টি খারাপ হওয়ার সংখ্যার চলক x পৈঁসু বিন্যাস মেনে চলে।এখানে, [math]n=50 ; p=2 \\%=0.02[/math]\u003Cbr\u003Eতাহলে, [math]P(x)=\\frac{e^{-m} m^{x}}{x !}[/math]\u003Cbr\u003E [math]x=0,1,2, \\ldots \\ldots, \\infty[/math]\u003Cbr\u003Eএখানে, পরামিতি, m = np = 50 x 0.02 = 1∴ প্রতি প্যাকেটে 4টি খারাপ মিষ্টি থাকার সম্ভাবনা[math]P(x=4)=\\frac{e^{-1}(1)^{4}}{4 !}[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{e}^{-1}}{4 !}=0.0153[/math]\u003Cbr\u003E প্রায়) (Ans.)[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, m = 1 এবং N = 500∴ বড়জোর একটি মিষ্টি খারাপ হওয়ার সম্ভাবনা[math]=P(x \\leq 1)=P(x=0)+P(x=1)[/math]\u003Cbr\u003E [math]=\\frac{e^{-1} 1^{0}}{0 !}+\\frac{e^{-1}(1)^{1}}{1 !}[/math]\u003Cbr\u003E [math]\\mathrm{e}^{-1}+\\mathrm{e}^{-1}[/math]\u003Cbr\u003E [math]=2 \\mathrm{e}^{-1}=0.7358[/math]\u003Cbr\u003E∴ বড়জোর একটি মিষ্টি খারাপ এরূপ প্যাকেটের সংখ্যা [math]=N P(x \\leq 1)[/math]\u003Cbr\u003E [math]=500 \\times 0.7358[/math]\u003Cbr\u003E [math]=367.9 \\approx 368[/math]\u003Cbr\u003E টি অর্থাৎ বড়জোর একটি মিষ্টি খারাপ থাকবে এরূপ প্যাকেটের সংখ্যা 368টি যা 370টি অপেক্ষা কম।সুতরাং দোকানীর বক্তব্যের সাথে আমি একমত।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E আদর্শ পরিমিত চলক হলো প্রতি প্যাকেটে খারাপ মিষ্টির গড় [math]\\lambda = np = 50\\times 0.02 = 1[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পরিমিত বিন্যাসে [math]P(Z=3)=e^{-\\lambda}\\frac{\\lambda^3}{3!}=e^{-1}\\frac{1^3}{3!}=\\frac{e^{-1}}{6}\\approx 0.0613[/math]—এটাই তিনটি খারাপ মিষ্টির সম্ভাব্যতা।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রতি প্যাকেটে চারটি খারাপ মিষ্টির সম্ভাবনা [math]P(Z=4)=e^{-1}\\frac{1^4}{4!}=\\frac{e^{-1}}{24}\\approx 0.0153[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রতিটি প্যাকেটে সর্বোচ্চ একটি খারাপ মিষ্টি হওয়ার probability হল [math]P(X\\le1)=P(0)+P(1)=2e^{-1}\\approx0.73576[/math]। 500 প্যাকেটের মধ্যে প্রত্যাশিত সংখ্যা [math]\\mu=500\\times2e^{-1}\\approx367.88[/math], বিভ্রান্তি [math]\\sigma=\\sqrt{500\\times0.73576\\times0.26424}\\approx9.85[/math]। নরমাল সন্নিকটে অববাহিকতা সংশোধনসহ [math]P(Y\\le370)\\approx \\Phi\\!\\big(\\frac{370.5-367.88}{9.85}\\big)\\approx \\Phi(0.27)\\approx0.605[/math]—অর্থাৎ 370টির বেশি না হবে কথাটি স্থূলভাবে সম্ভবপর (প্রায় 60.5% সম্ভাবনা) কিন্তু নিশ্চিতভাবে সত্য হবে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392854,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392854,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392854,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392854,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392854,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392854,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392854,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392854,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392854,
+            "tag_id": 47,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392854,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392854,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392855,
+      "value": {
+        "options": [],
+        "question": "পরিমিত বিন্যাসের পরামিতি কয়টি?",
+        "solution": "পরিমিত বিন্যাসের পরামিতি ২টি। যথা: গড় [math](\\mu)[/math]\u003Cbr\u003E এবং ভেদাঙ্ক [math]\\left(\\sigma^{2}\\right)[/math]\u003Cbr\u003E।",
+        "explanation": "ব্যাখ্যা: সমতল-এ পরিমিত বিন্যাস (isometry) হল এমন বিন্যাস যা দূরত্ব বজায় রাখে, এবং এটি সম্পূর্ণরূপে নির্ধারিত হয় দুইটি অনুবাদ উপাদান এবং একটি ঘূর্ণন কোণের দ্বারা। অতএব পরামিতির সংখ্যা [math]3[/math] (প্রয়োজনে প্রতিফলনকে আলাদা orientation-বাইনারি হিসেবে ধরা হয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392855,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392855,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392855,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392855,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392855,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392855,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392855,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392855,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392855,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392855,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392855,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392856,
+      "value": {
+        "options": [],
+        "question": "আর্দশ পরিমিত চলক কী?",
+        "solution": "কোনো পরিমিত চলকের প্রতিটি মান থেকে এর গড় বিয়োগ করে বিয়োগফলকে পরিমিত ব্যবধান দিয়ে ভাগ করলে যে নতুন চলক পাওয়া যায় তাকে আদর্শ পরিমিত চলক বলে।",
+        "explanation": "আর্দশ পরিমিত চলক হলো এমন একটি পরিমিতি যার কোনো মাত্রা বা একক থাকে না — এটি সাধারণত একই ধরনের পরিমাণের অনুপাত বা উপযুক্ত গুণফল থেকে গঠিত হয়। কারণ সেই অনুপাত বা গুণফলের এককগুলো পরস্পর বাতিল হয়ে যায়, ফলে ফলটি একটি বিশুদ্ধ সংখ্যা হয় (যেমন রেনল্টস সংখ্যা, ম্যাক সংখ্যা, ঘর্ষণ সহগ)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392856,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392856,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392856,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392856,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392856,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392856,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392856,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392856,
+            "tag_id": 47,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392856,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392856,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392856,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392857,
+      "value": {
+        "options": [],
+        "question": "পরিমিত বিন্যাসের ভেদাঙ্ক ঋণাত্মক হতে পারে কি? ব্যাখ্যা কর।",
+        "solution": "পরিমিত বিন্যাসের ভেদাঙ্ক ঋণাত্মক হতে পারে না। কারণ পরিমিত বিন্যাসের ভেদাঙ্ক [math]\\left(\\sigma^{2}\\right)[/math]\u003Cbr\u003E এর সীমা [math]0\u003C\\sigma^{2}\u003C\\infty[/math]\u003Cbr\u003E তাছাড়া, একটি বর্গরাশির মান সবসময়ই অঋণাত্মক।",
+        "explanation": "হ্যাঁ — ভেদাঙ্ক ঋণাত্মক হতে পারে। ভেদাঙ্ক অসমমিতার দিক নির্দেশ করে; যদি বিন্যাসের বাম পাশে লম্বা টেল থাকে (বাম-ঢালু), তখন ভেদাঙ্ক ঋণাত্মক হয় এবং সাধারণত গড় [math]\\bar{x} \u003C \\text{median}[/math] থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392857,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392857,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392857,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392857,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392857,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392857,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392857,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392857,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392857,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392857,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392857,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:37.000000Z",
+            "updated_at": "2025-08-19T05:09:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392846,
+      "value": {
+        "options": {
+          "ক": "[math]0",
+          "খ": "[math]-1",
+          "গ": "[math]-\\infty \\leq x \\leq \\infty[/math]",
+          "ঘ": "[math]0"
+        },
+        "question": "x একটি পরিমিত চলক হলে, এর সীমাস্থ মান কত?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392846,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392846,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:36.000000Z",
+            "updated_at": "2025-08-19T05:09:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392847,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "4",
+          "গ": "8",
+          "ঘ": "16"
+        },
+        "question": "পরিমিত বিন্যাসের মধ্যমা = 4 হলে প্রচুরক কত?",
+        "solution": "4",
+        "explanation": "পরিমিত বিন্যাসের গড় = মধ্যমা = প্রচুরক\n\nসুতরাং মধ্যমা = 4 = প্রচুরক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392847,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392847,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:36.000000Z",
+            "updated_at": "2025-08-19T05:09:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392848,
+      "value": {
+        "options": {
+          "ক": "[math]0",
+          "খ": "[math]-\\infty \\leq \\mathrm{x} \\leq \\infty[/math]",
+          "গ": "[math]-1 \\leq x \\leq 1[/math]",
+          "ঘ": "[math]0"
+        },
+        "question": "x একটি পরিমিত চলক হলে, এর সীমাস্থ মান কত?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392848,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392848,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:36.000000Z",
+            "updated_at": "2025-08-19T05:09:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392849,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "4"
+        },
+        "question": "পরিমিত বিন্যাসের পরামিতি কয়টি?",
+        "solution": "2",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392849,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392849,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:36.000000Z",
+            "updated_at": "2025-08-19T05:09:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392850,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি পরিমিত বিন্যাসের গাণিতিক গড় 3 হলে বিন্যাসটির—\n\ni. মধ্যমা = 3\n\nii. প্রচুরক = 3\n\niii. গাণিতিক প্রত্যাশা = 3\n\nনিচের কোনটি সঠিক?",
+        "solution": "i, ii ও iii",
+        "explanation": "যেহেতু পরিমিত বিন্যাসের গড়, মধ্যমা ও প্রচুরক পরস্পর সমান । সুতরাং প্রদত্ত বিন্যাসটির গাণিতিক প্রত্যাশা = গড় = মধ্যমা= প্রচুরক = 3।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392850,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392850,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:36.000000Z",
+            "updated_at": "2025-08-19T05:09:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392851,
+      "value": {
+        "options": {
+          "ক": "গড় \u003E মধ্যমা \u003E প্রচুরক",
+          "খ": "গড় = মধ্যমা = প্রচুরক",
+          "গ": "গড় \u003E ভেদাঙ্ক",
+          "ঘ": "গড় \u003E ভেদাঙ্ক"
+        },
+        "question": "পরিমিত বিন্যাসের ক্ষেত্রে কোনটি সঠিক?",
+        "solution": "গড় = মধ্যমা = প্রচুরক",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392851,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392851,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:36.000000Z",
+            "updated_at": "2025-08-19T05:09:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392852,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "ii"
+        },
+        "question": "পরিমিত বিন্যাসের ক্ষেত্রে-\n\ni. [math]\\beta_{1}=0[/math]\n\nii. [math]\\beta_{2}\u003C3[/math]\n\niii. [math]\\beta_{2}=3[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও iii",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392852,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392852,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:36.000000Z",
+            "updated_at": "2025-08-19T05:09:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392853,
+      "value": {
+        "options": {
+          "ক": "পরিমিত বিন্যাসের পরামিতি কয়টি?",
+          "খ": "পরিমিত বিন্যাসের ভেদাঙ্ক ঋণাত্মক হতে পারে কি? ব্যাখ্যা কর।",
+          "গ": "একটি প্যাকেটে তিনটি ত্রুটিপূর্ণ কলম থাকার সম্ভাবনা নির্ণয় কর।",
+          "ঘ": "সূচলতাঙ্ক নির্ণয়পূর্বক বিন্যাসটির আকৃতি সম্পর্কে মতামত দাও।"
+        },
+        "question": "একটি কারখানার উৎপাদিত কলমের 1.5% ত্রুটিপূর্ণ। প্রতি প্যাকেটে 60টি করে কলম সরবরাহ করা হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপরিমিত বিন্যাসের পরামিতি ২টি। যথা: গড় [math](\\mu)[/math]\u003Cbr\u003E এবং ভেদাঙ্ক [math]\\left(\\sigma^{2}\\right)[/math]\u003Cbr\u003E।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপরিমিত বিন্যাসের ভেদাঙ্ক ঋণাত্মক হতে পারে না। কারণ পরিমিত বিন্যাসের ভেদাঙ্ক [math]\\left(\\sigma^{2}\\right)[/math]\u003Cbr\u003E এর সীমা [math]0\u003C\\sigma^{2}\u003C\\infty[/math]\u003Cbr\u003E তাছাড়া, একটি বর্গরাশির মান সবসময়ই অঋণাত্মক।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, কলম ত্রুটিপূর্ণ হবার সম্ভাবনা, [math]p=\\frac{1.5}{100}=0.015[/math]\u003Cbr\u003E যা নগণ্য এবং নমুনা আকার, n = 60; যা অনেক বেশি।∴ সুতরাং কলম ত্রুটিপূর্ণ হওয়ার সংখ্যার চলক x পৈঁসু বিন্যাস মেনে চলে। বিন্যাসটির পরামিতি, m = np = 60 × 0.015 = 0.9∴ একটি প্যাকেটে তিনটি ত্রুটিপূর্ণ কলম থাকার সম্ভাবনা,[math]\\mathrm{P}(\\mathrm{x}=3)[/math]\u003Cbr\u003E [math]=\\frac{e^{-0.9}(0.9)^{3}}{3 !}[/math]\u003Cbr\u003E [math]=\\frac{0.296}{6}=0.05[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Em পরামিতি বিশিষ্ট পৈঁসু বিন্যাসের সূঁচলতাঙ্ক,[math]\\beta_{2}=3+\\frac{1}{m}[/math]\u003Cbr\u003E [math]=3+\\frac{1}{0.9}=4.11[/math]\u003Cbr\u003Eযেহেতু সূচলতাঙ্ক [math]\\beta_{2}\u003E3[/math]\u003Cbr\u003E সুতরাং বিন্যাসটি অতি সূঁচল।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পরিমিত বিন্যাসের দুটি পরামিতি আছে: [math]n=60[/math] (নমুনার আকার) এবং [math]p=0.015[/math] (ত্রুটির সম্ভাবনা)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভেদাঙ্ক (variance) ঋণাত্মক হতে পারে না, কারণ বিন্যাসের ভেদাঙ্কের সূত্র [math]np(1-p)[/math] এবং এখানে তা হল [math]60\\times0.015\\times0.985=0.8865\u003E0[/math]। ভেদাঙ্ক সবসময় শূন্য অথবা ধনাত্মক থাকে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সম্ভাবনা হচ্ছে [math]P(X=3)={60\\choose3}(0.015)^3(0.985)^{57}[/math], যার মান আনুমানিক [math]0.0488\\approx0.049[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সূচলতাঙ্ক (skewness) [math]\\dfrac{1-2p}{\\sqrt{np(1-p)}}=\\dfrac{1-2(0.015)}{\\sqrt{0.8865}}\\approx1.03[/math], যা ধনাত্মক হওয়ায় বিন্যাসটি ডানদিকে স্খলিত (right-skewed) — মানগুলোর দিকে টেইলটি ডানে দীর্ঘ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4146,
+      "created_at": "2025-08-19T05:09:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392853,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392853,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392853,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392853,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392853,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392853,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392853,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392853,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:36.000000Z",
+            "updated_at": "2025-08-19T05:09:36.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392853,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:36.000000Z",
+            "updated_at": "2025-08-19T05:09:36.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392853,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:36.000000Z",
+            "updated_at": "2025-08-19T05:09:36.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392853,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:36.000000Z",
+            "updated_at": "2025-08-19T05:09:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4146&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4146&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4146&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 12
+}

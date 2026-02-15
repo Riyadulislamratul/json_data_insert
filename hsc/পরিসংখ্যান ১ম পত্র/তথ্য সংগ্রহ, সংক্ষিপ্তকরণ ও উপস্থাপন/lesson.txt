@@ -1,0 +1,4649 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 392329,
+      "value": {
+        "options": [],
+        "question": "তথ্য কী?",
+        "solution": "তথ্যে হলো পরিসংখ্যানিক গবেষনার কাাঁচামাল যা পরিসংখ্যানিক গবেষণার কাজে অনুসন্ধান ক্ষেত্র হতে সংগ্রহ করা হয়।",
+        "explanation": "তথ্য হলো এমন সংগৃহীত উপাত্ত বা বার্তা যা নির্দিষ্ট প্রসঙ্গে অর্থবহ হয়ে ওঠে এবং সিদ্ধান্ত নেওয়া, বিশ্লেষণ বা যোগাযোগে ব্যবহার করা যায়। কারণ কাঁচা উপাত্তকে প্রসঙ্গ ও ব্যাখ্যার মাধ্যমে অর্থোপযোগী করলে সেটিই তথ্য হিসেবে কার্যকর হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392329,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392329,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392329,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392329,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392329,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392329,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392329,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392329,
+            "tag_id": 3179,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392329,
+            "tag_id": 46,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392329,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392329,
+            "tag_id": 6,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392328,
+      "value": {
+        "options": [],
+        "question": "ভেদাঙ্ক কি যেকোনো মান নেয়? ব্যাখ্যা কর।",
+        "solution": "ভেদাঙ্ক যেকোনে মান গ্রহণ করে না।ভেদাঙ্ক গাণিতিক সংজ্ঞা থেকে যা পাই,ভোদাঙ্ক [math]\\sigma^{2}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{2}}{N}=\\frac{\\sum x_{i}}{N}-x^{-2}[/math]যেহেতু বর্গ সংখ্যার মান সর্বদা ঋণাত্মক হয়। সুতরাং ভোদাঙ্ক কখনো ঋণাত্মক মান গ্রহণ করে না।",
+        "explanation": "হ্যাঁ। একটি দ্বিঘাত সমীকরণের ভেদাঙ্ক [math]\\Delta=b^2-4ac[/math] এবং যদি a, b, c বাস্তব হয় তবে উপযুক্ত a, b, c নির্বাচন করে [math]\\Delta[/math] যে কোনো বাস্তব সংখ্যা—ধনাত্মক, শূন্য বা ঋণাত্মক—পাওয়া যায়। ভেদাঙ্কের চিহ্নই নির্দেশ করে মূলগুলোর প্রকৃতি: [math]\\Delta\u003E0[/math] হলে দুইটি ভিন্ন বাস্তব মূল, [math]\\Delta=0[/math] হলে সমমূল (দ্বৈত মূল), আর [math]\\Delta\u003C0[/math] হলে যুগ্ম জটিল মূল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392328,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392328,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392328,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392328,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392328,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392328,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392328,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392328,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392328,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392328,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392328,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392328,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392328,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392328,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392327,
+      "value": {
+        "options": [],
+        "question": "“বিভেদাঙ্ক একটি একক মুক্ত সংখ্যা”- ব্যাখ্যা কর।",
+        "solution": "আমরা জানি, x চলকের পরিমিত ব্যবধান [math]\\sigma[/math]\u003Cbr\u003E এবং গাণিতিক গড় হলে বিভেদাঙ্ক, [math]\\mathrm{CV}=\\frac{\\sigma}{\\bar{x}} \\times 100[/math]\u003Cbr\u003Eবিস্তৃতির পরম পরিমাপ। এটি চলকের এককে প্রকাশিত।অনুরূপভাবে, [math]\\bar{x}[/math]\u003Cbr\u003E কেন্দ্রীংয় প্ররণতার পরম পরিমাপ। এটিও ছলকের এককে প্রকামিত। বিভেদাঙ্ক নির্ণয়ের ক্ষেত্রে [math]\\sigma[/math]\u003Cbr\u003E কে [math]\\bar{x}[/math]\u003Cbr\u003E দ্বারা ভাগ দেওয়ার সম এদের সাধারণ এক সাধঅরণ উ’পাদকেরূপে বাদ হয়ে যায় এককবিহীন একটি সংখ্যা সৃষ্টি করে এই এককবিহীন সখখখ্যাক 100 দিয়ে গুণ করে একক বিহীন বিভেদাঙ্ক পাওয়া য়ায়। সুতরাং বিভেদাঙ্ক একটি এককবিহীন সংখ্যা-উক্তিটি যথার্থ।",
+        "explanation": "ব্যাখ্যা: একক বলতে পূর্ণসংখ্যার সেই উপাদানগুলোকে বোঝায় যাদের গুণনীয় বিপরীত থাকে, অর্থাৎ [math]±1[/math]। যখন বলা হয় “বিভেদাঙ্ক একটি একক মুক্ত সংখ্যা”, তখন অর্থ হচ্ছে ওই বিভাজকটিকে একক নয় (অর্থাৎ [math]±1[/math] নয়) ধরে নেওয়া হয়, কারণ এককগুলোকে সাধারণভাবে তুচ্ছ ধরে বাদ দেওয়া হয় এবং গুরুত্বপূর্ণ বিভাজকগুলোকে একক মুক্ত ধরা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392327,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392327,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392327,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392327,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392327,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392327,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392327,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392327,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392322,
+      "value": {
+        "options": [],
+        "question": "গণসংখ্যা কী?",
+        "solution": "তথ্য সারিতে চলকের কোনো মানের পুনরাবৃত্তিকেই ঐ মানের গণসংখ্যা বলে।",
+        "explanation": "গণসংখ্যা হলো নির্দিষ্ট সময় ও নির্দিষ্ট ভৌগোলিক সীমার মধ্যে থাকা সমস্ত ব্যক্তি বা উপাদানের মোট সংখ্যা। পরিসংখ্যান학ে এটি সেই সমগ্র সত্তা বা ইউনিটগুলোর সমষ্টি যাদের সম্পর্কে তথ্য বা সিদ্ধান্ত নিতে চাওয়া হয় (যেখানে নমুনা ওই সমষ্টির অংশ মাত্র)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392322,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392322,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392322,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392322,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392322,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392322,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392322,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392322,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392322,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392322,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392322,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392322,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392322,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392322,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392321,
+      "value": {
+        "options": {
+          "ক": "তথ্য উপস্থাপন বলতে কি বুঝ ?",
+          "খ": "কখন মাধ্যমিক তথ্য প্রাথমিক তথ্যের চেয়ে শ্রেয়? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের তথ্য থেকে উপযুক্ত শ্রেণিব্যাপ্তি নিয়ে একটি গণসংখ্যা নিবেশন তৈরি কর।",
+          "ঘ": "লেখ হতে প্রচুরক নির্ণয়পূর্বক এর মানের ব্যাখ্যা দাও ।"
+        },
+        "question": "দ্বাদশ শ্রেণির কোনো একটি বিষয়ে 20 জন ছাত্রের প্রাপ্ত নম্বর নিম্নরূপ :\n\n72, 32, 68, 60, 52, 55, 45, 60, 72, 20,\n\n50, 65, 60, 45, 85, 55, 70, 42, 80, 65",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপরিসাংখ্যিক গবেষণার কাজে সংগৃহীত তথ্যকে প্রক্রিয়াজাতকরণ দ্বারা ভুল-ত্রুটি সংশোধন করে নির্ভরযোগ্য, সংক্ষিপ্ত, সহজবোধ্য ও বিশ্লেষণ উপযোগী করে তোলার প্রক্রিয়াকে তথ্য উপস্থাপন বলা হয় ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eযখন কোনো অনুসন্ধানে বা গবেষণায় অর্থ, সময় এবং জনবল অপর্যাপ্ত থাকে তখন প্রাথমিক তথ্যের তুলনায় মাধ্যমিক তথ্য ভালো। তাছাড়া সরাসরি উচ্চতর পরিসংখ্যানিক পদ্ধতি প্রয়োগ করতে মাধ্যমিক তথ্য বহুল ব্যবহৃত হয়। এছাড়া অনেক ক্ষেত্রে প্রাথমিক তথ্য সংগ্রহ করা সম্ভব হয় না। তখন মাধ্যমিক তথ্য প্রাথমিক তথ্যের চেয়ে শ্রেয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eপ্রদত্ত তথ্যের সর্বনিম্ন মান = 20 এবং সর্বোচ্চ মান = 85পরিসর = সর্বোচ্চ মান সর্বনিম্ন মান = 85-20=65শ্রেণিব্যাপ্তি =65252.6 এবং 652=13 এর মধ্যবর্তী একটি সংখ্যা।শ্রেণিব্যাপ্তি 10 নিয়ে শ্রেণি সংখ্যা =6510=6. ≈ 7 টি।গণসংখ্যা নিবেশন সারণি :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-08022420chapter-3-all-board-cq-1_1755579997_UFjtyNEC.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E(গ) নং হতে পাই,\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-2_1755579997_ZU8mhD6Q.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখন, X-অক্ষ বরাবর শ্রেণিসীমা এবং Y-অক্ষ বরাবর গণসংখ্যা বসিয়ে আয়তলেখ অঙ্কন করি। X-অক্ষ বরাবর প্রতি ক্ষুদ্রতম বর্গঘরকে 2 একক এবং Y-অক্ষ বরাবর 5 বর্গ ঘরকে । একক বিবেচনা করি।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-3_1755579996_BrNEsmDM.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eআয়তলেখ হতে দেখা যাচ্ছে (59.5-69.5) শ্রেণিতে সর্বোচ্চ সংখ্যক ছাত্র বিদ্যমান। এখন (59.5-69.5) শ্রেণির উচ্চসীমা হতে পূর্ববর্তী শ্রেণির উচ্চসীমা এবং (59.5-69.5) শ্রেণির নিম্নসীমা হতে পরবর্তী শ্রেণির নিম্নসীমা যৌগ করি। ছেদবিন্দু হতে X-অক্ষের উপর লম্ব অঙ্কন করি। যা X-অক্ষকে 63.5 বিন্দুতে ছেদ করে। সুতরাং নির্ণেয় প্রচুরক 63.5।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তথ্য উপস্থাপন বলতে বুঝায় কাঁচা সংখ্যাগত বা বর্ণনামূলক ডেটাকে সাজিয়ে টেবিল, শ্রেণিব্যাপ্তি, বার চার্ট, পিএইচ বা পাই চার্ট ইত্যাদির মাধ্যমে এমনভাবে প্রদর্শন করা যাতে তথ্যের প্যাটার্ন ও স্বরূপ সহজে বোঝা যায়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মাধ্যমিক (secondary) তথ্য তখন প্রাথমিক (primary) তথ্যের চেয়ে শ্রেয় হয় যখন সময় বা খরচ কমাতে হবে, বৃহৎ বা ঐতিহাসিক ডেটা দরকার কিংবা সরকারি/প্রকাশিত ডেটা ইতোমধ্যে নির্ভরযোগ্যভাবে সংগ্রহ করা আছে; এতে পুনরায় সংগ্রহের প্রয়োজন পড়ে না এবং তাত্ত্বিক বিশ্লেষণ দ্রুত করা যায়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উপযুক্ত শ্রেণিব্যাপ্তি ও গণসংখ্যা নিবেশন (ফ্রিকোয়েন্সি):  \n[math]20–29: 1[/math]  \n[math]30–39: 1[/math]  \n[math]40–49: 3[/math]  \n[math]50–59: 4[/math]  \n[math]60–69: 6[/math]  \n[math]70–79: 3[/math]  \n[math]80–89: 2[/math]  \nমোট: [math]N=20[/math].  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রচুরক (mode) হল সর্বাধিক ঘনঘন দেখা মান; এখানে [math]60[/math] সর্বোচ্চ বার দেখা গেছে (ফ্রিকোয়েন্সি [math]f(60)=3[/math]) তাই প্রচুরক = [math]60[/math], অর্থাৎ সবচেয়ে সাধারণ বা প্রভূত সংখ্যক ছাত্রের নম্বর ছিল [math]60[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392321,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392321,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392321,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392321,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392321,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392321,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392321,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392321,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392321,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392321,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392321,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392323,
+      "value": {
+        "options": [],
+        "question": "গণসংখ্যা কী?",
+        "solution": "তথ্য সারিতে চলকের কোনো মানের পুনরাবৃত্তিকেই ঐ মানের গণসংখ্যা বলে।",
+        "explanation": "ব্যাখ্যা: গণসংখ্যা হলো কোনো গবেষণা বা বিশ্লেষণের সেই সম্পূর্ণ সমষ্টি — অর্থাৎ সব ব্যক্তি, বস্তু বা উপাদান যার সম্পর্কে তথ্য বা সিদ্ধান্ত জানা বা জানাতে চাওয়া হয়। এটি সঠিক কারণ প্যারামিটার নির্ণয়ের জন্য পুরো সমষ্টিকে ধরেই কাজ করা হয়, যেখানে নমুনা শুধু তার একটি উপসেট।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392323,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392323,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392323,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392323,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392323,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392323,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392323,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392323,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392323,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392323,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392323,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392323,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392323,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392323,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392324,
+      "value": {
+        "options": [],
+        "question": "কেন্দ্রিয় প্রবণতার পরিমাপ কী?",
+        "solution": "কোন তথ্যসারির উপাদানগুলোর অর্থাৎ সংখ্যত্মক তথ্যগুলোর নির্দিষ্ট কেন্দ্রিয় মানের দিকে পুঞ্জীভূত হওয়ার প্রবণাতাকে কেন্দ্রিয় প্রবণতা বলে।",
+        "explanation": "ব্যাখ্যা: কেন্দ্রীয় প্রবণতার পরিমাপ হলো এমন একটি পরিসংখ্যানিক মান যা কোনো ডেটাসেটের সাধারণ বা “প্রতিনিধি” মানকে সংক্ষিপ্তভাবে প্রকাশ করে; প্রধান তিনটি হলো গড় (mean), মধ্যক (median) এবং মোড (mode)। এগুলোই দেখায় ডেটা কোথায় কেন্দ্রীভূত—গড় সামগ্রিক মান দেয়, মধ্যক অসমতা থাকলে কেন্দ্রীয় অবস্থান রক্ষা করে, এবং মোড সবচেয়ে ঘনঘটিত মান নির্দেশ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392324,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392324,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392324,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392324,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392324,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392324,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392324,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392324,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392325,
+      "value": {
+        "options": [],
+        "question": "মধ্যমা কী?",
+        "solution": "তথ্যসারির মানগুলোর ছোট থেকে বড় বা বড় থেকে ছোট আকারে সাজানোর পর এর ঠিক মধ্যমানটিই হলো মধ্যমা।",
+        "explanation": "মধ্যমা হলো সাজানো ডেটাসেটের এমন কেন্দ্রীয় মান যা উপরের অর্ধেক ও নীচের অর্ধেককে আলাদা করে দেয়। আইটেম সংখ্যা বিজোড় হলে মাঝের সংখ্যাটাই মধ্যমা, আর জোড় হলে দুইটি মাঝের সংখ্যার গড় — অর্থাৎ [math]\\frac{a_{n/2}+a_{n/2+1}}{2}[/math] — হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392325,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392325,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392325,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392325,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392325,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392325,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392325,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392325,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392325,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392325,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392325,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392325,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392325,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392325,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392326,
+      "value": {
+        "options": [],
+        "question": "পরিমিত ব্যবধানের সংজ্ঞা দাও।",
+        "solution": "কোনো নিবেশনের গড় থেকে সংখ্যাগুলোর ব্যবধানের বর্গের সমষ্টিকে পদসংখ্যা দ্বারা ভাগ করলে যে মান পাওয়া যায় তার ব্যবধানও বলে এটিকে SD বা দ্বারা প্রকাশ করা হয়।",
+        "explanation": "পরিমিত ব্যবধান হলো দুইটি বিন্দু A এবং B–এর মধ্যে একটি বাস্তব ধনাত্মক সংখ্যা [math]d(A,B)[/math] যা নিম্নলিখিত শর্তগুলো পূরণ করে: (i) [math]d(A,B) \\ge 0[/math] এবং [math]d(A,B)=0[/math] কেবল তখনই যখন [math]A=B[/math], (ii) [math]d(A,B)=d(B,A)[/math], এবং (iii) ত্রিভুজ অসমতা: [math]d(A,C) \\le d(A,B)+d(B,C)[/math]. এই শর্তগুলো নিশ্চিত করে যে [math]d[/math] সত্যিই দুই বিন্দুর মধ্যে পরিমাপযোগ্য “দূরত্ব” হিসেবে আচরণ করে, তাই এটি পরিমিত ব্যবধানের সঠিক সংজ্ঞা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392326,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392326,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392326,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392326,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392326,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392326,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392326,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:37.000000Z",
+            "updated_at": "2025-08-19T05:06:37.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392326,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:38.000000Z",
+            "updated_at": "2025-08-19T05:06:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392320,
+      "value": {
+        "options": {
+          "ক": "বিচ্ছিন্ন চলক কাকে বলে?",
+          "খ": "বাড়ির নম্বর কোন ধরনের পরিমাপন স্কেল? ব্যাখ্যা কর।",
+          "গ": "প্রাপ্ত তথ্য থেকে উপযুক্ত শ্রেণিব্যাপ্তি নিয়ে একটি গণসংখ্যা নিবেশন তৈরি কর।",
+          "ঘ": "প্রাপ্ত গণসংখ্যা নিবেশন থেকে একটি আয়তলেখ অঙ্কন কর। কোন বয়স শ্রেণির শিশুরা বেশি ডায়রিয়ায় আক্রান্ত হয়েছে সে সম্বন্ধে মন্তব্য কর।"
+        },
+        "question": "রাকিবকে তার শিক্ষক শিশু হাসপাতালে ডায়রিয়া আক্রান্ত 20 জন শিশুর বয়সের তথ্য সংগ্রহ করতে বললেন। রাকিব যে তথ্য সংগ্রহ করল তা নিম্নরূপ: 5, 1, 2, 6, 4, 7, 10, 12, 6, 11, 5, 8, 10, 8,\n\n11, 7, 8, 14, 9, 8",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে সকল চলক কেবল পরিমাণযোগ্য পৃথক পৃথক মান গ্রহণ করে তাকে বিচ্ছিন্ন চলক বলে। বিচ্ছিন্ন চলককে অনেক সময় বিরত চলকও বলা হয়। $\\\\[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eবাড়ির নম্বর নামসূচক পরিমাপন স্কেল। আমরা জানি, যে পরিমাপন স্কেলের সাহায্যে কোনো বৈশিষ্ট্য, বস্তু বা ঘটনাকে প্রতীক বা সংখ্যা দ্বারা একটি বিশেষ পরিচিতি প্রদান করা হয় তাকে নামসূচক পরিমাপন স্কেল বলে। এক্ষেত্রে বাড়ির নম্বর একটি সংখ্যা মাত্র এবং এ দিয়ে ঐ বাড়ির পরিচয় নির্ধারণ হয়। একে অন্য কোনো মানের সাথে যোগ, বিয়োগ গুণ, ভাগ করা যায় না। সুতরাং এটি একটি নামসূচক পরিমাপন স্কেল।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eপ্রদত্ত তথ্যসারির বৃহত্তম সংখ্যা = 14 এবং ক্ষুদ্রতম সংখ্যা = 1∴ পরিসর = বৃহত্তম সংখ্যা – ক্ষুদ্রতম সংখ্যা = 14 – 1 = 13 - যেহেতু শ্রেণির সংখ্যা সাধারণত 5 হতে 25 এর মধ্যে রাখা হয়।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-8_1755579994_t5duJ5zA.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএর মধ্যবর্তী কোনো সুবিধাজনক সংখ্যাকে ধরা হয়। ধরা যাক, শ্রেণি ব্যবধান 2.বহির্ভুক্ত পদ্ধতিতে গণসংখ্যা নিবেশন নিম্নরূপ:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-9_1755579993_QMngbOMd.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' নং এ প্রাপ্ত গণসংখ্যা নিবেশনকে আয়তলেখের সাহায্যে উপস্থাপন করা হলো:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-10_1755579991_0HWN5DOH.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eউপরের আয়তলেখ থেকে দেখা যায়, প্রচুরক শ্রেণি হচ্ছে (7-9)। সুতরাং যেসব শিশুর বয়স 7 থেকে 9 বছরের মধ্যে তারা বেশি ডায়রিয়ায় আক্রান্ত হচ্ছে।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বিচ্ছিন্ন চলক হচ্ছে এমন একটি চলক যার মানগুলি পৃথক, গোড়া সংখ্যা হিসেবে গোনা যায় (ভগ্নাংশ বা অনন্ত সূচক নয়); এ ক্ষেত্রে বছরে নেওয়া বয়সগুলো whole number হওয়ায় এটি বিচ্ছিন্ন চলক।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বাড়ির নম্বর হল নামমাত্র (nominal) স্কেল, কারণ তা কেবল একটি পরিচয় বা লেবেল — তার উপর গণিতীয় অপারেশন অর্থপূর্ণ নয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উপযুক্ত শ্রেণিব্যাপ্তি (বর্গপ্রস্থ = [math]3[/math]) ও গণসংখ্যা নিবেশন:\n[math]1\\text{-}3:\\;2[/math]  \n[math]4\\text{-}6:\\;5[/math]  \n[math]7\\text{-}9:\\;7[/math]  \n[math]10\\text{-}12:\\;5[/math]  \n[math]13\\text{-}15:\\;1[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E আয়তলেখ অঙ্কনের নির্দেশ: x-অক্ষে শ্রেণি [math]1\\text{-}3,\\;4\\text{-}6,\\;\\dots[/math], y-অক্ষে তদনুপাতে ফ্রিকোয়েন্সি রেক্ট্যাঙ্গেল আঁকুন (উপরের ফ্রিকোয়েন্সি অনুযায়ী উচ্চতা)। মন্তব্য: শ্রেণি [math]7\\text{-}9[/math]-এর শিশু সংখ্যা সর্বাধিক ([math]7[/math]), তাই এই বয়স শ্রেণির শিশুরাই বেশি ডায়রিয়ায় আক্রান্ত হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392320,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392320,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392320,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392320,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392320,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392320,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392320,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392320,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:34.000000Z",
+            "updated_at": "2025-08-19T05:06:34.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392320,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:34.000000Z",
+            "updated_at": "2025-08-19T05:06:34.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392320,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:34.000000Z",
+            "updated_at": "2025-08-19T05:06:34.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392320,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:34.000000Z",
+            "updated_at": "2025-08-19T05:06:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392319,
+      "value": {
+        "options": {
+          "ক": "তথ্য কি? খ .“প্রাথমিক তথ্য সংগ্রহ করা অপেক্ষাকৃত জটিল।”— ব্যাখ্যা কর।",
+          "গ": "সিফাত এর ব্যবহৃত পদ্ধতিটি বর্ণনা কর ।",
+          "ঘ": "এলিন এর দাবির সত্যতা বিশ্লেষণপূর্বক তোমার মতামত ব্যক্ত কর।"
+        },
+        "question": "একজন গবেষক রংপুর শহরের দিনমজুরের আর্থসামাজিক অবস্থা জানার জন্য এলিন ও সিফাত নামের দুইজন তথ্যসংগ্রহকারী নিয়োগ করলেন। এলিন একটি প্রশ্নপত্র তৈরি করে মাঠ পর্যায়ে গিয়ে দিনমজুরদের নিকট থেকে তথ্য সংগ্রহ করলেন এবং সিফাত পরিসংখ্যান বর্ষপঞ্জি থেকে তথ্য সংগ্রহ করলেন। এলিন দাবি করলেন যে তার ব্যবহৃত পদ্ধতি অধিক গ্রহণযোগ্য।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eতথ্য হলো পরিসংখ্যানিক গবেষণার কাঁচামাল যা পরিসংখ্যানিক গবেষণার কাজে অনুসন্ধান ক্ষেত্র হতে সংগ্রহ করা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপ্রাথমিক তথ্য সংগ্রহ করা জটিল কারণ প্রাথমিক তথ্য মাঠ পর্যায় থেকে সংগ্রহ করা হয়। এ কাজে প্রচুর জনবল প্রয়োজন হয়। তাছাড়া তথ্যকে শ্রেণিকরণ, সারণিকরণ, সংক্ষিপ্তকরণ ও ব্যবহার উপযোগী করে উপস্থাপন করতেও প্রচুর পরিমাণে অর্থ, জনবল ও সময় প্রয়োজন হয়। এ কারণে প্রাথমিক তথ্য সংগ্রহ করা জটিল[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eসিফাত এর ব্যবহৃত পদ্ধতিটি হল মাধ্যমিক তথ্য সংগ্রহ পদ্ধতি । যেসব তথ্য পূর্ব প্রকাশিত বা সংগৃহীত তথ্য হতে সংগ্রহ করা হয়, তাকে মাধ্যমিক বা পরোক্ষ তথ্য বলে। মূলত কোনো একটি গবেষণার বা কাজের জন্য সংগৃহীত তথ্য যদি অন্য কোনো কাজে ব্যবহৃত হয় তবে দ্বিতীয় ক্ষেত্রে ব্যবহৃত তথ্যসারির নাম হবে মাধ্যমিক তথ্য। প্রকৃতিগতভাবে এ তথ্য অমৌলিক এবংঅপেক্ষাকৃত কম নির্ভরযোগ্য। এ পদ্ধতির উৎস হলো দুইটি ।(ক) প্রকাশিত উৎস (খ) অপ্রকাশিত উৎসপ্রকাশিত উৎস : বড় বড় প্রতিষ্ঠানে যে তথ্য বা ডাটা সংগ্রহ করা হয় তা সুশৃঙ্খলভাবে নিয়মক্রম অনুসারে সাজিয়ে পুস্তকাকারে প্রকাশ করা হয়। প্রকাশিত এসব তথ্যই হলো তথ্যের প্রকাশিত উৎস। বিভিন্ন আন্তর্জাতিক প্রতিষ্ঠান, সরকারি ও আধা সরকারি প্রতিষ্ঠান, এন.জি.ও, বাণিজ্যিক প্রতিষ্ঠান প্রভৃতি এসব প্রকাশনার প্রধান উদ্যোক্তা।অপ্রকাশিত উৎস: মাধ্যমিক তথ্যের প্রকাশিত ও অপ্রকাশিত উৎসের মধ্যে প্রধান পার্থক্য হলো প্রকাশিত উৎসগুলো তথ্য সংগ্রহের পর পুস্তাকাকারে তা প্রকাশ করে কিন্তু অপ্রকাশিত উৎসগুলো তথ্য সংগ্রহের পর তা প্রকাশ করে না।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএলিন একটি প্রশ্নপত্র তৈরি করে মাঠ পর্যায়ে গিয়ে দিনমজুরদের নিকট থেকে তথ্য সংগ্রহ করলেন। সুতরাং তার সংগৃহীত তথ্যটি হলো প্রাথমিক তথ্য। অপরদিকে সিফাত পরিসংখ্যান বর্ষপঞ্জি থেকে তথ্য সংগ্রহ করলেন । তার সংগৃহীত তথ্যটি হলো মাধ্যমিক তথ্য। প্রাথমিক তথ্য অনুসন্ধান ক্ষেত্র থেকে সরাসরি সংগ্রহ করা হয়। অপরদিকে মাধ্যমিক তথ্য পূর্ব প্রকাশিত বা সংগৃহীত তথ্য হতে সংগ্রহ করা হয়। তাই প্রাথমিক তথ্য মাধ্যমিক তথ্য অপেক্ষা অধিক সময় সাপেক্ষ ও ব্যয়বহুল হলেও নির্ভরযোগ্যতার ব্যাপারে প্রাথমিক তথ্যই বেশি নির্ভরযোগ্য। কারণ প্রাথমিক তথ্য প্রত্যক্ষভাবে অনুসন্ধান ক্ষেত্র থেকে সংগ্রহ করা হয়। তাছাড়া মাধ্যমিক তথ্য সঠিকভাবে সংগৃহীত হয়েছে কিনা বা সংগৃহীত তথ্য সঠিকভাবে উপস্থাপিত করা হয়েছে কিনা সে বিষয়ে সংশয় থাকে যা প্রাথমিক তথ্যে থাকে না। সুতরাং এলিনের দাবিটি যথার্থ।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তথ্য হলো গবেষণা বা পর্যবেক্ষণের মাধ্যমে সংগৃহীত বাস্তব ঘটনা, পরিমাপ বা পর্যবেক্ষণের নম্বরগত ও বর্ণনামূলক উপাত্ত যা বিশ্লেষণ করে সিদ্ধান্ত নেওয়া হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কারণ প্রাথমিক তথ্য সংগ্ৰহে সরাসরি মাঠে যেতে হয়, প্রশ্নপত্র/উপকরণ তৈরি ও নমুনা নির্বাচন করতে হয়, এতে সময়, শ্রম ও খরচ বেশি লাগে এবং উত্তরদাতার সহযোগিতা বা পক্ষপাতজনিত সমস্যা হতে পারে। এই সব কারণে প্রাথমিক তথ্য সংগ্রহ অপেক্ষাকृत জটিল।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সিফাত পরিসংখ্যান বর্ষপঞ্জি থেকে সংগৃহীত ডেটা ব্যবহার করেছেন, যা গৌণ (secondary) তথ্য—প্রকাশিত উৎস থেকে নেওয়া, সহজলভ্য ও তুলনামূলক হলেও অনেকবার স্থানীয় নির্দিষ্ট প্রয়োজনে অপ্রতুল বা সময়োপযোগী না হতে পারে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E এলিনের দাবি আংশিকভাবে যুক্তিযুক্ত: প্রাথমিক তথ্য সাধারণত নির্দিষ্ট, আপ-টু-ডেট ও গবেষণার উদ্দেশ্যে উপযোগী হওয়ায় গ্রহণযোগ্যতা বেশি হতে পারে; তবু গ্রহণযোগ্যতা নির্ভর করে মাঠে সংগ্ৰহের পদ্ধতি, নমুনার মান ও পক্ষপাত মুক্তির ওপর—অর্থাৎ ভালভাবে করা প্রাথমিক গবেষণা বেশি গ্রহণযোগ্য, নতুবা গৌণ ডেটাও মূল্যবান হতে পারে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392319,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392319,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392319,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392319,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392319,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392319,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392319,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392319,
+            "tag_id": 6,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:30.000000Z",
+            "updated_at": "2025-08-19T05:06:30.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392319,
+            "tag_id": 7,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:30.000000Z",
+            "updated_at": "2025-08-19T05:06:30.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392319,
+            "tag_id": 3179,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:30.000000Z",
+            "updated_at": "2025-08-19T05:06:30.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392319,
+            "tag_id": 46,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:30.000000Z",
+            "updated_at": "2025-08-19T05:06:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392318,
+      "value": {
+        "options": {
+          "ক": "নমুনা কী?",
+          "খ": "সারাহ বুদ্ধিমতী— ইহা কি পরিসংখ্যান? ব্যাখ্যা কর ।",
+          "গ": "ব্যাংক-A এর তথ্যগুলোকে দণ্ডচিত্রের মাধ্যমে উপস্থাপন কর। -",
+          "ঘ": "উদ্দীপকের ব্যাংক A ও ব্যাংক - B এর তথ্য উপস্থাপন পদ্ধতির মধ্যে কোন পদ্ধতি তথ্য উপস্থাপনে অধিক উপযোগী? মন্তব্য কর ।"
+        },
+        "question": "দুটি ব্যাংক তাদের নিজ নিজ ওয়েবসাইটে হিসাবের প্রকৃতি অনুযায়ী গ্রহক সংখ্যা তথ্য নিম্নরূপে উপস্থাপন করলো:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-4_1755579988_ShOWa4cl.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপ্রতিনিধিত্বশীল অংশ যা সমগ্রক বা তথ্যবিশ্বের বৈশিষ্ট্য বহন করে থাকে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eসারাহ বুদ্ধিমতী— ইহা পরিসংখ্যান নয়।কোনো তথ্য পরিসংখ্যান হতে হলে তা অবশ্যই সংখ্যায় প্রকাশিত হতে হবে।যে সকল তথ্য সংখ্যায় প্রকাশ করা যায় না তাকে পরিসংখ্যান বলা যায় না। যেমন— মানুষের বয়স, উচ্চতা, ওজন ইত্যাদিকে সংখ্যায় এবং এককের মাধ্যমে প্রকাশ করা যায়, তাই এগুলি পরিসংখ্যান। কিন্তু মেধা পরিসংখ্যান নয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eনিম্নে ব্যাংক A এর তথ্যগগুলোকে দন্ড চিত্রের মাধ্যমে উপস্থাপনকরা হলো : ছক কাগজে X-অক্ষ বরাবর হিসাবের প্রকৃতি ও Y-অক্ষ বরাবর হিসাবের সংখ্যা নিয়ে দণ্ডচিত্র আঁকা হলো । \u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-6_1755579990_GGqfULRl.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের ব্যাংক A এর তথ্য উপস্থাপন পদ্ধতি হলো সারণিকরণ বা তালিকাবদ্ধকরণ পদ্ধতি। অপরদিকে ব্যাংক B এর তথ্য উপস্থাপন পদ্ধতিটি হলো চিত্র পদ্ধতি যা কৌণিক বা পাই চিত্রের মাধ্যমে প্রকাশ করা হয়েছে। এ দুই পদ্ধতির মধ্যে কৌণিক বা পাই চিত্রের মাধ্যমে উপস্থাপিত চিত্র অধিক উপযোগী, নিম্নে কারণ বর্ণনা করা হলো :(i) আকর্ষণীয় ও চিত্রাকর্ষক: সারণির চেয়ে চিত্র বেশি আকর্ষণীয় ও চিত্রাকর্ষক হয় । ফলে চিত্রের মাধ্যমে উপস্থাপিত তথ্য অনেক দিন মনে রাখা যায়।(ii) সময় ও অর্থের অপচয় হ্রাস: চিত্রের মাধ্যমে তথ্য উপস্থাপনে সময় ও অর্থ কম লাগে।(iii) প্রকৃতি নির্ধারণ: চিত্রে উপস্থাপনের ফলে তথ্যসারির প্রকৃতি সম্পর্কে সাধারণ ধারণা পাওয়া যায়।(iv) স্থায়িত্ব: চিত্রে উপস্থাপিত তথ্যের প্রতিবেদন ও স্থায়ীত্ব অনেক বেশি। সুতরাং বলা যায় যে, ব্যাংক-B এর তথ্য উপস্থাপন পদ্ধতি অধিক উপযোগী।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নমুনা হলো কোনো বড় জনসংখ্যা থেকে নেওয়া প্রতিনিধিত্বমূলক অংশ বা পর্যবেক্ষণসমষ্টি; যদি উক্ত টেবিলে ব্যাংকের সমস্ত গ্রাহক নয় বরং কিছু নির্বাচিত গ্রুপ দেখানো হয় তাহলেই তা নমুনা। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হ্যাঁ— এটি পরিসংখ্যানগত উপস্থাপন, কারণ এখানে গ্রাহকের প্রকৃতি অনুযায়ী সংখ্যাসমূহ সংগ্রহ ও সংক্ষিপ্তভাবে উপস্থাপন করা হয়েছে (বর্ণনামূলক পরিসংখ্যান)। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাংক‑A এর জন্য দণ্ডচিত্র আঁকার উপায়: x‑অক্ষেও অ্যাকাউন্টের ধরণ, y‑অক্ষেও গ্রাহকসংখ্যা রাখো; প্রতিটি ধরণের জন্য সমপ্রস্থ বার তুল এবং উপর বা পাশে যথাযথ সংখ্যা লিখে লেবেল ও স্কেল যোগ করো। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E তুলনার জন্য দণ্ডচিত্র বেশি উপযোগী কারণ তা বিভিন্ন শ্রেণির মধ্যে সরাসরি তুলনা সহজ করে; কিন্তু অংশ‑বোধ দেখাতে পাই চার্ট উপকারী—অবশ্য উদ্দেশ্য অনুযায়ী পদ্ধতি নির্ধারণ করা উচিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392318,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392318,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392318,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392318,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392318,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392318,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392318,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392318,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:30.000000Z",
+            "updated_at": "2025-08-19T05:06:30.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392318,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:30.000000Z",
+            "updated_at": "2025-08-19T05:06:30.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392318,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:30.000000Z",
+            "updated_at": "2025-08-19T05:06:30.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392318,
+            "tag_id": 47,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:30.000000Z",
+            "updated_at": "2025-08-19T05:06:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392317,
+      "value": {
+        "options": {
+          "ক": "চলক কী?",
+          "খ": "যে কোনো সংখ্যাই কী পরিসংখ্যান? ব্যাখ্যা কর ।",
+          "গ": "উদ্দীপকের তথ্য হতে উপযুক্ত শ্রেণিব্যাপ্তি নিয়ে একটি গণসংখ্যা নিবেশন তৈরি কর।",
+          "ঘ": "উদ্দীপকের তথ্যে অধিক সংখ্যক দিনে যাতায়াত ভাড়া বাবদ যে খরচ হয় তা উপযুক্ত লেখচিত্র অংকনপূর্বক মন্তব্য কর।"
+        },
+        "question": "মোজাম্মেল সাহেবের বাসস্থান থেকে কর্মস্থলে প্রতিদিনের যাতায়াতের ভাড়া বাবদ 20 দিনের খরচ (টাকা) দেওয়া হলো : 71, 63, 84, 75, 51, 65, 40, 48, 50, 62, 49, 55, 74, 60, 53, 54, 71, 80, 64, 69",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে বৈশিষ্ট্য সমগ্রক বা নমুনার এককের সাপেক্ষে গুণে বা পরিমাণে পরিবর্তিত হয় তাকে চলক বলে। চলককে সাধারণত x, y, z ইত্যাদি দ্বারা প্রকাশ করা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eযে কোনো একটি সংখ্যা পরিসংখ্যান কিনা তা নির্ভর করে সংখ্যাটির বৈশিষ্ট্যের উপর। অর্থাৎ যেকোনো একটি সংখ্যা পরিসংখ্যান হতেও পারে আবার নাও হতে পারে। যদি সংখ্যাটি দ্বারা কোনো সমগ্রকের বৈশিষ্ট্য প্রকাশ করা হয় তাহলে সংখ্যাটিকে পরিসংখ্যান বলা হবে। আবার যদি সংখ্যাটি দ্বারা কোনো একক তথ্য প্রকাশ করা হয় তাহলে তা পরিসংখ্যান নয়।যেমন: ধরা যাক, একজন ছাত্রের উচ্চতা 67 ইঞ্চি যা পরিসংখ্যান নয় কিন্তু যদি কোনো ক্লাসের ছাত্রদের গড় উচ্চতা 67 ইঞ্চি হয়, তবে তা অবশ্যই পরিসংখ্যান। কেননা গড় উচ্চতা দ্বারা সমগ্র ক্লাসের ছাত্রদের উচ্চতা প্রকাশ করা হয়েছে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eপ্রদত্ত উপাত্তটির সর্বনিম্ন মান 40 এবং সর্বোচ্চ মান 84∴ পরিসর =48+40=44সুতরাং শ্রেণিব্যাপ্তি 10 ধরে নির্ণেয় শ্রেণিসংখ্যা [math]=\\frac{44}{10}=4.4 \\approx 5[/math]\u003Cbr\u003Eটিসুতরাং মোজাম্মেল সাহেবের কর্মস্থলে যাওয়ার ভাড়া বাবদ খরচেরগণসংখ্যা সারণি হলো:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-11_1755579987_f6PjwuUP.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eগ' নং এর গণসংখ্যা নিবেশনের আয়তলেখ থেকে প্রচুরক নির্ণয়:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-12_1755579985_sBBPHHP3.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eছক কাগজে x-অক্ষে খরচ ও y-অক্ষে দিন নিয়ে আয়তলেখ অংকন পূর্বক (60-70) শ্রেণিটি প্রচুরক শ্রেণি হিসেবে বিবেচিত হয়। তাহলে (50-60) শ্রেণির ডান শীর্ষ হতে (60-70) শ্রেণির ডান শীর্ষ এবং (60-70) শ্রেণির বাম শীর্ষ হতে (70-80) শ্রেণির বাম শীর্ষ যোগ করলে যে ছেদবিন্দু পাওয়া যায় সেই বিন্দু হতে x-অক্ষে অঙ্কিত লম্বের ছেদ বিন্দুই প্রচুরক।ঐ বিন্দু হতে অঙ্কিত লম্বটি x-অক্ষকে 63 বিন্দুতে ছেদ করে। সুতরাং অধিক সংখ্যক দিনের যাতায়াত ভাড়া 63 টাকা।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চলক: যাতায়াতের ভাড়া (টাকা), এটি একটি সংখ্যামূলক (পরিমাণগত) চলক।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E নয়—সামান্য কোনো সংখ্যা নিজেই পরিসংখ্যান নয়; পরিসংখ্যান হল নমুনা থেকে গঠিত সারসংক্ষেপ সংখ্যা (যেমন গড়, মধ্যক, ফ্রিকোয়েন্সি) যা ডেটার বৈশিষ্ট্য বর্ণনা করে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গণসংখ্যা নিবেশন (শ্রেণিব্যাপ্তি): [math]40–49[/math]: [math]3[/math], [math]50–59[/math]: [math]5[/math], [math]60–69[/math]: [math]6[/math], [math]70–79[/math]: [math]4[/math], [math]80–89[/math]: [math]2[/math]।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E একটি বার চার্ট বা হিস্টোগ্রাম এঁকে দেখা যাবে যে সর্বাধিক দিনগুলো [math]60–69[/math] টাকা শ্রেণিতে হয়েছে (ফ্রিকোয়েন্সি [math]6[/math])—অতএব অধিকাংশ দিনে খরচ এই শ্রেণির মধ্যে পড়ে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392317,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392317,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392317,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392317,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392317,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392317,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:27.000000Z",
+            "updated_at": "2025-08-19T05:06:27.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392317,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:27.000000Z",
+            "updated_at": "2025-08-19T05:06:27.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392317,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:27.000000Z",
+            "updated_at": "2025-08-19T05:06:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392313,
+      "value": {
+        "options": {
+          "ক": "আয়তলেখ",
+          "খ": "দন্তচিত্র",
+          "গ": "গণসংখ্যা বহুভুজ",
+          "ঘ": "অজিভ রেখা"
+        },
+        "question": "ক্রিকেট খেলায় ওভারপ্রতি রানের তথ্য উপস্থাপনের উপযুক্ত চিত্র কোনটি?",
+        "solution": "দন্তচিত্র",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392313,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392313,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:24.000000Z",
+            "updated_at": "2025-08-19T05:06:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392316,
+      "value": {
+        "options": {
+          "ক": "তত্ত্ব",
+          "খ": "তথ্য",
+          "গ": "নমুনাজামান",
+          "ঘ": "পরামিতি"
+        },
+        "question": "পরিসংখ্যানিক গবেষণার কাচাঁমালকে কী বলে?",
+        "solution": "তথ্য",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392316,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392316,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:24.000000Z",
+            "updated_at": "2025-08-19T05:06:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392315,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্রাথমিক তথ্যের বৈশিষ্ট্য হলো–\n\ni. সময় কম লাগে\n\nii. জনবল বেশি লাগে\n\niii. প্রশিক্ষণপ্রাপ্ত লোকের দরকার হয়",
+        "solution": "ii ও iii",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392315,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392315,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:24.000000Z",
+            "updated_at": "2025-08-19T05:06:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392314,
+      "value": {
+        "options": {
+          "ক": "গাণিতিক গড়",
+          "খ": "জ্যামিতিক গড়",
+          "গ": "মধ্যমা",
+          "ঘ": "প্রচুরক"
+        },
+        "question": "অজিভ রেখার সাহায্যে কোন পটরিমাণটি নির্ণয় করা যায?",
+        "solution": "মধ্যমা",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:06:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392314,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392314,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:24.000000Z",
+            "updated_at": "2025-08-19T05:06:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391728,
+      "value": {
+        "options": [],
+        "question": "তথ্য কী?",
+        "solution": "তথ্যে হলো পরিসংখ্যানিক গবেষনার কাাঁচামাল যা পরিসংখ্যানিক গবেষণার কাজে অনুসন্ধান ক্ষেত্র হতে সংগ্রহ করা হয়।",
+        "explanation": "ব্যাখ্যা: তথ্য হলো পর্যবেক্ষণ, পরিমাপ বা সংগ্রহের ফলস্বরূপ প্রাপ্ত বাস্তব উপাত্ত যা কোনো বিষয় বা ঘটনার সম্পর্কে স্পষ্ট বিবরণ দেয়। এটি সঠিক কারণ তথ্যই বিশ্লেষণ ও সিদ্ধান্ত‌গ্রহণের ভিত্তি সরবরাহ করে এবং যাচাইযোগ্য উপাত্ত থাকলে সঠিক জ্ঞান তৈরি করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391728,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391728,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391728,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391728,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391728,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391728,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391728,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391728,
+            "tag_id": 3179,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391728,
+            "tag_id": 46,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391728,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 391728,
+            "tag_id": 6,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391720,
+      "value": {
+        "options": {
+          "ক": "তথ্য উপস্থাপন বলতে কি বুঝ ?",
+          "খ": "কখন মাধ্যমিক তথ্য প্রাথমিক তথ্যের চেয়ে শ্রেয়? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের তথ্য থেকে উপযুক্ত শ্রেণিব্যাপ্তি নিয়ে একটি গণসংখ্যা নিবেশন তৈরি কর।",
+          "ঘ": "লেখ হতে প্রচুরক নির্ণয়পূর্বক এর মানের ব্যাখ্যা দাও ।"
+        },
+        "question": "দ্বাদশ শ্রেণির কোনো একটি বিষয়ে 20 জন ছাত্রের প্রাপ্ত নম্বর নিম্নরূপ :\n\n72, 32, 68, 60, 52, 55, 45, 60, 72, 20,\n\n50, 65, 60, 45, 85, 55, 70, 42, 80, 65",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপরিসাংখ্যিক গবেষণার কাজে সংগৃহীত তথ্যকে প্রক্রিয়াজাতকরণ দ্বারা ভুল-ত্রুটি সংশোধন করে নির্ভরযোগ্য, সংক্ষিপ্ত, সহজবোধ্য ও বিশ্লেষণ উপযোগী করে তোলার প্রক্রিয়াকে তথ্য উপস্থাপন বলা হয় ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eযখন কোনো অনুসন্ধানে বা গবেষণায় অর্থ, সময় এবং জনবল অপর্যাপ্ত থাকে তখন প্রাথমিক তথ্যের তুলনায় মাধ্যমিক তথ্য ভালো। তাছাড়া সরাসরি উচ্চতর পরিসংখ্যানিক পদ্ধতি প্রয়োগ করতে মাধ্যমিক তথ্য বহুল ব্যবহৃত হয়। এছাড়া অনেক ক্ষেত্রে প্রাথমিক তথ্য সংগ্রহ করা সম্ভব হয় না। তখন মাধ্যমিক তথ্য প্রাথমিক তথ্যের চেয়ে শ্রেয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eপ্রদত্ত তথ্যের সর্বনিম্ন মান = 20 এবং সর্বোচ্চ মান = 85পরিসর = সর্বোচ্চ মান সর্বনিম্ন মান = 85-20=65শ্রেণিব্যাপ্তি =65252.6 এবং 652=13 এর মধ্যবর্তী একটি সংখ্যা।শ্রেণিব্যাপ্তি 10 নিয়ে শ্রেণি সংখ্যা =6510=6. ≈ 7 টি।গণসংখ্যা নিবেশন সারণি :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-08022420chapter-3-all-board-cq-1_1755579934_fgLCxxbb.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E(গ) নং হতে পাই,\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-2_1755579933_kFdSryVU.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখন, X-অক্ষ বরাবর শ্রেণিসীমা এবং Y-অক্ষ বরাবর গণসংখ্যা বসিয়ে আয়তলেখ অঙ্কন করি। X-অক্ষ বরাবর প্রতি ক্ষুদ্রতম বর্গঘরকে 2 একক এবং Y-অক্ষ বরাবর 5 বর্গ ঘরকে । একক বিবেচনা করি।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-3_1755579932_8gDpE1et.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eআয়তলেখ হতে দেখা যাচ্ছে (59.5-69.5) শ্রেণিতে সর্বোচ্চ সংখ্যক ছাত্র বিদ্যমান। এখন (59.5-69.5) শ্রেণির উচ্চসীমা হতে পূর্ববর্তী শ্রেণির উচ্চসীমা এবং (59.5-69.5) শ্রেণির নিম্নসীমা হতে পরবর্তী শ্রেণির নিম্নসীমা যৌগ করি। ছেদবিন্দু হতে X-অক্ষের উপর লম্ব অঙ্কন করি। যা X-অক্ষকে 63.5 বিন্দুতে ছেদ করে। সুতরাং নির্ণেয় প্রচুরক 63.5।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তথ্য উপস্থাপন বলতে বোঝায় কাঁচা তথ্যকে টেবিল, চার্ট বা গ্রাফের রূপে সাজিয়ে সহজে বুঝা ও বিশ্লেষণযোগ্য করা।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মাধ্যমিক (সংক্ষিপ্ত) তথ্য তখন শ্রেয় যখন ডেটাসেট বড় বা সারাংশ, তুলনা এবং দ্রুত সিদ্ধান্ত নেওয়া দরকার; কিন্তু নির্দিষ্ট মান যাচাই বা বিশদ বিশ্লেষণের জন্য প্রাথমিক (কাঁচা) তথ্য দরকার।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উপযুক্ত শ্রেণিব্যাপ্তি ও ফ্রিকোয়েন্সি (ক্লাস প্রস্থ [math]10[/math] হিসেবে):  \n[math]20-29: \\;1[/math]  \n[math]30-39: \\;1[/math]  \n[math]40-49: \\;3[/math]  \n[math]50-59: \\;4[/math]  \n[math]60-69: \\;6[/math]  \n[math]70-79: \\;3[/math]  \n[math]80-89: \\;2[/math]  \nমোট = [math]20[/math] জন।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রচুরক (mode) হলো সবচেয়ে ঘন ঘন হওয়া মান; এই তথ্যセットে [math]60[/math] তিনবার এসেছে, তাই প্রচুরক = [math]60[/math] — অর্থাৎ শিক্ষার্থীদের মধ্যে সবচেয়ে প্রচলিত নম্বর [math]60[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391720,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391720,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391720,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391720,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391720,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391720,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391720,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391720,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391720,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391720,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 391720,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391721,
+      "value": {
+        "options": [],
+        "question": "গণসংখ্যা কী?",
+        "solution": "তথ্য সারিতে চলকের কোনো মানের পুনরাবৃত্তিকেই ঐ মানের গণসংখ্যা বলে।",
+        "explanation": "ব্যাখ্যা: গণসংখ্যা হলো কোনো নির্দিষ্ট সময়ে ও নির্দিষ্ট অঞ্চল বা বিষয়বস্তুর উপর গবেষণা/পর্যবেক্ষণের আওতায় থাকা সব ব্যক্তি বা জীবের মোট সংখ্যা। এটি সম্পূর্ণ সমষ্টি, অর্থাৎ গবেষণার উদ্দেশ্যে বিবেচ্য সব উপাদানকে বোঝায়, নমুনা নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391721,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391721,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391721,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391721,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391721,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391721,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391721,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391721,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391721,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391721,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391721,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391721,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391721,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391721,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391722,
+      "value": {
+        "options": [],
+        "question": "গণসংখ্যা কী?",
+        "solution": "তথ্য সারিতে চলকের কোনো মানের পুনরাবৃত্তিকেই ঐ মানের গণসংখ্যা বলে।",
+        "explanation": "ব্যাখ্যা: গণসংখ্যা হলো কোনো নির্দিষ্ট ভৌগোলিক এলাকায় কোনো নির্দিষ্ট সময়ে বসবাসকারী মানুষের মোট সংখ্যা। এটি জনসংযোজন, নীতিনির্ধারণ ও পরিষেবা পরিকল্পনার জন্য জরুরি এবং সাধারণত আদমশুমারি বা অনুমানের মাধ্যমে নিরূপণ করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391722,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391722,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391722,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391722,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391722,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391722,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391722,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391722,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391722,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391722,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391722,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391722,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391722,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391722,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391723,
+      "value": {
+        "options": [],
+        "question": "কেন্দ্রিয় প্রবণতার পরিমাপ কী?",
+        "solution": "কোন তথ্যসারির উপাদানগুলোর অর্থাৎ সংখ্যত্মক তথ্যগুলোর নির্দিষ্ট কেন্দ্রিয় মানের দিকে পুঞ্জীভূত হওয়ার প্রবণাতাকে কেন্দ্রিয় প্রবণতা বলে।",
+        "explanation": "কেন্দ্রীয় প্রবণতার পরিমাপ হলো এমন কোনো পরিসংখ্যানিক মান যা একটি ডেটাসেটের \"মধ্যভাগ\" বা সাধারণ প্রতিনিধিত্বমূলক মানকে নির্দেশ করে, তাই এটিই সঠিক কারণ এটি ডেটার কেন্দ্রকে সংক্ষিপ্তভাবে প্রকাশ করে। সাধারণত এতে গড় (mean), মধ্যমান/মিডিয়ান (median) ও মোড (mode) অন্তর্ভুক্ত থাকে—গড় সমগ্র মানের গড়, মধ্যমান আউটলাইয়ারে কম সংবেদনশীল এবং মোড সবচেয়ে সাধারণ মানকে নির্দেশ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391723,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391723,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391723,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391723,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391723,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391723,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 391723,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 391723,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391724,
+      "value": {
+        "options": [],
+        "question": "মধ্যমা কী?",
+        "solution": "তথ্যসারির মানগুলোর ছোট থেকে বড় বা বড় থেকে ছোট আকারে সাজানোর পর এর ঠিক মধ্যমানটিই হলো মধ্যমা।",
+        "explanation": "মধ্যমা (median) হলো সাজানো ডেটা সেটের মধ্যবর্তী মান; সংখ্যাগুলো ছোট থেকে বড় (অথবা বড় থেকে ছোট) করে সাজালে ঠিক মাঝের অবস্থায় থাকা মানটিই মধ্যমা। যদি উপাদানের সংখ্যা জোড় হয়, তখন দুইটি মধ্যবর্তী মানের গড় নেওয়া হয়, অর্থাৎ [math](x+y)/2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391724,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391724,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391724,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391724,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391724,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391724,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391724,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391724,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391724,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391724,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391724,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391724,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391724,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391724,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391725,
+      "value": {
+        "options": [],
+        "question": "পরিমিত ব্যবধানের সংজ্ঞা দাও।",
+        "solution": "কোনো নিবেশনের গড় থেকে সংখ্যাগুলোর ব্যবধানের বর্গের সমষ্টিকে পদসংখ্যা দ্বারা ভাগ করলে যে মান পাওয়া যায় তার ব্যবধানও বলে এটিকে SD বা দ্বারা প্রকাশ করা হয়।",
+        "explanation": "পরিমিত ব্যবধান হলো এমন একটি ফাংশন যা কোনো সেট [math]X[/math]-এর যেকোনো দুটি উপাদানকে একটি বাস্তব সংখ্যায় মানায়, অর্থাৎ [math]d: X\\times X \\to \\mathbb{R}[/math], এবং এটি নিম্নলিখিত শর্তগুলো পূরণ করে: (i) [math]d(x,y)\\ge0[/math] এবং [math]d(x,y)=0\\iff x=y[/math], (ii) [math]d(x,y)=d(y,x)[/math], (iii) ত্রিভুজ অসমতা: [math]d(x,z)\\le d(x,y)+d(y,z)[/math]. এই শর্তগুলো নিশ্চিত করে যে [math]d[/math] বাস্তবে একটি \"দূরত্ব\" হিসেবে কাজ করে — শূন্য হলে একই স্থান, বিনিময়ে মান অপরিবর্তিত এবং সরাসরি পথ কখনোই অংশগত পথের যোগফলের চেয়ে বেশি নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391725,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391725,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391725,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391725,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391725,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391725,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391725,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 391725,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391726,
+      "value": {
+        "options": [],
+        "question": "“বিভেদাঙ্ক একটি একক মুক্ত সংখ্যা”- ব্যাখ্যা কর।",
+        "solution": "আমরা জানি, x চলকের পরিমিত ব্যবধান [math]\\sigma[/math]\u003Cbr\u003E এবং গাণিতিক গড় হলে বিভেদাঙ্ক, [math]\\mathrm{CV}=\\frac{\\sigma}{\\bar{x}} \\times 100[/math]\u003Cbr\u003Eবিস্তৃতির পরম পরিমাপ। এটি চলকের এককে প্রকাশিত।অনুরূপভাবে, [math]\\bar{x}[/math]\u003Cbr\u003E কেন্দ্রীংয় প্ররণতার পরম পরিমাপ। এটিও ছলকের এককে প্রকামিত। বিভেদাঙ্ক নির্ণয়ের ক্ষেত্রে [math]\\sigma[/math]\u003Cbr\u003E কে [math]\\bar{x}[/math]\u003Cbr\u003E দ্বারা ভাগ দেওয়ার সম এদের সাধারণ এক সাধঅরণ উ’পাদকেরূপে বাদ হয়ে যায় এককবিহীন একটি সংখ্যা সৃষ্টি করে এই এককবিহীন সখখখ্যাক 100 দিয়ে গুণ করে একক বিহীন বিভেদাঙ্ক পাওয়া য়ায়। সুতরাং বিভেদাঙ্ক একটি এককবিহীন সংখ্যা-উক্তিটি যথার্থ।",
+        "explanation": "ব্যাখ্যা: বিভেদাঙ্ক হলো দুইটি পরিমাণের অনুপাত; যদি ভাগদাতা ও ভাগানু একই এককে নির্দেশিত হয় তবে সেই এককগুলো পরস্পর বাতিল হয়ে যায়, ফলে বিভেদাঙ্ক একক‑মুক্ত হয়। উদাহরণস্বরূপ, [math]10\\ \\text{m} \\div 5\\ \\text{m} = 2[/math], এখানে মিটার এককগুলো বাতিল হয়ে ফলাফল একটি একক‑মুক্ত সংখ্যা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391726,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391726,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391726,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391726,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391726,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 391726,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 391726,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391726,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391727,
+      "value": {
+        "options": [],
+        "question": "ভেদাঙ্ক কি যেকোনো মান নেয়? ব্যাখ্যা কর।",
+        "solution": "ভেদাঙ্ক যেকোনে মান গ্রহণ করে না।ভেদাঙ্ক গাণিতিক সংজ্ঞা থেকে যা পাই,ভোদাঙ্ক [math]\\sigma^{2}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{2}}{N}=\\frac{\\sum x_{i}}{N}-x^{-2}[/math]যেহেতু বর্গ সংখ্যার মান সর্বদা ঋণাত্মক হয়। সুতরাং ভোদাঙ্ক কখনো ঋণাত্মক মান গ্রহণ করে না।",
+        "explanation": "ব্যাখ্যা: হ্যাঁ — সাধারণত ভেদাঙ্ক [math]D=b^2-4ac[/math] বাস্তব কোঅফিশিয়েন্ট হলে যেকোনো বাস্তব সংখ্যা হতে পারে; উদাহরণস্বরূপ যদি [math]b=0, a=1[/math] নিলে [math]D=-4c[/math] হয় এবং যেকোনো বাস্তব [math]k[/math] পেতে [math]c=-k/4[/math] নেওয়া যায়। যদি সহগ (coefficients) জটিল হয় তবে ভেদাঙ্ক জটিল মানও নিতে পারে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391727,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391727,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391727,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391727,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391727,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391727,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391727,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391727,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391727,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391727,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391727,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391727,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391727,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391727,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:34.000000Z",
+            "updated_at": "2025-08-19T05:05:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391719,
+      "value": {
+        "options": {
+          "ক": "বিচ্ছিন্ন চলক কাকে বলে?",
+          "খ": "বাড়ির নম্বর কোন ধরনের পরিমাপন স্কেল? ব্যাখ্যা কর।",
+          "গ": "প্রাপ্ত তথ্য থেকে উপযুক্ত শ্রেণিব্যাপ্তি নিয়ে একটি গণসংখ্যা নিবেশন তৈরি কর।",
+          "ঘ": "প্রাপ্ত গণসংখ্যা নিবেশন থেকে একটি আয়তলেখ অঙ্কন কর। কোন বয়স শ্রেণির শিশুরা বেশি ডায়রিয়ায় আক্রান্ত হয়েছে সে সম্বন্ধে মন্তব্য কর।"
+        },
+        "question": "রাকিবকে তার শিক্ষক শিশু হাসপাতালে ডায়রিয়া আক্রান্ত 20 জন শিশুর বয়সের তথ্য সংগ্রহ করতে বললেন। রাকিব যে তথ্য সংগ্রহ করল তা নিম্নরূপ: 5, 1, 2, 6, 4, 7, 10, 12, 6, 11, 5, 8, 10, 8,\n\n11, 7, 8, 14, 9, 8",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে সকল চলক কেবল পরিমাণযোগ্য পৃথক পৃথক মান গ্রহণ করে তাকে বিচ্ছিন্ন চলক বলে। বিচ্ছিন্ন চলককে অনেক সময় বিরত চলকও বলা হয়। $\\\\[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eবাড়ির নম্বর নামসূচক পরিমাপন স্কেল। আমরা জানি, যে পরিমাপন স্কেলের সাহায্যে কোনো বৈশিষ্ট্য, বস্তু বা ঘটনাকে প্রতীক বা সংখ্যা দ্বারা একটি বিশেষ পরিচিতি প্রদান করা হয় তাকে নামসূচক পরিমাপন স্কেল বলে। এক্ষেত্রে বাড়ির নম্বর একটি সংখ্যা মাত্র এবং এ দিয়ে ঐ বাড়ির পরিচয় নির্ধারণ হয়। একে অন্য কোনো মানের সাথে যোগ, বিয়োগ গুণ, ভাগ করা যায় না। সুতরাং এটি একটি নামসূচক পরিমাপন স্কেল।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eপ্রদত্ত তথ্যসারির বৃহত্তম সংখ্যা = 14 এবং ক্ষুদ্রতম সংখ্যা = 1∴ পরিসর = বৃহত্তম সংখ্যা – ক্ষুদ্রতম সংখ্যা = 14 – 1 = 13 - যেহেতু শ্রেণির সংখ্যা সাধারণত 5 হতে 25 এর মধ্যে রাখা হয়।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-8_1755579930_2egxstzh.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএর মধ্যবর্তী কোনো সুবিধাজনক সংখ্যাকে ধরা হয়। ধরা যাক, শ্রেণি ব্যবধান 2.বহির্ভুক্ত পদ্ধতিতে গণসংখ্যা নিবেশন নিম্নরূপ:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-9_1755579929_ziAI5dm3.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' নং এ প্রাপ্ত গণসংখ্যা নিবেশনকে আয়তলেখের সাহায্যে উপস্থাপন করা হলো:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-10_1755579928_F4YtRz9s.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eউপরের আয়তলেখ থেকে দেখা যায়, প্রচুরক শ্রেণি হচ্ছে (7-9)। সুতরাং যেসব শিশুর বয়স 7 থেকে 9 বছরের মধ্যে তারা বেশি ডায়রিয়ায় আক্রান্ত হচ্ছে।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বিচ্ছিন্ন চলক হলো সেই চলক যেটি পৃথক, গণনা যোগ্য মান নেয় (অপরিবর্তনশীল মধ্যবর্তী মান নেই), যেমন পয়েন্ট সংখ্যা বা বাচ্চাদের সংখ্যা।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বাড়ির নম্বর একটি নামমাত্র (নাম্বারিক/নমিনাল) পরিমাপ স্কেল, কারণ এটি কেবল পরিচয় নির্দেশ করে এবং ওপর–নিচ অর্থাৎ পরিমাপের পরিমাণ বোঝায় না।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শ্রেণিবিন্যাস (শ্রেণী প্রস্থ = 3) এবং গণসংখ্যা নিবেশন: [math]1-3:2[/math], [math]4-6:5[/math], [math]7-9:7[/math], [math]10-12:5[/math], [math]13-15:1[/math] (মোট = [math]20[/math])।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E আয়তলেখে প্রতিটি বয়স শ্রেণির জন্য বারের উচ্চতা উপরের ফ্রিকোয়েন্সি অনুসারে অঙ্কন করবেন; সর্বোচ্চ বার হবে [math]7-9[/math] শ্রেণির ([math]7[/math] শিশু), তাই এই বয়সের শিশুরা বেশি ডায়রিয়ায় আক্রান্ত হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391719,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391719,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391719,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391719,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391719,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391719,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391719,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391719,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:30.000000Z",
+            "updated_at": "2025-08-19T05:05:30.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391719,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:30.000000Z",
+            "updated_at": "2025-08-19T05:05:30.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391719,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:30.000000Z",
+            "updated_at": "2025-08-19T05:05:30.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 391719,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:30.000000Z",
+            "updated_at": "2025-08-19T05:05:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391718,
+      "value": {
+        "options": {
+          "ক": "তথ্য কি? খ .“প্রাথমিক তথ্য সংগ্রহ করা অপেক্ষাকৃত জটিল।”— ব্যাখ্যা কর।",
+          "গ": "সিফাত এর ব্যবহৃত পদ্ধতিটি বর্ণনা কর ।",
+          "ঘ": "এলিন এর দাবির সত্যতা বিশ্লেষণপূর্বক তোমার মতামত ব্যক্ত কর।"
+        },
+        "question": "একজন গবেষক রংপুর শহরের দিনমজুরের আর্থসামাজিক অবস্থা জানার জন্য এলিন ও সিফাত নামের দুইজন তথ্যসংগ্রহকারী নিয়োগ করলেন। এলিন একটি প্রশ্নপত্র তৈরি করে মাঠ পর্যায়ে গিয়ে দিনমজুরদের নিকট থেকে তথ্য সংগ্রহ করলেন এবং সিফাত পরিসংখ্যান বর্ষপঞ্জি থেকে তথ্য সংগ্রহ করলেন। এলিন দাবি করলেন যে তার ব্যবহৃত পদ্ধতি অধিক গ্রহণযোগ্য।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eতথ্য হলো পরিসংখ্যানিক গবেষণার কাঁচামাল যা পরিসংখ্যানিক গবেষণার কাজে অনুসন্ধান ক্ষেত্র হতে সংগ্রহ করা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপ্রাথমিক তথ্য সংগ্রহ করা জটিল কারণ প্রাথমিক তথ্য মাঠ পর্যায় থেকে সংগ্রহ করা হয়। এ কাজে প্রচুর জনবল প্রয়োজন হয়। তাছাড়া তথ্যকে শ্রেণিকরণ, সারণিকরণ, সংক্ষিপ্তকরণ ও ব্যবহার উপযোগী করে উপস্থাপন করতেও প্রচুর পরিমাণে অর্থ, জনবল ও সময় প্রয়োজন হয়। এ কারণে প্রাথমিক তথ্য সংগ্রহ করা জটিল[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eসিফাত এর ব্যবহৃত পদ্ধতিটি হল মাধ্যমিক তথ্য সংগ্রহ পদ্ধতি । যেসব তথ্য পূর্ব প্রকাশিত বা সংগৃহীত তথ্য হতে সংগ্রহ করা হয়, তাকে মাধ্যমিক বা পরোক্ষ তথ্য বলে। মূলত কোনো একটি গবেষণার বা কাজের জন্য সংগৃহীত তথ্য যদি অন্য কোনো কাজে ব্যবহৃত হয় তবে দ্বিতীয় ক্ষেত্রে ব্যবহৃত তথ্যসারির নাম হবে মাধ্যমিক তথ্য। প্রকৃতিগতভাবে এ তথ্য অমৌলিক এবংঅপেক্ষাকৃত কম নির্ভরযোগ্য। এ পদ্ধতির উৎস হলো দুইটি ।(ক) প্রকাশিত উৎস (খ) অপ্রকাশিত উৎসপ্রকাশিত উৎস : বড় বড় প্রতিষ্ঠানে যে তথ্য বা ডাটা সংগ্রহ করা হয় তা সুশৃঙ্খলভাবে নিয়মক্রম অনুসারে সাজিয়ে পুস্তকাকারে প্রকাশ করা হয়। প্রকাশিত এসব তথ্যই হলো তথ্যের প্রকাশিত উৎস। বিভিন্ন আন্তর্জাতিক প্রতিষ্ঠান, সরকারি ও আধা সরকারি প্রতিষ্ঠান, এন.জি.ও, বাণিজ্যিক প্রতিষ্ঠান প্রভৃতি এসব প্রকাশনার প্রধান উদ্যোক্তা।অপ্রকাশিত উৎস: মাধ্যমিক তথ্যের প্রকাশিত ও অপ্রকাশিত উৎসের মধ্যে প্রধান পার্থক্য হলো প্রকাশিত উৎসগুলো তথ্য সংগ্রহের পর পুস্তাকাকারে তা প্রকাশ করে কিন্তু অপ্রকাশিত উৎসগুলো তথ্য সংগ্রহের পর তা প্রকাশ করে না।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএলিন একটি প্রশ্নপত্র তৈরি করে মাঠ পর্যায়ে গিয়ে দিনমজুরদের নিকট থেকে তথ্য সংগ্রহ করলেন। সুতরাং তার সংগৃহীত তথ্যটি হলো প্রাথমিক তথ্য। অপরদিকে সিফাত পরিসংখ্যান বর্ষপঞ্জি থেকে তথ্য সংগ্রহ করলেন । তার সংগৃহীত তথ্যটি হলো মাধ্যমিক তথ্য। প্রাথমিক তথ্য অনুসন্ধান ক্ষেত্র থেকে সরাসরি সংগ্রহ করা হয়। অপরদিকে মাধ্যমিক তথ্য পূর্ব প্রকাশিত বা সংগৃহীত তথ্য হতে সংগ্রহ করা হয়। তাই প্রাথমিক তথ্য মাধ্যমিক তথ্য অপেক্ষা অধিক সময় সাপেক্ষ ও ব্যয়বহুল হলেও নির্ভরযোগ্যতার ব্যাপারে প্রাথমিক তথ্যই বেশি নির্ভরযোগ্য। কারণ প্রাথমিক তথ্য প্রত্যক্ষভাবে অনুসন্ধান ক্ষেত্র থেকে সংগ্রহ করা হয়। তাছাড়া মাধ্যমিক তথ্য সঠিকভাবে সংগৃহীত হয়েছে কিনা বা সংগৃহীত তথ্য সঠিকভাবে উপস্থাপিত করা হয়েছে কিনা সে বিষয়ে সংশয় থাকে যা প্রাথমিক তথ্যে থাকে না। সুতরাং এলিনের দাবিটি যথার্থ।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তথ্য হল কোনো বিষয় সম্পর্কে পর্যবেক্ষণ, পরিমাপ বা প্রশ্নোত্তরের মাধ্যমে সংগৃহীত কাঁচা উপাত্ত যা বিশ্লেষণের মাধ্যমে অর্থপূর্ণ ফলাফল দেয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E প্রাথমিক তথ্য সংগ্রহ করাটা জটিল কারণ এটি মাঠযাত্রা, স্যাম্পলিং, প্রশ্নপত্র ডিজাইন ও তথ্যসংগ্রাহকের প্রশিক্ষণ প্রয়োজন করে; এতে সময়, খরচ ও সম্ভাব্য প্রতিক্রিয়া‑বায়াস মোকাবিলা করতে হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সিফাত যে পদ্ধতি ব্যবহার করেছেন তা হলো গৌণ/দ্বিতীয়িক তথ্য সংগ্রহ — সরকারি পরিসংখ্যান বর্ষপঞ্জি থেকে পূর্বে উপলব্ধ করা তথ্য নেয়া, যা দ্রুত ও সস্তা হলেও প্রাসঙ্গিকতা বা হালনাগাদের সীমাবদ্ধতা থাকতে পারে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E এলিনের দাবি আংশিক সত্য: প্রাথমিক তথ্য নির্দিষ্ট গবেষণার জন্য সাধারণত বেশি প্রাসঙ্গিক ও গ্রহণযোগ্য হতে পারে, কিন্তু তার সত্যতা নমুনা, প্রশ্নপত্রের গুণমান ও তথ্যসংগ্রাহণের নিরপেক্ষতার ওপর নির্ভর করে; তাই উভয় পদ্ধতিরই সুবিধা ও সীমাবদ্ধতা বিবেচনায় নিতে হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391718,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391718,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391718,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391718,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391718,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391718,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391718,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 391718,
+            "tag_id": 6,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:26.000000Z",
+            "updated_at": "2025-08-19T05:05:26.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391718,
+            "tag_id": 7,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:26.000000Z",
+            "updated_at": "2025-08-19T05:05:26.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391718,
+            "tag_id": 3179,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:26.000000Z",
+            "updated_at": "2025-08-19T05:05:26.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391718,
+            "tag_id": 46,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:26.000000Z",
+            "updated_at": "2025-08-19T05:05:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391717,
+      "value": {
+        "options": {
+          "ক": "নমুনা কী?",
+          "খ": "সারাহ বুদ্ধিমতী— ইহা কি পরিসংখ্যান? ব্যাখ্যা কর ।",
+          "গ": "ব্যাংক-A এর তথ্যগুলোকে দণ্ডচিত্রের মাধ্যমে উপস্থাপন কর। -",
+          "ঘ": "উদ্দীপকের ব্যাংক A ও ব্যাংক - B এর তথ্য উপস্থাপন পদ্ধতির মধ্যে কোন পদ্ধতি তথ্য উপস্থাপনে অধিক উপযোগী? মন্তব্য কর ।"
+        },
+        "question": "দুটি ব্যাংক তাদের নিজ নিজ ওয়েবসাইটে হিসাবের প্রকৃতি অনুযায়ী গ্রহক সংখ্যা তথ্য নিম্নরূপে উপস্থাপন করলো:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-4_1755579924_z4ddhrUu.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপ্রতিনিধিত্বশীল অংশ যা সমগ্রক বা তথ্যবিশ্বের বৈশিষ্ট্য বহন করে থাকে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eসারাহ বুদ্ধিমতী— ইহা পরিসংখ্যান নয়।কোনো তথ্য পরিসংখ্যান হতে হলে তা অবশ্যই সংখ্যায় প্রকাশিত হতে হবে।যে সকল তথ্য সংখ্যায় প্রকাশ করা যায় না তাকে পরিসংখ্যান বলা যায় না। যেমন— মানুষের বয়স, উচ্চতা, ওজন ইত্যাদিকে সংখ্যায় এবং এককের মাধ্যমে প্রকাশ করা যায়, তাই এগুলি পরিসংখ্যান। কিন্তু মেধা পরিসংখ্যান নয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eনিম্নে ব্যাংক A এর তথ্যগগুলোকে দন্ড চিত্রের মাধ্যমে উপস্থাপনকরা হলো : ছক কাগজে X-অক্ষ বরাবর হিসাবের প্রকৃতি ও Y-অক্ষ বরাবর হিসাবের সংখ্যা নিয়ে দণ্ডচিত্র আঁকা হলো । \u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-6_1755579926_YcxJiVjI.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের ব্যাংক A এর তথ্য উপস্থাপন পদ্ধতি হলো সারণিকরণ বা তালিকাবদ্ধকরণ পদ্ধতি। অপরদিকে ব্যাংক B এর তথ্য উপস্থাপন পদ্ধতিটি হলো চিত্র পদ্ধতি যা কৌণিক বা পাই চিত্রের মাধ্যমে প্রকাশ করা হয়েছে। এ দুই পদ্ধতির মধ্যে কৌণিক বা পাই চিত্রের মাধ্যমে উপস্থাপিত চিত্র অধিক উপযোগী, নিম্নে কারণ বর্ণনা করা হলো :(i) আকর্ষণীয় ও চিত্রাকর্ষক: সারণির চেয়ে চিত্র বেশি আকর্ষণীয় ও চিত্রাকর্ষক হয় । ফলে চিত্রের মাধ্যমে উপস্থাপিত তথ্য অনেক দিন মনে রাখা যায়।(ii) সময় ও অর্থের অপচয় হ্রাস: চিত্রের মাধ্যমে তথ্য উপস্থাপনে সময় ও অর্থ কম লাগে।(iii) প্রকৃতি নির্ধারণ: চিত্রে উপস্থাপনের ফলে তথ্যসারির প্রকৃতি সম্পর্কে সাধারণ ধারণা পাওয়া যায়।(iv) স্থায়িত্ব: চিত্রে উপস্থাপিত তথ্যের প্রতিবেদন ও স্থায়ীত্ব অনেক বেশি। সুতরাং বলা যায় যে, ব্যাংক-B এর তথ্য উপস্থাপন পদ্ধতি অধিক উপযোগী।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ওয়েবসাইটে প্রদর্শিত নমুনা হলো সেই গ্রাহকগণের সংখ্যা এবং তাদের অ্যাকাউন্টের প্রকৃতির তথ্য—অর্থাৎ প্রদত্ত তালিকাভুক্ত গ্রাহকগণ যাদের ওপর সংক্ষেপিত পরিমাপ করা হয়েছে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হ্যাঁ, এটি পরিসংখ্যান কারণ এখানে গ্রাহকদের সংখ্যা সংগ্রহ করে শ্রেণীবদ্ধ ও সংক্ষেপে উপস্থাপন করা হয়েছে, যা বর্ণনামূলক পরিসংখ্যানের উদাহরণ।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাংক-A এর জন্য দণ্ডচিত্র আঁকতে x-অক্ষে অ্যাকাউন্টের প্রকৃতি (যেমন সেভিংস, কারেন্ট ইত্যাদি) এবং y-অক্ষে গ্রাহকসংখ্যা রেখে প্রতিটি শ্রেণীর জন্য সমান প্রস্থের বার তোলেন, প্রতিটি বারের উচ্চতা ঐ শ্রেণীর গ্রাহকসংখ্যার সমান হবে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E তুলনা করার জন্য চিত্রভিত্তিক উপস্থাপন (যেমন পাশে পাশে বার চার্ট) বেশি উপযোগী, কারণ সেটি দ্রুত ভিজ্যুয়াল তুলনা দেখায়; কিন্তু সঠিক সংখ্যার জন্য টেবিল ভাল—অর্থাৎ তুলনা হলে বার চার্ট, নির্দিষ্ট মান জানতে টেবিল বেছে নিন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391717,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391717,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391717,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391717,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391717,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391717,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391717,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 391717,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:26.000000Z",
+            "updated_at": "2025-08-19T05:05:26.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391717,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:26.000000Z",
+            "updated_at": "2025-08-19T05:05:26.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391717,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:26.000000Z",
+            "updated_at": "2025-08-19T05:05:26.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391717,
+            "tag_id": 47,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:26.000000Z",
+            "updated_at": "2025-08-19T05:05:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391716,
+      "value": {
+        "options": {
+          "ক": "চলক কী?",
+          "খ": "যে কোনো সংখ্যাই কী পরিসংখ্যান? ব্যাখ্যা কর ।",
+          "গ": "উদ্দীপকের তথ্য হতে উপযুক্ত শ্রেণিব্যাপ্তি নিয়ে একটি গণসংখ্যা নিবেশন তৈরি কর।",
+          "ঘ": "উদ্দীপকের তথ্যে অধিক সংখ্যক দিনে যাতায়াত ভাড়া বাবদ যে খরচ হয় তা উপযুক্ত লেখচিত্র অংকনপূর্বক মন্তব্য কর।"
+        },
+        "question": "মোজাম্মেল সাহেবের বাসস্থান থেকে কর্মস্থলে প্রতিদিনের যাতায়াতের ভাড়া বাবদ 20 দিনের খরচ (টাকা) দেওয়া হলো : 71, 63, 84, 75, 51, 65, 40, 48, 50, 62, 49, 55, 74, 60, 53, 54, 71, 80, 64, 69",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে বৈশিষ্ট্য সমগ্রক বা নমুনার এককের সাপেক্ষে গুণে বা পরিমাণে পরিবর্তিত হয় তাকে চলক বলে। চলককে সাধারণত x, y, z ইত্যাদি দ্বারা প্রকাশ করা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eযে কোনো একটি সংখ্যা পরিসংখ্যান কিনা তা নির্ভর করে সংখ্যাটির বৈশিষ্ট্যের উপর। অর্থাৎ যেকোনো একটি সংখ্যা পরিসংখ্যান হতেও পারে আবার নাও হতে পারে। যদি সংখ্যাটি দ্বারা কোনো সমগ্রকের বৈশিষ্ট্য প্রকাশ করা হয় তাহলে সংখ্যাটিকে পরিসংখ্যান বলা হবে। আবার যদি সংখ্যাটি দ্বারা কোনো একক তথ্য প্রকাশ করা হয় তাহলে তা পরিসংখ্যান নয়।যেমন: ধরা যাক, একজন ছাত্রের উচ্চতা 67 ইঞ্চি যা পরিসংখ্যান নয় কিন্তু যদি কোনো ক্লাসের ছাত্রদের গড় উচ্চতা 67 ইঞ্চি হয়, তবে তা অবশ্যই পরিসংখ্যান। কেননা গড় উচ্চতা দ্বারা সমগ্র ক্লাসের ছাত্রদের উচ্চতা প্রকাশ করা হয়েছে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eপ্রদত্ত উপাত্তটির সর্বনিম্ন মান 40 এবং সর্বোচ্চ মান 84∴ পরিসর =48+40=44সুতরাং শ্রেণিব্যাপ্তি 10 ধরে নির্ণেয় শ্রেণিসংখ্যা [math]=\\frac{44}{10}=4.4 \\approx 5[/math]\u003Cbr\u003Eটিসুতরাং মোজাম্মেল সাহেবের কর্মস্থলে যাওয়ার ভাড়া বাবদ খরচেরগণসংখ্যা সারণি হলো:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-11_1755579923_sYKA7WZc.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eগ' নং এর গণসংখ্যা নিবেশনের আয়তলেখ থেকে প্রচুরক নির্ণয়:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-12_1755579921_kBEdtyxB.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eছক কাগজে x-অক্ষে খরচ ও y-অক্ষে দিন নিয়ে আয়তলেখ অংকন পূর্বক (60-70) শ্রেণিটি প্রচুরক শ্রেণি হিসেবে বিবেচিত হয়। তাহলে (50-60) শ্রেণির ডান শীর্ষ হতে (60-70) শ্রেণির ডান শীর্ষ এবং (60-70) শ্রেণির বাম শীর্ষ হতে (70-80) শ্রেণির বাম শীর্ষ যোগ করলে যে ছেদবিন্দু পাওয়া যায় সেই বিন্দু হতে x-অক্ষে অঙ্কিত লম্বের ছেদ বিন্দুই প্রচুরক।ঐ বিন্দু হতে অঙ্কিত লম্বটি x-অক্ষকে 63 বিন্দুতে ছেদ করে। সুতরাং অধিক সংখ্যক দিনের যাতায়াত ভাড়া 63 টাকা।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চলক হচ্ছে প্রতিদিনের যাতায়াতের ভাড়া (টাকা) — অর্থাৎ পরীক্ষার উপাত্তের পরিবর্তনশীল পরিমাণ।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সব সংখ্যাই পরিসংখ্যান নয়; পরিসংখ্যান হলো নমুনা বা পর্যবেক্ষণ থেকে গোনা বা হিসাব করে পাওয়া এমন একটি সংখ্যামাত্রার সারাংশ (যেমন গড়, মধ্যক, প্রতিশত ইত্যাদি), উদাহরণ: [math]\\bar{x}=\\dfrac{\\sum x}{n}[/math]।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উপযুক্ত শ্রেণিব্যবস্থায় গণসংখ্যা নিবেশন (ক্লাস প্রস্থ = 10): [math]40\\text{–}49:3,\\;50\\text{–}59:5,\\;60\\text{–}69:6,\\;70\\text{–}79:4,\\;80\\text{–}89:2[/math]।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অধিক সংখ্যক দিনে যাতায়াত ভাড়া পড়ে [math]60\\text{–}69[/math] টাকার শ্রেণিতে (ফ্রিকোয়েন্সি = 6); হিস্টোগ্রাম এ শ্রেণিটির বাটি সবচেয়ে উঁচু হবে, তাই অধিকাংশ দিন খরচ এই পরিসরের মধ্যে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391716,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391716,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391716,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391716,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391716,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 391716,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:23.000000Z",
+            "updated_at": "2025-08-19T05:05:23.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 391716,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:23.000000Z",
+            "updated_at": "2025-08-19T05:05:23.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391716,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:23.000000Z",
+            "updated_at": "2025-08-19T05:05:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391712,
+      "value": {
+        "options": {
+          "ক": "আয়তলেখ",
+          "খ": "দন্তচিত্র",
+          "গ": "গণসংখ্যা বহুভুজ",
+          "ঘ": "অজিভ রেখা"
+        },
+        "question": "ক্রিকেট খেলায় ওভারপ্রতি রানের তথ্য উপস্থাপনের উপযুক্ত চিত্র কোনটি?",
+        "solution": "দন্তচিত্র",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391712,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391712,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:19.000000Z",
+            "updated_at": "2025-08-19T05:05:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391715,
+      "value": {
+        "options": {
+          "ক": "তত্ত্ব",
+          "খ": "তথ্য",
+          "গ": "নমুনাজামান",
+          "ঘ": "পরামিতি"
+        },
+        "question": "পরিসংখ্যানিক গবেষণার কাচাঁমালকে কী বলে?",
+        "solution": "তথ্য",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391715,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391715,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:19.000000Z",
+            "updated_at": "2025-08-19T05:05:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391714,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্রাথমিক তথ্যের বৈশিষ্ট্য হলো–\n\ni. সময় কম লাগে\n\nii. জনবল বেশি লাগে\n\niii. প্রশিক্ষণপ্রাপ্ত লোকের দরকার হয়",
+        "solution": "ii ও iii",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391714,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391714,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:19.000000Z",
+            "updated_at": "2025-08-19T05:05:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391713,
+      "value": {
+        "options": {
+          "ক": "গাণিতিক গড়",
+          "খ": "জ্যামিতিক গড়",
+          "গ": "মধ্যমা",
+          "ঘ": "প্রচুরক"
+        },
+        "question": "অজিভ রেখার সাহায্যে কোন পটরিমাণটি নির্ণয় করা যায?",
+        "solution": "মধ্যমা",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4134,
+      "created_at": "2025-08-19T05:05:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391713,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391713,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:19.000000Z",
+            "updated_at": "2025-08-19T05:05:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4134&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4134&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4134&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 34,
+  "total": 34
+}

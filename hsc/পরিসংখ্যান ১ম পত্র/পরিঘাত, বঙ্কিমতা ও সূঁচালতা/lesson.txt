@@ -1,0 +1,2439 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 392469,
+      "value": {
+        "options": {
+          "ক": "সূঁচালতা কাকে বলে?",
+          "খ": "প্রথম শোধিত পরিঘাতের মান শূন্য-ব্যাখ্যা কর।",
+          "গ": "তৃতীয় কেন্দ্রিয় পরিঘাতের মান নির্ণয় কর।",
+          "ঘ": "সূঁচালতা নির্ণয়পূর্বক নিবেশনটি সম্পর্কে মন্তব্য কর।"
+        },
+        "question": "কোনো এক প্রতিষ্ঠানের ৪ জন কর্মচারীর মাসিক আয় (হাজার টাকায়) নিচে দেওয়া হলো :\n\n10, 8, 12, 10, 13, 9, 11 এবং 7।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো বিন্যাসের সূঁচালতা বলতে পরিমিত রেখার তুলনায় এটির গণসংখ্যা রেখার উঁচু-নিচুর মাত্রাকে বুঝায়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eএই প্রথম শোধিত পরিঘাতের মান শূন্য।ব্যাখ্যা: আমরা জানি, প্রথম শোধিত পরিঘাত, [math]\\mu_{1}=\\frac{\\Sigma\\left(x_{i}-\\bar{x}\\right)}{n}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{\\Sigma x_{i}}{n}-\\frac{n \\bar{x}}{n}[/math]\u003Cbr\u003E [math]=\\bar{x}-\\bar{x}=0[/math]\u003Cbr\u003Eসুতরাং, প্রথম শোধিত পরিঘাতের মান শূন্য।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, [math]\\mathbf{X}_{\\mathrm{i}}[/math]\u003Cbr\u003E=10, 8, 12, 10, 13, 9, 11, 7[math]\\therefore \\bar{x}=\\frac{\\sum x_{i}}{n}[/math]\u003Cbr\u003E [math]=\\frac{10+8+12+10+13+9+11+7}{8}[/math]\u003Cbr\u003E [math]=\\frac{80}{8}=10[/math]\u003Cbr\u003E২য়, ৩য় এবং ৪র্থ কেন্দ্রিয় পরিঘাত নির্ণয়ের প্রয়োজনীয় সারণি:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics2c20chapter-52c20date201-05-20242c20riyel20picture-204_1755580037_o8W8sq18.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eআমরা জানি, তৃতীয় কেন্দ্রিয় পরিঘাত [math]\\mu_{3}=\\frac{\\Sigma\\left(x_{i}-\\bar{x}\\right)^{3}}{n}[/math]\u003Cbr\u003E [math]=\\frac{0}{8}=0[/math]\u003Cbr\u003Eনির্ণেয় তৃতীয় কেন্দ্রিয় পরিঘাত, [math]\\mu_{3}=0[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eআমরা জানি, সূঁচালতাঙ্ক, [math]\\beta_{2}=\\frac{\\mu_{4}}{\\mu_{2}{ }^{2}}[/math]\u003Cbr\u003E'গ' এর সারণি ব্যবহার করে পাই,দ্বিতীয় কেন্দ্রিয় পরিঘাত, [math]\\mu_{2}=\\frac{\\Sigma\\left(x_{i}-\\bar{x}\\right)^{2}}{n}[/math]\u003Cbr\u003E [math]=\\frac{28}{8}=3 \\cdot 5[/math]\u003Cbr\u003Eচতুর্থ কেন্দ্রিয় পরিঘাত, [math]\\mu_{4}=\\frac{\\Sigma\\left(x_{i}-\\bar{x}\\right)^{4}}{n}[/math]\u003Cbr\u003E [math]=\\frac{196}{8}=24 \\cdot 5[/math]\u003Cbr\u003E∴ সূচালতাঙ্ক, [math]\\beta_{2}=\\frac{\\mu_{4}}{\\mu_{2}^{2}}[/math]\u003Cbr\u003E [math]=\\frac{24 \\cdot 5}{(3 \\cdot 5)^{2}}=\\frac{24 \\cdot 5}{12 \\cdot 25}=2[/math]\u003Cbr\u003Eমন্তব্য: যেহেতু [math]\\beta_{2}\u003C3[/math]\u003Cbr\u003E। সুতরাং, প্রদত্ত নিবেশনটি অনতি সূঁচালো।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সূঁচালতা হলো কোনো বন্টনের অরৈখিকতা বা অসমতা পরিমাপ যে, বন্টনটি মাঝের দিকে না বা এক পাশে লম্বা লেজ (tail) আছে কি না — ধনাত্মক সূঁচালতায় ডানদিকে লেজ দীর্ঘ, ঋণাত্মক হলে বামদিকে লেজ দীর্ঘ হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E গড় [math]\\bar{x} = 80/8 = 10[/math]; প্রথম কেন্দ্রিয় পরিঘাত হল [math]\\mu_1 = (1/n)\\sum (x-\\bar{x})[/math] এবং সব বিচ্যুতি যোগ করলে শূন্য হয়, তাই [math]\\mu_1=0[/math] — কারণ গড় হলো ডাটা পয়েন্টগুলোর ভারসাম্যবিন্দু।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বিচ্যুতিগুলি হলো [math]-3,-2,-1,0,0,1,2,3[/math], তাদের ঘন (cube) হল [math]-27,-8,-1,0,0,1,8,27[/math] এবং এগুলোর যোগ শূন্য; সেইজন্য তৃতীয় কেন্দ্রিয় পরিঘাত [math]\\mu_3=(1/8)\\sum (x-\\bar{x})^3=0[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সূঁচালতা সাধারণত [math]\\gamma_1=\\mu_3/\\sigma^3[/math] দ্বারা দেওয়া হয়; এখানে [math]\\mu_3=0\u003C/math] হওয়ায় সূঁচালতা শূন্য এবং নিবেশনটি সিমেট্রিক (সমমিত) — বন্টনে স্পষ্ট কোনো ডান/বাম সূঁচালতা নেই।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392469,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392469,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392469,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392469,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392469,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392469,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392469,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392469,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392469,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392469,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:17.000000Z",
+            "updated_at": "2025-08-19T05:07:17.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392469,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:17.000000Z",
+            "updated_at": "2025-08-19T05:07:17.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392469,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:17.000000Z",
+            "updated_at": "2025-08-19T05:07:17.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392469,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:17.000000Z",
+            "updated_at": "2025-08-19T05:07:17.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 392469,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:17.000000Z",
+            "updated_at": "2025-08-19T05:07:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392468,
+      "value": {
+        "options": {
+          "ক": "শোধিত পরিঘাত কাকে বলে?",
+          "খ": "দ্বিতীয় কেন্দ্রিয় পরিঘাত ঋণাত্মক হতে পারে কি-না? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের আলোকে প্রচুরকের মান নির্ণয় কর।",
+          "ঘ": "রনির মন্তব্যটি যাচাই কর।"
+        },
+        "question": "কোনো নিবেশনের গড়, মধ্যমা, দ্বিতীয় কেন্দ্রিয় পরিঘাত এবং চতুর্থ কেন্দ্রিয় পরিঘাত যথাক্রমে 16, 15, 16 এবং 50। রনি মন্তব্য করলেন, নিবেশনটি ধনাত্মক বঙ্কিম এবং অতি সূঁচালো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো তথ্যসারির প্রতিটি মান হতে এর গাণিতিক গড়ের ব্যবধানের বিভিন্ন ঘাতের সমষ্টিকে মোট পদসংখ্যা দ্বারা ভাগ করলে যে মান পাওয়া যায়, তাকে শোধিত বা কেন্দ্রিয় পরিঘাত বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদ্বিতীয় কেন্দ্রিয় পরিঘাতের মান ঋণাত্মক হতে পারে না।ব্যাখ্যা : আমরা জানি, কেন্দ্রিয় পরিঘাত, [math]\\mu_{2}=\\frac{\\Sigma\\left(x_{i}-\\bar{x}\\right)^{2}}{n}[/math]\u003Cbr\u003Eএখানে, [math]\\Sigma\\left(\\mathrm{x}_{\\mathrm{i}}-\\overline{\\mathrm{x}}\\right)^{2}[/math]\u003Cbr\u003E একটি বর্গ রাশির সমষ্টি। যেহেতু বর্গের সংখ্যা ঋণাত্মক হতে পারে না সুতরাং বর্গ রাশির সমষ্টিও ঋণাত্মক হতে পারে না।সুতরাং, [math]\\Sigma\\left(x_{i}-\\bar{x}\\right)^{2}[/math]\u003Cbr\u003E একটি ধনাত্মক রাশি।অর্থাৎ [math]\\Sigma\\left(x_{1}-\\bar{x}\\right)^{2}\u003E0[/math]\u003Cbr\u003Eবা, [math]\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{2}}{n}\u003E0[/math]\u003Cbr\u003E [উভয় পক্ষকে n দ্বারা ভাগ কর][math]\\therefore \\quad \\mu_{2}\u003E0[/math]\u003Cbr\u003Eসুতরাং দ্বিতীয় কেন্দ্রিয় পরিঘাতের মান ঋণাত্মক হতে পারে না। এর মান সর্বদা ধনাত্মক হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, নিবেশনটির গড়, [math]\\overline{\\mathrm{x}}=16[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E মধ্যমা [math]M_{c}=15[/math]\u003Cbr\u003Eআমরা জানি, প্রচুরক, [math]\\mathrm{M}_{0}[/math]\u003Cbr\u003E = (3 × মধ্যমা)– (2 × গড়)[math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E = (3 × 15) - (2 × 16) = 45 - 32 - 13সুতরাং, নিবেশনটির প্রচুরক, [math]\\mathrm{M}_{0}=13[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক হতে পাই; নিবেশনটির গড়, [math]\\bar{x}=16[/math]\u003Cbr\u003Eমধ্যমা, [math]M_{e}=15[/math]\u003Cbr\u003Eনিবেশনটির দ্বিতীয় কেন্দ্রিয় পরিঘাত, [math]\\mu_{2}=15[/math]\u003Cbr\u003Eএবং নিবেশনটির চতুর্থ কেন্দ্রিয় পরিঘাত, [math]\\mu_{4}=16[/math]\u003Cbr\u003E'গ' হতে পাই, নিবেশনটির প্রচুরক, [math]M_{0}=13[/math]\u003Cbr\u003Eআমরা জানি,\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics2c20chapter-52c20date201-05-20242c20riyel20picture-202_1755580036_fvIhgiOi.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eআমরা জানি, দ্বিতীয় কেন্দ্রিয় পরিঘাত ভেদাঙ্কের সমান।অর্থাৎ, [math]\\mu_{2}=16=\\sigma^{2}=[/math]\u003Cbr\u003E ভেদাঙ্ক\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics2c20chapter-52c20date201-05-20242c20riyel20picture-203_1755580036_cfAMUBoY.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eযেহেতু SK \u003E 0। সুতরাং, প্রদত্ত নিবেশনটি ধনাত্মক বঙ্কিম।আমরা জানি, সূঁচালতাঙ্ক, [math]\\beta_{2}=\\frac{\\mu_{4}}{\\mu_{2}}=\\frac{50}{(16)^{2}}[/math]\u003Cbr\u003E [math]=\\frac{50}{256}=0.19[/math]\u003Cbr\u003Eযেহেতু [math]\\beta_{2}\u003C3[/math]\u003Cbr\u003E সুতরাং প্রদত্ত নিবেশনটি অনতি সূঁচালো।মন্তব্য: যেহেতু প্রদত্ত নিবেশনটি ধনাত্মক বঙ্কিম এবং অনতি সূঁচালো। অতএব, রনির মন্তব্যটি সঠিক ছিল না।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E শোধিত পরিঘাত হলো k-তম কেন্দ্রীয় পরিঘাতকে মানক বিচলনের k-তম ঘাত দ্বারা ভাগ করা; অর্থাৎ [math]\\beta_k=\\dfrac{\\mu_k}{\\sigma^k}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দ্বিতীয় কেন্দ্রীয় পরিঘাত হল বৈচল্যের বর্গমান [math]\\mu_2=\\mathrm{Var}(X)=E[(X-\\mu)^2]\\ge0[/math], তাই এটি ঋণাত্মক হতে পারে না (শূন্য হলে সকল পর্যবেক্ষণ সমান)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E মানক বিচলন [math]\\sigma=\\sqrt{16}=4[/math]; Pearson-এর দ্বিতীয় প্রচুরক ব্যবহার করলে [math]g_1=\\dfrac{3(\\bar x-\\tilde x)}{\\sigma}=\\dfrac{3(16-15)}{4}=\\dfrac{3}{4}=0.75[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E রনির “ধনাত্মক বঙ্কিম” সঠিক কারণ প্রচুরক [math]0.75\u003E0[/math]; কিন্তু চতুর্থ শোধিত পরিঘাত (kurtosis) হলো [math]\\dfrac{\\mu_4}{\\sigma^4}=\\dfrac{50}{256}\\approx0.195\u003C/math], যা 3 থেকে অনেক ছোট, তাই বিতরণটি অতি সূঁচালো নয় বরং প্লাটাইকুরটিক (ফ্ল্যাট), সুতরাং রনির দ্বিতীয় মন্তব্যটি ভুল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392468,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392468,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392468,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392468,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392468,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392468,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392468,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392468,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392468,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392468,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:16.000000Z",
+            "updated_at": "2025-08-19T05:07:16.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392468,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:16.000000Z",
+            "updated_at": "2025-08-19T05:07:16.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 392468,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:16.000000Z",
+            "updated_at": "2025-08-19T05:07:16.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392468,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:16.000000Z",
+            "updated_at": "2025-08-19T05:07:16.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392468,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:16.000000Z",
+            "updated_at": "2025-08-19T05:07:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392467,
+      "value": {
+        "options": {
+          "ক": "সূচালতা কাকে বলে?",
+          "খ": "[math]\\sqrt{\\beta_{1}}\u003C0[/math] কী অর্থ বহন করে? ব্যাখ্যা কর।",
+          "গ": "বিন্যাসটির মধ্যমা নির্ণয় কর।",
+          "ঘ": "বিন্যাসটির বঙ্কিমতাঙ্ক নির্ণয় পূর্বক এর প্রকৃতি সম্পর্কে মন্তব্য কর।"
+        },
+        "question": "একটি নিবেশনের প্রচুরক, পরিমিত ব্যবধান, এবং রিভেদাঙ্ক যথাক্রমে 110, 15 এবং 12%।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো বিন্যাসের সূঁচালতা বলতে পরিমিত রেখার তুলনায় এটির গণসংখ্যা রেখার উঁচু-নিচুর মাত্রাকে বোঝায়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E [math]\\sqrt{\\beta_{1}}\u003C0[/math]\u003Cbr\u003E বলতে বোঝায়, বিন্যাসটি ঋণাত্মক বঙ্কিম।ব্যাখ্যা: [math]\\sqrt{\\beta_{1}}\u003C0[/math]\u003Cbr\u003E বলতে বিন্যাসটি ঋণাত্মক বঙ্কিম বোঝায়। অর্থাৎ, বিন্যাসটির ক্ষেত্রে গড় \u003C মধ্যমা \u003C প্রচুরক হয় এবং বিন্যাসটির গণসংখ্যা রেখার ডানদিক বেশ উঁচু হয় এবং রেখাটির ডানদিকের তুলনায় বামদিক বেশ বিস্তৃত হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে,প্রচুরক, [math]\\mathrm{M}_{0}=110[/math]\u003Cbr\u003E পরিমিত ব্যবধান, [math]\\sigma=15[/math]\u003Cbr\u003Eএবং বিভেদাঙ্ক, [math]C . V=12 \\%[/math]\u003Cbr\u003Eএখানে, [math]\\text { C. } V=12 \\%[/math]\u003Cbr\u003Eবা, [math]\\frac{\\sigma^{\\prime}}{\\bar{x}} \\times 100=12[/math]\u003Cbr\u003Eবা, [math]\\frac{15}{\\bar{x}} \\times 100=12[/math]\u003Cbr\u003Eবা, [math]12 \\bar{x}=1500[/math]\u003Cbr\u003Eবা, [math]\\bar{x}=\\frac{1500}{12}[/math]\u003Cbr\u003E [math]\\therefore \\quad \\overline{\\mathrm{x}}=125[/math]\u003Cbr\u003E∴ গড়, [math]\\bar{x}=125[/math]\u003Cbr\u003Eআমরা জানি,প্রচুরক = (3 × মধ্যমা) – (2 × গড়)বা, 110 = (3 × মধ্যমা) – (2 × 125)বা, 110=3 × মধ্যমা - 250বা, 3 × মধ্যমা = 110 + 250বা, মধ্যমা [math]=\\frac{360}{3}[/math]\u003Cbr\u003E∴ মধ্যমা = 120নির্ণেয় মধ্যমা, Me = 120[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে, পরিমিত ব্যবধান, [math]\\sigma=15[/math]\u003Cbr\u003E'গ' হতে পাই, গড়, [math]\\bar{x}=125[/math]\u003Cbr\u003Eমধ্যমা, [math]\\mathrm{Me}=120[/math]\u003Cbr\u003Eআমরা জানি, কার্ল পিয়ারসনের বঙ্কিমতাঙ্ক,[math]S_{\\mathrm{k}}=\\frac{3(\\bar{x}-\\mathrm{Me})}{\\sigma}[/math]\u003Cbr\u003E [math]=\\frac{3(125-120)}{15}[/math]\u003Cbr\u003E [math]=\\frac{3 \\times 5}{15}=\\frac{15}{15}=1[/math]\u003Cbr\u003Eমন্তব্য: যেহেতু বঙ্কিমতাঙ্ক, [math]S_{\\mathbf{k}}=1 \\text {, }[/math]\u003Cbr\u003E যা একটি ধনাত্মক মান। সুতরাং, প্রদত্ত নিবেশনটি ধনাত্মক বঙ্কিম।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সূচালতা হলো বিবরণীগত বণ্টনের বক্রতার বা অসমমিতার পরিমাণ নির্দেশকারী পরিমাপক; এর চিহ্ন বলে দেয় বণ্টন কোন দিকে লম্বা টেইল আছে (ধনাত্মক হলে ডান-পন্থী, ঋণাত্মক হলে বাম-পন্থী), শূন্য হলে বণ্টন সমমিত।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]\\sqrt{\\beta_{1}}\u003C0[/math] মানে বণ্টনের তৃতীয় কেন্দ্রীয় মুহূর্ত নেগেটিভ, অর্থাৎ বণ্টন ঋণাত্মকভাবে বেঁকে আছে (left-skewed): লম্বা টেইল বামে থাকে এবং সাধারণ ক্রমিক সম্পর্ক থাকে [math]\\text{mean} \u003C \\text{median} \u003C \\text{mode}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে গড় নির্ণয় করি, কেননা রিভেদাঙ্ক (coefficient of variation) [math]\\text{CV}=\\dfrac{\\text{SD}}{\\bar X}\\times100[/math]। এখানে [math]15/\\bar X\\times100=12[/math] হলে [math]\\bar X=15/0.12=125[/math]। এম্পিরিকাল সূত্র অনুযায়ী [math]\\text{mode}=3\\times\\text{median}-2\\times\\bar X[/math], সুতরাং [math]\\text{median}=(\\text{mode}+2\\bar X)/3=(110+2\\times125)/3=120[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পার্সনের সূচক দিয়ে বঙ্কিমতাঙ্ক (skewness) নেওয়া হলে [math]\\text{skewness}=(\\bar X-\\text{mode})/\\text{SD}=(125-110)/15=1[/math] (বা দ্বিতীয় পার্সন সূত্রে [math]3(\\bar X-\\text{median})/\\text{SD}=1[/math])। মান ধনাত্মক হওয়ায় বণ্টন ধনাত্মকভাবে বেঁকে (right-skewed), অর্থাৎ [math]\\text{mode}\u003C\\text{median}\u003C\\bar X[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392467,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392467,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392467,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392467,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392467,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392467,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392467,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392467,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:15.000000Z",
+            "updated_at": "2025-08-19T05:07:15.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392467,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:15.000000Z",
+            "updated_at": "2025-08-19T05:07:15.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392467,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:15.000000Z",
+            "updated_at": "2025-08-19T05:07:15.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392467,
+            "tag_id": 6,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:15.000000Z",
+            "updated_at": "2025-08-19T05:07:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392466,
+      "value": {
+        "options": {
+          "ক": "পরিঘাত কাকে বলে?",
+          "খ": "দ্বিতীয় কেন্দ্রিয় পরিঘাতের মান ভেদাঙ্কের সমান- ব্যাখ্যা কর।",
+          "গ": "৩য় কেন্দ্রিয় পরিঘাত নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের আলোকে সূঁচালতাঙ্ক নির্ণয় করে বিন্যাসটি সম্পর্কে মন্তব্য কর।"
+        },
+        "question": "একটি কলেজের বার্ষিক পরীক্ষায় পরিসংখ্যান বিষয়ে 7 জন ছাত্রের প্রাপ্ত নম্বর নিম্নরূপ : 70, 66, 80, 68, 86, 75, 73",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো তথ্যসারির বা গণসংখ্যা নিবেশনের আকৃতি ও প্রকৃতি নির্ধারণের জন্য তথ্যসারির প্রতিটি মান হতে ওদের গাণিতিক গড় বা অনুমিত গড়ের (গাণিতিক গড় ভিন্ন অন্য যেকোনো মানের) ব্যবধানের বিভিন্ন শক্তি (Power) বা ঘাতের সমষ্টিকে মোট পদসংখ্যা দ্বারা ভাগ করলে যে মান পাওয়া যায়, তাকে পরিঘাত বা মোমেন্ট বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদ্বিতীয় কেন্দ্রিয় পরিঘাত ভেদাঙ্কের সমান। অর্থাৎ, [math]\\mu_{2}=\\sigma^{2}[/math]\u003Cbr\u003E।ব্যাখ্যা: কোনো তথ্যসারির প্রতিটি মান হতে উহার গড় মানের ব্যবধানের দ্বিতীয় ঘাতের সমষ্টিকে পদসংখ্যা দ্বারা ভাগ করে যে মান পাওয়া যায় তাকে দ্বিতীয় কেন্দ্রিয় পরিঘাত বলে।∴ দ্বিতীয় কেন্দ্রিয় পরিঘাত, [math]\\mu_{2}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{2}}{n}[/math]\u003Cbr\u003E [math].....................(i)[/math]\u003Cbr\u003Eআবার, কোনো তথ্যসারির প্রতিটি মান হতে উহার গড় মানের ব্যবধানের বর্গের সমষ্টিকে পদসংখ্যা দ্বারা ভাগ করে যে মান পাওয়া যায় তাকে ভেদাঙ্ক বলে।∴ ভেদাঙ্ক, [math]\\sigma^{2}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{2}}{n}[/math]\u003Cbr\u003E [math].....................(ii)[/math]\u003Cbr\u003Eএখন, সমীকরণ (i) ও (ii) নং হতে পাই, [math]\\mu_{2}=\\sigma^{2}[/math]\u003Cbr\u003Eসুতরাং, দ্বিতীয় কেন্দ্রিয় পরিঘাত ভেদাঙ্কের সমান।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, ছাত্রদের প্রাপ্ত নম্বরের চলক [math]\\mathbf{x}_{i}[/math]\u003Cbr\u003E = 70, 66, 80, 68, 86, 75, 73∴ [math]\\bar{x}=\\frac{\\sum x_{i}}{n}[/math]\u003Cbr\u003E এখানে, [math]n = 7[/math]\u003Cbr\u003E [math]=\\frac{70+66+80+68+86+75+73}{7}[/math]\u003Cbr\u003E [math]=\\frac{518}{7}=74[/math]\u003Cbr\u003E২য়, ৩য় এবং ৪র্থ কেন্দ্রিয় পরিঘাত নির্ণয়ের প্রয়োজনীয় সারণি :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics2c20chapter-52c20date201-05-20242c20riyel20picture-201_1755580035_m2CPpcQL.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eআমরা জানি, ৩য় কেন্দ্রিয় পরিঘাত [math]\\mu_{3}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{3}}{n}[/math]\u003Cbr\u003E [math]=\\frac{1152}{7}=164.57[/math]\u003Cbr\u003Eনির্ণেয় ৩য় কেন্দ্রিয় পরিঘাত [math]\\mu_{3}=164.57 .[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eআমরা জানি, সূঁচালতাঙ্ক, [math]\\beta_{2}=\\frac{\\mu_{4}}{\\mu_{2}{ }^{2}}[/math]\u003Cbr\u003E'গ' এর সারণি ব্যবহার করে পাই, [math]\\mu_{2}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{2}}{n}[/math]\u003Cbr\u003E [math]=\\frac{298}{7}=42.57[/math]\u003Cbr\u003Eএবং ৪র্থ কেন্দ্রিয় পরিঘাত, [math]\\mu_{4}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{4}}{n}[/math]\u003Cbr\u003E [math]=\\frac{27682}{7}=3954.57[/math]\u003Cbr\u003E∴ সূঁচালতাঙ্ক, [math]\\beta_{2}=\\frac{\\mu_{4}}{\\mu_{2}{ }^{2}}=\\frac{3954.57}{(42.57)^{2}}[/math]\u003Cbr\u003E [math]=\\frac{3954.57}{1812,20}=2.18[/math]\u003Cbr\u003Eএখানে, [math]\\beta_{2}\u003C3[/math]\u003Cbr\u003E। সুতরাং, বিন্যাসটি অনতি সূঁচালো।সুতরাং, উদ্দীপকের প্রদত্ত বিন্যাসটি অনতি সূঁচালো।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পরিঘাত (moment) হলো রাশিগুলোর নির্দিষ্ট কেন্দ্র থেকে দূরত্বের n-তম ঘাতের গড়; উৎস পরিঘাত হলে কেন্দ্র হলো শূন্য আর কেন্দ্রীয় পরিঘাত হলে কেন্দ্র হলো গড়, যেমন [math]μ'_r=\\frac{1}{n}\\sum (x_i-\\bar x)^r[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কারণ দ্বিতীয় কেন্দ্রীয় পরিঘাতেই প্রতিটি মানের গড় থেকে বিচ্যুতির বর্গের গড় নেওয়া হয়, যাই ভেদাঙ্ক (population variance) — [math]μ_2=\\frac{1}{n}\\sum (x_i-\\bar x)^2=\\text{ভেদাঙ্ক}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে গড় [math]\\bar x=518/7=74[/math]; প্রতিটি বিচ্যুতির কিউব যোগফল = [math]1152[/math], তাই তৃতীয় কেন্দ্রীয় পরিঘাত [math]μ_3=\\frac{1152}{7}\\approx164.5714[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দ্বিতীয় কেন্দ্রীয় পরিঘাত (ভেদাঙ্ক) [math]μ_2=\\frac{298}{7}\\approx42.5714[/math], সুঁচালতাঙ্ক (standardized skewness) নেওয়া হলে [math]\\beta_1=\\frac{μ_3}{μ_2^{3/2}}\\approx\\frac{164.5714}{(42.5714)^{3/2}}\\approx0.59[/math]; সংখ্যাটি ধনাত্মক হওয়ায় বিন্যাসটি সামান্য বা মাঝারি ভাবে ডানদিকে সুষ্কৃত (right-skewed)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392466,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392466,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392466,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392466,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392466,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392466,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392466,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392466,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:15.000000Z",
+            "updated_at": "2025-08-19T05:07:15.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392466,
+            "tag_id": 6,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:15.000000Z",
+            "updated_at": "2025-08-19T05:07:15.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392466,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:15.000000Z",
+            "updated_at": "2025-08-19T05:07:15.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392466,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:15.000000Z",
+            "updated_at": "2025-08-19T05:07:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392459,
+      "value": {
+        "options": {
+          "ক": "বিভেদাঙ্ক",
+          "খ": "সংশ্লোষাঙ্ক",
+          "গ": "নির্ভরাঙ্ক",
+          "ঘ": "পরিঘাত"
+        },
+        "question": "গণসংখ্যা নিবেশনের আকৃতি প্রকৃতি, জনার জন্য ব্যবহৃত ধ্রুবকসমূহকে কী বলে?",
+        "solution": "পরিঘাত",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392459,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392459,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392465,
+      "value": {
+        "options": {
+          "ক": "গাণিতিক গড়",
+          "খ": "প্রচুরক",
+          "গ": "গড় ব্যবধান",
+          "ঘ": "ভেদাঙ্ক"
+        },
+        "question": "কোনো নিবেশনের দ্বিতীয় কেন্দ্রিয় পরিঘাত কিসের সমান?",
+        "solution": "ভেদাঙ্ক",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392465,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392465,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392464,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কেন্দ্রিয় পরিঘাত হচ্ছে-\n\ni. মূল হতে স্বাধীন কিন্তু মাপনীর ওপর নির্ভরশীল\n\nii. মূলের ওপর নির্ভরশীল কিন্তু মাপনী হতে স্বাধীন\n\niii. মূল ও মাপনী হতে স্বাধীন\n\nনিচের কোনটি সঠিক?",
+        "solution": "i",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392464,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392464,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392463,
+      "value": {
+        "options": {
+          "ক": "-7",
+          "খ": "-2",
+          "গ": "5",
+          "ঘ": "12"
+        },
+        "question": "-7 হতে মাপা প্রথম কাঁচা পরিঘাতের মান 5 হলে গাণিতিক গড়ের মান কত?",
+        "solution": "-2",
+        "explanation": "[math]\\mu_{\\mathrm{i}}^{\\prime}=\\bar{x}-\\mathrm{a}\\therefore\\overline{\\mathrm{x}}=5+(-7)=5-7=-2[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392463,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392463,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392462,
+      "value": {
+        "options": {
+          "ক": "গড় ব্যবধান",
+          "খ": "পৃথিবী",
+          "গ": "ভেদাঙ্ক",
+          "ঘ": "বিভেদাঙ্ক"
+        },
+        "question": "কোনো নিবেশনের ২য় কেন্দ্রিয় পরিঘাত কিসের সমান?",
+        "solution": "ভেদাঙ্ক",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392462,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392462,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392461,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ঋণাত্মক বঙ্কিমতার ক্ষেত্রে-\n\ni. জনসংখ্যা রেখার ডানদিক উঁচু থাকে\n\nii. গড় মামা \u003C প্রচুরক\n\niii. \u003E মধ্যমা \u003E প্রচুরক\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও ii",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392461,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392461,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392460,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "3",
+          "গ": "4",
+          "ঘ": "5"
+        },
+        "question": "বঙ্কিমতা প্রকার?",
+        "solution": "2",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392460,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392460,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392458,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "তথ্যসারির দ্বিতীয় কেন্দ্রীয় পরিঘাতের মান কত?",
+        "solution": "৪",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392458,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392458,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392457,
+      "value": {
+        "options": {
+          "ক": "৫",
+          "খ": "৬",
+          "গ": "৬.৫",
+          "ঘ": "৭"
+        },
+        "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:\n\nএকটি তথ্যসারির ৫-এর সাপেক্ষে ১ম দুটি পরিঘাত যথাক্রমে ১ ও ৫।\nতথ্যসারির গড় কত?",
+        "solution": "৬",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392457,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392457,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392456,
+      "value": {
+        "options": {
+          "ক": "১২",
+          "খ": "১৬",
+          "গ": "৩২",
+          "ঘ": "৪৮"
+        },
+        "question": "একটি গণসংখ্যা নিবেশনের দ্বিতীয় কেন্দ্রীয় পরিখাত ও এবং বিন্যাসটি মধ্যম সুচাল নিবেশন হলে চতুর্থ কেন্দ্রীয় পরিখাতের মান কত?",
+        "solution": "৪৮",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392456,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392456,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392455,
+      "value": {
+        "options": {
+          "ক": "অশোধিত পরিঘাত কাকে বলে ? খ, বঙ্কিমতাবিহীন নিবেশন কোন ধরনের নিবেশন ?",
+          "গ": "উদ্দীপকের আলোকে ভেদাঙ্ক নির্ণয় কর ।",
+          "ঘ": "উদ্দীপকে উল্লিখিত নিবেশনটি অতি সূঁচাল— গাণিতিকভাবে যাচাই কর ।"
+        },
+        "question": "2 থেকে নির্ণীত প্রথম চারটি পরিঘাত যথাক্রমে 1, 5, – 10, 112।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eনিবেশনের বিভিন্ন মান হতে গাণিতিক গড় ভিন্ন অন্য কোনো ধ্রুবকের কল্পিত গড়ের পার্থক্যের বিভিন্ন ঘাত নিয়ে পরিঘাত নির্ণয় করলে যে পরিঘাত পাওয়া যায় তাকে অশোধিত পরিঘাত বলে ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eবঙ্কিমতা বিহীন নিবেশনকে সুষম বা পরিমিতি নিবেশন বলে। এই নিবেশনের গণসংখ্যা রেখা অঙ্কন করলে প্রাপ্ত রেখাটি ঘণ্টা আকৃতির হয় এবং উভয় দিকে সমানভাবে বিস্তৃত থাকে । এই নিবেশনের গড়, মধ্যমা ও প্রচুরকের মান একই হয় ।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-1st20paper-08022420chapter-5-all-board-cq-4_1755580034_pn95XGrn.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, 2 থেকে নির্ণীত১ম অশোধিত পরিঘাত, [math]\\mu_{1}^{\\prime}=1[/math]\u003Cbr\u003E2য় \" \" [math]\\mu_{2}^{\\prime}=5[/math]\u003Cbr\u003E৩য় \" \" [math]\\mu_{3}{ }^{\\prime}=-10[/math]\u003Cbr\u003E৪র্থ \" \" [math]\\mu_{4}^{\\prime}=112[/math]\u003Cbr\u003Eএখন, আমরা জানি,২য় শোধিত পরিঘাত = ভেদাঙ্ক = [math]=\\mu_{2}=\\mu_{2}^{\\prime}-\\mu_{2}{ }^{\\prime 2}[/math]\u003Cbr\u003E [math]=5-1^{2}=5-1=4[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eনিবেশনটির ৪র্থ শোধিত পরিঘাত,[math]\\mu_{4}=\\mu_{4}^{\\prime}-4 \\mu_{3}^{\\prime} \\mu_{1}^{\\prime}+6 \\mu_{2}^{\\prime} \\mu_{2}^{\\prime 2}-3 \\mu_{1}{ }^{4}[/math]\u003Cbr\u003E [math]=112-4(-10) .1+6 \\times 5 \\times 1-3(1)^{4}[/math]\u003Cbr\u003E [math]=112+40+30-3[/math]\u003Cbr\u003E [math]=179[/math]\u003Cbr\u003E∴ সূঁচলতাঙ্ক, [math]\\beta_{2}=\\frac{\\mu^{4}}{\\mu_{2}^{2}}=\\frac{179}{4^{2}}=\\frac{179}{16}=11.19[/math]\u003Cbr\u003Eযেহেতু [math]\\beta_{2}=11.19\u003E3[/math]\u003Cbr\u003E সুতরাং নিবেশনটি অতি সূঁচল ।(যাচাই করো হলো)",
+        "explanation": "ব্যাখ্যা: প্রশ্নে ব্যবহৃত \"পরিঘাত\", \"অশোধিত পরিঘাত\" ও \"বঙ্কিমতাবিহীন নিবেশন\"–এই শব্দগুলোর মানে অস্পষ্ট; সঠিক উত্তর এবং গণিতীয় যাচাই করতে আমাকে নিশ্চিত করতে হবে আপনি কোন প্রসঙ্গ বোঝাচ্ছেন — ধারার টার্ম (sequence), ধারা/সারি (series), না মডিউলর রেসিডিউ/অবশিষ্ট (residue) ইত্যাদি। অনুগ্রহ করে স্পষ্ট করুন; তারপর আমি প্রতিটি অংশের সংক্ষিপ্ত, সঠিক ব্যাখ্যা এবং প্রয়োজনীয় গণিত দেখিয়ে দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392455,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392455,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392455,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392455,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392455,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392455,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392455,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392455,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392455,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392455,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392455,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392455,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392455,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392455,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:14.000000Z",
+            "updated_at": "2025-08-19T05:07:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392454,
+      "value": {
+        "options": {
+          "ক": "পরিঘাত কী?",
+          "খ": "কোনো নিবেশনের B1 \u003E 0 দ্বারা কী বুঝায়? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকে নিবেশনের ভেদাঙ্ক ও প্রচুরক নির্ণয় কর।",
+          "ঘ": "উদ্দীপকে তথ্যের সূঁচলতা নির্ণয় করে মন্তব্য কর ।"
+        },
+        "question": "কোনো নিবেশনের গড়, মধ্যমা, বিভেদাঙ্ক ও চতুর্থ কেন্দ্রিয়\n\nপরিঘাত যথাক্রমে 25, 20, 50% এবং 2021",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eতথ্যসারি বা ঘটনসংখ্যা বিন্যাসের সকল মানগুলো থেকে গাণিতিক গড় বা অন্য কোনো ধ্রুবকের বিচ্যুতি নিয়ে, ঐ বিচ্যুতির বিভিন্ন শক্তি বা ঘাত নির্ণয় করে তাদের সমষ্টিকে মোট তথ্যসংখ্যা দ্বারা ভাগ করে যে মান পাওয়া যায় তাদেরকে পরিঘাত বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E [math]\\beta_{1}[/math]\u003Cbr\u003E বলতে বোঝায় নিবেশনের বঙ্কিমতাঙ্ক । [math]\\beta_{1}\u003E0[/math]\u003Cbr\u003E হলে নিবেশনটি ধনাত্মক বঙ্কিম। কোনো নিবেশনের গণসংখ্যা রেখা যদি বাম দিকে অধিক উঁচু এবং ডান দিকে অধিক বিস্তৃত হয় তবে উক্ত নিবেশনকে ধনাত্মক বঙ্কিম নিবেশন বলা হয়। এক্ষেত্রে গড় \u003E মধ্যমা \u003E প্রচুরক ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, গড়, [math]\\bar{x}=25[/math]\u003Cbr\u003Eমধ্যমা, [math]\\mathrm{Me}=20[/math]\u003Cbr\u003Eবিভেদাঙ্ক, [math]C V=50 \\%[/math]\u003Cbr\u003Eএখন, বিভেদাঙ্ক, [math]C V=\\frac{\\sigma}{\\bar{x}} \\times 100[/math]\u003Cbr\u003Eবা, [math]50=\\frac{\\sigma}{25} \\times 100[/math]\u003Cbr\u003Eবা, [math]\\sigma=\\frac{25 \\times 50}{100}[/math]\u003Cbr\u003Eঅর্থাৎ পরিমিত ব্যবধান, [math]\\sigma=12.5[/math]\u003Cbr\u003E∴ ভেদাঙ্ক [math]=\\sigma^{2}=(12.5)^{2}=156.25[/math]\u003Cbr\u003Eআবার, প্রচুরক, [math]\\mathrm{M}_{0}=3 \\mathrm{Me}-2 \\overline{\\mathrm{x}}[/math]\u003Cbr\u003E [math]=3 \\times 20-2 \\times 25[/math]\u003Cbr\u003E [math]=60-50=10[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে, ৪র্থ কেন্দ্রিয় পরিঘাত, [math]\\mu_{4}=202[/math]\u003Cbr\u003Eআমরা জানি, ২য় কেন্দ্রিয় পরিঘাত, [math]\\mu_{2}=[/math]\u003Cbr\u003E ভেদাঙ্ক [math]=156.25[/math]\u003Cbr\u003E∴ সূঁচলতাঙ্ক [math]\\beta_{2}=\\frac{\\mu_{4}}{\\mu_{2}^{2}}=\\frac{202}{156.25^{2}}=0.0083[/math]\u003Cbr\u003Eএখানে, [math]\\beta_{2}\u003C3[/math]\u003Cbr\u003E সুতরাং নিবেশনটি অনতি সূঁচল ।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পরিঘাত হল বিতরণের অসমতার পরিমাপ; পরিগণিত মান যদি ধনাত্মক হয় তাহলে ডানদিকে (right) লম্বা লেজ, ঋণাত্মক হলে বামদিকে লেজ বেশি থাকে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সাধারণত B1 বা β1 হলে স্কিউনেস নির্দেশ করে; B1 \u003E 0 মানে বিতরণ ধনাত্মক স্কিউ—অর্থাৎ ডান-পক্ষে লেজ বেশি এবং গড় সাধারণত মধ্যমার চেয়ে বড় (এখানে [math]25\u003E20[/math])। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বিভেদাঙ্ক (CV) = 50% হলে মানদণ্ডাভিষিক্ত বিচ্যুতি [math]\\sigma = 0.5\\times 25 = 12.5[/math], সুতরাং বৈচিত্র্য (variance) [math]\\sigma^2 = 12.5^2 = 156.25[/math]. চতুর্থ কেন্দ্রীয় পরিঘাত থেকে প্রচুরক (kurtosis) [math]\\beta_2=\\dfrac{\\mu_4}{\\mu_2^2}=\\dfrac{2021}{156.25^2}=\\dfrac{2021}{24414.0625}\\approx 0.0828[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E স্কিউনেসের দিকটি দেখা যায় গড়-মধ্যমা = [math]25-20=5[/math], তাই Pearson-এর সহজ কোঅফিশিয়েন্ট [math]\\dfrac{25-20}{12.5}=0.4[/math] (ধনাত্মক), অর্থাৎ ডান-দিকের দিকে মাঝারি ধরণের স্কিউ আছে; একই সঙ্গে β2 ≪ 3 হওয়ায় বিতরণটি তুলনামূলকভাবে চওড়া বা platykurtic।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392454,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392454,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392454,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392454,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392454,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392454,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392454,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392454,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392453,
+      "value": {
+        "options": {
+          "ক": "পাঁচ সংখ্যা সার এর সংজ্ঞা দাও ।",
+          "খ": "দ্বিতীয় কেন্দ্রীয় পরিঘাত ঋণাত্মক হতে পারে কি? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপক ব্যবহার করে চতুর্থ কেন্দ্রীয় পরিঘাত নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের আলোকে [math]\\sqrt{\\beta_{1}}[/math] নির্ণয়পূর্বক তথ্যের প্রকৃতি সম্পর্কে মন্তব্য কর ।"
+        },
+        "question": "একটি কারখানার কোনো এক সপ্তাহে দৈনিক অসুস্থ শ্রমিক সংখ্যা নিম্নে দেয়া হলো – 7, 8, 3, 4, 5, 3",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো নিবেশন বা তথ্যসারির সর্বনিম্ন মান (XL), প্রথম চতুর্থক . (Qi), মধ্যমা (Me), তৃতীয় চতুর্থক (Q3) এবং সর্বোচ্চ মান (XH)- কে একত্রে পাঁচ সংখ্যা সার বলা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eআমরা জানি, দ্বিতীয় কেন্দ্রিয় পরিঘাত ও ভেদাঙ্ক একই । কোনো তথ্যসারির গাণিতিক গড় থেকে তথ্যগুলোর বিচ্যুতির বর্গের সমষ্টিকে মোট তথ্য সংখ্যা দ্বারা ভাগ করে যে মান পাওয়া যায়, তাকে উক্ত তথ্যসারির ভেদাঙ্ক বলে।আমরা জানি, বর্গ সংখ্যা সর্বদা ধনাত্মক এবং কতগুলো বৰ্গ সংখ্যার সমষ্টি অবশ্যই ধনাত্মক। অর্থাৎ,[math](x-\\bar{x})^{2}\u003E0[/math]\u003Cbr\u003Eবা, [math]\\Sigma(x-\\bar{x})^{2}\u003E0[/math]\u003Cbr\u003Eবা, [math]\\frac{\\Sigma(x-\\bar{x})^{2}}{n}\u003E0[/math]\u003Cbr\u003Eবা, [math]\\sigma^{2}\u003E0[/math]\u003Cbr\u003Eসুতরাং ভেদাঙ্ক কখনো ঋণাত্মক হতে পারে না, এটি সর্বদাই ধনাত্মক। অর্থাৎ ২য় কেন্দ্রিয় পরিঘাত ঋণাত্মক হতে পারে না ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, [math]x_{i}=7,8,3,4,5,3[/math]\u003Cbr\u003E∴ গড়, [math]\\bar{x}=\\frac{7+8+3+4+5+3}{6}=\\frac{30}{6}=5[/math]\u003Cbr\u003Eআমরা জানি, চতুর্থ কেন্দ্রিয় পরিঘাত, [math]\\mu_{4}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{4}}{n}[/math]\u003Cbr\u003E [math]=\\frac{(7-5)^{4}+(8-5)^{4}+(3-5)^{4}+(4-5)^{4}+(5-5)^{4}+(3-5)^{4}}{6}[/math]\u003Cbr\u003E [math]=\\frac{16+81+16+1+0+16}{6}[/math]\u003Cbr\u003E [math]=\\frac{130}{6}=21.67 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eগ’ নং হতে পাই, x = 5এখন, ২য় কেন্দ্রিয় পরিঘাত,[math]\\mu_{2}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{2}}{n}[/math]\u003Cbr\u003E [math]=\\frac{(7-5)^{2}+(8-5)^{2}+(3-5)^{2}+(4-5)^{2}+(5-5)^{2}+(3-5)^{2}}{6}[/math]\u003Cbr\u003E [math]=\\frac{4+9+4+1+0+4}{6}=\\frac{22}{6}=3.67[/math]\u003Cbr\u003Eএবং ৩য় কেন্দ্রিয় পরিঘাত,[math]\\mu_{3}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{3}}{n}[/math]\u003Cbr\u003E [math]=\\frac{(7-5)^{3}+(8-5)^{3}+(3-5)^{3}+(4-5)^{3}+(5-5)^{3}+(3-5)^{3}}{6}[/math]\u003Cbr\u003E [math]=\\frac{8+27-8-1+0-8}{6}=\\frac{18}{6}=3[/math]\u003Cbr\u003Eআমরা জানি, বঙ্কিমতা,[math]\\sqrt{\\beta_{1}}=\\frac{\\mu_{3}}{\\sqrt{\\mu_{2}^{3}}}=\\frac{3}{\\sqrt{(3.67)^{3}}}[/math]\u003Cbr\u003E [math]=\\frac{3}{7.03}=0.427\u003E0[/math]\u003Cbr\u003Eযেহেতু [math]\\sqrt{\\beta_{1}}\u003E0[/math]\u003Cbr\u003E, সুতরাং দৈনিক অসুস্থ শ্রমিক সংখ্যার তথ্যের নিবেশনটি ধনাত্মক বঙ্কিম ।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পাঁচ সংখ্যা সার হলো একটা ডেটাসেটের ন্যূনতম মান, প্রথম ত্রৈমাসিক [math](Q_1)[/math], মধ্যক (median), তৃতীয় ত্রৈমাসিক [math](Q_3)[/math] এবং সর্বোচ্চ মান — এই পাঁচটি সারসংক্ষেপ করে বিতরণের অবস্থান ও বিস্তার দেখায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E না — দ্বিতীয় কেন্দ্রীয় পরিঘাত (অর্থাৎ কেন্দ্রিক দ্বিতীয় মুহূর্ত বা জনগোষ্ঠী ভ্যারিয়анс) কখনো ঋণাত্মক হতে পারে না কারণ এটি বর্গকৃত বিচ্যুতির গড় এবং সবসময় [math]≥0[/math]।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে গড় [math]\\bar{x}=\\frac{7+8+3+4+5+3}{6}=5[/math]; কেন্দ্রিক চতুর্থ মুহূর্তের জন্য বিচ্যুতিগুলোর চতুর্থ ঘাতের যোগফল [math]=130[/math], তাই [math]\\mu_4=\\frac{130}{6}=\\frac{65}{3}\\approx21.6667[/math]।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E এখানে কেন্দ্রিক দ্বিতীয় ও তৃতীয় মুহূর্ত হল [math]\\mu_2=\\frac{22}{6}=\\frac{11}{3}[/math] এবং [math]\\mu_3=\\frac{18}{6}=3[/math]; সুতরাং [math]\\beta_1=\\frac{\\mu_3^2}{\\mu_2^3}=\\frac{243}{1331}[/math] এবং [math]\\sqrt{\\beta_1}=\\sqrt{\\frac{243}{1331}}\\approx0.427[/math]. যেহেতু [math]\\mu_3\u003E0[/math], তথ্যটি সামান্য оң (right) বা ধনাত্মকভাবে তীরা—অর্থাৎ সামান্য ডান-বাঁকানো।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392453,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392453,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392453,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392453,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392453,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392453,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392453,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 392453,
+            "tag_id": 3,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392453,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392453,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392453,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392452,
+      "value": {
+        "options": {
+          "ক": "বঙ্কিমতা কী?",
+          "খ": "কোনো বিন্যাসের ক্ষেত্রে [math]\\beta_{2}=3[/math] দ্বারা কী বুঝায়? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপক হতে তৃতীয় কেন্দ্রীয় পরিঘাত নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের আলোকে সূঁচালতাঙ্ক নির্ণয়পূর্বক বিন্যাসটির আকৃতি সম্পর্কে মন্তব্য কর।"
+        },
+        "question": "একটি বিন্যাসের 3 হতে নির্ণীত প্রথম চারটি পরিঘাত\n\nযথাক্রমে 1, 20, 28 এবং 90",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eএকটি গণসংখ্যা নিবেশনের আকারের বা গঠন প্রকৃতির প্রতিসাম্যের অভাবকে অথবা তার অপ্রতিসাম্যতাকে বঙ্কিমতা বলে ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eকোনো বিন্যাসে সূঁচলতাঙ্ক, [math]\\beta 2=[/math]\u003Cbr\u003E ৩ বলতে বুঝায়, বিন্যাসটি মধ্যম সূঁচল । অর্থাৎ তথ্যসারির বা গণসংখ্যা নিবেশনের গণসংখ্যা রেখাটি পরিমিত রেখার সমান। এটি পরিমিত রেখার ন্যায় ঘণ্টাকৃতির । লেখচিত্রের সাহায্যে উপস্থাপন করা হলে—\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-1st20paper-08022420chapter-5-all-board-cq-3_1755580033_6nWuZnlt.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, -3 হতে নির্ণীত ১ম চারটি পরিঘাত যথাক্রমে,[math]\\mu_{1}^{\\prime}=-1[/math]\u003Cbr\u003E [math]\\mu_{2}^{\\prime}=20[/math]\u003Cbr\u003E [math]\\mu_{3}^{\\prime}=28[/math]\u003Cbr\u003E [math]\\mu_{4}^{\\prime}=90[/math]\u003Cbr\u003Eআমরা জানি, তৃতীয় কেন্দ্রীয় পরিঘাত,[math]\\mu_{3}=\\mu_{3}^{\\prime}-3 \\mu_{2}^{\\prime} \\mu_{1}^{\\prime}+2 \\mu_{1}^{\\prime}[/math]\u003Cbr\u003E [math]=28-3 \\times 20 \\times(-1)+2 \\times(-1)^{3}[/math]\u003Cbr\u003E [math]=28+60-2=88-2=86 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে, [math]\\mu_{1}^{\\prime}=-1, \\mu_{2}^{\\prime}=20, \\mu_{3}^{\\prime}=28[/math]\u003Cbr\u003E এবং [math]\\mu_{4}^{\\prime}=90[/math]\u003Cbr\u003Eএখন, দ্বিতীয় কেন্দ্রীয় পরিঘাত, [math]\\mu_{2}=\\mu_{2}^{\\prime}-\\mu_{1}^{\\prime 2}[/math]\u003Cbr\u003E [math]=20-(-1)^{2}=20-1=19[/math]\u003Cbr\u003Eএবং চতুর্থ কেন্দ্রীয় পরিঘাত,[math]\\mu_{4}=\\mu_{4}^{\\prime}-4 \\mu_{3}^{\\prime} \\mu_{1}^{\\prime}+6 \\mu_{2}^{\\prime} \\mu_{1}^{\\prime 2}-2 \\mu_{1}^{\\prime}[/math]\u003Cbr\u003E [math]=90-4 \\times 28 \\times(-1)+6 \\times 20 \\times(-1)^{2}-2 \\times(-1)^{4}[/math]\u003Cbr\u003E [math]=90+112+120-2=320[/math]\u003Cbr\u003Eআমরা জানি, সূঁচলতাঙ্ক, [math]\\beta_{2}=\\frac{\\mu_{4}}{\\mu_{2}^{2}}=\\frac{320}{(19)^{2}}=\\frac{320}{361}=0.89\u003C3[/math]\u003Cbr\u003Eযেহেতু বিন্যাসটির সূঁচলতাঙ্ক [math]\\beta_{2}, 3[/math]\u003Cbr\u003E অপেক্ষা ছোট। সুতরাং বিন্যাসটি অনতি সূঁচল ।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বঙ্কিমতা হলো তৃতীয় কেন্দ্রীয় পরিঘাতের মানকে দ্বিতীয় কেন্দ্রীয় পরিঘাতের [math]3/2[/math] ঘাত দ্বারা ভাগ করলে যে অনুপাত পাওয়া যায়, অর্থাৎ [math]\\gamma_{1}=\\dfrac{\\mu_{3}}{\\mu_{2}^{3/2}}[/math]। এটি ডিস্ট্রিবিউশনের সিমেট্রি‑বা এটার বাঁ/ডান ঝোঁক নির্দেশ করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]\\beta_{2}=3[/math] দ্বারা বোঝায় যে চতুর্থ কেন্দ্রীয় পরিঘাতের মান যদি [math]\\mu_{4}=\\;3\\mu_{2}^{2}[/math] হয়, তবে ডিস্ট্রিবিউশনটির কুর্টোসিস সাধারণ নর্মালের সমতুল্য (mesokurtic); মান \u003E3 হলে leptokurtic (নিয়ত লেজ), \u003C3 হলে platykurtic (পতল লেজ)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথম চারটি পরিঘাত করেছে: [math]m_{1}'=1,\\;m_{2}'=20,\\;m_{3}'=28[/math] (সবগুলো 3 থেকে নির্ণীত)। ফলে গড় [math]\\mu=3+1=4[/math] এবং তৃতীয় কেন্দ্রীয় পরিঘাত\n[math]\\mu_{3}=E[(X-4)^{3}]=E[(X-3-1)^{3}]=28-3(20)+3(1)-1=-30.[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সূঁচালতাঙ্ক (skewness)\n[math]\\gamma_{1}=\\dfrac{\\mu_{3}}{\\mu_{2}^{3/2}}=\\dfrac{-30}{19^{3/2}}\\approx -0.362[/math]; নেগেটিভ মান হওয়ায় বিন্যাসটি বামদিকের দিকে ঝুঁকিপূর্ণ (left‑skewed)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392452,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392452,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392452,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392452,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392452,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392452,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392452,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392452,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392452,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392452,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392452,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        },
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 392452,
+            "tag_id": 3,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392452,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:13.000000Z",
+            "updated_at": "2025-08-19T05:07:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392451,
+      "value": {
+        "options": {
+          "ক": "কেন্দ্রীয় পরিঘাত কী?",
+          "খ": "[math]\\beta_{2}=3[/math] কি অর্থ বহন করে? ব্যাখ্যা কর।",
+          "গ": "তথ্যের দ্বিতীয় কেন্দ্রীয় পরিঘাত নির্ণয় কর।",
+          "ঘ": "গড়, মধ্যমা, প্রচুরক নির্ণয় করে বিন্যাসটির বঙ্কিমতা সম্পর্কে মন্তব্য কর ।"
+        },
+        "question": "শিমির পর্যবেক্ষণ তথ্য নিম্নরূপ:\n\n3, 2, 5, 4, 1, 3",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো নিবেশনের বিভিন্ন মান থেকে তাদের গাণিতিক গড়ের পার্থক্যের বিভিন্ন ঘাত পরিমাপ করে যে পরিঘাত নির্ণয় করা হয় তাকে কেন্দ্রীয় পরিঘাত বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eকোনো বিন্যাসের সূঁচলতাঙ্ক, [math]\\beta_{2}=3[/math]\u003Cbr\u003E বলতে বুঝায়, বিন্যাসটি মধ্যম সূঁচল। অর্থাৎ তথ্যসারির বা গণসংখ্যা নিবেশনের গণসংখ্যা রেখাটি পরিমিত রেখার সমান। এটি পরিমিত রেখার ন্যায় ঘণ্টাকৃতির। লেখচিত্রের সাহায্যে উপস্থাপন করা হলে-\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-1st20paper-08022420chapter-5-all-board-cq-1_1755580032_HybtM3ET.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eচিত্র : [math]\\beta_{2}=3[/math]\u003Cbr\u003E অর্থাৎ মধ্যম সূঁচল রেখা[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, x = 3, 2, 5, 4, 1, 3এখানে, n = 6∴ গড়, [math]\\bar{x}=\\frac{\\sum x_{i}}{n}=\\frac{3+2+5+4+1+3}{6}=\\frac{18}{6}=3[/math]\u003Cbr\u003Eআমরা জানি, দ্বিতীয় কেন্দ্রীয় পরিঘাত, [math]\\mu_{2}[/math]\u003Cbr\u003E [math]=\\frac{\\Sigma\\left(x_{i}-\\bar{x}\\right)^{2}}{n}[/math]\u003Cbr\u003E [math]=\\frac{(3-3)^{2}+(2-3)^{2}+(5-3)^{2}+(4-3)^{2}+(1-3)^{2}+(3-3)^{2}}{6}[/math]\u003Cbr\u003E [math]=\\frac{0+1+4+1+4+0}{6}=\\frac{10}{6}=1.67[/math]\u003Cbr\u003E (প্রায়)∴ তথ্যের দ্বিতীয় কেন্দ্রীয় পরিঘাত, [math]\\mu_{2}=1.67[/math]\u003Cbr\u003E (প্রায়) [math]\\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপ্রদত্ত উপত্তটিকে মানের ঊর্ধ্বক্রমে সাজিয়ে পাই, 1, 2, 3, 3, 4, 5 এখানে, উপাত্তসংখ্যা, n = 6 যা জোড় সংখ্যা।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-1st20paper-08022420chapter-5-all-board-cq-2_1755580031_llt6fycj.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]=\\frac{3+3}{2}[/math]\u003Cbr\u003E [math]=\\frac{6}{2}=3[/math]\u003Cbr\u003Eআবার, প্রদত্ত উপাত্তে ও সংখ্যাটি সর্বাধিক 2 বার রয়েছে। সুতরাং প্রদত্ত তথ্যের প্রচুরক হলো 3. 'ক' হতে পাই তথ্যের গত = 3∴ গড় - মধ্যমা = প্রচুরক = 3যেহেতু প্রদত্ত তথ্যের গড়, মধ্যমা ও প্রচুরক সমান ।সুতরাং বিন্যাসটি সুষম নিবেশন। অর্থাৎ বিন্যাসটির নিবেশন বঙ্কিমতা বিহীন।চিত্রের সাহায্যে,?",
+        "explanation": "সমাধান:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কেন্দ্রীয় পরিঘাত হল গড়ের চারপাশে মুহূর্ত; সাধারণভাবে kth কেন্দ্রীয় পরিঘাত: [math]\\mu_k=E[(X-\\mu)^k][/math] এবং প্রথম কেন্দ্রীয় পরিঘাত সর্বদা শূন্য। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]\\beta_{2}=3[/math] হল স্ট্যান্ডার্ডাইজড চতুর্থ কেন্দ্রীয় মুহূর্ত (কুরটোসিস) এবং মান 3 হলে সেটি স্বাভাবিক বণ্টনের সমমান—অর্থাৎ ম্যাসোকর্টিক (নোর্মাল-এর মত তীক্ষ্ণতা)। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E δεδομένα: 3,2,5,4,1,3; গড় [math]\\bar{x}=\\frac{18}{6}=3[/math]; বিচ্যুতি বর্গের যোগফল = [math]0^2+(-1)^2+2^2+1^2+(-2)^2+0^2=10[/math], তাই দ্বিতীয় কেন্দ্রীয় পরিঘাত (জনসংখ্যা অনুযায়ী) [math]\\mu_2=\\frac{10}{6}=\\frac{5}{3}[/math] (নমুনা variance হলে [math]s^2=\\frac{10}{5}=2[/math])। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গড় = [math]3[/math], মধ্যমা = [math]3[/math] (অর্ডার: 1,2,3,3,4,5 → মাঝের দুটির গড় =3), প্রচুরক = 3; গড়=মধ্যমা=প্রচুরক হওয়ায় বিন্যাসটি প্রায় সমমিত এবং বঙ্কিমতা (স্কিউনেস) শূন্যের কাছাকাছি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392451,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392451,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392451,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392451,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392451,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392451,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392451,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392451,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:12.000000Z",
+            "updated_at": "2025-08-19T05:07:12.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392451,
+            "tag_id": 3179,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:12.000000Z",
+            "updated_at": "2025-08-19T05:07:12.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392451,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:12.000000Z",
+            "updated_at": "2025-08-19T05:07:12.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392451,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:12.000000Z",
+            "updated_at": "2025-08-19T05:07:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392449,
+      "value": {
+        "options": {
+          "ক": "সূঁচালতা কাকে বলে?",
+          "খ": "প্রথম শোধিত পরিঘাতের মান শূন্য-ব্যাখ্যা কর।",
+          "গ": "তৃতীয় কেন্দ্রিয় পরিঘাতের মান নির্ণয় কর।",
+          "ঘ": "সূঁচালতা নির্ণয়পূর্বক নিবেশনটি সম্পর্কে মন্তব্য কর।"
+        },
+        "question": "কোনো এক প্রতিষ্ঠানের ৪ জন কর্মচারীর মাসিক আয় (হাজার টাকায়) নিচে দেওয়া হলো :\n\n10, 8, 12, 10, 13, 9, 11 এবং 7।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো বিন্যাসের সূঁচালতা বলতে পরিমিত রেখার তুলনায় এটির গণসংখ্যা রেখার উঁচু-নিচুর মাত্রাকে বুঝায়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eএই প্রথম শোধিত পরিঘাতের মান শূন্য।ব্যাখ্যা: আমরা জানি, প্রথম শোধিত পরিঘাত, [math]\\mu_{1}=\\frac{\\Sigma\\left(x_{i}-\\bar{x}\\right)}{n}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{\\Sigma x_{i}}{n}-\\frac{n \\bar{x}}{n}[/math]\u003Cbr\u003E [math]=\\bar{x}-\\bar{x}=0[/math]\u003Cbr\u003Eসুতরাং, প্রথম শোধিত পরিঘাতের মান শূন্য।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, [math]\\mathbf{X}_{\\mathrm{i}}[/math]\u003Cbr\u003E=10, 8, 12, 10, 13, 9, 11, 7[math]\\therefore \\bar{x}=\\frac{\\sum x_{i}}{n}[/math]\u003Cbr\u003E [math]=\\frac{10+8+12+10+13+9+11+7}{8}[/math]\u003Cbr\u003E [math]=\\frac{80}{8}=10[/math]\u003Cbr\u003E২য়, ৩য় এবং ৪র্থ কেন্দ্রিয় পরিঘাত নির্ণয়ের প্রয়োজনীয় সারণি:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics2c20chapter-52c20date201-05-20242c20riyel20picture-204_1755580030_0VzyMnWM.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eআমরা জানি, তৃতীয় কেন্দ্রিয় পরিঘাত [math]\\mu_{3}=\\frac{\\Sigma\\left(x_{i}-\\bar{x}\\right)^{3}}{n}[/math]\u003Cbr\u003E [math]=\\frac{0}{8}=0[/math]\u003Cbr\u003Eনির্ণেয় তৃতীয় কেন্দ্রিয় পরিঘাত, [math]\\mu_{3}=0[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eআমরা জানি, সূঁচালতাঙ্ক, [math]\\beta_{2}=\\frac{\\mu_{4}}{\\mu_{2}{ }^{2}}[/math]\u003Cbr\u003E'গ' এর সারণি ব্যবহার করে পাই,দ্বিতীয় কেন্দ্রিয় পরিঘাত, [math]\\mu_{2}=\\frac{\\Sigma\\left(x_{i}-\\bar{x}\\right)^{2}}{n}[/math]\u003Cbr\u003E [math]=\\frac{28}{8}=3 \\cdot 5[/math]\u003Cbr\u003Eচতুর্থ কেন্দ্রিয় পরিঘাত, [math]\\mu_{4}=\\frac{\\Sigma\\left(x_{i}-\\bar{x}\\right)^{4}}{n}[/math]\u003Cbr\u003E [math]=\\frac{196}{8}=24 \\cdot 5[/math]\u003Cbr\u003E∴ সূচালতাঙ্ক, [math]\\beta_{2}=\\frac{\\mu_{4}}{\\mu_{2}^{2}}[/math]\u003Cbr\u003E [math]=\\frac{24 \\cdot 5}{(3 \\cdot 5)^{2}}=\\frac{24 \\cdot 5}{12 \\cdot 25}=2[/math]\u003Cbr\u003Eমন্তব্য: যেহেতু [math]\\beta_{2}\u003C3[/math]\u003Cbr\u003E। সুতরাং, প্রদত্ত নিবেশনটি অনতি সূঁচালো।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সূঁচালতা হলো বণ্টনের অসমতার পরিমাপ; এটি বলে কিসের দিকে ও কতটা লেজ (tail) উঠেছে—ধনাত্মক সূঁচালতা ডানদিকে লেজ, ঋণাত্মক বামদিকে লেজ নির্দেশ করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E প্রথম শোধিত (প্রথম কেন্দ্রীয়) পরিঘাত হল [math]\\frac{1}{n}\\sum (x_i-\\bar{x})[/math] এবং এটি শূন্য কারণ বেলায়গের যোগফল শূন্য, অর্থাৎ [math]\\sum (x_i-\\bar{x})=0[/math]। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে গড় নির্ণয় করি: [math]\\bar{x}=\\frac{80}{8}=10[/math]; মানগুলোর বিচ্যুতি হল [math]0,-2,2,0,3,-1,1,-3[/math] এবং তাদের ঘনফলগুলোর যোগফল শূন্য, তাই তৃতীয় কেন্দ্রীয় পরিঘাত [math]\\mu_3=\\frac{1}{8}\\sum (x_i-\\bar{x})^3=0[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সূঁচালতা = [math]g_1=\\mu_3/\\sigma^3=0[/math], তাই বণ্টনটা সমমিত (symmetric) — মানগুলোর নেতিবাচক ও ধনাত্মক বিচ্যুতিগুলো জোড়ায় মিলছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392449,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392449,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392449,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392449,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392449,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392449,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392449,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392449,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392449,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392449,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:10.000000Z",
+            "updated_at": "2025-08-19T05:07:10.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392449,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:10.000000Z",
+            "updated_at": "2025-08-19T05:07:10.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392449,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:10.000000Z",
+            "updated_at": "2025-08-19T05:07:10.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392449,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:10.000000Z",
+            "updated_at": "2025-08-19T05:07:10.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 392449,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:07:10.000000Z",
+            "updated_at": "2025-08-19T05:07:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392450,
+      "value": {
+        "options": {
+          "ক": "কাঁচা/অশোধিত পরিঘাত কী?",
+          "খ": "বঙ্কিমতাঙ্ক (Vii) এর মান 0 হতে পারে কী? ব্যাখ্যা কর।",
+          "গ": "তথ্যের তৃতীয় কেন্দ্রীয় পরিঘাত নির্ণয় কর। ঘ, আসিফের মন্তব্য যাচাই কর।"
+        },
+        "question": "আসিফের সংগৃহীত তথ্য অনুযায়ী ৩ হতে মাপা চারটি পরিঘাত যথাক্রমে :\n\n-1 5 -9 30\n\nআসিফ মন্তব্য করল “নিবেশনটি অনতি সূঁচালো।”",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো নিবেশনের প্রতিটি মান হতে গাণিতিক গড় ছাড়া অন্য যেকোনো ধ্রুবকের ব্যবধানের বিভিন্ন ঘাতের সমষ্টিকে মোট তথ্যসংখ্যা দ্বারা ভাগ করলে যে মান পাওয়া যায় তাকে কাঁচা/অশোধিত পরিঘাত বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eবঙ্কিমতাঙ্ক [math]\\left(\\sqrt{\\beta_{1}}\\right)[/math]\u003Cbr\u003Eআমরা জানি, বঙ্কিমতাঙ্ক, [math]\\left(\\sqrt{\\beta_{1}}\\right)=\\sqrt{\\frac{\\mu_{3}^{2}}{\\mu_{2}^{3}}}=\\frac{\\mu_{3}}{\\sqrt{\\mu_{2}^{3}}}[/math]\u003Cbr\u003Eযেখানে, [math]\\mu_{3}=[/math]\u003Cbr\u003E ৩য় কেন্দিয় পরিঘাতএবং [math]\\mu_{2}=[/math]\u003Cbr\u003E ২য় কেন্দ্রিয় পরিঘাতযেহেতু [math]\\mu_{2}[/math]\u003Cbr\u003E এর মান সর্বদা ধনাত্মক। কিন্তু [math]\\mu_{3}[/math]\u003Cbr\u003E এর মান ধনাত্মক, ঋণাত্মক অথবা, শূন্য হতে পারে। [math]\\mu_{3}[/math]\u003Cbr\u003E এর মান শূন্য হলে বঙ্কিমতাঙ্কের মানও শূন্য হয়। এবং বঙ্কিমতাঙ্কের মান শূন্য হলে নিবেশনটি সুষম হয়। সুতরাং বলা যায় যে, কোনো নিবেশনের তৃতীয় কেন্দ্রিয় পরিঘাত [math]\\left(\\mu_{3}\\right)[/math]\u003Cbr\u003E এর মান শূন্য হলে নিবেশনের বঙ্কিমতাঙ্ক [math]\\left(\\sqrt{\\beta_{1}}\\right)[/math]\u003Cbr\u003E এর মান 0 হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, a=3১ম অশোধিত পরিঘাত, [math]\\mu_{1}^{\\prime}=-1[/math]\u003Cbr\u003E২য় অশোধিত পরিঘাত, [math]\\mu_{2}^{\\prime}=5[/math]\u003Cbr\u003E৩য় অশোধিত পরিঘাত, [math]\\mu_{3}^{\\prime}=-9[/math]\u003Cbr\u003E৪র্থ অশোধিত পরিঘাত, [math]\\mu_{4}^{\\prime}=30[/math]\u003Cbr\u003E∴ তৃতীয় কেন্দ্রিয় পরিঘাত, [math]\\mu_{3}=\\mu_{3}^{\\prime}-3 \\mu_{2}^{\\prime} \\mu_{1}^{\\prime}+3 \\mu_{1}^{\\prime}[/math]\u003Cbr\u003E [math]=-9-3 \\times 5 \\times(-1)+2 \\times(-1)^{3}[/math]\u003Cbr\u003E [math]=-9+15-2[/math]\u003Cbr\u003E [math]=15-11[/math]\u003Cbr\u003E [math]=4 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে, ১ম অশোধিত পরিঘাত, [math]\\mu_{1}^{\\prime}=-1[/math]\u003Cbr\u003E২য় অশোধিত পরিঘাত, [math]\\mu_{2}^{\\prime}=5[/math]\u003Cbr\u003E৩য় অশোধিত পরিঘাত, [math]\\mu_{3}^{\\prime}=-9[/math]\u003Cbr\u003Eএবং ৪র্থ অশোধিত পরিঘাত [math]\\mu_{4}^{\\prime}=30[/math]\u003Cbr\u003Eআমরা জানি, হয় কেন্দ্রিয় পরিঘাত, [math]\\mu_{2}=\\mu_{2}^{\\prime}-\\left(\\mu_{1}^{\\prime}\\right)^{2}[/math]\u003Cbr\u003E [math]=5-(-1)^{2}[/math]\u003Cbr\u003E [math]=5-1=4[/math]\u003Cbr\u003E৪র্থ কেন্দ্রিয় পরিঘাত, [math]\\mu_{4}[/math]\u003Cbr\u003E [math]=\\mu_{4}^{\\prime}-4 \\mu_{3}^{\\prime} \\mu_{1}^{\\prime}+6 \\mu_{2}^{\\prime} \\mu_{1}^{\\prime 2}-3 \\mu_{1}^{\\prime 4}[/math]\u003Cbr\u003E [math]=30-4 \\times(-9) \\times(-1)+6 \\times 5 \\times(-1)^{2}-3 \\times(-1)^{4}[/math]\u003Cbr\u003E [math]=30-36+30-3[/math]\u003Cbr\u003E [math]=60-39=21[/math]\u003Cbr\u003Eআমরা জানি, সূঁচলতা, [math]\\beta_{2}=\\frac{\\mu_{4}}{\\mu_{2}^{2}}=\\frac{21}{4^{2}}=\\frac{21}{16}=1.3125\u003C3[/math]\u003Cbr\u003Eযেহেতু, [math]\\beta_{2}\u003C3[/math]\u003Cbr\u003E । সুতরাং প্রদত্ত নিবেশনটি অনতি সূঁচল। অর্থাৎ আসিফের মন্তব্যটি সঠিক।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কাঁচা/অশোধিত পরিঘাত হলো দেওয়া মানগুলো নিজেই, অর্থাৎ [math]-1,\\;5,\\;-9,\\;30[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বঙ্কিমতাঙ্ক (skewness) শূন্য হতে পারে—কেবল তখনই যদি তৃতীয় কেন্দ্রীয় পরিঘাত শূন্য হয় (ডেটা গড়কে কেন্দ্র করে সিমেট্রিক হয়)। যদি তৃতীয় কেন্দ্রীয় পরিঘাত নন-শূন্য হয়, তাহলে Vii শূন্য হবে না।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে মূল পর্যবেক্ষণগুলো হল [math]2,\\,8,\\,-6,\\,33[/math] (কারণ এগুলো 3–থেকে মাপা)। গড় হলো [math]\\bar x=(2+8-6+33)/4=9.25[/math] এবং তৃতীয় কেন্দ্রীয় পরিঘাত  \n[math]\\mu_3=\\frac{1}{4}\\sum (x_i-\\bar x)^3=\\frac{9466.875}{4}=2366.71875[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যাচাই: বর্গ-মোট [math]\\sum (x_i-\\bar x)^2=850.75,\\ \\sigma^2=212.6875,\\ \\sigma\\approx14.585,\\ \\sigma^3\\approx3102.30[/math], তাই বঙ্কিমতাঙ্ক [math]\\gamma_1=\\mu_3/\\sigma^3\\approx2366.72/3102.30\\approx0.76[/math]. ফলে ডেটা ধনাত্মকভাবে কিছুটা বাঁকা (positively skewed), কিন্তু \"অনতি সূঁচালো\" — খুব অতিরঞ্জিত— নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4137,
+      "created_at": "2025-08-19T05:07:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392450,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392450,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392450,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392450,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392450,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392450,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392450,
+            "tag_id": 3179,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:10.000000Z",
+            "updated_at": "2025-08-19T05:07:10.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392450,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:10.000000Z",
+            "updated_at": "2025-08-19T05:07:10.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392450,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T05:07:10.000000Z",
+            "updated_at": "2025-08-19T05:07:10.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392450,
+            "tag_id": 4,
+            "year": null,
+            "created_at": "2025-08-19T05:07:10.000000Z",
+            "updated_at": "2025-08-19T05:07:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4137&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4137&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4137&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 21,
+  "total": 21
+}

@@ -1,0 +1,2433 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 391707,
+      "value": {
+        "options": [],
+        "question": "বিচ্ছিন্ন চলক কাকে বলে?",
+        "solution": "যে চলকের মানগুলো গণনার মাধ্যমে পাওয়া যায় তাকে বিচ্ছিন্ন চলক বলে।",
+        "explanation": "ব্যাখ্যা: বিচ্ছিন্ন চলক হলো সেই চলক যা পরীক্ষা বা গবেষণায় গবেষক নিজে স্বাধীনভাবে পরিবর্তন বা নিয়ন্ত্রণ করে, এবং তার পরিবর্তনই নির্ভরশীল চলকের উপর প্রভাব ফেলে। তাই এটি কারণসুচক চলক — অন্য চলকের মান পরিবর্তনের জন্য মূলত এটিই নিয়ন্ত্রিত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 97,
+          "year": "2030",
+          "pivot": {
+            "question_bank_id": 391707,
+            "year_id": 97
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391707,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391707,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391707,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391707,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391707,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391707,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391707,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391707,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 391707,
+            "tag_id": 236,
+            "year": "2030",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391707,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391707,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391707,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391707,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391706,
+      "value": {
+        "options": {
+          "ক": "ধ্রুবক কী?",
+          "খ": "“একজন ছাত্রের বয়স 17 বছর।”-- এটি কি পরিসংখ্যান? ব্যাখ্যা কর।",
+          "গ": "[math]\\sum_{i=1}^{5}\\left(3 x_{i}^{2}-5 x_{i}-2\\right)[/math] এর মান নির্ণয় কর।",
+          "ঘ": "লিমনের বক্তব্য যাচাই কর।"
+        },
+        "question": "লিমনের সংগ্রহীত তথ্য নিম্নরূপ:\n\n[math]x_{1}=5, x_{2}=-2, x_{3}=7, x_{4}=1, x_{5}=3[/math]\n\nলিমন বলল, [math]\\sum_{i=1}^{5} x_{i}^{2} \\neq\\left(\\sum_{i=1}^{5} x_{i}\\right)^{2}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে বৈশিষ্ট্য সমগ্রক বা নমুনার এককের সাপেক্ষে গুণে বা মানে পরিবর্তন হয় না তাকে ধ্রুবক বলে ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eএকজন ছাত্রের বয়স 17 বছর তথ্যটি পরিসংখ্যান হতে পারে না । কারণ একটি সংখ্যাত্মক তথ্য পরিসংখ্যান হবে যদি-i. সংখ্যাত্মক তথ্যটি অনুসন্ধান ক্ষেত্রের সাথে সম্পর্কিত হয়।ii. পরিসংখ্যানিক তথ্য সুশৃঙ্খলভাবে সংগৃহীত তথ্যের সমষ্টি হয়।iii. এটি তুলনাযোগ্য ও সমজাতীয় হয়।অতএব, পরিসংখ্যানের শর্তমতে উল্লিখিত তথ্যটি পরিসংখ্যান নয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, [math]x_{1}=5, x_{2}=-2, x_{3}=7, x_{4}=1, x_{5}=3[/math]\u003Cbr\u003Eএখন, [math]\\sum_{i=1}^{5}\\left(3 x_{i}^{2}-5 x_{i}-2\\right)[/math]\u003Cbr\u003E [math]=3 \\sum_{i=1}^{5} x_{i}^{2}-5 \\sum_{i=1}^{5} x_{i}-2 \\times 5[/math]\u003Cbr\u003E [math]=3\\left(5^{2}+(-2)^{2}+7^{2}+1^{2}+3^{2}\\right)-5(5-2+7+1+3)-10[/math]\u003Cbr\u003E [math]=3 \\times 88-5 \\times 14-10[/math]\u003Cbr\u003E [math]=264-70-10=184[/math]\u003Cbr\u003EAns.[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, [math]\\sum_{i=1}^{5} x_{i}^{2}=x_{1}^{2}+x_{2}^{2}+x_{3}^{2}+x_{4}^{2}+x_{5}^{2}[/math]\u003Cbr\u003E [math]=5^{2}+(-2)^{2}+7^{2}+1^{2}+3^{2}=88[/math]\u003Cbr\u003Eআবার, [math]\\sum_{i=1}^{5} x_{i}=x_{1}+x_{2}+x_{3}+x_{4}+x_{5}[/math]\u003Cbr\u003E [math]=5-2+7+1+3=14[/math]\u003Cbr\u003E [math]\\therefore \\quad\\left(\\sum_{i=1}^{5} x_{i}\\right)^{2}=(14)^{2}=196[/math]\u003Cbr\u003E [math]\\therefore \\quad \\sum_{i=1}^{5} x_{i}^{2} \\neq\\left(\\sum_{i=1}^{5} x_{i}\\right)^{2}[/math]\u003Cbr\u003Eসুতরাং লিমনের বক্তব্যটি সঠিক।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ধ্রুবক হলো এমন সংখ্যা যা পরিবর্তিত হয় না; প্রদত্ত বহুপদ [math]3x_{i}^{2}-5x_{i}-2[/math]-এ ধ্রুবক অংশ হল [math]-2[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E “একজন ছাত্রের বয়স 17 বছর।” একটি একক পর্যবেক্ষণ (ডাটা) — এটি পরিসংখ্যান নয়, কারণ পরিসংখ্যান বলতে সাধারণত বহু উপাত্তের সারসংক্ষেপ বা বিশ্লেষণ বোঝায়, না যে কোনো একক মানকে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E লিনিয়ারিটির ব্যবহার করে: [math]\\sum_{i=1}^{5}(3x_{i}^{2}-5x_{i}-2)=3\\sum_{i=1}^{5}x_{i}^{2}-5\\sum_{i=1}^{5}x_{i}-2\\cdot5=3\\times88-5\\times14-10=184[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যাচাই: [math]\\sum_{i=1}^{5}x_{i}^{2}=88[/math] এবং [math]\\left(\\sum_{i=1}^{5}x_{i}\\right)^{2}=14^{2}=196[/math], তাই [math]88\\neq196[/math] — লিমনের বক্তব্য সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391706,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391706,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391706,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391706,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391706,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391706,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391706,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391706,
+            "tag_id": 7,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391706,
+            "tag_id": 46,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391706,
+            "tag_id": 3179,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 391706,
+            "tag_id": 6,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391705,
+      "value": {
+        "options": {
+          "ক": "চলক কী?",
+          "খ": "পরিসংখ্যানীয় গণনা কাজে মূল ও মাপনীর কোনো প্রভাব আছে কী? ব্যাখ্যা কর ।",
+          "গ": "উদ্দীপকের আলোকে প্রতিটি মানের 3 গুণের সাথে 2 যোগ করে যোগফলের বর্গের সমষ্টি প্রতীকের সাহায্যে প্রকাশ করে নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের আলোকে বলা যায় [math]\\sum\\left(x_{i}-3\\right)^{2}\u003C\\Sigma\\left(x_{i}-4\\right)^{2}[/math]। গাণিতিকভাবে যাচাই কর ।"
+        },
+        "question": "সাকিব বিশ্বের সেরা ক্রিকেট খেলোয়াড়। বিপিএল খেলায় ১টি ম্যাচে তার উইকেট প্রাপ্তির তথ্য (x) নিম্নরূপ: 3, 4, 1, 4, 1",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে বৈশিষ্ট্য সমগ্রক বা নমুনার এককের সাপেক্ষে গুণে বা পরিমাণে পরিবর্তিত হয় তাকে চলক বলে। চলককে সাধারণত x, y, z ইত্যাদি দ্বারা প্রকাশ করা হয় ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eআমরা জানি, পরিসংখ্যানিক তথ্যের প্রতিটি মানের সাথে যে মান যোগ বা বিয়োগ করা হয় তাকে মূল বলে এবং যে মান গুণ বা ভাগ করা হয় তাকে মাপনী বলে। কোনো পরিসংখ্যানীয় তথ্য খুব বড় বা খুব ছোট হলে গণনার ক্ষেত্রে বেশ অসুবিধার সৃষ্টি হয়। এই অসুবিধা দূর করার জন্য মূল ও মাপনী ব্যবহার করা হয়। অর্থাৎ পরিসংখ্যানীয় কাজে মূল ও মাপনীর প্রভাব বিদ্যমান ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eপ্রদত্ত তথ্য মন, [math]x_{i}: 3,4,1,4,1[/math]\u003Cbr\u003Eধরি, মূল [math]a=2[/math]\u003Cbr\u003E এবং মাপনী, [math]c=3[/math]\u003Cbr\u003E ব্যাবহার করে নতুন চলক [math]d_{i}^{2}=x_{i} \\times c+a=x_{i} \\times 3+2=3 x_{i}+2[/math]\u003Cbr\u003Eনতুন চলকের যোগফলের বর্গের সমষ্টি, [math]=\\sum_{i=1}^{5}d_{i}^{2}=\\sum_{i=1}^{5}\\left(3x_{i}+2\\right)^{2}[/math]\u003Cbr\u003E [math]=\\left(3x_{1}+2\\right)^{2}+\\left(3x_{2}+2\\right)^{2}+\\left(3x_{3}+2\\right)^{2}+\\left(3x_{4}+2\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(3 x_{5}+2\\right)^{2}[/math]\u003Cbr\u003E [math]=(3 \\times 3+2)^{2}+(3 \\times 4+2)^{2}+(3 \\times 1+2)^{2}+(3 \\times 4+2)^{2}[/math]\u003Cbr\u003E [math]+(3 \\times 1+2)^{2}[/math]\u003Cbr\u003E [math]=11^{2}+14^{2}+5^{2}+14^{2}+5^{2}[/math]\u003Cbr\u003E [math]=121+196+25+196+25=563[/math]\u003Cbr\u003EAns.[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E [math]\\sum_{i=1}^{5}\\left(x_{i}-3\\right)^{2}=\\left(x_{1}-3\\right)^{2}+\\left(x_{2}-3\\right)^{2}+\\left(x_{3}-3\\right)^{2}+\\left(x_{4}-3\\right)^{2}+\\left(x_{5}-3\\right)^{2}[/math]\u003Cbr\u003E [math]=(3-3)^{2}+(4-3)^{2}+(1-3)^{2}+(4-3)^{2}+(1-3)^{2}[/math]\u003Cbr\u003E [math]=0^{2}+1^{2}+(-2)^{2}+1^{2}+(-2)^{2}[/math]\u003Cbr\u003E [math]=0+1+4+1+4=10[/math]\u003Cbr\u003Eআবার, [math]\\sum_{i=1}^{5}\\left(x_{i}-4\\right)^{2}=\\left(x_{1}-4\\right)^{2}+\\left(x_{2}-4\\right)^{2}+\\left(x_{3}-4\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{4}-4\\right)^{2}+\\left(x_{5}-4\\right)^{2}[/math]\u003Cbr\u003E [math]=(3-4)^{2}+(4-4)^{2}+(1-4)^{2}+(4-4)^{2}+(1-4)^{2}[/math]\u003Cbr\u003E [math]=(-1)^{2}+0^{2}+(-3)^{2}+0^{2}+(-3)^{2}[/math]\u003Cbr\u003E [math]=1+0+9+0+9[/math]\u003Cbr\u003E [math]=19[/math]\u003Cbr\u003Eসুতরায় উপরোক্ত গাণিতিক বিশ্লেষণ থেকে দেখা যায়,[math]\\sum_{i=1}^{5}\\left(x_{i}-3\\right)^{2}\u003C\\sum_{i=1}^{5}\\left(x_{i}-4\\right)^{2}[/math]\u003Cbr\u003E (যাচাই করা হলো)",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চলক হলো প্রতিটি ম্যাচে সাকিবের নেওয়া উইকেটের সংখ্যা, অর্থাৎ [math]x[/math] (উইকেট সংখ্যা)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মুল (ওরিজিন) এবং মাপনী (স্কেল) পরিসংখ্যানিক পরিমাপকে প্রভাবিত করে—একটি ধনাত্মক ধ্রুবক [math]c[/math] যোগ করলে গড় ও মধ্যমান [math]\\bar{x}[/math] এবং median [math]\\bar{x}'][/math] [math]\\bar{x}+c[/math] দ্বারা সরবে কিন্তু ভ্যারিয়েন্স অপরিবর্তিত থাকে, এবং গুণফল [math]k[/math] করলে গড় ও মধ্যমান গুণিত হয়ে যাবে এবং ভ্যারিয়েন্স হয় [math]k^{2}[/math] গুণ: [math]\\bar{x}'=\\bar{x}+c,\\ \\bar{x}''=k\\bar{x};\\ s'^{2}=s^{2},\\ s''^{2}=k^{2}s^{2}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E মূলভাবে [math]\\sum(3x_{i}+2)^{2}=\\sum(9x_{i}^{2}+12x_{i}+4)=9\\sum x_{i}^{2}+12\\sum x_{i}+4\\cdot5[/math] এখানে [math]\\sum x_{i}=13,\\ \\sum x_{i}^{2}=43[/math], তাই [math]9\\cdot43+12\\cdot13+20=387+156+20=563[/math], অর্থাৎ [math]\\sum(3x_{i}+2)^{2}=563[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হিসাব করলে [math]\\sum(x_{i}-3)^{2}=0+1+4+1+4=10[/math] এবং [math]\\sum(x_{i}-4)^{2}=1+0+9+0+9=19[/math], ফলে [math]10\u003C19[/math] সত্য — তাই প্রদত্ত অসমতা সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391705,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391705,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391705,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391705,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391705,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391705,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391705,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391705,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391705,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391705,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391705,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391705,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391705,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391705,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391704,
+      "value": {
+        "options": {
+          "ক": "পরিসংখ্যানের সংজ্ঞা দাও ।",
+          "খ": "“কোনো একজন শিক্ষার্থীর এক বিষয়ের প্রাপ্ত নম্বর 45—ইহা কি পরিসংখ্যান ?",
+          "গ": "উদ্দীপকের আলোকে [math]\\left(\\sum \\mathrm{x}_{\\mathrm{i}}\\right)^{2}[/math] এর মান নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের শিক্ষার্থীর বক্তব্য যাচাই কর ।"
+        },
+        "question": "ছয়জন শিক্ষার্থীর দুটি বিষয়ে প্রাপ্ত নম্বর নিম্নরূপ :\n\nপরিসংখ্যানে প্রাপ্ত নম্বর ( x ): 45, 42, 48, 46, 40, 41 গণিতে প্রাপ্ত নম্বর (y): 40, 41, 36, 38, 43, 42\n\nউপর্যুক্ত তথ্যের জন্য একজন শিক্ষার্থী মন্তব্য করল [math]\\sum \\mathrm{x}_{\\mathrm{i}}^{2}\u003E\\sum \\mathrm{y}_{\\mathrm{i}}^{2}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E বিজ্ঞানের যে শাখায় কোনো নির্দিষ্ট উদ্দেশ্যে পরস্পর সম্পর্কযুক্ত ঘটনার তথ্য সংগ্রহ, শ্রেণীবদ্ধকরণ, উপস্থাপন, বিশ্লেষণ, ব্যাখ্যাদান ও বৈজ্ঞানিকভাবে কোনো বিষয় সম্পর্কে সম্ভাবনার ভিত্তিতে সিদ্ধান্ত গ্রহণ করে তাকে পরিসংখ্যান বলে ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E“কোনো একজন শিক্ষার্থীর এক বিষয়ের প্রাপ্ত নম্বর 45” তথ্যটি পরিসংখ্যান হতে পারে না। একটি তথ্য পরিসংখ্যান হবে যদি—i. সংখ্যাত্মক তথ্যটি অনুসন্ধান ক্ষেত্রের সাথে সম্পর্কিত হয়।ii. পরিসংখ্যানিক তথ্য সুশৃঙ্খলভাবে সংগৃহীত তথ্যের সমষ্টি হয়।iii. এটি তুলনাযোগ্য ও সমজাতীয় হয়।অতএব, পরিসংখ্যানের শর্তমতে উল্লিখিত তথ্যটি পরিসংখ্যান নয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, পরিসংখ্যান প্রাপ্ত নম্বর (x). : 45, 42, 48, 46, 40, 41,এখানে, [math]x_{1}=45, x_{2}=42, x_{3}=48, x_{4}=46, x_{5}=50, x_{6}=41[/math]\u003Cbr\u003Eতাহলে, [math]\\sum x_{i}=x_{1}+x_{2}+x_{3}+x_{4}+x_{5}+x_{6}[/math]\u003Cbr\u003E [math]=45+42+48+46+40+41[/math]\u003Cbr\u003E [math]=262[/math]\u003Cbr\u003E [math]\\therefore\\left(\\sum \\mathrm{x}_{\\mathrm{i}}\\right)^{2}=(262)^{2}=68644[/math]\u003Cbr\u003E [math]\\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে, [math]x_{1}=45, x_{2}=42, x_{3}=48, x_{4}=46, x_{5}=40, x_{6}=[/math]\u003Cbr\u003E [math]41[/math]\u003Cbr\u003Eএবং [math]y_{1}=40, y_{2}=41, y_{3}=36, y_{4}=38, y_{5}=43, y_{6}=42[/math]\u003Cbr\u003E [math]\\therefore\\sum\\mathrm{x}_{\\mathrm{i}}^{2}=\\mathrm{x}_{1}^{2}+\\mathrm{x}_{2}^{2}+\\mathrm{x}_{3}^{2}+\\mathrm{x}_{4}^{2}+\\mathrm{x}_{5}^{2}+\\mathrm{x}_{6}^{2}[/math]\u003Cbr\u003E [math]=2025+1764+2304+2116+1600+1681[/math]\u003Cbr\u003E [math]=11490[/math]\u003Cbr\u003Eএবং: [math]\\sum y_{i}^{2}=y_{1}^{2}+y_{2}^{2}+y_{3}^{2}+y_{4}^{2}+y_{5}^{2}+y_{6}^{2}[/math]\u003Cbr\u003E [math]=(40)^{2}+(41)^{2}+(36)^{2}+(38)^{2}+(43)^{2}+(42)^{2}[/math]\u003Cbr\u003E [math]=1600+1681+1296+1444+1849+1764[/math]\u003Cbr\u003E [math]=9634[/math]\u003Cbr\u003Eএখানে, [math]\\sum x_{i}^{2}\u003E\\sum y_{i}^{2}[/math]\u003Cbr\u003Eসুতরাং উদ্দীপকের শিক্ষার্থীর বক্তব্যটি সঠিক।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পরিসংখ্যান হল তথ্য সংগ্রহ, সংরক্ষণ, বিন্যাস, বিশ্লেষণ এবং উপস্থাপনার সেই শাস্ত্র যার মাধ্যমে সিদ্ধান্ত নেয়া যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E না — একটি শিক্ষার্থীর একক নম্বর হল কাঁচা তথ্য (data/observation); পরিসংখ্যান বলতে সাধারণত তথ্যের সারাংশ (যেমন গড়, মাধ্যম, বিচ্যুতি) বা উপরের শাস্ত্রটাকেই বোঝায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে [math]\\sum x_i=45+42+48+46+40+41=262[/math], অতএব [math]\\left(\\sum x_i\\right)^2=262^2=68644[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গণনা করলে [math]\\sum x_i^2=45^2+42^2+48^2+46^2+40^2+41^2=11490[/math] এবং [math]\\sum y_i^2=40^2+41^2+36^2+38^2+43^2+42^2=9634[/math]; তাই [math]11490\u003E9634[/math], শিক্ষার্থীর মন্তব্যটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391704,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391704,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391704,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391704,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391704,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391704,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391704,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 391704,
+            "tag_id": 3,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391704,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391704,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391703,
+      "value": {
+        "options": {
+          "ক": "ধ্রুবক কী?",
+          "খ": "কখন শূন্যকে পরম শূন্য ধরা যায় না? ব্যাখ্যা কর । 5",
+          "গ": "তথ্য হতে [math]\\sum_{i=1}^{5}\\left(3 x_{i}^{2}-x_{i}-2\\right)[/math] এর মান নির্ণয় কর। i=1",
+          "ঘ": "মি. রাসেলের মন্তব্য যাচাই কর।"
+        },
+        "question": "মি. রাসেল তথ্য সংগ্রহ করে মন্তব্য করেন “তথ্যগুলো থেকে তিন বিয়োগ করে বিয়োগফলের বর্গের সমষ্টি এবং বিয়োগফলের সমষ্টির বর্গ সমান নয় ৷ ”\n\nতথ্য (xi) নিম্নরূপ : 7 4 8 6 5 1",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E তথ্যবিশ্বের যে সকল বৈশিষ্ট্যের মান এককভেদে অপরিবর্তনীয় তাদেরকে ধ্রুবক বলে। যেমন: মানুষের হাতের সংখ্যা, সপ্তাহের দিনের সংখ্যা।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eশ্রেণিসূচক পরিমাপনে শূন্যকে পরম শূন্য ধরা যায় না। যে পরিমাপন স্কেলের সাহায্যে পরিমাণবাচক চলককে সমান সংখ্যক এককে পার্থক্য বা শ্রেণিগত বিভেদ পরিমাপ করা হয় তাকে শ্রেণিসূচক পরিমাপণ বলে। যেমন: তাপমাত্রা পরিমাপ একটি শ্রেণিসূচক পরিমাপ। এটি দ্বারা কোনো একটি নির্দিষ্ট সময়ের তাপমাত্রা পূর্বের কোনো একটি সময়ের তাপমাত্রা অপেক্ষা কম না বেশি তা বুঝায়। তাপমাত্রা 0°C এর অর্থ হচ্ছে পরিমাপ স্কেলে তাপমাত্রা 0°C কিন্তু তাপমাত্রাহীন নয়। আবার কোনো শিক্ষার্থী একটি বিষয়ে 0 পাওয়ার অর্থ এই নয় যে ঐ বিষয়ে সে কিছুই জানে না। তাই শ্রেণিসূচক পরিমাপনে শূন্যকে পরম শূন্য ধরা যায় না।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া অছে, [math]x_{i}: 7,4,8,6,5[/math]\u003Cbr\u003Eএখন, [math]\\sum_{i=1}^{5} x_{i}^{2}=x_{1}^{2}+x_{2}^{2}+x_{3}^{2}+x_{4}^{2}+x_{5}^{2}[/math]\u003Cbr\u003E [math]=7^{2}+4^{2}+8^{2}+6^{2}+5^{2}[/math]\u003Cbr\u003E [math]=49+16+64+36+25[/math]\u003Cbr\u003E [math]=190^{\\circ}[/math]\u003Cbr\u003Eএবং , [math]\\sum_{i=1}^{5} x_{i}=x_{1}+x_{2}+x_{3}+x_{4}+x_{5}[/math]\u003Cbr\u003E [math]=7+4+8+6+5[/math]\u003Cbr\u003E [math]=30[/math]\u003Cbr\u003E [math]\\therefore \\sum_{i=1}^{5}\\left(3 x_{i}^{2}-x_{i}-2\\right)=3 \\sum_{i=1}^{5} x_{i}^{2}-\\sum_{i=1}^{5} x_{i}-5 \\times 2[/math]\u003Cbr\u003E [math]=3 \\times 190-30-10[/math]\u003Cbr\u003E [math]=570-40[/math]\u003Cbr\u003E [math]=530 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপ্রদত্ত তথ্যমান, [math]x_{i}: 7,4,8,6,5[/math]\u003Cbr\u003E∴ তথ্য থেকে তিন বিয়োগ করে বিয়োগফলের বর্গের সমষ্টি।[math]=\\sum_{i=1}^{5}\\left(x_{i}-3\\right)^{2}[/math]\u003Cbr\u003E [math]=\\left(x_{1}-3\\right)^{2}+\\left(x_{2}-3\\right)^{2}+\\left(x_{3}-3\\right)^{2}+\\left(x_{4}-3\\right)^{2}+\\left(x_{5}-3\\right)^{2}[/math]\u003Cbr\u003E [math]=(7-3)^{2}+(4-3)^{2}+(8-3)^{2}+(6-3)^{2}+(5-3)^{2}[/math]\u003Cbr\u003E [math]=4^{2}+1^{2}+5^{2}+3^{2}+2^{2}[/math]\u003Cbr\u003E [math]=16+1+25+9+4=55[/math]\u003Cbr\u003Eআবার, তথ্যগুরো থেকে তিন বিয়োগ করে বিয়োগফলের সমষ্টির বর্গ [math]\\left\\{\\sum_{i=1}^{5}\\left(x_{i}-3\\right)\\right\\}^{2}[/math]\u003Cbr\u003E [math]=\\left\\{\\sum_{i=1}^{5} x_{i}-\\sum_{i=1}^{5} 3\\right\\}^{2}[/math]\u003Cbr\u003E [math]=\\left\\{\\sum_{i=1}^{5} x_{i}-5 \\times 3\\right\\}^{2}[/math]\u003Cbr\u003E [math]=\\{(7+4+8+6+5)-15\\}^{2}[/math]\u003Cbr\u003E [math]=(30-15)^{2}[/math]\u003Cbr\u003E [math]=15^{2}[/math]\u003Cbr\u003E [math]=225[/math]\u003Cbr\u003E [math]\\therefore \\sum_{i=1}^{5}\\left(x_{i}-3\\right)^{2} \\neq[/math]\u003Cbr\u003E [math]\\left\\{\\sum_{i=1}^{5}\\left(x_{i}-3\\right)\\right\\}^{2}[/math]\u003Cbr\u003Eসুতরাং মি. রাসেলের মন্তব্য সঠিক নয়।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ধ্রুবক হলো এমন একটি সংখ্যা যার মান পরিবর্তিত হয় না—অর্থাৎ সব ক্ষেত্রে একরকম থাকে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শূন্যকে পরম শূন্য বলা যায় না যখন মাপটি অন্তর-স্কেল (interval scale) হয়, কেননা সেখানে শূন্য কোনো প্রকৃত শূন্যতা নির্দেশ করে না; উদাহরণ: সেলসিয়াস তাপমাত্রায় [math]0^\\circ C[/math] শূন্য তাপ নয়, لذا অনুপাত অর্থে শূন্যকে পরম শূন্য ধরা যায় না।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথম পাঁচটি তথ্য [math]7,4,8,6,5[/math] হলে\n[math]\\sum_{i=1}^{5}(3x_i^2-x_i-2)=138+42+182+100+68=530.[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যদি আমরা [math]d_i=3-x_i[/math] নিই, তাহলে [math]\\sum d_i^2=16+1+25+9+4+4=59[/math] এবং [math](\\sum d_i)^2=(-13)^2=169[/math]; এগুলো সমান নয়, তাই মি. রাসেলের মন্তব্য সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391703,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391703,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391703,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391703,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391703,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391703,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391703,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391703,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 391703,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391703,
+            "tag_id": 3179,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391703,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391702,
+      "value": {
+        "options": {
+          "ক": "চলক কী?",
+          "খ": "বিভিন্ন শ্রেণির শিক্ষার্থী সংখ্যা কোন ধরনের চলক? ব্যাখ্যাকর।6",
+          "গ": "তথ্য হতে [math]\\sum_{i=1}^{6}\\left(x_{i}-1\\right)^{2}[/math] এর মান নির্ণয় কর।",
+          "ঘ": "শফিকের মন্তব্য যাচাই কর।"
+        },
+        "question": "৬টি পরিবারের শিশুর সংখ্যা (x) : 3, 2, 1, 0, 4, 11\n\nশফিক মন্তব্য করল “পরিবারের শিশুর সংখ্যায় নামসূচক স্কেল ব্যবহৃত হয়েছে।\"",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে বৈশিষ্ট্য সমগ্রক বা নমুনার এককের সাপেক্ষে গুণে বা পরিমাণে পরিবর্তিত হয় তাকে চলক বলে। চলককে সাধারণত x, y, z ইত্যাদি দ্বারা প্রকাশ করা হয় ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eবিভিন্ন শ্রেণির শিক্ষার্থী সংখ্যা একটি বিচ্ছিন্ন চলক। কারণ বিভিন্ন শ্রেণির শিক্ষার্থী সংখ্যা পূর্ণসংখ্যা, সসীম ও গণনাযোগ্য । শিক্ষার্থীর সংখ্যাকে বিরত নিবেশন দ্বারা উপস্থাপন করা যায়। শিক্ষার্থী সংখ্যা একটি নির্দিষ্ট সীমার মধ্যে সকল মান গ্রহণ করে না। অর্থাৎ শিক্ষার্থী সংখ্যা ভগ্নাংশ হতে পারে না। তাই বলা যায়, বিভিন্ন শ্রেণির শিক্ষার্থী সংখ্যা একটি বিচ্ছিন্ন চলক।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, 6টি পরিবারের শিশুর সংখ্যা, xi : 3, 2, 1, 0, 4, 1এখন, [math]\\sum_{i=1}^{6}\\left(x_{i}-1\\right)^{2}[/math]\u003Cbr\u003E [math]=\\left(x_{1}-1\\right)^{2}+\\left(x_{2}-1\\right)^{2}+\\left(x_{3}-1\\right)^{2}+\\left(x_{4}-1\\right)^{2}+\\left(x_{5}-1\\right)^{2}+\\left(x_{6}-1\\right)^{2}[/math]\u003Cbr\u003E [math]=(3-1)^{2}+(2-1)^{2}+(1-1)^{2}+(0-1)^{2}+(4-1)^{2}+(1-1)^{2}[/math]\u003Cbr\u003E [math]=4+1+0+1+9+0=15[/math]\u003Cbr\u003EAns. [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকে শফিকের মন্তব্য হলো “পরিবারের শিশুর সংখ্যায় নামসূচক স্কেল ব্যবহৃত হয়েছে\"। যা সঠিক নয়। কেননা যে পরিমাপন স্কেলের মাধ্যমে সংখ্যা অথবা অক্ষর ব্যবহার করে সমগ্রকের উপাদানগুলোকে গুণবাচক বৈশিষ্ট্যের ভিত্তিতে বিভিন্ন শ্রেণিতে ভাগ করা যায় তাকে নামসূচক পরিমাপণ বলে। এখানে সমগ্রকের উপাদানগুলো কোনো সংখ্যাত্মক মান গ্রহণ করে না তবে শ্রেণিগুলোকে আলাদা করার জন্য সংখ্যা ব্যবহার করা হয়। কিন্তু পরিবারের শিশু সংখ্যায় সংখ্যাবাচক পরিমাপ ব্যবহৃত হয়। আমর জানি, আনুপাতিক পরিমাপণ স্কেলে চলকের সংখ্যাত্মক মান পরিমাপ করা হয় এবং এতে বীজগাণিতিক প্রক্রিয়া যেমন- যোগ, বিয়োগ, গুণ, ভাগ ইত্যাদি প্রয়োগ করা যায় এবং শূন্যকে পরম শূন্য ধরা হয়। যেহেতু পরিবারের শিশুর সংখ্যার চলকে সব বীজগাণিতিক প্রক্রিয়া প্রয়োগ করা যায় এবং শূন্যকে পরম শূন্য ধরা হয়। অর্থাৎ পরিবারের শিশুর সংখ্যা আনুপাতিক পরিমাপন স্কেল। সুতরাং বলা যায় যে, শফিকের মন্তব্যটি সঠিক নয়।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চলক: পরিবারের শিশুর সংখ্যা [math]x[/math] — এটি একটি সংখ্যাত্মক (বিচ্ছিন্ন) চলক।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বিভিন্ন শ্রেণির শিক্ষার্থী সংখ্যা: সংখ্যাত্মক (বিচ্ছিন্ন) এবং অনুপাতগত (ratio) স্কেল — কারণ শূন্য মানের বাস্তব অর্থ আছে (শূন্য ছাত্র) এবং অনুপাত-ভিত্তিক তুলনা মানে রাখে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E হিসাব: [math](3-1)^2+(2-1)^2+(1-1)^2+(0-1)^2+(4-1)^2+(11-1)^2=4+1+0+1+9+100=115[/math]. অতএব যোগফল = [math]115[/math].  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শফিকের মন্তব্য ভুল — পরিবারের শিশুর সংখ্যা নামসূচক স্কেলে নয়, এটি সংখ্যাগত ও অনুপাতগত স্কেলে পরিমাপ করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391702,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391702,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391702,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391702,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391702,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391702,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391702,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391702,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 391702,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391702,
+            "tag_id": 3179,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391702,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391701,
+      "value": {
+        "options": {
+          "ক": "বিচ্ছিন্ন চলক কাকে বলে?",
+          "খ": "ফুটবল খেলায় গোলের সংখ্যা কোন ধরনের চলক? ব‍্যাখ্যা কর।",
+          "গ": "উদ্দীপকের তথ্য ব্যবহার করে [math]\\sum_{i=1}^{5}\\left(x_{i}-10\\right)^{2}[/math] এর মান নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের আলোকে, [math]\\sum_{i=1}^{5} x_{i} y_{i}[/math] এবং [math]\\left(\\sum_{i=1}^{5} x_{i}\\right) \\cdot\\left(\\sum_{i=1}^{5} y_{i}\\right)[/math] এর মান সমান কি-না? বিশ্লেষণপূর্বক যাচাই কর।"
+        },
+        "question": "কোনো এক কারখানার পাঁচজন শ্রমিকের মাসিক-মজুরি (হাজার টাকায়) এবং মাসিক ব্যয় (হাজার টাকায়) নিচের সারণিতে দেয়া হলো:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics2c20chapter-12c20date2031-05-20242c20riyel20picture-201_1755579909_6k9rAhCc.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে সংখ্যাবাচক চলক কেবলমাত্র, গণনাযোগ্য পৃথক পৃথক পূর্ণ ও ভগ্নাংশ মান গ্রহণ করে তাকে বিচ্ছিন্ন চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eফুটবল খেলায় গোলের সংখ্যা একটি বিচ্ছিন্ন চলক।ব্যাখ্যা: যে সংখ্যাবাচক চলক কেবলমাত্র গণনাযোগ্য পৃথক পৃথক পূর্ণ ও ভগ্নাংশ-মান গ্রহণ করে তাকে বিচ্ছিন্ন চলক বলে।ফুটবল খেলায় 'গোলের সংখ্যা গণনাযোগ্য পূর্ণ সংখ্যা হয়। 'অতএব ফুটবল খেলায় গোলের সংখ্যা একটি বিচ্ছিন্ন চলক।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই, মজুরি [math]\\left(x_{i}\\right): 10,8,6,12,15[/math]\u003Cbr\u003Eএখানে, [math]x_{1}=10, x_{2}=8[/math]\u003Cbr\u003E, [math]x_{3}=6, x_{4}=12[/math]\u003Cbr\u003E এবং [math]x_{5}=15[/math]\u003Cbr\u003Eএখন, [math]\\sum_{i=1}^{5}\\left(x_{i}-10\\right)^{2}[/math]\u003Cbr\u003E [math]=\\left(x_{1}-10\\right)^{2}+\\left(x_{2}-10\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{3}-10\\right)^{2}+\\left(x_{4}-10\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{5}-10\\right)^{2}[/math]\u003Cbr\u003E [math]=(10-10)^{2}+(8-10)^{2}[/math]\u003Cbr\u003E [math]+(6-10)^{2}+(12-10)^{2}[/math]\u003Cbr\u003E [math]+(15-10)^{2}[/math]\u003Cbr\u003E [math]=(0)^{2}+(-2)^{2}+(-4)^{2}[/math]\u003Cbr\u003E [math]+(2)^{2}+(5)^{2}[/math]\u003Cbr\u003E [math]=0+4+16+4[/math]\u003Cbr\u003E [math]+25=49[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক হতে পাই, মজুরি [math]\\left(x_{i}\\right)[/math]\u003Cbr\u003E ) : 10,8, 6, 12, 15 ব্যয় [math]\\left(y_{i}\\right)[/math]\u003Cbr\u003E: 9, 8, 5, 10, 13এখানে, [math]x_{1}=10, x_{2}[/math]\u003Cbr\u003E [math]=8, x_{3}=6, x_{4}=12[/math]\u003Cbr\u003E এবং [math]x_{5}=15[/math]\u003Cbr\u003E [math]y_{1}=\\dot{9}, y_{2}=8[/math]\u003Cbr\u003E [math]y_{3}=5, y_{4}=10[/math]\u003Cbr\u003E এবং [math]y_{5}=13[/math]\u003Cbr\u003Eএখন, [math]\\sum_{i=1}^{5} x_{i} y_{i}[/math]\u003Cbr\u003E [math]=x_{1} y_{1}+x_{2} y_{2}+[/math]\u003Cbr\u003E [math]x_{3} y_{3}+x_{4} y_{4}+x_{5} y_{5}[/math]\u003Cbr\u003E [math]=(10 \\times 9)+(8 \\times 8)+[/math]\u003Cbr\u003E [math](6 \\times 5){}+(12 \\times 10)[/math]\u003Cbr\u003E [math]+(15 \\times 13)[/math]\u003Cbr\u003E [math]=90+64+30+[/math]\u003Cbr\u003E [math]120+195=499[/math]\u003Cbr\u003E [math]\\sum_{i=1}^{5} x_{i}[/math]\u003Cbr\u003E [math]=x_{1}+x_{2}+x_{3}[/math]\u003Cbr\u003E [math]+x_{4}+x_{5}[/math]\u003Cbr\u003E [math]=10+8+6+[/math]\u003Cbr\u003E [math]12+15=51[/math]\u003Cbr\u003E [math]\\sum_{i=1}^{5} y_{i}[/math]\u003Cbr\u003E [math]=y_{1}+y_{2}+y_{3}+y_{4}[/math]\u003Cbr\u003E [math]+y_{5}=9+8+5+10[/math]\u003Cbr\u003E [math]+13=45[/math]\u003Cbr\u003E [math]\\therefore\\left(\\sum_{\\mathrm{i}=1}^{5} \\mathrm{x}_{\\mathrm{i}}\\right)[/math]\u003Cbr\u003E [math]\\left(\\sum_{i=1}^{5} y_{i}\\right)[/math]\u003Cbr\u003E [math]=51 \\times 45=2295[/math]\u003Cbr\u003Eএখানে, [math]\\sum_{i=1}^{5} x_{i} y_{i} \\neq[/math]\u003Cbr\u003E [math]\\left(\\begin{array}{cc}5 & \\\\\\sum_{i=1}^{5} & x_{i}\\end{array}\\right)[/math]\u003Cbr\u003E [math]\\left(\\sum_{i=1}^{5} y_{i}\\right)[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের আলোকে,[math]\\sum_{\\mathrm{i}=1}^{5} \\mathrm{x}_{\\mathrm{i}} \\mathrm{y}_{\\mathrm{i}}[/math]\u003Cbr\u003E এবং [math]\\left(\\sum_{i=1}^{5} x_{i}\\right)[/math]\u003Cbr\u003E [math]\\left(\\sum_{i=1}^{5} y_{i}\\right)[/math]\u003Cbr\u003E এর মান সমান নয়।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বিচ্ছিন্ন চলক হলো এমন চলক যার মানগুলো আলাদা, গণনা যোগ্য (পরিমাপযোগ্য) পৃথক মান নিয়ে থাকে, যেমন পূর্ণসংখ্যা বা নির্দিষ্ট শ্রেণি — মানগুলো নিরন্তর নয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ফুটবলে গোলের সংখ্যা একটি বিচ্ছিন্ন পরিমাণাত্মক চলক, কারণ এটি নয়েজির (non‑negative) পূর্ণ সংখ্যা (0,1,2,...) হিসেবে গণ্য হয় এবং অযৌক্তিক বা ধারাবাহিক মান নেয় না।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ধরা যাক পাঁচটি মানের জন্য [math]\\sum_{i=1}^5 (x_i-10)^2 = \\sum_{i=1}^5 x_i^2 -2\\cdot10\\sum_{i=1}^5 x_i +5\\cdot10^2[/math]; সারণি থেকে [math]\\sum x_i[/math] এবং [math]\\sum x_i^2[/math] বের করে এই সূত্রে বসালে কাঙ্খিত মান পাওয়া যাবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সাধারণভাবে [math]\\sum_{i=1}^5 x_i y_i \\neq \\bigl(\\sum_{i=1}^5 x_i\\bigr)\\bigl(\\sum_{i=1}^5 y_i\\bigr)[/math], কারণ ডানদিকের প্রকাশটি হল সব möglichen জোড়াগুলোর যোগফল (যেখানে ক্রস-টার্ম থাকে); সমতা তখনই হবে যখন সব ক্রস-টার্মগুলো মিলিয়ে শূন্য হয়—অর্থাৎ বিশেষ ধরনের সম্পর্ক না থাকলে সমান হবে না। সারণির সংখ্যাগুলো ব্যবহার করে দুটো মান আলাদাভাবে হিসাব করে দেখে নিশ্চিত করা যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391701,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391701,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391701,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391701,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391701,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391701,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391701,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391701,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391701,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 391701,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391701,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391701,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391701,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391701,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:09.000000Z",
+            "updated_at": "2025-08-19T05:05:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391700,
+      "value": {
+        "options": {
+          "ক": "বিচ্ছিন্ন চলক কাকে বলে?",
+          "খ": "ফুটবল খেলায় গোলের সংখ্যা কোন ধরনের চলক? ব‍্যাখ্যা কর।",
+          "গ": "উদ্দীপকের তথ্য ব্যবহার করে [math]\\sum_{i=1}^{5}\\left(x_{i}-10\\right)^{2}[/math] এর মান নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের আলোকে, [math]\\sum_{i=1}^{5} x_{i} y_{i}[/math] এবং [math]\\left(\\sum_{i=1}^{5} x_{i}\\right) \\cdot\\left(\\sum_{i=1}^{5} y_{i}\\right)[/math] এর মান সমান কি-না? বিশ্লেষণপূর্বক যাচাই কর।"
+        },
+        "question": "কোনো এক কারখানার পাঁচজন শ্রমিকের মাসিক-মজুরি (হাজার টাকায়) এবং মাসিক ব্যয় (হাজার টাকায়) নিচের সারণিতে দেয়া হলো:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics2c20chapter-12c20date2031-05-20242c20riyel20picture-201_1755579908_JhQNeAPp.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে সংখ্যাবাচক চলক কেবলমাত্র, গণনাযোগ্য পৃথক পৃথক পূর্ণ ও ভগ্নাংশ মান গ্রহণ করে তাকে বিচ্ছিন্ন চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eফুটবল খেলায় গোলের সংখ্যা একটি বিচ্ছিন্ন চলক।ব্যাখ্যা: যে সংখ্যাবাচক চলক কেবলমাত্র গণনাযোগ্য পৃথক পৃথক পূর্ণ ও ভগ্নাংশ-মান গ্রহণ করে তাকে বিচ্ছিন্ন চলক বলে।ফুটবল খেলায় 'গোলের সংখ্যা গণনাযোগ্য পূর্ণ সংখ্যা হয়। 'অতএব ফুটবল খেলায় গোলের সংখ্যা একটি বিচ্ছিন্ন চলক।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই, মজুরি [math]\\left(x_{i}\\right): 10,8,6,12,15[/math]\u003Cbr\u003Eএখানে, [math]x_{1}=10, x_{2}=8[/math]\u003Cbr\u003E, [math]x_{3}=6, x_{4}=12[/math]\u003Cbr\u003E এবং [math]x_{5}=15[/math]\u003Cbr\u003Eএখন, [math]\\sum_{i=1}^{5}\\left(x_{i}-10\\right)^{2}[/math]\u003Cbr\u003E [math]=\\left(x_{1}-10\\right)^{2}+\\left(x_{2}-10\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{3}-10\\right)^{2}+\\left(x_{4}-10\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{5}-10\\right)^{2}[/math]\u003Cbr\u003E [math]=(10-10)^{2}+(8-10)^{2}[/math]\u003Cbr\u003E [math]+(6-10)^{2}+(12-10)^{2}[/math]\u003Cbr\u003E [math]+(15-10)^{2}[/math]\u003Cbr\u003E [math]=(0)^{2}+(-2)^{2}+(-4)^{2}[/math]\u003Cbr\u003E [math]+(2)^{2}+(5)^{2}[/math]\u003Cbr\u003E [math]=0+4+16+4[/math]\u003Cbr\u003E [math]+25=49[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক হতে পাই, মজুরি [math]\\left(x_{i}\\right)[/math]\u003Cbr\u003E ) : 10,8, 6, 12, 15 ব্যয় [math]\\left(y_{i}\\right)[/math]\u003Cbr\u003E: 9, 8, 5, 10, 13এখানে, [math]x_{1}=10, x_{2}[/math]\u003Cbr\u003E [math]=8, x_{3}=6, x_{4}=12[/math]\u003Cbr\u003E এবং [math]x_{5}=15[/math]\u003Cbr\u003E [math]y_{1}=\\dot{9}, y_{2}=8[/math]\u003Cbr\u003E [math]y_{3}=5, y_{4}=10[/math]\u003Cbr\u003E এবং [math]y_{5}=13[/math]\u003Cbr\u003Eএখন, [math]\\sum_{i=1}^{5} x_{i} y_{i}[/math]\u003Cbr\u003E [math]=x_{1} y_{1}+x_{2} y_{2}+[/math]\u003Cbr\u003E [math]x_{3} y_{3}+x_{4} y_{4}+x_{5} y_{5}[/math]\u003Cbr\u003E [math]=(10 \\times 9)+(8 \\times 8)+[/math]\u003Cbr\u003E [math](6 \\times 5){}+(12 \\times 10)[/math]\u003Cbr\u003E [math]+(15 \\times 13)[/math]\u003Cbr\u003E [math]=90+64+30+[/math]\u003Cbr\u003E [math]120+195=499[/math]\u003Cbr\u003E [math]\\sum_{i=1}^{5} x_{i}[/math]\u003Cbr\u003E [math]=x_{1}+x_{2}+x_{3}[/math]\u003Cbr\u003E [math]+x_{4}+x_{5}[/math]\u003Cbr\u003E [math]=10+8+6+[/math]\u003Cbr\u003E [math]12+15=51[/math]\u003Cbr\u003E [math]\\sum_{i=1}^{5} y_{i}[/math]\u003Cbr\u003E [math]=y_{1}+y_{2}+y_{3}+y_{4}[/math]\u003Cbr\u003E [math]+y_{5}=9+8+5+10[/math]\u003Cbr\u003E [math]+13=45[/math]\u003Cbr\u003E [math]\\therefore\\left(\\sum_{\\mathrm{i}=1}^{5} \\mathrm{x}_{\\mathrm{i}}\\right)[/math]\u003Cbr\u003E [math]\\left(\\sum_{i=1}^{5} y_{i}\\right)[/math]\u003Cbr\u003E [math]=51 \\times 45=2295[/math]\u003Cbr\u003Eএখানে, [math]\\sum_{i=1}^{5} x_{i} y_{i} \\neq[/math]\u003Cbr\u003E [math]\\left(\\begin{array}{cc}5 & \\\\\\sum_{i=1}^{5} & x_{i}\\end{array}\\right)[/math]\u003Cbr\u003E [math]\\left(\\sum_{i=1}^{5} y_{i}\\right)[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের আলোকে,[math]\\sum_{\\mathrm{i}=1}^{5} \\mathrm{x}_{\\mathrm{i}} \\mathrm{y}_{\\mathrm{i}}[/math]\u003Cbr\u003E এবং [math]\\left(\\sum_{i=1}^{5} x_{i}\\right)[/math]\u003Cbr\u003E [math]\\left(\\sum_{i=1}^{5} y_{i}\\right)[/math]\u003Cbr\u003E এর মান সমান নয়।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বিচ্ছিন্ন চলক হলো এমন একটি চলক যার মানগুলি আলাদা-আলাদা, গণনা করা যায় এমন পূর্ণসংখ্যা বা নির্দিষ্ট মানের সেট থেকে নেয় (উদাহরণ: ছাত্রের সংখ্যা, গোলের সংখ্যা) — মানগুলোর মধ্যে ধারাবাহিক সব মান থাকা বাধ্যতামূলক নয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ফুটবল খেলায় গোলের সংখ্যা একটি বিচ্ছিন্ন (discrete) চলক কারণ এটি অ-ঋণাত্মক পূর্ণসংখ্যা (0,1,2,...) এবং গোনা যায়; তাই এটি ধারাবাহিক নয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গণনা করার সরল উপায় হলো তার সম্প্রসারণ ব্যবহার করা: [math]\\sum_{i=1}^{5}(x_i-10)^2=\\sum_{i=1}^{5}x_i^2-2\\cdot10\\sum_{i=1}^{5}x_i+5\\cdot10^2=[/math] তাই টেবিল থেকে [math]\\sum x_i[/math] এবং [math]\\sum x_i^2[/math] বের করে মান বসালে সারলভাবে সংখ্যাগত ফল পাওয়া যাবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সাধারণত [math]\\sum_{i=1}^{5}x_i y_i[/math] এবং [math]\\big(\\sum_{i=1}^{5}x_i\\big)\\big(\\sum_{i=1}^{5}y_i\\big)[/math] সমান হয় না, কারণ দ্বিতীয়টি ক্রস-টর্মগুলোও যোগ করে; সমান হবে কেবল তখনই যখন সব ক্রস-টর্মের যোগশূন্য হয় (অর্থাৎ বিশেষ সম্পর্ক থাকলে)। টেবিলের সংখ্যাগুলো ব্যবহার করে সরাসরি দুটো মান হিসাব করে তুলনা করলেই নিশ্চিত হওয়া যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391700,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391700,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391700,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391700,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391700,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391700,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391700,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391700,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391700,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391700,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:08.000000Z",
+            "updated_at": "2025-08-19T05:05:08.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391700,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:08.000000Z",
+            "updated_at": "2025-08-19T05:05:08.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391700,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:08.000000Z",
+            "updated_at": "2025-08-19T05:05:08.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391700,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:08.000000Z",
+            "updated_at": "2025-08-19T05:05:08.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 391700,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:08.000000Z",
+            "updated_at": "2025-08-19T05:05:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391698,
+      "value": {
+        "options": {
+          "ক": "নমুনা কাকে বলে?",
+          "খ": "সপ্তাহের দিন সংখ্যা কি চলক? ব্যাখ্যা কর।",
+          "গ": "[math]\\sum_{i=1}^{5}\\left(3 x_{i}^{2}+2 x_{i}+1\\right)[/math] এর মান নির্ণয় কর।",
+          "ঘ": "ফাহিমের মন্তব্য যাচাই কর।"
+        },
+        "question": "[math]x_{1}=5, x_{2}=-2,[/math] [math]x_{3}=4, x_{4}=2,[/math] [math]x_{5}=0[/math] ফাহিম বললো\n\n[math]\\sum_{i=1}^{5}{x}_{i}^{2}\u003C\\left(\\sum_{i=1}^{5} x_{i}\\right)^{2}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eসমগ্রকের প্রতিনিধিত্বকারী এবং ক্ষুদ্র অংশ যা সমগ্রকের বৈশিষ্ট্যসমূহ প্রদর্শন করতে পারে তাকে নমুনা বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eসপ্তাহের দিন সংখ্যা চলক নয়।ব্যাখ্যা: সমগ্রকের বা তথ্যবিশ্বের যেসব বৈশিষ্ট্য এককভেদে গুণগত বা পরিমাণগতভাবে পরিবর্তিত হয় তাকে চলক বলে। আর সমগ্রকের যেসব বৈশিষ্ট্য এককভেদে অপরিবর্তিত বা স্থির থাকে তাকে ধ্রুবক বলে। সপ্তাহের দিন সংখ্যা 7 দিন। ইহা পরিবির্তিত হয় না বরং সর্বদা স্থির থাকে। অতএব, সপ্তাহের দিন সংখ্যা চলক নয় বরং ধ্রুবক।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, [math]x_{1}=5, x_{2}=-2,[/math]\u003Cbr\u003E [math]x_{3}=4, x_{4}=2,[/math]\u003Cbr\u003E [math]x_{5}=0[/math]\u003Cbr\u003Eএখন, [math]\\sum_{i=1}^{5}\\left(3 x_{i}^{2}+2 x_{i}+1\\right)[/math]\u003Cbr\u003E [math]=\\left(3 x_{1}^{2}+2 x_{1}+1\\right)[/math]\u003Cbr\u003E [math]+\\left(3 x_{2}^{2}+2 x_{2}+1\\right)+[/math]\u003Cbr\u003E [math]\\left(3 x_{3}^{2}+2 x_{3}+1\\right)[/math]\u003Cbr\u003E [math]+\\left(3 x_{4}^{2}+2 x_{4}+1\\right)[/math]\u003Cbr\u003E [math]+\\left(3 x_{5}^{2}+2 x_{5}+1\\right)[/math]\u003Cbr\u003E [math]=\\left\\{3 \\times(5)^{2}+2 \\times(5)+1\\right\\}[/math]\u003Cbr\u003E [math]+\\left\\{3 \\times(-2)^{2}+2\\right.[/math]\u003Cbr\u003E [math]\\times(-2)+1\\}[/math]\u003Cbr\u003E [math]+\\left\\{3 \\times(4)^{2}+2 \\times(4)\\right.[/math]\u003Cbr\u003E [math]+1\\}+\\left\\{3 \\times(2)^{2}\\right.[/math]\u003Cbr\u003E [math]+2 \\times(2)+1\\}[/math]\u003Cbr\u003E [math]+\\left\\{3 \\times(0)^{2}+2 \\times(0)+1\\right\\}[/math]\u003Cbr\u003E [math]=\\{3 \\times 25+2 \\times 5+1\\}[/math]\u003Cbr\u003E [math]+\\{3 \\times 4+2 \\times(-2)+1\\}[/math]\u003Cbr\u003E [math]+\\{3 \\times 16+2 \\times 4+1\\}[/math]\u003Cbr\u003E [math]+\\{3 \\times 4+2 \\times 2+1\\}[/math]\u003Cbr\u003E [math]+\\{3 \\times 0+2 \\times 0+1\\}[/math]\u003Cbr\u003E [math]=(75+10+1)+(12-4+1)[/math]\u003Cbr\u003E [math]+(48+8+1)+(12+4+1)[/math]\u003Cbr\u003E [math]+(0+0+1)[/math]\u003Cbr\u003E [math]=86+9+57+[/math]\u003Cbr\u003E [math]17+1=170[/math]\u003Cbr\u003Eসুতরাং, [math]\\sum_{i=1}^{5}\\left(3 x_{i}^{2}+2 x_{i}+1\\right)[/math]\u003Cbr\u003E [math]=170 .[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে, [math]x_{1}=5, x_{2}=-2,[/math]\u003Cbr\u003E [math]x_{3}=4, x_{4}=2 \\text {, }[/math]\u003Cbr\u003E [math]x_{5}=0[/math]\u003Cbr\u003Eএখানে, বামপক্ষ [math]=\\sum_{i=1}^{5} x_{i}^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=x_{1}^{2}+x_{2}^{2}+x_{3}^{2}[/math]\u003Cbr\u003E [math]+x_{4}^{2}+x_{5}^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=(5)^{2}+(-2)^{2}+[/math]\u003Cbr\u003E [math](4)^{2}+(2)^{2}+(0)^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=25+4+16+[/math]\u003Cbr\u003E [math]4+0=49[/math]\u003Cbr\u003Eএবং ডানপক্ষ [math]=\\left(\\sum_{i=1}^{5} x_{i}\\right)^{2}[/math]\u003Cbr\u003E [math]=\\left(x_{1}+x_{2}+x_{3}\\right.[/math]\u003Cbr\u003E [math]\\left.+x_{4}+x_{5}\\right)^{2}[/math]\u003Cbr\u003E [math]=\\{5+(-2)+[/math]\u003Cbr\u003E [math]4+2+0\\}^{2}[/math]\u003Cbr\u003E [math]=(5-2+4+2+0)[/math]\u003Cbr\u003E [math]=(9)^{2}=81[/math]\u003Cbr\u003Eএখানে, বামপক্ষ \u003C ডানপক্ষঅর্থাৎ, [math]\\sum_{i=1}^{5} x_{i}^{2}\u003C[/math]\u003Cbr\u003E [math]\\left(\\sum_{i=1}^{5} x_{i}\\right)^{2}[/math]\u003Cbr\u003Eঅতএব, ফাহিমের মন্তব্যটি সঠিক ছিল।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পরিসংখ্যানে নমুনা হলো জনসংখ্যার একটি নির্বাচিত উপসেট যা পর্যবেক্ষণ বা পরীক্ষার জন্য নেওয়া হয় — অর্থাৎ সম্পূর্ণ জনসংখ্যার অংশবিশেষ।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E না — সপ্তাহের দিন সংখ্যা ধ্রুবক, সব সময় [math]7[/math] থাকে, তাই এটা চলক নয় (চলক হলে মান পরিবর্তন করবে না)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে [math]\\sum_{i=1}^{5}x_{i}=5+(-2)+4+2+0=9[/math] এবং [math]\\sum_{i=1}^{5}x_{i}^{2}=25+4+16+4+0=49[/math]। তাই  \n[math]\\sum_{i=1}^{5}(3x_{i}^{2}+2x_{i}+1)=3\\cdot49+2\\cdot9+5=147+18+5=170[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যাচাই: উপরে পাওয়া অনুযায়ী [math]\\sum x_{i}^{2}=49[/math] এবং [math](\\sum x_{i})^{2}=9^{2}=81[/math], ফলে [math]49\u003C81[/math] হওয়ায় ফাহিমের মন্তব্যটি এখানে সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391698,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391698,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391698,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391698,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391698,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391698,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391698,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 391698,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391698,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 391698,
+            "tag_id": 6,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391698,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391699,
+      "value": {
+        "options": {
+          "ক": "পরিসংখ্যান কাকে বলে?",
+          "খ": "শিক্ষার্থীদের উচ্চতা কোন ধরনের পরিমাপন স্কেল? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের আলোকে নম্বরের দ্বিগুণের সাথে তিন যোগ করে যোগফলের সমষ্টি নির্ণয় কর।",
+          "ঘ": "শ্রেণি শিক্ষকের মন্তব্যটি গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।"
+        },
+        "question": "কোনো শ্রেণি পরীক্ষায় পাঁচজন শিক্ষার্থীর পরিসংখ্যান বিষয়ে প্রাপ্ত নম্বর [math]\\left(x_{i}\\right)[/math]: 5, 8, 10, 12 এবং 15। শ্রেণি শিক্ষক মন্তব্য করলেন, নম্বরগুলোর বর্গের সমষ্টি অপেক্ষা নম্বরগুলোর সমষ্টির বর্গ বড়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপরিসংখ্যান হলো বহুবিধ কারণ দ্বারা প্রভাবিত কোনো ঘটনা বা বিষয়ে অনুসন্ধান ক্ষেত্র হতে সংখ্যাত্মক তথ্য সংগ্রহ, প্রক্রিয়াকরণ, উপস্থাপন, বিশ্লেষণ এবং প্রাপ্ত ফলাফলের ব্যাখ্যাকরণের মাধ্যমে ঘটনা সম্পর্কিত সিদ্ধান্ত গ্রহণ করার বিজ্ঞান।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eশিক্ষার্থীদের উচ্চতা অনুপাতিক পরিমাপন স্কেল।ব্যাখ্যা: যে পরিমাপন স্কেলের সাহায্যে তথ্যের কোনো বৈশিষ্ট্যকে পূর্ব হতে নির্ধারিত কোনো আদর্শ মানের সাথে তুলনা করে, পরিমাপ করা হয় এবং শূন্যকে পরম শূন্য বিবেচনা করা হয় তাকে আনুপাতিক পরিমাপন স্কেল বলে।শিক্ষার্থীদের উচ্চতা আনুপাতিক পরিমাপন স্কেল। কারণ, শিক্ষার্থীদের উচ্চতাগুলোকে ক্রম অনুসারে সাজানো যায়, মানগুলো গণনা ও শ্রেণিকরণযোগ্য। শিক্ষার্থীদের উচ্চতাগুলোর উপর সকল গাণিতিব প্রক্রিয়া যেমন-যোগ, বিয়োগ, গুণ, ভাগ ইত্যাদি প্রয়োগ করা যায়। অতএব, শিক্ষার্থীদের উচ্চতা আনুপাতিক পরিমাপন স্কেল।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, শিক্ষার্থীদের পরিসংখান বিষয়ের প্রাপ্ত নম্বর[math]\\left(x_{1}\\right): 5,8,10,12[/math]\u003Cbr\u003E এবং 15এখানে, [math]x_{1}=5, x_{2}=8[/math]\u003Cbr\u003E [math]x_{3}=10, x_{4}=12[/math]\u003Cbr\u003E এবং [math]x_{5}=15[/math]\u003Cbr\u003Eএখন, নম্বরের দ্বিগুণের সাথে তিন যোগ করে যোগফলের সমষ্টি[math]=\\sum_{i=1}^{5}\\left(2 x_{i}+3\\right)[/math]\u003Cbr\u003E [math]=\\left(2 x_{1}+3\\right)+\\left(2 x_{2}+3\\right)[/math]\u003Cbr\u003E [math]+\\left(2 x_{3}+3\\right)+\\left(2 x_{4}+3\\right)[/math]\u003Cbr\u003E [math]+\\left(2 x_{5}+3\\right)[/math]\u003Cbr\u003E [math]=(2 \\times 5+3)+(2 \\times 8+3)[/math]\u003Cbr\u003E [math]+(2 \\times 10+3)+(2 \\times 12+3)[/math]\u003Cbr\u003E [math]+(2 \\times 15+3)[/math]\u003Cbr\u003E [math]=(10+3)+(16+3)[/math]\u003Cbr\u003E [math]+(20+3)+(24+3)[/math]\u003Cbr\u003E [math]+(30+3)[/math]\u003Cbr\u003E [math]=13+19+23[/math]\u003Cbr\u003E [math]+27+33[/math]\u003Cbr\u003E [math]= 115[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে, শিক্ষার্থীদের পরিসংখান বিষয়ের প্রাপ্ত নম্বর [math]\\left(x_{i}\\right)[/math]\u003Cbr\u003E : 5, 8, 10, 12 এবং 15এখানে, [math]x_{1}=5, x_{2}=8,[/math]\u003Cbr\u003E [math]x_{3}=10, x_{4}=12[/math]\u003Cbr\u003E এবং [math]x_{5}=15[/math]\u003Cbr\u003Eএখন, নম্বরগুলোর বর্গের সমষ্টি [math]=\\sum_{i=1}^{5} x_{i}^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=x_{1}^{2}+x_{2}^{2}+x_{3}^{2}[/math]\u003Cbr\u003E [math]+x_{4}{ }^{2}+{x}_{5}^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=(5)^{2}+(8)^{2}+(10)^{2}[/math]\u003Cbr\u003E [math]+(12)^{2}+(15)^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=25+64+100[/math]\u003Cbr\u003E [math]+144+225[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=558[/math]\u003Cbr\u003Eনম্বরগুলোর সমষ্টির বর্গ [math]=\\left(\\begin{array}{cc}5 & \\\\\\sum_{i=1} & x_{i}\\end{array}\\right)^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\left(x_{1}+x_{2}+x_{3}\\right.[/math]\u003Cbr\u003E [math]\\left.+x_{4}+x_{5}\\right)^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=(5+8+10+[/math]\u003Cbr\u003E [math]12+15)^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=(50)^{2}=2500[/math]\u003Cbr\u003Eএখানে, [math]\\sum_{i=1}^{5} x_{i}^{2}\u003C[/math]\u003Cbr\u003E [math]\\left(\\sum_{i=1}^{5} x_{i}\\right)^{2}[/math]\u003Cbr\u003Eঅর্থাৎ, নম্বরগুলোর বর্গের সমষ্টি অপেক্ষা নম্বরগুলোর সমষ্টির বর্গ বড়।অতএব, শ্রেণি শিক্ষকের মন্তব্যটি সঠিক ছিল।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পরিসংখ্যান হলো তথ্য সংগ্রহ, সংকলন, উপস্থাপন, বিশ্লেষণ ও ব্যাখ্যা করে সিদ্ধান্ত নেওয়ার বিজ্ঞান; সংক্ষেপে তথ্য থেকে অর্থপূর্ণ ফল導 পাওয়া।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শিক্ষার্থীর উচ্চতা অনুপাত (ratio) স্কেল, কারণ এতে সত্যিকারের শূন্য আছে এবং অনুপাতগত তুলনা (যেমন দ্বিগুণ/অর্ধেক) অর্থপূর্ণ।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে [math]\\sum x_i=5+8+10+12+15=50[/math], তাই [math]\\sum(2x_i+3)=2\\sum x_i+3\\cdot5=2\\cdot50+15=[/math][math]115[/math]।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সংখ্যাগুলোর বর্গের যোগফল [math]5^2+8^2+10^2+12^2+15^2=558[/math], কিন্তু সমষ্টির বর্গ [math](\\sum x_i)^2=50^2=2500[/math], ফলে শিক্ষক বলেছেন সঠিক। সাধারণভাবে [math](\\sum x_i)^2=\\sum x_i^2+2\\sum_{i\u003Cj}x_ix_j[/math] হওয়ায় ক্রস-টার্মগুলো ধনাত্মক হলে সমষ্টির বর্গ সবসময় বড় হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391699,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391699,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391699,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391699,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391699,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391699,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391699,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391699,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391699,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 391699,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 391699,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 391699,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 391699,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 391699,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391688,
+      "value": {
+        "options": {
+          "ক": "তথ্য উপস্থাপন",
+          "খ": "তথ্য বিশ্লেষণ",
+          "গ": "তথ্য সমষ্টি",
+          "ঘ": "তথ্য সংগ্রহ"
+        },
+        "question": "নিচের কোনটি পরিসংখ্যানের বৈশিষ্ট্য?",
+        "solution": "তথ্য সমষ্টি",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391688,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391688,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391697,
+      "value": {
+        "options": {
+          "ক": "চলক কাকে বলে?",
+          "খ": "করিম সাহেবের মাসিক গড় আয় 50,000 টাকা। ইহা কি পরিসংখ্যান? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের উপাত্ত ব্যবহার করে [math]\\sum_{i=1}^{10}\\left(x_{i}-12\\right)[/math] এর মান নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের আলোকে বলা যায় কি [math]\\sum_{i=1}^{10}\\left(x_{i}-11\\right)^{2}[/math] [math]\u003C\\sum_{i=1}^{10}\\left(x_{i}-4\\right)^{2}[/math] ? গাণিতিকভাবে যাচাই কর।"
+        },
+        "question": "20 নম্বরের একটি শ্রেণি পরীক্ষায় 10 জন শিক্ষার্থীর প্রাপ্ত নম্বর দেওয়া হলো: 4, 5, 10, 12, 18, 15, 16, 13, 9, 8.",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eসমগ্রকের বা তথ্যবিশ্বের যেসব বৈশিষ্ট্য এককভেদে গুণগত বা পরিমাণগতভাবে পরিবর্তিত হয়, তাকে চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eকরিম সাহেবর মাসিক গড় আয় 50,000 টাকা- ইহা একটি পরিসংখ্যান।ব্যাখ্যা: পরিসংখ্যান কোনো একটি বিশেষ বৈশিষ্ট্যের অনুকূল তথ্যের সমষ্টি নিয়ে আলোচনা করে। পরস্পর সম্পর্কযুক্ত একাধিক তথ্যের সমাহার বা কোনো তথ্যসারির প্রতিনিধিত্বকারী একটি সংখ্যা পরিসংখ্যান হতে পারে। এখানে করিম সাহেবের মাসিক গড় আয় 50,000 টাকা দ্বারা উনার সকল মাসের আয়কে প্রকাশ করা হয়েছে। সুতরাং করিম সাহেবের মাসিক গড় আয় 50,000 টাকা ইহা একটি পরিসংখ্যান।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, শিক্ষার্থীদের প্রাপ্ত নম্বরের চলক,[math]x_{i}=4,5,10,12,18,[/math]\u003Cbr\u003E [math]15,16,13,9,8[/math]\u003Cbr\u003Eএখানে, [math]x_{1}=4, x_{2}=5[/math]\u003Cbr\u003E [math]x_{3}=10 ; x_{4}=12[/math]\u003Cbr\u003E [math]x_{5}=18, x_{6}=15[/math]\u003Cbr\u003E [math]x_{7}=16, x_{8}=13[/math]\u003Cbr\u003E [math]x_{9}=9[/math]\u003Cbr\u003E এবং [math]x_{10}=8[/math]\u003Cbr\u003Eএখন, [math]\\sum_{i=1}^{10}\\left(x_{i}-12\\right)[/math]\u003Cbr\u003E [math]=\\left(x_{1}-12\\right)+\\left(x_{2}-12\\right)[/math]\u003Cbr\u003E [math]+\\left(x_{3}-12\\right)+\\left(x_{4}-12\\right)[/math]\u003Cbr\u003E [math]+\\left(x_{5}-12\\right)[/math]\u003Cbr\u003E [math]+\\left(x_{6}-12\\right)+\\left(x_{7}-12\\right)[/math]\u003Cbr\u003E [math]+\\left(x_{8}-12\\right)+\\left(x_{9}-12\\right)[/math]\u003Cbr\u003E [math]+\\left(x_{10}-12\\right)[/math]\u003Cbr\u003E [math]=(4-12)+(5-12)[/math]\u003Cbr\u003E [math]+(10-12)+(12-12)[/math]\u003Cbr\u003E [math]+(18-12)[/math]\u003Cbr\u003E [math]+(15-12)+(16-12)[/math]\u003Cbr\u003E [math]+(13-12)+(9-12)[/math]\u003Cbr\u003E [math]+(8-12)[/math]\u003Cbr\u003E [math]=-8-7-2+0+6+[/math]\u003Cbr\u003E [math]3+4+1-3-4[/math]\u003Cbr\u003E [math]=-24+14=-10[/math]\u003Cbr\u003Eসুতরাং, [math]\\sum_{i=1}^{10}\\left(x_{i}-12\\right)=-10[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eধরি, শিক্ষার্থীদের প্রাপ্ত নম্বরের চলক, [math]x_{i}=[/math]\u003Cbr\u003E4, 5, 10, 12, 18, 15, 16, 13, 9, 8এখানে, [math]x_{1}=4, x_{2}=5[/math]\u003Cbr\u003E [math]x_{3}=10, x_{4}=12,[/math]\u003Cbr\u003E [math]x_{5}=18, x_{6}=15[/math]\u003Cbr\u003E [math]x_{7}=16, x_{8}=13[/math]\u003Cbr\u003E [math]x_{9}=9[/math]\u003Cbr\u003E এবং [math]x_{10}=8[/math]\u003Cbr\u003Eএখন, বামপক্ষ [math]=\\sum_{i=1}^{10}\\left(x_{i}-11\\right)^{2}[/math]\u003Cbr\u003E [math]=\\left(x_{1}-11\\right)^{2}+\\left(x_{2}-11\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{3}-11\\right)^{2}+\\left(x_{4}-11\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{5}-11\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{6}-11\\right)^{2}+\\left(x_{7}-11\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{8}-11\\right)^{2}+\\left(x_{9}-11\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{10}-11\\right)^{2}[/math]\u003Cbr\u003E [math]=(4-11)^{2}+(5-11)^{2}[/math]\u003Cbr\u003E [math]+(10-11)^{2}+(12-11)^{2}[/math]\u003Cbr\u003E [math]+(18-11)^{2}[/math]\u003Cbr\u003E [math]+(15-11)^{2}+(16-11)^{2}[/math]\u003Cbr\u003E [math]+(13-11)^{2}+(9-11)^{2}[/math]\u003Cbr\u003E [math]+(8-11)^{2}[/math]\u003Cbr\u003E [math]=(-7)^{2}+(-6)^{2}+(-1)^{2}[/math]\u003Cbr\u003E [math]+(1)^{2}+(7)^{2}+(4)^{2}+(5)^{2}+(2)^{2}[/math]\u003Cbr\u003E [math]+(-2)^{2}+(-3)^{2}[/math]\u003Cbr\u003E [math]=49+36+1+1+49[/math]\u003Cbr\u003E [math]+16+25+4+[/math]\u003Cbr\u003E [math]4+9=194[/math]\u003Cbr\u003Eএবং ডানপক্ষ [math]=\\sum_{i=1}^{10}\\left(x_{i}-4\\right)^{2}[/math]\u003Cbr\u003E [math]=\\left(x_{1}-4\\right)^{2}+\\left(x_{2}-4\\right)^{2}+[/math]\u003Cbr\u003E [math]\\left(x_{3}-4\\right)^{2}+\\left(x_{4}-4\\right)^{2}[/math]\u003Cbr\u003E [math]\\left(x_{5}-4\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{6}-4\\right)^{2}+\\left(x_{7}-4\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{8}-4\\right)^{2}+\\left(x_{9}-4\\right)^{2}[/math]\u003Cbr\u003E [math]+\\left(x_{10}-4\\right)^{2}[/math]\u003Cbr\u003E [math]=(4-4)^{2}+(5-4)^{2}[/math]\u003Cbr\u003E [math]+(10-4)^{2}+(12-4)^{2}[/math]\u003Cbr\u003E [math]+(18-4)^{2}[/math]\u003Cbr\u003E [math]+(15-4)^{2}+(16-4)^{2}[/math]\u003Cbr\u003E [math]+(13-4)^{2}+(9-4)^{2}[/math]\u003Cbr\u003E [math]+(8-4)^{2}[/math]\u003Cbr\u003E [math]=(0)^{2}+(1)^{2}+(6)^{2}+(8)^{2}+[/math]\u003Cbr\u003E [math](14)^{2}+(11)^{2}+(12)^{2}[/math]\u003Cbr\u003E [math]+(9)^{2}+(5)^{2}+(4)^{2}[/math]\u003Cbr\u003E [math]=0+1+36+64+196+[/math]\u003Cbr\u003E [math]+121+144+81+25[/math]\u003Cbr\u003E [math]+16[/math]\u003Cbr\u003E [math]=684[/math]\u003Cbr\u003Eএখানে, বামপক্ষ \u003C ডানপক্ষঅর্থাৎ [math]\\sum_{i=1}^{10}\\left(x_{i}-11\\right)^{2}[/math]\u003Cbr\u003E [math]\u003C\\sum_{i=1}^{10}\\left(x_{i}-4\\right)^{2}[/math]\u003Cbr\u003E গাণিতিক সম্পর্কটি সত্য।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চলক হলো সেই বৈশিষ্ট্য বা পরিমাপ যা ভিন্ন ভিন্ন পর্যবেক্ষণে ভিন্ন মান নেয়; উদাহরণস্বরূপ এখানে \"প্রাপ্ত নম্বর\" একটি চলক।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হ্যাঁ — \"মাসিক গড় আয় 50,000 টাকা\" একটি পরিসংখ্যান কারণ এটি একাধিক পর্যবেক্ষণ (মাসিক আয়ের মান) থেকে তৈরী করা সংখ্যাসূচক সংক্ষিপ্তসার (গড়)।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে যোগফল নির্ণয় করলে [math]\\sum x_i=4+5+10+12+18+15+16+13+9+8=110[/math], তাই [math]\\sum_{i=1}^{10}(x_i-12)=110-10\\times12=110-120=-10[/math]।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গড় [math]\\bar x=110/10=11[/math] হওয়ায় নিম্নবর্গের যোগফল গড়ের জন্য সর্বনিম্ন হয়; সাধারণভাবে [math]\\sum(x_i-a)^2=\\sum(x_i-\\bar x)^2+ n(\\bar x-a)^2[/math]। এখানে [math]n(\\bar x-4)^2=10(11-4)^2=490\u003E0[/math], তাই [math]\\sum_{i=1}^{10}(x_i-11)^2\u003C\\sum_{i=1}^{10}(x_i-4)^2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391697,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391697,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391697,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 391697,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391697,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391697,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 391697,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 391697,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 391697,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 391697,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 391697,
+            "tag_id": 6,
+            "year": "2023",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391696,
+      "value": {
+        "options": {
+          "ক": "তত্ত্ব",
+          "খ": "তথ্য",
+          "গ": "নমুনাজমান",
+          "ঘ": "পরামিতি"
+        },
+        "question": "পরিসংখ্যানিক গবেষণার কাঁচামালকে কী বলে?",
+        "solution": "তথ্য",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 391696,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391696,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391695,
+      "value": {
+        "options": {
+          "ক": "নামসূচক",
+          "খ": "ক্রমিক সূচক",
+          "গ": "শ্রেণিসূচক",
+          "ঘ": "আনুপাতিক"
+        },
+        "question": "বয়স ও উচ্চতা কোন ধরনের পরিমাপন স্কেল ?",
+        "solution": "আনুপাতিক",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391695,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391695,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391694,
+      "value": {
+        "options": {
+          "ক": "বয়স",
+          "খ": "উচ্চতা",
+          "গ": "ওজন",
+          "ঘ": "মেধা"
+        },
+        "question": "নিচের কোনটি গুণবাচক চলকের উদাহরণ?",
+        "solution": "মেধা",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 391694,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391694,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391693,
+      "value": {
+        "options": {
+          "ক": "শিক্ষার্থীদের বয়স",
+          "খ": "মাছের ওজন",
+          "গ": "পরিবারের সদস্য সংখ্যা",
+          "ঘ": "ঢাকা শহরের মাসিক তাপমাত্রা"
+        },
+        "question": "কোনটি বিচ্ছিন্ন চলক?",
+        "solution": "পরিবারের সদস্য সংখ্যা",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391693,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391693,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391692,
+      "value": {
+        "options": {
+          "ক": "রক্তচাপ",
+          "খ": "ক্যালেন্ডারের তারিখ",
+          "গ": "বয়স",
+          "ঘ": "ধর্ম"
+        },
+        "question": "কোনটি নামসূচক পরিমাপন স্কেল?",
+        "solution": "ধর্ম",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391692,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391692,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391691,
+      "value": {
+        "options": {
+          "ক": "বাড়ির নম্বর",
+          "খ": "ছাত্র-ছাত্রীর সংখ্যা",
+          "গ": "বয়স",
+          "ঘ": "ধর্ম"
+        },
+        "question": "কোনটি অবিচ্ছিন্ন চলক?",
+        "solution": "বয়স",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391691,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391691,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391690,
+      "value": {
+        "options": {
+          "ক": "ধ্রুবক",
+          "খ": "চলক",
+          "গ": "নমুনা",
+          "ঘ": "সমগ্রক"
+        },
+        "question": "তথ্যের পরিবর্তনশীল বৈশিষ্ট্যকে কী বলে?",
+        "solution": "চলক",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391690,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391690,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 391689,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "3",
+          "গ": "4",
+          "ঘ": "5"
+        },
+        "question": "পরিমাপনের স্কেল কয়টি?",
+        "solution": "4",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4133,
+      "created_at": "2025-08-19T05:05:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 391689,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 391689,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391689,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        },
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 391689,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:05:07.000000Z",
+            "updated_at": "2025-08-19T05:05:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4133&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4133&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4133&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 20,
+  "total": 20
+}

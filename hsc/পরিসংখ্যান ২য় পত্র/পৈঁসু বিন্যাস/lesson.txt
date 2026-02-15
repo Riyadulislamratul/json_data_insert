@@ -1,0 +1,2587 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 392807,
+      "value": {
+        "options": {
+          "ক": "পৈঙ্গু চলক কি?",
+          "খ": "পরিমিত বিন্যাসের গড় ঋণাত্মক হতে পারে কি? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের আলোকে P(0 ≤ x ≤ 1) এর মান নির্ণয় কর। যেখানে x = ক্রেতার সংখ্যা।",
+          "ঘ": "তুমি কি রনির মন্তব্যের সাথে একমত? সম্ভাবনা নির্ণয়পূর্বক মতামত দাও।"
+        },
+        "question": "কোনো একটি দোকানে প্রতি মিনিটে আগত ক্রেতার সংখ্যা পৈঙ্গু বিন্যাস মেনে চলে যার গড় ও। রনি মন্তব্য করল প্রতি মিনিটে 2 জন ক্রেতা আসার সম্ভাবনা প্রতি মিনিটে ও জন ক্রেতা আসার সম্ভাবনার সমান।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদ্বিপদী চলকের চেষ্টার সংখ্যা (n) খুব বেশি এবং প্রতিবার চেষ্টায় সফলতার সম্ভাবনা খুব কম হলে, দ্বিপদী চলক পৈসু চলকে রূপান্তরিত হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eহ্যাঁ, পরিমিত বিন্যাসের গড় ঋণাত্মক হতে পারে। আমরা জানি, পরিমিত বিন্যাসের গড়। এর সীমা ー ထ ＜ μ ＜ ထ অর্থাৎ μ ঋণাত্মক মান গ্রহণ করতে পারে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, প্রতি মিনিটে আগত ক্রেতার সংখ্যার গড়, m = 3x: ক্রেতার সংখ্যাx এর সম্ভাবনা অপেক্ষক:[math]P(x)=\\frac{e^{-m}(m)^{x}}{x !}[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{e}^{-3}(3)^{x}}{\\mathrm{x} !}[/math]\u003Cbr\u003E [math]; x=0,1, \\ldots \\ldots, \\infty[/math]\u003Cbr\u003E [math]\\therefore \\quad P(0 \\leq x \\leq 1)[/math]\u003Cbr\u003E [math]=P(x=0)+P(x=1)[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{e}^{-1}(3)^{0}}{0 !}+\\frac{\\mathrm{e}^{-3}(3)^{1}}{1 !}[/math]\u003Cbr\u003E [math]=e^{-3}(1+3)=0.199[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের রনির মন্তব্য অনুসারে, P(x = 2) = P(x = 3)এখন, [math]P(x+2)=\\frac{e^{-1} 3^{2}}{2 !}[/math]\u003Cbr\u003E [math]=0.224[/math]\u003Cbr\u003Eএবং [math]P(x=3)=\\frac{e^{-3} 3^{3}}{3 !}[/math]\u003Cbr\u003E [math]=0.224[/math]\u003Cbr\u003Eঅর্থাৎ [math]P(x=2)=P(x=3)[/math]\u003Cbr\u003Eসুতরাং রনির মন্তব্যটির সাথে আমি একমত।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পৈঙ্গু চলক হলো গড় বা প্রত্যাশিত ঘটনা সংখ্যা, অর্থাৎ [math]\\lambda[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E না—পোয়াসন গড় নেতিবাচক হতে পারে না; [math]\\lambda\\ge0[/math] কারণ এটি ঘটনাগুলোর প্রত্যাশিত সংখ্যা।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]P(0\\le X\\le1)=P(0)+P(1)=e^{-\\lambda}+ \\lambda e^{-\\lambda}=e^{-\\lambda}(1+\\lambda)[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সমীকরণ দিলে [math]P(2)=P(0)\\Rightarrow e^{-\\lambda}\\frac{\\lambda^2}{2}=e^{-\\lambda}\\Rightarrow \\frac{\\lambda^2}{2}=1[/math], ফলে [math]\\lambda=\\sqrt{2}[/math]; এই মানে রনির মন্তব্যটি সম্ভব এবং সঠিক (উভয়ের সম্ভাব্যতা [math]e^{-\\sqrt{2}}[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392807,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392807,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392807,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392807,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392807,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392807,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392807,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392807,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392806,
+      "value": {
+        "options": {
+          "ক": "আদর্শ পরিমিত চলকের ভেদাঙ্ক কত?",
+          "খ": "দ্বিপদী বিন্যাস কখনও পরিমিত বিন্যাসে পরিণত হতে পারে কি? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের আলোকে P(x ≥ 1) নির্ণয় কর, যেখানে ক্রেতার সংখ্যা।",
+          "ঘ": "P(x-2) 3 P(x - 3) নির্ণয়পূর্বক উক্ত সম্ভাবনাদ্বয়ের মধ্যে সম্পর্কের ব্যাখ্যা দাও।"
+        },
+        "question": "কোনো একটি দোকানে প্রতি মিনিটে আগত ক্রেতার সংখ্যা পৈঙ্গু বিন্যাস মেনে চলে যার গড় 3।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eআদর্শ পরিমিত চলকের ভেদাঙ্ক এক (1)[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদ্বিপদী বিন্যাস পরিমিত বিন্যাসে রূপান্তরিত হতে পারে। পরিমিত বিন্যাস দ্বিপদী বিন্যাসের একটি সীমিত রূপ। দ্বিপদী বিন্যাসের চেষ্টার সংখ্যা খুব বেশি অর্থাৎ [math]n \\rightarrow \\infty[/math]\u003Cbr\u003E এবং প্রতিবার চেষ্টায় সফলতা ও বিফলতার সম্ভাবনা প্রায় সমান [math](p \\approx q)[/math]\u003Cbr\u003E হলে, দ্বিপদী চলক পরিমিত চলকে রূপান্তরিত হয়।অর্থাৎ [math]\\begin{array}{l}\\operatorname{Lim} \\\\N \\rightarrow \\infty \\\\p \\approx q\\end{array}[/math]\u003Cbr\u003E (দ্বিপদী বিন্যাস) = পরিমিত বিন্যাস।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, পৈঁসু বিন্যাসের গড় পরামিতি, m = 3x : ক্রেতার সংখ্যা হলে সম্ভাবনা অপেক্ষক, [math]P(x)=\\frac{e^{-3} 3^{x}}{x !}[/math]\u003Cbr\u003E∴ [math]P(x \\geq 1)=[/math]\u003Cbr\u003E [math]=1-P(x\u003C1)[/math]\u003Cbr\u003E [math]=1-P(x=0)[/math]\u003Cbr\u003E [math]=1-\\frac{\\mathrm{e}^{-3} 3^{0}}{0 !}[/math]\u003Cbr\u003E [math]=1-\\mathrm{e}^{-3}=0.95[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখন, [math]P(x-2)[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{e}^{-3} 3^{2}}{2 !}=0.224[/math]\u003Cbr\u003Eআবার, [math]P(x=3)[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{e}^{-3} 3^{3}}{3 !}[/math]\u003Cbr\u003E [math]=0.224[/math]\u003Cbr\u003Eসুতরাং P(x = 2) এবং P(x = 3) এর সম্ভাবনা সমান।অর্থাৎ প্রতি মিনিটে ঐ দোকানে 2 জন ক্রেতা ঢোকার সম্ভাবনা, 3 জন ক্রেতা ঢোকার সম্ভাবনার সমান।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E আদর্শ (Poisson) পরিমিত চলকের ভেদাঙ্ক তার গড়ের সমান, সুতরাং ভেদাঙ্ক = [math]3[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হ্যাঁ — দ্বিপদী (Binomial) বিন্যাসটি পরিমিত বিন্যাসে পরিণত হয় যখন [math]n\\to\\infty,[/math] [math]p\\to0[/math] এবং [math]np=λ[/math] ধ্রুব থাকে; এ পরিস্থিতিতে Binomial([math]n,p[/math]) → Poisson([math]λ[/math])। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]P(X\\ge1)=1-P(0)=1-e^{-3}\\approx0.9502[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সাধারণভাবে [math]\\dfrac{P(k)}{P(k-1)}=\\dfrac{λ}{k}[/math] ফর Poisson; এখানে [math]λ=3[/math] হলে [math]\\dfrac{P(3)}{P(2)}=\\dfrac{3}{3}=1[/math], তাই [math]P(2)=P(3)[/math] — অর্থাৎ উভয় সম্ভাবনা সমান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392806,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392806,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392805,
+      "value": {
+        "options": {
+          "ক": "পৈঁসু বিন্যাস কী?",
+          "খ": "পৈঁসু বিন্যাসের পরামিতি সর্বদাই ধনাত্মক- ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের আলোকে সম্ভাবনা অপেক্ষক নির্ণয়পূর্বক P(x ≥ 1) এর মান নির্ণয় কর।",
+          "ঘ": "বঙ্কিমতাঙ্ক ও সূঁচলতাঙ্ক নির্ণয়পূর্বক বিন্যাসটির আকৃতি ও প্রকৃতি সম্পর্কে মন্তব্য কর।"
+        },
+        "question": "বাংলাদেশে প্রতি 1000 জনের মধ্যে অল্প কিছু লোক শহরে এবং অবশিষ্ট লোক গ্রামে বাস করে। দৈবভাবে কয়েকজন লোকের একটি নমুনা নেওয়া হলো। এ নমুনায় শহরে বাস করা লোকের সংখ্যা পৈঁসু বিন্যাস মেনে চলে যেখানে [math]\\mathrm{P}(\\mathrm{x}=4)=\\frac{1}{4} \\mathrm{P}(\\mathrm{x}=3)[/math] ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদ্বিপদী বিন্যাসের চেষ্টার সংখ্যা n এর মান খুব বড় এবং প্রতিবার চেষ্টায় সলফতার সম্ভাবনা p এর মান খুব ছোট এবং গড় মান np সসীম হলে দ্বিপদী বিন্যাসের সীমিত রূপকে পৈঁসু বিন্যাস বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপৈঁসু বিন্যাসের পরামিতির মান সর্বদাই ধনাত্মক হয়।মনে করি, x একটি পৈঁসু চলক যার পরামিতি m।∴ সম্ভাবনা ফাংশন, [math]P(x)=\\frac{e^{-m} m^{x}}{x !} ; x[/math]\u003Cbr\u003E [math]=0,1,2, \\ldots, \\infty[/math]\u003Cbr\u003Eআমরা জানি, পৈঁসু বিন্যাসের গড়.পরামিতি m এর সমান।অর্থাৎ, গড়, [math]E(x)=\\sum_{x=0}^{\\infty} x P(x)[/math]\u003Cbr\u003Eএখানে, x ≥ 0 এবং [math]P(x)=\\frac{e^{-m} m^{x}}{x !}\u003E0[/math]\u003Cbr\u003E [math]\\therefore \\quad \\sum_{x=0}^{\\infty} x P(x) \\geq 0[/math]\u003Cbr\u003Eঅর্থাৎ, গড়, E(x) = m≥ 0সুতরাং পৈঁসু বিন্যাসের পরামিতির মান সর্বদাই ধনাত্মক হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eমনে করি, লোকের সংখ্যা x যা পৈঁসু বিন্যাস মেনে চলে।[math]P(x=4)=\\frac{1}{4} P(x=3)[/math]\u003Cbr\u003Eবা, [math]\\frac{\\mathrm{e}^{-\\mathrm{m}} \\mathrm{m}^{4}}{4 !}[/math]\u003Cbr\u003E [math]=\\frac{1}{4} \\frac{\\mathrm{e}^{-\\mathrm{m}} \\mathrm{m}^{3}}{3 !}[/math]\u003Cbr\u003Eবা, [math]24 m=24[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{m}=1[/math]\u003Cbr\u003E∴ সম্ভাবনা অপেক্ষক, [math]P(x)=\\frac{e^{-1} 1^{x}}{x !} ; x[/math]\u003Cbr\u003E [math]=0,1,2, \\ldots, \\infty[/math]\u003Cbr\u003E [math]\\therefore P(x \\geq 1)=1-P(x\u003C1)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=1-P(x=0)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=1-\\frac{e^{-1}(1)^{0}}{0 !}[/math]\u003Cbr\u003E [math]=1-\\mathrm{e}^{-1}[/math]\u003Cbr\u003E [math]=1-0.368[/math]\u003Cbr\u003E [math]=0.632 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, বিন্যাসটির পরামিতি, m=1আমরা জানি,পেঁসু বিন্যাসের বঙ্কিমতাঙ্ক, [math]\\sqrt{\\beta_{1}}=\\frac{1}{\\sqrt{m}}=\\frac{1}{\\sqrt{1}}[/math]\u003Cbr\u003E [math]=1\u003E0[/math]\u003Cbr\u003Eআবার, বিন্যাসটির সূচলতাক, [math]\\beta_{2}=3+\\frac{1}{m}=3+\\frac{1}{1}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=3+1=4\u003E3[/math]\u003Cbr\u003Eসুতরাং শহরে বাস করা লোকের সংখ্যার বিন্যাসটি ধনাত্মক বঙ্কিম, এবং অতি সূঁচল।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পৈঁসু বিন্যাস হলো এমন এক ডিসক্রিট概率 বণ্টন যার সম্ভাবনা [math]P(X=x)=e^{-[math]\\lambda[/math]}\\frac{[math]\\lambda[/math]^x}{x!}[/math] যেখানে [math]\\lambda[/math] হলো গড় ঘটনা-হার (rate/mean)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পৈঁসু বিন্যাসের পরামিতি [math]\\lambda[/math] সর্বদাই ধনাত্মক কারণ এটি গড় বা প্রতিটি একক সময়ে ঘটনার সংখ্যা—নেগেটিভ গড় অর্থতান্ত্রিকভাবে অপ্রাসঙ্গিক ও অর্থহীন।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রদত্ত শর্ত থেকে [math]\\dfrac{P(4)}{P(3)}=\\dfrac{\\lambda}{4}=\\dfrac{1}{4}[/math] ফলে [math]\\lambda=1[/math]. তাই [math]P(X\\ge1)=1-P(0)=1-e^{-\\lambda}=1-e^{-1}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E এই বিন্যাসে গড় ও বৈচিত্র্য দুটোই [math]\\lambda=1[/math]. বঙ্কিমতাঙ্ক (skewness) = [math]1/\\sqrt{\\lambda}=1[/math] এবং সূঁচলতাঙ্ক (excess kurtosis) = [math]1/\\lambda=1[/math]; অর্থাৎ ডানদিকে ঝোঁক({right-skewed}) এবং স্বাভাবিকের চেয়ে বেশি শিখরযুক্ত (leptokurtic)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392805,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392805,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392805,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392805,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392805,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392805,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392805,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392805,
+            "tag_id": 7,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392805,
+            "tag_id": 46,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392805,
+            "tag_id": 3179,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392805,
+            "tag_id": 6,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392804,
+      "value": {
+        "options": {
+          "ক": "পৈঁসু চলক কী?",
+          "খ": "পৈঁসু বিন্যাসের গড় 4 এবং পরিমিত ব্যবধান 2 -মন্তব্য কর।",
+          "গ": "বিন্যাসটি হতে P(x = 2) নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের আলোকে ম্যানেজারের বক্তব্যের সত্যতা যাচাই কর।"
+        },
+        "question": "কোনো জ্যাকেট ফ্যাক্টরির তৈরিকৃত জ্যাকেটের 0.2% খারাপ। তৈরিকৃত জ্যাকেটের 100টি করে প্যাকেটজাত করা হয়। ম্যানেজার সাহেব বললেন, কোনো একদিনের তৈরিকৃত 1000টি জ্যাকেটের মধ্যে 400টির বেশি খারাপ হবে না।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদ্বিপদী চলকের চেষ্টার সংখ্যা (n) খুব বেশি এবং প্রতিবার চেষ্টায় সফলতার সম্ভাবনা খুব কম হলে, তখন সফলতা নির্দেশক চলককে পৈঁসু-চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eধরা যাক, x একটি পৈঁসু চলক।আমরা জানি, পৈঁসু বিন্যাসের গড় ও ভেদাঙ্ক সমান।অর্থাৎ E(x) = V(x)প্রশ্নমতে, গড় E(x) = 4এবং পরিমিত ব্যবধান, [math]\\sqrt{V(x)}=2[/math]\u003Cbr\u003E∴ ভেদাঙ্ক, V(x) = 4.এখানে, E(x) = V(x)সুতরাং পৈঙ্গু বিন্যাসের গড় 4 এবং পরিমিত ব্যবধান 2 -মন্তব্যটি সঠিক।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরা যাক, উৎপাদিত জ্যাকেট খারাপ হওয়ার ঘটনা সফলতা।এবং চলক, x = খারাপ জ্যাকেটের সংখ্যা।উদ্দীপক হতে পাই,[math]~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003Ep = 0.2%- 0.002[math]~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E n = 100এখানে n = 100 \u003E 30 এবং p = 0.002সুতরাং চলক x পৈঁসু বিন্যাস মেনে চলে।∴ m = np = 100 × 0.002 = 0.2[math]\\therefore P(x=2)[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{e}^{-\\mathrm{m}} \\mathrm{m}^{\\mathrm{x}}}{\\mathrm{x} !}[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{e}^{-0.2}(0.2)^{2}}{2 !}[/math]\u003Cbr\u003E [math]=0.0164 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদৈবভাবে নির্বাচিত প্যাকেটে খারাপ জ্যাকেট না থাকার সম্ভাবনা, [math]\\dot{\\mathrm{P}}(\\mathrm{x}=0)[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{e}^{-\\mathrm{m}} \\cdot \\mathrm{m}^{0}}{0 !}[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{e}^{-0.2}(0.2)^{0}}{0 !}[/math]\u003Cbr\u003E [math]=0.8187[/math]\u003Cbr\u003Eমোট প্যাকেট সংখ্যা, [math]N=\\frac{1000}{100}=10[/math]\u003Cbr\u003Eটি∴ খারাপ জ্যাকেট থাকবে না এরূপ প্যাকেটের সংখ্যা, E = N P(x = 0) = 10 × 0.8187 = 8.187 ≈ 8.19টি∴ খারাপ জ্যাকেট হবে না, এরূপ প্রত্যাশিত জ্যাকেট সংখ্যা = 8.19 × 100 = 819টিসুতরাং ম্যানেজার সাহেবের বক্তব্যটি সঠিক।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পৈঁসু চলক হল [math]p=0.2\\% = 0.002[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E গড় ও পর্যাপ্ততা হিসাব করলে গড় = [math]np[/math]; যদি [math]n=1000[/math] হয় entonces গড় = [math]1000\\times0.002=2[/math] এবং পরিমিত ব্যবধান = [math]np(1-p)\\approx1000\\times0.002\\times0.998\\approx1.996\\approx2[/math]; তাই \"গড় 4\" বলা ভুল (গড় 4 হলে সেটা হবে [math]n=2000[/math] এর ক্ষেত্রে)। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E Poisson অনুকরণ নিলে [math]\\lambda=np=2[/math], তাই [math]P(X=2)=e^{-2}\\frac{2^2}{2!}=2e^{-2}\\approx0.2707[/math] (বিনিয়োগিক বিনোমিয়ালের সঠিক মানও প্রায় একই)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মানেজারের বক্তব্য যাচাই: গড় মাত্র [math]2[/math] এবং স্ট্যান্ডার্ড ডেভিয়েশন ≈[math]\\sqrt{2}\\approx1.41[/math], ফলে [math]400[/math] অত্যন্ত দূরে (কয়েক শত গুণ স্ট্যান্ডার্ড ডেভিয়েশন) — সম্ভাবনা প্রায় শূন্য; তাই তার কথা বাস্তবে ঠিক বলেই ধরা যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392804,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392804,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392804,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392804,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392804,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392804,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392804,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392804,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392804,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392804,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392804,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392803,
+      "value": {
+        "options": {
+          "ক": "পৈসু চলক কী?",
+          "খ": "পৈঁসু বিন্যাসের পরামিতির মান সব সময় ধনাত্মক হয়-ব্যাখ্যা কর।",
+          "গ": "P(x = 1) নির্ণয় কর।",
+          "ঘ": "বিন্যাসটির গঠন- প্রকৃতি সম্পর্কে মন্তব্য কর।"
+        },
+        "question": "একটি প্রতিষ্ঠানের তৈরিকৃত পণ্যের 1% ত্রুটিপূর্ণ। দৈবভাবে 100টি পণ্য যাচাই করা হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদ্বিপদী চলকের চেষ্টার সংখ্যা (n) খুব বেশি এবং প্রতিবার চেষ্টায় সফলতার সম্ভাবনা খুব কম হলে, তখন সফলতা নির্দেশক চলককে পৈঁসু চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপৈঁসু বিন্যাসের পরামিতির মান সর্বদাই ধনাত্মক হয়। মনে করি, x একটি পৈঁসু চলক যার পরামিতি m।∴ সম্ভাবনা ফাংশন, [math]P(x)=\\frac{e^{-m} m^{x}}{x !} ; x[/math]\u003Cbr\u003E [math]x=0,1,2, \\ldots, \\infty[/math]\u003Cbr\u003Eআমরা জানি, পৈঁসু বিন্যাসের গড় পরামিতি m এর সমান।অর্থাৎ, গড়, [math]E(x)=\\sum_{x=0}^{\\infty} x P(x)[/math]\u003Cbr\u003Eএখানে, [math]x \\geq 0[/math]\u003Cbr\u003E এবং [math]P(x)=\\frac{e^{-m} m^{x}}{x !}\u003E0[/math]\u003Cbr\u003E [math]\\therefore \\sum_{\\mathrm{x}=0}^{\\infty} \\mathrm{x} \\mathrm{P}(\\mathrm{x}) \\geq 0[/math]\u003Cbr\u003Eঅর্থাৎ, গড়, E(x) = m≥0সুতরাং পৈঁসু বিন্যাসের পরামিতির মান সর্বদাই ধনাত্মক হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে, পণ্যটি ত্রুটিপূর্ণ হবার সম্ভাবনা, p = 1% = 0.01পণ্যের সংখ্যা, n = 100∴ পৈঙ্গু বিন্যাসের পরমিতি, m = np = 100 × 0.01 = 1এখন, ত্রুটিপূর্ণ পণ্যের সংখ্যা নির্দেশকারী চলক x হলে, [math]\\mathrm{P}(\\mathrm{x})=\\frac{\\mathrm{e}^{-\\mathrm{m}} \\mathrm{m}^{\\mathrm{x}}}{\\mathrm{x} !} ; \\mathrm{x}[/math]\u003Cbr\u003E [math]=0,1, \\ldots \\ldots \\infty[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{e}^{-1} 1^{\\mathrm{x}}}{\\mathrm{x} !}[/math]\u003Cbr\u003E [math]\\therefore P(x=1)=\\frac{\\mathrm{e}^{-1} 1^{\\mathrm{x}}}{\\mathrm{x} !}[/math]\u003Cbr\u003E [math]=\\mathrm{e}^{-1}=0.36788 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, [math]p=1 \\%=0.01[/math]\u003Cbr\u003Eএবং n =100∴ পৈসু বিন্যাসের পরামিতি, m = np = 100 × 0.1 = 1আমরা জানি, পৈঙ্গু বিন্যাসের বঙ্কিমতাঙ্ক, [math]\\sqrt{\\beta_{1}}=\\frac{1}{\\sqrt{\\mathrm{m}}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{1}{\\sqrt{1}}=1\u003E0[/math]\u003Cbr\u003Eযেহেতু [math]\\sqrt{\\beta_{1}}\u003E0[/math]\u003Cbr\u003E সুতরাং বিন্যাসটি ধনাত্মক বঙ্কিম।আবার, বিন্যাসটির সূচলতাঙ্ক, [math]\\beta_{2}=3+\\frac{1}{m}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=3+\\frac{1}{1}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E = 3+1[math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E = 4\u003E3যেহেতু [math]\\beta_{2}\u003E3[/math]\u003Cbr\u003E। সুতরাং বিন্যাসটি অতি সূচল। সুতরাং বলা যায় যে, বিন্যাসটি ধনাত্মক বঙ্কিম ও অতি সূচঁল",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পৈসু চলকটি হলো নমুনায় পাওয়া ত্রুটিপূর্ণ পণ্যের সংখ্যা, অর্থাৎ X = “100টি পরীক্ষায় ত্রুটিযুক্ত আইটেমের সংখ্যা” (একটি পূর্ণসংখ্যা র‍্যান্ডম ভেরিয়েবল)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বিনামিয়ালপূরণে পরামিতি n হলো ট্রায়ালের সংখ্যা (পূর্ণ ও ধনাত্মক), আর p হলো সফলতার সম্ভাবনা (০≤p≤১), তাই এগুলো শর্তসাপেক্ষে ধনাত্মক/অক্টোহণযোগ্য নয়; এছাড়া অনুমানিক পরিসংখ্যানিক পরিমাপকগুলো [math]\\mu=np[/math] এবং [math]\\sigma^2=np(1-p)[/math] যা 0≤p≤1 থাকলে অপরিহার্যভাবে অ-нেগেটিভ এবং 0\u003Cp\u003C1 হলে ধনাত্মক হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]P(X=1)={100\\choose1}(0.01)^1(0.99)^{99}=100\\times0.01\\times0.99^{99}\\approx0.37[/math] (প্রায় 0.3697)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E এটি একটি বিনামিয়াল বণ্টন (নির্দিষ্ট n=100, ছোট p=0.01) — বিচ্ছিন্ন, মান 0–100, গড় [math]np=1[/math], বৈচিত্র্য প্রায় [math]np(1-p)\\approx0.99[/math], এবং ছোট p ও বড় n হলে এটি প্রায় একইভাবে একটি Poisson(λ=1) বণ্টনের মত আচরণ করে (ডানদিকে সামান্য বক্র)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392803,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392803,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392803,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392803,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392803,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392803,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392803,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392803,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392803,
+            "tag_id": 3179,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392803,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392795,
+      "value": {
+        "options": {
+          "ক": "[math]-\\infty[/math] হতে [math]\\infty[/math]",
+          "খ": "[math]-\\infty[/math] হতে 0",
+          "গ": "০,১,২,……… [math]\\infty[/math]",
+          "ঘ": "০,১,২,………, n"
+        },
+        "question": "পৈঁসু বিন্যাসের চলকের সীমা কোনটি?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392795,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392795,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392802,
+      "value": {
+        "options": {
+          "ক": "পৈঁসু চলক কী?",
+          "খ": "পৈঁসু বিন্যাসের পরামিতি ঋণাত্মক হতে পারে কি? ব্যাখ্যা কর।",
+          "গ": "2টি ত্রুটিপূর্ণ বাল্ব হবার সম্ভাবনা বের কর।",
+          "ঘ": "রাইসার উক্তিটি যথার্থ কি-না? মন্তব্য কর।"
+        },
+        "question": "একটি জরিপ চালিয়ে দেখা গেল যে, ক্রাউন বাল্বের 20টির মধ্যে গড়ে একটি ত্রুটিপূর্ণ। 10টি বাল্ব একটি প্যাকেটে সরবরাহ করা হলো। রাইসা বলল যে, 2000টি প্যাকেটের মধ্যে 50% এর বেশি প্যাকেটে কোন ত্রুটিপূর্ণ বাল্ব নেই।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদ্বিপদী চলকের চেষ্টার সংখ্যা (n) খুব বেশি এবং প্রতিবার চেষ্টায় সফলতার সম্ভাবনা খুব কম হলে, তখন দ্বিপদী চলকের রূপান্তরিত চলককে পৈঙ্গু চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপৈঁসু বিন্যাসের পরামিতির মান সর্বদাই ধনাত্মক হয়।মনে করি, একটি পৈঁসু চলক যার পরামিতি m ।∴ সম্ভাবনা ফাংশন, [math]P(x)=\\frac{e^{-m} m^{x}}{x !}, x[/math]\u003Cbr\u003E [math]=0,1,2, \\ldots, \\infty[/math]\u003Cbr\u003Eআমরা জানি, পৈঙ্গু বিন্যাসের গড় পরামিতি m এর সমান।অর্থাৎ, গড়, [math]E(x)=\\sum_{x=0}^{\\infty} x P(x)[/math]\u003Cbr\u003Eএখানে, [math]x \\geq 0[/math]\u003Cbr\u003E এবং [math]P(x)=\\frac{e^{-m} m^{x}}{x !}\u003E0[/math]\u003Cbr\u003E [math]\\therefore \\sum_{x=0}^{\\infty} x P(x) \\geq 0[/math]\u003Cbr\u003Eঅর্থাৎ, গড়, [math]E(x)=m \\geq 0[/math]\u003Cbr\u003Eসুতরাং পৈঁসু বিন্যাসের পরামিতির মান সর্বদাই ধনাত্মক হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, ত্রুটিপূর্ণ বাল্বের সম্ভাবনা, [math]p=\\frac{1}{20}=0.05[/math]\u003Cbr\u003Eএবং n = 10∴ পৈঁসু বিন্যাসের পরমিতি, m = np[math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E= 10 × 0.05[math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E = 0.5ধরি, ত্রুটিপূর্ণ বাঘের সংখ্যার চলক xx এর সম্ভাবনা অপেক্ষক, [math]\\mathrm{p}(\\mathrm{x})=\\frac{\\mathrm{e}^{-\\mathrm{m}} \\mathrm{m}^{\\mathrm{x}}}{\\mathrm{x} !}[/math]\u003Cbr\u003E [math]=\\frac{e^{-0.5}(0.5)^{x}}{x !}[/math]\u003Cbr\u003E; x = 0, 1, 2, 10∴ 2টি ত্রুটি পূর্ণ বাল্ব হবার সম্ভাবনা [math]=p(x=2)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{e^{-0.5}(0.5)^{2}}{2 !}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E = 0.0758 (Ans.)[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, m = 0.5এবং [math]p(x)=\\frac{e^{-0.5}(0.5)^{x}}{x !}[/math]\u003Cbr\u003E [math]x=0,1, \\ldots \\ldots, \\infty[/math]\u003Cbr\u003Eদেওয়া আছে, N = 2000এখন, প্যাকেটে কোন ত্রুটিপূর্ণ বাল্ব না থাকার সম্ভাবনা [math]=p(x=0)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{e^{-0.5}(0.5)^{0}}{0 !}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\mathrm{e}^{-0.5}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E = 0.6065∴ কোনো ত্রুটিপূর্ণ বাল্ব নেই এরূপ প্যাকেটের সংখ্যা = Np(x = 0)[math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E = 2000 x 0.6065[math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E = 1223অর্থাৎ কোনো ত্রুটি পূর্ণ বাল্ব নেই এরূপ প্যাকেটের সংখ্যা মোটপ্যাকেটের [math]\\frac{1213}{200} \\times 100 \\%=60.65 \\%[/math]\u003Cbr\u003E যা 50% এর বেশি।সুতরাং বলা যায় যে, 2000টি প্যাকেটের মধ্যে 50% এর বেশি প্যাকেটে কোন ত্রুটিপূর্ণ বাল্ব নেই। অর্থাৎ রাইসার উক্তিটি যথার্থ।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চলকটি হল প্যাকেটে ত্রুটিপূর্ণ বাল্বের সংখ্যা, অর্থাৎ [math]X[/math] যেখানে [math]X\\sim\\mathrm{Binomial}(n=10,\\;p=1/20=0.05)[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E না — বিনোমিয়াল পরামিতাগুলো ঋণাত্মক হতে পারে না: [math]n[/math] একটি অ-নেগেটিভ পূর্ণসংখ্যা এবং [math]p[/math] থাকা উচিত [math]0\\le p\\le1[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]P(X=2)=\\binom{10}{2}(0.05)^2(0.95)^8=45\\times0.05^2\\times0.95^8\\approx0.0746[/math] (প্রায় 7.46%)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E রাইসার উক্তি যৌক্তিক—এক প্যাকেটে কোনো ত্রুটি না থাকার সম্ভাবনা [math](0.95)^{10}\\approx0.5987[/math], তাই 2000 প্যাকেটে প্রত্যাশিত প্রায় [math]2000\\times0.5987\\approx1197[/math]টি প্যাকেট ত্রুটিমুক্ত, যা 50% (1000) এর বেশি; আইন অফ লার্জ নম্বরস অনুযায়ী এটি বেশি সম্ভাব্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392802,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392802,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392802,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392802,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392802,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392802,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392802,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392802,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392802,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 392802,
+            "tag_id": 3,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392802,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392802,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392802,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392802,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:34.000000Z",
+            "updated_at": "2025-08-19T05:09:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392801,
+      "value": {
+        "options": {
+          "ক": "পৈঁসু বিন্যাস কী?",
+          "খ": "একটি পৈঁসু বিন্যাসের গড় 2 এবং ভেদাংক 3-ব্যাখ্যা কর।",
+          "গ": "পরামিতি নির্ণয় কর।",
+          "ঘ": "বঙ্কিমতা ও সূঁচলতা নির্ণয় কর এবং বিন্যাসটির গঠন সম্পর্কে মতামত দাও।"
+        },
+        "question": "একটি পৈঁসু বিন্যাসের ক্ষেত্রে P(x = 2) = P(x = 3).",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদ্বিপদী বিন্যাসের চেষ্টার সংখ্যা n এর মান খুব বড় এবং প্রতিবার চেষ্টায় সলফতার সম্ভাবনা p এর মান খুব ছোট এবং গড় মান np সসীম হলে দ্বিপদী বিন্যাসের সীমিত রূপকে পৈঁসু বিন্যাস বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eএকটি পৈঁসু বিন্যাসের গড় 2 এবং ভেদাঙ্ক ও উক্তিটি সত্য নয়। কেননা আমরা জানি, পৈঙ্গু বিন্যাসের একটি মাত্র পারামিতি (m) বিদ্যমান। অর্থাৎ পৈঙ্গু বিন্যাসের গড় ও ভেদাঙ্ক এর পরামিতি m এর সমান হয়। সুতরাং পৈঙ্গু বিন্যাসের গড় ও ভেদাঙ্ক পরস্পও সমান। তাই পৈঙ্গু বিন্যাসের গড় ও ভেদাঙ্ক ভিন্ন হতে পারে না।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, পৈঁসু বিন্যাসটির পরামিতি m∴ পৈঁসু বিন্যাসের সম্ভাবনা অপেক্ষক,[math]P(x)=\\frac{e^{-m} m^{x}}{x !} ; x[/math]\u003Cbr\u003E [math]=0,1,2, \\ldots \\ldots . . . ., \\infty[/math]\u003Cbr\u003Eএখন [math]P(x=2)=P(x=3)[/math]\u003Cbr\u003Eবা, [math]\\frac{e^{-m} \\cdot m^{2}}{2 !}=\\frac{e^{-m} \\cdot m^{3}}{3 !}[/math]\u003Cbr\u003Eবা, [math]\\frac{1}{2}=\\frac{m}{6}[/math]\u003Cbr\u003Eবা, [math]\\mathrm{m}=\\frac{6}{2}=3[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E'গ' হতে পাই, বিন্যাসটির পরামিতি, m = 3আমরা জানি, পৈঙ্গু বিন্যাসের বঙ্কিমতা, [math]\\sqrt{\\beta_{1}}=\\frac{1}{\\sqrt{\\mathrm{m}}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{1}{\\sqrt{3}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=0.577\u003E0[/math]\u003Cbr\u003Eসেহেতু, [math]\\sqrt{\\beta_{1}}\u003E0[/math]\u003Cbr\u003E। সুতরাং বিন্যাসটি ধনাত্মক বঙ্কিম।আবার, বিন্যাসটির সূচলতা, [math]\\beta_{2}=3+\\frac{1}{m}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=3+\\frac{1}{3}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=3+0.333[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=3.333\u003E3[/math]\u003Cbr\u003Eযেহেতু, [math]\\sqrt{\\beta_{1}}\u003E3[/math]\u003Cbr\u003E। সুতরাং বিন্যাসটি অতি সূচল। সুতরাং বিন্যাসটি ধনাত্মক বঙ্কিম ও অতি সূচল।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পৈঁসু বিন্যাস (Poisson) হল এমন এক বিচ্ছুরণ যেখানে [math]P(X=k)=e^{-\\lambda}\\frac{\\lambda^k}{k!}[/math] (যেখানে [math]k=0,1,2,\\dots[/math]) এবং শর্ত [math]P(2)=P(3)[/math] দিলে সমীকরণ থেকে [math]e^{-\\lambda}\\frac{\\lambda^2}{2!}=e^{-\\lambda}\\frac{\\lambda^3}{3!}[/math] করে সরলীকরণে [math]\\lambda(\\lambda-3)=0[/math], তাই বাস্তব (অবিকল) মানে [math]\\lambda=3[/math] (শূন্য ব্যতিক্রমী)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পৈঁসু বিন্যাসে গড় এবং ভ্যারিয়েন্স উভয়ই সমান এবং সমান হয় [math]\\lambda[/math]; তাই গড় [math]=2[/math] ও ভেদাংক [math]=3[/math] একসাথে থাকতে পারে না — এটি অসঙ্গতিপূর্ণ।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উপরে থেকে পরামিতি হলো [math]\\lambda=3[/math]; তাই গড় [math]=\\mathrm{Var}=3[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পৈঁসুর বঙ্কিমতা (skewness) [math]=1/\\sqrt{\\lambda}[/math] যা এখানে [math]=1/\\sqrt{3}\\approx0.577[/math], এবং অতিরিক্ত সূঁচলতা (excess kurtosis) [math]=1/\\lambda=1/3\\approx0.333[/math] (মোট কুর্টোসিস [math]=3+1/3\\approx3.333[/math]) — অর্থাৎ বিন্যাসটি মাঝারিভাবে ডান-বঙ্কিম (right-skewed) এবং সামান্য বেশি চাকা-দৈর্ঘ্যযুক্ত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392801,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392801,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392801,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392801,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392801,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392801,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392801,
+            "tag_id": 3179,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392801,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392801,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392801,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392800,
+      "value": {
+        "options": {
+          "ক": "পৈঁসু বিন্যাসের একটি বাস্তব উদাহরণ লেখ।",
+          "খ": "কোন পরিস্থিতিতে দ্বিপদী বিন্যাস পৈঁসু বিন্যাসে পরিণত হয়? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের আলোকে কমপক্ষে একটি ত্রুটিযুক্ত দ্রব্য পাওয়ার সম্ভাবনা বের কর।",
+          "ঘ": "উদ্দীপকের ভিত্তিতে মি. রতনের বক্তব্যের সত্যতা যাচাই কর।"
+        },
+        "question": "মি. রতনের একটি কারখানা আছে। তার কারখানায় [math]0.25%[/math] দ্রব্য ত্রুটিযুক্ত। উক্ত কারখানার দ্রব্যগুলো [math]100[/math] টি করে বাক্সে প্যাকেটজাত করা হলো। একজন ক্রেতা কারখানাটি হতে [math]10,000[/math] টি প্যাকেট ক্রয় করলেন। মি. রতন বললেন, প্যাকেটগুলোর মধ্যে দুটি ত্রুটিযুক্ত দ্রব্য আছে এরূপ প্যাকেটের সংখ্যা খুবই নগণ্য।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো বইয়ের প্রতি পৃষ্ঠায় ভুল ছাপা অক্ষরের সংখ্যা।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদ্বিপদী বিন্যাসের চেষ্টার সংখ্যা n খুব বড় অর্থাৎ, [math]\\mathbf{n} \\rightarrow \\infty[/math]\u003Cbr\u003E এবং প্রতিবার চেস্টায় সফলতার সম্ভাবনা p খুব ছোট অর্থাৎ [math]p \\rightarrow 0[/math]\u003Cbr\u003E হলে, দ্বিপদী বিন্যাস পৈঁসু বিন্যাসে পরিণত হয়।[math]\\begin{array}{l}\\lim _{n \\rightarrow \\infty} \\\\p \\rightarrow 0\\end{array}[/math]\u003Cbr\u003E দ্বিপদী বিন্যাস = পৈঁসু বিন্যাস।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরা যাক, ত্রুটিযুক্ত দ্রব্যের সংখ্যাই সফলতা∴ সফলতার সম্ভাবনা, [math]p=0.25 \\%[/math]\u003Cbr\u003E [math]=\\frac{0.25}{100}=0.0025[/math]\u003Cbr\u003E [math]=\\frac{0.25}{100}=0.0025[/math]\u003Cbr\u003Eপ্রতিটি প্যাকেটে দ্রব্যের সংখ্যা, [math]n = 100[/math]\u003Cbr\u003E এবং মোট প্যাকেটেরসংখ্যা, [math]N = 10.000[/math]\u003Cbr\u003E ধরি, ত্রুটিযুক্ত দ্রব্যের সংখ্যা নির্দেশক চলক [math]= x[/math]\u003Cbr\u003Eএখানে, p এর মান খুব ছোট। সুতরাং, চলক x পৈঁসু বিন্যাসকে মেনে চলে।পৈঁসু বিন্যাসের পরামিতি, [math]m=np[/math]\u003Cbr\u003E [math]= 100 × 0.0025[/math]\u003Cbr\u003E [math]= 0.25[/math]\u003Cbr\u003E∴ পৈঁসু চলক x এর সম্ভাবনা ফাংশনটি হবে,[math]P(x)=\\frac{e^{-m} m^{x}}{x!}[/math]\u003Cbr\u003E [math]x=0,1,2, \\ldots \\ldots \\ldots, \\infty[/math]\u003Cbr\u003Eএখন, [math]\\mathrm{m}=0.25[/math]\u003Cbr\u003E হলে, [math]P(x)=\\frac{e^{-0.25}(0.25)^{x}}{x!}[/math]\u003Cbr\u003E∴ কমপক্ষে একটি ত্রুটিযুক্ত দ্রব্য পাওয়ার সম্ভাবনা[math]=P(x \\geq 1)=1-P(x=0)[/math]\u003Cbr\u003E [math]=1-\\frac{\\mathrm{e}^{-0.25}(0.25)^{1}}{1!}[/math]\u003Cbr\u003E [math]=1-0.19470=0.8053[/math]\u003Cbr\u003Eসুতরাং, কমপক্ষে একটি ত্রুটিযুক্ত দ্রব্য পাওয়ার সম্ভাবনা [math]0.8053[/math]\u003Cbr\u003E ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, [math]P(x)=\\frac{e^{-0.25}(0.25)^{x}}{x!}[/math]\u003Cbr\u003E∴ দুটি ত্রুটিযুক্ত দ্রব্য পাওয়ার সম্ভাবনা [math]P(x=2)=\\frac{\\mathrm{e}^{-0.25}(0.25)^{2}}{2!}[/math]\u003Cbr\u003E [math]=0.02434[/math]\u003Cbr\u003E∴ দুটি ত্রুটিযুক্ত দ্রব্য এরূপ প্রত্যাশিত প্যাকেটের সংখ্যা[math]=N \\times P(x=2)[/math]\u003Cbr\u003E [math]=10000 \\times 0.02434[/math]\u003Cbr\u003E [math]=243.4 \\cong 243[/math]\u003Cbr\u003E টিসুতরাং, দুটি ত্রুটিযুক্ত দ্রব্য এরূপ প্যাকেটের সংখ্যা [math]243[/math]\u003Cbr\u003E টি যা খুব নগণ্য নয়। অতএব, উদ্দীপকের ভিত্তিতে মি. রতনের বক্তব্য সঠিক নয়।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E একটি বাস্তব উদাহরণ: একটি কল সেন্টারে এক ঘণ্টায় আসা কলের সংখ্যা — কলগুলো বিরল ও স্বাধীন ঘটলে এটি পাইসন বিন্যাস অনুসরণ করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ব্যাখ্যা: দ্বিপদী বিন্যাস পৈঁসু বিন্যাসে পরিণত হয় যখন [math]n[/math] খুব বড় এবং [math]p[/math] খুব ছোট হয় কিন্তু গড় অনুপাত [math]\\lambda = np[/math] স্থির থাকে; তখন দ্বিপদী সম্ভাব্যতা পাইসন [math](\\lambda)[/math] দিয়ে প্রায় সমান হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E একাধিক ত্রুটিযুক্ত দ্রব্যের সম্ভাবনা: প্রতি প্যাকেটে অন্তত একটি ত্রুটিযুক্ত হওয়ার probability হল [math]1-(1-p)^{100}[/math] যেখানে [math]p=0.25\\%=0.0025[/math], তাই [math]1-(1-0.0025)^{100}\\approx 0.2214[/math] (প্রায় [math]22.14\\%[/math])।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মি. রতনের বক্তব্য যাচাই: প্রতি প্যাকেটে ঠিক দুইটি ত্রুটির সম্ভাবনা হল [math]\\binom{100}{2}(0.0025)^2(1-0.0025)^{98}\\approx 0.0242[/math], তাই [math]10{,}000[/math] প্যাকেটে প্রত্যাশিত প্রায় [math]0.0242\\times10000\\approx242[/math] প্যাকেট থাকবে — সেটা “অতিশয় নগণ্য” নয়, সুতরাং তার বক্তব্য সঠিক নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392800,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392800,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392800,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392800,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392800,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392800,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392799,
+      "value": {
+        "options": {
+          "ক": "পৈঁসু বিন্যাসের একটি বাস্তব উদাহরণ লেখ।",
+          "খ": "কোন পরিস্থিতিতে দ্বিপদী বিন্যাস পৈঁসু বিন্যাসে পরিণত হয়? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের আলোকে কমপক্ষে একটি ত্রুটিযুক্ত দ্রব্য পাওয়ার সম্ভাবনা বের কর।",
+          "ঘ": "উদ্দীপকের ভিত্তিতে মি. রতনের বক্তব্যের সত্যতা যাচাই কর।"
+        },
+        "question": "মি. রতনের একটি কারখানা আছে। তার কারখানায় [math]0.25%[/math] দ্রব্য ত্রুটিযুক্ত। উক্ত কারখানার দ্রব্যগুলো [math]100[/math] টি করে বাক্সে প্যাকেটজাত করা হলো। একজন ক্রেতা কারখানাটি হতে [math]10,000[/math] টি প্যাকেট ক্রয় করলেন। মি. রতন বললেন, প্যাকেটগুলোর মধ্যে দুটি ত্রুটিযুক্ত দ্রব্য আছে এরূপ প্যাকেটের সংখ্যা খুবই নগণ্য।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো বইয়ের প্রতি পৃষ্ঠায় ভুল ছাপা অক্ষরের সংখ্যা।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদ্বিপদী বিন্যাসের চেষ্টার সংখ্যা n খুব বড় অর্থাৎ, [math]\\mathbf{n} \\rightarrow \\infty[/math]\u003Cbr\u003E এবং প্রতিবার চেস্টায় সফলতার সম্ভাবনা p খুব ছোট অর্থাৎ [math]p \\rightarrow 0[/math]\u003Cbr\u003E হলে, দ্বিপদী বিন্যাস পৈঁসু বিন্যাসে পরিণত হয়।[math]\\begin{array}{l}\\lim _{n \\rightarrow \\infty} \\\\p \\rightarrow 0\\end{array}[/math]\u003Cbr\u003E দ্বিপদী বিন্যাস = পৈঁসু বিন্যাস।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরা যাক, ত্রুটিযুক্ত দ্রব্যের সংখ্যাই সফলতা∴ সফলতার সম্ভাবনা, [math]p=0.25 \\%[/math]\u003Cbr\u003E [math]=\\frac{0.25}{100}=0.0025[/math]\u003Cbr\u003E [math]=\\frac{0.25}{100}=0.0025[/math]\u003Cbr\u003Eপ্রতিটি প্যাকেটে দ্রব্যের সংখ্যা, [math]n = 100[/math]\u003Cbr\u003E এবং মোট প্যাকেটেরসংখ্যা, [math]N = 10.000[/math]\u003Cbr\u003E ধরি, ত্রুটিযুক্ত দ্রব্যের সংখ্যা নির্দেশক চলক [math]= x[/math]\u003Cbr\u003Eএখানে, p এর মান খুব ছোট। সুতরাং, চলক x পৈঁসু বিন্যাসকে মেনে চলে।পৈঁসু বিন্যাসের পরামিতি, [math]m=np[/math]\u003Cbr\u003E [math]= 100 × 0.0025[/math]\u003Cbr\u003E [math]= 0.25[/math]\u003Cbr\u003E∴ পৈঁসু চলক x এর সম্ভাবনা ফাংশনটি হবে,[math]P(x)=\\frac{e^{-m} m^{x}}{x!}[/math]\u003Cbr\u003E [math]x=0,1,2, \\ldots \\ldots \\ldots, \\infty[/math]\u003Cbr\u003Eএখন, [math]\\mathrm{m}=0.25[/math]\u003Cbr\u003E হলে, [math]P(x)=\\frac{e^{-0.25}(0.25)^{x}}{x!}[/math]\u003Cbr\u003E∴ কমপক্ষে একটি ত্রুটিযুক্ত দ্রব্য পাওয়ার সম্ভাবনা[math]=P(x \\geq 1)=1-P(x=0)[/math]\u003Cbr\u003E [math]=1-\\frac{\\mathrm{e}^{-0.25}(0.25)^{1}}{1!}[/math]\u003Cbr\u003E [math]=1-0.19470=0.8053[/math]\u003Cbr\u003Eসুতরাং, কমপক্ষে একটি ত্রুটিযুক্ত দ্রব্য পাওয়ার সম্ভাবনা [math]0.8053[/math]\u003Cbr\u003E ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, [math]P(x)=\\frac{e^{-0.25}(0.25)^{x}}{x!}[/math]\u003Cbr\u003E∴ দুটি ত্রুটিযুক্ত দ্রব্য পাওয়ার সম্ভাবনা [math]P(x=2)=\\frac{\\mathrm{e}^{-0.25}(0.25)^{2}}{2!}[/math]\u003Cbr\u003E [math]=0.02434[/math]\u003Cbr\u003E∴ দুটি ত্রুটিযুক্ত দ্রব্য এরূপ প্রত্যাশিত প্যাকেটের সংখ্যা[math]=N \\times P(x=2)[/math]\u003Cbr\u003E [math]=10000 \\times 0.02434[/math]\u003Cbr\u003E [math]=243.4 \\cong 243[/math]\u003Cbr\u003E টিসুতরাং, দুটি ত্রুটিযুক্ত দ্রব্য এরূপ প্যাকেটের সংখ্যা [math]243[/math]\u003Cbr\u003E টি যা খুব নগণ্য নয়। অতএব, উদ্দীপকের ভিত্তিতে মি. রতনের বক্তব্য সঠিক নয়।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E একটি বাস্তব উদাহরণ: একটি বাক্সে ১০০টি দ্রব্যে ত্রুটিপূর্ণ আইটেমের সংখ্যা—যেখানে গড় ত্রুটি প্রতি বাক্সে [math]\\lambda=100\\times0.0025=0.25[/math]—পৈঁসু বিন্যাসে মডেল করা যায়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দ্বিপদী বিন্যাস পৈঁসুতে পরিণত হয় যখন পরীক্ষা সংখ্যা [math]n[/math] অনেক বড় এবং সফলতার সম্ভাবনা [math]p[/math] খুব ছোট হয়, কিন্তু [math]np=\\lambda[/math] সমান এবং স্থির থাকে; তখন [math]B(n,p)\\approx\\text{Poisson}(\\lambda)[/math]।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E একটি বাক্সে কমপক্ষে একটি ত্রুটির সম্ভাব্যতা হলো [math]1-P(0)=1-e^{-\\lambda}=1-e^{-0.25}\\approx0.2212[/math]; তাই [math]10{,}000[/math] প্যাকেটের মধ্যে প্রত্যাশিতভাবে প্রায় [math]10{,}000\\times0.2212\\approx2{,}212[/math] প্যাকেটে অন্তত একটি ত্রুটি থাকবে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দুটি ত্রুটির সম্ভাব্যতা প্রতি বাক্সে [math]P(2)=e^{-\\lambda}\\frac{\\lambda^2}{2!}=e^{-0.25}\\frac{0.25^2}{2}\\approx0.02434[/math], ফলে [math]10{,}000[/math] প্যাকেটে প্রত্যাশিত সংখ্যা প্রায় [math]10{,}000\\times0.02434\\approx243[/math] প্যাকেট হবে—অতএব মি. রতনের \"অত্যন্ত নগণ্য\" মন্তব্যটি সঠিক নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392799,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392799,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392799,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392799,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392799,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392799,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392798,
+      "value": {
+        "options": {
+          "ক": "পৈঁসু বিন্যাস কী?",
+          "খ": "পৈঁসু বিন্যাসের বঙ্কিমতা কোন ধরনের? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপক-১ হতে বিন্যাসটির পরামিতির মান বের কর।",
+          "ঘ": "উদ্দীপক-২ অনুসারে সূঁচালতাঙ্ক নির্ণয় করে বিন্যাসটির আকৃতি সম্পর্কে মন্তব্য কর।"
+        },
+        "question": "উদ্দীপক-১: পরিসংখ্যানের একজন ছাত্র জাহিন বলল, কোনো একটি পৈঁসু বিন্যাসের জন্য, [math]P(x = 2) = P(x = 3)[/math] ।\n\nউদ্দীপক-২: পরিসংখ্যানের আরেকজন ছাত্র জামাল বলল, কোনো একটি পৈঁসু বিন্যাসের জন্য [math]P(x = 3) = P(x = 4)[/math] ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদ্বিপদী বিন্যাসে চেষ্টার সংখ্যা খুব বেশি এবং প্রতিবার চেষ্টায় সফলতার সম্ভাবনা খুব কম হলে দ্বিপদী বিন্যাসের সীমায়িত রূপকে পৈসু বিন্যাস বলা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপেঁসু বিন্যাসের বঙ্কিমতা ধনাত্মক বঙ্কিম।ব্যাখ্যা: মনে করা যাক, x একটি পৈঁসু চলক যার পরামিতি m।আমরা জানি, পৈঁসু বিন্যাসের ক্ষেত্রে, গড় = ভেদাঙ্ক = পরামিতি।অর্থাৎ, [math]E(x) = V(x) = m[/math]\u003Cbr\u003E এবং বঙ্কিমতাঙ্ক, [math]\\sqrt{\\beta_{1}}=\\frac{1}{\\sqrt{\\mathrm{m}}}[/math]\u003Cbr\u003Eযেহেতু, ভেদাঙ্ক এবং পরিমিত ব্যবধান ঋণাত্মক হতে পারে না।অর্থাৎ, ভেদাঙ্ক [math]= m\u003E0[/math]\u003Cbr\u003Eএবং পরিমিত ব্যবধান [math]=\\sqrt{\\mathrm{m}}\u003E0[/math]\u003Cbr\u003Eসুতরাং বঙ্কিমতাঙ্ক, [math]\\sqrt{\\beta_{1}}=\\frac{1}{\\sqrt{m}}\u003E0[/math]\u003Cbr\u003Eঅর্থাৎ, পৈঁসু বিন্যাসের বঙ্কিমতা ধনাত্মক।অতএব, পৈঁসু বিন্যাসের বঙ্কিমতা ধনাত্মক বঙ্কিম।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eপৈঁসু বিন্যাসের পরামিতি m হলে এর সম্ভাবনা ফাংশনটি হবে,[math]P(x)=\\frac{e^{-m} m^{x}}{x!}[/math]\u003Cbr\u003E [math]x=0,1,2, \\ldots \\ldots \\ldots, \\infty[/math]\u003Cbr\u003Eদেওয়া আছে, [math]P(x=2)=P(x=3)[/math]\u003Cbr\u003Eবা, [math]\\frac{1}{2}=\\frac{m}{6}[/math]\u003Cbr\u003Eবা, [math]2 m=6[/math]\u003Cbr\u003Eবা, [math]m=\\frac{6}{2}=3[/math]\u003Cbr\u003Eসুতরাং, পৈঁসু বিন্যাসের পরামিতি, [math]m=3[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপৈঁসু বিন্যাসের পরামিতি m হলে এর সম্ভাবনা ফাংশনটি: [math]\\mathrm{P}(\\mathrm{x})=\\frac{\\mathrm{e}^{-1} \\mathrm{~m}^{x}}{\\mathrm{x}!}[/math]\u003Cbr\u003E [math]x=0,1,2, \\ldots \\ldots \\ldots, \\infty[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]P(x = 3) = P(x = 4)[/math]\u003Cbr\u003Eবা, [math]\\frac{e^{-m} m^{3}}{3!}=\\frac{3^{-m} m^{4}}{4!}[/math]\u003Cbr\u003Eবা, [math]\\frac{m^{3}}{6}=\\frac{m^{4}}{24}[/math]\u003Cbr\u003E [উভয়পক্ষকে [math]e^{-m}[/math]\u003Cbr\u003E দ্বারা ভাগ করে]বা, [math]1=\\frac{m}{4}[/math]\u003Cbr\u003E [উভয়পক্ষকে [math]\\frac{6}{m^{3}}[/math]\u003Cbr\u003E দ্বারা গুণ করে)[math]\\therefore \\quad \\mathrm{m}=4[/math]\u003Cbr\u003Eআমরা জানি, পৈঁসু বিন্যাসের বঙ্কিমতাঙ্ক, [math]\\sqrt{\\beta_{1}}=\\frac{1}{\\sqrt{\\mathrm{m}}}[/math]\u003Cbr\u003E [math]=\\frac{1}{\\sqrt{4}}=\\frac{1}{2}=0.5[/math]\u003Cbr\u003Eযেহেতু [math]\\sqrt{\\beta_{1}}\u003E0[/math]\u003Cbr\u003E। সুতরাং, প্রদত্ত বিন্যাসটির ধনাত্মক বঙ্কিম।এবং পৈঁসু বিন্যাসের সূঁচালতাঙ্ক, [math]\\beta_{2}=3+\\frac{1}{\\mathrm{~m}}=3+\\frac{1}{4}[/math]\u003Cbr\u003E [math]=3+0.25=3.25[/math]\u003Cbr\u003Eযেহেতু [math]\\beta_{2}\u003E3[/math]\u003Cbr\u003E। সুতরাং, প্রদত্ত বিন্যাসটি অতি সূঁচালো।আমরা জানি, পৈঁসু বিন্যাসের সূচালতাঙ্ক, [math]\\beta_{2}=3+\\frac{1}{m}[/math]\u003Cbr\u003E [math]=3+\\frac{1}{4}=3+0.25[/math]\u003Cbr\u003E [math]=3.25[/math]\u003Cbr\u003Eমন্তব্য: যেহেতু [math]\\beta_{2}\u003E3[/math]\u003Cbr\u003E। সুতরাং, প্রদত্ত বিন্যাসটি অতি সূঁচালো।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পয়সন বিন্যাস হল একটি অবিচ্ছেদ্য সম্ভাব্যতা বণ্টন যা নির্দিষ্ট সময়ে বা অঞ্চলে ঘটে যাওয়া স্বাধীন ঘটনা‑সংখ্যার জন্য ব্যবহৃত হয়; pmf: [math]P(X=k)=e^{-λ}\\dfrac{λ^k}{k!}[/math], যেখানে [math]λ\u003E0[/math] হলো সূঁচালতাঙ্ক (rate/mean)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পয়সন বণ্টন সাধারণত একমোঠা (unimodal) — মোড সাধারণত [math]\\lfloor λ\\rfloor[/math] — কিন্তু যদি [math]λ[/math] একটি পূর্ণসংখ্যা [math]m[/math] হয় তাহলে দুটি সংলগ্ন মোড থাকে, [math]m-1[/math] ও [math]m[/math] (অর্থাৎ দু-মোডযুক্ত / bimodal)। কেননা [math]\\dfrac{P(k+1)}{P(k)}=\\dfrac{λ}{k+1}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]P(2)=P(3)[/math] থেকে, [math]\\dfrac{e^{-λ}λ^2}{2!}=\\dfrac{e^{-λ}λ^3}{3!}[/math] ⇒ [math]\\dfrac{λ^2}{2}=\\dfrac{λ^3}{6}[/math] ⇒ [math]λ=3[/math] (শুধু‑ননট্রিভিয়াল সমাধান)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E [math]P(3)=P(4)[/math] থেকে, [math]\\dfrac{P(4)}{P(3)}=\\dfrac{λ}{4}=1[/math] হওয়ায় [math]λ=4[/math]; যেহেতু [math]λ[/math] পূর্ণসংখ্যা, বণ্টনটিতে দুইটি মোড থাকবে (মোড = 3 ও 4), অর্থাৎ দু-মোডযুক্ত (bimodal)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392798,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392798,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392798,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392798,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392798,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392798,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392797,
+      "value": {
+        "options": {
+          "ক": "পৈঁসু চলক কাকে বলে?",
+          "খ": "পৈঁসু বিন্যাসের পরামিতি ধনাত্মক ব্যাখ্যা কর।",
+          "গ": "[math]P(x \\geq 1)[/math] নির্ণয় কর।",
+          "ঘ": "[math]P(x = 2)[/math] ও [math]P(x = 3)[/math] নির্ণয়পূর্বক সম্ভাবনাদ্বয়ের মধ্যে সম্পর্ক ব্যাখ্যা কর।"
+        },
+        "question": "একটি সমীক্ষায় দেখা যায় যে, মাসে গড়ে 3 জন সড়ক দুর্ঘটনায় মারা যায়। সড়ক দুর্ঘটনায় মৃত্যুর সংখ্যা পৈঁসু চলক মেনে চলে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eএকটি বিচ্ছিন্ন দৈব চলক x কে তখনই পৈঁসু চলক বলা হয় যখন এটির সম্ভাবনা ফাংশনটি, [math]P(x)=\\frac{e^{-m} m^{x}}{x!}[/math]\u003Cbr\u003E [math]x = 0, 1, 2, ..........\\infty[/math]\u003Cbr\u003E এবং [math]m \u003E 0[/math]\u003Cbr\u003E হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপৈঁসু বিন্যাসের পরামিতি ধনাত্মক হয়।ব্যাখ্যা: মনে করি, x একটি পৈঁসু চলক এবং এর পরামিতি m.∴ পৈঁসু বিন্যাসের গড় [math]\\sum_{x=0}^{\\infty} x P(x)=m[/math]\u003Cbr\u003Eযেহেতু [math]x ≥ 0[/math]\u003Cbr\u003E এবং [math]P(x) ≥0[/math]\u003Cbr\u003Eঅতএব, [math]\\Sigma x P(x) \\geq 0[/math]\u003Cbr\u003E। অর্থাৎ, [math]\\mathrm{m}\u003E0[/math]\u003Cbr\u003Eসুতরাং, পৈঁসু বিন্যাসের পরামিতি ঋণাত্মক হতে পারে না।অতএব, পৈঁসু বিন্যাসের পরামিতি সর্বদা ধনাত্মক হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, সড়ক দুর্ঘটনায় মৃত্যুর সংখ্যা [math]= x[/math]\u003Cbr\u003Eদেওয়া আছে, সড়ক দূর্ঘটনায় মৃত্যুর সংখ্যা [math]= x,[/math]\u003Cbr\u003E পৈঁসু চলক এবং গড় [math]= m = 3[/math]\u003Cbr\u003E∴ পৈঁসু চলক x এর সম্ভাবনা ফাংশন হবে: [math]\\mathrm{P}(\\mathrm{x})=\\frac{\\mathrm{e}^{-\\mathrm{m}} \\mathrm{m}^{\\mathrm{x}}}{\\mathrm{x}!}[/math]\u003Cbr\u003E [math]x=0,1, \\ldots, \\infty[/math]\u003Cbr\u003Eআমরা জানি, পৈঁসু বিন্যাসের গড় উহার পরামিতির সমান। অর্থাৎ, গড় [math]= m = 3 =[/math]\u003Cbr\u003E পরামিতি।সুতরাং, পৈঁসু বিন্যাসের পরামিতি [math]m = 3[/math]\u003Cbr\u003E হলে সম্ভাবনা ফাংশনটি হবে : [math]P(x)=\\frac{e^{-3} 3^{x}}{x!}[/math]\u003Cbr\u003E [math]x=0,1,2, \\ldots \\ldots, \\infty[/math]\u003Cbr\u003E [math]\\therefore \\quad P(x \\geq 1)[/math]\u003Cbr\u003E [math]=1-P(x=0)[/math]\u003Cbr\u003E [math]=1-\\frac{\\mathrm{e}^{-3} 3^{0}}{0!}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=1-0.04979=0.95021[/math]\u003Cbr\u003E [math]\\therefore \\quad P(x \\geq 1)=0.95021[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, [math]P(x)=\\frac{e^{-3} 3^{x}}{x!}[/math]\u003Cbr\u003E [math]=0,1,2, \\ldots, \\infty[/math]\u003Cbr\u003Eএখন, [math]P(x=2)=\\frac{e^{-3} 3^{2}}{2!{}}[/math]\u003Cbr\u003E [math]=\\frac{0.04979 \\times 9}{2}[/math]\u003Cbr\u003E [math]=\\frac{0.44811}{2}=0.224055[/math]\u003Cbr\u003Eএবং [math]P(x=3)=\\frac{e^{-3} 3^{3}}{3!}[/math]\u003Cbr\u003E [math]=\\frac{0.04979 \\times 27}{6}[/math]\u003Cbr\u003E [math]=\\frac{1.34433}{6}=0.224055[/math]\u003Cbr\u003Eসুতরাং, [math]P(x=2)=P(x=3)[/math]\u003Cbr\u003E.",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পৈঁসু চলক হল এমন একটি পরিমাপযোগ্য র্যান্ডম ভেরিয়েবল যা একটি স্থির সময় বা স্থানে বিরল, স্বাধীন ঘটনাগুলোর সংখ্যা বর্ণনা করে এবং যার সম্ভাব্যতা পৈঁসু বণ্টন দ্বারা দেওয়া হয়, যেখানে গড় হার [math]\\lambda[/math] থাকে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পৈঁসু বিন্যাসের পরামিতি [math]\\lambda[/math] হল প্রত্যাশিত (গড়) ঘটনার সংখ্যা, তাই এটি ধনাত্মক হওয়া আবশ্যক—এটি ঘটনার গড় শতকরা বা হার এবং [math]e^{-\\lambda}[/math] টার্মে ব্যবহার করা হয়, তাই নেগেটিভ মান অপ্রাসঙ্গিক।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এখানে [math]\\lambda=3[/math], তাই [math]P(X\\ge 1)=1-P(0)=1-e^{-3}[/math] (ঐচ্ছিক সংখ্যাগত মান ≈ [math]0.9502[/math])।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E \n[math]P(X=2)=e^{-3}\\dfrac{3^2}{2!}=e^{-3}\\dfrac{9}{2}[/math] এবং \n[math]P(X=3)=e^{-3}\\dfrac{3^3}{3!}=e^{-3}\\dfrac{27}{6}=e^{-3}\\dfrac{9}{2}[/math], তাই দুইটির মান সমান। সাধারণভাবে [math]\\dfrac{P(k+1)}{P(k)}=\\dfrac{\\lambda}{k+1}[/math], এখানে [math]\\lambda=3[/math] ও [math]k=2[/math] হলে অনুপাত 1 হওয়ায় সমান হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392797,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392797,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392797,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392797,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392797,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392797,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392797,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392797,
+            "tag_id": 6,
+            "year": "2023",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392796,
+      "value": {
+        "options": {
+          "ক": "0.70",
+          "খ": "1.41",
+          "গ": "2.00",
+          "ঘ": "3.50"
+        },
+        "question": "পৈঁসু বিন্যাসের পরামিতি 2 হলে সূঁচালতার মান কত?",
+        "solution": "3.50",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392796,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392796,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392782,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{1}{2}[/math]",
+          "খ": "2",
+          "গ": "4",
+          "ঘ": "16"
+        },
+        "question": "পৈঁসু বিন্যাসের পরিমিত ব্যবধান 4 হলে এর গড় কত?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392782,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392782,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392794,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i. ii ও iii"
+        },
+        "question": "একটি পৈঁসু বিন্যাসের গড় 3 হলে—\n\ni. গাণিতিক প্রত্যাশা [math]=\\sqrt{3}[/math]\n\nii. ভেদাঙ্ক = 3\n\niii. বঙ্কিমতা [math]=\\frac{1}{\\sqrt{3}}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "ii ও iii",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392794,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392794,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392793,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i ii ও iii"
+        },
+        "question": "পৈঁসু বিন্যাসের ক্ষেত্রে—\n\ni. ভেদাঙ্ক ও পরামিতির মান সমান\n\nii. গড় ও ভেদাংক সমান\n\niii. গড়, ভেদাঙ্ক অপেক্ষা বড়\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও ii",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392793,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392793,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392792,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "4",
+          "গ": "8",
+          "ঘ": "16"
+        },
+        "question": "পৈঁসু বিন্যাসের গড় 4 হলে পরিমিত ব্যবধান কত?",
+        "solution": "2",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392792,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392792,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392791,
+      "value": {
+        "options": {
+          "ক": "-\\infty [math]হতে[/math]+\\infty$",
+          "খ": "[math]-\\infty[/math] হতে 0",
+          "গ": "[math]0,1,2, \\ldots \\infty[/math]",
+          "ঘ": "[math]0,1,2, \\ldots \\ldots \\ldots n[/math]"
+        },
+        "question": "পৈঁসু বিন্যাসের সীমা কোনটি?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392791,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392791,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392790,
+      "value": {
+        "options": {
+          "ক": "[math]P(x)=\\frac{e^{-m} m^{x}}{x !} ; x=0,1,2, \\ldots \\ldots \\ldots, n[/math]",
+          "খ": "[math]\\mathrm{P}(\\mathrm{x})=\\frac{\\mathrm{e}^{-\\mathrm{m}}\\mathrm{m}^{\\mathrm{x}}}{\\mathrm{x} !} ; \\mathrm{x}=0,1,2 \\ldots \\ldots \\ldots \\ldots, \\infty[/math]",
+          "গ": "[math]P(x)=\\frac{e^{-m} x^{m}}{x !} ; x=0,1,2, \\ldots \\ldots \\ldots \\ldots, \\infty[/math]",
+          "ঘ": "[math]P(x)=\\frac{e^{-x} m^{x}}{m !} ; x=0,1,2, \\ldots \\ldots \\ldots \\ldots, \\infty[/math]"
+        },
+        "question": "পৈঁসু বিন্যাসের সম্ভাবনা ফাংশন কোনটি?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392790,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392790,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392789,
+      "value": {
+        "options": {
+          "ক": "0.70",
+          "খ": "1.41",
+          "গ": "2.00",
+          "ঘ": "3.50"
+        },
+        "question": "পৈঁসু বিন্যাসের পরামিতি 2 হলে, এর সূঁচলতার মান কত?",
+        "solution": "3.50",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392789,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392789,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392788,
+      "value": {
+        "options": {
+          "ক": "[math]P(x)=\\frac{e^{-m} m^{x}}{x !}, x=0,1,2, \\ldots, n[/math]",
+          "খ": "[math]P(x)=\\frac{e^{-m} m^{x}}{x !}, x=0,1 ; 2, \\ldots, \\infty[/math]",
+          "গ": "[math]P(x)=\\frac{e^{-x} x^{m}}{x !}, x=0,1,2, \\ldots, n[/math]",
+          "ঘ": "[math]P(x)=\\frac{e^{-x} m^{x}}{m !}, x=0,1,2, \\ldots, \\infty[/math]"
+        },
+        "question": "পৈঁসু বিন্যাসের সম্ভাবনা ফাংশন কোনটি?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392788,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392788,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392787,
+      "value": {
+        "options": {
+          "ক": "দ্বিপদী বিন্যাস",
+          "খ": "বার্ণোলী বিন্যাস",
+          "গ": "পৈঁসু বিন্যাস",
+          "ঘ": "পরিমিত বিন্যাস"
+        },
+        "question": "কোনো শহরে প্রতি বছর আত্মহত্যাকারীর সংখ্যা কোন বিন্যাসের উদাহরণ?",
+        "solution": "পৈঁসু বিন্যাস",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392787,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392787,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392786,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{1}{\\sqrt{m}}[/math]",
+          "খ": "[math]\\text { m }[/math]",
+          "গ": "[math]3+\\frac{1}{m}[/math]",
+          "ঘ": "[math]\\frac{1}{m}[/math]"
+        },
+        "question": "পৈঁসু বিন্যাসের বঙ্কিমতাংক কত?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392786,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392786,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392785,
+      "value": {
+        "options": {
+          "ক": "দ্বিপদী বিন্যাস",
+          "খ": "বার্নোলী বিন্যাস",
+          "গ": "পৈঁসু বিন্যাস",
+          "ঘ": "পরিমিত বিন্যাস"
+        },
+        "question": "কোনো শহরে প্রতি বছর আত্মহত্যাকারীর সংখ্যা কোন বিন্যাসের উদাহরণ?",
+        "solution": "পৈঁসু বিন্যাস",
+        "explanation": "পৈঁসু বিন্যাসের পরামিতি m হলে, সূঁচলতা [math]=3+\\frac{1}{m}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{m}=2[/math]\u003Cbr\u003E হলে সূঁচলতা [math]=3+\\frac{1}{2}=3.5[/math]\u003Cbr\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392785,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392785,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392784,
+      "value": {
+        "options": {
+          "ক": "পরিমিত বিন্যাস",
+          "খ": "বার্ণোলী বিন্যাস",
+          "গ": "দ্বিপদী বিন্যাস",
+          "ঘ": "পৈঁসু বিন্যাস"
+        },
+        "question": "কোন বিন্যাসের গড় উহার পরমিতির সমান?",
+        "solution": "পৈঁসু বিন্যাস",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392784,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392784,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392783,
+      "value": {
+        "options": {
+          "ক": "ঋণাত্মক বঙ্কিম",
+          "খ": "অতি সূঁচাল",
+          "গ": "অনতি সূঁচাল",
+          "ঘ": "মধ্যম বিন্যাস"
+        },
+        "question": "পৈঁসু বিন্যাসের ক্ষেত্রে কোনটি সঠিক?",
+        "solution": "অতি সূঁচাল",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4145,
+      "created_at": "2025-08-19T05:09:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392783,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392783,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:09:33.000000Z",
+            "updated_at": "2025-08-19T05:09:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4145&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4145&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4145&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 26,
+  "total": 26
+}

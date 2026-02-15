@@ -1,0 +1,1323 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 393182,
+      "value": {
+        "options": {
+          "ক": "নমুনায়ন কি?",
+          "খ": "শুমারি জরিপে নমুনায়ন ত্রুটি থাকে না। ব্যাখ্যা কর।",
+          "গ": "সমগ্রকের ভেদাঙ্ক নির্ণয় কর।",
+          "ঘ": "প্রয়োজনীয় হিসাব প্রদর্শনপূর্বক, শিক্ষকের মন্তব্য সমর্থন কর কিনা তোমার মতামত দাও।"
+        },
+        "question": "চারজন ছাত্রের টিউটোরিয়াল পরীক্ষার নম্বর যথাক্রমে 7, 8, 9, 10। শিক্ষক বললেন যে উক্ত নম্বরগুলি হতে পুনঃস্থাপন না করে 2 আকারের নমুনা দৈবভাবে চয়ন করা হলে নমুনা গড় সমগ্রক গড়ের নিঝুঁকি নিরূপক হবে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eসমগ্রক হতে নমুনা নির্বাচন করাকে নমুনায়ন বলা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eনমুনায়ন ত্রুটি বলতে সমগ্রক হতে নমুনা নির্বাচনের সময় যে সব ত্রুটি পরিলক্ষিত হয় (যেমন নমুনাজমান ও পরামিতির মধ্যে পার্থক্য) তাকে নমুনায়ন ত্রুটি বলে। শুমারী জরিপের ক্ষেত্রে সমগ্রকের প্রতিটি উপাদানকে গণনায় আনা হয়। এক্ষেত্রে নমুনায়ন পদ্ধতির দরকার হয় না। তাই শুমারী জরিপে নমুনায়ন ত্রুটি থাকে না।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eসমগ্রক, X = {7, 8, 9, 10}সমগ্রকের আকার, N = 4সমগ্রক গড়, [math]\\bar{X}=\\frac{7+8+9+10}{4}=8.5[/math]\u003Cbr\u003Eসমগ্রকের ভেদাঙ্ক, [math]\\sigma^{2}=\\frac{\\sum_{i=1}^{4}\\left(X_{i}-\\bar{X}\\right)^{2}}{N}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{(7-8.5)^{2}+(8-8.5)^{2}+(9-8.5)^{2}+(10-8.5)^{2}}{4}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{5}{4}=1.25[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে,নমুনা আকার, n = 2মোট নমুনা সংখ্যা [math]={ }^{4} C_{2}=6[/math]\u003Cbr\u003Eনমুনা এবং নমুনা গড়ের টেবিল:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-8-all-board-cq-7_1755580240_Ux6VsaR0.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eপ্রতিটি নমুনা গড় নির্বাচিত হওয়ার সম্ভাবনা, [math]\\mathrm{P}\\left(\\overline{\\mathrm{x}}_{\\mathrm{i}}\\right)=\\frac{1}{6}[/math]\u003Cbr\u003Eনমুনা গড়ের গড়, [math]\\mathrm{E}(\\overline{\\mathrm{x}})[/math]\u003Cbr\u003E [math]=\\sum_{i=1}^{6} \\bar{x}_{i} P\\left(\\overline{\\mathrm{x}}_{i}\\right)[/math]\u003Cbr\u003E [math]=\\sum_{i=1}^{6} \\bar{x}_{i} \\times \\frac{1}{6}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{1}{6} \\sum_{i=1}^{6} \\overline{x_{i}}[/math]\u003Cbr\u003E [math]=\\frac{1}{6} \\times 51[/math]\u003Cbr\u003E [math]=8.5[/math]\u003Cbr\u003Eসমগ্রক গড়, [math]\\overline{\\mathrm{x}}=8.5[/math]\u003Cbr\u003E ['গ' থেকে][math]\\therefore E(\\bar{x})=\\overline{\\mathrm{X}}[/math]\u003Cbr\u003Eঅর্থাৎ নমুনাগড় সমগ্রক গড়ের নিরপেক্ষ নিরূপক।সুতরাং শিক্ষকের মন্তব্যটি আমি সমর্থন করি।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নমুনায়ন হলো জনসংখ্যা থেকে প্রতিনিধিত্বমূলক একটি উপসেট (নমুনা) উদ্দেশ্যপ্রণোদিতভাবে বা দৈবভাবে নির্বাচন করে সেই নমুনা থেকে সম্পূর্ণ সমগ্রকের সম্পর্কে অনুমান করা।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E উক্তি ভুল — শুমারি জরিপে নমুনা অনুযায়ী ভেরিয়েশন থাকার কারণে নমুনায়ন ত্রুটি (sampling error) থাকে; শুধুমাত্র জনগণনার (census) ক্ষেত্রে নমুনায়ন ত্রুটি থাকে না।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমগ্রকের গড়: [math]\\bar{X}=(7+8+9+10)/4=8.5[/math]; সমগ্রকের ভেদাঙ্ক (population variance): [math]\\sigma^2=\\frac{(7-8.5)^2+(8-8.5)^2+(9-8.5)^2+(10-8.5)^2}{4}=\\frac{5}{4}=1.25[/math].  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সব সম্ভাব্য 2-উপাদানের নমুনার গড়গুলো হলো [math]7.5,8,8.5,8.5,9,9.5[/math] এবং তাদের গড়ের প্রত্যাশিত মান [math](7.5+8+8.5+8.5+9+9.5)/6=8.5[/math] যা সমগ্রকের গড়ের সমান, অতএব নমুনা গড় নিঝুঁকি (unbiased) — শিক্ষক সঠিক। নমুনা গড়ের বৈচিত্র্য (ফিনাইট পপুলেশন করেকশনসহ) [math]Var(\\bar{x})=\\left(1-\\frac{n}{N}\\right)\\frac{\\sigma^2}{n}=\\left(1-\\frac{2}{4}\\right)\\frac{1.25}{2}=0.3125[/math], তাই শিক্ষক মন্তব্য সমর্থিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393182,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393182,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393182,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393182,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393182,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393182,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393182,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:40.000000Z",
+            "updated_at": "2025-08-19T05:10:40.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:40.000000Z",
+            "updated_at": "2025-08-19T05:10:40.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:40.000000Z",
+            "updated_at": "2025-08-19T05:10:40.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:40.000000Z",
+            "updated_at": "2025-08-19T05:10:40.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:40.000000Z",
+            "updated_at": "2025-08-19T05:10:40.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:40.000000Z",
+            "updated_at": "2025-08-19T05:10:40.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 393182,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:40.000000Z",
+            "updated_at": "2025-08-19T05:10:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393181,
+      "value": {
+        "options": {
+          "ক": "শুমারি জরিপ বলতে কি বুঝায়?",
+          "খ": "নমুনায়ন ত্রুটি সম্পূর্ণরূপে বিলুপ্ত করা যায় কি? ব্যাখ্যা কর।",
+          "গ": "সমগ্রকের ভেদাঙ্ক নির্ণয় কর।",
+          "ঘ": "তুমি কি মিস তামান্নার মন্তব্যের সাথে একমত? বিশ্লেষণপূর্বক মতামত দাও।"
+        },
+        "question": "ধানমন্ডি এলাকায় চারটি পরিবারের ব্যক্তিগত গাড়ির সংখ্যা যথাক্রমে {1, 2, 4, 5) টি। সেখান থেকে দু'টি গাড়ি নমুনা হিসেবে ধৈবভাবে নেওয়া হল। মিস তামান্না মন্তব্য করে যে, সম্ভাব্য নমুনা গড়গুলোর গড় সমগ্রক গড়ের সমান।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eসমগ্রকের এক বা একাধিক বৈশিষ্ট্য পরিমাপ করতে যদি সমগ্রকের সকল একক থেকে তথ্য সংগ্রহ করা হয় তবে এ অনুসন্ধান বা জরিপকে শুমারি জরিপ বলা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eনমুনায়ন ত্রুটি এমন ধরনের ত্রুটি যেটাকে সর্বোচ্চ সতর্কতা সত্ত্বেও এড়ানো যায় না, তবে কমানো যায়। নমুনার আকার যতো বাড়ানো যায় নমুনায়ন ত্রুটির পরিমাণও ততো কমতে থাকে। এইভাবে বাড়াতে বাড়াতে নমুনা জরিপকে যদি শুমারি জরিপে রূপান্তরিত করা যায় তবে নমুনায়ন ত্রুটির পরিমাণ শূন্য হয়। অর্থাৎ নমুনা ত্রুটির সাথে নমুনার আকার ব্যস্তানুপাতিক সম্পর্ক। সুতরাং নমুনার আকার বৃদ্ধি করলে নমুনা ত্রুটি কমানো যায়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eসমগ্রক, X = {1, 2, 4, 5}সমগ্রক সংখ্যা, N = 4সমগ্রকের গড়, [math]\\overline{\\mathrm{X}}=\\frac{\\Sigma \\mathrm{X}_{\\mathrm{i}}}{\\mathrm{N}}[/math]\u003Cbr\u003E [math]=\\frac{1+2+4+5}{4}[/math]\u003Cbr\u003E [math]=\\frac{12}{4}=3[/math]\u003Cbr\u003Eসমগ্রকের ভেদাঙ্ক, [math]\\sigma^{2}=\\frac{\\sum_{i=1}^{4}\\left(X_{i}-\\bar{X}\\right)^{2}}{N}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{(1-3)^{2}+(2-3)^{2}+(4-3)^{2}+(5-3)^{2}}{4}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{4+1+1+4}{4}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{10}{4}=2.5[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, নমুনা আকার, n = 2পুনঃস্থাপন না করে মোট নমুনা সংখ্যা [math]{ }^{4} C_{2}=6[/math]\u003Cbr\u003Eনমুনা ও নমুনা গড় নির্ণয়ের টেবিল:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-8-all-board-cq-6_1755580239_vsSQJbLF.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eপ্রতিটি নমুনা গড় নির্বাচিত হওয়ার সম্ভাবনা, [math]P\\left({\\bar{x}}_{i}\\right)=\\frac{1}{6}[/math]\u003Cbr\u003E∴ নমুনা গড়ের গড়, [math]\\mathrm{E}(\\overline{\\mathrm{x}})=\\Sigma \\overline{\\mathrm{x}}_{\\mathrm{i}} \\times \\mathrm{P}\\left(\\overline{\\mathrm{x}}_{\\mathrm{i}}\\right)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{1}{6} \\Sigma \\bar{x}_{i}=\\frac{1}{6} \\times 18=3[/math]\u003Cbr\u003E'গ' নং হতে প্রাপ্ত সমগ্রক গড়, [math]\\overline{\\mathrm{X}}=3[/math]\u003Cbr\u003Eসুতরাং সম্ভাব্য নমুনা গড়গুলোর গড় সমগ্রক গড়ের নিঝুঁকি নিরূপক বা সমান।সুতরাং আমি মিস তামান্নার মন্তব্যের সাথে একমত।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E শুমারি জরিপ হলো পরিকল্পিতভাবে জনসংখ্যার একটি অংশ (নমুনা) থেকে তথ্য সংগ্রহ করে সমগ্রক (পপুলেশন) সম্পর্কে অনুমান করা একটি পদ্ধতি।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E না — নমুনায়ন ত্রুটি সম্পূর্ণরূপে বিলুপ্ত করা যায় না; কেবল পূর্ণ গণনা (census) করলে তা নাও থাকে। তবে নমুনা আকার বাড়ানো, ভাল নকশা (যেমন স্তরভিত্তিক স্যাম্পলিং) ও নিয়ন্ত্রণ দ্বারা ত্রুটি হ্রাস করা যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমগ্রকের গড় [math]\\bar X=\\frac{1+2+4+5}{4}=3[/math] এবং ভেদাঙ্ক (population variance) হলো [math]\\sigma^2=\\frac{(1-3)^2+(2-3)^2+(4-3)^2+(5-3)^2}{4}=\\frac{10}{4}=2.5[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হ্যাঁ — মিস তামান্নার মন্তব্য সঠিক; সাধারণ র‍্যান্ডম স্যাম্পলিং (বিনা প্রতিস্থাপন) এর ক্ষেত্রে সমস্ত সম্ভাব্য নমুনার গড় গড়ের প্রত্যাশা সমগ্রকের গড়ের সমান হয় (এখানে সব নমুনার গড়ের গড় [math]3[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393181,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 393181,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:39.000000Z",
+            "updated_at": "2025-08-19T05:10:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393180,
+      "value": {
+        "options": {
+          "ক": "সমগ্রক কী? খ, সমগ্রক সম্পর্কে দ্রুত ধারণা পেতে নমুনা জরিপ একমাত্র পদ্ধতি- ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের তথ্য হতে পুনঃস্থাপন না করে ও আকারের নমুনাসমূহ লিখ।",
+          "ঘ": "উদ্দীপকের শ্রেণি শিক্ষকের বক্তব্যটি সম্পর্কে বিশ্লেষণপূর্বক মতামত দাও।"
+        },
+        "question": "একটি সমগ্রক (2, 3, 4, 5, 7) হতে পুনঃস্থাপন না করে 2 আকারবিশিষ্ট দৈব নমুনা চয়ন করে শ্রেণি শিক্ষক বললেন 'নমুনা গড় সমগ্রক গড়ের নিঝুঁকি নিরুপিক হবে'।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো বিষয়ে গবেষণার কাজে কোনো নির্দিষ্ট বৈশিষ্ট্যের সকল সম্ভাব্য এককের বা উপাদানের সেটকে সমগ্রক বলা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eযে জরিপ কার্যে কোনো সমগ্রকের সবগুলো উপাদানকে গণনা না করে ঐ সমগ্রকের প্রতিনিধিত্বকারী অংশের প্রতিটি একক বা উপাদান হতে তথ্য সংগ্রহ করা হয় তাকে নমুনা জরিপ বলে। স্বল্প সময়ে কোন সমগ্রকের ধারণা পেতে নমুনা জরিপ করা হয়। কেননা শুমারি জরিপ অপেক্ষা নমুনা জরিপ করতে সময় ও খরচ কম লাগে। তাই কোনো জরুরি বিষয়ে দ্রুত সিদ্ধান্ত গ্রহণের জন্য নমুনা জরিপ ব্যাপক ব্যবহৃত হয়। সুতরাং বলা যায় যে, সমগ্রক সম্পর্কে দ্রুত ধারণা পেতে নমুনা জরিপ একমাত্র পদ্ধতি।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই,সমগ্রকের আকার, N = 5নমুনা আকার, n=3পুনস্থাপন না করে নমুনা নির্বাচন করা যাবে [math]={ }^{5} \\mathrm{C}_{3}=10[/math]\u003Cbr\u003Eটিনমুনা সমূহ হলো:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-8-all-board-cq-4_1755580238_3rYdfeIM.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eসমগ্রকের গড়, [math]\\bar{x}=\\frac{2+3+4+5+7}{5}[/math]\u003Cbr\u003E [math]=\\frac{21}{5}[/math]\u003Cbr\u003E [math]=4.2[/math]\u003Cbr\u003Eপুনঃস্থাপন না করে 2 আকারের নমুনা নির্বাচন করা যাবে [math]{ }^{5} \\mathrm{C}_{2}=10[/math]\u003Cbr\u003Eটি।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-8-all-board-cq-5_1755580237_rSpmhJPY.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eপ্রতিটি নমুনা গড় নির্বাচিত হওয়ার সম্ভাবনা, [math]\\mathrm{P}\\left(\\overline{\\mathrm{x}}_{\\mathrm{i}}\\right)=\\frac{1}{10}[/math]\u003Cbr\u003Eএখন, নমুনা গড়ের নিরূপিত মান, [math]\\mathrm{E}(\\overline{\\mathrm{x}})=\\sum \\overline{\\mathrm{x}}_{\\mathrm{i}} \\cdot \\mathrm{P}\\left(\\overline{\\mathrm{x}}_{\\mathrm{i}}\\right)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=42 \\cdot \\frac{1}{10}=4.2=\\bar{x}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{E}(\\overline{\\mathrm{x}})=\\overline{\\mathrm{x}}[/math]\u003Cbr\u003Eসুতরাং নমুনা গড় সমগ্রক গড়ের নিঝুঁকি নিরূপক। অতএব, শিক্ষকের বক্তব্যটি সঠিক।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সমগ্রক হলো যে সকল উপাদান বা পর্যবেক্ষণের উপর আপনার গবেষণা প্রযোজ্য—এই প্রশ্নে সমগ্রক = {2, 3, 4, 5, 7}।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E না, নমুনা জরিপ একমাত্র পদ্ধতি নয়; যদি সমগ্রক ছোট হয় তবে পুরো সমগ্রককে গণনা (census) করা যায়, আর বড় বা ব্যয়বহুল হলে নমুনা জরিপ ব্যবহৃত হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পুনঃস্থাপন না করে আকার 2-এর সব সম্ভাব্য নমুনা (unordered pairs) হলো (2,3), (2,4), (2,5), (2,7), (3,4), (3,5), (3,7), (4,5), (4,7), (5,7) — মোট [math]C(5,2)=10[/math] টি।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শিক্ষকের বক্তব্য সঠিক—সাধারণত একটি সন্পূর্ণ র‍্যান্ডম নমুনায় (without replacement) নমুনা গড়টি সমগ্রক গড়ের অসতর্ক (unbiased) অনুমানকারী; অর্থাৎ [math]E(\\bar X)=\\mu[/math], যেখানে এখানে [math]\\mu=\\frac{1}{5}(2+3+4+5+7)=4.2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393180,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393180,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393180,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393180,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393180,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393180,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393180,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 393180,
+            "tag_id": 7,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:38.000000Z",
+            "updated_at": "2025-08-19T05:10:38.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 393180,
+            "tag_id": 46,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:38.000000Z",
+            "updated_at": "2025-08-19T05:10:38.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 393180,
+            "tag_id": 3179,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:38.000000Z",
+            "updated_at": "2025-08-19T05:10:38.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 393180,
+            "tag_id": 6,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:38.000000Z",
+            "updated_at": "2025-08-19T05:10:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393179,
+      "value": {
+        "options": {
+          "ক": "নমুনা কী?",
+          "খ": "নমুনা জরিপে সময় ও খরচ কম লাগে- ব্যাখ্যা কর।",
+          "গ": "সমগ্রকের ভেদাঙ্ক নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের তথ্যের আলোকে নমুনা গড় সমগ্রক গড়ের নিরপেক্ষ নিরূপক কিনা' তা যাচাইপূর্বক মন্তব্য কর।"
+        },
+        "question": "একাদশ শ্রেণির টিউটোরিয়াল পরীক্ষার ফলাফল হতে পরিসংখ্যানে প্রাপ্ত নম্বরের সমগ্রক {3, 5, 7, 9} হতে পুনঃস্থাপন সহকারে 2 আকারের নমুনা চয়ন করা হল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eসমগ্রক হতে নির্বাচিত একটি অংশ বিশেষ যা সমগ্রকের সকল উপাদানের প্রতিনিধিত্বকারী তাকে নমুনা বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eনমুনা জরিপে কোনো সমগ্রকের সব উপাদানকে গণনা না করে ঐ সমগ্রকের প্রতিনিধিত্বকারী একটি অংশের প্রতিটি একক বা উপাদান হতে তথ্য সংগ্রহ করা হয়। ফলে এ জরিপে সময় কম লাগে। আবার নমুনা জরিপ কম সংখ্যক দক্ষ ও যোগ্য কর্মীর দ্বারা সুষম্পন্ন করা যায়। তাই বেশি কর্মীও প্রয়োজন হয় না। ফলে খরচও তুলনামূলকভাবে কম হয়।সুতরাং বলা যায় যে, নমুনা জরিপে সময় ও খরচ কম লাগে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, সমগ্রক, Y= {3, 5, 7, 9} সমগ্রকের আকার, N=4আমরা জানি,সমগ্রকের ভেদাঙ্ক, [math]\\sigma^{2}=\\frac{\\sum_{i=1}^{N} Y_{j}^{2}}{N}[/math]\u003Cbr\u003E [math]-\\left(\\frac{\\sum_{j=1}^{N} Y_{j}}{N}\\right)^{2}[/math]\u003Cbr\u003E [math]=\\frac{3^{2}+5^{2}+7^{2}+9^{2}}{4}[/math]\u003Cbr\u003E [math]-\\left(\\frac{3+5+7+9}{4}\\right)^{2}[/math]\u003Cbr\u003E [math]=\\frac{164}{4}-\\frac{576}{16}[/math]\u003Cbr\u003E [math]=41-36[/math]\u003Cbr\u003E=5 Ans.[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, সমগ্রক গড়, [math]\\bar{Y}=\\frac{\\sum_{j=1}^{N} Y_{j}}{N}[/math]\u003Cbr\u003E [math]=\\frac{3+5+7+9}{4}=\\frac{24}{4}=6[/math]\u003Cbr\u003Eপুনঃস্থাপন সহকারে 2 আকার বিশিষ্ট নমুনা নির্বাচন করা হলে মোট নমুনাবিন্দুর সংখ্যা [math]=\\mathrm{N}^{\\mathrm{n}}=4^{2}=16[/math]\u003Cbr\u003Eধরা যাক, নির্বাচিত নমুনাগুলোর গড় যথাক্রমে, [math]\\bar{y}_{1}, \\bar{y}_{2}, \\ldots, \\bar{y}_{16}[/math]\u003Cbr\u003Eতাহলে, প্রতিটি নমুনা গড় নির্বাচিত হওয়ার সম্ভাবনা [math]\\frac{1}{16}[/math]\u003Cbr\u003Eঅর্থাৎ [math]P\\left(\\bar{y}_{j}\\right)=\\frac{1}{16} \\quad[j=1,2, \\ldots \\ldots \\ldots, 16][/math]\u003Cbr\u003Eনমুনা ও নমুনা গড়ের তালিকা নিম্নরূপ :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-8-all-board-cq-3_1755580237_Ggu8nDoO.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখন, নমুনা গড়ের নিরূপিত মান, [math]E(\\bar{y})=\\sum \\bar{y}_{j} \\cdot P\\left(\\bar{y}_{j}\\right)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=96 \\times \\frac{1}{16}=6[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\bar{Y} \\therefore E(\\bar{y})=\\bar{Y}[/math]\u003Cbr\u003Eসুতরাং নমুনা গড় সমগ্রক গড়ের নিরপেক্ষ নিরূপক।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নমুনা: একটি নমুনা হলো সমগ্রক থেকে নেয়া উপসেট; পুনঃস্থাপনসহ 2 আকারের সব সম্ভব আদেশানুক্রমিক নমুনার সমষ্টি হলো [math]S=\\{(3,3),(3,5),(3,7),(3,9),(5,3),(5,5),(5,7),(5,9),(7,3),(7,5),(7,7),(7,9),(9,3),(9,5),(9,7),(9,9)\\}[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E নমুনা জরিপে সময় ও খরচ কম লাগে — কারণ পুরো সমগ্রকের বদলে কেবল একটি ছোট অংশ (নমুনা) থেকে তথ্য সংগ্রহ করা হয়, তাই তথ্য সংগ্রহ ও প্রক্রিয়াকরণ কম শ্রম ও কম খরচে হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমগ্রকের ভেদাঙ্ক নির্ণয়: প্রথমে গড় [math]\\mu=(3+5+7+9)/4=6[/math], এরপর ভেদাঙ্ক [math]\\sigma^2=\\{(3-6)^2+(5-6)^2+(7-6)^2+(9-6)^2\\}/4=(9+1+1+9)/4=20/4=5[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E নমুনা গড় নিরপেক্ষ নিরূপক কিনা: প্রতিটি একক ড্র-এর প্রত্যাশিত মান [math]E(X)=(3+5+7+9)/4=6[/math], তাই 2টি স্বাধীন ড্র-এর গড়ের প্রত্যাশিত মান [math]E(\\bar{X})=(E(X_1)+E(X_2))/2=6[/math]; অতএব নমুনা গড় সমগ্রক গড়ের জন্য নিরপেক্ষ (unbiased)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393179,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393179,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393179,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393179,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393179,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393179,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393179,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 393179,
+            "tag_id": 47,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:37.000000Z",
+            "updated_at": "2025-08-19T05:10:37.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 393179,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:37.000000Z",
+            "updated_at": "2025-08-19T05:10:37.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 393179,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:37.000000Z",
+            "updated_at": "2025-08-19T05:10:37.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 393179,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:37.000000Z",
+            "updated_at": "2025-08-19T05:10:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393178,
+      "value": {
+        "options": {
+          "ক": "পরামিতি কি?",
+          "খ": "সাধারণত নমুনাজমান ও সমগ্রকের ফলাফলের মধ্যে পার্থক্য পরিলক্ষিত হয়- ব্যাখ্যা কর।",
+          "গ": "পুনঃস্থাপন করে দুই আকারের নমুনাসমূহ নির্বাচন কর।",
+          "ঘ": "শিক্ষকের বক্তব্য তুমি সমর্থন কর কিনা? তোমার মতামত ব্যক্ত কর।"
+        },
+        "question": "সখীপুর এলাকায় চারটি বাড়ির গ্যারেজে ব্যক্তিগত গাড়ির সংখ্যা 1, 2, 3, 4। পরিসংখ্যানের শিক্ষক বললেন, ইহা চার আকারের সমগ্রক। তিনি আরো বললেন, নমুনা গড়ের প্রত্যাশিত মান সমগ্রক গড়ের সমান।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eসমগ্রক বা বিন্যাসের যে বৈশিষ্ট্যগুলো জানলে সমগ্রক বা বিন্যাস সম্পর্কে পূর্ণাঙ্গ ধারণা লাভ করা যায়, তাদেরকে পরামিতি বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eনমুনা জরিপের সময় তথ্যবিশ্বের সকল এককের পরিবর্তে অল্প কিছু সংখ্যক একক থেকে তথ্য সংগ্রহ করা হয়। ফলে নমুনাজমান ও সমগ্রকের ফলাফলের মধ্যে কিছুটা পার্থক্য লক্ষ্য করা যায়। এ ধরনের পার্থক্যকে নমুনাজ ত্রুটি বলে। নমুনাজ ত্রুটি এমন এক ধরনের ত্রুটি যা সর্বোচ্চ সতর্কতা সত্ত্বেও এড়ানো যায় না। তবে নমুনার আকার বৃদ্ধি করে নমুনাজ ত্রুটি কমানো সম্ভব।নমুনার আকার যত বড় হয় নমুনাজ ত্রুটি তত কমতে থাকে। এভাবে নমুনার আকার বড় করে যদি শুমারি জরিপে পরিণত করা হয় তাহলে নমুনাজ ত্রুটি শূন্য হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরা যাক সমগ্রক, [math]Y_{i}=\\{1,2,3,4\\}[/math]\u003Cbr\u003Eসমগ্রকের আকার, N = 4পুনঃস্থাপন করে, n = 2 আকারের নমুনা নির্বাচন করা হলে মোটনমুনা সংখ্যা [math]=\\mathrm{N}^{\\mathrm{n}}=4^{2}=16[/math]\u003Cbr\u003E টি∴ নমুনাসমূহ = {(1, 1), (1, 2), (1, 3), (1, 4), (2, 1), (2, 2), (2, 3), - (2, 4), (3, 1), (3, 2), (3, 3), (3, 4), (4, 1), (4, 2), (4, 3), (4, 4)}[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eনমুনা গড় নির্ণয়ের সারণি:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-7-all-board-cq-14_1755580236_M1cUt8ys.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eসমগ্রক গড় [math]=\\frac{\\sum Y_{i}}{N}[/math]\u003Cbr\u003E [math]=\\frac{1+2+3+4}{4}=2.5[/math]\u003Cbr\u003E'গ' হতে পাই, নমুনা গড়ের সমষ্টি, [math]\\sum \\bar{y}_{i}=40[/math]\u003Cbr\u003E যেকোনো একটি নমুনা গড় নির্বাচিত হওয়ার সম্ভাবনা, [math]P\\left(\\bar{y}_{i}\\right)=\\frac{1}{16}[/math]\u003Cbr\u003E∴ [math]E\\left(\\bar{y}_{i}\\right)=\\sum_{i=1}^{16} \\bar{y}_{i} \\cdot P\\left(\\bar{y}_{i}^{\\prime}\\right)[/math]\u003Cbr\u003E [math]=40 \\times \\frac{1}{16}=2.5=\\bar{Y}[/math]\u003Cbr\u003Eসুতরাং নমুনা গড় সমগ্রক গড়ের নিরপেক্ষ নিরূপক। সুতরাং শিক্ষকের মন্তব্যটি সঠিক।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পরামিতি হলো সমগ্রকের গড়, যা [math](1+2+3+4)/4=2.5[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সাধারণত নমুনাজমান ও সমগ্রকের মধ্যে পার্থক্য দেখা যায় কারণ নমুনা হল অংশ; নমুনাজমান নমুনার র‍্যান্ডম পরিবর্তনের ফলে ভিন্ন হয় (sampling variability) — পুরো সমগ্রক না নেওয়া পর্যন্ত স্যাম্পলিং ত্রুটি থাকে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পুনঃস্থাপন করে আয়তনের দুই-আকারের সব নমুনাসমূহ (ক্রমবদ্ধ জোড়া) হলো: (1,1),(1,2),(1,3),(1,4),(2,1),(2,2),(2,3),(2,4),(3,1),(3,2),(3,3),(3,4),(4,1),(4,2),(4,3),(4,4)। এছাড়া [math]E[\\bar X]=E[(X_1+X_2)/2]=(E[X_1]+E[X_2])/2=2.5[/math] হওয়ায় গড়গুলোর প্রত্যাশিত মান সমগ্রকের গড়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E আমি শিক্ষকের বক্তব্য সমর্থন করি; কারণ নমুনাজমান সাধারণত সমগ্রকের জন্য অবপক্ষ (unbiased) — শর্ত হলো নমুনা র‍্যান্ডমভাবে নেওয়া (বা পুনঃস্থাপন/বিনা পুনঃস্থাপন উভয়ে) থাকতে হবে; যদি সংগ্রহ পদ্ধতি পক্ষপাতযুক্ত হয় তবে এটি সঠিক হবে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393178,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393178,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393178,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393178,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393178,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393178,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393178,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 393178,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:36.000000Z",
+            "updated_at": "2025-08-19T05:10:36.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 393178,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:36.000000Z",
+            "updated_at": "2025-08-19T05:10:36.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 393178,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:36.000000Z",
+            "updated_at": "2025-08-19T05:10:36.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 393178,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:36.000000Z",
+            "updated_at": "2025-08-19T05:10:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393177,
+      "value": {
+        "options": {
+          "ক": "নমুনায়ন কী?",
+          "খ": "নমুনা ও শুমারি জরিপের মধ্যে কোনটিতে অধিক সময় প্রয়োজন হয়? ব্যাখ্যা কর।",
+          "গ": "সমগ্রক ভেদাঙ্ক নির্ণয় কর।",
+          "ঘ": "প্রয়োজনীয় পরিমাপ নির্ণয়পূর্বক শিক্ষার্থীর মন্তব্য যাচাই কর।"
+        },
+        "question": "একটি কর্পোরেট অফিসের চারটি ফ্লোরে প্রাপ্ত কম্পিউটার সংখ্যার উপর ভিত্তি করে {3, 4, 5, 6} সমগ্রকটি পাওয়া গেল। একজন শিক্ষার্থী সমগ্রকটি হতে পুনঃস্থাপন না করে দুই আকার বিশিষ্ট একটি নমুনা চয়ন করল। শিক্ষার্থী বলল, নমুনা গড় সমগ্রক গড়ের নিরপেক্ষ নিরূপক।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো সমগ্রক হতে নমুনা নির্বাচনকে নমুনায়ন বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eনমুনা জরিপ অপেক্ষা শুমারি জরিপের বিস্তৃতি ও একক সংখ্যা অনেক বেশি হওয়ায় এতে জনবলও অনেক বেশি লাগে। ফলে শুমারি জরিপে তুলনামূলক সময়ও অনেক বেশি লাগে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eসমগ্রক = {3, 4, 5, 6}সমগ্রকের আকার, N = 4সমগ্রকের গড়, [math]\\bar{x}=\\frac{\\sum x_{i}}{N}[/math]\u003Cbr\u003E [math]=\\frac{3+4+5+6}{4}[/math]\u003Cbr\u003E [math]=\\frac{18}{4}=4.5[/math]\u003Cbr\u003Eসমগ্রকের ভেদাঙ্ক, [math]\\sigma^{2}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{2}}{N}[/math]\u003Cbr\u003E [math]=\\frac{(3-4.5)^{2}+(4-4.5)^{2}+(5-4.5)^{2}+(6-4.5)^{2}}{4}[/math]\u003Cbr\u003E [math]=\\frac{2.25+0.25+0.25+2.25}{4}[/math]\u003Cbr\u003E [math]=\\frac{5}{4}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে নমুনার আকার, n = 2পুনস্থাপন না করে 4 আকারের সমগ্রক হতে 2 আকারের[math]{ }^{4} \\mathrm{C}_{2}=6[/math]\u003Cbr\u003Eটি নমুনা নেওয়া যায়।নমুনা গড় নির্ণয়ের সারণি:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-8-all-board-cq-2_1755580235_HYmdFWJb.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eপ্রতিটি নমুনা গড় নির্বাচিত হওয়ার সম্ভাবনা, [math]P\\left(\\bar{y}_{i}\\right)=\\frac{1}{6}[/math]\u003Cbr\u003E∴ গাণিতিক প্রত্যাশা, [math]E\\left(\\bar{y}_{i}\\right)=\\Sigma\\left(\\bar{y}_{i}\\right) P\\left(\\bar{y}_{i}\\right)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=27 \\times \\frac{1}{6}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=4.5[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\bar{x}[/math]\u003Cbr\u003E'সুতরাং নমুনা গড়ের গড় সমগ্রক গড়ের নিরপেক্ষ নিরূপক। অর্থাৎ শিক্ষার্থীর মন্তব্যটি সঠিক।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নমুনায়ন কী?  \nনমুনায়ন হল সমগ্রক থেকে কোনো নির্দিষ্ট পদ্ধতিতে কিছু উপাদান নির্বাচন করা, যাতে সমগ্রক সম্পর্কে সিদ্ধান্ত নেওয়া যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E নমুনা ও শুমারি জরিপের মধ্যে কোনটিতে অধিক সময় প্রয়োজন হয়? ব্যাখ্যা কর।  \nশুমারি জরিপ (census) বেশি সময় ও খরচ নেয় কারণ সমগ্রকের সব ইউনিটকে গণনা/পরিদর্শন করতে হয়; নমুনা জরিপে কেবল নির্বাচিত ইউনিটগুলো দেখা হয়, তাই সময় কম লাগে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমগ্রক ভেদাঙ্ক নির্ণয় কর।  \nপ্রথমে সমগ্রক গড়: [math]\\mu=(3+4+5+6)/4=18/4=4.5[/math]. ভেদাঙ্ক (population variance):  \n[math]\\sigma^2=\\frac{(3-4.5)^2+(4-4.5)^2+(5-4.5)^2+(6-4.5)^2}{4}=\\frac{2.25+0.25+0.25+2.25}{4}=\\frac{5}{4}=1.25.[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রয়োজনীয় পরিমাপ নির্ণয়পূর্বক শিক্ষার্থীর মন্তব্য যাচাই কর।  \nসাধারণত পুনঃস্থাপন ছাড়াই করা সহজ র‍্যান্ডম নমুনায়ন (SRSWOR)-এ নমুনা গড় অনপেক্ষিক (unbiased) হয়; এখানে সব দুটো উপাদানের জোড়ার গড়গুলো: [math]3.5,4,4.5,4.5,5,5.5[/math] এবং এদের গড় [math](3.5+4+4.5+4.5+5+5.5)/6=27/6=4.5[/math], যা সমগ্রক গড়ের সমান, তাহলে শিক্ষার্থীর মন্তব্য সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393177,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393177,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393177,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393177,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393177,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393177,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393177,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 393177,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:35.000000Z",
+            "updated_at": "2025-08-19T05:10:35.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 393177,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:35.000000Z",
+            "updated_at": "2025-08-19T05:10:35.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 393177,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:35.000000Z",
+            "updated_at": "2025-08-19T05:10:35.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 393177,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:35.000000Z",
+            "updated_at": "2025-08-19T05:10:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393174,
+      "value": {
+        "options": {
+          "ক": "4.00",
+          "খ": "5.00",
+          "গ": "2.25",
+          "ঘ": "5.00"
+        },
+        "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :\n\nচার আঁকার বিশিষ্ট একটি তথ্যবিশ্ব ( 4, 6, 1, 10) হতে 2 আকারের নমুনা সংগ্রহ করা হলো যা নিম্নরূপ:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fscreenshot-5-removebg-preview201_1755580234_pYzfUfIT.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nপ্রত্যাশিত নমুানা নিচের কোনটি?",
+        "solution": "2.25",
+        "explanation": "আমরা জানি,∴ সমগ্রকের গড় বের করলেই প্রত্যাশিত নমুনা গড় পাওয়া যাবে।প্রত্যাশিত নমুনা গড়,[math]\\mathrm{E}(\\overline{\\mathrm{x}})=\\overline{\\mathrm{X}}=\\frac{4+6+1+10}{4}=5.25[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393174,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393174,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:34.000000Z",
+            "updated_at": "2025-08-19T05:10:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393175,
+      "value": {
+        "options": {
+          "ক": "({(2, 2) (3,4))",
+          "খ": "{(3, 4) (4,3)}",
+          "গ": "{(2, 3) (3, 4) (3, 3)}",
+          "ঘ": "{(2, 3) (2, 4) (3, 4)}"
+        },
+        "question": "নিচের তথ্যের আলোকে (৫ ও ৬) নং প্রশ্নের উত্তর দাওঃ\n\n{2, 3, 4} একক বিশিষ্ট সমগ্রক হতে দৈবভাবে পুনঃস্থাপন ছাড়া দুই আকারের সম্ভাব্য নমুনা চয়ন করা হল।\n\nনির্বাচিত সম্ভাব্য নমুনাসমূহ কোনটি?",
+        "solution": "{(2, 3) (2, 4) (3, 4)}",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393175,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393175,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:34.000000Z",
+            "updated_at": "2025-08-19T05:10:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393176,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নির্বাচিত সম্ভাব্য নমুনাসমূহের ক্ষেত্রে-\n\ni. নমুনা গড় সমগ্রক গড়ের নিরপেক্ষ নিরূপক\n\nii. নমুনা গড়ের গড় সমগ্রক গড়ের সমান\n\nii. নমুনা নির্বাচনের সম্ভাবনা [math]\\frac{1}{{ }^{\\mathrm{N}} C_{n}}[/math] নিয়মটি মেনে চলে\n\nনিচের কোনটি সঠিক?",
+        "solution": "ii ও iii",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 393176,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393176,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:10:34.000000Z",
+            "updated_at": "2025-08-19T05:10:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393173,
+      "value": {
+        "options": {
+          "ক": "2.50",
+          "খ": "3.00",
+          "গ": "4.00",
+          "ঘ": "5.00"
+        },
+        "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :\n\nচার আঁকার বিশিষ্ট একটি তথ্যবিশ্ব ( 4, 6, 1, 10) হতে 2 আকারের নমুনা সংগ্রহ করা হলো যা নিম্নরূপ:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fscreenshot-5-removebg-preview_1755580233_skuzl8Q4.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nদ্বিতীয় নমুনাটির গড় কত?",
+        "solution": "2.50",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 393173,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393173,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:10:33.000000Z",
+            "updated_at": "2025-08-19T05:10:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393171,
+      "value": {
+        "options": {
+          "ক": "5",
+          "খ": "10",
+          "গ": "15",
+          "ঘ": "20"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও :\n\n13.5.6.8. 10 সমগ্রকটি হতে 2 আকারের পুনঃস্থাপন না করে সম্ভাব্য নমুনা চয়ন করা হল।\n\nপ্রদত্ত সমগ্রক হতে পুনঃস্থাপন না করে 2 আকারের কতগুলি নমুনা পাওয়া যায়।",
+        "solution": "10",
+        "explanation": "সমগ্রকের আকার, N=5নমুনার আকার, n=2পুনঃস্থাপন না করে নমুনা সংখ্যা [math]\\Rightarrow{ }^{N} C_{n}={ }^{5} C_{2}=10[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393171,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393171,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:32.000000Z",
+            "updated_at": "2025-08-19T05:10:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393172,
+      "value": {
+        "options": {
+          "ক": "0.05",
+          "খ": "0.10",
+          "গ": "0.25",
+          "ঘ": "0.50"
+        },
+        "question": "নির্বাচিত সম্ভাব্য নমুনাগুলোর মধ্যে প্রতিটি নমুনা নির্বাচিত হওয়ার সম্ভাবনা কত?",
+        "solution": "0.10",
+        "explanation": "প্রতিটি নমুনা নির্বাচনের সম্ভাবনা সমান।∴যেকোনো নমুনা নির্বাচিত হওয়ার সম্ভাবনা [math]=\\frac{1}{5 C_{2}}=\\frac{1}{10}[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4148,
+      "created_at": "2025-08-19T05:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 393172,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 393172,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:10:32.000000Z",
+            "updated_at": "2025-08-19T05:10:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4148&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4148&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4148&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 12
+}

@@ -1,0 +1,2689 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 392419,
+      "value": {
+        "options": {
+          "ক": "পরিমিত ব্যবধান কী?",
+          "খ": "আদর্শ বিস্তার পরিমাপ কোনটি? ব্যাখ্যা কর ।",
+          "গ": "বাজার B-এর মূল্যের গড় ব্যবধান নির্ণয় কর।",
+          "ঘ": "কোন বাজারটি ক্রেতার কাছে বেশি নির্ভরযোগ্য? প্রয়োজনীয় পরিমাপ নির্ণয়পূর্বক যুক্তি উপস্থাপন কর ।"
+        },
+        "question": "বাজার \"A\" ও বাজার \"B\"-তে কিছু সংখ্যক পণ্যের মূল্য মূল্যের পরিমিত ব্যবধান 15 টাকা এবং বাজার B-তে ঐ পণ্যের পর্যবেক্ষণ করা হলো। বাজার A-তে পণ্যের গড় মূল্য 65 টাকা এবং\n\nমূল্যগুলো নিম্নরূপ— 12, 10, 15, 8, 13, 16, 18, 9, 20, 7",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকি কোনো নিবেশনের গড় থেকে সংখ্যাগুলোর ব্যবধানের বর্গের সমষ্টিকে পদসংখ্যা দ্বারা ভাগ করলে ভাগফলের বর্গমূলকে ঐ নিবেশনের পরিমিত ব্যবধান বলে ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপরিমিত ব্যবধান তথ্যসারির বিস্তার পরিমাপের সবচেয়ে গুরুত্বপূর্ণ পরিমাপক। এটি সুসংজ্ঞায়িত এবং তথ্যের সকল মানের ভিত্তিতে নির্ণয় করা হয়, নমুনা তারতম্য দ্বারা খুবই কম মাত্রায় প্রভাবিত হয়। পরবর্তী বীজগাণিতিক প্রক্রিয়ায় ব্যবহার করা যায় বলে উচ্চতর পরিসংখ্যানে পরিমিত ব্যবধানের ব্যবহার ব্যাপক। পরিমিত ব্যবধানে আদর্শ বিস্তার পরিমাপের সহজবোধ্যতা বৈশিষ্ট্যটি ব্যতীত সকল বৈশিষ্ট্যই বিদ্যমান। এ কারণে বিস্তার পরিমাপে পরিমিত ব্যবধান সবচেয়ে উৎকৃষ্ট পরিমাপক। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eবাজার B-এর পণ্যের গড় মূল্য,[math]\\bar{x}=\\frac{12+10+15+8+13+16+18+9+20+7}{10}=\\frac{128}{10}=12.8[/math]\u003Cbr\u003E∴ গড় ব্যবধান, [math]\\operatorname{MD}(\\overline{\\mathrm{x}})=\\frac{\\sum\\left|\\mathrm{x}_{\\mathrm{i}}-\\overline{\\mathrm{x}}\\right|}{\\mathrm{n}}[/math]\u003Cbr\u003E [math]|12-12.8|+|10-12.8|+|15-12.8|+|8-12.8|[/math]\u003Cbr\u003E [math]+|13-12.8|+|16-12.8|+|18-12.8|+|9-12.8|[/math]\u003Cbr\u003E [math]=\\frac{+|20-12.8|+|7-12.8|}{10}[/math]\u003Cbr\u003E [math]=\\frac{0.8+2.8+2.2+4.8+0.2+3.2+5.2+3.8+7.2+5.8}{10}=3.6[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eযে বাজারের পণ্যের মূল্য বেশি স্থিতিশীল সে বাজারটিই বেশি নির্ভরযোগ্য। এখন স্থিতিশীলতা নির্ণয়ের জন্য বিভেদাঙ্ক নির্ণয় করতে হবে।বাজার A-এর বিভেদাঙ্ক, [math]\\mathrm{CV}_{\\mathrm{A}}=\\frac{\\sigma_{\\mathrm{A}}}{\\overline{\\mathrm{x}}_{\\mathrm{A}}} \\times 100[/math]\u003Cbr\u003E [math]=\\frac{15}{65} \\times 100=23.08 \\%[/math]\u003Cbr\u003Eবাজার B-এর বিভেদাঙ্ক, [math]\\mathrm{CV}_{\\mathrm{B}}=\\frac{\\sigma_{\\mathrm{B}}}{\\overline{\\mathrm{x}}_{\\mathrm{B}}} \\times 100[/math]\u003Cbr\u003E‘গ' থেকে পাই, [math]\\overline{\\mathrm{x}}_{\\mathrm{B}}=12.8[/math]\u003Cbr\u003Eএখন, [math]\\sigma_{\\mathrm{B}}=\\sqrt{\\frac{\\Sigma\\left(\\mathrm{x}_{\\mathrm{i}}-\\overline{\\mathrm{x}}_{\\mathrm{B}}\\right)^{2}}{\\mathrm{n}}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{\\begin{array}{l}(12-12.8)^{2}+(10-12.8)^{2}+(15-12.8)^{2}+(8-12.8)^{2}+(13-12.8)^{2}\\\\+(16-12.8)^{2}+(18-12.8)^{2}+(9-12.8)^{2}+(20-12.8)^{2}+(7-12.8)^{2}\\end{array}}{10}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{0.64+7.84+4.84+23.04+0.04+10.24+27.04+14.44+51.84+33.64}{10}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{173.6}{10}}=4.17[/math]\u003Cbr\u003E [math]\\therefore \\quad \\mathrm{CV}_{\\mathrm{B}}=\\frac{4.17}{12.8} \\times 100=32.58 \\%[/math]\u003Cbr\u003Eএখানে, বাজার A-এর বিভেদাঙ্ক তুলনামূলকভাবে কম। সুতরাং 'বাজার A ক্রেতার কাছে বেশি নির্ভরযোগ্য।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পরিমিত ব্যবধান = সর্বোচ্চ মূল্য − সর্বনিম্ন মূল্য = [math]20-7=13[/math] টাকা।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E আদর্শ বিস্তার পরিমাপ: গড়কে কেন্দ্র হিসেবে নেওয়া হলে গড় পরিমিত বিচ্যুতি (mean absolute deviation) সরল ও ব্যাখ্যাযোগ্য; কিন্তু গাণিতিক ও পরিসংখ্যানিক বিশ্লেষণে সাধারণত মানক বিচ্যুতি (standard deviation) বেশি গ্রহণযোগ্য।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বাজার B-এর গড় = [math]\\frac{128}{10}=12.8[/math]; গড় পরিমিত বিচ্যুতি = [math]\\frac{1}{10}\\sum |x_i-12.8|=\\frac{36}{10}=3.6\u003C/math\u003E টাকা।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E নির্ভরযোগ্যতাঃ যেহেতু প্রশ্নে বাজার A-এর পরিমিত বিচ্যুতি [math]15\u003C/math] টাকা (দিয়ে আছে) এবং বাজার B-এর গড় বিচ্যুতি [math]3.6\u003C/math] টাকা, কম বিচ্যুতি মানে দাম বেশি স্থিতিশীল — তাই ক্রেতার জন্য বাজার B বেশি নির্ভরযোগ্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:07:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392419,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392419,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392419,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392419,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392419,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392419,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392419,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392419,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T05:07:05.000000Z",
+            "updated_at": "2025-08-19T05:07:05.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392419,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T05:07:05.000000Z",
+            "updated_at": "2025-08-19T05:07:05.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392419,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T05:07:05.000000Z",
+            "updated_at": "2025-08-19T05:07:05.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392419,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T05:07:05.000000Z",
+            "updated_at": "2025-08-19T05:07:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392418,
+      "value": {
+        "options": {
+          "ক": "বিস্তার পরিমাপ কি?",
+          "খ": "“পরিসর তথ্যের সকল মানের উপর নির্ভর করে না\"-ব্যাখ্যা কর।",
+          "গ": "খামার D এর মুনাফার গড় ব্যবধান নির্ণয় কর।",
+          "ঘ": "মুনাফার দৃষ্টিকোণ থেকে কোন খামারটি বেশী স্থিতিশীল? বিশ্লেষণপূর্বক মতামত দাও।"
+        },
+        "question": "জনাব মনসের আলী একজন কৃষক। তাঁর বাড়িতে দুইটি দুগ্ধ খামার আছে। ঐ খামার দুইটি হতে তিনি বিভিন্ন মাসে বিভিন্ন রকম মুনাফা পান। গত মাসের প্রথম সাত দিনের মুনাফা নিম্নরূপ:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-34_1755580025_dzYobHGp.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে সংখ্যাগত পরিমাপের সাহায্যে কোনো গণসংখ্যা নিবেশন বিচ্ছিন্ন তথ্যসারির মানসমূহ এদের গড়ের চতুর্দিকে কীভাবে বিস্তৃত তা প্রকাশিত হয় অথবা মানসমূহের সাথে গড়ের যে পার্থক্য জা প্রকাশ করা হয় তাকে বিস্তার পরিমাপ বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপরিসর হচ্ছে কোনো তথ্য সারির সর্বোচ্চ ও সর্বনিম্ন মানের ব্যবধান। এক্ষেত্রে তথ্য সারির সর্বোচ্চ ও সর্বনিম্ন মান ব্যতিত অন্য কোনো মান পরিসর নির্ণয়ে ব্যবহৃত হয় না। তাই পরিসর সকল মানের ওপর নির্ভর করে না।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eখামার D-এর মুনাফার গড়,[math]\\bar{x}_{D}=\\frac{9+4+5+6+8+8+7}{7}=\\frac{47}{7}=6.71[/math]\u003Cbr\u003E∴ খামার D-এর মুনাফার গড় ব্যবধান,[math]\\mathrm{MD}_{\\overline{\\mathrm{x}}}=\\frac{\\sum\\left|\\mathrm{x}_{\\mathrm{i}}-\\overline{\\mathrm{x}}_{\\mathrm{D}}\\right|}{\\mathrm{n}}[/math]\u003Cbr\u003E [math]|9-6.71|+|4-6.71|+|5-6.71|+|6-6.71|+[/math]\u003Cbr\u003E [math]=\\frac{|8-6.71|+|8-6.71|+|7-6.71|}{7}[/math]\u003Cbr\u003E [math]=\\frac{10.29}{7}=1.47[/math]\u003Cbr\u003E হাজার টাকা[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, [math]\\bar{x}_{D}=6.71[/math]\u003Cbr\u003E∴ পরিমিত ব্যবধান, [math]\\sigma_{D}=\\sqrt{\\frac{\\sum\\left(x_{i}-\\bar{x}_{D}\\right)^{2}}{n}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{\\begin{array}{l}(9-6.71)^{2}+(4-6.71)^{2}+(5-6.71)^{2}+(6-6.71)^{2} \\\\7\\end{array}}{7-6.71)^{2}+(8-6.71)^{2}+(7-6.71)^{2}}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{19.44}{7}}=1.67[/math]\u003Cbr\u003E∴ খামার D এর মুনাফার বিভেদাঙ্ক,[math]CV_{D}=\\frac{\\sigma_{D}}{\\bar{x}} \\times 100=\\frac{1.67}{6.71} \\times 100=24.89 \\%[/math]\u003Cbr\u003Eআবার, খামার C-এর মুনাফার গড়,[math]C V_{D}=\\frac{\\sigma_{D}}{\\bar{x}} \\times 100=\\frac{1.67}{6.71} \\times 100=24.89 \\%[/math]\u003Cbr\u003E∴ পরিমিত ব্যবধান, [math]\\sigma_{\\mathrm{C}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{\\begin{array}{l}(8-7.14)^{2}+(7-7.14)^{2}+(6-7.14)^{2}+(7-7.14)^{2}\\\\\\frac{(8-7.14)^{2}+(9-7.14)^{2}+(5-7.14)^{2}}{7}\\end{array}}{}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{10.857}{7}}=1.25[/math]\u003Cbr\u003E∴ খামার C এর মুনাফার বিভেদাঙ্ক,[math]\\mathrm{CV}_{\\mathrm{C}}=\\frac{\\sigma_{\\mathrm{C}}}{\\overline{\\mathrm{x}}_{\\mathrm{C}}} \\times 100=\\frac{1.25}{7.14} \\times 100=17.51 \\%[/math]\u003Cbr\u003E [math]\\therefore \\quad \\mathrm{CV}_{\\mathrm{D}}\u003E\\mathrm{CV}_{\\mathrm{C}}[/math]\u003Cbr\u003Eযেহেতু খামার D-এর মুনাফার বিভেদাঙ্ক খামার C-এর মুনাফার .বিভেদাঙ্ক অপেক্ষা বেশি। সুতরাং খামার C-এর মুনাফা বেশি স্থিতিশীল ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বিস্তার পরিমাপ হল কোনো ডেটাসেটের মানগুলো কেন্দ্র (যেমন গড়) থেকে কতটা ছড়িয়ে আছে তা নির্ণয় করার পরিমাপ; এর মধ্যে রেঞ্জ, গড় ব্যতিরেকে গড়বিচ্যুতি (mean deviation), বৈজ্য সরম্য (variance) ও স্ট্যান্ডার্ড ডিভিয়েশন সাধারণ উদাহরণ। উদাহরণস্বরূপ রেঞ্জ = [math]\\text{Max} - \\text{Min}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E “পরিসর তথ্যের সকল মানের উপর নির্ভর করে না” মানে হলো রেঞ্জ কেবল সর্বোচ্চ ও সর্বনিম্ন মান ব্যবহার করে হিসাব হয়, তাই মাঝে থাকা অন্যান্য মানগুলো তার ওপর প্রভাব ফেলে না — ফলে রেঞ্জ স্যাম্পলের ভেতরের বণ্টন সম্পর্কে সম্পূর্ণ তথ্য দেয় না।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E খামার D এর গড় ব্যবধান (mean deviation) নির্ণয়ের সূত্র হলো [math]\\text{MD}=\\frac{1}{n}\\sum_{i=1}^n|x_i-\\bar{x}|[/math], যেখানে [math]\\bar{x}[/math] হল D-র গড় এবং [math]x_i[/math] গুলো হলো প্রত্যেক দিনের মুনাফা; প্রথমে D-র গড় বের করুন, তারপর প্রতিটি মান থেকে গড় বিয়োগ করে এর Absolute নিন, সবগুলো যোগ করে [math]n[/math] দিয়ে ভাগ করুন — ডেটা দিলে আমি সংখ্যা অনুযায়ী হিসাব করে দেখিয়ে দেব। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E স্থিতিশীলতা নির্ধারণের নিয়ম: যে খামারের মুনাফার বিস্তার (MD বা SD) ছোট, সেটাই বেশি স্থিতিশীল; বর্তমানে D ও অপর খামারের MD/SD গণনা না করলে সিদ্ধান্ত বলা যায় না—আপনি যদি দুটো খামারের মানগুলো দিন আমি তুলনা করে বলব কোনটি বেশি স্থিতিশীল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:07:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392418,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392418,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392418,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392418,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392418,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392418,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392418,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392418,
+            "tag_id": 7,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:05.000000Z",
+            "updated_at": "2025-08-19T05:07:05.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392418,
+            "tag_id": 3179,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:05.000000Z",
+            "updated_at": "2025-08-19T05:07:05.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392418,
+            "tag_id": 46,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:05.000000Z",
+            "updated_at": "2025-08-19T05:07:05.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392418,
+            "tag_id": 6,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:05.000000Z",
+            "updated_at": "2025-08-19T05:07:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392417,
+      "value": {
+        "options": {
+          "ক": "ভেদাঙ্ক কাকে বলে?",
+          "খ": "ভেদাঙ্কের মান কখন সর্বনিম্ন হয়? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের তথ্যের তৃতীয় চতুর্থক নির্ণয় কর ।",
+          "ঘ": "উদ্দীপকের তথ্য হতে গড় ব্যবধান ও পরিমিত ব্যবধান নির্ণয় করে তুলনা কর।"
+        },
+        "question": "একটি হাসপাতালের বহিঃবিভাগে চিকিৎসাসেবা নিতে আসা কোনো একদিনের রোগীর সংখ্যার বিন্যাস নিম্নরূপে পাওয়া গেল :\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-29202_1755580022_q61mMkTN.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো নিবেশনের গড় থেকে সংখ্যাগুলোর ব্যবধানের বর্গের সমষ্টিকে পদসংখ্যা দ্বারা ভাগ করলে যে মান পাওয়া যায় তাকে ঐ নিবেশনের ভেদাঙ্ক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eকোনো তথ্যসারির জন্যে n একটি নির্দিষ্ট অশূন্য ধনাত্মক সংখ্যা। [math]\\sum_{i=1}^{n}\\left(x_{i}-\\bar{x}\\right)^{i}[/math]\u003Cbr\u003E কতগুলো বর্গরাশির যোগফল।আমরা জানি, বর্গরাশির সর্বনিম্নমান শূন্য ।[math]\\therefore \\sum_{i=1}^{n}\\left(x_{i}-\\bar{x}\\right)^{2}=0[/math]\u003Cbr\u003Eবা, [math]\\left(x_{1}-\\bar{x}\\right)^{2}+\\left(x_{2}-\\bar{x}\\right)^{2}+\\ldots \\ldots+\\left(x_{n}-\\bar{x}\\right)^{2}=0[/math]\u003Cbr\u003Eবা, [math]x_{1}-\\bar{x}=0, x_{2}-\\bar{x}=0, \\ldots \\ldots . ., x_{n}-\\bar{x}=0[/math]\u003Cbr\u003Eবা, [math]x_{1}=\\bar{x}, x_{2}=\\bar{x}, \\ldots \\ldots, x_{n}=\\bar{x}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{x}_{1}=\\mathrm{x}_{2}=\\ldots \\ldots \\ldots \\ldots \\ldots=\\mathrm{x}_{\\mathrm{n}}=\\overline{\\mathrm{x}}[/math]\u003Cbr\u003Eঅর্থাৎ, যখন তথ্যসারির মানগুলো পরস্পর সমান হবে তখনই ভেদাংকের মান সর্বনিম্ন বা শূন্য হয় ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eগগণনার জন্য প্রয়োজনীয় সারণি :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-30_1755580024_DeAH68ii.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eআমরা জানি, তৃতীয় চতুর্থক, [math]\\mathrm{Q}_{3}=\\mathrm{L}+\\frac{\\frac{3 \\mathrm{~N}}{4}-\\mathrm{F}_{\\mathrm{C}}}{\\mathrm{f}_{\\mathrm{q}}} \\times \\mathrm{C}[/math]\u003Cbr\u003Eএখানে, [math]\\frac{3 N}{4}=\\frac{120}{4}=30[/math]\u003Cbr\u003E 30 তম পদ হলো তৃতীয় চতুর্থক, যা (45-60) শ্রেণিতে আছে । সুতরাং ৩য় চতুর্থক শ্রেণি হলো (45-60) সংজ্ঞানুযায়ী, [math]\\mathrm{L}=45, \\mathrm{~F}_{\\mathrm{C}}=24, \\mathrm{f}_{\\mathrm{q}}=8, \\mathrm{C}=15[/math]\u003Cbr\u003E [math]\\therefore \\quad Q_{3}=45+\\frac{30-24}{8} \\times 15[/math]\u003Cbr\u003E [math]=45+11.25[/math]\u003Cbr\u003E [math]=56.25[/math]\u003Cbr\u003E(Ans.)[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eগড় ব্যবধান ও পরিমিত ব্যবধান নির্ণয়ের সারণি :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-31_1755580023_ol4inKwf.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E∴ গড়, [math]\\bar{x}=\\frac{\\sum f_{i} x_{i}}{N}=\\frac{1335}{40}=33.375[/math]\u003Cbr\u003E∴ [math]\\overline{\\mathbf{x}}[/math]\u003Cbr\u003E হতে নির্ণীত গড় ব্যবধান, [math]\\mathrm{MD}_{\\overline{\\mathrm{x}}}=\\frac{\\sum f_{\\mathrm{i}}\\left|\\mathrm{x}_{\\mathrm{i}}-\\overline{\\mathrm{x}}\\right|}{\\mathrm{N}}[/math]\u003Cbr\u003E$\\begin{aligned}[math]15|7.5-33.375|+5|22.5-33.375|+4|37.5-33.375|[/math]\u003Cbr\u003E [math]=\\frac{+8|52.5-33.375|+8|67.5-33.375|}{40}[/math]\u003Cbr\u003E [math]=\\frac{885}{40}=22.125[/math]\u003Cbr\u003Eআবার, ভেদাঙ্ক [math]\\sigma^{2}=\\frac{\\sum f_{\\mathrm{i}} \\mathrm{x}_{\\mathrm{i}}^{2}}{\\mathrm{~N}}-(\\overline{\\mathrm{x}})^{2}=\\frac{67500}{40}-(33.375)^{2}[/math]\u003Cbr\u003E [math]=1687.5-1113.89=573.61[/math]\u003Cbr\u003E∴ পরিমিত ব্যবধান, [math]\\sigma=\\sqrt{573.61}=23.95[/math]\u003Cbr\u003Eসুতরাং প্রদত্ত তথ্যের পরিমিত ব্যবধান গড় ব্যবধান অপেক্ষা বেশি।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ভেদাঙ্ক হল সর্বোচ্চ ও সর্বনিম্ন পর্যবেক্ষণের পার্থক্য; অর্থাৎ [math]R = X_{\\max}-X_{\\min}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভেদাঙ্ক সর্বনিম্ন তখন হয় যখন সকল পর্যবেক্ষণ একরকম বা যতটা সম্ভব ঘন হয় — যদি সব মান একরোঁখি হয় তবে ভেদাঙ্ক শূন্য। সাধারণভাবে মানগুলো কেন্দ্রভাগে সমভাবে জমে থাকলে ভেদাঙ্ক ছোট হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E তৃতীয় চতুর্থক (Q3) হলো উপরে থেকে ২৫% ছাঁটাই করে প্রাপ্ত মান; অসংগৃহীত (ungrouped) ডেটার অবস্থান হবে [math]\\frac{3(n+1)}{4}[/math]-তম পর্যবেক্ষণ। গ্রুপকৃত বিস্তার হলে ব্যবহৃত সূত্রটি: [math]Q_3 = L + \\frac{\\tfrac{3N}{4}-F}{f}\\times h[/math], যেখানে L = Q3 ক্লাসের নিম্ন সীমা, N = মোট পর্যবেক্ষণ, F = Q3 ক্লাসের আগের সমষ্টি, f = ক্লাসের ফ্রিকোয়েন্সি, h = ক্লাসপ্রস্থ।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গড় ব্যবধান (mean deviation) কেন্দ্র হিসেবে গড়ের তুলনায়: [math]MD=\\frac{1}{n}\\sum |x_i-\\bar{x}|[/math]; পরিমিত ব্যবধান (standard deviation): [math]\\sigma=\\sqrt{\\frac{1}{n}\\sum (x_i-\\bar{x})^2}[/math]. তুলনায়, পরিমিত ব্যবধান সাধারণত বড় বা সমান থাকে কারণ বিচ্যুতিগুলোকে বর্গ করে বড় বিচ্যুতির গুরুত্ব বেশি দেয়া হয়; কেবল সব মান সমান হলেই দুইটি সমান হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:07:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392417,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392417,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392417,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392417,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392417,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392417,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392417,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392417,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:04.000000Z",
+            "updated_at": "2025-08-19T05:07:04.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392417,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:04.000000Z",
+            "updated_at": "2025-08-19T05:07:04.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392417,
+            "tag_id": 47,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:04.000000Z",
+            "updated_at": "2025-08-19T05:07:04.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392417,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:04.000000Z",
+            "updated_at": "2025-08-19T05:07:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392416,
+      "value": {
+        "options": {
+          "ক": "প্রমিত চলক কাকে বলে?",
+          "খ": "এক সেট ঋণাত্মক অসম মানের ভেদাঙ্ক সর্বদাই ধনাত্মক হয়'— ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের শহর A এর তাপমাত্রাগুলোর গড় ব্যবধান নির্ণয় কর।",
+          "ঘ": "কোন শহরের তাপমাত্রা অধিক সামঞ্জস্যপূর্ণ তা নির্ণয়পূর্বক মন্তব্য কর।"
+        },
+        "question": "দুটি শীত প্রধান শহরের পাঁচ দিনের তাপমাত্রার (ডিগ্রি সেলসিয়াস) তথ্য নিম্নরূপে রেকর্ড করা হলো—\n\nশহর A : 2, 1, -1, 0, 3\n\nশহর B : 3, 0, 2, 2, 3",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো চলকের প্রতিটি মান থেকে এদের গাণিতিক গড় বিয়োগ করে পরিমিত ব্যবধান দ্বারা ভাগ করে যে নতুন চলক পাওয়া যায় তাকে আদর্শ চলক বা প্রমিত চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eযেহেতু কোনো তথ্যসারির গাণিতিক গড় থেকে তথ্যগুলোর বিচ্যুতির বর্গের সমষ্টিকে মোট তথ্য সংখ্যা দ্বারা ভাগ করে যে মান পাওয়া যায়, তাকে উক্ত তথ্যসারির ভেদাঙ্ক বলে এবং আমরা জানি, বর্গ সংখ্যা সর্বদা ধনাত্মক এবং কতগুলো বর্গ সংখ্যার সমষ্টি অবশ্যই ধনাত্মক।অর্থাৎ, [math](x-\\bar{x})^{2}\u003E0[/math]\u003Cbr\u003Eবা, [math]\\sum(x-\\bar{x})^{2}\u003E0[/math]\u003Cbr\u003Eবা, [math]\\frac{\\sum(x-\\bar{x})^{2}}{n}\u003E0[/math]\u003Cbr\u003E∴ ভোদাঙ্ক, [math]\\sigma^{2}\u003E0[/math]\u003Cbr\u003Eসুতরাং এক সেট ঋণাত্মক অসম মানের ভেদাঙ্ক সর্বদাই ধনাত্মক হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eশহর A-এর তাপমাত্রার গড়, [math]\\bar{x}=\\frac{2+1-1+0+3}{5}=\\frac{5}{5}=1[/math]\u003Cbr\u003E∴ গড় ব্যবধান, [math]M D_{\\bar{x}}=\\frac{\\sum\\left|x_{j}-\\bar{x}\\right|}{n}[/math]\u003Cbr\u003E [math]=\\frac{|2-1|+|1-1|+|-1-1|+|0-1|+|3-1|}{5}[/math]\u003Cbr\u003E [math]=\\frac{1+0+2+1+2}{5}=\\frac{6}{5}[/math]\u003Cbr\u003E= 1.2 (Ans.)[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, [math]\\bar{x}_{A}=1[/math]\u003Cbr\u003E∴ পরিমিত ব্যবধান, [math]\\sigma_{\\mathrm{A}}=\\sqrt{\\frac{\\sum\\left(\\mathrm{x}_{\\mathrm{i}}-\\overline{\\mathrm{x}}_{\\mathrm{A}}\\right)^{2}}{\\mathrm{n}}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{(2-1)^{2}+(1-1)^{2}+(-1-1)^{2}+(0-1)^{2}+(3-1)^{2}}{5}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{1+0+4+1+4}{5}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{10}{5}}=1.4142[/math]\u003Cbr\u003E∴ শহরের তাপমাত্রা বিভেদাঙ্ক[math]C V_{A}=\\frac{\\sigma_{A}}{\\bar{x}} \\times 100=\\frac{1.4142}{1} \\times 100=141.42 \\%[/math]\u003Cbr\u003Eআবার, শহর B-এর তাপমাত্রার গড়,[math]C V_{A}=\\frac{\\sigma_{A}}{\\bar{x}} \\times 100=\\frac{1.4142}{1} \\times 100=141.42 \\%[/math]\u003Cbr\u003Eএবং পরিমিত ব্যবধান, [math]\\sigma_{B}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{\\begin{array}{l}(3-1.2)^{2}+(0-1.2)^{2}+(-2-1.2)^{2} \\\\\\pm(21.2)^{2}+(3-1.2)^{2}\\end{array}}{5}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{18.8}{5}}=\\sqrt{3.76}=1.939[/math]\u003Cbr\u003E∴ শহর B-এর তাপমাত্রার বিভেদাঙ্ক,[math]C V_{B}=\\frac{\\sigma_{B}}{\\bar{x}_{B}} \\times 100=\\frac{1.939}{1.2} \\times 100=161.58 \\%[/math]\u003Cbr\u003Eযেহেতু, [math]\\mathrm{CV}_{\\mathrm{A}}\u003C\\mathrm{CV}_{\\mathrm{B}}[/math]\u003Cbr\u003Eসুতরাং A শহরের তাপমাত্রা অধিক সামঞ্জস্যপূর্ণ।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রমিত চলক হলো ভেরিয়েশন বা ছড়ানের মাপক; এটি ভেরিয়েন্সের বর্গমূল। Population ক্ষেত্রে ফর্মুলা: [math]\\sigma=\\sqrt{\\frac{1}{n}\\sum_{i=1}^n (x_i-\\bar{x})^2}[/math], যেখানে [math]\\bar{x}[/math] হচ্ছে গড়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E যদি কোনো সেটে মানগুলি ঋণাত্মকও থাকে, তখন ভেদাঙ্ক (deviation) হতে পারে ঋণাত্মক; কিন্তু তার অভিক্ষেপ (absolute value) বা বর্গ করলে ফল সর্বদাই ধনাত্মক বা শূন্য হয়, তাই গড় ভেদাঙ্ক বা প্রমিত চলক ধনাত্মক/শূন্য হয় (সব মান সমান হলে শূন্য)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শহর A-এর মান: [math]2,1,-1,0,3[/math], গড় [math]\\bar{x}=(2+1-1+0+3)/5=1[/math]. আপেক্ষিক শূন্যীয় গড় ব্যবধান = [math]\\frac{|2-1|+|1-1|+|-1-1|+|0-1|+|3-1|}{5}=\\frac{1+0+2+1+2}{5}=\\frac{6}{5}=1.2[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রমিত চলক হিসাব করলে A-র জন্য variance = [math]\\frac{1+0+4+1+4}{5}=2[/math], [math]\\sigma_A=\\sqrt{2}\\approx1.414[/math]; B-র জন্য mean [math]=2[/math], variance = [math]\\frac{1+4+0+0+1}{5}=1.2[/math], [math]\\sigma_B=\\sqrt{1.2}\\approx1.095[/math]. যেহেতু [math]\\sigma_B\u003C\\sigma_A[/math], শহর B তাপমাত্রায় বেশি সামঞ্জস্যপূর্ণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:07:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392416,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392416,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392416,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392416,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392416,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392416,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392416,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392416,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:01.000000Z",
+            "updated_at": "2025-08-19T05:07:01.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392416,
+            "tag_id": 47,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:01.000000Z",
+            "updated_at": "2025-08-19T05:07:01.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392416,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:01.000000Z",
+            "updated_at": "2025-08-19T05:07:01.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392416,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T05:07:01.000000Z",
+            "updated_at": "2025-08-19T05:07:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392415,
+      "value": {
+        "options": {
+          "ক": "পরিমিত ব্যবধানের সংজ্ঞা দাও।",
+          "খ": "ভেদাঙ্ক কি যে কোনো মান নেয়? ব্যাখ্যা কর।",
+          "গ": "চম্পা ও টুম্পার খরচের পরিমিত ব্যবধান বের কর।",
+          "ঘ": "উদ্দীপকের আলোকে পরিসর ও গড় ব্যবধানের মান নির্ণয় কর এবং তাদের মধ্যে সম্পর্ক স্থাপন কর।"
+        },
+        "question": "চম্পা ও টুম্পা প্রতিদিন কলেজে রিকশায় যাওয়া বাবদ খরচ করে যথাক্রমে 50 ও ৪০ টাকা।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো নিবেশনের গড় থেকে সংখ্যাগুলোর ব্যবধানের বর্গের সমষ্টিকে পদসংখ্যা দ্বারা ভাগ করলে যে মান পাওয়া যায় তার ধনাত্মক বর্গমূলকে পরিমিত ব্যবধান বলে। এটিকে আদর্শ ব্যবধানও বলে। এটিকে SD বা দ্বারা প্রকাশ করা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eভেদাঙ্ক যেকোনো মান গ্রহণ করে না। ভেদাঙ্কের গাণিতিক সংজ্ঞা থেকে পাই,ভেদাঙ্ক, [math]\\sigma^{2}=\\frac{\\sum\\left(x_{i}-\\bar{x}\\right)^{2}}{N}=\\frac{\\sum x_{i}^{2}}{N}-\\bar{x}^{2}[/math]\u003Cbr\u003Eযেহেতু বর্গ সংখ্যার মান সর্বদা অঋণাত্মক হয়। সুতরাং ভেদাক কখনো ঋণাত্মক মান গ্রহণ করে না।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, x_{i}: 50,80∴ গড়, [math]\\bar{x}=\\frac{\\sum x_{i}}{2}=\\frac{50+80}{2}=65[/math]\u003Cbr\u003E∴ পরিমিত ব্যবধান, [math]\\sigma=\\sqrt{\\frac{\\sum\\left(\\mathrm{x}_{\\mathrm{i}}-\\overline{\\mathrm{x}}\\right)^{2}}{2}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{(50-65)^{2}+(80-65)^{2}}{2}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{(-15)^{2}+15^{2}}{2}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{225+225}{2}}[/math]\u003Cbr\u003E [math]=\\sqrt{225}=15.[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপরিসর, [math]\\mathrm{R}=\\mathrm{X}_{\\max }-\\mathrm{X}_{\\min }=80-50=30[/math]\u003Cbr\u003Eআবার, গড় ব্যবধান, [math]\\mathrm{MD}=\\frac{\\sum\\left|\\mathrm{x}_{\\mathrm{i}}-\\overline{\\mathrm{x}}\\right|}{2}[/math]\u003Cbr\u003E [math]=\\frac{|50-65|+|80-65|}{2}=\\frac{|-15|+|15|}{2}=\\frac{15+15}{2}=\\frac{30}{2}=15[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-32_1755580021_ZBYBjf7D.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eঅর্থাৎ বলা যায়, যে কোন দুইটি তথ্যের জন্য গড় ব্যবধান তার পরিসরের অর্ধেক।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পরিমিত ব্যবধান হলো পর্যবেক্ষণগুলোকে কোনো কেন্দ্রীয় মান (সাধারণত গড় বা মধ্যক) থেকে তাদের আপেক্ষিক পার্থক্যের অপরিণত (absolute) মানগুলোর গড়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভেদাঙ্ক ধনাত্মক, ঋণাত্মক বা শূন্য হতে পারে কারণ কোনো মান কেন্দ্রীয় মানের উপরে বা নিচে থাকতে পারে; কিন্তু পরিমিত (অপরিণত) ভেদাঙ্ক সবসময় অ-নেগেটিভ হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গড় = [math](50+40)/2=45[/math], ভেদাঙ্কগুলি [math]50-45=5[/math] ও [math]40-45=-5[/math], অপরিণত ভেদাঙ্কগুলি [math]5,5[/math] তাই পরিমিত ব্যবधान = [math](5+5)/2=5[/math] টাকা।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পরিসর = [math]50-40=10[/math], গড় পরিমিত ব্যবধান = [math]5[/math]; এখানে পরিসর = 2×পরিমিত ব্যবধান, কারণ কেবল দুটি মান আছে এবং সেগুলো গড়ের দুই পাশে সমমিতভাবে স্থিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:07:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392415,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392415,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392415,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392415,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392415,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392415,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392415,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392415,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392415,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392415,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:01.000000Z",
+            "updated_at": "2025-08-19T05:07:01.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392415,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:01.000000Z",
+            "updated_at": "2025-08-19T05:07:01.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392415,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:01.000000Z",
+            "updated_at": "2025-08-19T05:07:01.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392415,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:01.000000Z",
+            "updated_at": "2025-08-19T05:07:01.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392415,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:01.000000Z",
+            "updated_at": "2025-08-19T05:07:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392414,
+      "value": {
+        "options": {
+          "ক": "ভেদাঙ্ক কী?",
+          "খ": "“বিভেদাঙ্ক একটি একক মুক্ত সংখ্যা” – ব্যাখ্যা কর। -",
+          "গ": "উদ্দীপকে উল্লিখিত কোম্পানি দুটির শ্রমিকের সম্মিলিত পরিমিত ব্যবধান নির্ণয় কর।",
+          "ঘ": "কোন কোম্পানির শ্রমিকদের মজুরি কাঠামো অধিক সামঞ্জস্যপূর্ণ? বিশ্লেষণপূর্বক মতামত দাও ।"
+        },
+        "question": "দুটি কোমল পানীয় কোম্পানি শ্রমিকদের সংখ্যা, গড় মজুরি ও মজুরির পরিমিত ব্যবধান নিম্নরূপ:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-080224-chapter-3-all-board-cq-33_1755580020_D4d4B1pN.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো নিবেশনের গড় থেকে সংখ্যাগুলোর ব্যবধানের বর্গের সমষ্টিকে পদসংখ্যা দ্বারা ভাগ করলে যে মান পাওয়া যায় তাকে ঐ নিবেশনের ভেদাঙ্ক বলে। একে সাধারণত a দ্বারা প্রকাশ [math]\\sigma^{2}[/math]\u003Cbr\u003E করা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eআমরা জানি, x চলকের পরিমিত ব্যবধান [math]\\sigma[/math]\u003Cbr\u003E এবং গাণিতিক গড় [math]\\bar{x}[/math]\u003Cbr\u003E হলে বিভেদাঙ্ক, [math]\\mathrm{CV}=\\frac{\\sigma}{\\bar{x}} \\times 100[/math]\u003Cbr\u003E [math]\\sigma[/math]\u003Cbr\u003E বিস্তৃতির পরম পরিমাপ। এটি চলকের এককে প্রকাশিত। অনুরূপভাবে, [math]\\bar{x}[/math]\u003Cbr\u003E কেন্দ্রীয় প্রবণতার পরম পরিমাপ। এটিও চলকের এককে প্রকাশিত। বিভেদাঙ্ক নির্ণয়ের ক্ষেত্রে [math]\\sigma[/math]\u003Cbr\u003E কে [math]\\bar{x}[/math]\u003Cbr\u003E দ্বারা ভাগ দেওয়ার সময় এদের সাধারণ একক সাধারণ উৎপাদকরূপে বাদ হয়ে যায় এবং এককবিহীন একটি সংখ্যার সৃষ্টি হয়। এই এককবিহীন সংখ্যাকে 100 দিয়ে গুণ করলে এককবিহীন বিভেদাঙ্ক পাওয়া যায়। সুতরাং বিভেদাঙ্ক একটি এককবিহীন সংখ্যা - উক্তিটি যথার্থ।উদাহরণ: মনে করি, 10টি বিভিন্ন রকম জিনিসের ওজনের নিবেশন দেওয়া আছে। এদের ওজন কেজিতে দেওয়া আছে। স্বাভাবিকভাবে এদের ওজনের গাণিতিক গড় ও পরিমিত ব্যবধান উভয় এর একক কেজি হবে। এই 'কেজি' এককযুক্ত সংখ্যাদ্বয় ভাগ করার সময় 'কেজি' সাধারণ উৎপাদকরূপে বাদ হয়ে যাবে এবং এককবিহীন বিভেদাঙ্ক পাওয়া যাবে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে,[math]\\mathrm{n}_{1}=50[/math]\u003Cbr\u003E [math]n_{2}=60[/math]\u003Cbr\u003E [math]\\bar{x}_{1}=500[/math]\u003Cbr\u003E [math]\\bar{x}_{2}=450[/math]\u003Cbr\u003E [math]\\sigma_{1}=30[/math]\u003Cbr\u003E [math]\\sigma_{2}=20[/math]\u003Cbr\u003Eসম্মিলিত গাণিতিক গড়, [math]\\bar{x}_{C}=\\frac{n_{1} \\bar{x}_{1}+n_{2} \\bar{x}_{2}}{n_{1}+n_{2}}[/math]\u003Cbr\u003E [math]=\\frac{50 \\times 500+60 \\times 450}{50+60}=\\frac{52000}{110}=472.73[/math]\u003Cbr\u003Eসম্মিলিত পরিমিত ব্যবধান,[math]\\sigma_{c}=\\sqrt{\\frac{n_{1}\\left(\\sigma_{1}^{2}+d_{1}^{2}\\right)+n_{2}\\left(\\sigma_{2}^{2}+d_{2}^{2}\\right)}{n_{1}+n_{2}}}[/math]\u003Cbr\u003Eএখানে, [math]d_{1}^{2}=\\left(\\bar{x}_{1}-\\bar{x}_{c}\\right)^{2}=(500-472.73)^{2}[/math]\u003Cbr\u003E [math]=(27.27)^{2}=743.65[/math]\u003Cbr\u003E [math]\\mathrm{d}_{2}{ }^{2}=\\left(\\overline{\\mathrm{x}}_{2}-\\overline{\\mathrm{x}}_{\\mathrm{c}}\\right)^{2}=(450-472.73)^{2}=516.65[/math]\u003Cbr\u003E [math]\\therefore\\sigma_{c}=\\sqrt{\\frac{50\\left(30^{2}+743.65\\right)+60\\left(20^{2}+516.65\\right)}{50+60}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{137181.5}{110}}[/math]\u003Cbr\u003E [math]=\\sqrt{1247.105}[/math]\u003Cbr\u003E [math]=35.31[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপ্রাণ কোম্পানির শ্রমিকদের বেতনের বিভেদাঙ্ক,[math]\\mathrm{CV}_{\\mathrm{P}}=\\frac{\\sigma_{1}}{\\overline{\\mathrm{x}}_{\\mathrm{i}}} \\times 100=\\frac{30}{500} \\times 100=6 \\%[/math]\u003Cbr\u003Eআবার, কোকাকোলা কোম্পানির শ্রমিকদের বেতনের বিভেদাঙ্ক, [math]\\mathrm{CV}_{\\mathrm{C}}=\\frac{\\sigma_{2}}{\\overline{\\mathrm{x}}_{2}} \\times 100=\\frac{20}{450} \\times 100=4.44 \\%[/math]\u003Cbr\u003Eযেহেতু কোকাকোলা কোম্পানির শ্রমিকদের বেতনের বিভেদাঙ্ক কম।সুতরাং কোকাকোলা কোম্পানির শ্রমিকদের মজুরি কাঠামো অধিক সামঞ্জস্যপূর্ণ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ভেদাঙ্ক (coefficient of variation) হলো বিচ্যুতি ও গড়ের অনুপাত, যা সাধারণত শতাংশে প্ৰকাশ করা হয়: [math]\\text{CV}=\\frac{\\sigma}{\\bar{x}}\\times100\\%[/math] (এখানে [math]\\sigma[/math] = standard deviation, [math]\\bar{x}[/math] = mean) — এটি পরিমাপ করে গড়ের তুলনায় বিচ্যুতির আপেক্ষিক পরিমাপ। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভেদাঙ্ক একটি একক-মুক্ত সংখ্যা কারণ সূত্রে ব্যাসার্ধ (standard deviation) ও গড় একই এককে থাকে, তাই তাদের অনুপাতে এককগুলি কেটে যায়; উদাহরণ: [math]\\frac{\\text{টাকা}}{\\text{টাকা}}=1[/math] ফলে ফলাফল একক-মুক্ত হয়। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সম্মিলিত পরিমিত ব্যবধান (combined range) নির্ণয়ের নিয়ম হল: প্রথমে প্রতিটি কোম্পানির সর্বোচ্চ ও সর্বনিম্ন মজুরি জানলে, সম্মিলিত পরিসরের সর্বোচ্চ ও সর্বনিম্ন নেওয়া—অর্থাৎ [math]R_{\\text{total}}=\\max(x_{\\max},y_{\\max})-\\min(x_{\\min},y_{\\min})[/math]। যদি শুধু প্রতিটি কোম্পানির শুধুমাত্র পরিমিত ব্যবধান (range) ও গড় দিয়ে দেয়া থাকে কিন্তু সর্বোচ্চ/সর্বনিম্ন আলাদা ভাবে না দেয়া থাকে, তবে সম্মিলিত পরিমিত ব্যবধান এককভাবে নির্ধারণ করা সম্ভব নয়। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মজুরি কাঠামোর সামঞ্জস্য নির্ধারণে ভেদাঙ্কই সঠিক নির্দেশক—যে কোম্পানির ভেদাঙ্ক ছোট, তার মজুরি বেশি সমন্বিত/কম বিচ্যুতিপূর্ণ। বিকল্পভাবে তুলনা করতে পারেন সাধারণীকৃত পরিমিত ব্যবধান [math]\\frac{R}{\\bar{x}}[/math] ব্যবহার করে; ছোট ফলাফলই অধিক সামঞ্জস্য নির্দেশ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:07:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392414,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392414,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392414,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392414,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392414,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392414,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:00.000000Z",
+            "updated_at": "2025-08-19T05:07:00.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392414,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:00.000000Z",
+            "updated_at": "2025-08-19T05:07:00.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392414,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:07:00.000000Z",
+            "updated_at": "2025-08-19T05:07:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392404,
+      "value": {
+        "options": {
+          "ক": "ক্ষুদ্রতম",
+          "খ": "বৃহত্তম",
+          "গ": "অসমান",
+          "ঘ": "সমান"
+        },
+        "question": "কোনো তথ্যসারির প্রতিটি মান হতে গাণিতিক গড়ের ব্যবধানের বর্গের সমষ্টি—",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "A. ক্ষুদ্রতম"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392404,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392404,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:59.000000Z",
+            "updated_at": "2025-08-19T05:06:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392403,
+      "value": {
+        "options": {
+          "ক": "রংপুর",
+          "খ": "দিনাজপুর",
+          "গ": "বগুড়া",
+          "ঘ": "পাবনা"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fscreenshot-12-removebg_1755580019_L9TJirIk.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nকোন জেলার ধান উৎপাদন অধিক স্থিতিশীল?",
+        "solution": "দিনাজপুর",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392403,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392403,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:59.000000Z",
+            "updated_at": "2025-08-19T05:06:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392405,
+      "value": {
+        "options": {
+          "ক": "0",
+          "খ": "5",
+          "গ": "10",
+          "ঘ": "15"
+        },
+        "question": "5, 5, 5 এর পরিমিত ব্যবধান কত?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392405,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392405,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:59.000000Z",
+            "updated_at": "2025-08-19T05:06:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392406,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বিস্তার পরিমাপের ক্ষেত্রে—\n\ni. ভেদাঙ্ক একটি ধনাত্মক সংখ্যা\n\nii. পরিসর কখনো ঋণাত্মক হতে পারে না\n\niii. বিভেদাঙ্ক একটি এককমুক্ত বিশুদ্ধ সংখ্যা\n\nনিচের কোনটি সঠিক?",
+        "solution": "i, ii ও iii",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392406,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392406,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:59.000000Z",
+            "updated_at": "2025-08-19T05:06:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392407,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "দুটি সংখ্যার ক্ষেত্রে —\n\ni. MD = 0.5 x R\n\nii. SD = 0.5 X R\n\niii. SD = 20.5 x R\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও ii",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392407,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392407,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:59.000000Z",
+            "updated_at": "2025-08-19T05:06:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392408,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "4",
+          "গ": "6",
+          "ঘ": "8"
+        },
+        "question": "নিচের উদ্দীপক হতে প্রশ্নের উত্তর দাও :\n\n2018 সালের নির্বাচনি পরীক্ষায় রনি ও জনির পরিসংখ্যান বিষয়ে প্রাপ্ত নম্বর যথাক্রমে 82 ও 86 ।\nপ্রাপ্ত নম্বরের গড় ব্যবধান কত?",
+        "solution": "2",
+        "explanation": "[math]\\mathrm{MD}=\\frac{\\mathrm{R}}{2}=\\frac{86-82}{2}=\\frac{4}{2}=2[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392408,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392408,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:59.000000Z",
+            "updated_at": "2025-08-19T05:06:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392409,
+      "value": {
+        "options": {
+          "ক": "5.27%",
+          "খ": "4.27%",
+          "গ": "3.27%",
+          "ঘ": "2.38%"
+        },
+        "question": "২০১৮ সালের নির্বাচনি পরীক্ষায় রনি ও জনির পরিসংখ্যান বিষয়ে প্রাপ্ত নম্বর যথাক্রমে ৮২ এবং ৮৬।\n\nপ্রাপ্ত নম্বরের বিভেদাঙ্ক কত?",
+        "solution": "2.38%",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392409,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392409,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:59.000000Z",
+            "updated_at": "2025-08-19T05:06:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392410,
+      "value": {
+        "options": {
+          "ক": "১.৫",
+          "খ": "৬.৫",
+          "গ": "১৬.৬৭",
+          "ঘ": "১৫০"
+        },
+        "question": "একটি নিবেশনের গড় ও বিভেদাঙ্ক যথাক্রমে ৫ ও ৩০% হলে পরিমিত ব্যাবধান কত?",
+        "solution": "১.৫",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392410,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392410,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:59.000000Z",
+            "updated_at": "2025-08-19T05:06:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392411,
+      "value": {
+        "options": {
+          "ক": "-৬",
+          "খ": "৩",
+          "গ": "৬",
+          "ঘ": "৯"
+        },
+        "question": "দুটি অসম সংখ্যার গড় ব্যবধান ৩ হলে, পরিসর কত?",
+        "solution": "৬",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392411,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392411,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:59.000000Z",
+            "updated_at": "2025-08-19T05:06:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392412,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "দুটি সংখ্যার ক্ষেত্রে-\n\ni. MD = 0.5 х R\n\nii. SD = 0.5 х R\n\niii. SD = 0.5 х R\n\nনিচের কোনটি সঠিক?",
+        "solution": "i, ii ও iii",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392412,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392412,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:59.000000Z",
+            "updated_at": "2025-08-19T05:06:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392413,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "দুটি সংখ্যার ক্ষেত্রে-\n\ni. ২ х গড় ব্যবধান = পরিসর\n\nii. ২ х পরিমিত ব্যবধান = পরিসর\n\niii. ২ х ভেদাংক = পরিসর\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও ii",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392413,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392413,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:06:59.000000Z",
+            "updated_at": "2025-08-19T05:06:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392402,
+      "value": {
+        "options": {
+          "ক": "৬৯.৬৫",
+          "খ": "৭৬.৪২",
+          "গ": "৬২.৩২",
+          "ঘ": "৭০.৬৫"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fsuggesion20work20by20minhaz200000000130_1755580018_pN1Ot9RK.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nরংপুর ও পাবনা জেলোর ধান উৎপাদনের সম্মিলিত গড় কত?",
+        "solution": "৭৬.৪২",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392402,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392402,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:58.000000Z",
+            "updated_at": "2025-08-19T05:06:58.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392387,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{n+1}{2}[/math]",
+          "খ": "[math]\\frac{\\mathrm{n}(\\mathrm{n}+1)}{2}[/math]",
+          "গ": "[math]\\frac{\\mathrm{n}^{2}-1}{12}[/math]",
+          "ঘ": "[math]\\frac{\\mathrm{n}^{2}+1}{12}[/math]"
+        },
+        "question": "প্রথম n স্বাভাবিক সংখ্যার ভেদাঙ্ক কত?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392387,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392387,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392386,
+      "value": {
+        "options": {
+          "ক": "পরিসর",
+          "খ": "গড় ব্যবধান",
+          "গ": "পরিমিত ব্যবধান",
+          "ঘ": "বিভেদাংক"
+        },
+        "question": "কোনটি এককমুক্ত পরিমাপক?",
+        "solution": "বিভেদাংক",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392386,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392386,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392388,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "6",
+          "গ": "7",
+          "ঘ": "8"
+        },
+        "question": "5, 7, 2, 0, -1 সংখ্যাগুলির পরিসর কত?",
+        "solution": "8",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392388,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392388,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392389,
+      "value": {
+        "options": {
+          "ক": "1.19%",
+          "খ": "2.38%",
+          "গ": "3.57%",
+          "ঘ": "4.76%"
+        },
+        "question": "২০১৮ সালের নির্বাচনি পরীক্ষায় রনি ও জনির পরিসংখ্যান বিষয়ে প্রাপ্ত নম্বর যথাক্রমে ৮২ এবং ৮৬।\n\nপ্রাপ্ত নম্বরের বিভেদাঙ্ক কত?",
+        "solution": "2.38%",
+        "explanation": "[math]\\mathrm{SD}=\\frac{\\mathrm{R}}{2}=\\frac{4}{2}=2[/math]\u003Cbr\u003E [math]\\bar{x}=\\frac{82+86}{2}=84[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{CV}=\\frac{2}{84} \\times 100=2.38 \\%[/math]\u003Cbr\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392389,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392389,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392390,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "4",
+          "গ": "6",
+          "ঘ": "8"
+        },
+        "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :\n\n2016 সালের এইচএসচি পরীক্ষায় সীমা ও সোমার পরিসংখ্যান বিষয়ে প্রাপ্ত নম্বর যথাক্রমে 86 ও 90।\n\nপ্রাপ্ত নম্বরের গড় ব্যবধান কত ?",
+        "solution": "2",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392390,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392390,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392391,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৪",
+          "গ": "৬",
+          "ঘ": "৮"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:\n\n২০১৮ সালের নির্বাচনি পরীক্ষায় রনি ও জনির পরিসংখ্যান বিষয়ের প্রাপ্ত নম্বর যথাক্রমে ৮২ ও ৮৬ ।\nপ্রাপ্ত নম্বর গড় ব্যবধান কত?",
+        "solution": "৪",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392391,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392391,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392392,
+      "value": {
+        "options": {
+          "ক": "১.১৯%",
+          "খ": "২.৩৮%",
+          "গ": "৩.৫৭%",
+          "ঘ": "৪.৭৬%"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:\n\n২০১৮ সালের নির্বাচনি পরীক্ষায় রনি ও জনির পরিসংখ্যান বিষয়ের প্রাপ্ত নম্বর যথাক্রমে ৮২ ও ৮৬ ।\n\nপ্রাপ্ত নম্বরের বিভেদাঙ্ক কত?",
+        "solution": "২.৩৮%",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392392,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392392,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392393,
+      "value": {
+        "options": {
+          "ক": "-6",
+          "খ": "3",
+          "গ": "6",
+          "ঘ": "9"
+        },
+        "question": "দুটি অসম সংখ্যার গড় ব্যবধান 3 হলে, পরিসর কত?",
+        "solution": "6",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392393,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392393,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392394,
+      "value": {
+        "options": {
+          "ক": "গড় ব্যবধান",
+          "খ": "চতুর্থক ব্যবধান",
+          "গ": "ভেদাঙ্ক",
+          "ঘ": "বিভেদাঙ্ক"
+        },
+        "question": "ভিন্ন একক বিশিষ্ট দুটি তথ্যসারির তুলনা করতে নিচের কোন বিস্তার পরিমাপটি ব্যবহৃত হয়?",
+        "solution": "বিভেদাঙ্ক",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392394,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392394,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392395,
+      "value": {
+        "options": {
+          "ক": "পরিসর",
+          "খ": "গড় ব্যবধান",
+          "গ": "পরিমিত ব্যবধান",
+          "ঘ": "বিভেদাঙ্ক"
+        },
+        "question": "বিস্তারের আপেক্ষিক পরিমাপ কোনটি?",
+        "solution": "বিভেদাঙ্ক",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392395,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392395,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392396,
+      "value": {
+        "options": {
+          "ক": "1.5",
+          "খ": "6.5",
+          "গ": "16.67",
+          "ঘ": "150"
+        },
+        "question": "একটি নিবেশনের গড় ও বিভেদাঙ্ক যথাক্রমে 5.3 30% হলে পরিমিত ব্যবধান কত?",
+        "solution": "1.5",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392396,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392396,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392397,
+      "value": {
+        "options": {
+          "ক": "পরিসর",
+          "খ": "বিভেদাঙ্ক",
+          "গ": "চতুর্থক ব্যবধান",
+          "ঘ": "গড় ব্যবধান"
+        },
+        "question": "কোনটি আপেক্ষিক বিস্তার পরিমাপ?",
+        "solution": "বিভেদাঙ্ক",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392397,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392397,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392398,
+      "value": {
+        "options": {
+          "ক": "ভেদাংক",
+          "খ": "বিভেদাঙ্ক",
+          "গ": "চতুর্থক ব্যবধান",
+          "ঘ": "গড় ব্যবধান"
+        },
+        "question": "ভিন্ন একক বিশিষ্ট দুটি তথ্যসারির তুলনা করতে নিচের কোন বিস্তার পরিমাপটি ব্যাবহৃত হয়?",
+        "solution": "বিভেদাঙ্ক",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392398,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392398,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392399,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বিস্তার পরিমাপের ক্ষেত্রে -\n\ni. ভেদাঙ্ক একটি ধনাত্মক সংখ্যা\n\nii. পরিসর কখনো ধণাত্মক হতে পারে না\n\niii. বিভেদাঙ্ক একটি এককমুক্ত সংখ্যা\n\nনিচের কোনটি সঠিক?",
+        "solution": "i, ii ও iii",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392399,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392399,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392400,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৪",
+          "গ": "৬",
+          "ঘ": "৮"
+        },
+        "question": "নিচের উদ্দীপকটি আলোকে প্রশ্নের উত্তর দাও:\n\n২০১৬ সালের এইসএসসি পরীক্ষায় সীমা ও সোমার পরিসংখ্যান বিষয়ের প্রাপ্ত নম্বর যথাক্রমে ৮৬ ও ৯০ ।\n\nপ্রাপ্ত নম্বরের গড় ব্যবধান কত?",
+        "solution": "২",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392400,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392400,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392401,
+      "value": {
+        "options": {
+          "ক": "৫.২৭%",
+          "খ": "৪.২৭%",
+          "গ": "৩.২৭%",
+          "ঘ": "২.৩৮%"
+        },
+        "question": "2018 সালের নির্বাচনি পরীক্ষায় রনি ও জনির পরিসংখ্যান বিষয়ে প্রাপ্ত নম্বর যথাক্রমে ৪২ এবং ৪6।\n\nপ্রাপ্ত নম্বরের বিভেদাঙ্ক কত?",
+        "solution": "২.৩৮%",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 223,
+      "book_grade_id": 1,
+      "content_chunk_id": 4136,
+      "created_at": "2025-08-19T05:06:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392401,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 223,
+        "title": "পরিসংখ্যান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392401,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:06:57.000000Z",
+            "updated_at": "2025-08-19T05:06:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4136&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4136&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4136&grade=1&per_page=2000&question_paper_id=48472&subject=223&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 34,
+  "total": 34
+}

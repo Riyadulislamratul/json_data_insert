@@ -1,0 +1,2562 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 392772,
+      "value": {
+        "options": {
+          "ক": "দ্বিপদী পরীক্ষা কী?",
+          "খ": "দ্বিপদী বিন্যাসের ক্ষেত্রে np \u003E npq হবার কারণ ব্যাখ্যা কর।",
+          "গ": "বড় জোড় 1 টি ত্রুটিপূর্ণ বাঘ থাকার সম্ভাবনা নির্ণয় কর।",
+          "ঘ": "বিন্যাসটির বঙ্কিমতা ও সূঁচলতা নির্ণয় করে মন্তব্য কর।"
+        },
+        "question": "একটি কোম্পানির উৎপাদিত এলইডি বাঘের ১৫% ত্রুটিপূর্ণ। ১০টির প্যাকেটে সরবরাহ করা হল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে দৈব পরীক্ষায় চেষ্টার সংখ্যা সসীম অর্থাৎ 30 এর কম, চেষ্টাগুলো পরস্পর স্বাধীন, প্রতিবার চেষ্টায় সফলতা ও বিফলতার সম্ভাবনা সমান থাকে এবং সম্ভাবনাদ্বয়ের সমষ্টি এক (1) হয়, তবে সেই দৈব পরীক্ষাকে দ্বিপদী পরীক্ষা বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদ্বিপদী বিন্যাসের গড়, ভেদাঙ্ক অপেক্ষা বড়। কারণ, দ্বিপদী বিন্যাসের পরামিতি n ও p হলে,গড়, E(x) = np এবং ভেদাঙ্ক, V(x) = npqএখন, [math]E(x)-V(x)=n p-n p q=n p(1-q)=n p \\cdot p[/math]\u003Cbr\u003Eবা, [math]E(x)-V(x)=n p^{2}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{E}(\\mathrm{x})=\\mathrm{V}(\\mathrm{x})+\\mathrm{np} \\mathrm{p}^{2}[/math]\u003Cbr\u003Eযেহেতু, [math]\\mathrm{n}\u003E0, \\mathrm{p}\u003E0[/math]\u003Cbr\u003E [math]\\therefore n p^{2}\u003E0[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{E}(\\mathrm{x})\u003E\\mathrm{V}(\\mathrm{x})[/math]\u003Cbr\u003Eঅর্থাৎ গড় \u003E ভেদাঙ্ক । সুতরাং দ্বিপদী বিন্যাসের গড়, ভেদাঙ্ক অপেক্ষা বড় ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, বাল্ব ত্রুটিপূর্ণ হওয়ার সম্ভাবনা, [math]p=15 \\%=0.15[/math]\u003Cbr\u003Eবাঘ ত্রুটিপূর্ণ না হওয়ার সম্ভাবনা, , q = 1 - p =1 - 0.15 = 0.85প্রতি প্যাকেটে বাঘের সংখ্যা, n = 10ধরি, x = নষ্ট বাল্বের সংখ্যা∴ বড়জোড় 1টি ত্রুটিপূর্ণ বাঘ থাকার সম্ভাবনা [math]q=1-p=1-0.15=0.85[/math]\u003Cbr\u003Eপ্রতি প্যাকেটে বাঘের সংখ্যা, n = 10বড়জোড় 1টি ত্রুটিপূর্ণ বাঘ থাকার সম্ভাবনা= p(x ≤ 1)= p(x=0)+p(x=1)[math]={ }^{10} \\mathrm{C}_{d}(0.15)^{\\circ}(0.85)^{10-10}+{ }^{10} \\mathrm{C}_{1}(0.15)^{1}(0.85)^{10-1}[/math]\u003Cbr\u003E [math]=(0.85)^{10}+10 \\times 0.15 \\times(0.85)^{9}[/math]\u003Cbr\u003E [math]=0.196870 .34743[/math]\u003Cbr\u003E [math]=0.5443[/math]\u003Cbr\u003E (প্রায়) (Ans. )[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eযেহেতু সফলতার সম্ভাবনা, p = 0.15 খুব ছোট নয় এবং প্যাকেটের সংখ্যা, n = 10 যা অনেক ছোট নয়। সুতরাং নষ্ট কলমের সংখ্যার চলক দ্বিপদী বিন্যাস মেনে চলে।এখানে, [math]q=1-0.15=0.85[/math]\u003Cbr\u003E∴ দ্বিপদী বিন্যাসের বঙ্কিমতা, [math]\\gamma_{1}=\\frac{q-p}{\\sqrt{n p q}}[/math]\u003Cbr\u003E [math]\\frac{0.85-0.15}{\\sqrt{10 \\times 0.15 \\times 085}}[/math]\u003Cbr\u003E [math]=\\frac{0.7}{1.12916}[/math]\u003Cbr\u003E [math]=0.6199[/math]\u003Cbr\u003Eযেহেতু, [math]\\gamma_{1}\u003E0[/math]\u003Cbr\u003E সুতরাং বিন্যাসটি ধনাত্মক বঙ্কিম । আবার, দ্বিপদী বিন্যাসের সূচলতা,[math]\\beta_{2}=3+\\frac{1-6 p q}{n p q}[/math]\u003Cbr\u003E [math]=3+\\frac{1-6 \\times 0.15 \\times 0.85}{10 \\times 0.15 \\times 0.85}[/math]\u003Cbr\u003E [math]=3+\\frac{0.235}{1.275}=3.1843[/math]\u003Cbr\u003Eযেহেতু, [math]\\beta_{2}\u003E3[/math]\u003Cbr\u003E, সুতরাং বিন্যাসটি অতি সূচল ।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দ্বিপদী পরীক্ষা হলো এমন একটি প্রক্রিয়া যেখানে নির্দিষ্ট সংখ্যক [math]n[/math] স্বাধীন প্রচেষ্টা আছে, প্রত্যেককেই দুইটি ফল (সফলতা/ব্যর্থতা) থাকতে পারে এবং প্রতিটি প্রচেষ্টায় সফলতার সম্ভাব্যতা স্থির [math]p[/math]; ফল হলো সফলতার সংখ্যা।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বিন্যাসে [math]np[/math] হলো গড় (mean) এবং [math]npq[/math] ([math]q=1-p[/math]) হলো বৈচল্য (variance)। সাধারণত নরমাল নিকটতা ব্যবহার করার জন্য [math]np[/math] ও [math]nq[/math] যথেষ্ট বড় (সাধারণত ≳5) হওয়া চাই, যাতে বন্টন পর্যাপ্তভাবে সমতল ও সিমেট্রিক হয়ে ওঠে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E একটি প্যাকেটে ঠিক ১টি ত্রুটিপূর্ণ বাল্বের সম্ভাব্যতা\n[math]P(X=1)=\\binom{10}{1}(0.15)^1(0.85)^9=10\\times0.15\\times0.85^9\\approx0.3474.[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বিন্যাসের বঙ্কিমতা (skewness) এবং সূঁচলতা (kurtosis): skewness = [math]\\dfrac{q-p}{\\sqrt{npq}}=\\dfrac{0.85-0.15}{\\sqrt{10\\times0.15\\times0.85}}\\approx0.62[/math], তাই বন্টন ডানদিকে ঝুঁকে আছে; excess kurtosis = [math]\\dfrac{1-6pq}{npq}\\approx0.18[/math], সুতরাং মোট কুরটোসিস ≈ [math]3.18[/math], অর্থাৎ সামান্য বেশি শিখরাকার (slightly leptokurtic)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392772,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392772,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392772,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392772,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392772,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392772,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392772,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392772,
+            "tag_id": 3179,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392772,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392772,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392771,
+      "value": {
+        "options": {
+          "ক": "দ্বিপদী বিন্যাস কী?",
+          "খ": "দ্বিপদী বিন্যাসের গড় ঋণাত্মক হতে পারে কি? ব্যাখ্যা কর।",
+          "গ": "গড় ও ভেদাঙ্ক নির্ণয় কর।",
+          "ঘ": "তথ্য সংগ্রহকারীর বক্তব্যের সত্যতা যাচাই কর।"
+        },
+        "question": "খুলনা সিটিতে নতুন জন্ম নেয়া সন্তানের ছেলে হওয়ার সম্ভাবনা 0.5। তথ্য সংগ্রহকারীর মতে সদ্য জন্ম নেয়া 6টি সন্তানের মধ্যে কমপক্ষে 2টি ছেলে হবার সম্ভাবনা 50% ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো একটি দৈব পরীক্ষণে যদি প্রতিটি চেষ্টায় দুইটি সম্ভাব্য ফলাফল থাকে এবং পরীক্ষণটি n সংখ্যক বার স্বাধীনভাবে পুনরাবৃত্তি করা হয়, যেখানে সফলতা (বা বিফলতা)-র সম্ভাবনা প্রতিক্ষেত্রেই সমান, তবে ঐ পরীক্ষা হতে প্রাপ্ত ফলাফলের বিন্যাসকে দ্বিপদী বিন্যাস বলা হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eমনে করি, x একটি দ্বিপদী চলক যার পরামিতি n (চেষ্টার সংখ্যা ) এবং p (সফলতার সম্ভাবনা) আমরা জানি, দ্বিপদী বিন্যাসের গড়, E(x) = npযেহেতু চেষ্টার সংখ্যা, n ≥ 22 এবং সফলতার সম্ভাবনা, p \u003E 0∴ দ্বিপদী বিন্যাসের গড়, E(x) = np \u003E 0অতএব, নিঃসন্দেহে বলা যায় যে, দ্বিপদী বিন্যাসের গড় ঋণাত্মক হতে পারে না।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকে ছেলে সন্তানের সংখ্যার চলক, x দ্বিপদী বিন্যাস মেনে চলে।এখানে, সন্তান ছেলে হওয়ার সম্ভাবনা, p = 0.5∴ সন্তান ছেলে না হওয়ার সম্ভাবনা, q 1-p=1-0.5 = 0.5 এবং n = 6আমরা জানি, গড় = np = 6 × 0.5 = 3 (Ans.)এবং ভেদাঙ্ক = npq = 6 x 0.5 x 0.5 = 1.5 (Ans.)[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, p = 0.5, 4 = 0.5 এবং n = 6 ছেলে সন্তানের সংখ্যার চলক x হলে, x এর সম্ভাবনা ফাংশন, [math]P(x)={ }^{n} c_{x} p^{x} q^{n-x} ; x=0,1, \\ldots \\ldots, 6[/math]\u003Cbr\u003E∴ কমপক্ষে 2টি ছেলে হওয়ার সম্ভাবনা[math]=P(x \\geq 2)[/math]\u003Cbr\u003E [math]=1-P(x\u003C2)[/math]\u003Cbr\u003E [math]=1-P(x=0)-P(x=1)[/math]\u003Cbr\u003E [math]=1-{ }^{6} c_{0}(0.5)^{0}(0.5)^{6-0}-{ }^{6} c_{1}(0.5)^{1}(0.5)^{6-1}[/math]\u003Cbr\u003E [math]=1-0.015625-0.09375[/math]\u003Cbr\u003E [math]=0.890625[/math]\u003Cbr\u003Eঅর্থাৎ 6টি সন্তানের মধ্যে কমপক্ষে 2টি ছেলে হওয়ার সম্ভাবনা শতকরা = 0.890625 x 100% - 89.0625%সুতরাং তথ্য সংগ্রহকারীর বক্তব্যটি সঠিক নয়।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E এখানে সন্তানের সংখ্যা গণনা করা হচ্ছে যেখানে প্রতিটি জন্ম স্বাধীন এবং ছেলে হওয়ার সম্ভাবনা ধ্রুব [math]p=0.5[/math]; তাই সংখ্যাটি একটি দ্বিপদী ভেরিয়েবল: [math]X\\sim\\mathrm{Bin}(6,0.5)[/math] (n=6, p=0.5)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দ্বিপদী বিন্যাসের গড় কখনই ঋণাত্মক হতে পারে না, কারণ গড়ের সূত্র [math]\\mu=np[/math] যেখানে [math]n\\ge0[/math] এবং [math]0\\le p\\le1[/math]—এগুলো নেগেটিভ নয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গড় ও ভেদাঙ্ক: গড় [math]\\mu=np=6\\times0.5=3[/math]; ভ্যারিয়েন্স [math]\\sigma^2=np(1-p)=6\\times0.5\\times0.5=1.5\\;(=3/2)[/math] (স্ট্যান্ডার্ড ডিভিয়েশন ≈ [math]\\sqrt{1.5}\\approx1.225[/math])।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দাবীর যাচাই: [math]P(X\\ge2)=1-P(X=0)-P(X=1)=1-\\frac{1}{64}-\\frac{6}{64}=\\frac{57}{64}\\approx0.8906[/math]। তাই 50% নয়—বাস্তবে সম্ভাবনা ≈ 89.06%, তাই তথ্য সংগ্রাহকের বক্তব্য ভুল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392771,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392771,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392771,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392771,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392771,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392771,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392771,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392771,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392771,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392771,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392771,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 392771,
+            "tag_id": 3,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392771,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392771,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392770,
+      "value": {
+        "options": {
+          "ক": "দ্বিপদী চলক কী?",
+          "খ": "দ্বিপদী বিন্যাসের গড় ও ভেদাঙ্কের সম্পর্ক ব্যাখ্যা কর।",
+          "গ": "পরবর্তী 30 বছর পর্যন্ত কমপক্ষে 3 জন বেঁচে থাকার সম্ভাবনা কত? ঘ, বিক্রয় প্রতিনিধির উক্তিটি যথার্থ কিনা মন্তব্য কর ।"
+        },
+        "question": "একটি বিমা কোম্পানির একজন জীবন বিমা পলিসি বিক্রয় প্রতিনিধি একই বয়সের সুস্বাস্থ্যবান 5 জন লোকের নিকট জীবন বিমা পলিসি বিক্রয় করে। জীবন সারণি অনুসারে উক্ত বয়সের একজন 2 লোকের পরবর্তী 30 বছর বেঁচে থাকার সম্ভাবনা [math]\\frac{2}{3}[/math]। বিক্রয় প্রতিনিধি বললেন যে, পরবর্তীতে 30 বছর পর্যন্ত 5 জনই বেঁচে থাকার সম্ভাবনা 13% 1",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদ্বিপদী পরীক্ষণের ফলাফল নির্দেশকারী চলকই দ্বিপদী চলক ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদ্বিপদী বিন্যাসের গড়, ভেদাঙ্ক অপেক্ষা বড়। কারণ, দ্বিপদী বিন্যাসের পরামিতি n ওp হলে,গড়, [math]E(x)=n p[/math]\u003Cbr\u003E এবং ভেদাঙ্ক, [math]V(x)=n p q[/math]\u003Cbr\u003Eএখন, [math]E(x)-V(x)=n p-n p q=n p(1-q)=n p \\cdot p[/math]\u003Cbr\u003Eবা, [math]E(x)-V(x)=n p^{2}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{E}(\\mathrm{x})=\\mathrm{V}(\\mathrm{x})+\\mathrm{n} \\mathrm{p}^{2}[/math]\u003Cbr\u003Eযেহেতু, [math]\\mathrm{n}\u003E0, \\mathrm{p}\u003E0[/math]\u003Cbr\u003E [math]\\therefore n p^{2}\u003E0[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{E}(\\mathrm{x})\u003E\\mathrm{V}(\\mathrm{x})[/math]\u003Cbr\u003Eঅর্থাৎ গড় \u003E ভেদাঙ্ক।সুতরাং দ্বিপদী বিন্যাসের গড়, ভেদাঙ্ক অপেক্ষা বড় ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, একজন লোকের পরবর্তী 30 বছর বেঁচে থাকার ঘটনা সফলতা নির্দেশ করে।∴ সফলতার সম্ভাবনা, [math]\\mathrm{p}=\\frac{2}{3}[/math]\u003Cbr\u003E [math]q=1-p=1-\\frac{2}{3}=\\frac{1}{3}[/math]\u003Cbr\u003E এবং [math]n=5[/math]\u003Cbr\u003Eধরি, চলক x হলে পরবর্তী 30 বছর বেঁচে থাকবে এরূপ লোকের সংখ্যা। তাহলে চলক x দ্বিপদী চলক হবে যার সম্ভাবনা অপেক্ষক,[math]P(x)={ }^{n} c_{x} p^{x} q^{n-x} ; x=0,1,2, \\ldots . n[/math]\u003Cbr\u003E [math]\\Rightarrow p(x)={ }^{5} c_{x}\\left(\\frac{2}{3}\\right)^{x}\\left(\\frac{1}{3}\\right)^{5-x} ; x=0,1,2, \\ldots \\ldots ., 5[/math]\u003Cbr\u003E∴ পরবর্তী 30 বছর পর্যন্ত কমপক্ষে 3 জন বেঁচে থাকার সম্ভাবনা[math]=p(x \\geq 3)[/math]\u003Cbr\u003E [math]=1-p(x\u003C3)[/math]\u003Cbr\u003E [math]=1-p(0)-p(1)-p(2)[/math]\u003Cbr\u003E [math]=1-{ }^{5} c_{0}\\left(\\frac{2}{3}\\right)^{0}\\left(\\frac{1}{3}\\right)^{5-0}-{ }^{5} c_{1}\\left(\\frac{2}{3}\\right)^{1}\\left(\\frac{1}{3}\\right)^{5-1}-{ }^{5} c_{2}\\left(\\frac{2}{3}\\right)^{2}\\left(\\frac{1}{3}\\right)^{5-2}[/math]\u003Cbr\u003E [math]=1-0.00412-0.04115-0.16461[/math]\u003Cbr\u003E [math]=1-0.20988[/math]\u003Cbr\u003E [math]=0.79012 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখান, [math]p=\\frac{2}{3}, q=1-p=1-\\frac{2}{3}=\\frac{1}{3}[/math]\u003Cbr\u003E এবং [math]n=5[/math]\u003Cbr\u003E∴ সম্ভাবনা অপেক্ষক,[math]\\mathrm{p}(\\mathrm{x})={ }^{5} \\mathrm{c}_{\\mathrm{x}}\\left(\\frac{2}{3}\\right)^{\\mathrm{x}}\\left(\\frac{2}{3}\\right)^{\\mathrm{n}-\\mathrm{x}} ; \\mathrm{x}=0,1,2, \\ldots \\mathrm{n}[/math]\u003Cbr\u003Eএখন, পরবর্তী 30 বছর পর্যন্ত 5 জনই বেঁচে থাকার সম্ভাবনা[math]=p(x=5)[/math]\u003Cbr\u003E [math]={ }^{5} c_{5}\\left(\\frac{2}{3}\\right)^{5}\\left(\\frac{1}{3}\\right)^{5-5}[/math]\u003Cbr\u003E [math]=0.1317[/math]\u003Cbr\u003Eসুতরাং পরবর্তী 30 বছর পর্যন্ত ১ জনই বেঁচে থাকার সম্ভাবনা, [math]0.1317[/math]\u003Cbr\u003E বা, [math]13.17 \\%[/math]\u003Cbr\u003Eঅর্থাৎ বিক্রয় প্রতিনিধির উক্তিটি যথার্থ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দ্বিপদী চলক হল এমন একটি সমষ্টি যা নির্দিষ্ট সংখ্যক স্বাধীন পরীক্ষা (n)–তে প্রতিটি পরীক্ষায় সফল হওয়ার স্থির সম্ভাবনা (p) নিয়ে সফলতার সংখ্যা গণনা করে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দ্বিপদী বিন্যাসের গড় ও ভেদাঙ্কের সম্পর্ক: গড় [math]\\mu = np[/math] এবং ভ্যারিয়্যান্স [math]\\sigma^2 = np(1-p)[math], যেখানে [math]n[/math] পরীক্ষা সংখ্যা ও [math]p[/math] সফলতার সম্ভাবনা।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কমপক্ষে 3 জন বেঁচে থাকার সম্ভাব্যতা হল [math]P(X\\ge3)=\\sum_{k=3}^5 {5\\choose k}(2/3)^k(1/3)^{5-k}[/math], যা গণনায় হয় [math]\\frac{80+80+32}{243}=\\frac{192}{243}=\\frac{64}{81}\\approx0.7901[/math] (≈79.01%)।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পাঁচজনই বেঁচে থাকার সম্ভাবনা [math](2/3)^5=\\frac{32}{243}\\approx0.1317[/math] অর্থাৎ ≈13.17%, তাই বিক্রয় প্রতিনিধির উক্তি প্রায় সঠিক (13% হিসেবে গ্রহণযোগ্য)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392770,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392770,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392770,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392770,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392770,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392770,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392770,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392770,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392770,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392770,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392770,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 392770,
+            "tag_id": 3,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392770,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392770,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392769,
+      "value": {
+        "options": {
+          "ক": "দ্বিপদী বিন্যাস কাকে বলে?",
+          "খ": "দ্বিপদী বিন্যাসের গড় ভেদাঙ্ক অপেক্ষা বড় - ব্যাখ্যা কর।",
+          "গ": "পরামিতি নির্ণয় কর।",
+          "ঘ": "নীলার মন্তব্য মূল্যায়ন কর।"
+        },
+        "question": "একটি দ্বিপদী চলকের গড় 20 এবং ভেদাঙ্ক 4। নীলা মন্তব্য করল বিন্যাসটি ধনাত্মক বঙ্কিম কিন্তু অনতি সূঁচাল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদ্বিপদী চলক ও এর প্রত্যেকটি মানের সংশ্লিষ্ট সম্ভাবনাসমূহ তালিকায় বা সারণির মাধ্যমে উপস্থাপন করলে যে বিন্যাস পাওয়া যায় তাকে দ্বিপদী বিন্যাস বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদ্বিপদী বিন্যাসের গড় ভেদাঙ্ক অপেক্ষা বড় হয়।ব্যাখ্যা: দ্বিপদী বিন্যাসের পরামিতি n ও p হলে, দ্বিপদী বিন্যাসের গড়, [math]E(x) = np[/math]\u003Cbr\u003Eএবং ভেদাঙ্ক, [math]\\mathrm{V}(\\mathrm{x})=\\mathrm{E}(\\mathrm{x})^{2}-\\{\\mathrm{E}(\\mathrm{x})\\}^{2}[/math]\u003Cbr\u003E [math]= npq[/math]\u003Cbr\u003Eযেহেতু ভেদাঙ্ক, [math]V(x) = npq[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=[/math]\u003Cbr\u003E np (1 - p) [ ∴ p + q =1][math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=n p-n p^{2}[/math]\u003Cbr\u003E∴ [math]V(x)=E(x)-n p^{2}[\\because E(x)=n p][/math]\u003Cbr\u003Eযেহেতু n এবং p উভয়ই ধনাত্মক সংখ্যা, সেহেতু [math]n p^{2}[/math]\u003Cbr\u003E অবশ্যই ধনাত্মক সংখ্যা।∴ [math]V(x) = E(x) –[/math]\u003Cbr\u003E একটি ধনাত্মক সংখ্যা∴ [math]y(x)সুতরাং, দ্বিপদী বিন্যাসের গড় ভেদাঙ্ক অপেক্ষা বড়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, দ্বিপদী বিন্যাসের গড়, [math]np = 20[/math]\u003Cbr\u003E [math]..........(i)[/math]\u003Cbr\u003Eএবং দ্বিপদী বিন্যাসের ভেদাঙ্ক, [math]npq = 4[/math]\u003Cbr\u003E [math]..........(ii)[/math]\u003Cbr\u003Eএখানে, [math]npq = 4[/math]\u003Cbr\u003Eবা, [math]20 q=4[\\because n p=20][/math]\u003Cbr\u003Eবা, [math]q=\\frac{4}{20}[/math]\u003Cbr\u003E∴ [math]q=0.2[/math]\u003Cbr\u003Eআমরা জানি,[math]p+q=1[/math]\u003Cbr\u003Eবা, [math]p=1-q=1-0.2 -0.8[/math]\u003Cbr\u003E(i) নং সমীক্রণে p এর মান বসিয়ে পাই,[math]~~~~~[/math]\u003Cbr\u003E [math]np=20[/math]\u003Cbr\u003Eবা, [math]n×0.8=20[/math]\u003Cbr\u003Eবা, [math]\\mathrm{n}=\\frac{20}{0.8}[/math]\u003Cbr\u003E∴ [math]n=25[/math]\u003Cbr\u003Eসুতরাং, পরামিতিদ্বয় যথাক্রমে, [math]n = 25[/math]\u003Cbr\u003Eএবং [math]p = 0.8.[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, [math]n = 25, p = 0.8[/math]\u003Cbr\u003E এবং [math]q = 0.2[/math]\u003Cbr\u003Eএখানে, যেহেতু [math]n = 25 \u003C 30[/math]\u003Cbr\u003E এবং [math]p = 0.8 \u003E 0.1[/math]\u003Cbr\u003E। সুতরাং, প্রদত্ত বিন্যাসটি দ্বিপদী বিন্যাসকে মেনে চলে।আমরা জানি,দ্বিপদী বিন্যাসের বঙ্কিমতাঙ্ক, [math]\\sqrt{\\beta_{1}}=\\frac{q-p}{\\sqrt{n p q}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{0.2-0.8}{\\sqrt{25 \\times 0.8 \\times 0.2}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{-0.6}{\\sqrt{4}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{-0.6}{2}=-0.3[/math]\u003Cbr\u003Eযেহেতু [math]\\sqrt{\\beta_{1}}\u003C0[/math]\u003Cbr\u003E। সুতরাং প্রদত্ত বিন্যাসটি ঋণাত্মক বঙ্কিম।দ্বিপদী বিন্যাসের সূঁচালতাঙ্ক, [math]\\beta_{2}=3+\\frac{1-6 p q}{n p q}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=3+\\frac{1-6 \\times 0.8 \\times 0.2}{25 \\times 0.8 \\times 0.2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=3+\\frac{1-0.96}{4}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=3+\\frac{0.04}{4}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=3+0.044[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=3.044[/math]\u003Cbr\u003Eযেহেতু [math]\\beta_{2}\u003E3[/math]\u003Cbr\u003E। সুতরাং, প্রদত্ত বিন্যাসটি অতি সূঁচালো। সুতরাং, উদ্দীপকের প্রদত্ত বিন্যাসটি ঋণাত্মক বঙ্কিম এবং অতি সূঁচালো। অতএব, নীলার মন্তব্য সঠিক ছিল না।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দ্বিপদী বিন্যাস হল একইরকম, স্বাধীন [math]n[/math]টি বার্ষিক পরীক্ষায় সফলতার সংখ্যা যেখানে প্রতিটি পরীক্ষার সফলতার সম্ভাব্যতা [math]p[/math] স্থায়ী থাকে। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E গড় [math]\\mu=np[/math] এবং ভেদাঙ্ক [math]\\sigma^2=np(1-p)=[1-p]\\cdot np[/math]; যেহেতু [math]0\u003Cp\u003C1[/math] হলে [math]1-p\u003C1[/math], তাই সাধারণত ভেদাঙ্ক গড়ের চেয়ে ছোট হয় (সম্পূর্ণ সমতুল্য হয় না, শুধুমাত্র আদর্শ কেসে) । \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দেওয়া: [math]np=20[/math] এবং [math]np(1-p)=4[/math]. ভাগ করলে [math]1-p=4/20=1/5[/math] ফলে [math]p=4/5=0.8[/math] এবং [math]n=20/0.8=25[/math]। তাই [math]n=25,\\;p=0.8[/math]। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E নীলার মন্তব্য ভুল: বক্রতার মান [math]\\gamma=\\dfrac{1-2p}{\\sqrt{np(1-p)}}[/math] এ ক্ষেত্রে [math]\\gamma=(1-1.6)/\\sqrt{20\\cdot0.2}=-0.6/2=-0.3[/math], অর্থাৎ distributionটি সামান্য বামমুখী (negative skew), ধনাত্মক নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392769,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392769,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392769,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392769,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392769,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392769,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392769,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392769,
+            "tag_id": 6,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392768,
+      "value": {
+        "options": {
+          "ক": "দ্বিপদী চলক বলতে কী বুঝ?",
+          "খ": "দ্বিপদী বিন্যাসের গড় ঋণাত্মক- ব্যাখ্যা কর।",
+          "গ": "[math]P(x = 0)[/math] নির্ণয় কর।",
+          "ঘ": "বঙ্কিমতাঙ্ক নির্ণয়পূর্বক বিন্যাসটির প্রকৃতি সম্পর্কে মতামত দাও।"
+        },
+        "question": "একটি কোম্পানির উৎপাদিত পণ্যের 25% খারাপ। দ্রব্যগুলো 10 টির প্যাকেটে বাজারজাত করা হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো বিচ্ছিন্ন দৈব চলক x কে দ্বিপদী চলক বলা হবে যদি উহার সম্ভাবনা ফাংশন, [math]P(x)={ }^{n} C_{x} p^{x} q^{n-x}[/math]\u003Cbr\u003E; [math]x=0,1,2, \\ldots \\ldots \\ldots, n[/math]\u003Cbr\u003E হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদ্বিপদী বিন্যাসের গড় ঋণাত্মক- উক্তিটি সঠিক নয়।ব্যাখ্যা: আমরা জানি, দ্বিপদী বিন্যাসের গড়, [math]E(x) = np[/math]\u003Cbr\u003Eযেহেতু, চেষ্টার সংখ্যা, [math]n \u003E 1[/math]\u003Cbr\u003Eএবং সফলতার সম্ভাবনা, [math]p\u003E0[/math]\u003Cbr\u003E∴ দ্বিপদী বিন্যাসের গড়, [math]E(x) = np \u003E 0[/math]\u003Cbr\u003Eঅতএব, নিঃসন্দেহে বলা যায় যে, দ্বিপদী বিন্যাসের গড় ঋণাত্মক হতে পারে না।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, খারাপ পণ্যের সংখ্যার ঘটনা সফলতা।∴ সফলতার সম্ভাবনা, [math]\\mathrm{p}=25 \\%=\\frac{25}{100}=0.25[/math]\u003Cbr\u003E [math]~~~~[/math]\u003Cbr\u003Eএবং বিফলতার সম্ভাবনা, [math]q=1-p[/math]\u003Cbr\u003E [math]=1-0.25=0.75[/math]\u003Cbr\u003Eএখানে, চেষ্টার সংখ্যা, n = 10ধরি, খারাপ পণ্যের সংখ্যা নির্দেশক চলক = xসুতরাং, x চলকের সম্ভাবনা ফাংশনটি হবে নিম্নরূপ:[math]P(x)={ }^{n} C_{x} p^{x^{}} q^{n-x}[/math]\u003Cbr\u003E; [math]x=0,1,2, \\ldots \\ldots \\ldots \\ldots, n[/math]\u003Cbr\u003E [math]~~~~~~~~~~[/math]\u003Cbr\u003E [math]={ }^{10} C_{\\mathrm{x}}(0.25)^{\\mathrm{x}}(0.75)^{10-\\mathrm{x}}[/math]\u003Cbr\u003E; [math]x=0,1,2, \\ldots \\ldots \\ldots, 10[/math]\u003Cbr\u003E [math]\\therefore \\quad P(x=0)[/math]\u003Cbr\u003E [math]={ }^{10} C_{0}(0.25)^{0}(0.75)^{10-0}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=1 \\times 1 \\times(0.75)^{10}[/math]\u003Cbr\u003E [math]=0.0563[/math]\u003Cbr\u003Eসুতরাং, [math]P(x=0)=0.0563[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eগ' হতে পাই,[math]\\mathrm{n}=10, \\mathrm{p}=0.25[/math]\u003Cbr\u003E [math]q = 0.75[/math]\u003Cbr\u003Eএখানে, যেহেতু [math]n=10\u003C30[/math]\u003Cbr\u003E এবং [math]p=0.25\u003E0[/math]\u003Cbr\u003E সুতরাং, প্রদত্ত বিন্যাসটি দ্বিপদী বিন্যাসকে মেনে চলে।আমরা জানি,দ্বিপদী বিন্যাসের বঙ্কিমতাঙ্ক, [math]\\sqrt{\\beta_{1}}=\\frac{q-p}{\\sqrt{n p q}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{0.75-0.25}{\\sqrt{10 \\times 0.25 \\times 0.75}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{0.50}{\\sqrt{1.875}}=\\frac{0.50}{1.3693}[/math]\u003Cbr\u003E [math]=0.365[/math]\u003Cbr\u003Eমন্তব্য: যেহেতু [math]\\sqrt{\\beta_{1}}\u003E0[/math]\u003Cbr\u003E। সুতরাং, প্রদত্ত বিন্যাসটি ধনাত্মক বঙ্কিম।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দ্বিপদী চলক হল এমন একটি বেগুনি চলক যা নির্দিষ্ট [math]n[/math] বার স্বতন্ত্র বার্নৌলী ট্রায়ালে সফলতা (probability [math]p[/math]) কতবার ঘটবে তা প্রদর্শন করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দ্বিপদী বিন্যাসের গড় ও বৈচিত্র্য হলো [math]\\mu=np[/math] এবং [math]\\sigma^2=np(1-p)[/math]; এখানে [math]n=10,\\,p=0.25[/math] হলে [math]\\mu=10\\times0.25=2[/math] এবং [math]\\sigma^2=10\\times0.25\\times0.75=1.875[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]P(X=0)=(1-p)^{10}=(0.75)^{10}\\approx0.0563[/math], কারণ কোনো প্যাকেটে খারাপ আইটেম না থাকার সম্ভাবনা প্রতিটি বস্তুর জন্য [math](0.75)[/math] এবং 10টি গুণ করা হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বঙ্কিমতাঙ্ক (skewness) হলো [math]\\gamma=\\dfrac{1-2p}{\\sqrt{np(1-p)}}[/math]; এখানে [math]\\gamma=\\dfrac{1-0.5}{\\sqrt{1.875}}\\approx0.365[/math], যা ধনাত্মক মান নির্দেশ করে—বিন্যাসে ডান-দিকে (right) বক্রতা আছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392768,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392768,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392768,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392768,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392768,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392768,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392768,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392768,
+            "tag_id": 6,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392767,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "9",
+          "গ": "12",
+          "ঘ": "24"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে (৪০ ও ৪১ নং প্রশ্নের উত্তর দাও: একটি কম্পিউটার ল্যাপটপ বিক্রয়ের সংখ্যা দ্বিপদী বিন্যাস মেনে চলে যার গড় o এবং পরিমিত ব্যবধান √21\n\nপরামিতি n এর মান কত?",
+        "solution": "9",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392767,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392767,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392766,
+      "value": {
+        "options": {
+          "ক": "ধনাত্মক বঙ্কিম",
+          "খ": "ঋণাত্মক বঙ্কিম",
+          "গ": "মধ্যম সূঁচল",
+          "ঘ": "অতি সূঁচল"
+        },
+        "question": "নিচের তথ্যের আলোকে (১৭ ও ১৮) নং প্রশ্নের উত্তর দাওঃ একটি কম্পিউটার দোকানে ল্যাপটপ বিক্রয়ের সংখ্যা দ্বিপদী বিন্যাস মেনে চলে যার গড় 6 এবং পরিমিত ব্যবধান √2\n\nউদ্দীপকে প্রদত্ত বিন্যাসটি–",
+        "solution": "ঋণাত্মক বঙ্কিম",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392766,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392766,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392765,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "9",
+          "গ": "12",
+          "ঘ": "24"
+        },
+        "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাওঃ\n\nএকটি কম্পিউটার দোকানে ল্যাপটপ বিক্রয়ের সংখ্যা দ্বিপদী বিন্যাস মেনে চলে যার গড় 6 এবং পরিমিত ব্যবধান √2\n\nপরামিতি n এর মান কত?",
+        "solution": "9",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392765,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392765,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392764,
+      "value": {
+        "options": {
+          "ক": "i ও iii",
+          "খ": "i ও ii",
+          "গ": "ii ও iii",
+          "ঘ": "ii"
+        },
+        "question": "দ্বিপদী বিন্যাসের বৈশিষ্ট্য হল-\n\ni. [math]E(x)\u003EV(x)[/math]\n\nii. [math]E(x)=V(x)[/math]\n\niii. [math]E(x)=n p[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও iii",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392764,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392764,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392763,
+      "value": {
+        "options": {
+          "ক": "4",
+          "খ": "3",
+          "গ": "2",
+          "ঘ": "1"
+        },
+        "question": "দ্বিপদী বিন্যাসের পরামিতি কয়টি?",
+        "solution": "2",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392763,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392763,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392762,
+      "value": {
+        "options": {
+          "ক": "অতি সূঁচাল",
+          "খ": "অনতি সূঁচাল",
+          "গ": "অপ্রতিসম",
+          "ঘ": "মধ্যম সূঁচাল"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:\n\nএকটি নিরপেক্ষ মুদ্রা ছয় বার নিক্ষেপ করা হলে উপরের পিঠে প্রাপ্ত মাথা সংখ্যাক দৈব চলক X দ্বারা প্রকাশ করা হলো।\n\nউদ্দীপকে উল্লেখিত চলকটি বিন্যাস মেনে চলে তার গণসংখ্যা রেখার আকৃতি কিরূপ?",
+        "solution": "অনতি সূঁচাল",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392762,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392762,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392761,
+      "value": {
+        "options": {
+          "ক": "0",
+          "খ": "0.125",
+          "গ": "0.375",
+          "ঘ": "1"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:\n\nএকটি নিরপেক্ষ মুদ্রা ছয় বার নিক্ষেপ করা হলে উপরের পিঠে প্রাপ্ত মাথা সংখ্যাক দৈব চলক X দ্বারা প্রকাশ করা হলো।\n\n[math]P(0 \\leq x \\leq 3)[/math] এর মান কত?",
+        "solution": "1",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392761,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392761,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392760,
+      "value": {
+        "options": {
+          "ক": "ধনাত্মক বঙ্কিম ও অতি সূঁচাল",
+          "খ": "ধনাত্মক বঙ্কিম ও অনতি সূঁচাল",
+          "গ": "ধনাত্মক বঙ্কিম ও মধ্যম সূঁচাল",
+          "ঘ": "ঋণাত্মক বঙ্কিম ও অতি সূঁচাল"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:\n\nকোনো দ্বিপদী চলক (N) এর পরামিতিদ্বয় n=4 ও p=0.3পাওয়া গেল।\n\nদ্বিপদী চলকটির আকৃতি ও প্রকৃতি কেমন হবে?",
+        "solution": "ধনাত্মক বঙ্কিম ও অনতি সূঁচাল",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392760,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392760,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392759,
+      "value": {
+        "options": {
+          "ক": "0.84",
+          "খ": "0.92",
+          "গ": "1.20",
+          "ঘ": "4.30"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:\n\nকোনো দ্বিপদী চলক (N) এর পরামিতিদ্বয় n=4 ও p=0.3পাওয়া গেল।\nদ্বিপদী চলকের গড় কত?",
+        "solution": "1.20",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392759,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392759,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392758,
+      "value": {
+        "options": {
+          "ক": "গুণবাচক চলক",
+          "খ": "পৈঁসু চলক",
+          "গ": "দ্বিপদী চলক",
+          "ঘ": "পরিমিত চলক"
+        },
+        "question": "ক্লাশে তূর্য একটি নিরপেক্ষ মুদ্রা ২০ বার নিক্ষেপ করল। মুদ্রার উপরের পিঠে লেজের সংখ্যা নির্দেশকারী চলক কোনোটি?",
+        "solution": "দ্বিপদী চলক",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392758,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392758,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:54.000000Z",
+            "updated_at": "2025-08-19T05:08:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392743,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "4"
+        },
+        "question": "দ্বিপদী পরীক্ষার প্রতিটি চেষ্টার কতটি ফলাফল পাওয়া যায়?",
+        "solution": "2",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392743,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392743,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392757,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "30"
+        },
+        "question": "দ্বিপদী পরীক্ষার সম্ভাব্য কয়টি ফলাফল?",
+        "solution": "2",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392757,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392757,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392756,
+      "value": {
+        "options": {
+          "ক": "গুণবাচক চলক",
+          "খ": "পৈঁসু চলক",
+          "গ": "দ্বিপদী চলক",
+          "ঘ": "পরিমিত চলক"
+        },
+        "question": "ক্লাশে তূর্য একটি নিরপেক্ষ মুদ্রা 20 বার নিক্ষেপ করল। মুদ্রার উপরের পিঠে লেজের সংখ্যা নির্দেশকারী চলক কোনটি?",
+        "solution": "দ্বিপদী চলক",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392756,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392756,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392755,
+      "value": {
+        "options": {
+          "ক": "গুণবাচক চলক",
+          "খ": "পৈঁসু চলক",
+          "গ": "দ্বিপদী চলক",
+          "ঘ": "পরিমিত চলক"
+        },
+        "question": "ক্লাশে তূর্য একটি নিরপেক্ষ মুদ্রা 20 বার নিক্ষেপ করল। মুদ্রার উপরের পিঠে লেজের সংখ্যা নির্দেশকারী চলক কোনটি?",
+        "solution": "দ্বিপদী চলক",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392755,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392755,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392754,
+      "value": {
+        "options": {
+          "ক": "ধনাত্মক বঙ্কিম ও অতি সূঁচল",
+          "খ": "ধনাত্মক বঙ্কিম ও অনতি সূঁচল",
+          "গ": "ঋণাত্মক বঙ্কিম ও অতি সূঁচল",
+          "ঘ": "ঋণাত্মক বঙ্কিম ও অনতি সূঁচল"
+        },
+        "question": "উদ্দীপকের চলকটির আকৃতি-প্রকৃতি কেমন হবে ?",
+        "solution": "ধনাত্মক বঙ্কিম ও অনতি সূঁচল",
+        "explanation": "বঙ্কিমতা [math]\\sqrt{\\beta_{1}}=\\frac{q-p}{\\sqrt{n p q}}=\\frac{0.7-0.3}{\\sqrt{4 \\times 0.3 \\times 0.7}}[/math]\u003Cbr\u003E∴ বঙ্কিম= [math]=\\frac{0.4}{0.9165}=0.4364\u003E0[/math]\u003Cbr\u003E∴ ধনাত্মক বঙ্কিম [math]=\\frac{0.4}{0.9165}=0.4364\u003E0[/math]\u003Cbr\u003E∴ সূঁচলতা [math]\\beta_{2}=3+\\frac{1-6 p q}{n p q}=3+\\frac{1-6 \\times 0.3 \\times 0.7}{4 \\times 0.3 \\times 0.7}=2.6905\u003C3[/math]\u003Cbr\u003E∴ অনতি সূঁচল ।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392754,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392754,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392753,
+      "value": {
+        "options": {
+          "ক": "0.84",
+          "খ": "0.92",
+          "গ": "1.20",
+          "ঘ": "4.30"
+        },
+        "question": "দ্বিপদী চলকের গড় কত ?",
+        "solution": "1.20",
+        "explanation": "দ্বিপদী চলকের গড় [math]=\\mathrm{np}=4 \\times 0.3=1,2[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392753,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392753,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392752,
+      "value": {
+        "options": {
+          "ক": "অতি সূঁচাল",
+          "খ": "অনতি সূঁচাল",
+          "গ": "অপ্রতিসম",
+          "ঘ": "মধ্যম সূঁচাল"
+        },
+        "question": "নিচের উদ্দীপকটি আলোকে প্রশ্নর উত্তর দাও:\n\nএকটি নিরপেক্ষ মুদ্রা তিনবার নিক্ষেপ করা হলে উপরের পিঠে লেজ আসার সংখ্যাকে X চলক দ্বারা প্রকাশ করা হল ।\n\nউদ্দীপকে উল্লিখিত চলকটি যে বিন্যাস মেনে চলে তার গণসংখ্যা রেখার আকৃতি কিরূপ?",
+        "solution": "মধ্যম সূঁচাল",
+        "explanation": "চলকটি দ্বিপদী বিন্যাস মেনে চলে এবং দ্বিপদী বিন্যাসটির p=q সুতরাং বিন্যাসটির আকৃতি মধ্যম সূঁচল ।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392752,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392752,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392751,
+      "value": {
+        "options": {
+          "ক": "0",
+          "খ": "0.125",
+          "গ": "0.375",
+          "ঘ": "1"
+        },
+        "question": "নিচের উদ্দীপকটি আলোকে প্রশ্নর উত্তর দাও:\n\nএকটি নিরপেক্ষ মুদ্রা তিনবার নিক্ষেপ করা হলে উপরের পিঠে লেজ আসার সংখ্যাকে X চলক দ্বারা প্রকাশ করা হল ।\n[math]P(0 \\leq x \\leq 3)[/math] এর মান কত?",
+        "solution": "1",
+        "explanation": "এখানে, নমুনা ক্ষেত্রটি: { HHH HHT, HTH, HTT, THH, THT,TTH, TTT} মোট নমুনা বিন্দুর সংখ্যা =0 হতে 3টি লেজ আসার অনুকূল নমুনা বিন্দুর সংখ্যা = 8[math]\\therefore P(0 \\leq x \\leq 3)=\\frac{8}{8}=1[/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392751,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392751,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392750,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "দ্বিপদী বিন্যাসের ক্ষেত্রে-\n\ni. [math]\\mathrm{p}=\\mathrm{q}[/math]\n\nii. [math]p\u003Eq[/math]\n\niii. [math]p\n\nনিচের কোনটি সঠিক?",
+        "solution": "i, ii ও iii",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392750,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392750,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392749,
+      "value": {
+        "options": {
+          "ক": "npq",
+          "খ": "np",
+          "গ": "[math]\\sqrt{\\mathrm{npq}}[/math]",
+          "ঘ": "pq"
+        },
+        "question": "দ্বিপদী বিন্যাসের দ্বিতীয় কেন্দ্রীয় পরিঘাতের মান কত?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392749,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392749,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392748,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i ii ও iii"
+        },
+        "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :\n\nকোনো একটি দ্বিপদী বিন্যাসের গড় 12 ও ভেদাঙ্ক 6।\n\nদ্বিপদী বিন্যাসটি—\n\ni. সুষম বিন্যাস\n\nii. অতি সূঁচাল\n\niii. অনতি সূঁচাল\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও iii",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392748,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392748,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392747,
+      "value": {
+        "options": {
+          "ক": "18",
+          "খ": "20",
+          "গ": "24",
+          "ঘ": "28"
+        },
+        "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :\n\nকোনো একটি দ্বিপদী বিন্যাসের গড় 12 ও ভেদাঙ্ক 6।\nবিন্যাসটির চেষ্টার সংখ্যা কত?",
+        "solution": "24",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392747,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392747,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392746,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{pq}\u003E0.17[/math]",
+          "খ": "[math]\\mathrm{pq}\u003C0.17[/math]",
+          "গ": "[math]\\mathrm{pq}=0.17[/math]",
+          "ঘ": "[math]\\mathrm{pq}\u003E0.20[/math]"
+        },
+        "question": "দ্বিপদী বিন্যাস কখন অতি সুঁচাল হয়?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392746,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392746,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392745,
+      "value": {
+        "options": {
+          "ক": "পৈঁসু বিন্যাস",
+          "খ": "বার্ণোলী বিন্যাস",
+          "গ": "পরিমিত বিন্যাস",
+          "ঘ": "দ্বিপদী বিন্যাস"
+        },
+        "question": "কোন বিন্যাসের গড় ভেদাঙ্ক অপেক্ষা বড়?",
+        "solution": "দ্বিপদী বিন্যাস",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392745,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392745,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392744,
+      "value": {
+        "options": {
+          "ক": "npq",
+          "খ": "np",
+          "গ": "[math]\\sqrt{\\mathrm{npq}}[/math]",
+          "ঘ": "pq"
+        },
+        "question": "দ্বিপদী বিন্যাসের পরামিতি n ও p হলে পরিমিত ব্যবধান কত?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4144,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392744,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392744,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4144&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4144&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4144&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 30,
+  "total": 30
+}

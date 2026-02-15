@@ -1,0 +1,1164 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 392713,
+      "value": {
+        "options": {
+          "ক": "দৈব চলক কি?",
+          "খ": "মুদ্রা নিক্ষেপণ পরীক্ষায় উপরের পিঠে মাথা নির্দেশকারী চলকের প্রকৃতি ব্যাখ্যা কর ।",
+          "গ": "P(1≤ x ≤ 4 ) এর মান নির্ণয় কর।",
+          "ঘ": "উদ্দীপকের আলোকে P(1≤ x ≤ 4 ) = F( 4 ) – F (1) এর সত্যতা যাচাই কর ।"
+        },
+        "question": "একটি বিচ্ছিন্ন দৈব চলক x এর সম্ভাবনা অপেক্ষক নিম্নরূপ :\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-2-all-board-cq-4_1755580122_whskYZKd.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে চলক একটি দৈব পরীক্ষার প্রাপ্ত নমুনাক্ষেত্রের সাথে সম্পর্কিত বাস্তব সংখ্যামানের অপেক্ষক এবং যার প্রতিটি মানের একটি নির্দিষ্ট সম্ভাবনা থাকে তাকে দৈব চলক বা নির্বিচারী চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eযে চলকের প্রতিটি মানের একটি নির্দিষ্ট সম্ভাবনা থাকে, তাকে দৈব চলক বলে। অর্থাৎ নির্দিষ্ট সম্ভাবনাযুক্ত সংখ্যাবাচক চলককেই দৈব চলক বলে। একটি নিরপেক্ষ মুদ্রা একবার নিক্ষেপ করা হলে উপরের পিঠে প্রাপ্ত মাথা বা হেডের সংখ্যার মানগুলো হবে 0, 1। যার প্রতিটি মান পৃথকভাবে আসার সম্ভাবনা [math]\\frac{1}{2}[/math]\u003Cbr\u003E। মুদ্রার উপরের পিঠে প্রাপ্ত মাথা বা হেডের সংখ্যা নির্দেশকারী চলকটি একটি দৈব চলক।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eআমরা জানি, সম্ভাবনা অপেক্ষকের ক্ষেত্রে, [math]\\sum_{x} P(x)=1[/math]\u003Cbr\u003Eবা, [math]\\sum_{x=0}^{4} P(x)=1[/math]\u003Cbr\u003Eবা, [math]\\frac{1}{10}+\\frac{1}{5}+3 k+2 k+\\frac{1}{5}+\\frac{1}{10}=1[/math]\u003Cbr\u003Eবা, [math]5 \\mathrm{k}=\\frac{2}{5}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{k}=\\frac{2}{25}[/math]\u003Cbr\u003Eসুতরাং [math]P(1 \\leq x \\leq 4)[/math]\u003Cbr\u003E [math]=\\mathrm{P}(\\mathrm{x}=1)+\\mathrm{P}(\\mathrm{x}=2)+\\mathrm{P}(\\mathrm{x}=3)+\\mathrm{P}(\\mathrm{x}=4)[/math]\u003Cbr\u003E [math]=\\frac{1}{5}+3 \\times \\frac{2}{25}+2 \\times \\frac{2}{25}+\\frac{1}{5}[/math]\u003Cbr\u003E [math]=\\frac{5+6+4+5}{25}=\\frac{20}{25}=\\frac{4}{5} \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eআমরা জানি, [math]F(x)=\\sum_{x} P(x)[/math]\u003Cbr\u003E [math]\\therefore \\quad F(x=4)=\\sum_{x=0}^{4} P(x)[/math]\u003Cbr\u003E [math]=P(x=0)+P(x=1)+P(x=2)+P(x=3)+P(x=4)[/math]\u003Cbr\u003E [math]=\\frac{1}{10}+\\frac{1}{5}+3 \\times \\frac{2}{25}+2 \\times \\frac{2}{25}+\\frac{1}{5}[/math]\u003Cbr\u003E [math]=\\frac{1}{10}+\\frac{1}{5}+\\frac{6}{25}+\\frac{4}{25}+\\frac{1}{5}=\\frac{9}{10}[/math]\u003Cbr\u003Eআবার, [math]F(1)=P(x=0)+P(x=1)=\\frac{1}{10}+\\frac{1}{5}=\\frac{3}{10}[/math]\u003Cbr\u003E [math]\\therefore F(4)-F(1)=\\frac{9}{10}-\\frac{3}{10}=\\frac{6}{10}=\\frac{3}{5}[/math]\u003Cbr\u003Eযেহেতু, [math]P(1 \\leq x \\leq 4)=\\frac{4}{5}[/math]\u003Cbr\u003Eএবং, [math]\\mathrm{F}(4)-\\mathrm{F}(1)=\\frac{3}{5} \\neq \\mathrm{P}(1 \\leq \\mathrm{x} \\leq 4)[/math]\u003Cbr\u003Eসুতরাং প্রদত্ত সমীকরণটি সত্য নয়।F(I) এর পরিবর্তে F(0) হলে প্রদত্ত সমীকরণটি সত্য হতো।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দৈব চলক হলো এমন একটি চলক যার সম্ভাব্য মানগুলো প্রত্যেকটি গননাযোগ্য ও পৃথক এবং প্রতিটি মানের একটি নির্দিষ্ট সম্ভাব্যতা থাকে; সব সম্ভাব্যতাগুলোর যোগফল [math]1[/math] হয়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মুদ্রা নিক্ষেপনে \"উপরের পিঠে মাথা\" নির্দেশকারী চলক একটি সূচক (indicator) বা Bernoulli চলক, কারণ এটি মাত্র দুইটি মান নেয়: মাথা হলে [math]1[/math], পিঠ হলে [math]0[/math] — ফলে এটি বিচ্ছিন্ন।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E যেহেতু [math]F(x)=P(X\\le x)[/math], তাই  \n[math]P(1\\le X\\le4)=\\sum_{k=1}^{4}P(X=k)=F(4)-F(0).[/math]  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সাধারণত [math]F(4)-F(1)=P(1\u003CX\\le4)[/math] হয় (বিচ্ছিন্ন পূর্ণসংখ্যা হলে এটি [math]P(2\\le X\\le4)[/math]) — তাই [math]P(1\\le X\\le4)=F(4)-F(1)[/math] সাধারণভাবে সঠিক নয়; সঠিক প্রকাশ হলো [math]F(4)-F(0)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392713,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392713,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392713,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392713,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392713,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392713,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392713,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392713,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392713,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392713,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392713,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392712,
+      "value": {
+        "options": {
+          "ক": "দৈব চলক কী?",
+          "খ": "সম্ভাবনা বিন্যাস ও বিন্যাস অপেক্ষক এক নয়—ব্যাখ্যা কর।",
+          "গ": "দৈব চলক এর সম্ভাবনা বিন্যাস নির্ণয় কর।",
+          "ঘ": "নিপার মন্তব্য যাচাই কর।"
+        },
+        "question": "নিপা তিনটি মুদ্রা একত্রে নিক্ষেপ করল। x দৈবচলক মুদ্রায় হেডের সংখ্যা নির্দেশ করে। সে বলল যে,\n\n[math]\\mathrm{P}(0 \\leq \\mathrm{x} \\leq 1) \\neq \\mathrm{P}(2 \\leq \\mathrm{x} \\leq 3)[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে চলক একটি দৈব পরীক্ষার প্রাপ্ত নমুনাক্ষেত্রের সাথে সম্পর্কিত বাস্তব সংখ্যামানের অপেক্ষক এবং যার প্রতিটি মানের একটি নির্দিষ্ট সম্ভাবনা থাকে তাকে দৈব চলক বা নির্বিচারী চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eসম্ভাবনা বিন্যাস ও বিন্যাস অপেক্ষক এক নয়। কোনো বিচ্ছিন্ন দৈব চলকের প্রতিটি মান এবং তাদের সম্ভাবনাকে বিন্যাসের মাধ্যমে যে সারণিতে উপস্থাপন করা হয় তাকে সম্ভাবনা বিন্যাস বলে। অপরদিকে কোনো দৈব চলকের কোনো একটি মানের প্রেক্ষিতে দৈব চলকের সর্বনিম্ন মান হতে ঐ নির্দিষ্ট মান পর্যন্ত সকল সম্ভাবনার সমষ্টি বা পরিমাপ নিরুপণকারী ফাংশনকে বিন্যাস অপেক্ষক বলে। গাণিতিকভাবে বিচ্ছিন্ন বা অবিচ্ছিন্ন দৈব চলক X এর মান x এর সমান বা ছোট হওয়ার সম্ভাবনা [math]F(x)=P(X \\leq x)[/math]\u003Cbr\u003E এই ফাংশন F(x) কে বিন্যাস অপেক্ষক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএকটি নিরপেক্ষ মুদ্রা তিনবার নিক্ষেপ করা হলে নমুনাক্ষেত্র S হবে নিম্নরূপ:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-2-all-board-cq-1_1755580121_hcDNy7LL.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E∴ নমুনাক্ষেত্রের মোট নমুনা বিন্দুর সংখ্যা, [math]n(S)=2^{3}=8[/math]\u003Cbr\u003E টি।উপরের পিঠে প্রাপ্ত হেডের সংখ্যা চলক x হলে, x এর মানগুলো হবে, 0, 1, 2, 3।সুতরাং, চলক x এর সম্ভাবনা বিন্যাসটি হবে নিম্নরূপ :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-2-all-board-cq-2_1755580120_usBzGqW3.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, দৈব চলক x এর সম্ভাবনা বিন্যাসটি;\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-2-all-board-cq-3_1755580119_vH1qI9mE.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\therefore \\mathrm{P}(0 \\leq \\mathrm{x} \\leq 1)=\\mathrm{P}(\\mathrm{x}=0)+\\mathrm{P}(\\mathrm{x}=1)[/math]\u003Cbr\u003E [math]=\\frac{1}{8}+\\frac{3}{8}=\\frac{1}{2}[/math]\u003Cbr\u003Eএবং [math]\\mathrm{P}(2 \\leq \\mathrm{x} \\leq 3)=\\mathrm{P}(\\mathrm{x}=2)+\\mathrm{P}(\\mathrm{x}=3)[/math]\u003Cbr\u003E [math]=\\frac{3}{8}+\\frac{1}{8}=\\frac{4}{8}=\\frac{1}{2}[/math]\u003Cbr\u003Eএখানে, [math]P(0 \\leq x \\leq 1)=P(2 \\leq x \\leq 3)[/math]\u003Cbr\u003Eসুতরাং নিপার মন্তব্যটি সঠিক নয় ।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দৈবচলক: [math]X[/math] হলো তিনটি মুদ্রা নিক্ষেপে মাথার সংখ্যা, যার মানগুলো [math]\\{0,1,2,3\\}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ব্যাখ্যা: সম্ভাবনা বিন্যাস (PMF) প্রতিটি নির্দিষ্ট মানের জন্য সম্ভাবনা দেয়, আর বিন্যাস অপেক্ষক (CDF) কোনো মান [math]x[/math] পর্যন্ত যোগফল বা [math]P(X\\le x)[/math] দেয়—তারা এক নয় কারণ একটি স্থানিক (point) সম্ভাবনা দেয় ও অন্যটি সংশ্লিষ্ট যোগফল দেয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সম্ভাবনা বিন্যাস: \n[math]P(X=0)=1/8,\\;P(X=1)=3/8,\\;P(X=2)=3/8,\\;P(X=3)=1/8.[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যাচাই: \n[math]P(0\\le X\\le1)=P(0)+P(1)=1/8+3/8=1/2[/math] এবং [math]P(2\\le X\\le3)=P(2)+P(3)=3/8+1/8=1/2[/math]; তাই নিপার মন্তব্যটি ভুল—দুটি সম্ভাব্যতা সমান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392712,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392712,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392712,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392712,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392712,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392712,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392712,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:41.000000Z",
+            "updated_at": "2025-08-19T05:08:41.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392712,
+            "tag_id": 3179,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:41.000000Z",
+            "updated_at": "2025-08-19T05:08:41.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392712,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:41.000000Z",
+            "updated_at": "2025-08-19T05:08:41.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392712,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:41.000000Z",
+            "updated_at": "2025-08-19T05:08:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392711,
+      "value": {
+        "options": {
+          "ক": "দৈব চলকের ভেদাঙ্ক বলতে কী বোঝ?",
+          "খ": "দৈব চলক কি ঋণাত্মক হতে পারে? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের আলোকে k-এর মান নির্ণয় কর।",
+          "ঘ": "যদি [math]k = 20[/math] হয়, তবে উদ্দীপকের আলোকে যাচাই কর যে, [math]P(y \\geq 2) \\neq P(y \\leq 3)[/math]"
+        },
+        "question": "কোনো একটি বিচ্ছিন্ন দৈব চলক y এর সম্ভাবনা ফাংশন নিচে দেওয়া হলো:\n\n[math]P(y)=\\frac{y+1}{k} ;[/math] [math]y=1,2,3,4[/math] ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eএকটি দৈব চলকের মান ও এর গাণিতিক প্রত্যাশার ব্যবধানের বর্গের প্রত্যাশিত মানকে ঐ দৈব চলকের ভেদাঙ্ক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদৈব চলক ঋণাত্মক হতে পারে।ব্যাখ্যা: যে চলক একটি দৈব পরীক্ষার ফলাফলটিকে পরিমাপ করে এবং যার প্রতিটি মানের একটি নির্দিষ্ট সম্ভাবনা থাকে তাকে দৈব চলক বলে। দৈব চলকের মান ধনাত্মক, ঋণাত্মক এবং শূন্য হতে পারে। একটি উদাহরণের সাহায্যে দেখানো হলো। যদি বৃষ্টি হয় তবে একজন ছাতা বিক্রেতা প্রতিদিন 4000 টাকা লাভ করতে পারে। আর যদি বৃদ্ধি না হয় তবে প্রতিদিন তার 1000 টাকা ক্ষতি হয়। এখানে, প্রাপ্ত লাভ বা ক্ষতির পরিমাণ দৈব চলক x হলে, x এর মান হবে x: 4000 এবং 1000। অর্থাৎ, দৈব চলকের মান ধনাত্মক ও ঋণাত্মক উভয়ই হতে পারে।অতএব, বলা যায়, দৈব চলক ঋণাত্মক হতে পারে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই,একটি বিচ্ছিন্ন দৈব চলক y এর সম্ভাবনা ফাংশন,[math]\\mathrm{P}(\\mathrm{y})=\\frac{\\mathrm{y}+1}{\\mathrm{k}}[/math]\u003Cbr\u003E; [math]y=1,2,3,4[/math]\u003Cbr\u003Eএখন, y এর সম্ভাবনা বিন্যাস নিম্নরূপ:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics202nd20paper2c20chapter-22c20date203-05-20242c20riyel20picture-203_1755580119_jnwt7Enr.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eআমরা জানি,[math]~~~~~~[/math]\u003Cbr\u003E [math]\\sum_{y=1}^{4} P(y)=1[/math]\u003Cbr\u003Eবা, [math]P(y=1)+P(y=2)+[/math]\u003Cbr\u003E [math]P(y=3)+P(y=4)=1[/math]\u003Cbr\u003Eবা, [math]\\frac{2}{k}+\\frac{3}{k}+\\frac{4}{k}+\\frac{5}{k}=1[/math]\u003Cbr\u003Eবা, [math]\\frac{2+3+4+5}{k}=1[/math]\u003Cbr\u003Eবা, [math]\\frac{14}{k}=1[/math]\u003Cbr\u003Eবা, [math]k=14[/math]\u003Cbr\u003Eসুতরাং, [math]k = 14[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eযদি k = 20 হয়, তবে y এর সম্ভাবনা বিন্যাসটি হবে নিম্নরূপ:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics202nd20paper2c20chapter-22c20date203-05-20242c20riyel20picture-204_1755580118_2s8xil3c.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখন, [math]P(y \\geq 2)[/math]\u003Cbr\u003E [math]=P(y=2)+P(y=3)[/math]\u003Cbr\u003E [math]+P(y=4)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{3}{20}+\\frac{4}{20}+\\frac{5}{20}[/math]\u003Cbr\u003E [math]=\\frac{3+4+5}{20}=\\frac{12}{20}[/math]\u003Cbr\u003Eএবং [math]P(y \\leq 3)[/math]\u003Cbr\u003E [math]=P(y=1)+P(y=2)[/math]\u003Cbr\u003E [math]+P(y=3)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{2}{20}+\\frac{3}{20}+\\frac{4}{20}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{2+3+4}{20}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{9}{20}[/math]\u003Cbr\u003Eএখানে, [math]\\mathrm{P}(\\mathrm{y} \\geq 2) \\neq \\mathrm{P}(\\mathrm{y} \\leq 3)[/math]\u003Cbr\u003Eঅতএব, যদি k = 20 হয়, তবে উদ্দীপকের আলোকে [math]P(y \\geq 2) \\neq P(y \\leq 3)[/math]\u003Cbr\u003E 'গাণিতিক সম্পর্কটি সঠিক।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দৈব চলকের ভেদাঙ্ক বলতে সেই চলক গ্রহণ করতে পারার সমস্ত সম্ভাব্য মানের集合 বুঝায়; এখানে ভেদাঙ্ক = {1, 2, 3, 4}।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সাধারণভাবে কোনো দৈব চলক ঋণাত্মক হতে পারে যদি তার সম্ভাব্য মানগুলোর মধ্যে ঋণাত্মক সংখ্যা থাকে; এ উদাহরণে y-এর মানগুলো ধনাত্মক হওয়ায় এখানে না। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রোবেবিলিটি সমীকরণ অনুযায়ী সব সম্ভাব্য মানের যোগফল 1 হওয়া উচিত, তাই [math]\\sum_{y=1}^{4}\\frac{y+1}{k}=1 \\Rightarrow \\frac{2+3+4+5}{k}=1[/math], ফলে [math]k=14[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যদি [math]k=20[/math] নেওয়া হয় তবে [math]P(y\\ge 2)=\\sum_{y=2}^{4}\\frac{y+1}{20}=\\frac{3+4+5}{20}=\\frac{12}{20}=0.6[/math] এবং [math]P(y\\le 3)=\\sum_{y=1}^{3}\\frac{y+1}{20}=\\frac{2+3+4}{20}=\\frac{9}{20}=0.45[/math], সুতরাং [math]P(y\\ge 2)\\neq P(y\\le 3)[/math] (এছাড়া [math]k=20[/math] হলে মোট সম্ভাব্যতার যোগফল [math]14/20\\neq1[/math], তাই সেটি বৈধ প্রবণতা নয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392711,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392711,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392711,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392711,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392711,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:39.000000Z",
+            "updated_at": "2025-08-19T05:08:39.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392711,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:39.000000Z",
+            "updated_at": "2025-08-19T05:08:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392710,
+      "value": {
+        "options": {
+          "ক": "দৈব চলক কাকে বলে?",
+          "খ": "একটি মুদ্রা নিক্ষেপ পরীক্ষা দৈব পরীক্ষা- ব্যাখ্যা কর।",
+          "গ": "[math]P(2 \\leq x \\leq 4)[/math] এর মান নির্ণয় কর।",
+          "ঘ": "আলতাফ স্যারের উক্তিটির যথার্থতা যাচাই কর।"
+        },
+        "question": "একটি বিচ্ছিন্ন দৈব চলক x এর সম্ভাবনা ফাংশন নিম্নরূপ:\n\n[math]P(x)=\\frac{x+4}{30}[/math] [math]x=0,1,2,3,4[/math] । আলতাফ স্যার বললেন যে,\n\n[math]P(0 \\leq x \\leq 2)[/math] এবং [math][F(2)-F(0)][/math] এর মান সমান।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে চলক একটি দৈব পরীক্ষার ফলাফলকে পরিমাপ করে এবং যার প্রতিটি মানের একটি নির্দিষ্ট সম্ভাবনা থাকে তাকে দৈব চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eএকটি মুদ্রা নিক্ষেপ পরীক্ষা দৈব পরীক্ষা।ব্যাখ্যা: যে, পরীক্ষায় কি কি ফলাফল পাওয়া যাবে তা পূর্ব থেকে জানা থাকে এবং প্রতিটি ফলাফলের একটি নির্দিষ্ট সম্ভাবনা থাকে অথচ পরীক্ষাটি সম্পন্ন করা হলে কোন ফলটি আসবে তা নিশ্চিত করে বলা যায় না, এরূপ পরীক্ষাকেই দৈব পরীক্ষা বলে। একটি নিরপেক্ষ মুদ্রা একবার নিক্ষেপ করা হলে {H, T} এর যেকোনো পিঠ আসবে এবং এদের প্রত্যেকের আসার সম্ভাবনা [math]\\frac{1}{2}[/math]\u003Cbr\u003E । কিন্তু মুদ্রাটি নিক্ষেপ করলে H বা T এর কোনটি আসবে তা নিশ্চিত করে বলা যায় না। সুতরাং, মুদ্রা নিক্ষেপ পরীক্ষা একট দৈব পরীক্ষা।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই, বিচ্ছিন্ন দৈব চলক x এর সম্ভাবনা ফাংশন,[math]P(x)=\\frac{x+4}{30}[/math]\u003Cbr\u003E [math]x=0,1,2,3,4[/math]\u003Cbr\u003Eএখন, x এর সম্ভাবনা বিন্যাস নিম্নরূপ :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics202nd20paper2c20chapter-22c20date203-05-20242c20riyel20picture-201_1755580117_uNnzuGWV.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\therefore \\quad P(2 \\leq x \\leq 4)[/math]\u003Cbr\u003E [math]=P(x=2)+P(x=3)[/math]\u003Cbr\u003E [math]+P(x=4)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{6}{30}+\\frac{7}{30}+\\frac{8}{30}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{6+7+8}{30}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{21}{30}=\\frac{7}{10}[/math]\u003Cbr\u003Eনির্ণেয় [math]{P}(2 \\leq x \\leq 4)=\\frac{7}{10}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক হতে পাই, বিচ্ছিন্ন দৈব চলক x এর সম্ভাবনা ফাংশন,[math]\\mathrm{P}(\\mathrm{x})=\\frac{\\mathrm{x}+4}{30}[/math]\u003Cbr\u003E [math]x=0,1,2,3,4[/math]\u003Cbr\u003Eএখন, x এর সম্ভাবনা বিন্যাস নিম্নরূপ :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics202nd20paper2c20chapter-22c20date203-05-20242c20riyel20picture-202_1755580116_C99QNi4S.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখন, [math]P(0 \\leq x \\leq 2)[/math]\u003Cbr\u003E [math]=P(x=0)+P(x=1)[/math]\u003Cbr\u003E [math]+P(x=2)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{4}{30}+\\frac{5}{30}+\\frac{6}{30}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{4+5+6}{30}=\\frac{15}{30}[/math]\u003Cbr\u003E [math]F(0)=P(x=0)[/math]\u003Cbr\u003E [math]=\\frac{4}{30}[/math]\u003Cbr\u003E [math]\\mathrm{F}(2)=\\mathrm{P}(\\mathrm{x} \\leq 2)[/math]\u003Cbr\u003E [math]=P(x=0)+P(x=1)[/math]\u003Cbr\u003E [math]+P(x=2)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{4}{30}+\\frac{5}{30}+\\frac{6}{30}[/math]\u003Cbr\u003E [math]=\\frac{4+5+6}{30}=\\frac{15}{30}[/math]\u003Cbr\u003E [math]\\therefore \\quad F(2)-F(0)[/math]\u003Cbr\u003E [math]=\\frac{15}{30}-\\frac{4}{30}[/math]\u003Cbr\u003E [math]=\\frac{15-4}{30}=\\frac{11}{30}[/math]\u003Cbr\u003Eসুতরাং, [math]P(0 \\leq x \\leq 2)[/math]\u003Cbr\u003E [math]\\neq[F(2)-F(0)][/math]\u003Cbr\u003Eঅতএব, আলতাফ স্যারের উক্তিটি যথার্থ ছিল না।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দৈব চলক হলো এমন একটি পরিবর্তনশীল যা কোন দৈব পরীক্ষার ফলাফলকে সংখ্যভাবে প্রতিনিধিত্ব করে; অর্থাৎ ফলাফল অনিশ্চিত এবং প্রতিটি ফলাফলের সাথে একটি সম্ভাবনা যুক্ত থাকে। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E একটি মুদ্রা নিক্ষেপ একটি দৈব পরীক্ষা কারণ ফলাফল (মাথা বা ফুল) আগেই নির্দিষ্ট নয়; নমুনা স্থান হচ্ছে [math]\\{H,T\\}[/math] এবং প্রতিটি ফলাফলের সম্ভাব্যতা নির্ধারিত হতে পারে। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]P(2\\le x\\le4)=P(2)+P(3)+P(4)=[/math] [math]\\frac{6+7+8}{30}=\\frac{21}{30}=\\frac{7}{10}[/math]। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কিউমান: [math]F(2)-F(0)=P(X\\le2)-P(X\\le0)=P(1)+P(2)[/math], কিন্তু [math]P(0\\le X\\le2)=P(0)+P(1)+P(2)[/math]; তাই আলতাফ স্যারের উক্তি ভুল। সংখ্যায়: [math]P(0\\le X\\le2)=\\frac{15}{30}=\\frac{1}{2}[/math] এবং [math]F(2)-F(0)=\\frac{11}{30}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392710,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392710,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392710,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392710,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392710,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392710,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392710,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:37.000000Z",
+            "updated_at": "2025-08-19T05:08:37.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:37.000000Z",
+            "updated_at": "2025-08-19T05:08:37.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "tag_id": 6,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:37.000000Z",
+            "updated_at": "2025-08-19T05:08:37.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:37.000000Z",
+            "updated_at": "2025-08-19T05:08:37.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:37.000000Z",
+            "updated_at": "2025-08-19T05:08:37.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:37.000000Z",
+            "updated_at": "2025-08-19T05:08:37.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392710,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:37.000000Z",
+            "updated_at": "2025-08-19T05:08:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392708,
+      "value": {
+        "options": {
+          "ক": "0.3",
+          "খ": "0.4",
+          "গ": "0.5",
+          "ঘ": "0.6"
+        },
+        "question": "দৈবচলক x এর সম্ভাবনা বিন্যাসটি নিম্নরূপ:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fscreenshot-2-removebg-preview_1755580115_zpVN6P7y.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nk এর মান কত?",
+        "solution": "0.3",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392708,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392708,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:08:35.000000Z",
+            "updated_at": "2025-08-19T05:08:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392709,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও ii"
+        },
+        "question": "সম্ভাবনা বিন্যাসের শর্ত হচ্ছে—\n\ni. [math]P\\left(x_{i}\\right) \\geq 0[/math]\n\nii. [math]\\sum \\mathrm{P}\\left(\\mathrm{x}_{\\mathrm{i}}\\right)=1[/math]\n\niii. [math]\\mathrm{P}\\left(\\mathrm{x}_{\\mathrm{i}}\\right) \\leq 1[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "i, ii ও ii",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392709,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392709,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:08:35.000000Z",
+            "updated_at": "2025-08-19T05:08:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392704,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{3}{8}[/math]",
+          "খ": "[math]\\frac{4}{8}[/math]",
+          "গ": "[math]\\frac{6}{8}[/math]",
+          "ঘ": "[math]\\frac{7}{8}[/math]"
+        },
+        "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাওঃ\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fscreenshot-3-removebg-preview_1755580114_JdkVCLlh.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nউপরের উদ্দীপকের [math]P(0",
+        "solution": "",
+        "explanation": "[math]\\mathrm{P}(0\u003C\\mathrm{x}\\leq2)=\\mathrm{P}(\\mathrm{x}=1)+\\mathrm{P}(\\mathrm{x}=2)=\\frac{3}{8}+\\frac{3}{8}=\\frac{6}{8}[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392704,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392704,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:34.000000Z",
+            "updated_at": "2025-08-19T05:08:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392705,
+      "value": {
+        "options": {
+          "ক": "F(1)",
+          "খ": "[math]f(1)[/math]",
+          "গ": "[math]F(3)[/math]",
+          "ঘ": "[math]f(3)[/math]"
+        },
+        "question": "উপরের উদ্দীপকের আলোকে নিচের কোনটির মান 1 হবে?",
+        "solution": "",
+        "explanation": "[math]F(3)=P(x=0)+P(x=1)+P(x=2)+P(x=3)[/math]\u003Cbr\u003E [math]=\\frac{1}{8}+\\frac{3}{8}+\\frac{3}{8}+\\frac{1}{8}=\\frac{1+3+3+1}{8}=\\frac{8}{8}=1[/math]\u003Cbr\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392705,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392705,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:34.000000Z",
+            "updated_at": "2025-08-19T05:08:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392706,
+      "value": {
+        "options": {
+          "ক": "[math]-\\leq P(x) \\leq 1[/math]",
+          "খ": "[math]0 \\leq \\mathrm{P}(\\mathrm{x}) \\leq 1[/math]",
+          "গ": "[math]P(x) \\geq 1[/math]",
+          "ঘ": "[math]0 \\leq \\mathrm{P}(\\mathrm{x}) \\leq \\infty[/math]"
+        },
+        "question": "নিচের কোনটি সম্ভাবনা অপেক্ষকের বৈশিষ্ট্য?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392706,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392706,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:34.000000Z",
+            "updated_at": "2025-08-19T05:08:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392707,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "9",
+          "গ": "10",
+          "ঘ": "12"
+        },
+        "question": "কোনো দৈবচলক z এর সম্ভাবনা অপেক্ষক $P(z)=\\frac{z-5}{k} z = 6, 7, 8, 9 হলে, k এর মান কত?",
+        "solution": "10",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392707,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392707,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:08:34.000000Z",
+            "updated_at": "2025-08-19T05:08:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392702,
+      "value": {
+        "options": {
+          "ক": "সম্ভাবনা বিন্যাস",
+          "খ": "সম্ভাবনা ঘনত্ব ফাংশন",
+          "গ": "বিন্যাস ফাংশন",
+          "ঘ": "সম্ভাবনা ফাংশন"
+        },
+        "question": "বিচ্ছিন্ন দৈব চলকের সম্ভাব্য মানের সম্ভাবনা যে গাণিতিক সূত্রের সাহায্যে নির্ণয় করা হয়, তাকে কী বলে?",
+        "solution": "সম্ভাবনা ফাংশন",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392702,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392702,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:33.000000Z",
+            "updated_at": "2025-08-19T05:08:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392703,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "3",
+          "গ": "4",
+          "ঘ": "5"
+        },
+        "question": "দৈব চলক কত প্রকার?",
+        "solution": "2",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4142,
+      "created_at": "2025-08-19T05:08:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392703,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392703,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:33.000000Z",
+            "updated_at": "2025-08-19T05:08:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4142&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4142&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4142&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 12
+}

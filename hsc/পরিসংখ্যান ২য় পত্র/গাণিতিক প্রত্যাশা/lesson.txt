@@ -1,0 +1,2560 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 392742,
+      "value": {
+        "options": {
+          "ক": "গাণিতিক প্রত্যাশা কী?",
+          "খ": "E(x)-এর মান ঋণাত্মক হতে পারে কি? ব্যাখ্যা কর ।",
+          "গ": "উদ্দীপকের উল্লিখিত শোরুমে কোম্পানি A-এর দৈনিক একটির বেশি মোটর সাইকেল বিক্রির সম্ভাবনা নির্ণয় কর।",
+          "ঘ": "কোন কোম্পানির মোটর সাইকেলের চাহিদা বেশি? প্রয়োজনীয় পরিমাপ নির্ণয়পূর্বক মতামত দাও।"
+        },
+        "question": "একটি শো-রুমে দুটি কোম্পানির মোটর সাইকেলের দৈনিক বিক্রির সম্ভাবনা বিন্যাস নিম্নে দেয়া হলো:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd-paper-090224-chapter-3-all-board-cq-4_1755580133_oZFps3jY.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো দৈব চলকের প্রতিটি মান ও এদের সম্ভাবনার গুণফলের সমষ্টিকে দৈব চলকের গাণিতিক প্রত্যাশা বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eগাণিতিক প্রত্যাশা, E(x) এর মান ঋণাত্মক হতে পারে। গাণিতিক প্রত্যাশার সূত্রানুসারে, কোনো চলক x এর গাণিতিক প্রত্যাশা E(x) = ExP(x)। এখানে, x এর মান একই সাথে ধনাত্মক, শূন্য বা ঋণাত্মক হতে পারে। x এর ঋণাত্মক মানের জন্য ExP(x) এর মান যদি ধনাত্মক মানের ExP(x) এর চেয়ে বড় হয় তবে গাণিতিক প্রত্যাশা, E(x) এর মান ঋণাত্মক হয় ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, X = A কোম্পানির দৈনিক বিক্রির সংখ্যা।কোম্পানি A এর দৈনিক একটির বেশি মোটর সাইকেল বিক্রির সম্ভাবনা, [math]P(x\u003E1)=P(x=2)+P(x=3)[/math]\u003Cbr\u003E [math]=0.35+0.1=0.45[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003EA কোম্পানির দৈনিক মোটরসাইকেল বিক্রির সংখ্যার গাণিতিক প্রত্যাশা, [math]\\Sigma(x)=\\sum_{x=0}^{3} x P(x)[/math]\u003Cbr\u003E [math]=0.25 \\times 0+0.3 \\times 1+0.35 \\times 2+0.1 \\times 3[/math]\u003Cbr\u003E [math]=0+0.3+0.7+0.3=1.3[/math]\u003Cbr\u003Eআবার, ধরি, B কোম্পানির দৈনিক মোটর সাইকেল বিক্রির সংখ্যা = y∴ y এর গাণিতিক প্রত্যাশা,[math]E(y)=\\sum_{x=0}^{3} y P(y)[/math]\u003Cbr\u003E [math]=0.2 \\times 0+0.3 \\times 1+0.4 \\times 2+0.1 \\times 3[/math]\u003Cbr\u003E [math]=0+0.3+0.8+0.3=1.4[/math]\u003Cbr\u003Eযেহেতু কোম্পানি B এর বিক্রির গাণিতিক প্রত্যাশা কোম্পানি A অপেক্ষা বেশি। সুতরাং B কোম্পানির মোটর সাইকেলের চাহিদা বেশি।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E গাণিতিক প্রত্যাশা (মধ্যগণিত) হিসাব করতে প্রতিটি সম্ভাব্য বিক্রির মানকে তার সম্ভাব্যতায় গুণ করে যোগ করতে হয়, অর্থাৎ [math]E(X)=\\sum x\\,P(X=x)[/math]; দিলে আপনাকে প্রতিটি বিক্রয়ের মান ও তার সম্ভাব্যতা যোগ করে সংখ্যাগুলো যোগ করতে হবে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E যদি র্যান্ডম ভ্যারিয়েবলটির মান সবসময় ধনাত্মক বা শূন্য হয় (যেমন বিক্রির সংখ্যা) তাহলে [math]E(X)[/math] ঋণাত্মক হতে পারে না; সাধারাণভাবে কেবল তখনই ঋণাত্মক হয় যখন ভ্যারিয়েবলটি নেতিবাচক মান নেওয়ার যথেষ্ট সম্ভাবনা থাকে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কোম্পানি A-এর দৈনিক একটির বেশি বিক্রির সম্ভাবনা হবে [math]P(X\u003E1)=1-P(X\\le 1)=1-\\big(P(X=0)+P(X=1)\\big)[/math]; টেবিল বা ছবিতে দেওয়া [math]P(X=0)[/math] ও [math]P(X=1)[/math] বসিয়ে ফল পেতে হবে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কোন কোম্পানির চাহিদা বেশি জানার সবচেয়ে সরল পরিমাপ হলো গড় (mean); দুই কোম্পানার [math]E(X)[/math] বের করে যে কোম্পানির গড় বড় সেটির চাহিদা বেশি বলে ধরা হবে; যদি প্রয়োজন হয়, বৈশিষ্ট্যের বিস্তৃতি দেখার জন্য ভ্যারিয়েন্স বা মধ্যকেও (median) সাবধানতার সাথে ব্যবহার করতে পারেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392742,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392742,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392742,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392742,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392742,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392742,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392742,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392742,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392742,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392742,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392742,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:53.000000Z",
+            "updated_at": "2025-08-19T05:08:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392741,
+      "value": {
+        "options": {
+          "ক": "দৈব চলকের ভেদাঙ্ক কী?",
+          "খ": "ভেদাঙ্ক এর মান ঋণাত্মক নয়— ব্যাখ্যা কর।",
+          "গ": "E(x) নির্ণয় কর।",
+          "ঘ": "[math]E\\left(x^{2}\\right)\u003E\\{E(x)\\}^{2}[/math] যাচাই কর ।"
+        },
+        "question": "একটি দৈব চলকের সম্ভাবনা বিন্যাস নিম্নরূপ:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd20paper-09022420chapter-3-all-board-cq-1_1755580132_yZLMBPyE.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eএকটি দৈব চলকের মান ও এর গাণিতিক প্রত্যাশার ব্যবধানের বর্গের প্রত্যাশিত মানকে উক্ত দৈব চলকের ভেদাঙ্ক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদৈব চলকের ভেদাঙ্ক ঋণাত্মক হতে পারে না । কোনো দৈব চলকের মানগুলো হতে উহার গাণিতিক প্রত্যাশার ব্যবধানের বর্গের প্রত্যাশিত মানকে ঐ দৈব চলকের ভেদাঙ্ক বলে। অর্থাৎ, দৈব চলক x এর ভেদাঙ্ক, [math]V(x)==^{\\prime} E\\{x-E(x)\\}^{2}[/math]\u003Cbr\u003E যেহেতু, বর্গ সংখ্যা কখনো ঋণাত্মক হতে পারে না কাজেই [math]V(x)=E\\{x-E(x)\\}^{2} \\geq 0[/math]\u003Cbr\u003E। সুতরাং, দৈব চলকের ভেদাঙ্ক ঋণাত্মক হতে পারে না ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eআমরা জানি, গাণিতিক প্রত্যাশা, [math]E(x)=\\sum x_{i} P\\left(x_{i}\\right)[/math]\u003Cbr\u003E [math]=0 \\times 0.2+1 \\times 0.4+2 \\times 0.35+3 \\times 0.05[/math]\u003Cbr\u003E [math]=1.25[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{E}(\\mathrm{x})=1.25 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, [math]E\\left(x^{2}\\right)=\\sum_{i=1}^{4} x_{1}^{2} P\\left(x_{1}\\right)[/math]\u003Cbr\u003E [math]=0^{2} \\times 0.2+1^{2} \\times 0.4+2^{2} \\times 0.35+3^{2} \\times 0.05[/math]\u003Cbr\u003E [math]=0+0.4+1.4+0.45[/math]\u003Cbr\u003E [math]=2.25[/math]\u003Cbr\u003E'গ' হতে পাই, [math]E(x)=1.25[/math]\u003Cbr\u003E [math]\\therefore\\{\\mathrm{E}(\\mathrm{x})\\}^{2}=(1.25)^{2}[/math]\u003Cbr\u003E [math]=1.5625[/math]\u003Cbr\u003Eসুতরাং [math]E\\left(x^{2}\\right)\u003E\\{E(x)\\}^{2}[/math]\u003Cbr\u003E (যাচাই করা হলো)",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ভেদাঙ্ক হল সেই দৈব চলকের মান যটির জন্য সম্ভাব্যতা [math]p(x)[/math] সবচেয়ে বেশি; তাই যে মানটির [math]p(x)[/math] সর্বোচ্চ সেটিই ভেদাঙ্ক।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E এখানে দেওয়া সম্ভাবনা বিন্যাসে সব সম্ভাব্য মানগুলোই শূন্য বা ধনাত্মক হওয়ায় ভেদাঙ্কও ঋণাত্মক হতে পারে না — সাধারণভাবে ভেদাঙ্ক কেবল সেই পরিমাপকৃত মানগুলোর মধ্য থেকেই নেয়া হয়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রত্যাশিত মান গণনা করার সূত্র হলো [math]E(X)=\\sum x\\,p(x)[/math]; তাই প্রতিটি মানকে তাদের সম্ভাব্যতাসহ গুণ করে যোগ করলে [math]E(X)[/math] পাওয়া যাবে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কারণ [math]\\mathrm{Var}(X)=E(X^{2})-[E(X)]^{2}\\ge 0[/math] এবং যদি বিন্যাস একক মানে সবসময়ের জন্য না হয় তাহলে অসমতা কড়াই হয়ে [math]E(X^{2})\u003E[E(X)]^{2}[/math] হয়, তাই দেওয়া ক্ষেত্রে এই শর্ত যাচাই করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392741,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392741,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392741,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392741,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392741,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392741,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392741,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:52.000000Z",
+            "updated_at": "2025-08-19T05:08:52.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392741,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:52.000000Z",
+            "updated_at": "2025-08-19T05:08:52.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392741,
+            "tag_id": 3179,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:52.000000Z",
+            "updated_at": "2025-08-19T05:08:52.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 392741,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:52.000000Z",
+            "updated_at": "2025-08-19T05:08:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392740,
+      "value": {
+        "options": {
+          "ক": "প্রান্তীয় সম্ভাবনা অপেক্ষকের সংজ্ঞা দাও ।",
+          "খ": "[math]E(x)=\\bar{x}[/math] ব্যাখ্যা কর।",
+          "গ": "x এর গাণিতিক প্রত্যাশার মান বের কর।",
+          "ঘ": "V (3x - 12) এবং V(3y - 12) এর মধ্যে তুলনা কর ।"
+        },
+        "question": "একটি বিচ্ছিন্ন দৈব চলক x এর সম্ভাবনা অপেক্ষক নিম্নরূপ:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd-paper-090224-chapter-3-all-board-cq-6_1755580131_qmiiLU3o.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nএখানে, [math]y=3 x+5[/math] এবং [math]V(x)=2.54[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eএকটি বিচ্ছিন্ন দ্বি-দৈব চলকের যেকোনো একটি চলকের সাপেক্ষে অন্যটির সম্ভাবনা যে অপেক্ষকের মাধ্যমে প্রকাশ করা হয় তাকে প্রান্তীয় সম্ভাবনা অপেক্ষক বলে ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eগাণিতিক গড় ও গাণিতিক প্রত্যাশা পরস্পর সমতুল্য বা একই রাশি।কোন চলক x এর n সংখ্যক মানসমূহ যথাক্রমে [math]x_{1}, x_{2}, \\ldots, x_{n}[/math]\u003Cbr\u003E যাদের গণসংখ্যা যথাক্রমে [math]f_{1}, f_{2}, \\ldots ., f_{n}[/math]\u003Cbr\u003E যেন [math]\\Sigma \\mathrm{f}_{\\mathrm{i}}=\\mathrm{N}[/math]\u003Cbr\u003E হলে, গাণিতিক গড়,[math]\\overline{\\mathrm{x}}=\\frac{\\sum \\mathrm{f}_{\\mathrm{i}} \\mathrm{x}_{\\mathrm{i}}}{\\mathrm{N}} \\ldots \\ldots \\ldots \\text { (i) }[/math]\u003Cbr\u003Eআবার, কোন বিচ্ছিন্ন দৈব চলক x এর সম্ভাবনা অপেক্ষক। হলে সম্ভাবনার অবরোহী সংজ্ঞানুসারে আমরা পাই,\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-statistics-2nd-paper-090224-chapter-3-all-board-cq-7_1755580132_kyxq789S.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eঅর্থাৎ [math]P\\left(x_{i}\\right)=\\frac{f_{i}}{N} . \\quad[i=1,2, \\ldots \\ldots, n][/math]\u003Cbr\u003E [math]\\therefore P\\left(x_{1}\\right)=\\frac{f_{1}}{N}, P\\left(x_{2}\\right)=\\frac{f_{2}}{N} \\ldots . ., P\\left(x_{n}\\right)=\\frac{f_{n}}{N}[/math]\u003Cbr\u003Eঅতএব, x চলকের গাণিতিক প্রত্যাশা,[math]\\mathrm{E}(\\mathrm{x})=\\sum \\mathrm{x}_{\\mathrm{i}} \\mathrm{P}\\left(\\mathrm{x}_{\\mathrm{i}}\\right)=\\mathrm{x}_{1} \\mathrm{P}\\left(\\mathrm{x}_{1}\\right)+\\mathrm{x}_{2} \\mathrm{P}\\left(\\mathrm{x}_{2}\\right)+\\ldots . .+\\mathrm{x}_{\\mathrm{n}} \\mathrm{P}\\left(\\mathrm{x}_{\\mathrm{n}}\\right)[/math]\u003Cbr\u003E [math]=x_{1} \\times \\frac{f_{1}}{N}+x_{2} \\times \\frac{f_{2}}{N}+\\ldots . .+x_{n} \\times \\frac{f_{n}}{N}[/math]\u003Cbr\u003E [math]=\\frac{f_{1} x_{1}}{N}+\\frac{f_{2} x_{2}}{N}+\\ldots \\ldots . .+\\frac{f_{n} x_{n}}{N}[/math]\u003Cbr\u003E [math]=\\frac{f_{1} x_{1}+f_{2} x_{2}+\\ldots . .+f_{n} x_{n}}{N}=\\frac{\\sum f_{i} x_{i}}{N}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{E}(\\dot{\\mathrm{x}})=\\frac{\\sum \\mathrm{f}_{\\mathrm{i}} \\mathrm{x}_{\\mathrm{i}}}{\\mathrm{N}}[/math]\u003Cbr\u003Eএখন, (i) নং ও (ii) নং সমীকরণ হতে পাই, [math]E(x)=\\bar{x}[/math]\u003Cbr\u003E সুতরাং গাণিতিকভাবে বলা যায় যে, গাণিতিক গড় ও গাণিতিক প্রত্যাশা পরস্পর সমতুল্য বা একই রাশি ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eআমরা জানি, দৈব চলক x এর গাণিতিক প্রত্যাশা,[math]E(x)=\\sum_{x=1}^{4} x_{i} P\\left(x_{i}\\right)[/math]\u003Cbr\u003E [math]=(-2) \\times 0.2+(-1) \\times 0.15+0 \\times 0.10+1 \\times 1.5+2 \\times 0.40[/math]\u003Cbr\u003E [math]=-0.4-0.15+0+0.15+0.8[/math]\u003Cbr\u003E∴ x এর গাণিতিক প্রত্যাশার মান 0.4 (Ans)[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে, [math]y=3 x+5[/math]\u003Cbr\u003E এবং [math]V(x)=2.54[/math]\u003Cbr\u003Eএখানে, [math]y=3 x+5[/math]\u003Cbr\u003E [math]\\therefore V(y)=V(3 x+5)[/math]\u003Cbr\u003E [math]=V(3 x)+v(5)[/math]\u003Cbr\u003E [math]=3^{2} V(x)+0[/math]\u003Cbr\u003E [math]=9 \\times 2.54[/math]\u003Cbr\u003E [math]=22.86[/math]\u003Cbr\u003Eএখন, [math]V(3 x-12)=V(3 x)+V(12)[/math]\u003Cbr\u003E [math]=3^{2} v(x)+0[/math]\u003Cbr\u003E [math]=9 \\times 2.54[/math]\u003Cbr\u003E [math]=22.86 \\text { (Ans.) }[/math]\u003Cbr\u003Eএবং, [math]V(3 y-12)^{r}=V(3 x)+V(12)[/math]\u003Cbr\u003E [math]=3^{2} V(y)+0[/math]\u003Cbr\u003E [math]=9 \\times V(y)[/math]\u003Cbr\u003E [math]=9 \\times 22.86[/math]\u003Cbr\u003E [math]=205.74 \\text { (Ans.)}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E একটি বিচ্ছিন্ন চলকের প্রান্তীয় সম্ভাবনা অপেক্ষক (pmf) হলো সেই ফাংশন যা প্রতিটি সম্ভাব্য মানের জন্য [math]p_X(x)=P(X=x)[/math] নির্ধারণ করে, এতে [math]p_X(x)\\ge0[/math] এবং [math]\\sum_x p_X(x)=1[/math] থাকতে হবে — এটি প্রতিটি মানে ঘটার সম্ভাবনা নির্দেশ করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]E(X)=\\bar{x}[/math] বলতে বোঝায় প্রত্যাশা বা গাণিতিক মধ্যক হল সেই ভরিত গড়, অর্থাৎ [math]E(X)=\\sum_x x\\,p_X(x)[/math] যা বিবরণী মানগুলোর আর্থমেটিক গড়ের মতই কেন্দ্রীকরণ নির্দেশ করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E x-এর গাণিতিক প্রত্যাশা বের করার পদ্ধতি হলো [math]E(X)=\\sum_x x\\,p_X(x)[/math] — টেবিলে প্রতিটি x মানকে তার সম্ভাবনা দ্বারা গুণ করে যোগ করলে সংখ্যাটি পাওয়া যায় (এখানে টেবিলের মানগুলো বসিয়ে হিসাব করতে হবে)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ভ্যারিয়্যান্সের রূপান্তর নিয়ম হল [math]V(aX+b)=a^2V(X)[/math]; তাই [math]V(3X-12)=3^2V(X)=9\\times2.54=[22.86][/math] এবং যেহেতু [math]Y=3X+5[/math], [math]3Y-12=9X+3[/math], ফলে [math]V(3Y-12)=9^2V(X)=81\\times2.54=[205.74][/math]; ফলে [math]V(3Y-12)=9\\;V(3X-12)[/math], অর্থাৎ দ্বিতীয়টি অনেক বড়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392740,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392740,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392740,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392740,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392740,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392740,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392740,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392740,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392740,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392740,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:52.000000Z",
+            "updated_at": "2025-08-19T05:08:52.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392740,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:52.000000Z",
+            "updated_at": "2025-08-19T05:08:52.000000Z"
+          }
+        },
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 392740,
+            "tag_id": 3,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:52.000000Z",
+            "updated_at": "2025-08-19T05:08:52.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392740,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:52.000000Z",
+            "updated_at": "2025-08-19T05:08:52.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392740,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:52.000000Z",
+            "updated_at": "2025-08-19T05:08:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392739,
+      "value": {
+        "options": {
+          "ক": "দৈব চলক কাকে বলে?",
+          "খ": "দৈব চলকের ভেদাঙ্কের মান সর্বদাই ধনাত্মক ব্যাখ্যা কর।",
+          "গ": "k এর মান নির্ণয় কর।",
+          "ঘ": "P(x) একটি সম্ভাবনা অপেক্ষক কি-না-মন্তব্য কর ।"
+        },
+        "question": "একটি বিচ্ছিন্ন দৈব চলক x এর সম্ভাবনা অপেক্ষক :\n\n[math]P(x)=\\frac{x+1}{k} ; x=1,2,3,4 \\text {. }[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে চলক একটি দৈব পরীক্ষার প্রাপ্ত নমুনাক্ষেত্রের সাথে সম্পর্কিত বাস্তব সংখ্যামানের অপেক্ষক এবং যার প্রতিটি মানের একটি নির্দিষ্ট সম্ভাবনা থাকে তাকে দৈব চলক বা নির্বিচারী চলক বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদৈব চলকের ভেদাঙ্ক সর্বদাই ধনাত্মক । কোনো দৈব চলকের মানগুলো হতে উহার গাণিতিক প্রত্যাশার ব্যবধানের বর্গের প্রত্যাশিত মানকে ঐ দৈব চলকের ভেদাঙ্ক বলে। অর্থাৎ, দৈব চলক x এর ভেদাঙ্ক, [math]\\mathrm{V}(\\mathrm{x})=\\mathrm{E}\\{\\mathrm{x}-\\mathrm{E}(\\mathrm{x})\\}^{2}[/math]\u003Cbr\u003E যেহেতু, বর্গ সংখ্যা কখনো ঋণাত্মক হতে পারে না কাজেই [math]V(x)=E\\{x-E(x)\\}^{2} \\geq 0[/math]\u003Cbr\u003E সুতরাং, দৈব চলকের ভেদাঙ্ক সর্বদাই ধনাত্মক।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, [math]P(x)=\\frac{x+1}{k} ; x=1,2,3,4[/math]\u003Cbr\u003Eবা, [math]\\sum_{x=1}^{4} \\frac{x+1}{k}=1[/math]\u003Cbr\u003Eবা, [math]\\frac{1+1}{k}+\\frac{2+1}{k}+\\frac{3+1}{k}+\\frac{4+1}{k}=1[/math]\u003Cbr\u003Eবা, [math]\\frac{2}{k}+\\frac{3}{k}+\\frac{4}{k}+\\frac{5}{k}=1[/math]\u003Cbr\u003Eবা, [math]\\frac{2+3+4+5}{k}=1[/math]\u003Cbr\u003Eবা, [math]\\frac{14}{k}=1[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{k}=14 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, k = 14[math]\\therefore \\mathrm{x}[/math]\u003Cbr\u003E এর অপেক্ষক, [math]P(x)=\\frac{x+1}{14} ; x=1,2,3,4[/math]\u003Cbr\u003EP(x) একটি সম্ভাবনা অপেক্ষক হবে যদি[math]\\text { (i) } \\mathrm{P}(\\mathrm{x})\u003E0[/math]\u003Cbr\u003E এবং [math]\\text { (ii) } \\sum_{x=1}^{4} P(x)=1[/math]\u003Cbr\u003E হয়।এখানে, x এর সকল মানের জন্য [math]P(x)=\\frac{x+1}{14}\u003E0[/math]\u003Cbr\u003Eএবং, [math]\\sum_{x=1}^{4} P(x)=\\sum_{x=1}^{4} \\frac{x+1}{14}[/math]\u003Cbr\u003E [math]=\\frac{2}{14}+\\frac{3}{14}+\\frac{4}{14}+\\frac{5}{14}[/math]\u003Cbr\u003E [math]=\\frac{2+3+4+5}{14}=\\frac{14}{14}=1[/math]\u003Cbr\u003Eযেহেতু P(x) সম্ভাবনা ফাংশনের সকল শর্ত মেনে চলে । সুতরাং P(x) একটি সম্ভাবনা অপেক্ষক ।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দৈব চলক হলো এমন একটি চলক যার মান ঘটনাগুলোর ওপর নির্ভর করে অনিশ্চিতভাবে নির্ধারিত হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সম্ভাবনা বা ভেদাঙ্ক সর্বদাই ধনাত্মক বা শূন্যের সমান কারণ তা ঘটনা ঘটার অনুপাত/ফ্রিকোয়েন্সি প্রকাশ করে, তাই [math]P(x)\\ge0[/math]; এখানে [math]x+1\u003E0[/math] হওয়ায় কেবল [math]k\u003E0[/math] হলে মান ধনাত্মক হবে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E নর্মালাইজেশন শর্ত থেকে [math]\\sum_{x=1}^4\\frac{x+1}{k}=1\\Rightarrow\\frac{2+3+4+5}{k}=1\\Rightarrow\\frac{14}{k}=1\\Rightarrow k=14[/math].  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হ্যাঁ, কারণ প্রতিটি [math]P(x)=\\frac{x+1}{14}\\ge0[/math] এবং তাদের যোগফল [math]\\sum_{x=1}^4\\frac{x+1}{14}=1[/math], সুতরাং এটি একটি বৈধ সম্ভাবনা অপেক্ষক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392739,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392739,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392739,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392739,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392739,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392739,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392739,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392739,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392739,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392739,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 392739,
+            "tag_id": 3,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392739,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 392739,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 392739,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392738,
+      "value": {
+        "options": {
+          "ক": "গাণিতিক প্রত্যাশা বলতে কী বোঝ?",
+          "খ": "[math]''V(3) = E(3)''-[/math] এটি কি সম্ভব? ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের আলোকে [math]F(2) - F(-2)[/math] এর মান নির্ণয় কর।",
+          "ঘ": "উদ্দীপক অনুসারে নিচের সম্পর্কটি যাচাই করে মন্তব্য কর: [math]E(y) \u003E V(y)[/math]."
+        },
+        "question": "কোনো একটি বিচ্ছিন্ন দৈব চলক y এর সম্ভাবনা বিন্যাস নিচে দেওয়া হলো:\n\n[math]\\begin{array}{|c|c|c|c|c|c|c|}\\hline \\mathrm{y} & -3 & -2 & -1 & 0 & 1 & 2 \\\\\\hline \\mathrm{P}(\\mathrm{y}) & 0.1 & 0.15 & 0.1 & 0.4 & 0.2 & 0.05 \\\\\\hline\\end{array}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো দৈব চলকের প্রতিটি মান এবং এদের নিজ নিজ সম্ভাবনার গুণফলের সমষ্টিকে ঐ দৈব চলকের গাণিতিক প্রত্যাশা বা প্রত্যাশিত মান বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E [math]V(3) = E(3)-[/math]\u003Cbr\u003E এটি সম্ভব নয়।ব্যাখ্যা: আমরা জানি, কোনো ধ্রুবকের গাণিতিক প্রত্যাশা ঐ ধ্রুবকের সমান। এখানে, [math]3[/math]\u003Cbr\u003E একটি ধ্রুবক। সুতরাং, [math]E(3) = 3[/math]\u003Cbr\u003E। আবার, কোনো ধ্রুবকের ভেদাঙ্ক শূন্যের সমান। অর্থাৎ, [math]V(3) = 0[/math]\u003Cbr\u003E ।সুতরাং [math]V(3)≠E(3)[/math]\u003Cbr\u003E।অতএব, [math]V(3) = E(3)-[/math]\u003Cbr\u003E এটি সম্ভব নয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে,একটি বিচ্ছিন্ন দৈব চলক y এর সম্ভাবনা বিন্যাস :[math]\\begin{array}{|c|c|c|c|c|c|c|}\\hline \\mathrm{y} & -3 & -2 & -1 & 0 & 1 & 2 \\\\\\hline \\mathrm{P}(\\mathrm{y}) & 0.1 & 0.15 & 0.1 & 0.4 & 0.2 & 0.05 \\\\\\hline\\end{array}[/math]\u003Cbr\u003Eএখন, [math]F(2)=P(x \\leq 2)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=P(y=-3)+P(y=-2)[/math]\u003Cbr\u003E [math]+P(y=-1)[/math]\u003Cbr\u003E [math]+P(y=0)+P(y=1)[/math]\u003Cbr\u003E [math]+P(y=2)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=0.1+0.15+0.1+0.4[/math]\u003Cbr\u003E [math]+0.2+0.05=1[/math]\u003Cbr\u003E [math]F(-2)=P(x \\leq-2)[/math]\u003Cbr\u003E [math]=P(y=-3)+P(y=-2)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=0.1+0.15=0.25[/math]\u003Cbr\u003E [math]\\therefore \\quad F(2)-F(-2)[/math]\u003Cbr\u003E [math]=1-0.25=0.75[/math]\u003Cbr\u003Eসুতরাং, [math]F(2)-F(-2)=0.75[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে,একটি বিচ্ছিন্ন দৈব চলক y এর সম্ভাবনা বিন্যাস:[math]\\begin{array}{|c|c|c|c|c|c|c|}\\hline \\mathrm{y} & -3 & -2 & -1 & 0 & 1 & 2 \\\\\\hline \\mathrm{P}(\\mathrm{y}) & 0.1 & 0.15 & 0.1 & 0.4 & 0.2 & 0.05 \\\\\\hline\\end{array}[/math]\u003Cbr\u003Eআমরা জানি,[math]E(y)=\\sum y P(y)[/math]\u003Cbr\u003E [math]=(-3 \\times 0.1)+(-2 \\times 0.15)[/math]\u003Cbr\u003E [math]+(-1 \\times 0.1)+(0 \\times 0.4)[/math]\u003Cbr\u003E [math]+(1 \\times 0.2)+(2 \\times 0.05)[/math]\u003Cbr\u003E [math]=-0.3-0.3-0.1+0[/math]\u003Cbr\u003E [math]+0.2+0.1=-0.4[/math]\u003Cbr\u003Eআবার, [math]\\mathrm{V}(\\mathrm{y})=\\mathrm{E}\\left({\\mathrm{y}}^{2}\\right)-\\{\\mathrm{E}(\\mathrm{y})\\}^{2}[/math]\u003Cbr\u003Eএখানে, [math]E\\left(y^{2}\\right)=\\sum y^{2} P(y)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\left\\{(-3)^{2} \\times 0.1\\right\\}+\\left\\{(-2)^{2}\\right.[/math]\u003Cbr\u003E [math]\\times 0.15\\}+\\left\\{(-1)^{2} \\times 0.1\\right\\}[/math]\u003Cbr\u003E [math]+\\left\\{(0)_{}^{2} \\times 0.4\\right\\}+\\left\\{(1)^{2}\\right.[/math]\u003Cbr\u003E [math]\\times 0.2\\}+\\left\\{(2)^{2} \\times 0.05\\right\\}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=(9 \\times 0.1)+(4 \\times 0.15)[/math]\u003Cbr\u003E [math]+(1 \\times 0.1)+(0 \\times 0.4)[/math]\u003Cbr\u003E [math]+(1 \\times 0.2)+(4 \\times 0.05)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=0.9+0.6+01+[/math]\u003Cbr\u003E [math]0+0.2+0.2=2[/math]\u003Cbr\u003E [math]\\therefore \\quad \\mathrm{V}(\\mathrm{y})=\\mathrm{E}\\left(\\mathrm{y}^{2}\\right)-\\{\\mathrm{E}(\\mathrm{y})\\}^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=2-(0.4)^{2}[/math]\u003Cbr\u003E [math]=2-0.16=1.84[/math]\u003Cbr\u003Eএখানে, [math]E(y)সুতরাং, উদ্দীপক অনুসারে [math]E(y)\u003EV(y)[/math]\u003Cbr\u003E গাণিতিক সম্পর্কটি সঠিক নয়।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E গাণিতিক প্রত্যাশা হল একটি দৈব চলকের গড় মান বা ওজনযুক্ত গড়, যা হিসাব করা হয় [math]E(y)=\\sum yP(y)[math] দ্বারা — এটি সম্ভাব্য মানগুলোর সম্ভাব্যতা অনুযায়ী গড়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সাধারণভাবে [math]\"V(3)=E(3)\"[/math] সঠিক না, কারণ স্থির ধ্রুবক [math]c[/math] হলে [math]E(c)=c[/math] কিন্তু [math]V(c)=0[/math], সুতরাং সমতা থাকে কেবল [math]c=0[/math] হলে בלבד; তেমনি [math]V(3)=0\\ne E(3)=3[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এখানে [math]F(x)=P(Y\\le x)[math] হলে [math]F(2)=1[/math] এবং [math]F(-2)=P(Y\\le -2)=0.1+0.15=0.25[/math], তাই [math]F(2)-F(-2)=1-0.25=0.75[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রথমে [math]E(y)=\\sum yP(y)=-0.4[/math] এবং [math]E(y^2)=2.0[/math] হওয়ায় [math]V(y)=E(y^2)-[E(y)]^2=2.0-(-0.4)^2=1.84[/math]; তাই [math]E(y)\u003EV(y)[/math] সত্য নয় কারণ [math]-0.4\\not\u003E1.84[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392738,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392738,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392738,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392738,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392738,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392738,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392738,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392738,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392738,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392738,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 392738,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392738,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392738,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392738,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392738,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392738,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392737,
+      "value": {
+        "options": {
+          "ক": "গাণিতিক প্রত্যাশার সংজ্ঞা দাও।",
+          "খ": "দৈব চলকের ভেদাঙ্ক ঋণাত্মক ব্যাখ্যা কর।",
+          "গ": "[math]E\\left(x^{2}\\right)[/math] নির্ণয় কর।",
+          "ঘ": "শিলার বক্তব্য যাচাই কর।"
+        },
+        "question": "একটি বিচ্ছিন্ন দৈব চলক x এর সম্ভাবনা বিন্যাস নিম্নরূপ:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics202nd20paper2c20chapter-32c20date2004-05-20242c20riyel20picture-201_1755580129_3ZtUgKcv.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nশিলা বলল [math]E\\left(2 x^{2}\\right) \\neq V(x)[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো দৈব চলকের প্রতিটি মান এবং এদের নিজ নিজ সম্ভাবনার গুণফলের সমষ্টিকে ঐ দৈব চলকের গাণিতিক প্রত্যাশা বা প্রত্যাশিত মান বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদৈব চলকের ভেদাঙ্ক ঋণাত্মক-উক্তিটি সত্য নয়।ব্যাখ্যা: কোনো দৈব চলকের মানসমূহ হতে এর প্রত্যাশিত মানের ব্যবধানের বর্গের গাণিতিক প্রত্যাশাকে ঐ দৈব চলকের ভেদাঙ্ক বলে।অর্থাৎ, কোনো দৈব চলক x এর গাণিতিক প্রত্যাশা E(x) হলে, x এর ভেদাঙ্ক হবে, [math]V(x)=E\\{x-E(x)\\}^{2}[/math]\u003Cbr\u003E [math]\\therefore V(x)\u003E0[/math]\u003Cbr\u003Eঅতএব, দৈব চলকের ভেদাঙ্কের মান ঋণাত্মক হতে পারে না। এর মান সর্বদা ধনাত্মক হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, একটি বিচ্ছিন্ন দৈব চলক x এর সম্ভাবনা বিন্যাস:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics202nd20paper2c20chapter-32c20date2004-05-20242c20riyel20picture-202_1755580130_VlOxQ8ek.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eআমরা জানি, [math]\\mathrm{E}\\left(\\mathrm{x}^{2}\\right)=\\Sigma \\mathrm{x}^{2} \\mathrm{P}(\\mathrm{x})[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\left\\{(-2)^{2} \\times \\frac{1}{5}\\right\\}+[/math]\u003Cbr\u003E [math]\\left\\{(-1)^{2} \\times \\frac{1}{10}\\right\\}[/math]\u003Cbr\u003E [math]+\\left\\{(0)^{2} \\times \\frac{3}{10}\\right\\}[/math]\u003Cbr\u003E [math]+\\left\\{(1)^{2} \\times \\frac{3}{10}\\right\\}[/math]\u003Cbr\u003E [math]+\\left\\{(2)^{2} \\times \\frac{1}{10}\\right\\}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\left(4 \\times \\frac{1}{5}\\right)+\\left(1 \\times \\frac{1}{10}\\right)[/math]\u003Cbr\u003E [math]+\\left(0 \\times \\frac{3}{10}\\right)[/math]\u003Cbr\u003E [math]+\\left(1 \\times \\frac{3}{10}\\right)[/math]\u003Cbr\u003E [math]+\\left(4 \\times \\frac{1}{10}\\right)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{4}{5}+\\frac{1}{10}+\\frac{0}{10}[/math]\u003Cbr\u003E [math]+\\frac{3}{10}+\\frac{4}{10}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{8+1+0+3+4}{10}[/math]\u003Cbr\u003E [math]=\\frac{16}{10}=1.6[/math]\u003Cbr\u003Eসুতরাং, [math]E\\left(x^{2}\\right)=1.6[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, [math]E\\left(x^{2}\\right)=1.6[/math]\u003Cbr\u003Eএখন, [math]E\\left(2 x^{2}\\right)=2 E\\left(x^{2}\\right)[/math]\u003Cbr\u003E [math]=2 \\times 1.6=3.2[/math]\u003Cbr\u003Eএবং [math]V(x)=E\\left(x^{2}\\right)[/math]\u003Cbr\u003E [math]-\\{\\mathrm{E}(\\mathrm{x})\\}^{2}[/math]\u003Cbr\u003Eএখানে, [math]E(x)=\\Sigma x P(x)[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=\\left(-2 \\times \\frac{1}{5}\\right)+\\left(-1 \\times \\frac{1}{10}\\right)[/math]\u003Cbr\u003E [math]+\\left(0 \\times \\frac{3}{10}\\right)[/math]\u003Cbr\u003E [math]+\\left(1 \\times \\frac{3}{10}\\right)+\\left(2 \\times \\frac{1}{10}\\right)[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{-2}{5}+\\frac{-1}{10}+\\frac{0}{10}[/math]\u003Cbr\u003E [math]+\\frac{3}{10}+\\frac{2}{10}[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{-4-1+0+3+2}{10}[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{0}{10}=0[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]\\therefore \\quad V(x)[/math]\u003Cbr\u003E [math]=\\mathrm{E}\\left(\\mathrm{x}^{2}\\right)-\\{\\mathrm{E}(\\mathrm{x})\\}^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=1. 6-(0)^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=1.6-0=1.6[/math]\u003Cbr\u003Eএখানে, [math]E\\left(2 x^{2}\\right)=3.2[/math]\u003Cbr\u003E এবং [math]V(x)=1.6[/math]\u003Cbr\u003Eসুতরাং, [math]E\\left(2 x^{2}\\right) \\neq V(x)[/math]\u003Cbr\u003Eঅতএব, শিল্পার বক্তব্য যথার্থ ছিল।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E গাণিতিক প্রত্যাশা হচ্ছে দৈব চলকের মানগুলোর ওজনযুক্ত গড়, অর্থাৎ [math]E(X)=\\sum_i x_i\\,p_i[/math] যেখানে [math]x_i[/math] মান এবং [math]p_i[/math] তাদের সম্ভাবনা। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভেদাঙ্ক (variance) কখনই ঋণাত্মক হয় না কারণ এটি বিচ্যুতির বর্গের গড়: [math]V(X)=E\\big[(X-E(X))^2\\big]\\ge 0[/math]—বর্গ সব সময় অ-ঋণাত্মক।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সাধারণভাবে [math]E(x^2)=\\sum_i x_i^2\\,p_i[/math] (আপনার দেওয়া সম্ভাবনা বিন্যাসে প্রতিটি [math]x_i^2[/math] কে তার [math]p_i[/math] দিয়ে গুণ করে যোগ করলে মান পাওয়া যাবে)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কারণ [math]E(2x^2)=2E(x^2)[/math] এবং [math]V(x)=E(x^2)-\\big(E(x)\\big)^2[/math], তাই সাধারণ ক্ষেত্রে [math]2E(x^2)\\neq E(x^2)-\\big(E(x)\\big)^2[/math]; সমতা হলে তা বিশেষ কন্ডিশন হলে মাত্র সম্ভব। তাই শিলার বক্তব্য (যে [math]E(2x^2)\\neq V(x)[/math]) সাধারণভাবে সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392737,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392737,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392737,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392737,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392737,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392737,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392737,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392737,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392737,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392737,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392737,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392737,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392737,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392737,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392737,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 392737,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:50.000000Z",
+            "updated_at": "2025-08-19T05:08:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392736,
+      "value": {
+        "options": {
+          "ক": "গাণিতিক প্রত্যাশার সংজ্ঞা দাও।",
+          "খ": "দৈব চলকের ভেদাঙ্ক ঋণাত্মক ব্যাখ্যা কর।",
+          "গ": "[math]E\\left(x^{2}\\right)[/math] নির্ণয় কর।",
+          "ঘ": "শিলার বক্তব্য যাচাই কর।"
+        },
+        "question": "একটি বিচ্ছিন্ন দৈব চলক x এর সম্ভাবনা বিন্যাস নিম্নরূপ:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics202nd20paper2c20chapter-32c20date2004-05-20242c20riyel20picture-201_1755580128_SjCaOYma.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nশিলা বলল [math]E\\left(2 x^{2}\\right) \\neq V(x)[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো দৈব চলকের প্রতিটি মান এবং এদের নিজ নিজ সম্ভাবনার গুণফলের সমষ্টিকে ঐ দৈব চলকের গাণিতিক প্রত্যাশা বা প্রত্যাশিত মান বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eদৈব চলকের ভেদাঙ্ক ঋণাত্মক-উক্তিটি সত্য নয়।ব্যাখ্যা: কোনো দৈব চলকের মানসমূহ হতে এর প্রত্যাশিত মানের ব্যবধানের বর্গের গাণিতিক প্রত্যাশাকে ঐ দৈব চলকের ভেদাঙ্ক বলে।অর্থাৎ, কোনো দৈব চলক x এর গাণিতিক প্রত্যাশা E(x) হলে, x এর ভেদাঙ্ক হবে, [math]V(x)=E\\{x-E(x)\\}^{2}[/math]\u003Cbr\u003E [math]\\therefore V(x)\u003E0[/math]\u003Cbr\u003Eঅতএব, দৈব চলকের ভেদাঙ্কের মান ঋণাত্মক হতে পারে না। এর মান সর্বদা ধনাত্মক হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, একটি বিচ্ছিন্ন দৈব চলক x এর সম্ভাবনা বিন্যাস:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20statistics202nd20paper2c20chapter-32c20date2004-05-20242c20riyel20picture-202_1755580128_JCMhvtx8.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eআমরা জানি, [math]\\mathrm{E}\\left(\\mathrm{x}^{2}\\right)=\\Sigma \\mathrm{x}^{2} \\mathrm{P}(\\mathrm{x})[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\left\\{(-2)^{2} \\times \\frac{1}{5}\\right\\}+[/math]\u003Cbr\u003E [math]\\left\\{(-1)^{2} \\times \\frac{1}{10}\\right\\}[/math]\u003Cbr\u003E [math]+\\left\\{(0)^{2} \\times \\frac{3}{10}\\right\\}[/math]\u003Cbr\u003E [math]+\\left\\{(1)^{2} \\times \\frac{3}{10}\\right\\}[/math]\u003Cbr\u003E [math]+\\left\\{(2)^{2} \\times \\frac{1}{10}\\right\\}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\left(4 \\times \\frac{1}{5}\\right)+\\left(1 \\times \\frac{1}{10}\\right)[/math]\u003Cbr\u003E [math]+\\left(0 \\times \\frac{3}{10}\\right)[/math]\u003Cbr\u003E [math]+\\left(1 \\times \\frac{3}{10}\\right)[/math]\u003Cbr\u003E [math]+\\left(4 \\times \\frac{1}{10}\\right)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{4}{5}+\\frac{1}{10}+\\frac{0}{10}[/math]\u003Cbr\u003E [math]+\\frac{3}{10}+\\frac{4}{10}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{8+1+0+3+4}{10}[/math]\u003Cbr\u003E [math]=\\frac{16}{10}=1.6[/math]\u003Cbr\u003Eসুতরাং, [math]E\\left(x^{2}\\right)=1.6[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, [math]E\\left(x^{2}\\right)=1.6[/math]\u003Cbr\u003Eএখন, [math]E\\left(2 x^{2}\\right)=2 E\\left(x^{2}\\right)[/math]\u003Cbr\u003E [math]=2 \\times 1.6=3.2[/math]\u003Cbr\u003Eএবং [math]V(x)=E\\left(x^{2}\\right)[/math]\u003Cbr\u003E [math]-\\{\\mathrm{E}(\\mathrm{x})\\}^{2}[/math]\u003Cbr\u003Eএখানে, [math]E(x)=\\Sigma x P(x)[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=\\left(-2 \\times \\frac{1}{5}\\right)+\\left(-1 \\times \\frac{1}{10}\\right)[/math]\u003Cbr\u003E [math]+\\left(0 \\times \\frac{3}{10}\\right)[/math]\u003Cbr\u003E [math]+\\left(1 \\times \\frac{3}{10}\\right)+\\left(2 \\times \\frac{1}{10}\\right)[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{-2}{5}+\\frac{-1}{10}+\\frac{0}{10}[/math]\u003Cbr\u003E [math]+\\frac{3}{10}+\\frac{2}{10}[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{-4-1+0+3+2}{10}[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{0}{10}=0[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]\\therefore \\quad V(x)[/math]\u003Cbr\u003E [math]=\\mathrm{E}\\left(\\mathrm{x}^{2}\\right)-\\{\\mathrm{E}(\\mathrm{x})\\}^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=1. 6-(0)^{2}[/math]\u003Cbr\u003E [math]~~~~~~~~[/math]\u003Cbr\u003E [math]=1.6-0=1.6[/math]\u003Cbr\u003Eএখানে, [math]E\\left(2 x^{2}\\right)=3.2[/math]\u003Cbr\u003E এবং [math]V(x)=1.6[/math]\u003Cbr\u003Eসুতরাং, [math]E\\left(2 x^{2}\\right) \\neq V(x)[/math]\u003Cbr\u003Eঅতএব, শিল্পার বক্তব্য যথার্থ ছিল।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E গাণিতিক প্রত্যাশা: একটি বিচ্ছিন্ন দৈব চলকের জন্য [math]E(X)=\\sum_x x\\,P(X=x)[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভেদাঙ্ক (variance) ঋণাত্মক হতে পারে না, কারণ [math]V(X)=E\\big((X-E(X))^2\\big)\\ge 0[/math] (বর্গের প্রত্যাশা সর্বদা অপরিবর্তনশীলভাবে অশূন্য বা ধনাত্মক)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]E(x^2)[/math] নির্ণয় করার নিয়ম: যে মানগুলোর জন্য প্রোবাবিলিটি দেওয়া আছে সেগুলো নিয়ে [math]E(x^2)=\\sum_x x^2\\,P(X=x)[/math] হিসাব করলেই পাওয়া যাবে (চিত্রে দেওয়া প্রোবাবিলিটি অনুযায়ী প্রতিটি [math]x^2[/math] গুণ করে যোগ করুন)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শিলার বক্তব্য যাচাই: [math]E(2x^2)=2E(x^2)[/math] এবং [math]V(X)=E(x^2)-[E(x)]^2[/math], তাই সাধারণভাবে [math]2E(x^2)\\neq E(x^2)-[E(x)]^2[/math] (শুধুমাত্র যদি [math]E(x)=0[/math] এবং [math]E(x^2)=0[/math]—সামান্য ঘটনাই—হয় তুকু সমান হতে পারে), অতএব শিলা ঠিক আছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392736,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392736,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392736,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392736,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392736,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 392736,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392736,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392736,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392736,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392736,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 392736,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:48.000000Z",
+            "updated_at": "2025-08-19T05:08:48.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392736,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:48.000000Z",
+            "updated_at": "2025-08-19T05:08:48.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 392736,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:48.000000Z",
+            "updated_at": "2025-08-19T05:08:48.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 392736,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:48.000000Z",
+            "updated_at": "2025-08-19T05:08:48.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 392736,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:48.000000Z",
+            "updated_at": "2025-08-19T05:08:48.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392736,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T05:08:48.000000Z",
+            "updated_at": "2025-08-19T05:08:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392735,
+      "value": {
+        "options": {
+          "ক": "তড়িৎ পরিবাহিতা কাকে বলে?",
+          "খ": "তড়িৎ প্রবাহের ফলে পরিবাহীতে তাপ উৎপন্ন হয় কেন? ব্যাখ্যা করো।",
+          "গ": "চাবি [math]K[/math] খোলা [math](OFF)[/math] অবস্থায় [math]AB[/math] এর মধ্য দিয়ে তড়িৎ। প্রবাহ নির্ণয় করো।",
+          "ঘ": "চাবি [math]K[/math] বন্ধ [math](ON)[/math] এবং খোলা [math](OFF)[/math] অবস্থায় [math]AB[/math] এর দুই প্রান্তের বিভব পার্থক্যের পরিবর্তন গাণিতিকভাবে বিশ্লেষণ করো।"
+        },
+        "question": "নিচের বর্তনীটি লক্ষ করো:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20board2c20physics202nd20paper2c20chapter-22c20riyel20roy2c20date-07-11-202420cq2c20serial20no-50_1755580125_04sD2bu2.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো পদার্থের তড়িৎ পরিবহনের ক্ষমতাকে ঐ পদার্থের তড়িৎ পরিবাহিতা বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eতড়িৎ পরিবাহকে বেশ কিছু সংখ্যক মুক্ত ইলেকট্রন থাকে। পরিবাহকের দুই বিন্দুর মধ্যে বিভব পার্থক্য সৃষ্টি হলে মুক্ত ইলেকট্রনগুলো আন্তঃআণবিক স্থানের মধ্যদিয়ে পরিবাহকের নিম্ন বিভব থেকে উচ্চ বিভবের দিকে চলতে থাকে, ফলে তড়িৎ প্রবাহের সৃষ্টি হয়। এই ইলেকট্রনগুলো চলার সময় পরিবাহকের পরমাণুর সাথে সংঘর্ষে লিপ্ত হয় এবং ইলেকট্রনের গতিশক্তি পরমাণুতে সঞ্চালিত হয় যার ফলে পরমাণুর গতিশক্তি আরো বৃদ্ধি পায়। এই বর্ধিত গতিশক্তি তাপে রূপান্তরিত হয়। এজন্য তড়িৎ প্রবাহের ফলে বর্তনীতে তাপের উদ্ভব হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eচাবি [math]K[/math]\u003Cbr\u003E খোলা অবস্থায় বর্তনীতে শুধুমাত্র [math]5 \\Omega[/math]\u003Cbr\u003E এবং [math]8 \\Omega[/math]\u003Cbr\u003E রোধ কার্যকর এ হবে।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20board2c20physics202nd20paper2c20chapter-22c20riyel20roy2c20date-07-11-202420cq2c20serial20no-51_1755580127_K2mi1M7R.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, [math]5 \\Omega[/math]\u003Cbr\u003E ও [math]8 \\Omega[/math]\u003Cbr\u003E শ্রেণিতে যুক্ত।এদের তুল্যরোধ, [math]\\mathrm{R}_{\\mathrm{s}}=5 \\Omega+8 \\Omega=13 \\Omega[/math]\u003Cbr\u003E∴ বর্তনীর প্রবাহ, [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E এখানে,[math]\\mathrm{I}_{1}=\\frac{\\mathrm{E}}{\\mathrm{R}_{\\mathrm{s}}}=\\frac{9 \\mathrm{~V}}{13 \\Omega}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E তড়িচ্চালক শক্তি, [math]E =9V[/math]\u003Cbr\u003E [math]~~~~~[/math]\u003Cbr\u003E [math]=0.6923 \\mathrm{~A} \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' থেকে পাই, চাবি K খোলা অবস্থায় বর্তনীর প্রবাহ, [math]\\mathrm{I}_{1}=0.6923 \\mathrm{~A}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E এখানে∴ A ও B বিন্দুর বিভব পার্থক্য, [math]\\mathrm{V}_{\\mathrm{AB}}=\\mathrm{I}_{1} \\times \\mathrm{R}_{\\mathrm{AB}}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]A[/math]\u003Cbr\u003E ও [math]B[/math]\u003Cbr\u003E বিন্দুর রোধ [math]R_{A B}=8 \\Omega[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=0.6923 \\times 8[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=5.5385 \\mathrm{~V}[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20board2c20physics202nd20paper2c20chapter-22c20riyel20roy2c20date-07-11-202420cq2c20serial20no-52_1755580126_6Kiq2EUs.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eচাবি [math]K[/math]\u003Cbr\u003E বন্ধ [math](ON)[/math]\u003Cbr\u003E অবস্থায়, বর্তনীটি হবে A বিন্দুতে কির্শফের ১ম সূত্র প্রয়োগ করে, [math]\\mathrm{I}=\\mathrm{I}_{1}+\\dot{\\mathrm{I}}_{2}[/math]\u003Cbr\u003Eবা, [math]\\mathrm{I}-\\mathrm{I}_{1}-\\mathrm{I}_{2}=0[/math]\u003Cbr\u003E [math]...[/math]\u003Cbr\u003E [math]...[/math]\u003Cbr\u003E [math]...[/math]\u003Cbr\u003E [math](1)[/math]\u003Cbr\u003E [math]CABFC[/math]\u003Cbr\u003E লুপে কির্শফের ২য় সূত্র প্রয়োগ করে, [math]5 \\mathrm{I}_{1}+8 \\mathrm{I}-9=0[/math]\u003Cbr\u003Eবা, [math]8 \\mathrm{I}+5 \\mathrm{I}_{1}=9[/math]\u003Cbr\u003E [math]...[/math]\u003Cbr\u003E [math]...[/math]\u003Cbr\u003E [math]...[/math]\u003Cbr\u003E [math](2)[/math]\u003Cbr\u003Eআবার, [math]ADEBA[/math]\u003Cbr\u003E লুপে কির্শফের ২য় সূত্র প্রয়োগ করে, [math]-6 \\mathrm{I}_{2}+7-8 \\mathrm{I}=0[/math]\u003Cbr\u003Eবা, [math]8 \\mathrm{I}+6 \\mathrm{I}_{2}=7[/math]\u003Cbr\u003E [math]...[/math]\u003Cbr\u003E [math]...[/math]\u003Cbr\u003E [math]...[/math]\u003Cbr\u003E [math](2)[/math]\u003Cbr\u003E(1), (2) ও (3) নং সমীকরণ সমাধান করে পাই, [math]\\mathrm{I}=0.754 \\mathrm{~A},[/math]\u003Cbr\u003E [math]\\mathrm{I}_{1}=0.593 \\mathrm{~A},[/math]\u003Cbr\u003E [math]\\mathrm{I}_{2}=0.161 \\mathrm{~A}[/math]\u003Cbr\u003E∴ [math]A[/math]\u003Cbr\u003E ও [math]B[/math]\u003Cbr\u003E বিন্দুর বিভব পার্থক্য, [math]\\mathrm{V}_{\\mathrm{AB}}=\\mathrm{IR}_{\\mathrm{AB}}[/math]\u003Cbr\u003E [math]=0.754 \\times 8[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=6.032 \\mathrm{~V}[/math]\u003Cbr\u003Eদেখা যাচ্ছে, [math]\\mathrm{V}_{\\mathrm{AB}}^{\\prime}\u003E\\mathrm{V}_{\\mathrm{AB}}[/math]\u003Cbr\u003E এবং এদের পার্থক্য [math]\\Delta \\mathrm{V}=\\mathrm{V}_{\\mathrm{AB}}^{\\prime}-\\mathrm{V}_{\\mathrm{AB}}[/math]\u003Cbr\u003E [math]=(6.032-5.5385) \\mathrm{V}[/math]\u003Cbr\u003E [math]=0.4935 \\mathrm{~V}[/math]\u003Cbr\u003Eসুতরাং বলা যায়, চাবি [math]K[/math]\u003Cbr\u003E বন্ধ অবস্থায় [math]AB[/math]\u003Cbr\u003E এর দুই প্রান্তের বিভব পার্থক্য চাবি [math]K[/math]\u003Cbr\u003E খোলা অবস্থায় [math]AB[/math]\u003Cbr\u003E এর দুই প্রান্তের, বিভব পার্থক্যের চেয়ে [math]0.4935 V[/math]\u003Cbr\u003E বেশি।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তড়িৎ পরিবাহিতা হলো কোনো পদার্থের বৈদ্যুতিক প্রবাহ বহন করার ক্ষমতা; এটি তড়িতত্বের (resistivity) প্রতিশত এবং চিহ্নিত হয় [math]σ[/math]- দিয়ে, যেখানে [math]σ=\\frac{1}{ρ}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E তড়িৎ প্রবাহের ফলে পরিবাহীতে তাপ উৎপন্ন হয় কারণ চলতি ইলেকট্রনগুলো পরিবাহকের আণবিক কাঠামোর সঙ্গে সংঘর্ষ করে তাদের ঐচ্ছিক গতিশক্তি কণাকে স্থানান্তর করে যা তাপ হিসেবে প্রকাশ পায়; বিদ্যুৎ শক্তি হবে তাপে রূপান্তরিত হয় এবং ক্ষমতা হল [math]P=I^2R=VI[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E চাবি [math]K[/math] খোলা হলে AB শাখার ধারের মধ্যের প্রবাহ নির্ণয়ের সাধারণ সূত্র হলো সেই শাখায় পড়া ভোল্টেজকে শাখার প্রতিরোধ দ্বারা ভাগ করা, অর্থাৎ [math]I_{AB}=\\dfrac{V_{AB}}{R_{AB}}[/math]; যদি সম্পূর্ণ সার্কিটে উৎস শক্তি [math]ε[/math] ও সমতুল্য প্রতিরোধ [math]R_{eq}[/math] থাকে তখন [math]I_{AB}=\\dfrac{ε}{R_{eq}}[/math] হবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E চাবি বন্ধ করলে সার্কিটে অতিরিক্ত পথ সৃষ্টি হয় ফলে শাখাগুলোর সমতুল্য প্রতিরোধ বদলে যায় এবং AB এর বিভব পার্থক্যও পরিবর্তিত হয় — সাধারণত সমান্তরাল পথ যোগ করলে AB-তে পড়া ভোল্টেজ কমে যায়; যদি K একটি শর্ট করে তোলে তবে [math]V_{AB}\\approx 0[/math], অন্যথায় নতুন ভোল্টেজটি হিসাব করা হয় ভোল্টেজ ডিভাইডার সূত্র থেকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 392735,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 392735,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 392735,
+            "tag_id": 7,
+            "year": "2024",
+            "created_at": "2025-08-19T05:08:47.000000Z",
+            "updated_at": "2025-08-19T05:08:47.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392734,
+      "value": {
+        "options": {
+          "ক": "তড়িৎ দ্বিমেরু কাকে বলে?",
+          "খ": "একটি ফাঁপা গোলকের অভ্যন্তরের সকল বিন্দুতে বিভব সমান- ব্যাখ্যা করো।",
+          "গ": "বর্তনীর প্রবাহমাত্রা হ্রাস পেয়ে [math]\\frac{1}{7} \\text { Amp }[/math] হলে বর্তনীর তাপমাত্রা কত বৃদ্ধি পায়? নির্ণয় করো।",
+          "ঘ": "বর্তনীর রোধগুলোর সমাবেশ চিত্র-২ এর মত হলে প্রবাহমাত্রার তাৎক্ষণিক কী পরিবর্তন হবে তার গাণিতিক বিশ্লেষণ দাও।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20board2c20physics202nd20paper2c20chapter-22c20riyel20roy2c20date-07-11-202420cq2c20serial20no-47_1755580123_uPEACol5.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্র-১ এর রোধের সমাবেশকে [math]12 V[/math] তড়িৎ উৎসের সাথে যুক্ত করায় বর্তনীতে তড়িৎপ্রবাহ শুরু হয়। সময়ের সাথে সাথে বর্তনীর তাপমাত্রা বৃদ্ধি পায় এবং প্রবাহমাত্রা কমতে থাকে। কোনো এক পর্যায়ে প্রবাহমাত্রা [math]\\frac{1}{7} \\text { Amp }[/math] হয়। রোধের তাপমাত্রা গুণাঙ্ক [math]0.05 /{ }^{\\circ} \\mathrm{C}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদুটি সমান কিন্তু বিপরীতধর্মী বিন্দু চার্জ অতি অল্প দূরত্বে অবস্থিত হলে তাকে তড়িৎ দ্বিমেরু বলে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eবা গোলকের অভ্যন্তরে কোনো বিন্দুতে বিভব [math]V_{0}[/math]\u003Cbr\u003E এবং পৃষ্ঠের বিভব [math]V[/math]\u003Cbr\u003E হলে, পৃষ্ঠ ও গোলকের অভ্যন্তরে কোনো বিন্দুর বিভব পার্থক্য [math]V-V_{0}[/math]\u003Cbr\u003E।আমরা জানি,বিভব পার্থক্য = প্রাবল্য × দূরত্ববা, [math]V-V_{0}=0[/math]\u003Cbr\u003E [গোলকের অভ্যন্তরে চার্জ না থাকায় প্রাবল্য [math]E = 0[/math]\u003Cbr\u003E]বা, [math]V=V_{0}[/math]\u003Cbr\u003Eঅর্থাৎ গোলকের অভ্যন্তরে কোনো বিন্দুতে বিভব পৃষ্ঠের বিভবের সমান।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eচিত্র-১ এর রোধের সমাবেশক 12 V তড়িৎ উৎসের সাথে যুক্ত বর্তনীতে হবে,\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20board2c20physics202nd20paper2c20chapter-22c20riyel20roy2c20date-07-11-202420cq2c20serial20no-48_1755580125_8QG9uXgX.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eকরলে বর্তনীটি 2 [math]20 \\Omega, \\quad 30 \\Omega[/math]\u003Cbr\u003E এর 2টি রোধ সমান্তরালে যুক্ত। এদের তুল্যরোধ [math]R_{p}[/math]\u003Cbr\u003E হলে, [math]\\frac{1}{R_{p}}=\\frac{1}{20}+\\frac{1}{30}[/math]\u003Cbr\u003Eবা, [math]\\frac{1}{R_{p}}=\\frac{1}{12}[/math]\u003Cbr\u003Eবা, [math]R_{p}=12 \\Omega[/math]\u003Cbr\u003Eআবার, [math]\\mathrm{R}_{\\mathrm{p}}=12 \\Omega,[/math]\u003Cbr\u003E ও [math]72Ω[/math]\u003Cbr\u003E রোধ শ্রেণিতে যুক্ত∴ বর্তনীর তুল্যরোধ, [math]\\mathrm{R}_{\\mathrm{eq}}=\\mathrm{R}_{\\mathrm{p}}+72[/math]\u003Cbr\u003E [math]=(12+72) \\Omega=84 \\Omega[/math]\u003Cbr\u003Eধরি, বর্তনীর রোধ [math]R_{\\theta}[/math]\u003Cbr\u003E হলে প্রবাহমাত্রা [math]\\frac{1}{7} \\mathrm{~A}[/math]\u003Cbr\u003E হয়।[math]I=\\frac{E}{R_{\\theta}}[/math]\u003Cbr\u003Eবা, [math]R_{\\theta}=\\frac{E}{I}=\\frac{12}{\\frac{1}{7}}=84 \\Omega[/math]\u003Cbr\u003Eআমরা জানি, [math]0°C[/math]\u003Cbr\u003E তাপমাত্রায় রোধ [math]R_{\\theta}[/math]\u003Cbr\u003E হলে, [math]\\mathrm{R}_{\\theta}=\\mathrm{R}_{0}(1+\\alpha \\theta)[/math]\u003Cbr\u003Eবা, [math]84=84(1+\\alpha \\theta)[/math]\u003Cbr\u003Eবা, [math]1=1+\\alpha \\theta[/math]\u003Cbr\u003E বা, [math]\\alpha \\theta=0[/math]\u003Cbr\u003E বা, [math]\\theta=\\frac{0}{\\alpha}=0^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E∴ বর্তনীর তাপমাত্রা অপরিবর্তিত থাকে। (Ans.)[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' থেকে পাই, চিত্র-'১' এর রোধের সমাবেশের তুল্যরোধ [math]\\mathrm{R}_{\\mathrm{eq}}=[/math]\u003Cbr\u003E [math]84 \\Omega[/math]\u003Cbr\u003E∴ চিত্র-১ এর সমাবেশের ক্ষেত্রে তড়িৎ প্রবাহ [math]\\mathrm{I}_{1}=\\frac{E}{\\mathrm{R}_{\\mathrm{eq}}}=\\frac{12}{84}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E এখানে,[math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{1}{7} \\mathrm{~A}=0.143 \\mathrm{~A}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003Eতড়িচ্চালক শক্তি, [math]E = 12V[/math]\u003Cbr\u003Eচিত্র-২ এ রোধের সমাবেশের ক্ষেত্রে, তুল্য রোধ, [math]R_{s}=(20 \\Omega+30 \\Omega+72 \\Omega)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=122 \\Omega[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20board2c20physics202nd20paper2c20chapter-22c20riyel20roy2c20date-07-11-202420cq2c20serial20no-49_1755580124_D79CG2Cb.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E∴ চিত্র-২ এর ক্ষেত্রে প্রবাহ [math]\\mathrm{I}_{2}=\\frac{E}{\\mathrm{R}_{3}}=\\frac{12}{122}[/math]\u003Cbr\u003E [math]=0.09836 \\mathrm{~A}[/math]\u003Cbr\u003Eসুতরাং, বর্তনীর রোধগুলোর সমাবেশ চিত্র ২ এর মতো হলে প্রবাহমাত্রা হ্রাস পাবে, [math]\\Delta I=I_{1}-I_{2}[/math]\u003Cbr\u003E [math]=0.04464 \\mathrm{~A}[/math]\u003Cbr\u003E।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সঠিক, কারণ তাপমাত্রা বাড়লে রোধ বৃদ্ধি পায় এবং ধারা [math]I[/math] বিপরীতভাবে রোধের উপর নির্ভর করে; রোধের তাপীয় সরহরণ হল [math]R=R_0(1+\\alpha\\Delta T)[/math]. যদি চূড়ান্ত ধারা শুরুর ধারা হতে [math]\\tfrac{1}{7}[/math] হয় তাহলে\n[math]\\frac{I}{I_0}=\\frac{1}{1+\\alpha\\Delta T}=\\frac{1}{7}\\Rightarrow 1+\\alpha\\Delta T=7[/math], ফলে\n[math]\\Delta T=\\frac{6}{\\alpha}=\\frac{6}{0.05}=120^\\circ\\mathrm{C}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 392734,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 392734,
+            "tag_id": 47,
+            "year": "2024",
+            "created_at": "2025-08-19T05:08:45.000000Z",
+            "updated_at": "2025-08-19T05:08:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392729,
+      "value": {
+        "options": {
+          "ক": "-1",
+          "খ": "0",
+          "গ": "1",
+          "ঘ": "∞"
+        },
+        "question": "দুটি স্বাধীন দৈব চলকের সহভেদাঙ্কের মান কত?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392729,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392729,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392733,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "y একটি দৈব চলক এবং C একটি ধ্রুবক হলে —\n\ni. [math]V(C y)=C^{2}(V(y)[/math]\n\nii. [math]V(C y)=C V(y)[/math]\n\niii. [math]E(C y)=C E(y)[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও iii",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392733,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392733,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392732,
+      "value": {
+        "options": {
+          "ক": "ii",
+          "খ": "iii",
+          "গ": "i ও iii",
+          "ঘ": "i ও ii"
+        },
+        "question": "y একটি দৈবচলক এবং C একটি ধ্রুবক হলে–\n\ni. [math]V(C y)=C^{2} V(y)[/math]\n\nii. [math]V(C y)=C V(y)[/math]\n\niii. [math]E(C y)=C E(y)[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও iii",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392732,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392732,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392731,
+      "value": {
+        "options": {
+          "ক": "15",
+          "খ": "22",
+          "গ": "75",
+          "ঘ": "82"
+        },
+        "question": "যদি [math]y=5 x+7[/math] এবং [math]v(x)=3[/math] হয় তবে, y(y) = ?",
+        "solution": "75",
+        "explanation": "[math]v(y)=25 v(x)+0=25 \\times 3=75[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 392731,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392731,
+            "tag_id": 149,
+            "year": "2017",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392730,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "x একটি দৈব চলক এবং 5 একটি ধ্রুবক হলে - ( সকল বোর্ড-২০১৮)\n\ni. [math]E(5)=0[/math]\n\nii. [math]E(5)=0[/math]\n\niii. [math]E(5 x)=C E(y)[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "ii ও iii",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 392730,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392730,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392716,
+      "value": {
+        "options": {
+          "ক": "ভেদাঙ্ক",
+          "খ": "সহ ভেদাঙ্ক",
+          "গ": "গাণিতিক প্রত্যাশা",
+          "ঘ": "পরিঘাত"
+        },
+        "question": "কোনো দৈব চলকের মানগুলো হতে উহার গাণিতিক প্রত্যাশার বিয়োগফলের বর্গের প্রত্যাশিত মানকে কী বলে?",
+        "solution": "ভেদাঙ্ক",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392716,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392716,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392728,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "5.32",
+          "গ": "6.77",
+          "ঘ": "10.64"
+        },
+        "question": "যদি দৈব চলক x এর সম্ভাবনা, ফাংশন, [math]P(x)=\\frac{3-|4-x|}{9} ; x=2[/math] 3, 4, 5, 6, হয়, তবে [math]V(2 x-1)[/math] এর মান কত?",
+        "solution": "5.32",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392728,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392728,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392727,
+      "value": {
+        "options": {
+          "ক": "14",
+          "খ": "15",
+          "গ": "18",
+          "ঘ": "22"
+        },
+        "question": "দুটি অধীন দৈব চলকের ক্ষেত্রে [math]V(x)=8, V(y)=6[/math] এবং [math]\\operatorname{Cov}(x, y)[/math]=4 হয় [math]V(x+y)[/math] এর মান কত?",
+        "solution": "22",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392727,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392727,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392726,
+      "value": {
+        "options": {
+          "ক": "অবিচ্ছিন্ন হয়",
+          "খ": "অধীন হয়",
+          "গ": "স্বাধীন হয়",
+          "ঘ": "বিচ্ছিন্ন হয়"
+        },
+        "question": "দুটি দৈব চলকের সহভেদাঙ্কের মান শূণ্য হয় যখন চলকদ্বয়—",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "C. স্বাধীন হয়"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392726,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392726,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392725,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i ii ও iii"
+        },
+        "question": "x একটি দৈব চলক এবং 5 ধ্রুবক হলে—\n\ni. [math]E(5)=0[/math]\n\nii. [math]V(5)=0[/math]\n\niii. [math]E(5 x)=5 E(x)[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "ii ও iii",
+        "explanation": "আমরা জানি,a কোনো ধ্রুবক হলে, [math]E(a)=a[/math]\u003Cbr\u003E [math]\\therefore E(5)=5[/math]\u003Cbr\u003Eসুতরাং (i) সঠিক নয়।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392725,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392725,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392724,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "z-একটি দৈব চলক এবং a একটি ধ্রুবক হলে\n\ni. [math]V(a z)=a V(z)[/math]\n\nii. [math]V(a z)=a^{2} V(z)[/math]\n\niii. [math]\\mathrm{E}(\\mathrm{az})=\\mathrm{aE}(z)[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "ii ও iii",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392724,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392724,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392723,
+      "value": {
+        "options": {
+          "ক": "14",
+          "খ": "16",
+          "গ": "18",
+          "ঘ": "22"
+        },
+        "question": "দুটি অধীন দৈব চলকের ক্ষেত্রে– [math]V(x)=8, V(y)=6[/math] এবং [math]\\operatorname{Cov}(x, y)=4[/math] হলে, [math]V(x+y)[/math] এর মান কত?",
+        "solution": "22",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392723,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392723,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392722,
+      "value": {
+        "options": {
+          "ক": "অবিচ্ছিন্ন হয়",
+          "খ": "অধীন হয়",
+          "গ": "স্বাধীন হয়",
+          "ঘ": "বিচ্ছিন্ন হয়"
+        },
+        "question": "দুটি দৈব চলকের সহভেদাংকের মান শূন্য হয় যখন চলকদ্বয়—",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "C. স্বাধীন হয়"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 392722,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392722,
+            "tag_id": 149,
+            "year": "2019",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392721,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "4"
+        },
+        "question": "দ্বিপদী পরীক্ষার প্রতিটি চেষ্টার কতটি ফলাফল পাওয়া যায়?",
+        "solution": "2",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392721,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392721,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392720,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "y একটি দৈব চলক এবং b একটি ধ্রুবক হলে-\n\ni. [math]V(y-b)=V(y)[/math]\n\nii. [math]V(y+b)=V(y)[/math]\n\niii. [math]V(b y)=b V(y)[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও ii",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392720,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392720,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392719,
+      "value": {
+        "options": {
+          "ক": "15",
+          "খ": "20",
+          "গ": "45",
+          "ঘ": "50"
+        },
+        "question": "[math]V(x)=5[/math] হলে, [math]V(3 x+5)[/math] এর মান কত?",
+        "solution": "45",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392719,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392719,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392718,
+      "value": {
+        "options": {
+          "ক": "অবিচ্ছিন্ন",
+          "খ": "স্বাধীন",
+          "গ": "অধীন",
+          "ঘ": "বিচ্ছিন্ন"
+        },
+        "question": "[math]V(x \\pm y)=V(x)+V(y)[/math] হয় যখন চলকদ্বয় -",
+        "solution": "স্বাধীন",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392718,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392718,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 392717,
+      "value": {
+        "options": {
+          "A": "[math]5 \\mathrm{E}(\\mathrm{x})[/math]",
+          "B": "[math]25 \\mathrm{E}(\\mathrm{x})[/math]",
+          "C": "[math]E(x)+3[/math]",
+          "D": "[math]5\\mathrm{E}(\\mathrm{x})+3[/math]"
+        },
+        "question": "যদি [math]y=5 x+3[/math] হয়, তবে [math]\\mathbf{E}(\\mathbf{y})[/math] এর মান কত?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 224,
+      "book_grade_id": 1,
+      "content_chunk_id": 4143,
+      "created_at": "2025-08-19T05:08:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 392717,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 224,
+        "title": "পরিসংখ্যান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 392717,
+            "tag_id": 149,
+            "year": "2022",
+            "created_at": "2025-08-19T05:08:42.000000Z",
+            "updated_at": "2025-08-19T05:08:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4143&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4143&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4143&grade=1&per_page=2000&question_paper_id=48475&subject=224&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 27,
+  "total": 27
+}
