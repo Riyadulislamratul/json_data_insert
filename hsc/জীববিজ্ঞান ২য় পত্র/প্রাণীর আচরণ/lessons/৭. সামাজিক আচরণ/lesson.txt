@@ -1,0 +1,271 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 422597,
+      "value": {
+        "options": {
+          "ক": "ব্যাঙ",
+          "খ": "মৌমাছি",
+          "গ": "স্টিকলব্যাক",
+          "ঘ": "টুনটুনি"
+        },
+        "question": "জিগ-জ্যাগ নৃত্য প্রদর্শন করে কোন প্রাণী?",
+        "solution": "স্টিকলব্যাক",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 183,
+      "book_grade_id": 1,
+      "content_chunk_id": 4111,
+      "created_at": "2025-08-19T07:23:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 422597,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 422597,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 422597,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 422597,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 183,
+        "title": "জীববিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 422597,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T07:23:06.000000Z",
+            "updated_at": "2025-08-19T07:23:06.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 422597,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T07:23:06.000000Z",
+            "updated_at": "2025-08-19T07:23:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422598,
+      "value": {
+        "options": {
+          "ক": "ইস্ট্রোজেন",
+          "খ": "প্রোজেস্টেরন",
+          "গ": "টেস্টোস্টেরন",
+          "ঘ": "ফেরোমন"
+        },
+        "question": "রাণী মৌমাছির দেহ থেকে কোন হরমোন নিঃসৃত হয়?",
+        "solution": "ফেরোমন",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 183,
+      "book_grade_id": 1,
+      "content_chunk_id": 4111,
+      "created_at": "2025-08-19T07:23:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 422598,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 183,
+        "title": "জীববিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 422598,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T07:23:06.000000Z",
+            "updated_at": "2025-08-19T07:23:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422599,
+      "value": {
+        "options": {
+          "ক": "সেরাটোনিন",
+          "খ": "হিস্টামিন",
+          "গ": "স্ক্লেরোপ্রোটিন",
+          "ঘ": "অ্যালবুমিন"
+        },
+        "question": "মাকড়সার সিল্ক গ্রন্থি থেকে কী নিঃসৃত হয়?",
+        "solution": "স্ক্লেরোপ্রোটিন",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 183,
+      "book_grade_id": 1,
+      "content_chunk_id": 4111,
+      "created_at": "2025-08-19T07:23:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 422599,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 422599,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 183,
+        "title": "জীববিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 422599,
+            "tag_id": 4,
+            "year": "2016",
+            "created_at": "2025-08-19T07:23:06.000000Z",
+            "updated_at": "2025-08-19T07:23:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4111&grade=1&lesson=6483&per_page=200&question_paper_id=48494&subject=183&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4111&grade=1&lesson=6483&per_page=200&question_paper_id=48494&subject=183&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4111&grade=1&lesson=6483&per_page=200&question_paper_id=48494&subject=183&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 3,
+  "total": 3
+}
