@@ -1,0 +1,1317 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 419829,
+      "value": {
+        "options": [],
+        "question": "একটি ফ্রিজের মটরের ক্ষমতা [math]200W[/math]। যদি ঠান্ডা প্রকোষ্ঠের তাপমাত্রা [math]270K[/math] এবং বাহিরের তাপ মাত্রা [math]300K[/math] হয় তাহলে [math]100min[/math] এ ঠান্ডা প্রকোষ্ঠ থেকে সর্বোচ্চ কী পরিমাণ তাপ পাওয়া যাবে?",
+        "solution": "( Answer : [math]1.08 \\times 10^{7} \\mathrm{~J}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : এখানে, [math]\\mathrm{T}_{1}=300 \\mathrm{~K}, \\mathrm{~T}_{2}=270 \\mathrm{~K}[/math]\u003Cbr\u003E [math]K=\\frac{Q_{1}}{W}=\\frac{Q_{1}}{Q_{2}-Q_{1}}=\\frac{T_{1}}{T_{2}-T_{1}}=\\frac{270}{300-270}=9[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{Q_{1}}{p t}=9 \\Rightarrow Q_{1}=9 \\times 200 \\times 100 \\times 60=1.08 \\times 10^{7} \\mathrm{~J}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: একটি আদর্শ (কার্নোট) রেফ্রিজারেটরের সর্বোচ্চ COP হলো [math]COP_{\\text{max}}=\\dfrac{T_c}{T_h-T_c}[/math]; এখানে [math]T_c=270\\ \\text{K},\\ T_h=300\\ \\text{K}[/math], তাই [math]COP_{\\text{max}}=270/30=9[/math]. মোট কাজের পরিমাণ [math]W=P t=200\\ \\text{W}\\times100\\ \\text{min}=200\\times6000\\ \\text{s}=1.2\\times10^6\\ \\text{J}[/math], ফলে সর্বোচ্চ শীতলীকরণ শক্তি [math]Q_c=COP_{\\text{max}}\\times W=9\\times1.2\\times10^6=1.08\\times10^7\\ \\text{J}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 39,
+          "year": "2001-2002",
+          "pivot": {
+            "question_bank_id": 419829,
+            "year_id": 39
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 419829,
+            "tag_id": 474,
+            "year": "01-02",
+            "created_at": "2025-08-19T07:04:55.000000Z",
+            "updated_at": "2025-08-19T07:04:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419828,
+      "value": {
+        "options": {
+          "গ": "রেফ্রিজারেটরটির কার্যসম্পাদনের সহগ নির্ণয় করো।"
+        },
+        "question": "0°C তাপমাত্রার 1 g পানিকে বরফে পরিণত করতে রেফ্রিজারেটরটি ন্যূনতম কাজ সম্পাদন করে [math]Q_2[/math] তাপ অপসারণ করে এবং [math]Q_1[/math] তাপ পরিবেশে বর্জন করে। পরবর্তীতে রেফ্রিজারেটরের পরিবর্তে এমন একটি তাপ ইঞ্জিন প্রতিস্থাপন করা হলো যেনো এটি রেফ্রিজারেটরের ঠিক বিপরীত আচরণ করে। (পানির আপেক্ষিক তাপ 4200 [math]Jkg^{-1}K^{-1}[/math] এবং বরফ গলনের আপেক্ষিক সুপ্ততাপ 336000 [math]Jkg^{-1}[/math])।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fph-22cpart-12cch-12c20q-5_1755587095_IwtdKjtD.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eউচ্চ তাপমাত্রার তাপধারের তাপমাত্রা, [math]\\mathrm{T}_{1}=30^{\\circ} \\mathrm{C}=(30+273) \\mathrm{K} =303 \\mathrm{~K}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eনিম্ন তাপমাত্রার তাপাধারের তাপমাত্রা, [math]\\mathrm{T}_{2}=0^{\\circ} \\mathrm{C}=273 \\mathrm{~K}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকার্যসম্পাদন সহগ, [math]K = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} K & =\\frac{T_{2}}{T_{1}-T_{2}} \\\\ & =\\frac{273}{303-273} \\\\ & =\\frac{273}{30}=9.1 \\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E রেফ্রিজারেটরটির কার্যসম্পাদন সহগ [math]\\mathrm{K}=9.1 \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: 1 g পানির বরফে পরিণত করতে অপসারিত তাপ [math]Q_2=mL=0.001\\times 336000=336\\ \\text{J}[/math]। ন্যূনতম কাজ মানে রিভার্সিবল (কার্ণো) রেফ্রিজারেটর, যার কার্যসম্পাদনের সহগ [math]\\text{COP}=\\dfrac{T_c}{T_h-T_c}[/math] (কেলভিনে)। পরিবেশ তাপমাত্রা ধরা হলে [math]T_c=273\\ \\text{K},\\ T_h=300\\ \\text{K}[/math], তাই [math]\\text{COP}=\\dfrac{273}{300-273}=\\dfrac{273}{27}\\approx 10.11[/math] — এই কারণেই কিভাবে কার্ণো সীমানা থেকে COP নির্ণয় করা হয় তা বোঝায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 419828,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 419828,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 419828,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T07:04:55.000000Z",
+            "updated_at": "2025-08-19T07:04:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419819,
+      "value": {
+        "options": {
+          "ক": "46 J",
+          "খ": "48 J",
+          "গ": "50 J",
+          "ঘ": "54 J"
+        },
+        "question": "একটি রেফ্রিজারেটরের কৃতকার্য সহগ হলো [math]4.6[/math] । ঠান্ডা প্রকোষ্টে থেকে প্রতিচক্রে [math]250J[/math] অপসারন করলে প্রতিচক্রে কৃত কাজের পরিমাণ কত?",
+        "solution": "কৃতকার্য সহগ [math]=\\frac{\\mathrm{dQ}}{\\mathrm{dW}}\\ \\ \\therefore \\mathrm{dW}=54 \\mathrm{J}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 419819,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 419819,
+            "tag_id": 474,
+            "year": "16-17",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419827,
+      "value": {
+        "options": {
+          "ক": "354.62 J",
+          "খ": "139.18 J",
+          "গ": "583.8J",
+          "ঘ": "330.952 J",
+          "ঙ": "1475 J"
+        },
+        "question": "একটি কার্নো রেফ্রিজারেটর -5°C এবং 100°C তাপমাত্রার মধ্যে কাজ করে। যদি একটি আধার থেকে 100 J তাপ শোষণ করে, তাহলে এটি কি পরিমাণ তাপ উষ্ণ আধারে ত্যাগ করবে?",
+        "solution": "কার্নো রেফ্রিজারেটরের কর্মদক্ষতা ( [math]\\eta[/math]\u003Cbr\u003E) সূত্র দ্বারা নির্ণয় করা হয়: [math]\\eta = 1 - \\frac{T_c}{T_h}[/math]\u003Cbr\u003E, যেখানে [math]T_c[/math]\u003Cbr\u003E হল শীতল আধারের তাপমাত্রা এবং [math]T_h[/math]\u003Cbr\u003E হল উষ্ণ আধারের তাপমাত্রা।প্রথমে, তাপমাত্রাগুলিকে কেলভিনে রূপান্তর করতে হবে:[math]T_c = -5°C + 273.15 = 268.15 K[/math]\u003Cbr\u003E [math]T_h = 100°C + 273.15 = 373.15 K[/math]\u003Cbr\u003Eকর্মদক্ষতা ( [math]\\eta[/math]\u003Cbr\u003E) গণনা:[math]\\eta = 1 - \\frac{268.15}{373.15} \\approx 1 - 0.7186 \\approx 0.2814[/math]\u003Cbr\u003Eকার্নো রেফ্রিজারেটরের জন্য, কর্মদক্ষতা ( [math]\\eta[/math]\u003Cbr\u003E) কে তাপমাত্রার সাপেক্ষে এভাবেও লেখা যায়: [math]\\eta = \\frac{Q_c}{W} = \\frac{Q_c}{Q_h - Q_c}[/math]\u003Cbr\u003E, যেখানে [math]Q_c[/math]\u003Cbr\u003E হল শীতল আধারে শোষিত তাপ এবং [math]Q_h[/math]\u003Cbr\u003E হল উষ্ণ আধারে বর্জিত তাপ। [math]W[/math]\u003Cbr\u003E হল কৃতকার্য।প্রশ্নে দেওয়া আছে, [math]Q_c = 100 \\, J[/math]\u003Cbr\u003E (শীতল আধার থেকে শোষিত তাপ)। আমাদের [math]Q_h[/math]\u003Cbr\u003E বের করতে হবে।আমরা জানি, [math]\\eta = \\frac{Q_c}{W}[/math]\u003Cbr\u003E এবং [math]W = Q_h - Q_c[/math]\u003Cbr\u003E.সুতরাং, [math]\\eta = \\frac{Q_c}{Q_h - Q_c}[/math]\u003Cbr\u003E [math]0.2814 = \\frac{100}{Q_h - 100}[/math]\u003Cbr\u003E [math]0.2814 (Q_h - 100) = 100[/math]\u003Cbr\u003E [math]0.2814 Q_h - 28.14 = 100[/math]\u003Cbr\u003E [math]0.2814 Q_h = 100 + 28.14[/math]\u003Cbr\u003E [math]0.2814 Q_h = 128.14[/math]\u003Cbr\u003E [math]Q_h = \\frac{128.14}{0.2814} \\approx 455.36 \\, J[/math]\u003Cbr\u003E**বিকল্প পদ্ধতি:**কার্নো রেফ্রিজারেটরের জন্য তাপমাত্রার অনুপাত এবং তাপের অনুপাত সমান হয়:[math]\\frac{Q_c}{Q_h} = \\frac{T_c}{T_h}[/math]\u003Cbr\u003E [math]\\frac{100}{Q_h} = \\frac{268.15}{373.15}[/math]\u003Cbr\u003E [math]Q_h = \\frac{100 \\times 373.15}{268.15} \\approx \\frac{37315}{268.15} \\approx 139.18 \\, J[/math]\u003Cbr\u003Eএখানে প্রশ্নে শোষিত তাপ 100 J উল্লেখ করা হয়েছে, যা শীতল আধারে শোষিত তাপ ( [math]Q_c[/math]\u003Cbr\u003E) নির্দেশ করে। কার্নো রেফ্রিজারেটরের ক্ষেত্রে, শীতল আধারে শোষিত তাপের পরিমাণ উষ্ণ আধারে বর্জিত তাপের চেয়ে কম হয়। অপশনগুলির মধ্যে 139.18 J হল উষ্ণ আধারে বর্জিত তাপ।সুতরাং, উষ্ণ আধারে বর্জিত তাপ হবে 139.18 J.",
+        "explanation": "এখন তাপ ত্যাগের পরিমাণ [math]Q_{H}[/math]\u003Cbr\u003E বের করতে:[math]\\frac{Q_{C}}{Q_{H}}=\\frac{T_{C}}{T_{H}}[/math]\u003Cbr\u003E [math]\\frac{100}{Q_{H}}=\\frac{268}{373}[/math]\u003Cbr\u003Eএখন সমীকরণ সমাধান করি:[math]Q_{H}=\\frac{100 \\times 373}{268} \\approx 139.18 \\mathrm{~J}[/math]\u003Cbr\u003Eউত্তর:রেফ্রিজারেটরটি উষ্ণ আধারে প্রায় 139.18J তাপ ত্যাগ করবে।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 419827,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419826,
+      "value": {
+        "options": {
+          "ক": "[math]cop=\\dfrac{Q_2}{W}[/math]",
+          "খ": "[math]cop=\\dfrac{Q_1-Q_2}{Q_1}[/math]",
+          "গ": "[math]cop=\\dfrac{Q_2}{Q_1-Q_2}[/math]",
+          "ঘ": "[math]cop=\\dfrac{T_2}{T_1-T_2}[/math]"
+        },
+        "question": "কোনটি রেফ্রিজারেটরের [math]cop[/math] এর সূত্র (চিহ্নগুলির প্রচলিত অর্থ বহন করে)",
+        "solution": "রেফ্রিজারেটরের COP হলো desired effect বা cooling effect ( [math]Q_2[/math]\u003Cbr\u003E) এবং required work input ( [math]W[/math]\u003Cbr\u003E) এর অনুপাত। যেহেতু [math]W = Q_1 - Q_2[/math]\u003Cbr\u003E, তাই [math]cop = \\dfrac{Q_2}{Q_1-Q_2}[/math]\u003Cbr\u003E সঠিক।",
+        "explanation": "",
+        "correct_answer": "C.[math]cop=\\dfrac{Q_2}{Q_1-Q_2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 419826,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3452,
+          "full_name": "Dinajpur Govt. College",
+          "short_name": "DGC",
+          "slug": "dgc",
+          "pivot": {
+            "question_bank_id": 419826,
+            "tag_id": 3452,
+            "year": "2020",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419825,
+      "value": {
+        "options": {
+          "ক": "[math]3.3 \\times 10^5 J[/math]",
+          "খ": "[math]209200 \\ J[/math]",
+          "গ": "[math]33.9 \\ 500 \\ J[/math]",
+          "ঘ": "[math]1382812 \\ J[/math]"
+        },
+        "question": "কী পরিমাণ তাপ তাপ গ্রাহকে বর্জন করা হয়?",
+        "solution": "গৃহীত তাপ ( [math]Q_1[/math]\u003Cbr\u003E), কৃতকার্য ( [math]W[/math]\u003Cbr\u003E) এবং বর্জিত তাপ ( [math]Q_2[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হলো [math]Q_2 = Q_1 - W[/math]\u003Cbr\u003E । প্রদত্ত তথ্যানুসারে, [math]Q_1 = 3.5 \\times 10^5 J[/math]\u003Cbr\u003E এবং [math]W = 1.408 \\times 10^5 J[/math]\u003Cbr\u003E । সুতরাং, [math]Q_2 = 3.5 \\times 10^5 J - 1.408 \\times 10^5 J = 2.092 \\times 10^5 J = 209200 \\ J[/math]\u003Cbr\u003E ।",
+        "explanation": "",
+        "correct_answer": "D.[math]1382812 \\ J[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 419825,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419824,
+      "value": {
+        "options": {
+          "ক": "1250 J",
+          "খ": "502.5 J",
+          "গ": "500 J",
+          "ঘ": "200 J"
+        },
+        "question": "একটি রেফ্রিজারের কার্যকৃত সহগ [math]K = 2.5[/math]। এটি ঠাণ্ডা প্রকোষ্ঠ হতে প্রতি চক্রে [math]500J[/math] তাপ অপসারণ করলে, প্রতি চক্রে সরবরাহকৃত কাজ কত হবে?",
+        "solution": "রেফ্রিজারেটরের কার্যকৃত সহগ (COP) এর সংজ্ঞা অনুযায়ী, [math]COP = \\frac{ঠান্ডা \\ প্রকোষ্ঠ \\ থেকে \\ অপসারিত \\ তাপ}{সরবরাহকৃত \\ কাজ}[/math]\u003Cbr\u003E।প্রদত্ত আছে, [math]K = 2.5[/math]\u003Cbr\u003E এবং ঠান্ডা প্রকোষ্ঠ হতে অপসারিত তাপ = [math]500J[/math]\u003Cbr\u003E।সুতরাং, [math]2.5 = \\frac{500J}{সরবরাহকৃত \\ কাজ}[/math]\u003Cbr\u003E।অতএব, সরবরাহকৃত কাজ [math]= \\frac{500J}{2.5} = 200J[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 419824,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419823,
+      "value": {
+        "options": {
+          "ক": "4.8",
+          "খ": "3.9",
+          "গ": "7.8",
+          "ঘ": "8.8"
+        },
+        "question": "–10°C এবং 20°C উষ্ণতার মধ্যে ক্রিয়ারত একটি হিমায়কের সর্বোচ্চ কার্যকৃত সহগ—",
+        "solution": "[math]K=\\frac{273-10}{(273+20)-(273-10)}[/math]\u003Cbr\u003E [math]=8.8[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 419823,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419822,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "1.5",
+          "গ": "2",
+          "ঘ": "2.5"
+        },
+        "question": "একটি হিমায়কের শীতল বস্তুর তাপমাত্রা 250 K এবং বাহিরের গরম আবহাওয়ার তাপমাত্রা 500 K। এর কার্যকৃত সহগ কত ?",
+        "solution": "[math]k =\\frac{250}{500-250}[/math]\u003Cbr\u003E [math]=1[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 419822,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419821,
+      "value": {
+        "options": {
+          "ক": "314.5 J",
+          "খ": "312.5 J",
+          "গ": "344.5 J",
+          "ঘ": "304.5 J"
+        },
+        "question": "একটি রেফ্রিজারেটরের কার্যকৃত সহগ 4। এটি শীতল বরফ থেকে প্রতি চক্রে 250 J তাপ অপসারণ করে। প্রতি চক্রে এটি বাহিরে কী পরিমাণ তাপ বর্জন করবে?",
+        "solution": "[math]K=\\frac{Q_{1}}{Q_{2}-Q_{1}}[/math]\u003Cbr\u003E [math]\\Rightarrow 4=\\frac{250}{x-250}[/math]\u003Cbr\u003E [math]x=312.5 \\mathrm{~J}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 419821,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419820,
+      "value": {
+        "options": {
+          "ক": "ক্যালরিমিটারের নীতি",
+          "খ": "তাপগতিবিদ্যার শূন্যতম সূত্র",
+          "গ": "তাপগতিবিদ্যার প্রথম সূত্র",
+          "ঘ": "তাপগতিবিদ্যার দ্বিতীয় সূত্র"
+        },
+        "question": "গরম পানি স্বাভাবিকভাবে ঠাণ্ডা হতে থাকে, কিন্তু পানিকে 'পরিবেশের তুলনায় আরো ঠাণ্ডা করতে বহিঃস্থ শক্তির প্রয়োজন। নিচের কোন নীতি এ ঘটনার সাথে সম্পর্কিত?",
+        "solution": "তাপগতিবিদ্যার দ্বিতীয় সূত্র অনুযায়ী, তাপ স্বতঃস্ফূর্তভাবে গরম বস্তু থেকে ঠান্ডা বস্তুতে যায়। কোনো বস্তুকে পরিবেশের চেয়ে ঠান্ডা করতে হলে বাইরে থেকে শক্তি প্রয়োগ করতে হয়, যা এই সূত্রের একটি প্রয়োগ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 419820,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419809,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "4",
+          "গ": "1.83",
+          "ঘ": "2.33"
+        },
+        "question": "একটি রেফ্রিজারেটর শীতল তাপাধার থেকে 450 তাপ গ্রহণ করে উষ্ণ তাপাধারে ৬০০ এ তাপশক্তি বর্জন করে। রেফ্রিজারেটরটির কার্যসম্পাদন সহগ কত?",
+        "solution": "রেফ্রিজারেটরের কার্যসম্পাদন সহগ (COP) হলো শীতল তাপাধার থেকে গৃহীত তাপ ও কম্প্রেসার দ্বারা কৃত কাজের অনুপাত। এখানে, শীতল তাপাধার থেকে গৃহীত তাপ ( [math]Q_c[/math]\u003Cbr\u003E) = 450 জুল, এবং উষ্ণ তাপাধারে বর্জিত তাপ ( [math]Q_h[/math]\u003Cbr\u003E) = 600 জুল।কৃত কাজ ( [math]W[/math]\u003Cbr\u003E) = [math]Q_h - Q_c[/math]\u003Cbr\u003E = 600 - 450 = 150 জুল।সুতরাং, COP = [math]\\frac{Q_c}{W} = \\frac{450}{150} = 3[/math]\u003Cbr\u003E।",
+        "explanation": "[math]C O P=\\frac{Q_{1}}{Q_{2}-Q_{1}}=\\frac{450}{600-450}=\\frac{450}{150}=3[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 419809,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 419809,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 419809,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419818,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "3",
+          "গ": "5",
+          "ঘ": "7"
+        },
+        "question": "একটি রেফ্রিজারেটর শীতল তাপাধার থেকে 450 J তাপ গ্রহণ করে উষ্ণ তাপাধারে 600 J তাপশক্তি বর্জন করে। রেফ্রিজারেটির কার্য সম্পাদন সহগ কত হবে?",
+        "solution": "[math]\\operatorname{COP}[/math]\u003Cbr\u003E [math]=\\dfrac{450}{(600-450)}[/math]\u003Cbr\u003E [math]=3[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.3"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 419818,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 419818,
+            "tag_id": 16,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419817,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "3",
+          "গ": "5",
+          "ঘ": "7"
+        },
+        "question": "একটি রেফ্রিজারেটর শীতল তাপাধার থেকে 450J তাপ গ্রহণ করে উষ্ণ তাপাধারে 600J তাপশক্তি বর্জন করে। রেফ্রিজারেটরটির কার্য সম্পাদন সহগ কত হবে?",
+        "solution": "[math]C O P=\\dfrac{450}{(600-450)}=3[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 419817,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 419817,
+            "tag_id": 16,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419816,
+      "value": {
+        "options": {
+          "ক": "500 J",
+          "খ": "125 J",
+          "গ": "252 J",
+          "ঘ": "375 J"
+        },
+        "question": "একটি রেফ্রিজারেটরের কর্মসম্পাদন সহগ [math]2[/math]। এটি শীতল তাপাধার হতে প্রতি চক্রে [math]250J[/math] তাপ গ্রহণ করে। রেফ্রিজারেটরটি প্রতি চক্রে কী পরিমাণ তাপ উষ্ণ তাপাধারে বর্জন করবে?",
+        "solution": "[math]\\dfrac{Q_{2}}{Q_{1}-Q_{2}}=2 \\Rightarrow \\dfrac{250}{Q_{1}-250}=2 \\Rightarrow Q_{1}=375 \\mathrm{~J}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 419816,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 419816,
+            "tag_id": 11,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419815,
+      "value": {
+        "options": {
+          "ক": "150 J",
+          "খ": "600 J",
+          "গ": "302 J",
+          "ঘ": "289 J"
+        },
+        "question": "একটি রেফ্রিজারেটরের কর্মসম্পাদন সহগ 2। এটি শীতল তাপাধার হতে প্রতি চক্রে 300 J তাপ গ্রহণ করলে সম্পাদিত কাজের পরিমাণ কত?",
+        "solution": "[math]\\mathrm{K}=\\frac{\\mathrm{Q}_{1}}{\\mathrm{~W}} \\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{W}=\\frac{\\mathrm{Q}_{1}}{\\mathrm{~K}}=\\frac{300}{2}[/math]\u003Cbr\u003E [math]=150 \\mathrm{~J}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.150 J"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 419815,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 419815,
+            "tag_id": 11,
+            "year": "23-24",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419814,
+      "value": {
+        "options": {
+          "ক": "[math]1.83[/math]",
+          "খ": "[math]1.15[/math]",
+          "গ": "[math]0.55[/math]",
+          "ঘ": "[math]1.33[/math]"
+        },
+        "question": "কোন রেফ্রিজারেটর [math]700J[/math] তাপ তাপাধারে বর্জন করে এবং ঠাণ্ডা প্রকোষ্ঠ থেকে [math]400 J[/math] তাপ অপসারণ করলে কার্য সম্পাদন সহগ কত?",
+        "solution": "[math]\\mathrm{k}=\\frac{\\mathrm{Q}_{1}}{\\mathrm{Q}_{2}-\\mathrm{Q}_{1}}=\\frac{400}{700-400}=\\frac{4}{3}=1.33[/math]",
+        "explanation": "",
+        "correct_answer": "D.[math]1.33[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 419814,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 419814,
+            "tag_id": 80,
+            "year": "21-22",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419813,
+      "value": {
+        "options": {
+          "ক": "হিমায়ন",
+          "খ": "তাপ ইঞ্জিন",
+          "গ": "লীন তাপ",
+          "ঘ": "হিমায়ক"
+        },
+        "question": "তাপকে নিম্ন তাপমাত্রা থেকে উচ্চ তাপমাত্রায় পাঠানোর প্রক্রিয়াকে কী বলে?",
+        "solution": "কতিপয় গুরুত্বপূর্ণ সংজ্ঞা:\n\n• হিমায়ন → তাপকে নিম্ন তাপমাত্রা থেকে উচ্চ তাপমাত্রায় পাঠানোর প্রক্রিয়াকে হিমায়ন বলে।\n\n• তাপ ইঞ্জিন → যে যন্ত্র দ্বারা তাপশক্তিকে যান্ত্রিক শক্তিতে রূপান্তর করা যায় তাকে তাপ ইঞ্জিন বলে।\n\n• হিমায়ক → নিম্ন স্ফুটনাঙ্কের কোন তরল পরিপার্শ্ব হতে লীনতাপ বা সুপ্ততাপ গ্রহণ করে পরিপার্শ্বকে শীতল করে তাকে হিমায়ক বলে।",
+        "explanation": "",
+        "correct_answer": "A.হিমায়ন"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 419813,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 419813,
+            "tag_id": 3225,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419812,
+      "value": {
+        "options": {
+          "ক": "1250 J",
+          "খ": "502.5 J",
+          "গ": "500 J",
+          "ঘ": "200 J"
+        },
+        "question": "একটি রেফ্রিজারেটরের কার্যকৃত সহগ [math]K = 2.5[/math]। এটি ঠান্ডা প্রকোষ্ঠ হতে প্রতি চক্রে [math]500\\ J[/math] তাপ অপসারণ করলে, প্রতি চক্রে সরবরাহকৃত কাজ কত হবে?",
+        "solution": "[math]\\begin{array}{l} \\text { COP, } \\mathrm{K}=\\dfrac{\\mathrm{Q}_{1}}{\\mathrm{~W}} \\\\ \\therefore \\mathrm{W}=\\dfrac{\\mathrm{Q}_{1}}{\\mathrm{~K}}=\\dfrac{500 \\mathrm{~J}}{2.5}=200 \\mathrm{~J} \\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 419812,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 419812,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 419812,
+            "tag_id": 1,
+            "year": "2016",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419811,
+      "value": {
+        "options": {
+          "ক": "[math]K=\\frac{Q_1}{Q_2-Q_1}[/math]",
+          "খ": "[math]K=\\frac{Q_1}{Q_1-Q_2}[/math]",
+          "গ": "[math]K=\\frac{Q_2}{Q_1-Q_2}[/math]",
+          "ঘ": "[math]K=\\frac{Q_2}{Q_2-Q_1}[/math]"
+        },
+        "question": "রেফ্রিজারেটর প্রকোষ্ঠে রক্ষিত খাদ্যদ্রব্য হতে গৃহীত তাপ [math]Q_2[/math] এবং পরিবেশে বর্জিত তাপ [math]Q_1[/math] হলে কার্যসহগ [math]K[/math] এর মান হল—",
+        "solution": "রেফ্রিজারেটরের দক্ষতা বা কর্মসম্পাদন সহগ হচ্ছে নিম্নতাপমাত্রার তাপাধার হতে অপসারিত তাপ ও বহিঃস্থ সংস্থা বা কম্প্রেসর কর্তৃক সম্পাদিত কাজের অনুপাত।একে [math]COP[/math]\u003Cbr\u003E বা [math]K[/math]\u003Cbr\u003E দ্বারা প্রকাশ করা হয়।[math]COP[/math]\u003Cbr\u003E বা [math]K=\\dfrac{Q_2}{W}\\qquad[/math]\u003Cbr\u003E [এখানে, [math]Q_2[/math]\u003Cbr\u003E সিস্টেম কর্তৃক গৃহীত তাপ এবং [math]W[/math]\u003Cbr\u003E সিস্টেমের উপর কৃতকাজ][math]\\hspace{3.2 cm}=\\dfrac{Q_{2}}{Q_{1}-Q_{2}}=\\dfrac{T_{2}}{T_{1}-T_{2}}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 419811,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 419811,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 419811,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 419810,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "4",
+          "গ": "1.83",
+          "ঘ": "2.33"
+        },
+        "question": "একটি রেফ্রিজারেটর শীতল তাপাধার থেকে 450 J তাপ গ্রহণ করে উষ্ণ তাপাধারে 600 J তাপশক্তি বর্জন করে। রেফ্রিজারেটরটির কার্যসম্পাদন সহগ কত?",
+        "solution": "• [math]\\operatorname{COP}=\\frac{\\mathrm{Q}_{1}}{\\mathrm{Q}_{2}-\\mathrm{Q}_{1}}[/math]\u003Cbr\u003E [math]=\\frac{450}{600-450}=\\frac{450}{150}=3[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.3"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6327,
+      "created_at": "2025-08-19T07:04:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 419810,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 419810,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 419810,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-08-19T07:04:54.000000Z",
+            "updated_at": "2025-08-19T07:04:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6327&grade=1&lesson=6618&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6327&grade=1&lesson=6618&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6327&grade=1&lesson=6618&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 21,
+  "total": 21
+}

@@ -1,0 +1,1401 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 414693,
+      "value": {
+        "options": {
+          "ক": "সমানুপাতিক",
+          "খ": "বর্গের ব্যাস্তানুপাতিক",
+          "গ": "বর্গের সমানুপাতিক",
+          "ঘ": "বর্গমূলের সমানুপাতিক"
+        },
+        "question": "কোন গ্যাস অণুর গড় মুক্তপথ এর ব্যাসের–",
+        "solution": "[math]\\lambda=\\dfrac{1}{\\sqrt{2} h \\pi \\sigma^{2}} \\Rightarrow \\lambda \\propto \\dfrac{1}{\\sigma^{2}}[/math]",
+        "explanation": "",
+        "correct_answer": "B. বর্গের ব্যাস্তানুপাতিক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 414693,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 414693,
+            "tag_id": 474,
+            "year": "14-15",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414703,
+      "value": {
+        "options": {
+          "গ": "গ্যাসের অণুর গড় মুক্তপথ নির্ণয় কর।"
+        },
+        "question": "সায়মান [math]30^\\circ C[/math] তাপমাত্রায় গ্যাস ভর্তি একটি বেলুন নিয়ে পরীক্ষা করছে। বেলুনের প্রতি ঘন সেমিতে [math]6 \\times 10^{19}[/math] টি অণু আছে। প্রতি অণুর ব্যাস [math]3 \\times 10^{-8} \\mathrm{~m}[/math]। অতঃপর চাপ অর্ধেক করে সে বেলুনটিকে [math]10^\\circ C[/math] তাপমাত্রায় ঠাণ্ডা করে আয়তনের শতকরা পরিবর্তন হিসাব করলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, প্রতিটি অণুর ব্যাস, [math]\\mathrm{d}=3 \\times 10^{-8} \\mathrm{~m}[/math]\u003Cbr\u003Eপ্রতি ঘনমিটারে অণুসংখ্যা, [math]\\mathrm{n}=\\frac{6 \\times 10^{19}}{10^{-6}}=6 \\times 10^{25}[/math]\u003Cbr\u003Eগ্যাসের অণুর গড় মুক্তপথ, [math]\\lambda = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1cm}\\begin{aligned}\\lambda & =\\frac{1}{\\sqrt{2} \\pi \\mathrm{d}^{2} \\mathrm{n}} \\\\& =\\frac{1}{\\sqrt{2} \\times 3.1416 \\times\\left(3 \\times 10^{-8}\\right)^{2} \\times 6 \\times 10^{25}} \\\\& =4.17 \\times 10^{-12} \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E গ্যাসের অণুর গড় মুক্তপথ [math]4.17 \\times 10^{-12} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গড় মুক্তপথের সূত্র হল [math]\\lambda=\\frac{1}{\\sqrt{2}\\pi d^2 n}[/math] যেখানে [math]n[/math]কে মি³-তে নিতে হবে, তাই [math]n=6\\times10^{19}\\ \\text{cm}^{-3}=6\\times10^{25}\\ \\text{m}^{-3}[/math] এবং [math]d=3\\times10^{-8}\\ \\text{m}[/math]. প্রতি পদে বসালে denominatorটি হয় [math]\\sqrt{2}\\pi d^2 n\\approx2.4\\times10^{11}\\ \\text{m}^{-1}[/math], ফলে [math]\\lambda\\approx\\frac{1}{2.4\\times10^{11}}\\approx4.17\\times10^{-12}\\ \\text{m}\\ (4.17\\ \\text{pm})[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414703,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 371,
+          "full_name": "Noakhali Govt. College",
+          "short_name": "NGC",
+          "slug": "ngc",
+          "pivot": {
+            "question_bank_id": 414703,
+            "tag_id": 371,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414702,
+      "value": {
+        "options": [],
+        "question": "কোন গ্যাস, অণুর ব্যাস [math]2 \\times 10^{-10} \\mathrm{~m}[/math] এবং প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা [math]5 \\times 10^{20}[/math] হলে অণুর গড় মুক্ত পথ নির্ণয় কর।",
+        "solution": "( Answer : [math]1.59 \\times 10^{-8} \\mathrm{~m}[/math] )",
+        "explanation": "ব্যাখ্যা: গড় মুক্ত পথের সূত্র হল [math]\\lambda=\\dfrac{1}{\\sqrt{2}\\,n\\,\\pi d^{2}}[/math]. এখানে [math]n=5\\times10^{20}\\ \\text{cm}^{-3}=5\\times10^{26}\\ \\text{m}^{-3}[/math] এবং [math]d=2\\times10^{-10}\\ \\text{m}[/math], ফলে গণনায় [math]\\lambda\\approx\\frac{1}{\\sqrt{2}\\times5\\times10^{26}\\times\\pi\\times(2\\times10^{-10})^{2}}\\approx1.13\\times10^{-8}\\ \\text{m}[/math] (প্রায় [math]1.1\\times10^{-8}\\ \\text{m}[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414702,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414701,
+      "value": {
+        "options": [],
+        "question": "যদি অক্সিজেন গ্যাসের NTP-তে গড় মুক্ত পথ [math]9.5 \\times 10^{-6} \\mathrm{~cm}[/math] হয় তবে একটি অণুর পরপর দুটি ধাক্কা খাওয়ার মধ্যে সময়ের অবকাশ কত? অক্সিজেনের আণবিক ভর [math]=32 ; \\mathrm{R}=8.31 \\mathrm{~J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}[/math]।",
+        "solution": "( Answer : [math]1.97 \\times 10^{-10} \\mathrm{~s}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,গড় মুক্তপথ,[math]\\begin{aligned}\\lambda & =9.5 \\times 10^{-6} \\mathrm{~cm} \\\\& =9.5 \\times 10^{-8} \\cdot \\mathrm{m}\\end{aligned}[/math]\u003Cbr\u003Eঅক্সিজেনের মোলার ভর, [math]\\mathrm{M}=32 \\times 10^{-3}[/math]\u003Cbr\u003ENTP তে তাপমাত্রা, [math]\\mathrm{T}=298 \\mathrm{K}[/math]\u003Cbr\u003Eএবং [math]\\mathrm{R}=8.31 \\mathrm{Jmol}^{-1} \\mathrm{~K}^{-1}[/math]\u003Cbr\u003Eআমরা জানি,অক্সিজেন অণুর rms বেগ,[math]\\begin{aligned}\\mathrm{C} & =\\sqrt{\\frac{3 \\mathrm{RT}}{\\mathrm{M}}} \\\\& =\\sqrt{\\frac{3 \\times 8.31 \\times 298}{32 \\times 10^{-3}}} \\\\& =481.83 \\mathrm{~ms}^{-1}\\end{aligned}[/math]\u003Cbr\u003Eএখন,একটি অণুর পরপর ধাক্কা খাওয়ার মধ্যবর্তী সময় t হলে, [math]\\lambda=\\mathrm{Ct}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{t}=\\frac{\\lambda}{\\mathrm{C}}=\\frac{9.5 \\times 10^{-8}}{481.83}[/math]\u003Cbr\u003E [math]=1.97 \\times 10^{-10} \\mathrm{~s} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "আণবুর গড় মুক্ত পথ দিয়ে ধাওয়া-ধাক্কার মধ্যবর্তী সময় পাওয়া যায় মানে গড় পথকে গড় গতিতে ভাগ করে। \n\n[math]v_{\\rm rms}=\\sqrt{\\dfrac{3RT}{M}}=\\sqrt{\\dfrac{3\\times8.31\\times273}{0.032}}\\approx461\\ \\mathrm{m/s}[/math] এবং [math]l=9.5\\times10^{-6}\\ \\mathrm{cm}=9.5\\times10^{-8}\\ \\mathrm{m}[/math], অতএব\n\n[math]\\tau=\\dfrac{l}{v_{\\rm rms}}\\approx\\dfrac{9.5\\times10^{-8}}{461}\\approx2.06\\times10^{-10}\\ \\mathrm{s}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414701,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414700,
+      "value": {
+        "options": [],
+        "question": "কোনো গ্যাস অণুর ব্যাস [math]2 \\times 10^{-10} \\mathrm{~m}[/math] এবং প্রতি ঘন সেন্টিমিটারে অণু র সংখ্যা [math]5 \\times 10^{20}[/math] হলে অণুর গড় মুক্ত পথ নির্ণয় করো ৷",
+        "solution": "( Answer : [math]1.13 \\times 10^{-8} \\mathrm{~m}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,গ্যাস অণুর ব্যাস, [math]\\sigma=2 x[/math]\u003Cbr\u003E [math]10^{-10} \\mathrm{~m}=2 \\times 10^{-8} \\mathrm{~cm}[/math]\u003Cbr\u003Eএকক আয়তনের অণুর সংখ্যা, [math]\\mathrm{n}=5 \\times 10^{20} \\mathrm{cc}^{-1}[/math]\u003Cbr\u003Eগড় মুক্ত পথ, [math]\\lambda=?[/math]\u003Cbr\u003Eআমরা জানি, ম্যাক্সওয়েলের সূত্রানুসারে,[math]\\lambda=\\frac{1}{\\sqrt{2} n \\pi \\sigma^{2}}[/math]\u003Cbr\u003E [math]=\\frac{1}{\\sqrt{2} \\times 5 \\times 10^{20} \\times \\pi \\times\\left(2 \\times 10^{-8}\\right)^{2}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=1.13 \\times 10^{-6} \\mathrm{~cm} \\\\=1.13 \\times 10^{-8} \\mathrm{~m} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: গড় মুক্ত পথের সূত্র [math]\\lambda=\\dfrac{1}{\\sqrt{2}\\pi d^{2}n}[/math]; এখানে [math]d=2\\times10^{-10}\\,\\mathrm{m}[/math] এবং [math]n=5\\times10^{20}\\,\\text{cm}^{-3}=5\\times10^{26}\\,\\text{m}^{-3}[/math]. হিসাব করলে [math]\\lambda=\\dfrac{1}{\\sqrt{2}\\pi(2\\times10^{-10})^{2}(5\\times10^{26})}\\approx1.13\\times10^{-8}\\,\\mathrm{m}\\;(=11.3\\,\\text{nm})[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414700,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414699,
+      "value": {
+        "options": [],
+        "question": "একটি গ্যাসের অণুর ব্যাসার্ধ [math]3 \\times 10^{-10} \\mathrm{~m}[/math] এবং প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা [math]6 \\times 10^{20}[/math] হলে অণুর গড় মুক্তপথ নির্ণয় করো ।",
+        "solution": "( Answer : [math]4.17 \\times 10^{-9} \\mathrm{~m}[/math])",
+        "explanation": "ব্যাখ্যা: গড় মুক্তপথের সূত্র হল [math]\\lambda=\\dfrac{1}{\\sqrt{2}\\,n\\pi d^{2}}[/math], যেখানে [math]d=2r[/math]। এখানে [math]n=6\\times10^{20}\\ \\text{cm}^{-3}=6\\times10^{26}\\ \\text{m}^{-3}[/math] এবং [math]d=6\\times10^{-10}\\ \\text{m}[/math], ফলে গ্রহকের মান [math]\\sqrt{2}n\\pi d^{2}\\approx9.6\\times10^{8}\\ \\text{m}^{-1}[/math] হয়। তাই [math]\\lambda\\approx\\dfrac{1}{9.6\\times10^{8}}\\approx1.04\\times10^{-9}\\ \\text{m}\\ (\\approx1.0\\ \\text{nm})[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414699,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414698,
+      "value": {
+        "options": {
+          "ঘ": "খালি সিলিন্ডার যুক্ত করায় গ্যাসের অণুর গড় মুক্ত পথের পরিবর্তন হবে কি-না গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।"
+        },
+        "question": "একটি গ্যাস সিলিন্ডারের আয়তন [math]1.5 \\mathrm{~m}^{3}[/math] সিলিন্ডারটিতে [math]27^\\circ C[/math] তাপমাত্রায় কোনো গ্যাসের [math]30 \\times 10^{25}[/math] টি অণু আবদ্ধ আছে। গ্যাস অণুর ব‍্যাস [math]25 \\times 10^{-25}[/math]। পরবর্তীতে উক্ত গ্যাসপূর্ণ সিলিন্ডারটি সমআয়তনের অপর একটি খালি সিলিন্ডারের সাথে যুক্ত করা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক হতে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসিলিন্ডারের আয়তন [math]1.5 \\mathrm{~m}^{3}[/math]\u003Cbr\u003E।[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅণুর সংখ্যা, [math]=30 \\times 10^{25}[/math]\u003Cbr\u003E টি[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রতি ঘনমিটারে অণুর সংখ্যা, [math]\\mathrm{n}=\\dfrac{30 \\times 10^{25}}{1.5}=2 \\times 10^{26}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅণুর ব্যাস, [math]\\mathrm{d}=25 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eগড় মুক্তপথ, [math]\\lambda=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad\\lambda=\\dfrac{1}{\\sqrt{2} \\pi d^{2} n}=\\dfrac{1}{\\sqrt{2} \\times 3.1416 \\times\\left(25 \\times 10^{-10}\\right)^{2} \\times 2 \\times 10^{26}} \\\\ \\therefore ~\\lambda=18 \\times 10^{-10} \\mathrm{~m} \\end{array}[/math]\u003Cbr\u003Eআবার, সিলিন্ডারটির সাথে সমআয়তনের অপর একটি খালি সিলিন্ডার যুক্ত করা হলে গ্যাসে পাত্রের আয়তন দ্বিগুণ হবে।অর্থাৎ, পরিবর্তিত আয়তন হবে [math](2 \\times 1.5) \\mathrm{m}^{3}=3 \\mathrm{~m}^{3}[/math]\u003Cbr\u003Eএক্ষেত্রে, প্রতি ঘনমিটারে অণুর সংখ্যা,[math]\\hspace{1.5 cm}\\mathrm{n}=\\dfrac{30 \\times 10^{25}}{3}=10 \\times 10^{25}[/math]\u003Cbr\u003E টি[math]\\therefore[/math]\u003Cbr\u003E গড় মুক্তপথ,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad\\lambda_{1}=\\dfrac{1}{\\sqrt{2} \\times 3.1416 \\times 10 \\times 10^{25} \\times\\left(25 \\times 10^{-10}\\right)^{2}} \\therefore \\lambda_{1}=3.6 \\times 10^{-10} \\mathrm{~m} \\\\ \\therefore \\dfrac{\\lambda_{1}}{\\lambda}=\\dfrac{3.6 \\times 10^{-10} \\mathrm{~m}}{1.8 \\times 10^{-10} \\mathrm{~m}}=2 . \\\\ \\therefore \\lambda_{1}=2 \\lambda \\end{array}[/math]\u003Cbr\u003Eসুতরাং দেখা যাচ্ছে গ্যাস পূর্ণ সিলিন্ডারের সমআয়তনের অপর একটি খালি সিলিন্ডারের সাথে যুক্ত করায় গড় মুক্তপথ দ্বিগুণ হয়। আয়তন বাড়লে অণুসমূহ বেশি পথ অতিক্রম করে যার ফলে গড় মুক্তপথ বেশি হয়।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: গ্যাসের মোট অণু সংখ্যা অপরিবর্তিত থেকে নতুন মোট আয়তন হবে [math]2V[/math], সুতরাং নতুন ঘনত্ব [math]n_2=\\frac{N}{2V}=\\frac{n_1}{2}[/math]. গড় মুক্ত পথ [math]\\lambda\\propto\\frac{1}{n}[/math] হওয়ায় [math]\\lambda_2=2\\lambda_1[/math] হবে, অর্থাৎ গড় মুক্ত পথ দ্বিগুণ বাড়বে (তাপমাত্রা ও অণুর কার্যকর ক্রস-শ্রেণী অপরিবর্তিত ধরা হয়েছে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 414698,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414698,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 414698,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414697,
+      "value": {
+        "options": {
+          "ক": "[math]2.55 \\times 10^{26}[/math]",
+          "খ": "[math]2.55 \\times 10^{24}[/math]",
+          "গ": "[math]2.55 \\times 10^{20}[/math]",
+          "ঘ": "[math]1.81 \\times 10^{26}[/math]"
+        },
+        "question": "কোনো গ্যাসের অণুর বড় মুক্ত পথ [math]2.2 \\times 10^{-8} \\mathrm{~m}[/math] এবং ব্যাস [math]2 \\times 10^{-10} \\mathrm{~m}[/math] হলে প্রতি ঘনসেন্টিমিটারে অণুর সংখ্যা কত?",
+        "solution": "গ্যাসের অণুর গড় মুক্ত পথ [math](\\lambda)[/math]\u003Cbr\u003E এবং অণুর ব্যাস [math](d)[/math]\u003Cbr\u003E এর মধ্যে সম্পর্ক হল [math]\\lambda = \\frac{1}{\\sqrt{2} \\pi d^2 n}[/math]\u003Cbr\u003E, যেখানে [math]n[/math]\u003Cbr\u003E হলো প্রতি একক আয়তনে অণুর সংখ্যা।প্রশ্নানুসারে, [math]\\lambda = 2.2 \\times 10^{-8} \\mathrm{~m}[/math]\u003Cbr\u003E এবং [math]d = 2 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E।সুতরাং, [math]n = \\frac{1}{\\sqrt{2} \\pi d^2 \\lambda}[/math]\u003Cbr\u003E।মান বসিয়ে পাই:[math]n = \\frac{1}{\\sqrt{2} \\pi (2 \\times 10^{-10} \\mathrm{~m})^2 (2.2 \\times 10^{-8} \\mathrm{~m})}[/math]\u003Cbr\u003E [math]n = \\frac{1}{\\sqrt{2} \\pi (4 \\times 10^{-20} \\mathrm{~m}^2) (2.2 \\times 10^{-8} \\mathrm{~m})}[/math]\u003Cbr\u003E [math]n = \\frac{1}{\\sqrt{2} \\pi (8.8 \\times 10^{-28} \\mathrm{~m}^3)}[/math]\u003Cbr\u003E [math]n \\approx \\frac{1}{1.414 \\times 3.14159 \\times 8.8 \\times 10^{-28} \\mathrm{~m}^3}[/math]\u003Cbr\u003E [math]n \\approx \\frac{1}{39.17 \\times 10^{-28} \\mathrm{~m}^3}[/math]\u003Cbr\u003E [math]n \\approx 0.0255 \\times 10^{28} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003E [math]n \\approx 2.55 \\times 10^{26} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003Eপ্রশ্নানুসারে প্রতি ঘনসেন্টিমিটারে অণুর সংখ্যা নির্ণয় করতে হবে।[math]1 \\mathrm{~m} = 100 \\mathrm{~cm}[/math]\u003Cbr\u003E [math]1 \\mathrm{~m}^3 = (100 \\mathrm{~cm})^3 = 10^6 \\mathrm{~cm}^3[/math]\u003Cbr\u003Eসুতরাং, প্রতি ঘনসেন্টিমিটারে অণুর সংখ্যা হবে:[math]n_{\\text{cm}^3} = \\frac{2.55 \\times 10^{26} \\mathrm{~m}^{-3}}{10^6 \\mathrm{~cm}^3/\\mathrm{m}^3}[/math]\u003Cbr\u003E [math]n_{\\text{cm}^3} = 2.55 \\times 10^{26-6} \\mathrm{~cm}^{-3}[/math]\u003Cbr\u003E [math]n_{\\text{cm}^3} = 2.55 \\times 10^{20} \\mathrm{~cm}^{-3}[/math]\u003Cbr\u003Eগ্যাস অণুর গড় মুক্ত পথ পদার্থের প্রকৃতির উপর নির্ভর করে। এটি তাপমাত্রা এবং চাপের উপর নির্ভরশীল।",
+        "explanation": "",
+        "correct_answer": "C.[math]2.55 \\times 10^{20}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414697,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3315,
+          "full_name": "Ispahani Public School And College. Chattogram",
+          "short_name": "IPSCC",
+          "slug": "ipscc",
+          "pivot": {
+            "question_bank_id": 414697,
+            "tag_id": 3315,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414696,
+      "value": {
+        "options": {
+          "ক": "[math]1.875 \\times 10^{-5} \\mathrm{~cm}[/math]",
+          "খ": "[math]3.75 \\times 10^{-7} \\mathrm{~cm}[/math]",
+          "গ": "[math]3.75 \\times 10^{-7} \\mathrm{~cm}[/math]",
+          "ঘ": "[math]3.50 \\times 10^{-7} \\mathrm{~cm}[/math]"
+        },
+        "question": "কোন গ্যাস অণুর ব্যাস [math]2.0 \\times 10^{-8} cm[/math] এবং প্রতি ঘনমিটারে অণুর সংখ্যা [math]3 \\times 19^{19}[/math] টি হলে অণুর গড়মুক্ত পথ কত?",
+        "solution": "[math]\\lambda=\\frac{1}{\\sqrt{2} \\pi \\mathrm{a}^{2} \\mathrm{n}}=\\frac{1}{\\sqrt{2} \\times \\pi \\times\\left(2 \\times 10^{-8}\\right)^{2} \\times 3 \\times 10^{19}}=1.875 \\times 10^{-5} \\mathrm{~cm}[/math]",
+        "explanation": "",
+        "correct_answer": "A.[math]1.875 \\times 10^{-5} \\mathrm{~cm}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 414696,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 414696,
+            "tag_id": 480,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414695,
+      "value": {
+        "options": {
+          "ক": "[math]2.345\\times 10^{26}[/math]",
+          "খ": "[math]3.2\\times 10^{22}[/math]",
+          "গ": "[math]2.342\\times 10^{28}[/math]",
+          "ঘ": "[math]3.5\\times 10^{20}[/math]",
+          "ঙ": "[math]2.344\\times 10^{20}[/math]"
+        },
+        "question": "কোন একটি গ্যাসের অণুগুলোর গড় মুক্ত পথ [math]2.4 \\times 10^{-6} \\mathrm{~cm}[/math] ও আনবিক ব্যাস [math]2.0 \\times 10^{-8} \\mathrm{~cm}[/math] হলে প্রতি ঘন সেন্টিমিটা সংখ্যা কত?",
+        "solution": "[math]\\lambda=2.4 \\times 10^{-6} \\mathrm{~cm}, \\sigma=2 \\times 10^{-8} \\mathrm{~cm}, \\mathrm{n}=?[/math]\u003Cbr\u003Eম্যাক্সওয়েল অনুসারে [math]\\lambda=\\dfrac{1}{\\sqrt{2} \\pi \\sigma^{2} n} \\Rightarrow n=2.3445 \\times 10^{20}[/math]\u003Cbr\u003E[এ অঙ্কে [math]\\rm{cm}[/math]\u003Cbr\u003E কে [math]\\rm{m}[/math]\u003Cbr\u003E বানানো লাগবে না কারন সবাই [math]\\text { C.G.S }[/math]\u003Cbr\u003E এ আছে।]",
+        "explanation": "",
+        "correct_answer": "E. [math]2.344\\times 10^{20}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 414695,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 414695,
+            "tag_id": 88,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414694,
+      "value": {
+        "options": {
+          "ক": "[math]2.42\\times 10^{-8}\\mathrm{~m}[/math]",
+          "খ": "[math]2.42\\times 10^{-6}\\mathrm{~m}[/math]",
+          "গ": "[math]4.22\\times 10^{-8}\\mathrm{~m}[/math]",
+          "ঘ": "[math]4.22\\times 10^{-6}\\mathrm{~m}[/math]",
+          "ঙ": "[math]\\text{None}[/math]"
+        },
+        "question": "একটি গ্যাসের অণুর ব্যাসার্ধ [math]3.5 \\times 10^{-10} \\mathrm{~m}[/math] এবং প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা [math]2.69 \\times 10^{19}[/math]। অণুর গড় মুক্ত পথ কত?",
+        "solution": "[math]\\lambda=\\dfrac{1}{\\pi d^{2} n}=\\dfrac{1}{\\lambda \\times\\left(2 \\times 3.5 \\times 10^{-10} \\times 100\\right)^{2} \\times 2.69 \\times 10^{19}}=2.42 \\times 10^{-6} \\mathrm{~cm}=2.42 \\times 10^{-8} \\mathrm{~m}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 414694,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 414694,
+            "tag_id": 109,
+            "year": "14-15",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414683,
+      "value": {
+        "options": {
+          "ক": "গড় মুক্তপথ তাপমাত্রার ব্যস্তানুপাতিক",
+          "খ": "গড় মুক্তপথ চাপের ব্যস্তানুপাতিক",
+          "গ": "গড় মুক্তপথ ঘনত্বের সমানুপাতিক",
+          "ঘ": "গড় মুক্তপথ অণুর সংখ্যার সমানুপাতিক"
+        },
+        "question": "গড় মুক্তপথের ক্ষেত্রে কোনটি সঠিক?",
+        "solution": "গ্যাসীয় পদার্থের অণুগুলির দুটি সংঘর্ষের মধ্যবর্তী গড় দূরত্বকে গড় মুক্তপথ (mean free path) বলা হয়। গড় মুক্তপথ গ্যাসের চাপ [math]P[/math]\u003Cbr\u003E এর ব্যস্তানুপাতিক হয়। অর্থাৎ, গ্যাসের চাপ যত বেশি হবে, অণুগুলি তত ঘন ঘন সংঘর্ষে লিপ্ত হবে এবং গড় মুক্তপথ তত কম হবে। এটি গ্যাসের অণুর আকার এবং তাপমাত্রার উপরও নির্ভর করে, তবে চাপের সাথে সম্পর্কটি সবচেয়ে সরল এবং সরাসরি।গড় মুক্তপথ ( [math]\\lambda[/math]\u003Cbr\u003E) নিম্নলিখিত সূত্র দ্বারা প্রকাশ করা যেতে পারে:[math]\\lambda = \\frac{1}{\\sqrt{2} \\pi d^2 n}[/math]\u003Cbr\u003Eযেখানে [math]d[/math]\u003Cbr\u003E হল অণুর ব্যাস এবং [math]n[/math]\u003Cbr\u003E হল প্রতি একক আয়তনে অণুর সংখ্যা।গ্যাসের চাপ [math]P[/math]\u003Cbr\u003E এবং প্রতি একক আয়তনে অণুর সংখ্যা [math]n[/math]\u003Cbr\u003E এর মধ্যে সম্পর্কটি আদর্শ গ্যাস সূত্র ( [math]PV=NkT[/math]\u003Cbr\u003E) থেকে পাওয়া যায়, যেখানে [math]N[/math]\u003Cbr\u003E হল মোট অণুর সংখ্যা, [math]V[/math]\u003Cbr\u003E হল আয়তন, [math]k[/math]\u003Cbr\u003E হল বোল্টজম্যান ধ্রুবক এবং [math]T[/math]\u003Cbr\u003E হল তাপমাত্রা।সুতরাং, [math]n = \\frac{N}{V} = \\frac{P}{kT}[/math]\u003Cbr\u003E।এই [math]n[/math]\u003Cbr\u003E-এর মান গড় মুক্তপথের সূত্রে বসালে আমরা পাই:[math]\\lambda = \\frac{kT}{\\sqrt{2} \\pi d^2 P}[/math]\u003Cbr\u003Eএই সূত্র থেকে দেখা যায় যে গড় মুক্তপথ চাপ [math]P[/math]\u003Cbr\u003E-এর ব্যস্তানুপাতিক।বিকল্প A ভুল কারণ গড় মুক্তপথ তাপমাত্রার সাথে সরাসরি সমানুপাতিক, ব্যস্তানুপাতিক নয়।বিকল্প C ভুল কারণ গড় মুক্তপথ ঘনত্বের সমানুপাতিক নয়, বরং ঘনত্বের (অর্থাৎ [math]n[/math]\u003Cbr\u003E) ব্যস্তানুপাতিক।বিকল্প D ভুল কারণ গড় মুক্তপথ অণুর সংখ্যার (প্রতি একক আয়তনে) ব্যস্তানুপাতিক, সমানুপাতিক নয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414683,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 414683,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414692,
+      "value": {
+        "options": {
+          "ক": "সমানুপাতিক",
+          "খ": "বর্গের ব্যস্তানুপাতিক",
+          "গ": "বর্গের সমানুপাতিক",
+          "ঘ": "ব্যস্তানুপাতিক"
+        },
+        "question": "গড় মুক্ত পথ গ্যাসের ঘনত্ব এর–",
+        "solution": "গড় মুক্ত পথ গ্যাসের ঘনত্বের ব্যস্তানুপাতিক। গ্যাসের অণুর সংখ্যা যত বেশি হবে (অর্থাৎ ঘনত্ব বেশি হবে), তাদের মধ্যে সংঘর্ষের সম্ভাবনাও তত বেশি হবে, ফলে দুটি সংঘর্ষের মধ্যবর্তী গড় দূরত্ব কমে যাবে।এই সম্পর্কটি kinetic theory of gases থেকে আসে, যেখানে গড় মুক্ত পথ ( [math]\\lambda[/math]\u003Cbr\u003E) কে নিম্নলিখিতভাবে প্রকাশ করা হয়:[math]\\lambda = \\frac{1}{\\sqrt{2} \\pi d^2 n}[/math]\u003Cbr\u003Eএখানে, [math]n[/math]\u003Cbr\u003E হলো প্রতি একক আয়তনে অণুর সংখ্যা, যা গ্যাসের ঘনত্বের ( [math]ρ[/math]\u003Cbr\u003E) সাথে সরাসরি সমানুপাতিক ( [math]n \\propto \\rho[/math]\u003Cbr\u003E)। তাই,[math]\\lambda \\propto \\frac{1}{\\rho}[/math]\u003Cbr\u003Eসুতরাং, গড় মুক্ত পথ ঘনত্বের ব্যস্তানুপাতিক।",
+        "explanation": "",
+        "correct_answer": "D. ব্যস্তানুপাতিক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 414692,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 414692,
+            "tag_id": 84,
+            "year": "16-17",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414691,
+      "value": {
+        "options": {
+          "ক": "[math]5\\times 10^{-8}\\mathrm{~m}[/math]",
+          "খ": "[math]5.8\\mathrm{~nm}[/math]",
+          "গ": "[math]0.6\\mathrm{~nm}[/math]",
+          "ঘ": "[math]8\\times 10^{-8}\\mathrm{~m}[/math]",
+          "ঙ": "[math]0.72\\mathrm{~nm}[/math]"
+        },
+        "question": "কোন গ্যাস অণুর ব্যাস [math]2.5 \\times 10^{-10} \\mathrm{~m}[/math] এবং প্রতি ঘণমিটার গ্যাস অণুর সংখ্যা [math]6.02 \\times 10^{25}[/math]। গ্যাসটির গড় মুক্ত পথ কত হবে?",
+        "solution": "ম্যাক্সওয়েলের সূত্রানুসারে [math]\\lambda=\\dfrac{1}{\\sqrt{2} \\pi \\sigma^{2} n}=5.97 \\times 10^{-8} \\mathrm{~m}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 414691,
+            "year_id": 12
+          }
+        },
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 414691,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 414691,
+            "tag_id": 88,
+            "year": "17-18",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        },
+        {
+          "id": 501,
+          "full_name": "Chittagong University of Engineering & Technology",
+          "short_name": "CUET",
+          "slug": "cuet",
+          "pivot": {
+            "question_bank_id": 414691,
+            "tag_id": 501,
+            "year": "09-10",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414690,
+      "value": {
+        "options": {
+          "ক": "অপরিবর্তিত থাকবে",
+          "খ": "বৃদ্ধি পাবে",
+          "গ": "কমবে",
+          "ঘ": "জটিলভাবে পরিবর্তিত হবে"
+        },
+        "question": "যখন গ্যাসের ঘনত্ব বৃদ্ধি পায় তখন অণুর গড় মুক্ত পথ–",
+        "solution": "[math]\\lambda \\propto \\frac{1}{\\rho}[/math] এখানে, গড় মুক্তপথ গ্যাসের ঘনত্বের ব্যস্তানুপাতিক, চাপের ব্যস্তানুপাতিক এবং পরম তাপমাত্রার সমাণুপাতিক। অর্থাৎ, ঘনত্ব বৃদ্ধি পেলে গড় মুক্তপথ কমবে।",
+        "explanation": "",
+        "correct_answer": "C.কমবে"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 414690,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 788,
+          "full_name": "Chattogram Veterinary and Animal Sciences University",
+          "short_name": "CVASU",
+          "slug": "cvasu",
+          "pivot": {
+            "question_bank_id": 414690,
+            "tag_id": 788,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414689,
+      "value": {
+        "options": {
+          "ক": "[math]9.38 \\times 10^{-12} \\mathrm{~m}[/math]",
+          "খ": "[math]9.38 \\times 10^{-11} \\mathrm{~m}[/math]",
+          "গ": "[math]9.38 \\times 10^{-10} \\mathrm{~m}[/math]",
+          "ঘ": "[math]9.38 \\times 10^{-9} \\mathrm{~m}[/math]"
+        },
+        "question": "প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা [math]1.5 \\times 10^9[/math] এবং অণুর পারমাণবিক ব্যাসার্ধ [math]2 \\times 10^{-8} , \\text{m}[/math] হলে, গড় মুক্ত পথ (mean free path) কত হবে?",
+        "solution": "[math]\\begin{aligned}\\lambda & =\\frac{1}{\\sqrt{2} \\pi \\sigma^{2} \\mathrm{n}} \\\\\\Rightarrow \\lambda & =\\frac{1}{\\sqrt{2} \\times 3.1416 \\times\\left(4 \\times 10^{-8}\\right)^{2} \\times 1.5 \\times 10^{19} \\times 10^{6}} \\\\& =9.38 \\times 10^{-12} \\mathrm{~m}\\end{aligned}[/math]",
+        "explanation": "",
+        "correct_answer": "A.[math]9.38 \\times 10^{-12} \\mathrm{~m}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 414689,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 414689,
+            "tag_id": 11,
+            "year": "22-23",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414688,
+      "value": {
+        "options": {
+          "ক": "[math]\\lambda \\propto \\rho[/math]",
+          "খ": "[math]\\lambda \\propto \\frac{1}{\\rho}[/math]",
+          "গ": "[math]\\lambda \\propto \\frac{1}{\\rho^{2}}[/math]",
+          "ঘ": "[math]\\lambda \\propto \\rho^{2}[/math]"
+        },
+        "question": "গ্যাসের অণুর গড় মুক্তপথ (১) ও ঘনত্ব (p) এর মধ্যে সম্পর্ক",
+        "solution": "গড় মুক্ত পথ, [math]\\lambda=\\frac{\\mathrm{m}}{\\pi \\sigma^{2} \\rho}[/math]\u003Cbr\u003E [math]\\therefore \\lambda \\propto \\frac{1}{\\rho}[/math]\u003Cbr\u003E [কারণ [math]\\mathrm{m}, \\pi[/math]\u003Cbr\u003E ও [math]\\sigma^{2}[/math]\u003Cbr\u003E ধ্রুবক।]সুতরাং গড় মুক্ত পথ গ্যাসের ঘনত্বের ব্যস্থানুপাতিক",
+        "explanation": "",
+        "correct_answer": "B.[math]\\lambda \\propto \\frac{1}{\\rho}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 414688,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 414688,
+            "tag_id": 119,
+            "year": "22-23",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414687,
+      "value": {
+        "options": {
+          "ক": "λ = kT / P",
+          "খ": "λ = 1 / (√2 π d² n)",
+          "গ": "λ = RT / PV",
+          "ঘ": "λ = √(3RT/M)"
+        },
+        "question": "বোল্টজম্যানের গড় মুক্ত পথের সমীকরণ কোনটি?",
+        "solution": "এই বিকল্পটি বোল্টজম্যানের গড় মুক্ত পথের সমীকরণ নির্দেশ করে। গড় মুক্ত পথ ( [math]\\lambda[/math]\u003Cbr\u003E) হল গ্যাসীয় অণুগুলির দুটি সংঘর্ষের মধ্যে অতিক্রান্ত গড় দূরত্ব। এটি অণুর আকার ( [math]d[/math]\u003Cbr\u003E) এবং গ্যাসের ঘনত্ব ( [math]n[/math]\u003Cbr\u003E) এর উপর নির্ভর করে। [math]\\sqrt{2}[/math]\u003Cbr\u003E গুণকটি সংঘর্ষের আপেক্ষিক গতিকে বিবেচনা করার জন্য আসে।অতিরিক্ত তথ্য:বোল্টজম্যানের গড় মুক্ত পথের সমীকরণটি গ্যাস অণুর গতিবিদ্যার একটি গুরুত্বপূর্ণ ধারণা। এটি গ্যাসের সান্দ্রতা, তাপ পরিবাহিতা এবং ব্যাপন হারের মতো ধর্মগুলি বোঝার জন্য ব্যবহৃত হয়।বিকল্প A, [math]\\lambda = kT / P[/math]\u003Cbr\u003E, এখানে [math]k[/math]\u003Cbr\u003E হল বোল্টজম্যান ধ্রুবক, [math]T[/math]\u003Cbr\u003E হল তাপমাত্রা এবং [math]P[/math]\u003Cbr\u003E হল চাপ। এটি গড় মুক্ত পথের সাথে সম্পর্কিত হলেও সরাসরি সমীকরণ নয়।বিকল্প C, [math]\\lambda = RT / PV[/math]\u003Cbr\u003E, এখানে [math]R[/math]\u003Cbr\u003E হল সার্বজনীন গ্যাস ধ্রুবক, [math]T[/math]\u003Cbr\u003E হল তাপমাত্রা, [math]P[/math]\u003Cbr\u003E হল চাপ এবং [math]V[/math]\u003Cbr\u003E হল আয়তন। এটি আদর্শ গ্যাস সূত্র ( [math]PV=nRT[/math]\u003Cbr\u003E) থেকে প্রাপ্ত, কিন্তু গড় মুক্ত পথের সমীকরণ নয়।বিকল্প D, [math]\\lambda = \\sqrt{(3RT/M)}[/math]\u003Cbr\u003E, এখানে [math]R[/math]\u003Cbr\u003E হল সার্বজনীন গ্যাস ধ্রুবক, [math]T[/math]\u003Cbr\u003E হল তাপমাত্রা এবং [math]M[/math]\u003Cbr\u003E হল মোলার ভর। এটি গ্যাসের অণুগুলির গড় বর্গমূল গড় বেগ (root-mean-square speed) এর সাথে সম্পর্কিত, গড় মুক্ত পথ নয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 414687,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 414687,
+            "tag_id": 80,
+            "year": "21-22",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414686,
+      "value": {
+        "options": {
+          "ক": "[math]3\\times 10^{-3}\\mathrm{~cm}[/math]",
+          "খ": "[math]3\\times 10^4\\mathrm{~cm}[/math]",
+          "গ": "[math]3\\times 10^{-5}\\mathrm{~cm}[/math]",
+          "ঘ": "[math]6\\times 10^{-6}\\mathrm{~cm}[/math]"
+        },
+        "question": "একটি গ্যাস অণুর ব্যাস [math]2 \\times 10^{-10} \\mathrm{~m}[/math] এবং প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা [math]3 \\times 10^{19}[/math] হলে গ্যাস অণুর গড় মুক্তপথ হবে।",
+        "solution": "[math]\\lambda=\\dfrac{1}{n \\pi \\sigma^{2}}=\\dfrac{1}{3 \\times 10^{19} \\times 3.1416 \\times\\left(2 \\times 10^{-8}\\right)^{2}}=2.65 \\times 10^{-5} \\approx 3 \\times 10^{-5} \\mathrm{~cm}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 414686,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 414686,
+            "tag_id": 8,
+            "year": "16-17",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414685,
+      "value": {
+        "options": {
+          "ক": "গ্যাসের ঘনত্বের",
+          "খ": "গ্যাস অণুর আণবিক ব্যাসের",
+          "গ": "একক আয়তনে অণুর সংখ্যার বর্গের",
+          "ঘ": "অণুর অতিক্রান্ত দূরত্বের"
+        },
+        "question": "গ্যাসের গড়মুক্ত পথ ব্যস্তানুপাতিক হবে–",
+        "solution": "[math]\\lambda_c=\\frac{1}{\\pi\\sigma^2n}\\\\=\\frac{m}{\\pi\\sigma^2nm}\\\\=\\frac{m}{\\pi\\sigma^2M}\\\\=\\frac{m}{\\pi\\sigma^2 \\rho}\\\\\\Rightarrow \\lambda_c = \\frac{ধ্রুবক}{\\rho}\\\\\\therefore \\lambda_c \\propto \\frac{1}{\\rho}[/math]",
+        "explanation": "",
+        "correct_answer": "A.গ্যাসের ঘনত্বের"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 414685,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 414685,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414685,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 414685,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 414685,
+            "tag_id": 6,
+            "year": "2016",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414684,
+      "value": {
+        "options": {
+          "ক": "বর্গের সমানুপাতিক",
+          "খ": "সমানুপাতিক",
+          "গ": "ব্যস্তানুপাতিক",
+          "ঘ": "বর্গের ব্যস্তানুপাতিক"
+        },
+        "question": "গ্যাস অণুর গড় মুক্ত পথ গ্যাসের ঘনত্বের—",
+        "solution": "গড় মুক্তিপথের ক্লসিয়াস -এর সমীকরণঃ[math]\\lambda_C = \\frac{1}{\\pi \\sigma^2 n} \\\\= \\frac{m}{\\pi \\sigma^2 nm}\\\\=\\frac {m}{\\pi \\sigma^2M}\\\\= \\frac{m}{\\pi \\sigma^2 \\rho} \\\\\\therefore \\lambda \\ \\alpha \\ \\frac{1}{\\rho}[/math]",
+        "explanation": "",
+        "correct_answer": "C.ব্যস্তানুপাতিক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414684,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 414684,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 414684,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414684,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414684,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414684,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        },
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 414684,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 414684,
+            "tag_id": 6,
+            "year": "2016",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6604&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6604&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6604&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 21,
+  "total": 21
+}

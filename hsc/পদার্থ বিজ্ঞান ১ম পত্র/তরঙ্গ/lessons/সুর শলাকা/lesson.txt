@@ -1,0 +1,2576 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 414442,
+      "value": {
+        "options": {
+          "গ": "[math]B[/math] সুরশলাকার [math]250[/math] কম্পনে শব্দ কত দূরত্ব অতিক্রম করবে। নির্ণয় কর।"
+        },
+        "question": "প্রতি সেকেন্ডে [math]5[/math] টি বীট সৃষ্টি করার লক্ষ্যে দুটি সুরশলাকা [math]A[/math] ও [math]B[/math] নেওয়া হলো। [math]A[/math] সুরশলাকা হতে সৃষ্ট শব্দের তীব্রতা [math]1.01 \\times 10^{5} \\ {Wm}^{-2}[/math] এবং বিস্তার [math]0.02\\ m[/math]। [math]B[/math] সুরশলাকার কম্পাঙ্ক [math]161\\ Hz[/math]। (মাধ্যমের ঘনত্ব [math]1.25 {~kg} {~m}^{-3}[/math] এবং শব্দের বে গ [math]350\\ m s^{-1}[/math])।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,কম্পাঙ্ক, [math]f_{\\mathrm{B}}=161 \\mathrm{~Hz}[/math]\u003Cbr\u003Eশব্দের বেগ, [math]\\mathrm{v}=350 \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003EB সুরশলাকার শব্দের তরঙ্গ দৈর্ঘ্য,[math]\\hspace{1.5cm}\\begin{aligned}\\lambda_{\\mathrm{B}} & =\\frac{\\mathrm{v}}{f_{\\mathrm{B}}} \\\\\\Rightarrow \\lambda_{\\mathrm{B}} & =\\frac{350}{161} \\mathrm{~m} \\\\\\therefore \\quad \\lambda_{\\mathrm{B}} & =2.174 \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E B সুর শলাকার 250 কম্পনে শব্দ কর্তৃক অতিক্রান্ত দূরত্ব[math]\\hspace{1.5cm}\\begin{array}{l}=250 \\times \\lambda_{\\mathrm{B}} \\\\=250 \\times 2.174 \\mathrm{~m}=543.5 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eনির্ণেয় অতিক্রান্ত দূরত্ব 543.5m [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রতিটি কম্পনে শব্দ একটি তরঙ্গদৈর্ঘ্য অতিক্রম করে, তাই [math]250[/math] কম্পনে অতিক্রম করা দূরত্ব হবে [math]250[/math] গুণ তরঙ্গদৈর্ঘ্য। তরঙ্গদৈর্ঘ্য [math]\\lambda=\\dfrac{v}{f}=\\dfrac{350}{161}\\ \\text{m}\\approx2.173\\ \\text{m}[/math], তাই দূরত্ব [math]=250\\lambda=250\\times\\dfrac{350}{161}\\approx543.5\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414442,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3304,
+          "full_name": "Gazipur Govt. Mohila College,",
+          "short_name": "GGMC",
+          "slug": "ggmc",
+          "pivot": {
+            "question_bank_id": 414442,
+            "tag_id": 3304,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:06.000000Z",
+            "updated_at": "2025-08-19T06:54:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414441,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের [math]B[/math] সুরশলাকা থেকে উৎপন্ন তরঙ্গটি দিয়ে একটি স্থির তরঙ্গ গঠন করা যাবে কি? গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "[math]A[/math] ও [math]B[/math] দুটি সুরশলাকা হতে উৎপন্ন দুটি শব্দ তরঙ্গ শুধুমাত্র কম্পাঙ্কের পার্থক্য রাখে। এতে করে [math]5[/math] টি বীট উৎপন্ন হলো। [math]B[/math] এর বাহুতে ঘোম যুক্ত করে কম্পিত করা হলে একই সংখ্যক বীট উৎপন্ন হয়। [math]A[/math] এর তরঙ্গের সমীকরণ :\n\n[math]\\mathrm{Y}=0.5 \\sin (400 \\pi t-x)\\left[p=0.02 \\mathrm{~kg} \\mathrm{~m}^{-3}\\ right][/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, A সুরশলাকার কম্পাঙ্ক, [math]f_{\\mathrm{A}}=200 \\mathrm{~Hz}[/math]\u003Cbr\u003E [গ নং থেকে ]ধরি, B সুরশলাকার কম্পাঙ্ক, [math]f_{\\mathrm{B}}[/math]\u003Cbr\u003E5 টি বীট উৎপন্ন হয় বলে,[math]\\hspace{1cm}\\begin{aligned}f_{\\mathrm{A}}&\\sim f_{\\mathrm{B}}=5\\\\\\Rightarrow f_{\\mathrm{B}}&=\\mathrm{f}_{\\mathrm{A}}+5\\\\&=200+5=205\\mathrm{~Hz}\\end{aligned}[/math]\u003Cbr\u003E [ভর যুক্ত করে বীট অপরিবর্তিত]আবার,[math]\\begin{aligned}\\mathrm{V} & =f_{\\mathrm{B}} \\lambda_{\\mathrm{B}} \\\\\\Rightarrow \\lambda_{\\mathrm{B}} & =\\frac{\\mathrm{V}}{f_{\\mathrm{B}}} \\\\& =\\frac{1256.4 \\mathrm{~m} \\mathrm{~s}^{-1}}{205 \\mathrm{~Hz}}=6.1287 \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eআবার,[math]\\hspace{1cm}\\begin{array}{l}\\mathrm{Y_{B_1}}=0.5\\mathrm{\\sin\\frac{2\\pi}{6.1287}(1256.4t-x)}\\\\\\mathrm{Y_{B_2}}=0.5\\mathrm{\\sin\\frac{2\\pi}{6.1287}(1256.4t+x)}\\end{array}[/math]\u003Cbr\u003Eস্থির অবস্থায়, [math]\\mathrm{Y}=\\mathrm{Y_{B_1}+Y_{B_2}}[/math]\u003Cbr\u003E [math]\\hspace{2.8cm}=2 \\mathrm{a} \\cos \\frac{2 \\pi}{\\lambda_{\\mathrm{B}}} \\mathrm{x} \\sin \\frac{2 \\pi}{\\lambda_{\\mathrm{B}}} \\mathrm{vt}[/math]\u003Cbr\u003E [math]\\hspace{.5cm}\\begin{aligned}\\Rightarrow \\mathrm Y & =2 \\times 0.5 \\cos \\frac{2 \\pi}{6.1287} \\times \\sin \\frac{2 \\pi}{6.1287} \\times 1256.4 \\mathrm{t} \\\\& =\\cos 1.03 \\times \\sin 410 \\pi \\mathrm{t}\\end{aligned}[/math]\u003Cbr\u003E [math]\\hspace{1.8cm}=\\mathrm{A\\sin410\\pi t}\\hspace{1.5cm}[/math]\u003Cbr\u003E [যেখানে বিস্তার [math]\\mathrm{A}=\\cos 1.03 \\mathrm{x}[/math]\u003Cbr\u003E]এটি স্থির তরঙ্গের সমীকরণ।অতএব, B সুরশলাকা থেকে উৎপন্ন তরঙ্গটি দিয়ে স্থির তরঙ্গ গঠন করা যাবে। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: একক উৎস [math]B[/math] থেকে যাওয়া শুধুমাত্র একটি চলন্ত তরঙ্গ, তাই তা দিয়ে নিজে থেকেই স্থির তরঙ্গ তৈরি হবে না — স্থির তরঙ্গ তৈরির জন্য সমান কম্পাঙ্ক ও সমান amplitud-এর বিপরীত দিকের একটি তরঙ্গও দরকার। উদাহরণস্বরূপ, যদি বিপরীত দিকে একই মাত্রার প্রতিফলিত তরঙ্গ থাকে, তখন\n[math]y_1=0.5\\sin(400\\pi t-x),\\quad y_2=0.5\\sin(400\\pi t+x)[/math]\nমিলিয়ে পাওয়া যাবে\n[math]y=y_1+y_2=\\sin(400\\pi t)\\cos x[/math],\nঅর্থাৎ তখনই স্থির তরঙ্গ গঠিত হবে; প্রতিফলন‑ই না থাকলে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414441,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3516,
+          "full_name": "Holy Cross College",
+          "short_name": "HLC",
+          "slug": "hlc",
+          "pivot": {
+            "question_bank_id": 414441,
+            "tag_id": 3516,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:06.000000Z",
+            "updated_at": "2025-08-19T06:54:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414440,
+      "value": {
+        "options": {
+          "গ": "উল্লিখিত তরঙ্গটির কম্পাঙ্ক কত?"
+        },
+        "question": "[math]Y=15 \\sin (660 \\pi t-0.02 \\pi t) \\mathrm{cm}[/math]\n\nউপরের সমীকরণটি একটি সুরশলাকা থেকে নিঃসৃত শব্দ তরঙ্গের সমীকর। শলাকাটিকে পানিতে নিয়ে কাঁপানো হলে সৃষ্ট শব্দ তরঙ্গের তরঙ্গ দৈর্ঘ্যের পার্থক্য [math]385\\mathrm{cm}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eপ্রদত্ত সমীকরণ, [math]\\mathrm y=15\\mathrm{\\sin(660\\pi t-0.02\\pi x)cm}[/math]\u003Cbr\u003Eএ সমীকরণকে [math]\\mathrm y=\\mathrm{Q\\sin\\frac{2\\pi}{\\lambda}(vt-x)}[/math]\u003Cbr\u003E এর সাথে তুলনা করে পাই,[math]\\begin{array}{c}\\frac{2 \\pi}{\\lambda} \\mathrm{x}=0.02 \\pi \\mathrm{x} \\\\\\Rightarrow \\lambda=\\frac{2}{0.02}=100 \\mathrm{~cm}=1 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eআবার, [math]\\frac{2 \\pi}{\\lambda} \\mathrm{v}=660 \\pi[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\mathrm{v}=\\frac{660 \\times 1}{2}=330 \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E কম্পাঙ্ক, [math]f=\\frac{\\mathrm{v}}{\\lambda}[/math]\u003Cbr\u003E [math]\\hspace{2.5cm}=\\frac{330 \\mathrm{~m} \\mathrm{~s}^{-1}}{1 \\mathrm{~m}}=330 \\mathrm{~Hz}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E তরঙ্গটির কম্পাঙ্ক 330 Hz. [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমীকরণে সময়ের সহগ (কোণীয় কম্পাঙ্ক) হচ্ছে [math]\\omega=660\\pi[/math], তাই কম্পাঙ্ক [math]f=\\frac{\\omega}{2\\pi}=\\frac{660\\pi}{2\\pi}=330\\ \\text{Hz}[/math]; (যদি ছোট টার্মটি টাইপো না থাকে তবুও মিলবে প্রায় একই ফল)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414440,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 414440,
+            "tag_id": 3179,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:06.000000Z",
+            "updated_at": "2025-08-19T06:54:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414439,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে [math]P[/math] ও [math]Q[/math] সুরশলাকার কম্পাঙ্ক নির্ণয় কর।"
+        },
+        "question": "[math]P,\\ Q[/math] ও [math]R[/math] তিনট সুরশলাকা একটি নির্দিষ্ট মাধ্যমে রাখা হলো। [math]P[/math] সুরশলাকার [math]8[/math] টি পূর্ণ তরঙ্গদৈর্ঘ্য [math]Q[/math] সুরশলাকার [math]5[/math] টি পূর্ণ তরঙ্গদৈর্ঘ্যের সমান। তাদের মধ্যে কম্পাঙ্কের পার্থক্য [math]60\\ Hz[/math]। কিন্তু [math]R[/math] সুরশলাকা দ্বারা সৃষ্ট অগ্রগামী তরঙ্গের সমীকরণ [math]Y=0.2 \\sin 2 \\pi\\left(100 t- \\dfrac{x}{15}\\right) m[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, [math]\\mathrm P[/math]\u003Cbr\u003E এর কম্পাঙ্ক [math]=f_{\\mathrm{P}}[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\mathrm Q[/math]\u003Cbr\u003E এর কম্পাঙ্ক [math]=f_{\\mathrm{Q}}[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\mathrm P[/math]\u003Cbr\u003E এর তরঙ্গদৈর্ঘ্য [math]=\\lambda_{P}[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\mathrm Q[/math]\u003Cbr\u003E এর তরঙ্গদৈর্ঘ্য [math]=\\lambda_{Q}[/math]\u003Cbr\u003Eশর্তমতে, [math]4 \\lambda_{\\mathrm{P}}=5 \\lambda_{\\mathrm{Q}}[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\mathrm\\lambda_{P}=\\frac{5}{4} \\lambda_{Q}[/math]\u003Cbr\u003Eযেহেতু [math]\\lambda_{\\mathrm{P}}\u003E\\lambda_{\\mathrm{Q}}[/math]\u003Cbr\u003E সেহেতু [math]f_{\\mathrm{Q}}\u003Ef_{\\mathrm{P}}[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\therefore f_{\\mathrm{Q}}-f_{\\mathrm{P}}=60..................\\text{(i)}[/math]\u003Cbr\u003Eআবার, [math]\\mathrm{v}=f_{\\mathrm{P}} \\lambda_{\\mathrm{P}}=f_{\\mathrm{Q}} \\lambda_{\\mathrm{Q}}[/math]\u003Cbr\u003E [math]\\hspace{.5cm}\\begin{array}{l}\\Rightarrow f_{\\mathrm{P}}\\times\\frac{5}{4}\\lambda_{\\mathrm{Q}}=f_{\\mathrm{Q}}\\lambda_{\\mathrm{Q}}\\\\\\Rightarrow\\frac{5}{4}f_{\\mathrm{P}}=f_{\\mathrm{Q}}...............\\text{(ii)}\\end{array}[/math]\u003Cbr\u003E(ii) কে (i) এ ব্যবহার করে পাই,[math]\\hspace{1.5cm}\\begin{array}{l}\\ \\ \\ \\ \\frac{5}{4}f_{\\mathrm{P}}-f_{\\mathrm{P}}=60\\\\\\Rightarrow\\frac{f_{\\mathrm{P}}}{4}=60\\\\\\therefore f_{\\mathrm{P}}=240\\end{array}[/math]\u003Cbr\u003E [math]f_P[/math]\u003Cbr\u003E এর মান (i) এ বসিয়ে পাই,[math]\\hspace{1.5cm}\\begin{array}{l}f_{Q}-240=60 \\\\\\therefore f_{Q}=300 \\mathrm{~Hz}\\end{array}[/math]\u003Cbr\u003Eঅতএব, P ও Q সুর শলাকার কম্পাঙ্ক যথাক্রমে 260 Hz ও 300Hz [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E একই মাধ্যমে থাকায় তরঙ্গগতিবেগ [math]v[/math] সমান, এবং [math]8\\lambda_P=5\\lambda_Q[/math] হওয়ার কারণে [math]\\lambda_Q=\\dfrac{8}{5}\\lambda_P[/math]. যেহেতু [math]f=\\dfrac{v}{\\lambda}[/math], তাই [math]f_Q=\\dfrac{5}{8}f_P[/math] এবং পার্থক্য [math]f_P-f_Q=\\dfrac{3}{8}f_P=60\\ Hz[/math] থেকে [math]f_P=160\\ Hz[/math], ফলে [math]f_Q=100\\ Hz[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414439,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3432,
+          "full_name": "BAF Shaheen college, Jessore",
+          "short_name": "BAFSCJ",
+          "slug": "bafscj",
+          "pivot": {
+            "question_bank_id": 414439,
+            "tag_id": 3432,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:06.000000Z",
+            "updated_at": "2025-08-19T06:54:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414438,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে ছাত্রীর ব্যবহৃত সুরশলাকার কম্পাঙ্ক কত?"
+        },
+        "question": "জনৈক ছাত্র একটি সুরশলাকায় আঘাত করায় [math]512\\ Hz[/math] কম্পাঙ্কবিশিষ্ট শব্দ উৎপন্ন হয়। পরবর্তীতে জনৈক ছাত্রী অজ্ঞাত কম্পাঙ্কবিশিষ্ট আরেকটি সুরশলাকায় আঘাত করলে সেকেন্ডে এটি বিট শোনা যায় ৷ ছাত্রীর সুরশলাকায় মোম লাগিয়ে আঘাত করায় বিট [math]1[/math] সংখ্যা কমে যায়। শ্রেণিকক্ষে উপস্থিত জনৈক শিক্ষক ধারণা করেন দুটি সুরশলাকা একত্রে শব্দায়িত করায় উৎপন্ন তীব্রতা লেভেল একটি সুরশলাকা দ্বারা উৎপন্ন, তীব্রতা লেভেলের দ্বিগুণ হবে। উভয় সুরশলাকা দ্বারা উৎপন্ন শব্দের তীব্রতা [math]10^{-8} W m^{-2}.[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, [math]f_{\\mathrm{A}}=512 \\mathrm{~Hz}[/math]\u003Cbr\u003E [math]\\hspace{.5cm}[/math]\u003Cbr\u003Eবিট, N = 7ছাত্রীর ব্যবহৃত সুরশলাকার কম্পাঙ্ক, [math]f_B[/math]\u003Cbr\u003Eযেহেতু মোম লাগানোর পর বিট কমে সেহেতু ছাত্রীর সুরশলাকার কম্পাংক [math]f_B, f_A[/math]\u003Cbr\u003E এর চেয়ে বেশি ছিল।[math]\\hspace{1.5cm}\\begin{aligned}\\therefore f_{\\mathrm{B}} & =f_{\\mathrm{A}}+\\mathrm{N} \\\\& =512+7 \\\\& =519 \\mathrm{~Hz}\\end{aligned}[/math]\u003Cbr\u003Eনির্ণেয় কম্পাঙ্ক 519 Hz [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রাথমিক বিটের হার যদি [math]3\\ \\text{Hz}[/math] হয় তাহলে অপর সুরশলাকার কম্পাঙ্ক ছিল [math]512\\pm3\\ \\text{Hz}[/math]। মোম লাগানোর ফলে বিট একে কমেছে অর্থাৎ সুরশলাকার কম্পাঙ্ক [math]1\\ \\text{Hz}[/math] ধরে হ্রাস পেয়েছে এবং বিট কমার মানে দ্বিতীয় সুরশলাকা বড় কম্পাঙ্কের হওয়ায় এটির মান হবে [math]512+3=515\\ \\text{Hz}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414438,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3504,
+          "full_name": "Govt. Edward College, Pabna",
+          "short_name": "GECP",
+          "slug": "gecp",
+          "pivot": {
+            "question_bank_id": 414438,
+            "tag_id": 3504,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:06.000000Z",
+            "updated_at": "2025-08-19T06:54:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414437,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে উল্লেখিত তরঙ্গের কম্পাঙ্ক কত?"
+        },
+        "question": "একটি সুর শলাকা থেকে নিঃসৃত শব্দ তরঙ্গের সমীকরণ নিম্নরূপ :\n\n[math]y=15 \\sin (660 \\pi t-0.02 \\pi x) \\mathrm{cm}[/math]\n\nপরবর্তীতে সুরশলাকাটিকে পানিকে ডুবিয়ে কম্পন সৃষ্টি করা হলে দেখা যায় যে, সৃষ্ট তরঙ্গের তরঙ্গদৈ র্ঘ্যের পার্থক্য হয় [math]385\\ cm[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, [math]\\mathrm y=15\\sin(660\\pi t-0.02\\pi x)\\mathrm{cm}[/math]\u003Cbr\u003Eআদর্শ সমীকরণ, [math]\\mathrm{y}=\\mathrm{Q}\\sin \\left(\\omega\\mathrm{t}-\\frac{2\\pi}{\\lambda}\\mathrm{x}\\right)[/math]\u003Cbr\u003E এর সাথে তুলনা করে পাই,বিস্তার, a = 15 cm[math]\\begin{array}{l}\\ \\ \\ \\ \\omega=2\\pi f=660\\pi\\\\\\Rightarrow2f=660\\\\\\Rightarrow f=330\\mathrm{~Hz}\\end{array}[/math]\u003Cbr\u003Eঅতএব তরঙ্গটির কম্পাঙ্ক [math]330 \\mathrm{~Hz}[/math]\u003Cbr\u003E। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমীকরণে থেটার সহগটি হলো [math]ω=660\\pi[/math], এবং কম্পাঙ্কের সূত্র [math]f=\\dfrac{ω}{2\\pi}[/math] অনুসারে [math]f=\\dfrac{660\\pi}{2\\pi}=330\\ \\text{Hz}[/math]. \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উত্তর: [math]330\\ \\text{Hz}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414437,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3534,
+          "full_name": "Netrakona Govt. College, Netrakona",
+          "short_name": "NGCN",
+          "slug": "ngcn",
+          "pivot": {
+            "question_bank_id": 414437,
+            "tag_id": 3534,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:06.000000Z",
+            "updated_at": "2025-08-19T06:54:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414436,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে উল্লিখিত [math]P[/math] মাধ্যমে শব্দের বেগ কত?"
+        },
+        "question": "[math]A[/math] ও [math]B[/math] দুটি সুরশলাকার কম্পাঙ্ক যথাক্রমে [math]480\\ Hz\\ ও\\ 256\\ Hz[/math]। এদের দ্বারা [math]P[/math] মাধ্যমে সৃষ্ট তরঙ্গ দৈর্ঘ্যের পার্থক্য [math]0.52m[/math]। [math]B[/math] সুরশলাকার সাথে একই মাধ্যমে একটি দুই মুখ খোলা নল প্রতি সেকেন্ডে [math]8[/math]টি বীট উৎপন্ন করে। [math]B[/math] সুর শলাকার বাহুতে সামান্য মোম লাগিয়ে বীট সংখ্যা বৃদ্ধি করা যায়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eনির্দিষ্ট মাধ্যমে নির্দিষ্ট তাপমাত্রায় কম্পাংক ও তরঙ্গদৈর্ঘ্য ব্যস্তানুপাতিক ।এখানে, [math]f_{\\mathrm{A}}=480 \\mathrm{~Hz}[/math]\u003Cbr\u003E, এবং [math]f_{\\mathrm{B}}=256 \\mathrm{~Hz}[/math]\u003Cbr\u003Eধরি, P মাধ্যমে তরঙ্গবে, vতাই, [math]\\lambda_{B}-\\lambda_{A}=0.52[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow\\frac{\\mathrm{v}}{f_{\\mathrm{B}}}-\\frac{\\mathrm{v}}{f_{\\mathrm{A}}}=0.52\\left[\\because\\mathrm{v}=f_{\\lambda}\\right]\\\\\\Rightarrow\\frac{\\mathrm{v}}{256}-\\frac{\\mathrm{v}}{480}=0.52\\\\\\Rightarrow\\frac{480\\mathrm{v}-256\\mathrm{v}}{256\\times480}=0.52\\\\\\Rightarrow224\\mathrm{v}=0.52\\times256\\times480\\\\\\therefore\\mathrm v=\\frac{0.52\\times256\\times480}{224}=285\\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ P মাধ্যমে শব্দের বেগ [math]285 \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: তরঙ্গদৈর্ঘ্যগুলি [math]\\lambda_A=v/480[/math] এবং [math]\\lambda_B=v/256[/math], তাই [math]\\lambda_B-\\lambda_A=0.52\\Rightarrow v\\Big(\\frac{1}{256}-\\frac{1}{480}\\Big)=0.52[/math]. এ থেকে [math]v=0.52\\div\\Big(\\frac{1}{256}-\\frac{1}{480}\\Big)\\approx285.26\\ \\text{m/s}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414436,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3535,
+          "full_name": "GRCF",
+          "short_name": "GRCF",
+          "slug": "grcf",
+          "pivot": {
+            "question_bank_id": 414436,
+            "tag_id": 3535,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:06.000000Z",
+            "updated_at": "2025-08-19T06:54:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414435,
+      "value": {
+        "options": {
+          "গ": "পরীক্ষাগারে [math]A[/math] শলাকা দ্বারা সৃষ্ট শব্দের বেগ নির্ণয় কর।"
+        },
+        "question": "নিচের চিত্রে কোন এক পরীক্ষাগারে দুটি সুরশলাকা [math]A[/math] ও [math]B[/math] কে শব্দায়িত করলে যে তরঙ্গ উৎপন্ন হয় তার লেখচিত্র দেখানো হলো :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy201920tp20cq-8_1755586446_txDRk7ob.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, তরঙ্গ দৈর্ঘ্য, [math]\\lambda=0.7 \\mathrm{~m}[/math]\u003Cbr\u003Eপর্যায়কাল, T = 0.002sশব্দের বেগ, v = ?আমরা জানি, [math]\\mathrm{v}=f \\lambda=\\frac{1}{\\mathrm{~T}} \\times \\lambda[/math]\u003Cbr\u003E [math]\\hspace{4cm}\\begin{array}{l}=\\frac{1}{0.002} \\times 0.7 \\\\=350 \\mathrm{~m} \\mathrm{~s}^{-1}\\end{array}[/math]\u003Cbr\u003Eপরীক্ষাগারে A শলাকা দ্বারা সৃষ্ট শব্দের বেগ [math]350 \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E A শলাকার তরঙ্গের বেগ [math]v=f_A\\lambda[/math] সূত্র থেকে নির্ণয় করা হয়; লেখচিত্র থেকে দুইটি ধারাবাহিক ক্রেস্ট (অথবা trough) এর মধ্যকার দূরত্ব নেওয়া হলে তা হলো [math]\\lambda[/math] এবং আগের অংশে পাওয়া A’র কম্পন সংখ্যা [math]f_A[/math] দিয়ে গুণ করলে বেগ পাওয়া যায়: [math]v=f_A\\lambda[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414435,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3338,
+          "full_name": "Monipur Uchcha Vidyalaya and College, Dhaka",
+          "short_name": "MUVCD",
+          "slug": "muvcd",
+          "pivot": {
+            "question_bank_id": 414435,
+            "tag_id": 3338,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:06.000000Z",
+            "updated_at": "2025-08-19T06:54:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414421,
+      "value": {
+        "options": [],
+        "question": "বাতাসে একটি সুরশলাকার সৃষ্ট শব্দ তরঙ্গের দৈর্ঘ্য 50 cm এবং অপর একটি সুরশলাকার সৃষ্ট শব্দ তরঙ্গের দৈর্ঘ্য 70 cm। প্রথম সুর শলাকার কম্পাঙ্ক 350 Hz হলে দ্বিতীয় সুরশলাকার কম্পাঙ্ক কত?",
+        "solution": "( Answer : [math]250 \\mathrm{~Hz}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,[math]\\begin{array}{l}\\lambda_{1}=50 \\mathrm{~cm} \\\\\\lambda_{2}=70 \\mathrm{~cm} \\\\\\mathrm{n}_{1}=350 \\mathrm{~Hz} \\\\\\mathrm{n}_{2}=?\\end{array}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\mathrm{n}_{1} \\lambda_{1}=\\mathrm{n}_{2} \\lambda_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{n}_{1}}{\\mathrm{n}_{2}}=\\frac{\\lambda_{2}}{\\lambda_{1}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{n}_{2}=\\frac{\\mathrm{n}_{1} \\lambda_{1}}{\\lambda_{2}}=\\frac{350 \\times 50}{70}=250 \\mathrm{~Hz} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: একই মাধ্যম হলে তরঙ্গের বেগ সমান থাকে এবং বেগের সূত্র [math]v=f\\lambda[/math]; তাই দুইটি তরঙ্গের ফ্রিকোয়েন্সির সম্পর্ক হলো [math]f_2=f_1\\frac{\\lambda_1}{\\lambda_2}[/math]। এখানে [math]f_2=350\\times\\frac{50}{70}=350\\times\\frac{5}{7}=250\\text{ Hz}[/math], তাই দ্বিতীয় সুরশলাকারের কম্পাঙ্ক 250 Hz।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414421,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414420,
+      "value": {
+        "options": [],
+        "question": "দুটি সুরশলাকার কম্পাঙ্কের পার্থক্য 118Hz । বাতাসে শলাকা দুটি যে তরঙ্গ উৎপন্ন করে, তাদের এ কটির দুটি পূর্ণ তরঙ্গদৈর্ঘ্য অপরটির তিনটি পূর্ণ তরঙ্গদৈর্ঘ্যর সমান। শলাকাদ্বয়ের কম্পাঙ্ক নির্ণয় করো।",
+        "solution": "( Answer : [math]354 \\mathrm{~Hz}[/math]\u003Cbr\u003E , [math]354 \\mathrm{~Hz}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :মনে করি, সুরশলাকা দুটির কম্পাঙ্ক [math]\\mathrm{n}_{1}[/math]\u003Cbr\u003E এবং [math]\\mathrm{n}_{2}[/math]\u003Cbr\u003E এবং তরঙ্গদৈর্ঘ্য [math]\\lambda_{1}[/math]\u003Cbr\u003E এবং [math]\\lambda_{2}[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\mathrm{n}_{2}-\\mathrm{n}_{1}=118 \\mathrm{~Hz}[/math]\u003Cbr\u003Eএবং [math]2 \\lambda_{1}=3 \\lambda_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\lambda_{1}=\\frac{3}{2} \\lambda_{2}[/math]\u003Cbr\u003Eআমরা জানি, [math]\\frac{\\mathrm{n}_{1}}{\\mathrm{n}_{2}}=\\frac{\\lambda_{2}}{\\lambda_{1}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{n}_{1}}{\\mathrm{n}_{2}}=\\frac{\\lambda_{2}}{\\frac{3}{2} \\lambda_{2}}=\\frac{2}{3}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]3 \\mathrm{n}_{1}=2 \\mathrm{n}_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{n}_{1}=\\frac{2}{3} \\mathrm{n}_{2}[/math]\u003Cbr\u003Eএখন , [math]\\mathrm{n}_{2}-\\mathrm{n}_{1}=118[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]n_{2}-\\frac{2}{3} n_{2}=118[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{n}_{2}=3 \\times 118[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{n}_{2}=354 \\mathrm{~Hz} \\text { (Ans.) }[/math]\u003Cbr\u003Eআবার , [math]\\mathrm{n}_{1}=354-118[/math]\u003Cbr\u003E [math]\\therefore \\quad \\mathrm{n}_{1}=236 \\mathrm{~Hz} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বাতাসে একই তরঙ্গগতি [math]v[/math] থাকায় [math]v=f\\lambda[/math] প্রযোজ্য। সমস্যা অনুযায়ী [math]2\\lambda_1=3\\lambda_2\\Rightarrow \\lambda_1=\\tfrac{3}{2}\\lambda_2[/math], তাই [math]f_1=\\dfrac{v}{\\lambda_1}=\\dfrac{2}{3}\\dfrac{v}{\\lambda_2}=\\tfrac{2}{3}f_2[/math]। অতএব [math]f_2-f_1=\\tfrac{1}{3}f_2=118[/math], ফলে [math]f_2=354\\ \\text{Hz}[/math] এবং [math]f_1=236\\ \\text{Hz}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414420,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414422,
+      "value": {
+        "options": {
+          "ঘ": "দ্বিতীয় মাধ্যমে শব্দের বেগ কত ছিল? বিশ্লেষণ কর।"
+        },
+        "question": "দুটি সুরশলাকার কম্পাঙ্ক যথাক্রমে 490 Hz এবং 350 Hz । প্রথম শুরশালাকাটি যে সময় বাতাসে 200 বার কম্পন দেয় সে সময় এটি দ্বারা সৃষ্ট শব্দতরঙ্গ বাতাসে 140 m দূরত্ব অতিক্রম করে। অন্য মাধ্যমে সুরশলাকা দুটির উৎপন্ন শব্দের তরঙ্গদৈর্ঘ্যের পার্থক্য হয় 2m।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E [math]2450 \\mathrm{~ms}^{-1}[/math]",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E তরঙ্গদৈর্ঘ্য [math]\\lambda=v/f[/math] হওয়ায় পার্থক্য থেকে [math]\\left|\\frac{v}{490}-\\frac{v}{350}\\right|=2[/math]. সমীকরণটি সরল করলে [math]v\\left(\\frac{1}{350}-\\frac{1}{490}\\right)=2\\Rightarrow v\\cdot\\frac{1}{1225}=2[/math], তাই [math]v=2450\\ \\text{m/s}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414422,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414423,
+      "value": {
+        "options": [],
+        "question": "বাতাসে একটি সুরশলাকার সৃষ্ট শব্দ তরঙ্গের দৈর্ঘ্য 50 cm এবং অপর একটি সুরশলাকার সৃষ্ট শব্দ তরঙ্গের দৈর্ঘ্য 70 cm। প্রথম সুর শলাকার কম্পাঙ্ক 350 Hz হলে দ্বিতীয় সুরশলাকার কম্পাঙ্ক কত?",
+        "solution": "( Answer : [math]250 \\mathrm{~Hz}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,[math]\\begin{array}{l}\\lambda_{1}=50 \\mathrm{~cm} \\\\\\lambda_{2}=70 \\mathrm{~cm} \\\\\\mathrm{n}_{1}=350 \\mathrm{~Hz} \\\\\\mathrm{n}_{2}=?\\end{array}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\mathrm{n}_{1} \\lambda_{1}=\\mathrm{n}_{2} \\lambda_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{n}_{1}}{\\mathrm{n}_{2}}=\\frac{\\lambda_{2}}{\\lambda_{1}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{n}_{2}=\\frac{\\mathrm{n}_{1} \\lambda_{1}}{\\lambda_{2}}=\\frac{350 \\times 50}{70}=250 \\mathrm{~Hz} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "তরঙ্গের গতি একই থাকলে [math]v=fλ[/math] হয়; প্রথম তরঙ্গ থেকে [math]λ_1=50\\ \\text{cm}=0.5\\ \\text{m}[/math] এবং [math]f_1=350\\ \\text{Hz}[/math], তাই [math]v=f_1λ_1=350×0.5=175\\ \\text{m/s}[/math]. দ্বিতীয় তরঙ্গের [math]λ_2=70\\ \\text{cm}=0.7\\ \\text{m}[/math], ফলে [math]f_2=v/λ_2=175/0.7=250\\ \\text{Hz}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414423,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414424,
+      "value": {
+        "options": [],
+        "question": "দুটি সুরশলাকার কম্পাঙ্ক যথাক্রমে 256 Hz ও 512 Hz। বাতাসে এদের তরঙ্গদৈর্ঘ্যের তুলনা করো।",
+        "solution": "( Answer : 2 : 1 )",
+        "explanation": "বাতাসে তরঙ্গগত গতি একই থাকে এবং তরঙ্গদৈর্ঘ্য ও কম্পাঙ্কের মাঝের সম্পর্ক হলো [math]\\lambda = \\dfrac{v}{f}[/math]. তাই [math]\\lambda_1=\\dfrac{v}{256},\\;\\lambda_2=\\dfrac{v}{512}[/math], ফলে [math]\\lambda_1=2\\lambda_2[/math] — অর্থাৎ 256 Hz সুরশলাকারটির তরঙ্গদৈর্ঘ্য 512 Hz সুরশলাকারটির দ্বিগুণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 414424,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414425,
+      "value": {
+        "options": [],
+        "question": "একটি সুরশলাকার কম্পাঙ্ক 384 Hz। বাতাসে শব্দের বেগ [math]332 \\mathrm{~ms}^{-1}[/math] হলে, সুর শলাকার 32 বার পূর্ণ কম্পনের সময়ে এটি হতে উৎপন্ন শব্দ কত দূর যাবে?",
+        "solution": "( Answer : [math]27.67 \\mathrm{~m}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,কম্পাঙ্ক, n = 384Hzবেগ, [math]\\mathrm{v}=332 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eকম্পন সংখ্যা, N = 32দূরত্ব, s = ?আমরা জানি,s = vt[math]\\begin{array}{l}=332 \\times \\frac{\\mathrm{N}}{\\mathrm{n}} \\\\\\left.=332 \\times \\frac{32}{384}=27.67 \\mathrm{~m\\ } \\mathrm{Ans} .\\right)\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সুরশলাকার কম্পাঙ্ক [math]384\\ \\mathrm{Hz}[/math] মানে প্রতি সেকেন্ডে 384 কম্পন, তাই 32টি কম্পনের সময় [math]t=\\dfrac{32}{384}=\\dfrac{1}{12}\\ \\mathrm{s}[/math]. শব্দের বেগ [math]332\\ \\mathrm{m\\,s^{-1}}[/math] হলে দূরত্ব [math]d=vt=332\\times\\dfrac{1}{12}\\approx27.7\\ \\mathrm{m}[/math], তাই শব্দ প্রায় [math]27.7\\ \\mathrm{m}[/math] যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 414425,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414426,
+      "value": {
+        "options": [],
+        "question": "বাতাসে একটি সুরশলাকার সৃষ্ট শব্দ তরঙ্গের দৈর্ঘ্য 50 cm এবং অপর একটি সুরশলাকার সৃষ্ট শব্দ তরঙ্গের দৈর্ঘ্য 70 cm। প্রথম সুরশলাকার কম্পাঙ্ক 350 Hz হলে দ্বিতীয় সুরশলাকার কম্পাঙ্ক কত হবে?",
+        "solution": "( Answer : [math]250 \\mathrm{~Hz}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,[math]\\begin{array}{l}\\lambda_{1}=50 \\mathrm{~cm} \\\\\\lambda_{2}=70 \\mathrm{~cm} \\\\\\mathrm{n}_{1}=350 \\mathrm{~Hz} \\\\\\mathrm{n}_{2}=?\\end{array}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\mathrm{n}_{1} \\lambda_{1}=\\mathrm{n}_{2} \\lambda_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{n}_{1}}{\\mathrm{n}_{2}}=\\frac{\\lambda_{2}}{\\lambda_{1}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{n}_{2}=\\frac{\\mathrm{n}_{1} \\lambda_{1}}{\\lambda_{2}}=\\frac{350 \\times 50}{70}=250 \\mathrm{~Hz} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: একই মাধ্যমের জন্য শব্দের বেগ ধ্রুবক এবং সম্পর্কটি [math]v=f\\lambda[/math]। প্রথমে [math]\\lambda_1=50\\ \\text{cm}=0.5\\ \\text{m},\\ f_1=350\\ \\text{Hz}[/math] থেকে [math]v=350\\times0.5=175\\ \\text{m/s}[/math], তাই [math]\\lambda_2=70\\ \\text{cm}=0.7\\ \\text{m}[/math] হলে [math]f_2=v/\\lambda_2=175/0.7=250\\ \\text{Hz}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 414426,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414427,
+      "value": {
+        "options": [],
+        "question": "বাতাসে শব্দের বেগ [math]332 \\mathrm{~ms}^{-1}[/math]। একটি সুরশলাকা দ্বারা বাতাসে উৎপন্ন শব্দের তরঙ্গদৈর্ঘ্য 1.66m হলে, শলাকার কম্পাঙ্ক ও পর্যায়কাল নির্ণয় করো ।",
+        "solution": "( Answer : [math]200 \\mathrm{~Hz}[/math]\u003Cbr\u003E , [math]0.005 \\mathrm{~s}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,শব্দের বেগ [math]\\mathrm{v}=332 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]\\lambda=1.66 \\mathrm{~m}[/math]\u003Cbr\u003Eকম্পাঙ্ক, n = ?পর্যায়কাল, T = ?আমরা জানি, [math]\\mathrm{v}=\\mathrm{n} \\lambda[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{n}=\\frac{y}{\\lambda}=\\frac{332}{1.66}=200 \\mathrm{~Hz} \\text { (Ans.) }[/math]\u003Cbr\u003Eআবার, [math]\\mathrm{T}=\\frac{1}{\\mathrm{n}}=\\frac{1}{200} \\mathrm{~s}[/math]\u003Cbr\u003E [math]=0.005 \\mathrm{~s} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: তরঙ্গের গতি, কম্পাঙ্ক ও তরঙ্গদৈর্ঘ্যের সম্পর্ক [math]v=f\\lambda[/math]। তাই কম্পাঙ্ক [math]f=\\frac{v}{\\lambda}=\\frac{332}{1.66}=200\\ \\mathrm{Hz}[/math] এবং পর্যায়কাল [math]T=\\frac{1}{f}=\\frac{1}{200}=0.005\\ \\mathrm{s}=[5\\times10^{-3}\\ \\mathrm{s}][/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 414427,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414428,
+      "value": {
+        "options": [],
+        "question": "বাতাসে একটি সুর শলাকার সৃষ্ট শব্দ তরঙ্গের দৈর্ঘ্য 50 cm এবং অপর একটি সুর শলাকার সৃষ্ট শব্দ তরঙ্গের দৈর্ঘ্য 70 cm। প্রথম সুর শলাকার কম্পাঙ্ক 350 Hz হলে দ্বিতীয় সুর শলাকার কম্পাঙ্ক কত হবে?",
+        "solution": "( Answer : [math]250 \\mathrm{~Hz}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :দেওয়া আছে,১ম সুরশলাকার তরঙ্গদৈর্ঘ্য, [math]\\lambda_{1}=50 \\mathrm{~cm}=50 \\times 10^{-2} \\mathrm{~m}[/math]\u003Cbr\u003E২য় সুরশলাকার তরঙ্গদৈর্ঘ্য, [math]\\lambda_{2}=70 \\mathrm{~cm}=70 \\times 10^{-2} \\mathrm{~m}[/math]\u003Cbr\u003E১ম সুরশলাকার কম্পাঙ্ক, [math]\\mathrm{n}_{1}=350 \\mathrm{~Hz}[/math]\u003Cbr\u003E২য় সুরশলাকার কম্পাঙ্ক, [math]\\mathrm{n}_{2}=\\text { ? }[/math]\u003Cbr\u003Eআমরা জানি, [math]\\mathrm{v}=\\mathrm{n}_{1} \\lambda_{1}[/math]\u003Cbr\u003Eএবং [math]\\mathrm{V}=\\mathrm{n}_{2} \\lambda_{2}[/math]\u003Cbr\u003E [math]\\therefore \\quad \\mathrm{n}_{1} \\lambda_{1}=\\mathrm{n}_{2} \\lambda_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{n}_{2}=\\frac{\\mathrm{n}_{1} \\lambda_{1}}{\\lambda_{2}}[/math]\u003Cbr\u003E [math]=\\frac{350 \\times 50 \\times 10^{-2}}{70 \\times 10^{-2}} \\mathrm{~Hz}[/math]\u003Cbr\u003E [math]=250 \\mathrm{~Hz} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: শব্দের গতি বাতাসে একই হওয়ায় [math]v=f\\lambda[/math] এবং তাই [math]f_2=f_1\\frac{\\lambda_1}{\\lambda_2}[/math]. ফলে [math]f_2=350\\times\\frac{50}{70}=350\\times\\frac{5}{7}=250\\ \\text{Hz}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 414428,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414429,
+      "value": {
+        "options": [],
+        "question": "বাতাসে শব্দের বেগ [math]332 \\mathrm{~ms}^{-1}[/math]। একটি সুর শলাকা দ্বারা বাতাসে উৎপন্ন শব্দের তরঙ্গ দৈর্ঘ্য 1.66 m হলে, শলাকার কম্পাঙ্ক ও পর্যায়কাল নির্ণয় কর৷",
+        "solution": "( Answer : [math]200 \\mathrm{~Hz}[/math]\u003Cbr\u003E , [math]0.005 \\mathrm{~s}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :দেওয়া আছে,শব্দের বেগ, [math]\\mathrm{v}=332 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]\\lambda=1.66 \\mathrm{~m}[/math]\u003Cbr\u003Eকম্পাঙ্ক, n =?পর্যায়কাল, T = ?আমরা জানি,[math]\\mathrm{v}=\\mathrm{n} \\lambda[/math]\u003Cbr\u003E [math]\\begin{aligned}\\therefore \\mathrm{n} & =\\frac{\\mathrm{v}}{\\lambda}=\\frac{332 \\mathrm{~ms}^{-1}}{1.66 \\mathrm{~m}} \\\\& =200 \\mathrm{~Hz} \\quad \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003Eআবার , [math]\\mathrm{nT}=1[/math]\u003Cbr\u003E [math]\\begin{aligned}\\therefore \\mathrm{T} & =\\frac{1}{\\mathrm{n}}=\\frac{1}{200 \\mathrm{~Hz}} \\\\& =0.005 \\mathrm{~s} \\quad \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: শব্দের বেগ, কম্পাঙ্ক ও তরঙ্গদৈর্ঘ্যের সম্পর্ক [math]v=f\\lambda[/math]। তাই [math]f=v/\\lambda=332/1.66=200\\ \\mathrm{Hz}[/math] এবং পর্যায়কাল [math]T=1/f=1/200=0.005\\ \\mathrm{s}=5\\times10^{-3}\\ \\mathrm{s}[/math], কারণ পর্যায়কাল হল কম্পাঙ্কের প্রতিফলিত (inverse) পরিমাণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 414429,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414430,
+      "value": {
+        "options": [],
+        "question": "দুটি সুর শলাকার কম্পাঙ্ক যথাক্রমে 128 Hz ও 384 Hz। বায়ুতে শলাকা দুটি হতে সৃষ্ট শব্দের তরঙ্গ দৈর্ঘ্যের অনুপাত নির্ণয় করো।",
+        "solution": "( Answer : [math]3: 1[/math] )",
+        "explanation": "ব্যাখ্যা: বায়ুতে শব্দের বেগ ধ্রুবক হওয়ায় [math]\\lambda = v/f[/math] এবং তরঙ্গদৈর্ঘ্য ফ্রিকোয়েন্সির বিপরীত সহগত; তাই [math]\\lambda_1:\\lambda_2 = f_2:f_1 = 384:128 = 3:1[/math], অর্থাৎ প্রথমটির তরঙ্গদৈর্ঘ্য দ্বিতীয়টির তিনগুণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414430,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414431,
+      "value": {
+        "options": [],
+        "question": "একটি সুর শলাকার কম্পাঙ্ক 264 Hz। সুর শলাকা হতে 42.5 m দূরে শব্দ যাওয়ার সময় অবকাশে শলাকাটি কতটি কম্পন সম্পন্ন করবে? [ বায়ুতে শব্দের বেগ [math]=340 \\mathrm{~ms}^{-1}[/math]]",
+        "solution": "( Answer : 33 বার )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,সুর শলাকার কম্পাঙ্ক, [math]f_{1}=264 \\mathrm{~Hz}[/math]\u003Cbr\u003Eদূরত্ব, [math]\\mathrm{s}=42.5 \\mathrm{~m}[/math]\u003Cbr\u003Eকম্পন, [math]\\mathrm{N}=\\text { ? }[/math]\u003Cbr\u003Eবায়ুতে শব্দের বেগ, [math]\\mathrm{v}=340 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eআমরা জানি, [math]\\mathrm{v}=\\mathrm{f} \\lambda[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]340 \\mathrm{~ms}^{-1}=264 \\mathrm{~Hz} \\times \\lambda[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\lambda=\\frac{340 \\mathrm{~ms}^{-1}}{264 \\mathrm{~Hz}}=1.29[/math]\u003Cbr\u003Eআবার, [math]s=N \\lambda[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]42.5=\\mathrm{N} \\times 1.29[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{N}=\\frac{42.5}{1.29}=33[/math]\u003Cbr\u003E বার (Ans.)",
+        "explanation": "টাইম = দূরত্ব/বেগ, তাই [math]t=\\dfrac{42.5}{340}=0.125\\ \\mathrm{s}[/math]. কম্পাঙ্ক = প্রতি সেকেন্ড কম্পন, তাই মোট কম্পন [math]N=f t=264\\times0.125=33[/math], অর্থাৎ 33টি কম্পন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414431,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414432,
+      "value": {
+        "options": [],
+        "question": "তিনটি সুর শলাকার কম্পনের পর্যায়কাল যথাক্রমে 0.008, 0.0025 ও 0.00125 s। বায়ুতে এদের শ ব্দের তরঙ্গ দৈর্ঘ্যের অনুপাত নির্ণয় করো ৷",
+        "solution": "( Answer : [math]32: 10: 5[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে, তিনটি সুর শলাকার পর্যায়কাল যথাক্রমে,[math]\\begin{array}{l}\\mathrm{T}_{1}=0.08 \\mathrm{~s} \\\\\\mathrm{~T}_{2}=0.0025 \\mathrm{~s} \\\\\\mathrm{~T}_{3}=0.00125 \\mathrm{~s}\\end{array}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\mathrm{T}=\\frac{1}{\\mathrm{f}}=\\frac{1}{\\frac{\\mathrm{v}}{\\lambda}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\mathrm{T}=\\frac{\\lambda}{\\mathrm{v}} \\\\\\therefore \\lambda=\\mathrm{vT}\\end{array}[/math]\u003Cbr\u003Eসুতরাং, [math]\\lambda_{1}: \\lambda_{2}: \\lambda_{3}=\\mathrm{vT}_{1}: \\mathrm{vT}_{2}: \\mathrm{vT}_{3}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=T_{1}: T_{2}: T_{3} \\\\=0.008: 0.0025: 0.00125\\end{array}[/math]\u003Cbr\u003E [math]=\\frac{32}{5}: 2: 1[/math]\u003Cbr\u003E [ প্রত্যেক আণুপাতিক রাশিকে 0.00125 দিয়ে ভাগ করে ][math]=32: 10: 5 \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "বায়ুতে তরঙ্গগতি একই হওয়ায় তরঙ্গে দৈর্ঘ্য ও সময়ের পারিওডে অনুপাতে বাড়ে, তাই [math]λ=vT[/math] থেকে\n[math]λ_1:λ_2:λ_3=T_1:T_2:T_3=0.008:0.0025:0.00125[/math]।\nএটি 0.00125 দ্বারা ভাগ করলে [math]6.4:2:1[/math] এবং পূর্ণসংখ্যায় লিখলে [math]32:10:5[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414432,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414433,
+      "value": {
+        "options": {
+          "গ": "১ম সুর শলাকাটি হতে সৃষ্ট শব্দের তীব্রতা লেভেল ডেসিবেল এককে নির্ণয় কর।"
+        },
+        "question": "তিনটি সুর শলাকা যাদের প্রথম দুটির গায়ে কম্পাংক 450 Hz লেখা আছে যার একটি বাহু কিছুটা ক্ষয়ে গেছে। তৃতীয় সুর শলাকার গায়ে কম্পাংকের মান লিখা নেই। তৃতীয় সুরশলাকাটিকে পৃথকভাবে অপর দুটির সাথে স্পন্দিত করলে প্রতি সেকেন্ডে একই সংখ্যক বীট সৃষ্টি হয়। আবার প্রথম দুটি একই সাথে, স্পন্দিত করলে প্রতি সেকেন্ডে 6টি বীট সৃষ্টি হয়। [১ম সুর শলাকা হতে সৃষ্ট শব্দের তীব্রতা [math]10^{-7} \\mathrm{wm}^{-2}[/math] ]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে,১ম সুরশলাকা হতে সৃষ্ট শব্দের তীব্রতা, [math]I=10^{-7} \\mathrm{~W} \\cdot \\mathrm{m}^{-2}[/math]\u003Cbr\u003Eবের করতে হবে, তীব্রতা লেভেল, [math]\\beta=\\text { ? }[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned}\\beta & =10 \\log \\frac{I}{I_{0}} \\mathrm{~dB} \\\\& =10 \\log \\frac{10^{-7} \\mathrm{~W} \\cdot \\mathrm{m}^{-2}}{10^{-12} \\mathrm{~W} \\cdot \\mathrm{m}^{-2}} \\mathrm{~dB} \\\\& =50 \\mathrm{~dB}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শব্দের তীব্রতা [math]=50 \\mathrm{~dB} \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: শব্দ তীব্রতা স্তর গণনার সূত্র [math]\\beta=10\\log_{10}\\frac{I}{I_0}[/math], যেখানে [math]I_0=10^{-12}\\ \\mathrm{Wm^{-2}}[/math]। এখানে [math]I=10^{-7}\\ \\mathrm{Wm^{-2}}[/math], তাই [math]\\beta=10\\log_{10}\\frac{10^{-7}}{10^{-12}}=10\\log_{10}(10^5)=50\\ \\mathrm{dB}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414433,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414434,
+      "value": {
+        "options": [],
+        "question": "তিনটি সুর শলাকার কম্পাঙ্ক যথাক্রমে 123, 369 এবং 615Hz। বায়ুতে এদের তরঙ্গ দৈর্ঘ্যের অনুপাত নির্ণয় কর ।",
+        "solution": "( Answer : [math]15: 5: 3[/math] )",
+        "explanation": "ব্যাখ্যা: একই মাধ্যম হলে তরঙ্গদৈর্ঘ্য ফ্রিকোয়েন্সির উল্টো অনুপাত, [math]\\lambda = v/f[/math]. এখানে [math]369=3\\times123,\\;615=5\\times123[/math], সুতরাং তরঙ্গদৈর্ঘ্যের অনুপাত [math]1:1/3:1/5[/math] = [math]15:5:3[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414434,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414419,
+      "value": {
+        "options": [],
+        "question": "দুটি সুরশলাকার কম্পাঙ্ক যথাক্রমে 128 Hz ও 384 Hz | বায়ুতে এদের তরঙ্গদৈর্ঘ্য তুলনা করো।",
+        "solution": "( Answer : 3 : 1 )",
+        "explanation": "ব্যাখ্যা: বায়ুতে শব্দের গতি একই হওয়ায় [math]\\lambda = v/f[/math] এবং তাই [math]\\lambda_1/\\lambda_2 = f_2/f_1 = 384/128 = 3[/math], অর্থাৎ 128 Hz তরঙ্গের তরঙ্গদৈর্ঘ্য 384 Hz‑এর তুলনায় তিন গুণ বড়: [math]\\lambda_{128}=3\\lambda_{384}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414419,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414418,
+      "value": {
+        "options": [],
+        "question": "কোন একটি মাধ্যমে একটি সুর শলাকা হতে উৎপন্ন শব্দের তরঙ্গ দৈর্ঘ্য [math]3cm[/math] এবং একই মাধ্যমে শব্দের বেগ [math]330\\ ms^{-1}[/math] হলে ঐ মাধ্যমে সুর শলাকাটির [math]55[/math]টি পূর্ণ কম্পনে শব্দ কত দূর যাবে?",
+        "solution": "Solution : [math]S=N \\lambda=55 \\times \\dfrac{3}{100}=1.65 \\mathrm{~m} \\text { (Ans.) }[/math]",
+        "explanation": "ব্যাখ্যা: একটি পূর্ণ কম্পনে তরঙ্গ সামনের দিকে একটি তরঙ্গদৈর্ঘ্য এগোয়, তাই দূরত্ব = [math]55\\times0.03\\ \\text{m}[/math] = [math]1.65\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 33,
+          "year": "2004-2005",
+          "pivot": {
+            "question_bank_id": 414418,
+            "year_id": 33
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 414418,
+            "tag_id": 474,
+            "year": "04-05",
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414417,
+      "value": {
+        "options": [],
+        "question": "একটি সুর শলাকার কম্পাংক [math]400\\ Hz[/math] । বায়ুতে শব্দের বেগ [math]332 \\mathrm{~ms}^{-1}[/math]। সু র শলাকা [math]30[/math] বার পূর্ণ কম্পিত হলে ঐ শালাকা হতে উৎপন্ন শব্দ কতদূর যাবে?",
+        "solution": "(Answer : [math]24.9 \\mathrm{~m}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : আমরা জানি, [math]V=f \\lambda[/math]\u003Cbr\u003E এবং [math]\\lambda=\\dfrac{v}{f}=\\dfrac{332}{400}=0.83 \\quad \\therefore S=N \\lambda=0.83 \\times 30=24.9 \\mathrm{~m} \\quad \\text { [Ans ] }[/math]\u003Cbr\u003E",
+        "explanation": "বর্ণনা: শব্দের যাওয়ার দূরত্ব = গতি × সময়, এবং সময় = কম্পনের সংখ্যা/কম্পাঙ্ক। তাই সময় = [math]30/400 = 0.075\\ \\text{s}[/math], ফলে দূরত্ব = [math]332\\times 0.075 = 24.9\\ \\text{m}[/math]। এইভাবে ৩০ বার কম্পিত হলে শব্দ প্রায় [math]24.9\\ \\text{m}[/math] যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 27,
+          "year": "2007-2008",
+          "pivot": {
+            "question_bank_id": 414417,
+            "year_id": 27
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 414417,
+            "tag_id": 474,
+            "year": "07-08",
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414416,
+      "value": {
+        "options": [],
+        "question": "কোন সুরশলাকা একটি মাধ্যমে [math]5cm[/math] দৈর্ঘ্যের এবং [math]350m/s[/math] বেগের শব্দ তরঙ্গ উৎপন্ন করে। অপর একটি মাধ্যমে তরলবেগ যদি [math]332.5m/s[/math] হয় তবে ঐ মাধ্যমে সুরশলাকার [math]100[/math] কম্পনে শব্দ কত দূৱ যাবে?",
+        "solution": "(Answer : [math]4.75 \\mathrm{~m}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : [math]f=\\dfrac{\\rm{v}_{1}}{\\lambda_{1}}=\\dfrac{350}{.05}=7000 \\mathrm{~Hz}[/math]\u003Cbr\u003E [math]\\therefore \\lambda_{2}=\\dfrac{\\rm{v}_{2}}{f}=\\dfrac{332.5}{7000}=0.0475 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E দূরত্ব [math]=(0.0475 \\times 100) \\mathrm{m}=4.75 \\mathrm{~m}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: কম্পনের ফ্রিকোয়েন্সি স্থির থাকে, তাই প্রথম মাধ্যমে [math]f=\\dfrac{v}{\\lambda}=\\dfrac{350}{0.05}=7000\\ \\text{Hz}[/math]। নতুন মাধ্যমে তরঙ্গদৈর্ঘ্য হবে [math]\\lambda'=\\dfrac{v'}{f}=\\dfrac{332.5}{7000}=0.0475\\ \\text{m}[/math] এবং [math]100[/math] কম্পনে শব্দ যেই দূর যাবে তা হবে [math]100\\lambda'=100\\times0.0475=4.75\\ \\text{m}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 24,
+          "year": "2008-2009",
+          "pivot": {
+            "question_bank_id": 414416,
+            "year_id": 24
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 501,
+          "full_name": "Chittagong University of Engineering & Technology",
+          "short_name": "CUET",
+          "slug": "cuet",
+          "pivot": {
+            "question_bank_id": 414416,
+            "tag_id": 501,
+            "year": "08-09",
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414415,
+      "value": {
+        "options": {
+          "গ": "১ম সুর শলাকাটি হতে সৃষ্ট শব্দের তীব্রতা লেভেল ডেসিবেল এককে নির্ণয় কর।"
+        },
+        "question": "তিনটি সুর শলাকা যাদের প্রথমে দুটির গায়ে কম্পাঙ্ক [math]450\\ \\rm{Hz}[/math] লেখা আছে যার একটির বাহু কিছুটা ক্ষয়ে গেছে। তৃতীয় সুর শলাকার গায়ে কম্পাঙ্কের মান লিখা নেই। তৃতীয় সুরশলাকাটিকে পৃথকভাবে অপর দুটির সাথে স্পন্দিত করলে প্রতি সেকেন্ডে একই সংখ্যক বীট সৃষ্টি হয়। আবার প্রথম দুটি একই সাথে স্পন্দিত করলে প্রতি সেকেন্ডে এটি বীট সৃষ্টি হয়। [১ম সুর শলাকা হতে সৃষ্ট শব্দের তীব্রতা [math]10^{-7} \\mathrm{Wm}^{-2}[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, তীব্রতা লেবেল, [math]\\beta[/math]\u003Cbr\u003Eউদ্দীপক থেকে পাই,১ম সুর শলাকা হতে সৃষ্ট শব্দের তীব্রতা, [math]\\mathrm{I}=10^{-7} \\mathrm{~W} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003Eপ্ৰমাণ তীব্রতা, [math]\\mathrm{I}_{0}=10^{-12} \\mathrm{~W} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\beta=10 \\log \\rm{\\dfrac{I}{I_{0}}}=10 \\log \\dfrac{10^{-7} \\mathrm{~W} \\mathrm{~m}}{10^{-12} \\mathrm{~W} \\mathrm{~m}^{-2}}=50 \\mathrm{~dB}[/math]\u003Cbr\u003Eঅতএব, ১ম সুর শলাকা হতে সৃষ্ট শব্দের তীব্রতা লেবেল [math]50 \\mathrm{~dB}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শব্দ তীব্রতা স্তর নির্ণয়ের সূত্র [math]\\beta=10\\log_{10}\\frac{I}{I_0}[/math] যেখানে [math]I_0=10^{-12}\\ \\mathrm{Wm^{-2}}[/math]; তাই [math]\\beta=10\\log_{10}\\frac{10^{-7}}{10^{-12}}=10\\log_{10}(10^5)=50\\ \\mathrm{dB}[/math].  \nএটি সাধারণ কথ্য কথার কাছাকাছি তীব্রতা মাত্রা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 414415,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414415,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414415,
+            "tag_id": 7,
+            "year": "2015",
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414414,
+      "value": {
+        "options": {
+          "গ": "কতটি পূর্ণ কম্পন সম্পন্ন করে জানা কম্পাঙ্কের সুরশলাকার সৃষ্ট শব্দ [math]130\\ m[/math] দূরত্ব অতিক্রম করবে?"
+        },
+        "question": "পদার্থবিজ্ঞানের শিক্ষার্থী লিয়ানা দুটি মুরশলাকা দিয়ে দেখল যে, একটির গায়ে [math]312\\ Hz[/math] লেখা আছে। সে শলাকা দুটি একত্রে শব্দায়িত করে প্রতি সেকেন্ডে [math]6[/math]টি বাঁট শুনতে পেল। এবার সে অজানা মুরশলাকার গায়ে তার পেঁচিয়ে একইভাবে শব্দাহিত করে প্রতি সেকেন্ডে একই সংখ্যক বীট শুনতে পে ল। এখানে জানা সুরশলাকা থেকে সৃষ্ট শব্দের বেগ [math]340 {~ms}^{-1}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকম্পাঙ্ক, [math]f=312 \\mathrm{~Hz}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশব্দের বেগ, [math]\\rm{v}=340 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতরঙ্গ দৈর্ঘ্য [math]=\\lambda[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.2 cm}\\begin{aligned} \\rm{v}&={f}\\lambda\\\\ \\Rightarrow \\lambda & =\\frac{\\rm{v}}{f} \\\\ & =\\frac{340 \\mathrm{~ms}^{-1}}{312 \\mathrm{~Hz}} \\\\ & =1.09 \\mathrm{~m} \\end{aligned}[/math]\u003Cbr\u003E [math]1.09 \\mathrm{~m}[/math]\u003Cbr\u003E দূরত্ব অতিক্রম করে [math]1[/math]\u003Cbr\u003E টি পূর্ণ কম্পনে[math]130 \\rm{~m}[/math]\u003Cbr\u003E দূরত্ব অতিক্রম করে [math]\\dfrac{1 \\times 130}{1.09}[/math]\u003Cbr\u003E টি পূর্ণ কম্পনে[math]\\hspace{4.8 cm}=119.3[/math]\u003Cbr\u003E টি পূর্ণ কম্পনে[math]\\hspace{4.8 cm}=119[/math]\u003Cbr\u003E টি পূর্ণ কম্পনেঅতএব, [math]130 \\rm{~m}[/math]\u003Cbr\u003E দূরত্ব অতিক্রম করতে পূর্ণ কম্পন হয় [math]119[/math]\u003Cbr\u003E টি।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: শব্দের চলার সময় [math]t=\\dfrac{130}{340}\\ \\text{s}[/math] ও পূর্ণ কম্পনের সংখ্যা [math]N=f\\,t=312\\times\\dfrac{130}{340}=\\dfrac{2028}{17}\\approx119.29[/math]; তাই সম্পূর্ণ পূর্ণ কম্পন সম্পন্ন করবে [math]119[/math]টি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 414414,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414414,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414414,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414413,
+      "value": {
+        "options": {
+          "গ": "পরীক্ষাগারে [math]A[/math] শলাকার দ্বারা সৃষ্ট শব্দের বেগ কত নির্ণয় কর।"
+        },
+        "question": "নিচের চিত্রে কোনো এক পরীক্ষাগারে দুটি সুরশলাকা [math]A[/math] ও [math]B[/math] কে শব্দায়িত করলে যে তরঙ্গ উৎপন্ন হয় তার লেখচিত্র দেখনো হলো :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy201920tp20cq-2-depositphotos-bgremover_1755586444_zOyHFCyp.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eচিত্র হতে,[math]\\hspace{1 cm}\\rm{A}[/math]\u003Cbr\u003E শলাকার তরঙ্গের তরঙ্গদৈর্ঘ্য, [math]\\lambda_{\\mathrm{A}}=3.2 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}\\rm{A}[/math]\u003Cbr\u003E শলাকার তরঙ্গের পর্যায়কাল, [math]\\mathrm{T}_{\\mathrm{A}}=0.01 \\mathrm{~s}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.2 cm}\\begin{aligned} \\rm{v_{A}} & =\\rm{f_{A}} \\lambda_{\\mathrm{A}}=\\frac{1}{\\mathrm{~T}_{\\mathrm{A}}} \\lambda_{\\mathrm{A}}=\\frac{3.2 \\mathrm{~m}}{0.01 \\mathrm{~s}} \\\\ \\therefore \\quad \\rm{v}_{\\mathrm{A}} & =320 \\mathrm{~m} \\mathrm{~s}^{-1} \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, পরীক্ষাগারে [math]\\rm{A}[/math]\u003Cbr\u003E শলাকার দ্বারা সৃষ্ট শব্দের বেগ [math]320 \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গ্রাফ থেকে A-শলাকার ফ্রিকোয়েন্সি নির্ণয় করতে সময় অক্ষ থেকে এক পূর্ণ কম্পনের সংখ্যা গোনো (বা প্রতিটি চক্রের সময় পরিমাপ করো) এবং তরঙ্গদৈর্ঘ্য λ হলো পাশাপাশি শীর্ষ/নিষ্পত্তির মধ্যে দূরত্ব; তারপর সূত্র [math]v=f\\lambda[/math] প্রয়োগ করলে A-শলাকার বেগ পাওয়া যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 414413,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 414413,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T06:54:04.000000Z",
+            "updated_at": "2025-08-19T06:54:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414399,
+      "value": {
+        "options": {
+          "ক": "[math]3:1[/math]",
+          "খ": "[math]1:3[/math]",
+          "গ": "[math]2:1[/math]",
+          "ঘ": "[math]1:2[/math]"
+        },
+        "question": "দুইটি সুরশলাকার কম্পাংক যথাক্রমে 128 Hz ও 384 Hz। বায়ুতে শলাকা দুইটি হতে সৃষ্ট তরঙ্গ দৈর্ঘ্যের অনুপাত কত?",
+        "solution": "[math]\\mathrm{f}_{1} \\lambda_{1}=\\mathrm{f}_{2} \\lambda_{2} \\Rightarrow \\frac{\\lambda_{1}}{\\lambda_{2}}=\\frac{f_{2}}{f_{1}}=\\frac{384}{128}=\\frac{3}{1} \\therefore \\lambda_{1}: \\lambda_{2}=3: 1[/math]",
+        "explanation": "",
+        "correct_answer": "A.[math]3:1[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 414399,
+            "year_id": 26
+          }
+        },
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 414399,
+            "year_id": 22
+          }
+        },
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 414399,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 414399,
+            "tag_id": 8,
+            "year": "14-15",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        },
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 414399,
+            "tag_id": 84,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        },
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 414399,
+            "tag_id": 84,
+            "year": "13-14",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414398,
+      "value": {
+        "options": {
+          "ক": "$ 1:3:5 $",
+          "খ": "$ 3:5:15 $",
+          "গ": "$ 15:5:3 $",
+          "ঘ": "$ 5:3:1 $"
+        },
+        "question": "তিনটি সুর শলাকা নেওয়া হলো যাদের কম্পাঙ্ক যথাক্রমে 105 Hz,315 Hz এবং 525 Hz। শলাকা তিনটি দিয়ে বায়ুতে শব্দ সৃষ্টি করলে সৃষ্ট শব্দের তরঙ্গ দৈর্ঘ্যের অনুপাত কী হবে?",
+        "solution": "[math]f_{1}: f_{2}: f_{3}=1: 3: 5 \\quad \\mid \\quad f\\lambda=v=[/math]\u003Cbr\u003Eধ্রুবক [math]\\Rightarrow \\lambda \\propto \\frac{1}{f}[/math]\u003Cbr\u003Eতাই [math]\\lambda_{1}: \\lambda_{2}: \\lambda_{3}=1: \\frac{1}{3}: \\frac{1}{5}=15: 5: 3[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.$ 15:5:3 $"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 414398,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 414398,
+            "tag_id": 8,
+            "year": "17-18",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414400,
+      "value": {
+        "options": {
+          "ক": "3:1",
+          "খ": "1:3",
+          "গ": "2:1",
+          "ঘ": "1:2"
+        },
+        "question": "দুইটি সুরশলাকার কম্পাঙ্ক যথাক্রমে 128 Hz ও 384 Hz। বায়ুতে শলাকা দুটি হতে সৃষ্ট তরঙ্গের দৈর্ঘ্যের অনুপাত কত?",
+        "solution": "আমরা জানি,[math]\\mathrm{v}=\\mathrm{f} \\lambda \\therefore \\frac{\\lambda_{1}}{\\lambda_{2}}=\\frac{\\mathrm{f}_{2}}{\\mathrm{f}_{1}}=\\frac{384}{128}=\\frac{3}{1}[/math]\u003Cbr\u003E [math]\\therefore \\lambda_{1}: \\lambda_{2}=3: 1[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.3:1"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 414400,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 49,
+          "full_name": "University of Chittagong (Unit A)",
+          "short_name": "CU-A",
+          "slug": "cu-a",
+          "pivot": {
+            "question_bank_id": 414400,
+            "tag_id": 49,
+            "year": "22-23",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414401,
+      "value": {
+        "options": {
+          "ক": "3:1",
+          "খ": "1:3",
+          "গ": "2:1",
+          "ঘ": "1:2"
+        },
+        "question": "দুইটি সুরশলাকার কম্পাঙ্ক যথাক্রমে 128 Hz ও 384 Hz। বায়ুতে শলাকা দুইটি হতে সৃষ্ট তরঙ্গ দৈর্ঘ্যের অনুপাত কত?",
+        "solution": "[math]\\frac{\\lambda_{1}}{\\lambda_{2}}[/math]\u003Cbr\u003E [math]=\\frac{f_{1}}{f_{2}}[/math]\u003Cbr\u003E [math]=\\frac{384}{128}=\\frac{3}{1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.3:1"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 414401,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 148,
+          "full_name": "Agriculture Cluster Admission System",
+          "short_name": "ACAS",
+          "slug": "acas",
+          "pivot": {
+            "question_bank_id": 414401,
+            "tag_id": 148,
+            "year": "20-21",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414402,
+      "value": {
+        "options": {
+          "ক": "3:1",
+          "খ": "1.3",
+          "গ": "2:1",
+          "ঘ": "1:2"
+        },
+        "question": "দুইটি সুরশলাকার কপাংক 128 Hz ও 384 Hz। বায়ুতে শলাকা দুইটি হতে সৃষ্ট তরঙ্গ দৈর্ঘ্যের অনুপাত কত?",
+        "solution": "[math]\\dfrac{\\lambda_{1}}{\\lambda_{2}}=\\dfrac{f_{2}}{f_{1}}=\\dfrac{384}{128}=\\dfrac{3}{1}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 414402,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 148,
+          "full_name": "Agriculture Cluster Admission System",
+          "short_name": "ACAS",
+          "slug": "acas",
+          "pivot": {
+            "question_bank_id": 414402,
+            "tag_id": 148,
+            "year": "20-21",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414403,
+      "value": {
+        "options": {
+          "ক": "[math]920\\mathrm{ms}^{-1}[/math]",
+          "খ": "[math]1202\\mathrm{ms}^{-1}[/math]",
+          "গ": "[math]1428\\mathrm{ms}^{-1}[/math]",
+          "ঘ": "[math]1625\\mathrm{ms}^{-1}[/math]"
+        },
+        "question": "320 Hz কম্পাঙ্কের একটি সুর শলাকা হতে বাতাসে ও পানিতে উৎপন্ন তরঙ্গের তরঙ্গদৈর্ঘ্যের পার্থক্য 4 m। বস্তুতে শব্দের বেগ [math]345\\ ms^{-1}[/math] হলে পানিতে শব্দের বেগ কত হবে?",
+        "solution": "[math](v-345)[/math]\u003Cbr\u003E [math]=4 \\times 320[/math]\u003Cbr\u003E [math]\\Rightarrow v[/math]\u003Cbr\u003E [math]=1625 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.[math]1625\\mathrm{ms}^{-1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 414403,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 414403,
+            "tag_id": 16,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414404,
+      "value": {
+        "options": {
+          "A": "8 times as great",
+          "B": "4 times as great",
+          "C": "2 times as great",
+          "D": "the same"
+        },
+        "question": "A tuning fork vibrating gently produces the note [math]C[/math]. Another tuning fork produces the note [math]C[/math], an octave higher in pitch than [math]C[/math] and slightly louder than [math]C[/math]. The speed of the wave produced by the second fork, as compared with that produced by the first fork, is:",
+        "solution": "[math]\\text {Same medium, so speed will remain the same. }[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 414404,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 414404,
+            "tag_id": 55,
+            "year": "17-18",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414405,
+      "value": {
+        "options": {
+          "ক": "3:1",
+          "খ": "1:3",
+          "গ": "2:1",
+          "ঘ": "1:2",
+          "ঙ": "1:4"
+        },
+        "question": "দুইটি সুরশলাকার কম্পাংক যথাক্রমে [math]128\\ Hz[/math] ও [math]384\\ Hz[/math]। বায়ুতে শলাকা দুইটি হতে সৃষ্ট তরঙ্গ দৈর্ঘ্য এর অনুপাত কত?",
+        "solution": "[math]f_{1} \\lambda_{1}=f_{2} \\lambda_{2} \\therefore \\dfrac{\\lambda_{1}}{\\lambda_{2}}=\\dfrac{f_{2}}{f_{1}}=\\dfrac{384}{128}=\\dfrac{3}{1}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 414405,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 414405,
+            "tag_id": 502,
+            "year": "16-17",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414406,
+      "value": {
+        "options": {
+          "ক": "200, 400",
+          "খ": "300, 500",
+          "গ": "100, 300",
+          "ঘ": "500, 700",
+          "ঙ": "600, 800"
+        },
+        "question": "দুটি সুর শলাকার কম্পাংকের পার্থক্য [math]200\\ Hz[/math] বাসাতে শলাকা দুটি যে তরঙ্গ উৎপন্ন করে তাদের একটির পূর্ণ তরঙ্গদৈর্ঘ্য অপরটির তিনটি তরঙ্গদৈর্ঘ্যের সমান। শলাকাদ্বয়ের কম্পাংক কত [math]Hz?[/math]",
+        "solution": "যেহেতু, উভয় শলাকার ক্ষেত্রেই মাধ্যম বাতাস, সেহেতু, এক্ষেত্রে, উভয় সুরশলাকা দ্বারা উৎপন্ন শব্দের বেগ সমান হবে। ধরি, একটি সুরশলাকা দ্বারা উৎপন্ন শব্দের কম্পাঙ্ক ও তরঙ্গদৈর্ঘ্য যথাক্রমে [math]f[/math]\u003Cbr\u003E এবং [math]\\lambda[/math]\u003Cbr\u003E। তাহলে অপর সুরশলাকাটির দ্বারা উৎপন্ন শব্দের কম্পাঙ্ক এবং তরঙ্গদৈর্ঘ্য যথাক্রমে [math](f - 200)[/math]\u003Cbr\u003E এবং [math]3\\lambda[/math]\u003Cbr\u003E। কারণ, যার তরঙ্গদৈর্ঘ্য বেশি, তার কম্পাঙ্ক কম হয়। সুতরাং, [math]f \\lambda=(f-200)(3 \\lambda)[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{f}=300 \\mathrm{~Hz}[/math]\u003Cbr\u003E এবং অপরটির কম্পাঙ্ক [math]=(300-200)=100 \\mathrm{~Hz}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E নির্ণেয় সুরশলাকা দুটি দ্বারা উৎপন্ন শব্দের কম্পাঙ্ক [math]100[/math]\u003Cbr\u003E এবং [math]300\\ \\rm{Hz}[/math]\u003Cbr\u003E।",
+        "explanation": "একই মাধ্যমে একই ধরনের সকল তরঙ্গের বেগ সমান থাকে।[একই ধরনের তরঙ্গ বলতে বুঝানো হয়েছে যান্ত্রিক হলে সকল যান্ত্রিক তরঙ্গ, তড়িৎ চৌম্বকীয় হলে সকল তড়িৎ চৌম্বকীয় তরঙ্গ][math]v_{1}=f_{1} \\lambda_{1} ; v_{2}=f_{2} \\lambda_{2}[/math]\u003Cbr\u003E। একই মাধ্যমে, [math]\\mathrm{v}_{1}=\\mathrm{v}_{2} \\quad \\therefore \\mathrm{f}_{1} \\lambda_{1}=\\mathrm{f}_{2} \\lambda_{2}[/math]\u003Cbr\u003Eআবার, [math]v=f \\lambda[/math]\u003Cbr\u003E [math]\\Rightarrow f=v \\frac{1}{\\lambda} \\Rightarrow f \\propto \\frac{1}{\\lambda}[/math]\u003Cbr\u003E [একই মাধ্যমে v স্থির]অর্থাৎ তরঙ্গ দৈর্ঘ্য যে তরঙ্গের বড়, কম্পাঙ্ক ঐ তরঙ্গের ছোট হবে ৷[math]\\lambda_{1}\u003E\\lambda_{2}[/math]\u003Cbr\u003E হওয়ার [math]f_{2}\u003Ef_{1}[/math]\u003Cbr\u003E হয়েছে।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 414406,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 414406,
+            "tag_id": 73,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414407,
+      "value": {
+        "options": {
+          "ক": "20",
+          "খ": "30",
+          "গ": "40",
+          "ঘ": "45"
+        },
+        "question": "একটি সাইরেনের চাকতি প্রতি সেকেন্ডে [math]15[/math] বার ঘরে। চাকতিটিতে কতটি ছিদ্র থাকলে এটি [math]450\\ Hz[/math] কম্পাংকের একটি সুর শলাকার সাথে ঐক্যতানিক হবে?",
+        "solution": "[math]450=15 \\times n \\Rightarrow n=\\dfrac{450}{15}=30[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 414407,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 414407,
+            "tag_id": 3,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414408,
+      "value": {
+        "options": {
+          "ক": "[math]280 \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math]",
+          "খ": "[math]332 \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math]",
+          "গ": "[math]345.6 \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math]",
+          "ঘ": "[math]34560 \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math]"
+        },
+        "question": "একটি সুরশলাকার কম্পাঙ্ক 256 Hz ৰায়ুতে এটি 135 cm তরঙ্গদৈর্ঘ্যের শব্দ উৎপন্ন করলে শব্দের বেগ কত?",
+        "solution": "শব্দের বেগ ( [math]v[/math]\u003Cbr\u003E) নির্ণয় করার জন্য, আমরা বেগ, কম্পাঙ্ক ( [math]f[/math]\u003Cbr\u003E) এবং তরঙ্গদৈর্ঘ্য ( [math]\\lambda[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক ব্যবহার করব, যা হলো [math]v = f \\lambda[/math]\u003Cbr\u003E ।এখানে, কম্পাঙ্ক [math]f = 256[/math]\u003Cbr\u003E Hz এবং তরঙ্গদৈর্ঘ্য [math]\\lambda = 135[/math]\u003Cbr\u003E cm ।গণনা করার আগে, তরঙ্গদৈর্ঘ্যকে সেন্টিমিটার থেকে মিটারে রূপান্তর করতে হবে।[math]\\lambda = 135[/math]\u003Cbr\u003E cm [math]= 135 / 100[/math]\u003Cbr\u003E m [math]= 1.35[/math]\u003Cbr\u003E mসুতরাং, শব্দের বেগ [math]v = 256 \\text{ Hz} \\times 1.35 \\text{ m} = 345.6 \\text{ m} \\cdot \\mathrm{s}^{-1}[/math]\u003Cbr\u003E ।সুরশলাকা হলো একটি বাদ্যযন্ত্র যা একটি নির্দিষ্ট সুর তৈরি করতে ব্যবহৃত হয়। শব্দের বেগ বাতাসের তাপমাত্রা এবং আর্দ্রতার উপর নির্ভর করে।",
+        "explanation": "",
+        "correct_answer": "C.[math]345.6 \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414408,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414409,
+      "value": {
+        "options": {
+          "ক": "1:3:5",
+          "খ": "3:5:15",
+          "গ": "15:5:3",
+          "ঘ": "5:3:1"
+        },
+        "question": "তিনটি সুরশলাকা নেওয়া হলো যাদের কম্পাঙ্ক যথাক্রমে 105 Hz, 315 Hz এবং 525 Hz। শলাকা তিনটি দিয়ে বায়ুতে শব্দ সৃষ্টি করলে সৃষ্ট শব্দের তরঙ্গদৈর্ঘ্যের অনুপাত কী হবে?",
+        "solution": "শব্দের বেগ ( [math]v[/math]\u003Cbr\u003E) কম্পাঙ্ক ( [math]f[/math]\u003Cbr\u003E) এবং তরঙ্গদৈর্ঘ্য ( [math]\\lambda[/math]\u003Cbr\u003E) এর সাথে [math]v = f \\lambda[/math]\u003Cbr\u003E সম্পর্কযুক্ত। যেহেতু সব সুরশলাকা একই মাধ্যমে (বায়ুতে) শব্দ তৈরি করছে, তাই শব্দের বেগ সব ক্ষেত্রে সমান হবে। সুতরাং, [math]\\lambda = v/f[/math]\u003Cbr\u003E।তিনটি সুরশলাকার কম্পাঙ্ক হল [math]f_1 = 105[/math]\u003Cbr\u003E Hz, [math]f_2 = 315[/math]\u003Cbr\u003E Hz এবং [math]f_3 = 525[/math]\u003Cbr\u003E Hz।তরঙ্গদৈর্ঘ্যের অনুপাত হবে:[math]\\lambda_1 : \\lambda_2 : \\lambda_3 = \\frac{v}{f_1} : \\frac{v}{f_2} : \\frac{v}{f_3}[/math]\u003Cbr\u003Eযেহেতু [math]v[/math]\u003Cbr\u003E ধ্রুবক, আমরা লিখতে পারি:[math]\\lambda_1 : \\lambda_2 : \\lambda_3 = \\frac{1}{f_1} : \\frac{1}{f_2} : \\frac{1}{f_3}[/math]\u003Cbr\u003E [math]\\lambda_1 : \\lambda_2 : \\lambda_3 = \\frac{1}{105} : \\frac{1}{315} : \\frac{1}{525}[/math]\u003Cbr\u003Eএই অনুপাতটিকে সরল করার জন্য, আমরা তিনটি সংখ্যাকেই এদের গরিষ্ঠ সাধারণ গুণনীয়ক (গ.সা.গু.) দিয়ে ভাগ করতে পারি। 105, 315, এবং 525 এর গ.সা.গু. হল 105।[math]\\frac{1}{105 \\times 105} : \\frac{1}{315 \\times 105} : \\frac{1}{525 \\times 105}[/math]\u003Cbr\u003Eএখানে সরলীকরণের জন্য আমরা 105, 315, 525 সংখ্যাগুলির সাধারণ গুণিতক দিয়ে গুণ করতে পারি। 105 = 105 x 1, 315 = 105 x 3, 525 = 105 x 5।সুতরাং, অনুপাতটি হবে:[math]\\frac{1}{105} : \\frac{1}{105 \\times 3} : \\frac{1}{105 \\times 5}[/math]\u003Cbr\u003Eএবার অনুপাতটিকে 105 দিয়ে গুণ করলে পাই:[math]105 \\times \\frac{1}{105} : 105 \\times \\frac{1}{105 \\times 3} : 105 \\times \\frac{1}{105 \\times 5}[/math]\u003Cbr\u003E [math]1 : \\frac{1}{3} : \\frac{1}{5}[/math]\u003Cbr\u003Eএই ভগ্নাংশ অনুপাতকে পূর্ণসংখ্যায় রূপান্তর করতে, আমরা 3 এবং 5 এর ল.সা.গু. (15) দিয়ে গুণ করব:[math]1 \\times 15 : \\frac{1}{3} \\times 15 : \\frac{1}{5} \\times 15[/math]\u003Cbr\u003E [math]15 : 5 : 3[/math]\u003Cbr\u003Eএখানে লক্ষ্যণীয় যে, শব্দের তরঙ্গদৈর্ঘ্য কম্পাঙ্কের ব্যস্তানুপাতিক। অর্থাৎ, কম্পাঙ্ক বাড়লে তরঙ্গদৈর্ঘ্য কমে। সুরশলাকাগুলির কম্পাঙ্ক 105 Hz, 315 Hz, 525 Hz, যা ক্রমবর্ধমান। তাই তরঙ্গদৈর্ঘ্যের অনুপাতটি হবে ক্রমহ্রাসমান।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414409,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414410,
+      "value": {
+        "options": {
+          "ক": "316 Hz",
+          "খ": "631 Hz",
+          "গ": "613 Hz",
+          "ঘ": "136 Hz"
+        },
+        "question": "একটি সুরশলাকা 2.5 m দীর্ঘতর দৈর্ঘ্য তৈরি করতে পারে। যদি ঐ তরঙ্গের বেগ [math]340 \\mathrm{~ms}^{-1}[/math] হয়, তবে সুরশলাকার কম্পাঙ্ক কত?",
+        "solution": "সুরশলাকার কম্পাঙ্ক (f) নির্ণয়ের জন্য, আমরা তরঙ্গ বেগ (v) এবং তরঙ্গদৈর্ঘ্য (λ) এর সম্পর্ক ব্যবহার করতে পারি: [math]v = f \\lambda[/math]\u003Cbr\u003E. এখানে, সুরশলাকার দ্বারা সৃষ্ট দীর্ঘতম তরঙ্গদৈর্ঘ্য (fundamental wavelength) দ্বিগুণ হয় তার দৈর্ঘ্যের, অর্থাৎ [math]λ = 2L[/math]\u003Cbr\u003E, যেখানে L হলো সুরশলাকার দৈর্ঘ্য।প্রদত্ত আছে:তরঙ্গ বেগ, [math]v = 340 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eসুরশলাকার দৈর্ঘ্য, [math]L = 2.5 \\mathrm{~m}[/math]\u003Cbr\u003Eদীর্ঘতম তরঙ্গদৈর্ঘ্য:[math]\\lambda = 2L = 2 \\times 2.5 \\mathrm{~m} = 5 \\mathrm{~m}[/math]\u003Cbr\u003Eকম্পাঙ্ক (f) নির্ণয়:[math]f = v / \\lambda[/math]\u003Cbr\u003E [math]f = 340 \\mathrm{~ms}^{-1} / 5 \\mathrm{~m}[/math]\u003Cbr\u003E [math]f = 68 \\mathrm{~Hz}[/math]\u003Cbr\u003Eযদি প্রশ্নটি একটি নির্দিষ্ট বন্ধ প্রান্ত (closed end) এবং খোলা প্রান্ত (open end) সম্পর্কিত হত, তাহলে হিসাব ভিন্ন হতো। একটি সুরশলাকা সাধারণত একটি নির্দিষ্ট কম্পাঙ্কের শব্দ তৈরি করে, যা এর নিজস্ব কম্পাঙ্ক (natural frequency)। এখানে দীর্ঘতম দৈর্ঘ্য তৈরি করার কথা বলা হয়েছে, যা মৌলিক কম্পাঙ্কের সাথে সম্পর্কিত। তবে, প্রদত্ত অপশনগুলির সাথে হিসাব মেলানোর জন্য, আমাদের ধরে নিতে হবে যে দীর্ঘতম সুরশলাকা তৈরি করতে সক্ষম তরঙ্গদৈর্ঘ্যটি সুরশলাকার দৈর্ঘ্যের দ্বিগুণ।পুনরায় হিসাব করে, যদি সুরশলাকা 2.5 m দীর্ঘতর দৈর্ঘ্য তৈরি করতে পারে, তবে এই \"দৈর্ঘ্য\" আসলে তরঙ্গদৈর্ঘ্যকে বোঝায়।প্রদত্ত:তরঙ্গ বেগ, [math]v = 340 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]\\lambda = 2.5 \\mathrm{~m}[/math]\u003Cbr\u003Eকম্পাঙ্ক (f) নির্ণয়:[math]f = v / \\lambda[/math]\u003Cbr\u003E [math]f = 340 \\mathrm{~ms}^{-1} / 2.5 \\mathrm{~m}[/math]\u003Cbr\u003E [math]f = 3400 / 25 \\mathrm{~Hz}[/math]\u003Cbr\u003E [math]f = 136 \\mathrm{~Hz}[/math]\u003Cbr\u003Eসুতরাং, সঠিক উত্তর হল 136 Hz। একটি সুরশলাকার কম্পাঙ্ক তার পদার্থ, আকৃতি এবং আকারের উপর নির্ভর করে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414410,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414411,
+      "value": {
+        "options": {
+          "ক": "256 Hz",
+          "খ": "620 Hz",
+          "গ": "1020 Hz",
+          "ঘ": "1280 Hz"
+        },
+        "question": "কোনো অর্গান থেকে নিসৃত কম্পাঙ্কগুলো হলো; 256, 268, 502, 512, 620,768, 1020, 1280 Hz\n\nনিচের প্রশ্নের উত্তর দাও।\n\nএখানে মূল সুর কোনটি?",
+        "solution": "এখানে প্রদত্ত কম্পাঙ্কগুলির মধ্যে 256 Hz হলো সর্বনিম্ন কম্পাঙ্ক, যা সাধারণত মূল সুর (fundamental frequency) নির্দেশ করে। অন্যান্য কম্পাঙ্কগুলি (268, 502, 512, 620, 768, 1020, 1280 Hz) হলো হারমোনিক বা ওভারটোন, যা মূল সুরের সাথে যুক্ত হয়ে শব্দের বিভিন্ন গুণাবলী তৈরি করে। হারমোনিকগুলি সাধারণত মূল সুরের পূর্ণসংখ্যার গুণিতক হয়, যদিও সবক্ষেত্রে এটি নিখুঁত নাও হতে পারে, বিশেষত বাদ্যযন্ত্রের ক্ষেত্রে। এখানে 256 Hz এর সাথে 512 Hz (256 x 2) এবং 768 Hz (256 x 3) কাছাকাছি রয়েছে, যা 256 Hz কে মূল সুর হিসেবে সমর্থন করে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414411,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414412,
+      "value": {
+        "options": {
+          "ক": "আড় কম্পন",
+          "খ": "স্থির তির্যক তরঙ্গ",
+          "গ": "অগ্রগামী অনুপ্রস্থ তরঙ্গ",
+          "ঘ": "দীঘল তরঙ্গ"
+        },
+        "question": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও :\n\nA ও B দুটি সুরশলাকা একত্রে শব্দায়িত করলে 3 সেকেন্ড 15 টি বিট শোনা যায়। A- এর বাহুতে ভর লাগলে বিট বাড়ে। A- এর কম্পাঙ্ক 300Hz।\n\nA-এর সুর শলাকার হাতল কোন ধরনের কম্পন সৃষ্টি করে?",
+        "solution": "সুরশলাকার হাতল মূলত আড় কম্পন (transverse vibration) সৃষ্টি করে। যখন সুরশলাকাকে আঘাত করা হয়, তখন এর বাহুগুলো কাঁপতে শুরু করে এবং এই কম্পন হাতলের মাধ্যমে ছড়িয়ে পড়ে। এই কম্পন হাতলের সাথে লম্বভাবে ঘটে, যা আড় কম্পনের বৈশিষ্ট্য।অতিরিক্ত তথ্য:* বিট হলো দুটি শব্দের কম্পাঙ্কের পার্থক্যের কারণে সৃষ্ট পর্যায়ক্রমিক শব্দের তীব্রতার পরিবর্তন।* সুরশলাকার বাহুতে ভর লাগালে তার কম্পাঙ্ক কমে যায়। প্রশ্নে বলা হয়েছে বিট বাড়ে, অর্থাৎ B সুরশলাকার কম্পাঙ্ক বেড়েছে। যেহেতু A-এর কম্পাঙ্ক 300Hz এবং B-এর কম্পাঙ্ক A-এর কম্পাঙ্কের চেয়ে বেশি, তাই B-এর কম্পাঙ্ক 303Hz হবে (বিট সংখ্যা = | [math]f_A - f_B[/math]\u003Cbr\u003E|, [math]15/3[/math]\u003Cbr\u003E = 5, [math]|300 - f_B| = 5[/math]\u003Cbr\u003E, [math]f_B = 305[/math]\u003Cbr\u003E Hz)। তবে, প্রশ্নে A-এর হাতলের কম্পন সম্পর্কে জানতে চাওয়া হয়েছে, যা বিটের সংখ্যার সাথে সরাসরি সম্পর্কিত নয়।* অন্যান্য বিকল্পগুলি (স্থির তির্যক তরঙ্গ, অগ্রগামী অনুপ্রস্থ তরঙ্গ, দীঘল তরঙ্গ) সাধারণত তরঙ্গ সঞ্চালনের ধরণ নির্দেশ করে, যা সুরশলাকার হাতলের সৃষ্ট কম্পনের সরাসরি ব্যাখ্যা দেয় না।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414412,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6601&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6601&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6601&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 45,
+  "total": 45
+}

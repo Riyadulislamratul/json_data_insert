@@ -1,0 +1,2782 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 421541,
+      "value": {
+        "options": [],
+        "question": "পোলার ডাই ইলেকট্রিক কাকে বলে?",
+        "solution": "যে সব ডাই ইলেকট্রিক মাধ্যমের অণুতে পূর্ব থেকেই স্থায়ী ডাইপোল বিক্ষিপ্তভাবে অবস্থান করে কিন্তু বাহ্যিক তড়িৎক্ষেত্র প্রয়োগ করলে ডাইপোলগুলো এর প্রভাবে সুসজ্জিতভাবে অবস্থান করে, সে সব মাধ্যমকে পোলার ডাই ইলেকট্রিক বলে।",
+        "explanation": "পোলার ডাই ইলেকট্রিক হলো এমন একটি ডাইইলেকট্রিক যেখানে অণুগুলোর স্থায়ী ডাইপোল মোমেন্ট থাকে, ফলে বাইরের বৈদ্যুতিক ক্ষেত্রের প্রয়োগে এসব ডাইপোল ক্ষেত্রের দিকনির্দেশ অনুযায়ী ঘোরে এবং উপাদানটিতে সূচকীয় পোলারাইজেশন সৃষ্টি করে। এই সংজ্ঞাই সঠিক কারণ পোলার ডাইইলেকট্রিকে পোলারাইজেশন প্রধানত অণুগুলোর অরিয়েন্টেশনের কারণে হয়, যা নন-পোলার কেস থেকে আলাদা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 421541,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421541,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 421541,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421529,
+      "value": {
+        "options": [],
+        "question": "[math]4.0 \\times 10^{-8} C[/math] মানের ক্ষুদ্র সমান ও বিপরীত জাতীয় আধান [math]6.0cm[/math] ব্যবধানে [math]A[/math] ও [math]B[/math] বিন্দুতে অবস্থিত। আধানদ্বয়ের সংযোগ সরল রেখা [math]AB[/math] এর লম্ব সমদ্বিখন্ডকের উপর [math]4.0cm[/math] দূরে [math]p[/math] বিন্দুতে স্থাপিত [math]1.0 \\times 10^{-8}[/math] আদানের উপর ক্রিয়াশীল বল নির্ণয় কর। [ [math]\\dfrac{1}{4 \\pi \\epsilon_{0}}=9 \\times 10^{9} \\mathrm{Nm}^{2} \\mathrm{c}^{-2}[/math]]",
+        "solution": "( Answer : [math]1.728 \\times 10^{-3} \\mathrm{~N}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : \u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fpolarity20and20voltmeter206_1755587551_MPvox5GE.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\mathrm{R}=2 \\mathrm{~F} \\operatorname{Cos} \\theta=2 \\times \\dfrac{3}{5} \\times \\mathrm{F} \\mid \\cos 0=\\dfrac{A 0}{A C}=\\dfrac{3}{5}[/math]\u003Cbr\u003E [math]=\\dfrac{6}{5} \\times \\dfrac{1}{4 \\pi \\epsilon_{0}} \\times \\dfrac{4 \\times 10^{-8} \\times 1 \\times 10^{-8}}{0.05^{2}}[/math]\u003Cbr\u003E [math]=\\boxed{1.728 \\times 10^{-3} \\mathrm{~N}}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমদ্বিখন্ডকের উপর স্থাপিত পয়েন্টে প্রতিটি আধানের থেকে দূরত্ব [math]r=\\sqrt{(3\\text{ cm})^2+(4\\text{ cm})^2}=5\\text{ cm}=0.05\\text{ m}[/math] এবং কোম্পোনেন্ট বিশ্লেষণে উল্লম্ব অংশগুলো পরস্পর বাতিল হয়, আনুভূমিক অংশগুলো যোগ হয় ফলে নেট তড়িৎক্ষেত্রটি সমদ্বিখন্ডকের সাথে সমান্তরালে নেতিবাচক আধানের দিকে থাকে। নেট ক্ষেত্রের মান হচ্ছে [math]E=\\frac{kQ}{r^2}\\times\\frac{6}{5}=\\frac{9\\times10^9\\times4.0\\times10^{-8}}{(0.05)^2}\\times\\frac{6}{5}=1.728\\times10^5\\ \\text{N/C}[/math]। তাই [math]q=1.0\\times10^{-8}\\ \\text{C}[/math] উপর বল হবে [math]F=qE=1.0\\times10^{-8}\\times1.728\\times10^5=1.728\\times10^{-3}\\ \\text{N}[/math], দিকটি নেতিবাচক আধানের দিকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 421529,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 421529,
+            "tag_id": 80,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421530,
+      "value": {
+        "options": [],
+        "question": "বায়ু মাধ্যমে একটি তড়িৎ দ্বিমেরু অক্ষের ওপর দ্বিমেরুর কেন্দ্র থেকে [math]5 cm[/math] দূরে তড়িৎ প্রাবল্য [math]2.5 \\times 10 NC^{-1}[/math] I এবং [math]10 \\ cm[/math] দূরে তড়িৎ প্রাবল্য [math]2 \\times 10^3 NC^{-1}[/math]। তড়িৎ দ্বিমেরুর দৈর্ঘ্য নির্ণয় কর।",
+        "solution": "[math](0.05m)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,[math]\\begin{array}{l} E_{1}=2.5 \\times 10^{4} \\mathrm{NC}^{-1} \\\\ E_{2}=2 \\times 10^{3} \\mathrm{NC}^{-1} \\end{array}[/math]\u003Cbr\u003Eআমরা জানি, প্রাবল্য,[math]E=\\frac{1}{4 \\pi \\epsilon_{0}} \\frac{2.2 q l r}{\\left(r^{2}-l^{2}\\right)^{2}}[/math]\u003Cbr\u003Eসুতরাং,[math]E_{1}=9 \\times 10^{9} \\times \\frac{2 \\times 0.05 \\times 2 \\times q \\times l}{\\left\\{(0.05)^{2}-l^{2}\\right\\}^{2}}[/math]\u003Cbr\u003E.......(i)এবং [math]E_{2}=9 \\times 10^{9} \\times \\frac{2 \\times 0.10 \\times 2 \\times q \\times l}{\\left\\{(0.10)^{2}-l^{2}\\right\\}^{2}}[/math]\u003Cbr\u003E........(ii)[math](ii)\\div(ii)[/math]\u003Cbr\u003E হতে, [math]\\frac{E_{1}}{E_{2}}=\\frac{9 \\times 10^{9} \\times \\frac{2 \\times 0.05 \\times 2 \\times q \\times l}{\\left\\{(0.05)^{2}-l^{2}\\right\\}^{2}}}{9 \\times 10^{9} \\times \\frac{2 \\times 0.10 \\times 2 \\times q \\times l}{\\left\\{(0.10)^{2}-l^{2}\\right\\}^{2}}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow \\frac{2.5 \\times 10^{4}}{2 \\times 10^{3}}=\\frac{\\left\\{(0.10)^{2}-l^{2}\\right\\}^{2}}{2 \\times\\left\\{(0.05)^{2}-l^{2}\\right\\}^{2}}\\\\\\Rightarrow 25=\\left\\{\\frac{(0.10)^{2}-l^{2}}{(0.05)^{2}-l^{2}}\\right\\}^{2}\\\\\\Rightarrow 5=\\frac{(0.10)^{2}-l^{2}}{(0.05)^{2}-l^{2}}\\\\\\Rightarrow 0.0125-5 l^{2}=0.0 \\mathrm{I}-l^{2}\\\\\\Rightarrow 2.5 \\times 10^{-3}=4 l^{2}\\\\\\Rightarrow l=0.025\\end{array}[/math]\u003Cbr\u003Eসুতরাং তড়িৎ দ্বিমেরুর দৈর্ঘ্য, [math]2 l=0.05 \\mathrm{~m} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "তড়িৎ দ্বিমেরুর অক্ষের উপর কেন্দ্র থেকে দূরত্ব [math]x[/math]-এ ক্ষেত্রের সঠিক সূত্র হলো [math]E=\\frac{1}{4\\pi\\epsilon_0}\\,q\\Big(\\frac{1}{(x-a)^2}-\\frac{1}{(x+a)^2}\\Big)=\\frac{1}{4\\pi\\epsilon_0}\\frac{4qax}{(x^2-a^2)^2}[/math], তাই [math]E\\propto\\frac{x}{(x^2-a^2)^2}[/math]. দুই বিন্দুর অনুপাত নেওলে [math]\\frac{E_1}{E_2}=\\frac{x_1}{x_2}\\Big(\\frac{x_2^2-a^2}{x_1^2-a^2}\\Big)^2[/math] হয়; এখানে [math]x_1=0.05\\ m,\\ x_2=0.10\\ m[/math] এবং [math]\\frac{E_1}{E_2}=\\frac{2.5\\times10^4}{2\\times10^3}=12.5[/math], ফলে [math]\\Big(\\frac{0.01-a^2}{0.0025-a^2}\\Big)^2=25[/math] থেকে [math]\\frac{0.01-a^2}{0.0025-a^2}=5[/math] এবং এটি সমাধান করে [math]a^2=0.000625\\Rightarrow a=0.025\\ m[/math]. তাই দ্বিমেরুর দৈর্ঘ্য [math]2a=0.05\\ m=5\\ cm[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 421530,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421531,
+      "value": {
+        "options": [],
+        "question": "শূন্যস্থানে [math]8 \\mu C[/math] এবং [math]-8 \\mu C[/math] বিন্দু আধান দুটি [math]10^{-3}m[/math] ব্যবধানে থেকে একটি ত ড়িৎ দ্বিমেরু গঠন করে। এর দ্বিমেরুর ভ্রামক এবং দ্বিমেরুর কেন্দ্র থেকে [math]20 cm[/math] দূরে এর অক্ষের ওপর তড়িৎ প্রাবল্য নির্ণয় কর।",
+        "solution": "[math](18 \\times 10^3 NC^{-1})[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,ব্যবধান, [math]2 \\ell=1 \\times 10^{-3} \\mathrm{~m}[/math]\u003Cbr\u003Eচার্জ, [math]q=8 \\times 10^{-6}C[/math]\u003Cbr\u003Eকেন্দ্র থেকে দূরত্ব, [math]r=20cm=0.2m[/math]\u003Cbr\u003Eদ্বিমেরুর ভ্রামক, [math]P=?[/math]\u003Cbr\u003Eপ্রাবল্য, [math]E=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned} \\mathrm{P} & =2 \\mathrm{q} l \\\\ & =1 \\times 10^{-3} \\mathrm{~m} \\times 8 \\times 10^{-6} \\mathrm{C} \\\\ & =8 \\times 10^{-9} \\mathrm{Cm} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003Eএখানে, [math]l=\\frac{1 \\times 10^{-3}}{2}=5 \\times 10^{-4} \\mathrm{~m}[/math]\u003Cbr\u003Eএবং [math]r\u003E\u003E l[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003Eপ্রাবল্য,[math]\\begin{array}{l} \\mathrm{E}=\\frac{1}{4 \\pi \\epsilon_{0}} \\frac{2 \\mathrm{p}}{\\mathrm{r}^{3}} \\\\ =9 \\times 0^{9} \\mathrm{Nm}^{2} \\mathrm{C}^{-2} \\times \\frac{2 \\times 8 \\times 10^{-9} \\mathrm{Cm}}{(0.2 \\mathrm{~m})^{3}} \\\\ =18000 \\mathrm{NC}^{-1}=18 \\times 10^{3} \\mathrm{NC}^{-1} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ডিপোল মুহুর্তের মান [math]p=qd=(8\\times10^{-6}\\ \\text{C})(10^{-3}\\ \\text{m})=8\\times10^{-9}\\ \\text{C·m}[/math]. অක්ෂীয় দূরত্বে (যেখানে [math]r\\gg d[/math]) তড়িৎ ক্ষেত্রের পরিমাপ হল [math]E=\\dfrac{1}{4\\pi\\varepsilon_0}\\dfrac{2p}{r^3}[/math], তাই [math]E=(9\\times10^9)\\dfrac{2(8\\times10^{-9})}{(0.20)^3}=1.8\\times10^{4}\\ \\text{N/C}[/math]. দিকটি অক্ষ বরাবর হবে, ধনাত্মক দিক থেকে ঋণাত্মকের দিকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 421531,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421532,
+      "value": {
+        "options": [],
+        "question": "একটি তড়িৎ দ্বিমেরু [math]2 \\ mm[/math] ব্যবধানে রাখা [math]\\pm 20 \\mu \\mathrm{C}[/math] আধান দিয়ে তৈ রি। ওই দ্বিমেরুর অক্ষের লম্ব সমদ্বিখন্ডকের ওপর অবস্থিত দ্বিমেরুর মধ্যবিন্দু থেকে [math]10 \\ cm[/math] দূরে অবস্থিত একটি বিন্দুতে তড়িৎ প্রাবল্য নির্ণয় কর।",
+        "solution": "[math](36 \\times 10^4 NC^{-1})[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,ব্যবধান,চার্জ, [math]2 l=2mm=2 \\times 10^{-3}m[/math]\u003Cbr\u003Eদূরত্ব, [math]r=10 \\ cm=0.1m[/math]\u003Cbr\u003Eপ্রাবল্য, [math]E=?[/math]\u003Cbr\u003Eআমরা জানি,লম্বদ্বিখন্ডকের জন্য,[math]\\begin{aligned} E & =\\frac{1}{4 \\pi \\epsilon_{0}} \\times \\frac{2 l \\mathrm{q}}{\\mathrm{r}^{3}} \\\\ & =9 \\times 10^{9} \\mathrm{Nm}^{2} \\mathrm{C}^{-2} \\\\ & \\times \\frac{2 \\times 10^{-3} \\mathrm{~m} \\times 20 \\times 10^{-6} \\mathrm{C}}{(0.1)^{3}} \\\\ & =36 \\times 10^{4} \\mathrm{NC}^{-1} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 421532,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421533,
+      "value": {
+        "options": [],
+        "question": "একটি পজিট্রন [math](+e)[/math] এবং একটি ইলেকট্রন [math](-e)[/math] পরস্পর হতে [math]10^{-8} m[/math] দূরে অবস্থিত থে কে তড়িৎ দ্বিমেরু গঠন করে। দ্বিমেরুর ভ্রামকের মান কত এবং এর অভিমুখ কী? [math]e=1.6 \\times 10^{-19}C[/math]",
+        "solution": "[math](1.6 \\times 10^{-27}Cm)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,[math]2 \\ell =10^{-8}m[/math]\u003Cbr\u003Eচার্জ, [math]q=e=1.6 \\times 10^{-19}C[/math]\u003Cbr\u003Eআমরা জানি,দ্বিমেরু ভ্রামক,[math]\\begin{aligned} \\mathrm{P} & =2 \\mathrm{q} l=\\mathrm{q} \\times(2 l) \\\\ & =1.6 \\times 10^{-19} \\mathrm{C} \\times 10^{-8} \\mathrm{~m} \\\\ & =1.6 \\times 10^{-27} \\mathrm{Cm} \\end{aligned}[/math]\u003Cbr\u003Eভ্রামকের অভিমুখ ইলেক্ট্রন থেকে পজিট্রনের দিকে। [math](Ans.)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দ্বিমেরুর ভ্রামক [math]p=qd[/math] দিয়ে নির্ণয় করা হয়; এখানে [math]q=e=1.6\\times10^{-19}\\,\\text{C}[/math] এবং [math]d=10^{-8}\\,\\text{m}[/math], ফলে [math]p=1.6\\times10^{-27}\\,\\text{C·m}[/math]। অভিমুখ প্রতি প্রচলিত সংজ্ঞা অনুযায়ী ঋণাত্মক চার্জ থেকে ধনাত্মক চার্জের দিকে, অর্থাৎ ইলেকট্রন থেকে পজিট্রনের দিকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 421533,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421534,
+      "value": {
+        "options": [],
+        "question": "একটি তড়িৎ দ্বিমেরু [math]10^4 N/C[/math] সুষম তড়িৎক্ষেত্রের সঙ্গে [math]30°[/math] কোণ করে থাকলে [math]9 \\times 10^{-6} Nm[/math] টর্ক অনুভব করে। তড়িৎ দ্বিমেরুর ভ্রামক কত?",
+        "solution": "[math](1.8 \\times 10^{-29}Cm)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,তড়িৎক্ষেত্র,টর্ক,দ্বিমেরু ভ্রামক,[math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,টর্ক, [math]\\tau =Fasin \\theta[/math]\u003Cbr\u003E [math]=qEasin \\theta[/math]\u003Cbr\u003E [math]\\frac{\\tau}{\\operatorname{Esin} \\theta}=\\mathrm{qa}[/math]\u003Cbr\u003Eকিন্তু দ্বিমেরু ভ্রাবক [math]p=qa[/math]\u003Cbr\u003E [math]\\begin{aligned} \\therefore \\mathrm{p} & =\\frac{\\tau}{\\operatorname{Esin} \\theta}=\\frac{9 \\times 10^{-26} \\mathrm{Nm}}{10^{4} \\mathrm{~N} / \\mathrm{C} \\sin 30^{\\circ}} \\\\ & =1.8 \\times 10^{-29} \\mathrm{Cm}(\\text { Ans. }) \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: একটি তড়িৎ দ্বিমের টর্ক [math]\\tau = pE\\sin\\theta[/math] হয়, তাই [math]p=\\dfrac{\\tau}{E\\sin\\theta}[/math]. এখানে [math]\\tau=9\\times10^{-6}\\,\\mathrm{N\\,m},\\ E=10^4\\,\\mathrm{N/C},\\ \\sin30^\\circ=\\tfrac{1}{2}[/math], ফলে [math]p=\\dfrac{9\\times10^{-6}}{10^4\\times\\tfrac{1}{2}}=\\dfrac{9\\times10^{-6}}{5\\times10^3}=1.8\\times10^{-9}\\,\\mathrm{C\\,m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 421534,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421535,
+      "value": {
+        "options": [],
+        "question": "বায়ুতে অবস্থিত একটি তড়িৎ দ্বিমেরুর দুটি বিপরীত আধারে প্রত্যেকটির মান [math]6.4 \\times 10^{-9 }C[/math] এবং এদের মধ্যবর্তী দূরত্ব [math]0.2m[/math]। তড়িৎ দ্বিমেরুর অক্ষের উপর এর মধ্যবিন্দু থেকে [math]15m[/math] দূরে কোনো বিন্দুতে তড়িৎ প্রাবল্যের মান নির্ণয় কর।",
+        "solution": "[math](6.83 \\times 10^{-4}N/C)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,মধ্যবর্তী দূরত্ব, [math]2l=0.02m[/math]\u003Cbr\u003Eমধ্যবিন্দু থেকে দূরত্ব, [math]r=15m[/math]\u003Cbr\u003Eপ্রাবল্য, [math]E=?[/math]\u003Cbr\u003Eচার্জ, [math]q=6.5 \\times 10^{-9}C[/math]\u003Cbr\u003Eআমরা জানি, অক্ষের উপর প্রাবল্য,[math]\\begin{aligned} E & =\\frac{1}{4 \\pi \\epsilon_{0}} \\times \\frac{2 p}{r^{3}} \\\\ & =\\frac{1}{4 \\pi \\epsilon_{0}} \\times \\frac{2(2 l) \\times q}{r^{3}} \\\\ & =9 \\times 10^{9} \\times \\frac{2 \\times 0.02 \\times 6.4 \\times 10^{-9}}{(15)^{3}} \\\\ & =6.83 \\times 10^{-4} \\mathrm{~N} / \\mathrm{C} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "বর্ণনা: বিন্দুটিতে দুই চার্জের ক্ষেত্রের পার্থক্য খুব ছোট হলে ডাইপল নমুনা ব্যবহার করা যায়, তাই [math]x\\gg d[/math] হলে ব্যবহার্য সূত্রটি হচ্ছে [math]E\\approx\\frac{1}{2\\pi\\varepsilon_0}\\frac{p}{x^3}[/math] যেখানে [math]p=qd[/math]। \n\nগণনা: [math]p=(6.4\\times10^{-9}\\,\\text{C})(0.2\\,\\text{m})=1.28\\times10^{-9}\\,\\text{C·m}[/math], তাই [math]E\\approx\\frac{1}{2\\pi\\varepsilon_0}\\frac{1.28\\times10^{-9}}{15^3}\\approx6.8\\times10^{-3}\\,\\text{N/C}[/math]। \n\nফলাফল ও কারণ: মানটি ছোট কারণ দুই বিপরীত চার্জের ক্ষেত্র প্রায়ই পরস্পর নাকচ করে; ক্ষেত্রের দিকটি বিন্দুটির দিকে থাকা ধনাত্মক চার্জ থেকে দূরের দিকে (ডানদিকে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 421535,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421536,
+      "value": {
+        "options": [],
+        "question": "শূন্যস্থানে অবস্থিত একটি তড়িৎ দ্বিমেরুর দুটি বিপরীত আধানের প্রত্যেকটির মান [math]4 \\times 10^{- 6}C[/math] এবং এদের মধ্যবর্তী দূরত্ব [math]4cm[/math] (i) মিমের অক্ষের উপর এর কেন্দ্র থেকে [math]20cm[/math] দূরে কোনো বিন্দুতে তড়িৎ প্রাবল্যের মান নির্ণয় কর। (ii) দ্বিমেরুর লম্ব সমমিখণ্ডকের উপর হিমেরু থেকে [math]20cm[/math] দূরে প্রাবল্যের মান নির্ণয় কর।",
+        "solution": "[math](i)3.6 \\times 10^5 N/C,(ii)1.8 \\times 10^5 \\ N/C[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,চার্জ, [math]q=4 \\times 10^{-6}C[/math]\u003Cbr\u003Eমধ্যবিন্দু দূরত্ব,[math]\\begin{array}{r} 2 l=4 \\mathrm{~cm} \\\\ =0.04 \\mathrm{~m} \\end{array}[/math]\u003Cbr\u003Eকেন্দ্রে হতে দূরত্ব,[math]\\begin{aligned} r & =20 \\mathrm{~cm} \\\\ & =0.2 \\mathrm{~m} \\end{aligned}[/math]\u003Cbr\u003Eআমরা জানি,(ক) তড়িৎ দ্বিমেরুর অক্ষের উপর প্রাবল্য,[math]\\begin{aligned} E & =\\frac{1}{4 \\pi \\epsilon_{0}} \\times \\frac{2 p}{r^{3}} \\\\ & =\\frac{1}{4 \\pi \\epsilon_{0}} \\times \\frac{2(2 l \\times q)}{r^{3}} \\\\ & =9 \\times 10^{9} \\times \\frac{2 \\times 0.04 \\times 4 \\times 10^{-6}}{(0.2)^{3}} \\\\ & =3.6 \\times 10^{5} \\mathrm{~N} / \\mathrm{C} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E(খ) তড়িৎ দ্বিমেরুর লম্বদ্বিখন্ডকের উপর প্রাবল্য,[math]\\begin{aligned} E & =\\frac{1}{4 \\pi \\epsilon_{0}} \\times \\frac{q}{r^{3}}=\\frac{1}{4 \\pi \\epsilon_{0}} \\times \\frac{2 l \\times q}{r^{3}} \\\\ & =9 \\times 10^{9} \\times \\frac{0.04 \\times 4 \\times 10^{-6}}{(0.2)^{3}} \\\\ & =1.8 \\times 10^{5} \\mathrm{~N} / C \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মিমের জন্য প্রথমে দ্বিমেরু ভরের মুহূর্ত [math]p=qd=(4\\times10^{-6})(0.04)=1.6\\times10^{-7}\\ \\mathrm{C\\cdot m}[/math] নেওয়া হয়; অক্ষীয় ক্ষেত্র (r≫d) সূত্র [math]E_{\\text{axial}}=\\frac{1}{4\\pi\\epsilon_0}\\frac{2p}{r^3}[/math] প্রয়োগ করলে [math]E=9\\times10^9\\frac{2(1.6\\times10^{-7})}{(0.20)^3}=3.6\\times10^{5}\\ \\mathrm{N/C}[/math] পাওয়া যায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E লম্ব সমমিখণ্ডকের উপর ক্ষেত্রের সূত্র [math]E_{\\perp}=\\frac{1}{4\\pi\\epsilon_0}\\frac{p}{r^3}[/math] প্রয়োগ করলে [math]E=9\\times10^9\\frac{1.6\\times10^{-7}}{(0.20)^3}=1.8\\times10^{5}\\ \\mathrm{N/C}[/math]; এটি অক্ষীয় মানের ঠিক অর্ধেক হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 421536,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421537,
+      "value": {
+        "options": [],
+        "question": "বায়ুতে অবস্থিত একটি ওড়িৎ দ্বিমেরুর দুটি বিপরীত আধানের প্রত্যেকটির মান [math]5 \\ nC[/math] এবং এদে র মধ্যবর্তী দূরত্ব [math]5cm[/math] । তড়িৎ দ্বিমেরুর অক্ষের উপর এর মধ্যবিন্দু থেকে [math]10m[/math] দূরে কোনো বিন্দুতে তারল বিভব নির্ণয় কর।",
+        "solution": "[math](0.0225V)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,[math]\\begin{array}{l} \\mathrm{q}=5 \\mathrm{nC} \\\\ =5 \\times 10^{-9} \\mathrm{C} \\\\ 2 l=5 \\mathrm{~cm} \\\\ =0.05 \\mathrm{~m} \\\\ \\mathrm{r}=10 \\mathrm{~m} \\\\ \\mathrm{~V}=? \\end{array}[/math]\u003Cbr\u003Eআমরা জানি, তড়িৎ দ্বিমেরুর অক্ষের উপর বিভব,[math]\\begin{aligned} \\mathrm{V} & =\\frac{1}{4 \\pi \\epsilon_{0}} \\times \\frac{\\mathrm{p}}{\\mathrm{r}^{2}} \\\\ & =\\frac{1}{4 \\pi \\epsilon_{0}} \\times \\frac{2l \\times \\mathrm{q}}{\\mathrm{r}^{2}} \\\\ & =9 \\times 10^{9} \\times \\frac{0.05 \\times 5 \\times 10^{-9}}{10^{2}} \\\\ & =0.0225 \\mathrm{~V} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দূরবর্তী অক্ষবিন্দুতে দ্বিমেরুর স্কেলকৃত বিভব শূন্যের স্রোত হওয়ায় দুইটি চার্জের সরাসরি [math]1/r[/math] অংশগুলি প্রায়ই বাতিল করে, ফলে দূরত্বের উপর নির্ভরশীলতা হয় [math]1/r^2[/math]। ব্যবহৃত সূত্রটি হলো [math]V=\\dfrac{1}{4\\pi\\epsilon_0}\\dfrac{p\\cos\\theta}{r^2}[/math] এবং অক্ষের উপর হলে [math]\\cos\\theta= \\pm1[/math] তাই [math]V=\\dfrac{k\\,p}{r^2}[/math]। এখানে [math]p=qd=5\\times10^{-9}\\times0.05=2.5\\times10^{-10}\\ \\text{C·m}[/math], [math]k=9\\times10^9[/math], [math]r=10\\ \\text{m}[/math] হলে [math]V=9\\times10^9\\times2.5\\times10^{-10}/10^2=0.0225\\ \\text{V}[/math] (অক্ষের কোন পাশে সে অনুসারে চিহ্ন ধনাত্মক বা ঋণাত্মক)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 421537,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421538,
+      "value": {
+        "options": [],
+        "question": "একটি ইলেকট্রন ও প্রোটন পরস্পর থেকে [math]5 \\times 10^{-11}m[/math] দূরত্বে থেকে একটি দ্বিমেরু গ ঠন করে। দ্বিমেরুটির দ্বিমেরু ভ্রামক কত এবং এর দিক কী হবে?",
+        "solution": "[math]8 \\times 10^{-30}cm;[/math]ইলেকট্রন থেকে প্রোটনের দিকে।",
+        "explanation": "ব্যাখ্যা: দ্বিমেরু ভ্রামক এর মান [math]p = q\\,r[/math] যেখানে [math]q=1.6\\times10^{-19}\\,\\text{C}[/math] এবং [math]r=5\\times10^{-11}\\,\\text{m}[/math], ফলে [math]p=(1.6\\times10^{-19})(5\\times10^{-11})=8.0\\times10^{-30}\\,\\text{C·m}[/math]. দ্বিমেরু ভ্রামকটি ঋণাত্মক চার্জ (ইলেকট্রন) থেকে ধনাত্মক চার্জ (প্রোটন) এর দিকে নির্দেশিত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 421538,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421539,
+      "value": {
+        "options": [],
+        "question": "তড়িৎ দ্বিমেরুর সংজ্ঞা দাও।",
+        "solution": "দুটি সমান কিন্তু বিপরীতধর্মী বিন্দুচার্জ অতি অল্প দূরত্বে অবস্থিত হলে তাকে তড়িৎ দিমেরু বলে।",
+        "explanation": "তড়িৎ দ্বিমেরু হলো সমান এবং বিপরীত চিহ্নের দুটো পৃথক চার্জ যাদের মধ্যে নির্দিষ্ট দূরত্ব থাকে, ফলে মোট চার্জ শূন্য হলেও একটি অনন্য দ্বিমোমূহত্ব জন্মায়। এটির দ্বিমোমূহত্বকে [math]\\vec p=q\\vec d[/math] দিয়ে মাপা হয় (দিক নেগেটিভ থেকে পজিটিভের দিকে), এবং এই মানটি বাইরে বৈদ্যুতিক ক্ষেত্র ও পটেনশিয়ালের প্রবর্তিত আচরণ নির্ধারণ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 421539,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 421539,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 421539,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 421539,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 421539,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 421539,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 421539,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 421539,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 421539,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 421539,
+            "year_id": 8
+          }
+        },
+        {
+          "id": 33,
+          "year": "2004-2005",
+          "pivot": {
+            "question_bank_id": 421539,
+            "year_id": 33
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "tag_id": 7,
+            "year": "2015",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 421539,
+            "tag_id": 46,
+            "year": "04-05",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421540,
+      "value": {
+        "options": [],
+        "question": "তড়িৎ দ্বিমেরু ভ্রামক কাকে বলে?",
+        "solution": "তড়িৎ দ্বিমেরুর যে কোন একটি আধান এবং এদের মধ্যবর্তী দূরত্বের গুণফলকে তড়িৎ দ্বিমেরুর ভ্রামক বলে।",
+        "explanation": "তড়িৎ দ্বিমেরু ভ্রামক হলো একটি ভেক্টর পরিমাণ যা দুই সমমান কিন্তু বিপরীত চিহ্নের চার্জের মধ্যে দূরত্ব ও চার্জের পরিমাণের গুণফল; তাই [math]\\vec{p}=q\\vec{l}[/math]। এটি দ্বিমেরুর দিক ও শক্তি বোঝায় — ভেক্টরটির দিক থাকে ঋণাত্মক চার্জ থেকে ধনাত্মক চার্জের দিকে এবং এটি বাহ্যিক বৈদ্যুতিক ক্ষেত্রের সঙ্গে টর্ক ও শক্তি নির্ধারণ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 421540,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 421540,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T07:12:31.000000Z",
+            "updated_at": "2025-08-19T07:12:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421522,
+      "value": {
+        "options": {
+          "ক": "[math]2 \\times 10^{-15} V[/math]",
+          "খ": "[math]3 \\times 10^{-3} V[/math]",
+          "গ": "[math]5 \\times 10^{-2} V[/math]",
+          "ঘ": "[math]2 \\times 10^{4} \\mathrm{~V}[/math]"
+        },
+        "question": "[math]+1 \\ C[/math] এবং [math]−1 \\ C[/math] আধান দুটিকে [math]5 \\ cm[/math] ব্যবধানে রেখে একটি তড়িৎ দ্বিমেরু গঠন করা হলো। এ দ্বিমেরুর অক্ষ বরাবর [math]15 \\ cm[/math] দূরের কোনো একটি বিন্দুতে তড়িৎ বিভব কত?",
+        "solution": "প্রথমে তড়িৎ দ্বিমেরুর ভ্রামক নির্ণয় করতে হবে। [math]p = q \\times 2a[/math]\u003Cbr\u003E, যেখানে [math]q = 1 \\times 10^{-1} \\ C[/math]\u003Cbr\u003E এবং [math]2a = 5 \\times 10^{-2} \\ m[/math]\u003Cbr\u003E (অর্ধেক দূরত্ব নিলে হবে [math]2.5 \\times 10^{-2} \\ m[/math]\u003Cbr\u003E, কিন্তু দ্বিমেরু দৈর্ঘ্য [math]2a[/math]\u003Cbr\u003E ধরা হয়)। সুতরাং, [math]p = (1 \\times 10^{-1}) \\times (5 \\times 10^{-2}) = 5 \\times 10^{-3} \\ \\mathrm{C \\cdot m}[/math]\u003Cbr\u003E।অক্ষ বরাবর কোনো বিন্দুতে তড়িৎ বিভবের সূত্র হলো [math]V = \\frac{1}{4\\pi\\epsilon_0} \\frac{p}{r^2}[/math]\u003Cbr\u003E। এখানে [math]\\frac{1}{4\\pi\\epsilon_0} = 9 \\times 10^9 \\ \\mathrm{N \\cdot m^2/C^2}[/math]\u003Cbr\u003E এবং [math]r = 15 \\ \\mathrm{cm} = 0.15 \\ \\mathrm{m}[/math]\u003Cbr\u003E।এখন মানগুলো বসিয়ে পাই:[math]V = (9 \\times 10^9) \\times \\frac{5 \\times 10^{-3}}{(0.15)^2}[/math]\u003Cbr\u003E [math]V = (9 \\times 10^9) \\times \\frac{5 \\times 10^{-3}}{0.0225}[/math]\u003Cbr\u003E [math]V = (9 \\times 10^9) \\times (222.22 \\times 10^{-3})[/math]\u003Cbr\u003E [math]V \\approx 2000 \\times 10^6 \\times 10^{-3}[/math]\u003Cbr\u003E [math]V \\approx 2 \\times 10^3 \\times 10^{-3}[/math]\u003Cbr\u003E [math]V \\approx 2 \\times 10^4 \\ V[/math]\u003Cbr\u003Eবিকল্পের মধ্যে অপশন D সঠিক।",
+        "explanation": "",
+        "correct_answer": "D.[math]2 \\times 10^{4} \\mathrm{~V}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 421522,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:12:30.000000Z",
+            "updated_at": "2025-08-19T07:12:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421528,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি তড়িৎ দ্বিমেরুর বিভব—\n\n(i) দ্বিমেরুর অক্ষ থেকে দূরত্বের বর্গের ব্যস্তানুপাতিক\n\n(ii) দ্বিমেরুর অক্ষ থেকে দূরত্বের ঘনের ব্যস্তানুপাতিক\n\n(iii) শূন্য, ধনাত্মক বা ঋণাত্মক হতে পারে\n\nনিচের কোনটি সঠিক?",
+        "solution": "একটি তড়িৎ দ্বিমেরুর অক্ষ বরাবর বিভব দ্বিমেরুর অক্ষ থেকে দূরত্বের বর্গের ব্যস্তানুপাতিক এবং অক্ষ ব্যতীত অন্য কোনো বিন্দুতে দ্বিমেরুর বিভব দূরত্বের বর্গের ব্যস্তানুপাতিক। বিভবের মান শূন্য, ধনাত্মক বা ঋণাত্মক হতে পারে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 421528,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3498,
+          "full_name": "Nilphamari Govt. College, Nilphamari",
+          "short_name": "NGCC",
+          "slug": "ngcc",
+          "pivot": {
+            "question_bank_id": 421528,
+            "tag_id": 3498,
+            "year": "2020",
+            "created_at": "2025-08-19T07:12:30.000000Z",
+            "updated_at": "2025-08-19T07:12:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421527,
+      "value": {
+        "options": {
+          "ক": "[math]r^{-1}[/math]",
+          "খ": "[math]r^{-2}[/math]",
+          "গ": "[math]r^{-3}[/math]",
+          "ঘ": "[math]r^{-4}[/math]"
+        },
+        "question": "একটি তড়িৎ দ্বি-পোলের জন্য তড়িৎ প্রাবল্য কীরূপে পরিবর্তিত হয়?",
+        "solution": "একটি তড়িৎ দ্বি-পোলের জন্য কোন বিন্দুতে তড়িৎ প্রাবল্য দূরত্বের ঘনফলের ব্যস্তানুপাতিক হয়, অর্থাৎ [math]E \\propto r^{-3}[/math]। অন্যান্য বিকল্পগুলি এখানে প্রযোজ্য নয় কারণ এগুলো বিন্দু আধান বা অন্য কোনো ক্ষেত্রের জন্য প্রযোজ্য।",
+        "explanation": "",
+        "correct_answer": "C.[math]r^{-3}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 421527,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3478,
+          "full_name": "Abdul Kadir Molla City College",
+          "short_name": "AKMCC",
+          "slug": "akmcc",
+          "pivot": {
+            "question_bank_id": 421527,
+            "tag_id": 3478,
+            "year": "2020",
+            "created_at": "2025-08-19T07:12:30.000000Z",
+            "updated_at": "2025-08-19T07:12:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421526,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{Cm}^2[/math]",
+          "খ": "[math]\\mathrm{Cm}^{-2}[/math]",
+          "গ": "[math]\\mathrm{C}^2\\mathrm{m}^{-2}[/math]",
+          "ঘ": "[math]\\mathrm{Cm}[/math]"
+        },
+        "question": "তড়িৎ দ্বিমেরু ভ্রামক এর একক কোনটি?",
+        "solution": "তড়িৎ দ্বিমেরু ভ্রামক ( [math]p[/math]\u003Cbr\u003E) হলো একটি চার্জ ( [math]q[/math]\u003Cbr\u003E) এবং তার থেকে দূরত্বের ( [math]d[/math]\u003Cbr\u003E) গুণফল। অর্থাৎ, [math]p = qd[/math]\u003Cbr\u003E । চার্জের একক কুলম্ব (C) এবং দূরত্বের একক মিটার (m)। তাই তড়িৎ দ্বিমেরু ভ্রামকের একক হবে [math]\\mathrm{Cm}[/math]\u003Cbr\u003E। অন্য বিকল্পগুলি সঠিক নয় কারণ তারা এই সম্পর্কটিকে সঠিকভাবে উপস্থাপন করে না।",
+        "explanation": "",
+        "correct_answer": "D.[math]\\mathrm{Cm}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 421526,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3434,
+          "full_name": "DAWOOD PUBLIC SCHOOL & COLLEGE",
+          "short_name": "DPSC",
+          "slug": "dpsc",
+          "pivot": {
+            "question_bank_id": 421526,
+            "tag_id": 3434,
+            "year": "2020",
+            "created_at": "2025-08-19T07:12:30.000000Z",
+            "updated_at": "2025-08-19T07:12:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421525,
+      "value": {
+        "options": {
+          "ক": "[math]-1[/math]",
+          "খ": "[math]0[/math]",
+          "গ": "[math]1[/math]",
+          "ঘ": "[math]\\propto[/math]"
+        },
+        "question": "তড়িৎ দ্বিমেরুর লম্বদ্বিখন্ডকের উপর কোন বিন্দুতে তড়িৎ বিভব কত?",
+        "solution": "তড়িৎ দ্বিমেরুর লম্বদ্বিখন্ডকের উপর যেকোনো বিন্দুতে তড়িৎ বিভব শূন্য হয় কারণ দ্বিমেরুর দুটি মেরুর জন্য সৃষ্ট বিভবের মান সমান ও বিপরীতমুখী হয়, ফলে এদের লব্ধি শূন্য হয়।",
+        "explanation": "",
+        "correct_answer": "B.[math]0[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 421525,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:12:30.000000Z",
+            "updated_at": "2025-08-19T07:12:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421524,
+      "value": {
+        "options": {
+          "ক": "শুধুমাত্র বল ক্রিয়া করে",
+          "খ": "শুধুমাত্র টর্ক ক্রিয়াশীল হবে",
+          "গ": "টর্ক ও বল দুটিই ক্রিয়াশীল হবে",
+          "ঘ": "কিছুই ক্রিয়াশীল হবে না"
+        },
+        "question": "উদ্দীপকটি হতে প্রশ্নের উত্তর দাও ।\n\nআমরা জানি খুব কাছাকাছি স্থাপিত দুটি সমান বিপরীতধর্মী চার্জ তড়িৎ দ্বিপোল গঠন করে। একই সরলরেখায় দূরের কোন বিন্দুতে একটি চার্জ স্থাপন করা হলো এবং এর উপর প্রযুক্ত বল [math]F[/math]।\n\nতড়িৎ দ্বিপোলটিকে একটি সুষম তড়িৎক্ষত্রে যদি সমান্তরালে স্থাপন করা হয় তবে এটির উপর-",
+        "solution": "সুষম তড়িৎক্ষেত্রে একটি তড়িৎ দ্বিপোলকে সমান্তরালে স্থাপন করলে, দ্বিপোলের বিপরীতধর্মী চার্জ দুটির উপর সমান কিন্তু বিপরীতমুখী বল প্রযুক্ত হয়। এই বল দুটি একে অপরের সমান ও সমান্তরাল হওয়ায় এদের লব্ধি বল শূন্য হয়, অর্থাৎ কোনো নিট বল ক্রিয়া করে না। তবে, এই বল দুটি একটি টর্ক সৃষ্টি করে যা দ্বিপোলটিকে তড়িৎক্ষেত্রের সাথে সমান্তরালভাবে ঘোরানোর চেষ্টা করে। তাই, শুধুমাত্র টর্ক ক্রিয়াশীল হবে।",
+        "explanation": "",
+        "correct_answer": "A.শুধুমাত্র বল ক্রিয়া করে"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 421524,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:12:30.000000Z",
+            "updated_at": "2025-08-19T07:12:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421523,
+      "value": {
+        "options": {
+          "ক": "2F",
+          "খ": "F/2",
+          "গ": "F/4",
+          "ঘ": "F/8"
+        },
+        "question": "উদ্দীপকটি হতে প্রশ্নের উত্তর দাও ।\n\nআমরা জানি খুব কাছাকাছি স্থাপিত দুটি সমান বিপরীতধর্মী চার্জ তড়িৎ দ্বিপোল গঠন করে। একই সরলরেখায় দূরের কোন বিন্দুতে একটি চার্জ স্থাপন করা হলো এবং এর উপর প্রযুক্ত বল [math]F[/math]।\n\nযদি এ চার্জটিকে বর্তমান দূরত্বের দ্বিগুণ দূরে স্থাপন করা হয় তাহলে এর উপর প্রযুক্ত বলের মান কত হবে ?",
+        "solution": "তড়িৎ দ্বিপোলের জন্য কোনো বিন্দুতে তড়িৎ ক্ষেত্র প্রাবল্য দূরত্বের ঘনফলের ব্যস্তানুপাতিক, অর্থাৎ [math]E \\propto \\frac{1}{r^3}[/math]\u003Cbr\u003E। প্রযুক্ত বল [math]F = qE[/math]\u003Cbr\u003E, যেখানে [math]q[/math]\u003Cbr\u003E হলো পরীক্ষামূলক চার্জ। সুতরাং, [math]F \\propto \\frac{1}{r^3}[/math]\u003Cbr\u003E। যখন দূরত্ব দ্বিগুণ করা হয় ( [math]r \\rightarrow 2r[/math]\u003Cbr\u003E), তখন বলের মান [math]F' \\propto \\frac{1}{(2r)^3} = \\frac{1}{8r^3}[/math]\u003Cbr\u003E হয়। অর্থাৎ, নতুন বল [math]F'[/math]\u003Cbr\u003E আগের বল [math]F[/math]\u003Cbr\u003E এর [math]\\frac{1}{8}[/math]\u003Cbr\u003E গুণ হবে। তাই, [math]F' = \\frac{F}{8}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 421523,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:12:30.000000Z",
+            "updated_at": "2025-08-19T07:12:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421521,
+      "value": {
+        "options": {
+          "ক": "i,ii",
+          "খ": "ii,iii",
+          "গ": "i,iii",
+          "ঘ": "i,ii,iii"
+        },
+        "question": "তিনটি তথ্য দেওয়া আছে—\n\ni. কোনো বস্তুতে মোট আধানের পরিমাণ ইলেকট্রনের আধানের পূর্ণ সংখ্যক গুণিতক হবেই ।\n\nii. দুটি আধানের মধ্যকার পারস্পরিক বলের মান তাদের মধ্যবর্তী মাধ্যমের প্রকৃতির ওপর নির্ভর করে না ।\n\niii. তড়িৎ দ্বিমেরু ভ্রামকের মান হচ্ছে দ্বিমেরুর যে কোনো একটি আধান এবং এদের মধ্যবর্তী দূরত্বের গুণফলের সমান ।\n\nনিচের কোনটি সঠিক?",
+        "solution": "প্রথম বক্তব্যটি সঠিক কারণ কোনো বস্তুর মোট আধান সর্বদা ইলেকট্রনের আধানের পূর্ণ সংখ্যক গুণিতক হয়। দ্বিতীয় বক্তব্যটি ভুল কারণ দুটি আধানের মধ্যকার বল মাধ্যমের প্রকৃতির ওপর নির্ভর করে, যেমন শূন্যস্থানে বল এবং অন্য কোনো মাধ্যমে বল ভিন্ন হয়। তৃতীয় বক্তব্যটি সঠিক কারণ তড়িৎ দ্বিমেরু ভ্রামক হলো যেকোনো একটি আধান এবং মেরুদুটির মধ্যবর্তী দূরত্বের গুণফল।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 421521,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:12:30.000000Z",
+            "updated_at": "2025-08-19T07:12:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421520,
+      "value": {
+        "options": {
+          "A": "i,ii",
+          "B": "ii,iii",
+          "C": "i,iii",
+          "D": "i,ii,iii"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2030202-2_1755587550_tSQxaOuW.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nতড়িৎ দ্বিমেরু ভ্রামক–\n\ni. একটি ভেক্টর রাশি\n\nii. অভিমুখ ঋণাত্মক আধান হতে ধনাত্মক আধানের দিকে\n\niii. এর একক [math]Cm^2[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "তড়িৎ দ্বিমেরু ভ্রামক একটি ভেক্টর রাশি যার অভিমুখ ঋণাত্মক আধান থেকে ধনাত্মক আধানের দিকে। এর একক হলো কুলম্ব-মিটার (Cm), [math]Cm^2[/math] নয়। তাই প্রথম দুটি বক্তব্য সঠিক।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 421520,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:12:30.000000Z",
+            "updated_at": "2025-08-19T07:12:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421519,
+      "value": {
+        "options": {
+          "ক": "শুধু বল ক্রিয়া করবে",
+          "খ": "টর্ক ও বল দুটিই ক্রিয়াশীল হবে",
+          "গ": "শুধু টর্ক ক্রিয়াশীল হবে",
+          "ঘ": "কিছুই ক্রিয়াশীল হবে না"
+        },
+        "question": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও:\n\nআমরা জানি খুব কাছাকাছি স্থাপিত দুটি সমান বিপরীতধর্মী চার্জ তড়িৎ দ্বিপোল গঠন করে। একই সরলরেখায় দূরের কোনো বিন্দুতে একটি q চার্জ স্থাপন করা হলো এবং এর ওপর প্রযুক্ত বল F ।\n\nতড়িৎ দ্বিপোলটিকে একটি সুষম তড়িৎ ক্ষেত্রে যদি সমান্তরালে স্থাপন করা হয় তবে এটির ওপর—",
+        "solution": "একটি তড়িৎ দ্বিপোল সুষম তড়িৎ ক্ষেত্রে সমান্তরালে স্থাপন করা হলে, দ্বিপোলের উপর অবস্থিত দুটি বিপরীতধর্মী চার্জের উপর সমান ও বিপরীত দিকে বল প্রযুক্ত হয়। এই বল দুটি একটি লব্ধি বল শূন্য করে দেয়, কিন্তু একটি টর্ক সৃষ্টি করে যা দ্বিপোলটিকে তড়িৎ ক্ষেত্রের সমান্তরালে আনতে চেষ্টা করে। তাই, দ্বিপোলের ওপর টর্ক ও বল দুটিই ক্রিয়াশীল হবে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 421519,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:12:29.000000Z",
+            "updated_at": "2025-08-19T07:12:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421518,
+      "value": {
+        "options": {
+          "ক": "[math]3\\times 10^{-19}\\times 3.2\\times 10^{-9}[/math]",
+          "খ": "[math]3\\times 10^{-2}\\times 3.2\\times 10^{-9}[/math]",
+          "গ": "[math]\\frac{1}{4\\pi \\varepsilon }\\frac{3.2\\times 10^{-9}}{3\\times 10^{-2}}[/math]",
+          "ঘ": "[math]3.2\\times 10^{-5}\\times 3.2\\times 10^{-9}[/math]"
+        },
+        "question": "একটি তড়িৎ দ্বিমেরুর চার্জদ্বয়ের মধ্যবর্তী দূরত্ব [math]3 \\times 10^{-19} \\mathrm{~m}[/math] এবং চার্জের পরিমাণ [math]3.2 \\times 10^{-9}\\mathrm{C}[/math]। এই দ্বিমেরু হতে [math]3\\mathrm{cm}[/math] দূরে এর অক্ষের লম্ব দ্বিখন্ডকের উপর তড়িৎ প্রাবল্য [math]3.2 \\times 10^{-15} N C^{-1}[/math] হলে দ্বিমেরুর ভ্রামকের মান [math]-[/math]",
+        "solution": "[math]p=q .2 l=3.2 \\times 10^{-9} \\times 3 \\times 10^{-19}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 421518,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 421518,
+            "tag_id": 57,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:12:29.000000Z",
+            "updated_at": "2025-08-19T07:12:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421517,
+      "value": {
+        "options": {
+          "ক": "হাইড্রোক্লোরিক এসিড",
+          "খ": "সোডিয়াম হাইড্রোক্সাইড",
+          "গ": "অক্সিজেন",
+          "ঘ": "ক্লোরিন"
+        },
+        "question": "পোলার ডাইইলেকট্রিক পদার্থের উদাহরণ কোনটি?",
+        "solution": "পোলার ডাইইলেকট্রিক পদার্থ হল এমন পদার্থ যাদের পরমাণুগুলিতে স্থায়ী ডাইপোল মুহুর্ত থাকে। এর মানে হল যে পরমাণুর ইলেকট্রনগুলো এমনভাবে বিন্যস্ত থাকে যে এক প্রান্তে ধনাত্মক চার্জ এবং অন্য প্রান্তে ঋণাত্মক চার্জ থাকে।\n\nহাইড্রোক্লোরিক এসিড (HCl) একটি পোলার ডাইইলেকট্রিক পদার্থ কারণ এর হাইড্রোজেন (H) এবং ক্লোরিন (Cl) পরমাণুগুলির মধ্যে ইলেকট্রনগুলো অসমভাবে ভাগ করা থাকে।\n\nক্লোরিন পরমাণু হাইড্রোজেন পরমাণুর চেয়ে বেশি ইলেকট্রন আকর্ষণ করে, যার ফলে Cl প্রান্তে ঋণাত্মক চার্জ এবং H প্রান্তে ধনাত্মক চার্জ তৈরি হয়।\n\nএই স্থায়ী ডাইপোল মুহুর্ত HCl কে বিদ্যুৎ ক্ষেত্রে সারিবদ্ধ করতে দেয়, যার ফলে এটি একটি পোলার ডাইইলেকট্রিক করে তোলে।",
+        "explanation": "",
+        "correct_answer": "A.হাইড্রোক্লোরিক এসিড"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 421517,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 757,
+          "full_name": "Jhenidah Government Veterinary College",
+          "short_name": "JGVC",
+          "slug": "jgvc",
+          "pivot": {
+            "question_bank_id": 421517,
+            "tag_id": 757,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:12:29.000000Z",
+            "updated_at": "2025-08-19T07:12:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421516,
+      "value": {
+        "options": {
+          "ক": "[math]r^{-1}[/math]",
+          "খ": "[math]r^{-2}[/math]",
+          "গ": "[math]r[/math]",
+          "ঘ": "[math]r^{-3}[/math]"
+        },
+        "question": "একটি তড়িৎ দ্বিপোলের জন্য তড়িৎক্ষেত্র, দুরত্ব [math]r[/math] এর সাথে কিভাবে পরিবর্তিত হয়?",
+        "solution": "[math]E=\\dfrac{1}{4\\pi\\in_0}\\cdot\\dfrac{P\\sqrt{1+3\\ \\cos^2\\theta}}{r^3}\\ \\therefore E\\propto r^{-3}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 421516,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 421516,
+            "tag_id": 8,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:12:29.000000Z",
+            "updated_at": "2025-08-19T07:12:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421515,
+      "value": {
+        "options": {
+          "ক": "[math]2\\times 10^{-19}\\text{ coul }\\ ও\\ 8\\times 10^{-19}\\text{ coul }[/math]",
+          "খ": "[math]6\\times 10^{-19}\\text{ coul } ও\\ 4\\times 10^{-19}\\text{ coul }[/math]",
+          "গ": "[math]5\\times 10^{-19}\\text{ coul }\\ ও\\ -5\\times 10^{-19}\\text{ coul }[/math]",
+          "ঘ": "[math]3\\times 10^{-19}\\text{ coul }\\ ও\\ 7\\times 10^{-19}\\text{ coul }[/math]"
+        },
+        "question": "একটি তড়িৎ দ্বিমেরুর চার্জ দু’টির পরিমাণ কত হবে?",
+        "solution": "একটি তড়িৎ দ্বিমেরুতে দুটি সমান ও বিপরীতধর্মী চার্জ থাকে। তাই, সঠিক উত্তরটি হবে যেখানে দুটি চার্জের মান সমান এবং একটি ধনাত্মক ও অন্যটি ঋণাত্মক। এই বৈশিষ্ট্যটি শুধুমাত্র বিকল্প C-তে রয়েছে।",
+        "explanation": "",
+        "correct_answer": "C.[math]5\\times 10^{-19}\\text{ coul }\\ ও\\ -5\\times 10^{-19}\\text{ coul }[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 421515,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421515,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 421515,
+            "tag_id": 6,
+            "year": "2015",
+            "created_at": "2025-08-19T07:12:29.000000Z",
+            "updated_at": "2025-08-19T07:12:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421514,
+      "value": {
+        "options": {
+          "ক": "[math]r^{-1}[/math]",
+          "খ": "[math]r^{-2}[/math]",
+          "গ": "[math]r^{-3}[/math]",
+          "ঘ": "[math]r^{-4}[/math]"
+        },
+        "question": "একটি দ্বিপোলের জন্য তড়িৎ প্রাবল্য কীরূপে পরিবর্তিত হয়?",
+        "solution": "একটি দ্বিপোলের জন্য তড়িৎ ক্ষেত্র তার কেন্দ্র থেকে দূরত্বের সাথে [math]r^{-3}[/math]\u003Cbr\u003E অনুপাতে পরিবর্তিত হয়। এটি একটি বিন্দু আধানের ক্ষেত্রে প্রযোজ্য [math]r^{-2}[/math]\u003Cbr\u003E নিয়মের থেকে ভিন্ন।",
+        "explanation": "",
+        "correct_answer": "C.[math]r^{-3}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 421514,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421514,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 421514,
+            "tag_id": 4,
+            "year": "2015",
+            "created_at": "2025-08-19T07:12:29.000000Z",
+            "updated_at": "2025-08-19T07:12:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421513,
+      "value": {
+        "options": {
+          "ক": "[math]r_2^3=r_1^3[/math]",
+          "খ": "[math]r_1^2=2r_2^2[/math]",
+          "গ": "[math]r_2^2=2r_1^2[/math]",
+          "ঘ": "[math]r_1^3=2r_2^3[/math]"
+        },
+        "question": "উদ্দীপকের তথ্যের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a685e0a6a7e0a78de0a6afe0a6bee0a6afe0a6bc20e0a7a820e0a6b8e0a78de0a6a5e0a6bfe0a6b020e0a6a4e0a6a1e0a6bce0a6bfe0a78e-22_1755587549_hLbq4Hc3.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রে একটি তড়িৎ দ্বিমেরুর মধ্যবিন্দু হতে [math]r_1[/math] দূরত্বে দ্বিমেরুর অক্ষের [math]R[/math] উপর একটি বিন্দু ও দূরত্বে লম্ব-দ্বিখন্ডকের উপর $S4 একটি বিন্দু। চার্জ দুটির মধ্যেবর্তী দূরত্ব উপেক্ষণীয়।\n\nযদি [math]R[/math] ও [math]S[/math] বিন্দুর তড়িৎ প্রাবল্য সমান হয় তবে—",
+        "solution": "[math]R[/math]\u003Cbr\u003E বিন্দুতে তড়িৎ প্রাবল্য হলো [math]E_R = \\frac{1}{4\\pi\\epsilon_0} \\frac{2p}{r_1^3}[/math]\u003Cbr\u003E, যেখানে [math]p[/math]\u003Cbr\u003E হলো তড়িৎ দ্বিমেরু ভ্রামক। [math]S[/math]\u003Cbr\u003E বিন্দুতে তড়িৎ প্রাবল্য হলো [math]E_S = \\frac{1}{4\\pi\\epsilon_0} \\frac{p}{r_2^3}[/math]\u003Cbr\u003E। যেহেতু [math]E_R = E_S[/math]\u003Cbr\u003E, তাই [math]\\frac{2p}{r_1^3} = \\frac{p}{r_2^3}[/math]\u003Cbr\u003E। এখান থেকে আমরা পাই [math]2r_2^3 = r_1^3[/math]\u003Cbr\u003E, যা বিকল্প (D) তে দেখানো হয়েছে।",
+        "explanation": "",
+        "correct_answer": "D.[math]r_1^3=2r_2^3[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 421513,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 421513,
+            "tag_id": 47,
+            "year": "2016",
+            "created_at": "2025-08-19T07:12:29.000000Z",
+            "updated_at": "2025-08-19T07:12:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421512,
+      "value": {
+        "options": {
+          "ক": "[math]V=\\dfrac{p}{4\\pi \\varepsilon _or_2^{\\ 2}}[/math]",
+          "খ": "[math]V=\\dfrac{2p}{4\\pi \\varepsilon _or_2^{\\ 2}}[/math]",
+          "গ": "[math]V=\\dfrac{p}{4\\pi \\varepsilon _or_1^{\\ 2}}[/math]",
+          "ঘ": "[math]V=\\dfrac{2p}{4\\pi \\varepsilon _or_1^{\\ 2}}[/math]"
+        },
+        "question": "উদ্দীপকের তথ্যের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a685e0a6a7e0a78de0a6afe0a6bee0a6afe0a6bc20e0a7a820e0a6b8e0a78de0a6a5e0a6bfe0a6b020e0a6a4e0a6a1e0a6bce0a6bfe0a78e-22_1755587548_IVtTduew.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রে একটি তড়িৎ দ্বিমেরুর মধ্যবিন্দু হতে [math]r_1[/math] দূরত্বে দ্বিমেরুর অক্ষের [math]R[/math] উপর একটি বিন্দু ও দূরত্বে লম্ব-দ্বিখন্ডকের উপর [math]S[/math] একটি বিন্দু। চার্জ দুটির মধ্যেবর্তী দূরত্ব উপেক্ষণীয়।\n\nচিত্রে ‘ [math]R[/math]’ বিন্দুতে বিভব কত?",
+        "solution": "একটি তড়িৎ দ্বিমেরুর অক্ষের উপর অবস্থিত কোনো বিন্দুতে বিভব নির্ণয়ের সূত্র হলো [math]V = \\frac{p}{4\\pi \\varepsilon_0 r^2}[/math]\u003Cbr\u003E, যেখানে [math]p[/math]\u003Cbr\u003E হলো দ্বিমেরু ভ্রামক এবং [math]r[/math]\u003Cbr\u003E হলো দ্বিমেরুর কেন্দ্র থেকে ওই বিন্দুর দূরত্ব। প্রশ্নে উল্লিখিত [math]r_1[/math]\u003Cbr\u003E দূরত্ব অক্ষের উপর অবস্থিত বিন্দুটির দ্বিমেরুর কেন্দ্র থেকে দূরত্ব। তাই সঠিক বিকল্পটি হলো [math]V=\\dfrac{p}{4\\pi \\varepsilon _0r_1^{\\ 2}}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "C.[math]V=\\dfrac{p}{4\\pi \\varepsilon _or_1^{\\ 2}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 421512,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 421512,
+            "tag_id": 47,
+            "year": "2016",
+            "created_at": "2025-08-19T07:12:28.000000Z",
+            "updated_at": "2025-08-19T07:12:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421502,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{LT}^{-1}[/math]",
+          "খ": "[math]\\text { LTI }[/math]",
+          "গ": "[math]\\mathrm{L}^{2} \\mathrm{TI}[/math]",
+          "ঘ": "[math]\\mathbf{L T I}^{2}[/math]"
+        },
+        "question": "তড়িৎ দ্বিমেরু ভ্রামকের মাত্রা কোনটি?",
+        "solution": "• [math]\\mathrm{P}=\\mathrm{q} \\times 2 \\mathrm{l}=\\mathrm{It} \\times 2 l[/math] ∴ মাত্রা সমীকরণ = LTI",
+        "explanation": "",
+        "correct_answer": "B.[math]\\text { LTI }[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 421502,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421502,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 421502,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421511,
+      "value": {
+        "options": {
+          "ক": "দ্বিগুণ",
+          "খ": "সমান",
+          "গ": "অর্ধেক",
+          "ঘ": "এক-চতুর্থাংশ"
+        },
+        "question": "উদ্দীপকের তথ্যের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\nএকটি তড়িৎ দ্বিমেরুর চার্জদ্বয়ের মধ্যবর্তী দূরত্ব [math]3 \\times 10^{-10} \\mathrm{~cm}[/math] এবং দ্বিমেরুর লম্বদ্বিখণ্ডকের উপর দ্বিমেরুর কেন্দ্র হতে 3cm দূরে বায়ু মাধ্যমে তড়িৎক্ষেত্রের প্রাবল্য [math]3 \\times 10^{-6} N C^{-1}[/math] ।\n\nউল্লেখিত তড়িৎ দ্বি-মেরুর কেন্দ্র হতে অক্ষ বরাবর [math]3\\ cm[/math] দূরে বায়ু মাধ্যমে তড়িৎক্ষেত্রের প্রাবল্য পূর্বেকার তুলনায়–",
+        "solution": "একটি তড়িৎ দ্বি-মেরুর লম্বদ্বিখণ্ডকের উপর কোনো বিন্দুতে তড়িৎক্ষেত্রের প্রাবল্য [math]E_{\\perp} = \\frac{1}{4 \\pi \\epsilon_0} \\frac{p}{r^3}[/math]\u003Cbr\u003E এবং অক্ষ বরাবর কোনো বিন্দুতে তড়িৎক্ষেত্রের প্রাবল্য [math]E_{\\parallel} = \\frac{1}{4 \\pi \\epsilon_0} \\frac{2p}{r^3}[/math]\u003Cbr\u003E। এখানে [math]p[/math]\u003Cbr\u003E হলো তড়িৎ দ্বি-মেরুর ভ্রামক এবং [math]r[/math]\u003Cbr\u003E হলো কেন্দ্র থেকে দূরত্ব। প্রশ্নানুসারে, [math]E_{\\perp} = 3 \\times 10^{-6} N C^{-1}[/math]\u003Cbr\u003E এবং [math]r = 3 \\mathrm{~cm}[/math]\u003Cbr\u003E। আমরা অক্ষ বরাবর তড়িৎক্ষেত্রের প্রাবল্য [math]E_{\\parallel}[/math]\u003Cbr\u003E নির্ণয় করতে চাই। [math]E_{\\parallel} = 2 \\times (\\frac{1}{4 \\pi \\epsilon_0} \\frac{p}{r^3}) = 2 \\times E_{\\perp}[/math]\u003Cbr\u003E। সুতরাং, অক্ষ বরাবর তড়িৎক্ষেত্রের প্রাবল্য পূর্বেকার তুলনায় দ্বিগুণ হবে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 421511,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 421511,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421511,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 421511,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 421511,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421510,
+      "value": {
+        "options": {
+          "ক": "[math]9\\times 10^{-9}\\mathrm{C}[/math]",
+          "খ": "[math]4.5\\times 10^{-9}\\mathrm{C}[/math]",
+          "গ": "[math]3\\times 10^{-9}\\mathrm{C}[/math]",
+          "ঘ": "[math]1.5\\times 10^{-9}\\mathrm{C}[/math]"
+        },
+        "question": "উদ্দীপকের তথ্যের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\nএকটি তড়িৎ দ্বিমেরুর চার্জদ্বয়ের মধ্যবর্তী দূরত্ব [math]3 \\times 10^{-10} \\mathrm{~cm}[/math] এবং দ্বিমেরুর লম্বদ্বিখণ্ডকের উপর দ্বিমেরুর কেন্দ্র হতে [math]3\\text{cm}[/math] দূরে বায়ু মাধ্যমে তড়িৎক্ষেত্রের প্রাবল্য [math]3 \\times 10^{-6} \\mathrm{NC}^{-1}[/math]।\n\nউদ্দীপকে উল্লিখিত তড়িৎ দ্বিমেরুর চার্জের পরিমাণ কত?",
+        "solution": "একটি তড়িৎ দ্বিমেরুর লম্বদ্বিখণ্ডকের উপর, কেন্দ্র থেকে [math]r[/math]\u003Cbr\u003E দূরত্বে তড়িৎক্ষেত্রের প্রাবল্য [math]E = \\frac{1}{4\\pi\\epsilon_0} \\frac{p}{r^2}[/math]\u003Cbr\u003E। এখানে [math]p[/math]\u003Cbr\u003E হলো দ্বিমেরু ভ্রামক এবং [math]p = qa[/math]\u003Cbr\u003E, যেখানে [math]q[/math]\u003Cbr\u003E হলো চার্জের পরিমাণ এবং [math]a[/math]\u003Cbr\u003E হলো চার্জদ্বয়ের মধ্যবর্তী দূরত্বের অর্ধেক।প্রথমে দেওয়া আছে চার্জদ্বয়ের মধ্যবর্তী দূরত্ব [math]2a = 3 \\times 10^{-10} \\mathrm{~cm} = 3 \\times 10^{-12} \\mathrm{~m}[/math]\u003Cbr\u003E। সুতরাং, [math]a = 1.5 \\times 10^{-12} \\mathrm{~m}[/math]\u003Cbr\u003E।কেন্দ্র হতে দূরত্ব [math]r = 3 \\mathrm{~cm} = 0.03 \\mathrm{~m}[/math]\u003Cbr\u003E।বায়ু মাধ্যমে তড়িৎক্ষেত্রের প্রাবল্য [math]E = 3 \\times 10^{-6} \\mathrm{NC}^{-1}[/math]\u003Cbr\u003E।আমরা জানি, [math]\\frac{1}{4\\pi\\epsilon_0} = 9 \\times 10^9 \\mathrm{~Nm^2C^{-2}}[/math]\u003Cbr\u003E।এখন সূত্রটি সাজিয়ে পাই: [math]q = \\frac{Er^2}{a \\times \\frac{1}{4\\pi\\epsilon_0}}[/math]\u003Cbr\u003Eমান বসিয়ে পাই:[math]q = \\frac{(3 \\times 10^{-6} \\mathrm{~NC}^{-1}) \\times (0.03 \\mathrm{~m})^2}{(1.5 \\times 10^{-12} \\mathrm{~m}) \\times (9 \\times 10^9 \\mathrm{~Nm^2C^{-2}})}[/math]\u003Cbr\u003E [math]q = \\frac{(3 \\times 10^{-6}) \\times (9 \\times 10^{-4})}{(1.5 \\times 10^{-12}) \\times (9 \\times 10^9)}[/math]\u003Cbr\u003E [math]q = \\frac{27 \\times 10^{-10}}{13.5 \\times 10^{-3}}[/math]\u003Cbr\u003E [math]q = 2 \\times 10^{-7} \\mathrm{~C}[/math]\u003Cbr\u003Eএখানে একটি ভুল হয়েছে, যেহেতু দ্বিমেরু ভ্রামকের মান [math]p=qa[/math]\u003Cbr\u003E, তাই [math]E = \\frac{1}{4\\pi\\epsilon_0} \\frac{qa}{r^2}[/math]\u003Cbr\u003E নয়, বরং [math]E = \\frac{1}{4\\pi\\epsilon_0} \\frac{p}{r^2}[/math]\u003Cbr\u003E এবং [math]p = q \\times (2a)[/math]\u003Cbr\u003E, যেখানে [math]2a[/math]\u003Cbr\u003E হলো মধ্যবর্তী দূরত্ব।সুতরাং, [math]E = \\frac{1}{4\\pi\\epsilon_0} \\frac{q \\times (2a)}{r^2}[/math]\u003Cbr\u003E।এখান থেকে [math]q[/math]\u003Cbr\u003E বের করলে:[math]q = \\frac{Er^2}{\\frac{1}{4\\pi\\epsilon_0} \\times (2a)}[/math]\u003Cbr\u003Eমান বসিয়ে পাই:[math]q = \\frac{(3 \\times 10^{-6} \\mathrm{~NC}^{-1}) \\times (0.03 \\mathrm{~m})^2}{(9 \\times 10^9 \\mathrm{~Nm^2C^{-2}}) \\times (3 \\times 10^{-12} \\mathrm{~m})}[/math]\u003Cbr\u003E [math]q = \\frac{(3 \\times 10^{-6}) \\times (9 \\times 10^{-4})}{(9 \\times 10^9) \\times (3 \\times 10^{-12})}[/math]\u003Cbr\u003E [math]q = \\frac{27 \\times 10^{-10}}{27 \\times 10^{-3}}[/math]\u003Cbr\u003E [math]q = 1 \\times 10^{-7} \\mathrm{~C}[/math]\u003Cbr\u003Eপুনরায় যাচাই করা যাক। দ্বিমেরুর লম্বদ্বিখণ্ডকের উপর তড়িৎক্ষেত্রের প্রাবল্যের সূত্র হলো [math]E = \\frac{1}{4\\pi\\epsilon_0} \\frac{p}{r^3}[/math]\u003Cbr\u003E যখন [math]r \\gg a[/math]\u003Cbr\u003E। এখানে [math]r = 3 \\mathrm{~cm}[/math]\u003Cbr\u003E এবং [math]2a = 3 \\times 10^{-10} \\mathrm{~cm}[/math]\u003Cbr\u003E, অর্থাৎ [math]a = 1.5 \\times 10^{-10} \\mathrm{~cm}[/math]\u003Cbr\u003E। যেহেতু [math]r \\gg a[/math]\u003Cbr\u003E, আমরা এই সূত্র ব্যবহার করতে পারি।[math]p = qa[/math]\u003Cbr\u003E [math]E = \\frac{1}{4\\pi\\epsilon_0} \\frac{qa}{r^3}[/math]\u003Cbr\u003E [math]q = \\frac{Er^3}{\\frac{1}{4\\pi\\epsilon_0} \\times a}[/math]\u003Cbr\u003Eমান বসিয়ে পাই:[math]q = \\frac{(3 \\times 10^{-6} \\mathrm{~NC}^{-1}) \\times (0.03 \\mathrm{~m})^3}{(9 \\times 10^9 \\mathrm{~Nm^2C^{-2}}) \\times (1.5 \\times 10^{-12} \\mathrm{~m})}[/math]\u003Cbr\u003E [math]q = \\frac{(3 \\times 10^{-6}) \\times (27 \\times 10^{-6})}{(9 \\times 10^9) \\times (1.5 \\times 10^{-12})}[/math]\u003Cbr\u003E [math]q = \\frac{81 \\times 10^{-12}}{13.5 \\times 10^{-3}}[/math]\u003Cbr\u003E [math]q = 6 \\times 10^{-9} \\mathrm{~C}[/math]\u003Cbr\u003Eআমার সূত্রে ভুল হচ্ছে। দ্বিমেরুর লম্বদ্বিখণ্ডকের উপর তড়িৎক্ষেত্রের প্রাবল্য [math]E = \\frac{1}{4\\pi\\epsilon_0} \\frac{p}{r^2}[/math]\u003Cbr\u003E আসলে [math]E = \\frac{1}{4\\pi\\epsilon_0} \\frac{p}{r^3}[/math]\u003Cbr\u003E (যদি [math]p[/math]\u003Cbr\u003E এর একক dipole moment হয়)।আবার সূত্রটি দেখি: [math]E = \\frac{1}{4\\pi\\epsilon_0} \\frac{p}{r^2}[/math]\u003Cbr\u003E যদি [math]r[/math]\u003Cbr\u003E দ্বিমেরুর কেন্দ্র থেকে দূরত্ব হয় এবং [math]E[/math]\u003Cbr\u003E যদি দ্বিমেরু অক্ষের উপর কোনো বিন্দুতে হয়।লম্বদ্বিখণ্ডকের উপর হলে সূত্রটি হলো: [math]E = \\frac{1}{4\\pi\\epsilon_0} \\frac{p}{r^3}[/math]\u003Cbr\u003E, যেখানে [math]p = q \\times (2a)[/math]\u003Cbr\u003E।[math]q = \\frac{Er^3}{\\frac{1}{4\\pi\\epsilon_0} \\times (2a)}[/math]\u003Cbr\u003E [math]q = \\frac{(3 \\times 10^{-6}) \\times (0.03)^3}{(9 \\times 10^9) \\times (3 \\times 10^{-10} \\times 10^{-2})}[/math]\u003Cbr\u003E [math]q = \\frac{(3 \\times 10^{-6}) \\times (27 \\times 10^{-6})}{(9 \\times 10^9) \\times (3 \\times 10^{-12})}[/math]\u003Cbr\u003E [math]q = \\frac{81 \\times 10^{-12}}{27 \\times 10^{-3}}[/math]\u003Cbr\u003E [math]q = 3 \\times 10^{-9} \\mathrm{~C}[/math]\u003Cbr\u003Eসুতরাং, [math]3 \\times 10^{-9} \\mathrm{~C}[/math]\u003Cbr\u003E সঠিক উত্তর।",
+        "explanation": "",
+        "correct_answer": "C.[math]3\\times 10^{-9}\\mathrm{C}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 421510,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 421510,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421510,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 421510,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 421510,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421509,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তড়িৎ দ্বিমেরুর ক্ষেত্রে—\n\n(i) তড়িৎ দ্বিমেরু ভ্রামক ভেক্টর রাশি\n\n(ii) তড়িৎ দ্বিমেরু অক্ষের উপর তড়িৎ প্রাবল্য সর্বোচ্চ\n\n(iii) তড়িৎ দ্বিমেরুর সমদ্বিখণ্ডকের উপর তড়িৎ বিভব সর্বোচ্চ\n\nনিচের কোনটি সঠিক?",
+        "solution": "তড়িৎ দ্বিমেরু ভ্রামক একটি ভেক্টর রাশি যা দ্বিমেরুর ক্ষুদ্র মেরু থেকে দীর্ঘতর মেরুর দিকে নির্দেশিত হয়। তড়িৎ দ্বিমেরু অক্ষের উপর তড়িৎ প্রাবল্য সর্বোচ্চ হয়। কিন্তু তড়িৎ দ্বিমেরুর সমদ্বিখণ্ডকের উপর তড়িৎ বিভবের মান শূন্য হয়, সর্বোচ্চ নয়। তাই i এবং ii বিবৃতি দুটি সঠিক।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 421509,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421509,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 421509,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421508,
+      "value": {
+        "options": {
+          "ক": "[math]6 \\times 10^{-4} \\mathrm{Nm}[/math]",
+          "খ": "[math]4 \\times 10^{-4} \\mathrm{Nm}[/math]",
+          "গ": "[math]2 \\times 10^{-4} \\mathrm{Nm}[/math]",
+          "ঘ": "[math]1.2 \\times 10^{-4} \\mathrm{Nm}[/math]"
+        },
+        "question": "উদ্দীপকটি পড়ো এবং প্রশ্নের উত্তর দাও:\n\n[math]+5 \\mu \\mathrm{C}[/math] চার্জ দুটিকে 4 mm ব্যবধানে রেখে একটি তড়িৎ দ্বিমেরু গঠন করা হলো । দ্বিমেরুটিকে [math]2 \\times 10^{4} \\mathrm{NC}^{-1}[/math] প্রাবল্যের তড়িৎ ক্ষেত্রে লম্বভাবে স্থাপন করা হলো।\n\nদ্বিমেরুটিকে তড়িৎ ক্ষেত্রে লম্বভাবে স্থাপন করতে কত টর্কের প্রয়োজন হবে?",
+        "solution": "প্রযুক্ত টর্ক, [math]\\tau=p E \\sin \\theta[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\tau=2 \\times 10^{-8} \\times 2 \\times 10^{4} \\times 1[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\tau=4 \\times 10^{-4} \\mathrm{~N} . \\mathrm{m}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.[math]4 \\times 10^{-4} \\mathrm{Nm}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 421508,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421508,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 421508,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421507,
+      "value": {
+        "options": {
+          "ক": "[math]2 \\times 10^{-8} \\mathrm{Cm}[/math]",
+          "খ": "[math]1.6 \\times 10^{-8} \\mathrm{Cm}[/math]",
+          "গ": "[math]1.4 \\times 10^{-8} \\mathrm{Cm}[/math]",
+          "ঘ": "[math]1.2 \\times 10^{-8} \\mathrm{Cm}[/math]"
+        },
+        "question": "উদ্দীপকটি পড়ো এবং প্রশ্নের উত্তর দাও:\n\n[math]+5 \\mu \\mathrm{C}[/math] চার্জ দুটিকে 4 mm ব্যবধানে রেখে একটি তড়িৎ দ্বিমেরু গঠন করা হলো । দ্বিমেরুটিকে [math]2 \\times 10^{4} \\mathrm{NC}^{-1}[/math] প্রাবল্যের তড়িৎ ক্ষেত্রে লম্বভাবে স্থাপন করা হলো।\n\nউদ্দীপকে তড়িৎ দ্বিমেরু ভ্রামক কত?",
+        "solution": "সমান ও বিপরীত মানের দুইটি চার্জ দিয়ে তড়িৎ দ্বিমেরু গঠিত।তড়িৎ দ্বিমেরুর টর্ক [math]\\bar{\\tau}=\\overline{\\mathrm{p}} \\times \\overline{\\mathrm{E}}=\\mathrm{pEsin} \\theta[/math]\u003Cbr\u003E [math]\\theta=0^{\\circ}[/math]\u003Cbr\u003E হলে, [math]\\tau=0, \\theta=90^{\\circ}[/math]\u003Cbr\u003E হলে, [math]\\tau_{\\max }=\\mathrm{PE}[/math]\u003Cbr\u003Eতড়িৎ দ্বিমেরু ভ্রামক, [math]\\mathrm{P}=\\mathrm{q} \\times 2 l[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{P}=5 \\times 10^{-6} \\times 4 \\times 10^{-3}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{P}=2 \\times 10^{-8} \\mathrm{C} . \\mathrm{m}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]2 \\times 10^{-8} \\mathrm{Cm}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 421507,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421507,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 421507,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421506,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{NH}_{3}[/math]",
+          "খ": "[math]\\mathrm{HCl}[/math]",
+          "গ": "[math]\\mathrm{H}_{2} \\mathrm{O}[/math]",
+          "ঘ": "[math]\\mathrm{CH}_{4}[/math]"
+        },
+        "question": "নিচের কোনটি পোলার ডাইইলেকট্রিক পদার্থ নয়?",
+        "solution": "মিথেন ( [math]CH_{4}[/math]\u003Cbr\u003E) একটি অপোলার অণু কারণ এর চারটি হাইড্রোজেন পরমাণু কার্বন পরমাণুর সাথে সুষমভাবে বিন্যস্ত থাকে, যার ফলে লব্ধি দ্বিমেরু ভ্রামক শূন্য হয়। অন্যদিকে, অ্যামোনিয়া ( [math]NH_{3}[/math]\u003Cbr\u003E), হাইড্রোক্লোরিক অ্যাসিড ( [math]HCl[/math]\u003Cbr\u003E), এবং জল ( [math]H_{2}O[/math]\u003Cbr\u003E) হলো পোলার অণু কারণ এদের অণুতে অসম ইলেকট্রন বিন্যাসের কারণে একটি দ্বিমেরু ভ্রামক বিদ্যমান থাকে।",
+        "explanation": "",
+        "correct_answer": "D.[math]\\mathrm{CH}_{4}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 421506,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 421506,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421506,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421506,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 421506,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 421506,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421505,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{V}=\\frac{1}{4 \\pi \\epsilon_{0}}=\\frac{\\mathrm{P}}{(\\mathrm{r}-l)}[/math]",
+          "খ": "[math]\\mathrm{V}=\\frac{1}{4 \\pi \\epsilon_{0}}=\\frac{\\mathrm{P}}{(\\mathrm{r}+l)}[/math]",
+          "গ": "[math]\\mathrm{V}=\\frac{1}{4 \\pi \\epsilon_{0}}=\\frac{\\mathrm{P}}{\\left(\\mathrm{r}^{2}-l^{2}\\right)}[/math]",
+          "ঘ": "[math]\\mathrm{V}=\\frac{1}{4 \\pi \\epsilon_{0}}=\\frac{\\mathrm{P}}{\\left(\\mathrm{r}^{3}-l^{3}\\right)}[/math]"
+        },
+        "question": "কোনো তড়িৎ দ্বিমেরুর অক্ষের উপর মধ্যবিন্দু হতে । দূরত্বে কোনো বিন্দুতে তড়িৎ বিভব হলো—\n\n( যেখানে [math]\\mathrm{P}=2 l \\mathrm{q}[/math] )",
+        "solution": "তড়িৎদ্বিমেরুর অক্ষের উপর মধ্যবিন্দু থেকে [math]r[/math]\u003Cbr\u003E দূরত্বে অবস্থিত কোনো বিন্দুতে তড়িৎ বিভব নির্ণয়ের জন্য আমরা জানি যে, দুটি তড়িৎ আধান [math]+q[/math]\u003Cbr\u003E এবং [math]-q[/math]\u003Cbr\u003E এর জন্য তড়িৎ বিভবের পার্থক্য নির্ণয় করতে হবে। [math]\\mathrm{P}[/math]\u003Cbr\u003E হল তড়িৎদ্বিমেরুর ভ্রামক, যেখানে [math]\\mathrm{P}=2 l \\mathrm{q}[/math]\u003Cbr\u003E।বিন্দুটির সাথে [math]+q[/math]\u003Cbr\u003E আধানের দূরত্ব [math]r-l[/math]\u003Cbr\u003E এবং [math]-q[/math]\u003Cbr\u003E আধানের দূরত্ব [math]r+l[/math]\u003Cbr\u003E।অতএব, বিন্দুটিতে মোট তড়িৎ বিভব হবে:[math]V = \\frac{1}{4 \\pi \\epsilon_0} \\left( \\frac{q}{r-l} - \\frac{q}{r+l} \\right)[/math]\u003Cbr\u003E [math]V = \\frac{q}{4 \\pi \\epsilon_0} \\left( \\frac{1}{r-l} - \\frac{1}{r+l} \\right)[/math]\u003Cbr\u003E [math]V = \\frac{q}{4 \\pi \\epsilon_0} \\left( \\frac{(r+l) - (r-l)}{(r-l)(r+l)} \\right)[/math]\u003Cbr\u003E [math]V = \\frac{q}{4 \\pi \\epsilon_0} \\left( \\frac{2l}{r^2 - l^2} \\right)[/math]\u003Cbr\u003Eযেহেতু [math]\\mathrm{P}=2 l \\mathrm{q}[/math]\u003Cbr\u003E, আমরা লিখতে পারি:[math]V = \\frac{1}{4 \\pi \\epsilon_0} \\frac{\\mathrm{P}}{r^2 - l^2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.[math]\\mathrm{V}=\\frac{1}{4 \\pi \\epsilon_{0}}=\\frac{\\mathrm{P}}{\\left(\\mathrm{r}^{2}-l^{2}\\right)}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 421505,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421505,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 421505,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421504,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{E} \\propto \\frac{1}{\\mathrm{r}}[/math]",
+          "খ": "[math]E \\propto \\frac{1}{r^{2}}[/math]",
+          "গ": "[math]E \\propto \\frac{1}{r^{3}}[/math]",
+          "ঘ": "[math]E \\propto \\frac{1}{r^{4}}[/math]"
+        },
+        "question": "একটি তড়িৎ দ্বিমেরুর ক্ষেত্রে দূরত্বের সাথে তড়িৎ প্রাবল্য কীরূপ সম্পর্কিত?",
+        "solution": "একটি তড়িৎ দ্বিমেরুর অক্ষীয় বা নিরক্ষীয় তলে তড়িৎ প্রাবল্য (E) দ্বিমেরু ভ্রামক এবং দূরত্বের ঘনফলের ব্যস্তানুপাতিক। অর্থাৎ, [math]E \\propto \\frac{1}{r^3}[/math]\u003Cbr\u003E। এটি বিন্দু আধানের জন্য [math]E \\propto \\frac{1}{r^2}[/math]\u003Cbr\u003E এবং একটি সরল পরিবাহীর জন্য [math]E \\propto \\frac{1}{r}[/math]\u003Cbr\u003E থেকে ভিন্ন।",
+        "explanation": "",
+        "correct_answer": "C.[math]E \\propto \\frac{1}{r^{3}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 421504,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421504,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 421504,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 421503,
+      "value": {
+        "options": {
+          "ক": "কুলম্ব/মিটার",
+          "খ": "কুলম্ব-মিটার",
+          "গ": "মিটার/কুলম্ব",
+          "ঘ": "কুলম্ব/মিটার [math]^2[/math]"
+        },
+        "question": "তড়িৎ দ্বিমেরু ভ্রামকের একক নিচের কোনটি?",
+        "solution": "• তড়িৎ দ্বিমেরু ভ্রামক, [math]\\mathrm{P}=\\mathrm{q} \\times 2 l[/math]• তড়িৎ দ্বিমেরু ভ্রামকের একক C – m অর্থাৎ কুলম্ব-মিটার।",
+        "explanation": "",
+        "correct_answer": "B.কুলম্ব-মিটার"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6328,
+      "created_at": "2025-08-19T07:12:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 421503,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 421503,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 421503,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-08-19T07:12:27.000000Z",
+            "updated_at": "2025-08-19T07:12:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6328&grade=1&lesson=6625&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6328&grade=1&lesson=6625&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6328&grade=1&lesson=6625&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 40,
+  "total": 40
+}

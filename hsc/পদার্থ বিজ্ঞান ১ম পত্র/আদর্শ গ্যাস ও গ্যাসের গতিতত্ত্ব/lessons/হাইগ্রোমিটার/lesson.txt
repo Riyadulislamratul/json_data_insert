@@ -1,0 +1,1866 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 416448,
+      "value": {
+        "options": [],
+        "question": "হাইগ্রোমিটার কী?",
+        "solution": "কোনো স্থানের বায়ুর আপেক্ষিক আর্দ্রতা পরিমাপের জন্য যে যন্ত্র ব্যবহৃত হয়, তাকে আর্দ্রতামাপক যন্ত্র বা হাইগ্রোমিটার বলে।",
+        "explanation": "ব্যাখ্যা: হাইগ্রোমিটার হলো এমন একটি যন্ত্র যা বায়ুতে থাকা জলবাষ্পের পরিমাণ বা আপেক্ষিক আর্দ্রতা পরিমাপ করে। এটি আর্দ্রতা পরিবর্তনের উপর নির্ভরশীল সেন্সর বা ভেজা‑শুকনা থার্মোমিটার ইত্যাদি ব্যবহার করে আর্দ্রতার মান নির্ধারণ করার কারণে এই সংজ্ঞাটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 416448,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416448,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 416448,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T06:58:52.000000Z",
+            "updated_at": "2025-08-19T06:58:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416447,
+      "value": {
+        "options": {
+          "গ": "উল্লিখিত দিনে বরিশালে একটি হাইগ্রোমিটারের আর্দ্র বাল্বের তাপমাত্রা কত?"
+        },
+        "question": "কোনো একদিন বরিশাল ও ভোলার তাপমাত্রা যথাক্রমে [math]25^\\circ C,[/math] এবং [math]30^\\circ C[/math] এবং শিশিরাঙ্ক যথাক্রমে [math]16.3^\\circ C[/math] এবং [math]24.9^\\circ C[/math]। [math]16^\\circ C,\\ 17^\\circ C,\\ 24^\\circ C,\\ 25 ^\\circ C[/math] ও [math]30^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে [math]13.63,\\ 16.5,\\ 25.25,\\ 28.45[/math] এবং [math]39.90\\ mm\\ Hg[/math]. [math]25^\\circ C[/math] তাপমাত্রায় গ্লেইসার উৎপাদক [math]1.72[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, শুষ্ক তাপমাত্রা, [math]\\theta_{1}=25^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেইসারের উৎপাদক, G = 1.72শিশিরাঙ্ক, [math]\\theta=16.3^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eতাপমাত্রা, [math]\\theta_{2}=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1cm}\\begin{array}{l}\\ \\ \\theta_1-\\theta=G\\left(\\theta_1-\\theta_2\\right)\\\\\\Rightarrow\\frac{\\theta_1-\\theta}{G}=\\theta_1-\\theta_2\\\\\\Rightarrow\\theta_2=\\theta_1-\\frac{\\theta_1-\\theta}{\\mathrm{G}}\\\\\\Rightarrow\\theta_2=25-\\frac{25-16.3}{1.72}\\\\\\therefore\\quad\\theta_2=19.941^{\\circ}\\mathrm{C}\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: শিশিরাঙ্ক থেকে বাস্তব বाष্পচাপ পেলাম ইন্টারপোলেশন করে [math]e=13.63+0.3(16.5-13.63)=14.49\\ mmHg[/math]. আর্দ্র-বাল্বের শর্তে [math]e_s(T_w)=e+A(T-T_w)[math] এবং টেবিলের মানগুলোকে ১৭–২৪°C পর্যায়ে রৈখিক ধরণের ধরে [math]e_s(T_w)=1.25T_w-4.75[/math] বসিয়ে সমাধান করলে [math]1.25T_w-4.75=14.49+1.72(25-T_w)[/math] থেকে [math]T_w≈20.96^\\circ C\\[/math] হয়, তাই আকারিকভাবে ≈[math]21^\\circ C[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 416447,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 416447,
+            "tag_id": 3179,
+            "year": "2020",
+            "created_at": "2025-08-19T06:58:52.000000Z",
+            "updated_at": "2025-08-19T06:58:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416446,
+      "value": {
+        "options": {
+          "গ": "নেত্রকোণায় সিক্ত বাল্বের তাপমাত্রা নির্ণয় কর।"
+        },
+        "question": "কোনো এক দিনের কোনো এক সময় নেত্রকোণা ও ময়মনসিংহ এর তাপমাত্রা [math]28^\\circ C[/math] ও [math]30^\\circ C[/math] এবং শিশিরাঙ্ক যথাক্রমে [math]28^\\circ C[/math] ও [math]29^\\circ C[/math]। [math]18^\\circ C[/math], [math]19^\\circ C[/math], [math]28^\\circ C[/math] এবং [math]30^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্প চাপ যথাক্রমে [math]15.5,\\ 17.55,\\ 27.82\\ mm,\\ 30.10\\ mm[/math] পারদ চাপ। [math]28 ^\\circ C[/math] তাপমাত্রায় গ্লেই সারের উৎপাদক [math]1.67[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে নেত্রকোনায়, শুষ্ক বাঘের, তাপমাত্রা, [math]\\theta_{1}=28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eশিশিরাঙ্ক, [math]\\theta=28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায়, G = 1.67সিক্ত বাম্বের তাপমাত্রা, [math]\\theta_{2}=?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{array}{l}\\Rightarrow 28-28=1.67 \\cdot\\left(28-\\theta_{2}\\right) \\\\\\Rightarrow\\theta_{2}=28^{\\circ} \\mathrm{C}\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E নেত্রকোণায় শিশিরাঙ্ক ও শুকনো বাল্ব উভয়ই [math]28^\\circ C[/math] হওয়ায় বায়ু সম্পৃক্ত (RH = 100%), ফলে সিক্ত বাল্ব তাপমাত্রাও একই হবে, یعنی [math]28^\\circ C[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 416446,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3174,
+          "full_name": "Cantonment Public School and College Momenshahi",
+          "short_name": "CPSCM",
+          "slug": "cpscm",
+          "pivot": {
+            "question_bank_id": 416446,
+            "tag_id": 3174,
+            "year": "2020",
+            "created_at": "2025-08-19T06:58:52.000000Z",
+            "updated_at": "2025-08-19T06:58:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416445,
+      "value": {
+        "options": [],
+        "question": "কোন একদিন রাজশাহী ও চট্টগ্রামে শুষ্ক ও সিক্ত বাল্‌ব হাইগ্রোমিটারের পাঠ নিম্নরূপ :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-1003_1755586732_skmjziIS.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[math]10^\\circ C,\\ 20^\\circ C,\\ 26^\\circ C,\\ 28^\\circ C\\ ও\\ 30^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]9.21\\ mm,\\ 17.6\\ mm,\\ 24.48\\ mm,\\ 25.25\\ mm\\ ও\\ 31.85\\ mm[/math] পারদ চাপ।\n\nঘ, রাজশাহী ও চট্টগ্রামের মধ্যে কোথায় বৃষ্টির সম্ভাবনা আছে? গাণিতিকভাবে বিশ্লেষণ কর।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eচট্টগ্রামের ক্ষেত্রে, শুষ্ক বাল্বের তাপমাত্রায় (20° C) বা বায়ুর তাপমাত্রায়-সম্পৃক্ত বাষ্পচাপ, [math]\\mathrm{F}_{1}=17.6 \\mathrm{~mm} \\mathrm{Hg}=17.6 \\times 10^{-3} \\mathrm{~m} \\mathrm{Hg}[/math]\u003Cbr\u003Eআবার, শিশিরাঙ্কে সম্পৃক্ত বাষ্পচাপ, [math]f_{1}=9.2 \\mathrm{I} \\mathrm{mm} \\mathrm{Hg}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\Rightarrow f_{1}=9.21 \\times 10^{-3} \\mathrm{~m} \\mathrm{Hg}[/math]\u003Cbr\u003Eএখন, চট্টগ্রামের আপেক্ষিক আর্দ্রতা, [math]\\mathrm{R}_{1}[/math]\u003Cbr\u003E হলে,[math]\\hspace{1.5cm}\\begin{array}{l}\\mathrm{R}_1=\\frac{{f}_1}{\\mathrm{~F}_1}\\times100\\%=\\frac{9.21\\times10^{-3}}{17.6\\times10^{-3}}\\times100\\%\\\\\\therefore\\mathrm{R}_1=52.33\\%\\end{array}[/math]\u003Cbr\u003Eরাজশাহীর ক্ষেত্রে, (গ) নং হতে পাই,রাজশাহীর শিশিরাঙ্ক, [math]\\theta=26.7^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eএখন, 26° C তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ [math]=24.48\\mathrm{mm} \\mathrm{Hg}[/math]\u003Cbr\u003E28° C তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ [math]=25.25\\mathrm{mm} \\mathrm{Hg}[/math]\u003Cbr\u003Eঅর্থাৎ 2° C তাপমাত্রা পরিবর্তনের জন্য সম্পৃক্ত বাষ্পচাপের পরিবর্তন[math]\\hspace{1.5cm}=(25.25-24.48) \\mathrm{mm} \\mathrm{Hg}=0.77 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003E [math]\\therefore 1^\\circ \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রা পরিবর্তনের জন্য সম্পৃক্ত বাষ্পচাপের পরিবর্তন[math]\\hspace{1.5cm}=\\frac{0.77}{2} \\mathrm{~mm} \\mathrm{Hg}=0.385 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003Eসুতরাং, [math]7^\\circ \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রা পরিবর্তনের জন্য সম্পৃক্ত বাষ্পচাপের পরিবর্তন[math]\\hspace{1.5cm}=0.385 \\times 0.7 \\mathrm{~mm} \\mathrm{Hg}=0.2695 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003E [math]\\therefore 26^\\circ \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ [math]=(24.48+0.2695) \\mathrm{mm} \\mathrm{Hg}[/math]\u003Cbr\u003E [math]\\hspace{6cm}=24.7495 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003Eঅর্থাৎ শিশিরাঙ্কে সম্পৃক্ত বাষ্পচাপ, [math]f_{2}=24.7495 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003E [math]\\hspace{5.8cm}=24.7495 \\times 10^{-3} \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003Eআবার, দেওয়া আছে, রাজশাহীতে বায়ুর তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ,[math]\\hspace{1.5cm}\\mathrm{F}_{2}=31.85 \\mathrm{~mm} \\mathrm{Hg}=31.85 \\times 10^{-3} \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003Eরাজশাহীতে আপেক্ষিক আর্দ্রতা, [math]\\mathrm{R}_{2}[/math]\u003Cbr\u003E হলে,[math]\\hspace{1.5cm}\\begin{aligned}\\mathrm{R}_{2} & =\\frac{f_{2}}{\\mathrm{~F}_{2}} \\times 100 \\% \\\\& =\\frac{24.7495 \\times 10^{-3}}{31.85 \\times 10^{-3}} \\times 100 \\% \\\\& =77.71 \\%\\end{aligned}[/math]\u003Cbr\u003Eযেহেতু রাজশাহীতে আপেক্ষিক আর্দ্রতা [math]\\mathrm{R}_{2}[/math]\u003Cbr\u003E এর মান চট্টগ্রামের আপেক্ষিক আর্দ্রতা [math]\\mathrm{R}_{1}[/math]\u003Cbr\u003E অপেক্ষা বেশি। সুতরাং রাজশাহীতে বৃষ্টির সম্ভাবনা আছে। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বৃষ্টি־সম্ভাবনা নির্ণয়ে প্রথমে সিক্ত বাল্বের তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ থেকে বাস্তব বাষ্পচাপ বের করে সেটিকে শুকনো বাল্ব তাপমাত্রায় সম্পৃক্ত বাষ্পচাপের সাথে তুলনা করি; আনুমানিক সূত্রটি হলো [math]e \\simeq e_s(T_w)-0.00066P\\,(T_d-T_w)\\simeq e_s(T_w)-0.5\\,(T_d-T_w)[/math] (এখানে চাপ [math]P\\approx760\\ mmHg[/math])।  \nRajshahi: [math]T_d=30^\\circ C,\\ T_w=28^\\circ C,\\ e=e_s(28)-0.5(30-28)=25.25-1=24.25\\ mm[/math], [math]e_s(30)=31.85\\ mm[/math], ফলে [math]\\mathrm{RH}=24.25/31.85\\approx76\\%[/math].  \nChittagong: [math]T_d=26^\\circ C,\\ T_w=20^\\circ C,\\ e= e_s(20)-0.5(26-20)=17.6-3=14.6\\ mm[/math], [math]e_s(26)=24.48\\ mm[/math], ফলে [math]\\mathrm{RH}=14.6/24.48\\approx60\\%[/math].  \n\nসিদ্ধান্ত: উভয় স্থানে আর্দ্রতা সম্পূর্ণতা (১০০%) নয়, তাই সরাসরি বৃষ্টি হবে না; তুলনামূলকভাবে রাজশাহীতে আর্দ্রতা বেশি (≈76%) হওয়ায় সেখানে বৃষ্টির সম্ভাবনা চট্টগ্রামের (≈60%) তুলনায় বেশি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 416445,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1154,
+          "full_name": "Dhaka City College",
+          "short_name": "DCC",
+          "slug": "dcc",
+          "pivot": {
+            "question_bank_id": 416445,
+            "tag_id": 1154,
+            "year": "2020",
+            "created_at": "2025-08-19T06:58:52.000000Z",
+            "updated_at": "2025-08-19T06:58:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416435,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শুষ্ক ও সিক্ত বাল্ব থার্মোমিটার পাঠের পার্থক্যের ক্ষেত্রে —\n\ni. এটি কম হলে আবহাওয়া আর্দ্র\n\nii. এটি বেশি হলে আবহাওয়া শুষ্ক\n\niii. এটি হঠাৎ হ্রাস পেলে ঝড় হতে পারে\n\nনিচের কোনটি সঠিক?",
+        "solution": "শুষ্ক ও সিক্ত বাল্ব থার্মোমিটারের পাঠের পার্থক্য, যা ওয়েট-বাল্ব ডিপ্রেসন নামে পরিচিত, বায়ুর আর্দ্রতার একটি সূচক।\n\ni. এই পার্থক্য কম হলে, বাতাসে জলীয় বাষ্পের পরিমাণ বেশি থাকে, যার অর্থ আবহাওয়া আর্দ্র।\n\nii. এই পার্থক্য বেশি হলে, বাতাসে জলীয় বাষ্প কম থাকে, যা নির্দেশ করে যে আবহাওয়া শুষ্ক।\n\niii. আবহাওয়ার আকস্মিক পরিবর্তন, যেমন তাপমাত্রা এবং আর্দ্রতার দ্রুত পরিবর্তন, ঝড়ের পূর্বাভাস দিতে পারে।\n\nসুতরাং, প্রদত্ত তিনটি বিবৃতিই সঠিক।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 416435,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416444,
+      "value": {
+        "options": {
+          "গ": "ঐ ঘরে ঝুলানো আর্দ্র ও শুষ্ক বাল্ব হাইগ্রোমিটারে আর্দ্র বাল্ব থার্মোমিটারে কত পাঠ দেখাবে?"
+        },
+        "question": "কোনো ঘরের তাপমাত্রা [math]30^\\circ[/math] এবং শিশিরাঙ্ক [math]15^\\circ C[/math] এবং আপেক্ষিক আর্দ্রতা [math]50\\%[/math]। ঐ সময়ে ঘরের বাইরের তাপমাত্রা [math]12^\\circ C[/math] এবং আপেক্ষিক আর্দ্রতা [math]65\\%[/math]। [math]30^\\circ C[/math] ও [math]12^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]31.83\\ mm\\ Hgp\\ ও\\ 10.52\\ mm\\ HgP[/math]. [math]30^\\circ C[/math] তাপমাত্রায় গ্লেইসারের ধ্রুবক [math]1.65[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, শুষ্ক বাল্ব থার্মোমিটারে পাঠ, [math]\\theta_{1}=30^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেইসারের ধ্রুবক [math]30^{\\circ} \\mathrm{C} \\mathrm{G}=1.65[/math]\u003Cbr\u003Eশিশিরাংক, [math]\\theta=15^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eআর্দ্র বাল্ব থার্মোমিটারে পাঠ, [math]\\theta_{2}=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5cm}\\begin{array}{l}\\ \\ \\ \\theta_1-\\theta=\\mathrm{G}\\left(\\theta_1-\\theta_2\\right)\\\\\\Rightarrow\\theta_1-\\theta=\\mathrm{G}\\theta_1-\\mathrm{G}\\theta_2\\\\\\Rightarrow\\mathrm{G}_2=\\mathrm{G}\\theta_1-\\theta_1+\\theta\\\\\\Rightarrow\\theta_2=\\frac{\\mathrm{G}\\theta_1-\\theta_1+\\theta}{\\mathrm{G}}=\\frac{1.65\\times30^{\\circ}-30^{\\circ}+15^{\\circ}}{1.65}=20.91\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে প্রকৃত বাষ্পচাপটি হিসাব করি: [math]e=0.50\\times 31.83=15.915\\ mmHg[/math]. আর্দ্র বাল্বের শর্তে আমরা ব্যবহার করি গ্লেইসারের সমীকরণ [math]e=e_s(T_w)-G\\,(T-T_w)[/math] যেখানে [math]G=1.65[/math], সুতরাং [math]e_s(T_w)=15.915+1.65(30-T_w)[/math] এবং স্যাচুরেশন চাপের টেবিল ব্যবহার করে সমীকরণটি সমাধান করলে পাওয়া যায় [math]T_w\\approx 25.1^\\circ C[/math]; অর্থাৎ আর্দ্র বাল্ব থার্মোমিটারে পড়া হবে প্রায় [math]25.1^\\circ C[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 416444,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 244,
+          "full_name": "Rajuk Uttara Model College, Dhaka",
+          "short_name": "RUMC",
+          "slug": "rumc",
+          "pivot": {
+            "question_bank_id": 416444,
+            "tag_id": 244,
+            "year": "2020",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416443,
+      "value": {
+        "options": [],
+        "question": "একটি শুষ্ক ও আর্দ্র বালব হাইগ্রোমিটারে শুষ্ক ও আর্দ্র বালবের তাপমাত্রা যথাক্রমে 20°C এবং 12°C হলে শিশিরাঙ্ক ও বায়ুর আপেক্ষিক আর্দ্রতা নির্ণয় করো। (20°C তাপমাত্রায় গ্লেইসারের উৎপাদক 1.79 এবং 20°C ও 5.68°C তাপমাত্রায় জলীয় বাষ্পের সর্বোচ্চ চাপ যথাক্রমে 17.6 mm HgP এবং 6.856 mm HgP.)",
+        "solution": "( Answer : [math]38.955 \\%[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :দেওয়া আছে,শুষ্ক বাল্বের পাঠ, [math]t_{1}=20^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eআর্দ্র বাল্বের পাঠ, [math]\\mathrm{t}_{2}=12^{\\circ} \\mathrm{C} \\text {}[/math]\u003Cbr\u003Eগ্লেইসারের উৎপাদক, [math]G=1.79[/math]\u003Cbr\u003E20°C এ জলীয় বাষ্পচাপ = 17.6 mm পারদ5.68°C জলীয় বাষ্পচাপ = 6.856 mm পারদশিশিরাংক, t = ?আপেক্ষিক আর্দ্রতা, R = ?এখন,[math]\\begin{aligned}\\mathrm{t} & =\\mathrm{t}_{1}-\\mathrm{G}\\left(\\mathrm{t}_{1}-\\mathrm{t}_{2}\\right) \\\\& =20-1 \\cdot 79(20-12) \\\\& \\left.=5 \\cdot 68^{\\circ} \\mathrm{C} \\text { (Ans. }\\right)\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, শিশিরাংক 5-68°C এ বাষ্পচাপ f = 6-856 mm পারদ বায়ুর তাপমাত্রা 20°C এ বাষ্পচাপ F = 17.6 mm পারদ এখন, আপেক্ষিক আর্দ্রতা,[math]\\mathrm{R}=\\frac{f}{\\mathrm{~F}} \\times 100 \\%=\\frac{6 \\cdot 856}{17 \\cdot 6} \\times 100 \\%[/math]\u003Cbr\u003E [math]=38.955 \\% \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 416443,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416442,
+      "value": {
+        "options": {
+          "গ": "ঐ ঘরে ঝুলানো আর্দ্র ও শুষ্ক বাল্ব হাইগ্রোমিটারে আর্দ্র বাল্ব থার্মোমিটার কত পাঠ দেখাবে?"
+        },
+        "question": "কোনো ঘরের তাপমাত্রা [math]32^\\circ C[/math], শিশিরাঙ্ক [math]14^\\circ C[/math] এবং আপেক্ষিক আর্দ্রতা [math]48\\%[/math]। ঐ সময় ঘরের বাইরে তাপমাত্রা [math]11^\\circ C[/math] ও আপেক্ষিক আর্দ্রতা [math]70\\%[/math]। [math]32^\\circ C[/math] ও [math]11^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]33.6\\ mmHg\\ ও\\ 9.8 mmHg.[/math] [math]30^\\circ C[/math]-এ গ্রেইসারের ধ্রুবক [math]1.63[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঘরের তাপমাত্রা [math]\\theta_{1}=32^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিশিরাংক, [math]\\theta=14^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআর্দ্র বাল্বের পাঠ, [math]\\theta=?[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eগ্লেইসারের ধ্রুবক, [math]1.63[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad \\theta_{1}=\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\ \\Rightarrow 32{ }^{\\circ} \\mathrm{C}-14^{\\circ} \\mathrm{C}=1.63\\left(32{ }^{\\circ} \\mathrm{C}-\\theta_{2}\\right) \\\\ \\Rightarrow 32{ }^{\\circ} \\mathrm{C}-\\theta_{2}=11.04^{\\circ} \\mathrm{C} \\\\ \\Rightarrow \\theta_{2}=32^{\\circ} \\mathrm{C}-11.04^{\\circ} \\mathrm{C}=20.96^{\\circ} \\mathrm{C} \\end{array}[/math]\u003Cbr\u003Eসুতরাং আর্দ্র বাল্বের পাঠ [math]=20.96^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: কক্ষের প্রকৃত বাষ্পচাপ [math]e=0.48\\times33.6=16.128\\ mmHg[/math]। ভেজা-বল্বের সম্পর্ক: [math]e_s(T_w)=e+1.63(32-T_w)[/math] এবং বিহিত স্যাচুরেশন বিস্তারের লিনিয়ারাকরণে [math]e_s(T)\\approx31.82+0.89(T-30)[/math] ধরা হলে সমীকরণ থেকে [math]31.82+0.89(T_w-30)=16.128+1.63(32-T_w)[/math] সমাধানে পাওয়া যায় [math]T_w\\approx25.1^\\circ C[/math], তাই ভেজা বাল্ব প্রায় [math]25.1^\\circ C[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 416442,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416442,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 416442,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416441,
+      "value": {
+        "options": {
+          "গ": "ঐ ঘরের হাইগ্রোমিটার-এর আর্দ্র বার এর তাপমাত্রা কত?"
+        },
+        "question": "কোনো বদ্ধ ঘরের তাপমাত্রা [math]30^{\\circ} \\mathrm{C},[/math] শিশিরাংক [math]15^{\\circ} \\mathrm{C}[/math] এবং আপেক্ষিক আর্দ্রতা [math]50\\%[/math]। ঐ সময় ঘরের বাইরের তাপমাত্রা [math]26^{\\circ} \\mathrm{C}[/math] এবং আপেক্ষিক আর্দ্রতা [math]65\\%[/math]। [math]30^{\\circ} \\mathrm{C} ~ও~ 26^{\\circ} \\mathrm{C}[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]31.83 \\mathrm{~mm} \\mathrm{HgP}[/math] ও [math]25.25\\mathrm{~mm} \\mathrm{HgP}, ~30^\\circ \\rm{C}[/math] তাপমা ত্রায় প্লেইসারের উৎপাদক [math]1.65[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঘরের তাপমাত্রা, [math]\\theta_{1}=30^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিশিরাঙ্ক, [math]\\theta=15^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003E30°C-এ গ্লেইসারের ধ্রুবক, G = 1.65[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআর্দ্র বারের তাপমাত্রা, [math]\\theta_2 = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~ \\theta_{1}-\\theta=G\\left(\\theta_{1}-\\theta_{2}\\right)\\\\ \\Rightarrow 30^{\\circ} \\mathrm{C}-15^{\\circ} \\mathrm{C}\\\\ \\quad ~ =1.65\\left(30^{\\circ} \\mathrm{C}-\\theta_{2}\\right)\\\\ \\Rightarrow 30^{\\circ} \\mathrm{C}-\\theta_{2}=\\frac{15^{\\circ} \\mathrm{C}}{1.65}=9.09^{\\circ} \\mathrm{C}\\\\ \\therefore \\ \\theta_{2}=30^{\\circ} \\mathrm{C}-9.09^{\\circ} \\mathrm{C}\\\\ \\quad ~=20.91^{\\circ} \\mathrm{C} \\text{ (Ans.)}\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে ঘরের প্রকৃত আর্দ্রজ পীড়নচাপ হিসাব করি: [math]e=0.50\\times31.83=15.915\\ \\text{mmHg}[/math]. ওয়েট-বাল্বের জন্য প্লেইসারের সূত্রটি ব্যবহার করি: [math]e=e_s(T_w)-1.65(30-T_w)[/math] এবং [math]e_s(T)[/math]–কে ২৬°C ও ৩০°C-এর মধ্যে সরলভাবে ইন্টারপোলেট করে প্রতি ডিগ্রিতে ≈[math]1.645\\ \\text{mmHg/°C}[/math] ধরা হলে [math]e_s(T_w)=25.25+1.645(T_w-26)[/math]. উপরোক্ত সবকিছু স্থাপন করে সমাধান করলে [math]T_w\\approx25.17^{\\circ}\\mathrm{C}[/math] (প্রায় [math]25.2^{\\circ}\\mathrm{C}[/math]) পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 416441,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416441,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 416441,
+            "tag_id": 5,
+            "year": "2021",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416440,
+      "value": {
+        "options": {
+          "গ": "গ্লেইসারের উৎপাদক নির্ণয় করো।"
+        },
+        "question": "একদিন কোনো স্থানে একটি হাইগ্রোমিটার, শুষ্ক ও আর্দ্র বালবের তাপমাত্রা যথাক্রমে [math]25^\\circ \\rm{C}[/math] ও [math]19^\\circ \\rm{C}[/math] এবং শিশিরাঙ্ক [math]14.77^{\\circ} \\mathrm{C}[/math]। [math]15^{\\circ} \\mathrm{C}, ~16^{\\circ} \\mathrm{C}[/math] এবং [math]25^{\\circ} \\mathrm{C}[/math] এ সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে [math]17.54 \\mathrm{~mmHg}, ~19.83 \\mathrm{~mm} \\mathrm{hg}[/math] এবং [math]25.21 \\mathrm{~mmHg}[/math] চাপ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশুষ্ক বাল্বের তাপমাত্রা, [math]\\theta_{1}=25^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআর্দ্র বাল্বের তাপমাত্রা, [math]\\theta_{2}=19^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিশিরাঙ্ক, [math]\\theta=14.77^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eগ্লেইসারের উৎপাদক, [math]\\mathrm{G}=\\text { ? }[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.6 cm}\\begin{array}{l}\\quad ~ \\theta_{1}-\\theta=G\\left(\\theta_{1}-\\theta_{2}\\right)\\\\ \\Rightarrow G=\\frac{\\theta_{1}-\\theta}{\\theta_{1}-\\theta_{2}}\\\\ \\Rightarrow G=\\frac{25-14.77}{25-19}\\\\ \\therefore ~ G=1.705 \\text{ (Ans.)}\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গ্লেইসারের উৎপাদক নির্ণয়ের সূত্রটি হলো [math]K=\\dfrac{e_s(T_w)-e}{T_{\\rm dry}-T_w}[/math], যেখানে [math]e[/math] হলো শিশিরাঙ্কে সম্পৃক্ত বাষ্পচাপ। শিশিরাঙ্ক [math]14.77^\\circ\\rm C[/math] থেকে আন্তঃরৈখিকভাবে পাই [math]e\\approx 17.54-0.23(19.83-17.54)=17.013\\ \\rm mmHg[/math], এবং  [math]T_w=19^\\circ\\rm C[/math] এ সম্পৃক্ত চাপ 16°C ও 25°C এর মধ্যে আন্তঃরৈখিকভাবে গণনা করলে [math]e_s(19)\\approx19.83+3\\frac{25.21-19.83}{9}=21.623\\ \\rm mmHg[/math]। অতএব [math]K=\\dfrac{21.623-17.013}{25-19}=\\dfrac{4.61}{6}=0.768\\ \\rm mmHg/^\\circ C[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 416440,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416440,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 416440,
+            "tag_id": 236,
+            "year": "2021",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416439,
+      "value": {
+        "options": {
+          "গ": "উক্ত স্থানে সিক্ত বাল্বের পাঠ কত? নির্ণয় করো।"
+        },
+        "question": "কোনো একস্থানে হাইগ্রোমিটারের শুষ্ক বাল্বের তাপমাত্রা [math]24{ }^{\\circ} \\mathrm{C}[/math] এবং শিশিরাংক [math]11.5{ }^{\\circ} \\mathrm{C}[/math]। [math]24^{\\circ} \\mathrm{C}, ~12^{\\circ} \\mathrm{C}[/math] এবং [math]11^{\\circ} \\mathrm{C}[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে [math]22.38 \\times 10^{-3} \\mathrm{~m}, ~10.52 \\times 10^{-3} \\mathrm{~m}[/math] এবং [math]9.9 \\times 10^{-3} \\mathrm{~m}[/math] পারদ চাপ। [math]24^{\\circ} \\mathrm{C}[/math] তাপমাত্রায় গ্লে ইসারের উৎপাদক [math]1.72[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশুষ্ক বাঘের তাপমাত্রা, [math]\\theta_{1}=24^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিশিরাঙ্ক, [math]\\theta=11.5^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eমেইসারের উৎপাদক, G = 1.72[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসিক্ত বাল্বের পাঠ, [math]\\theta_{2}=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad \\theta_{1}-\\theta=G\\left(\\theta_{1}-\\theta_{2}\\right)\\\\ \\Rightarrow 24-11.5=1.72\\left(24-\\theta_{2}\\right)\\\\ \\Rightarrow 24-\\theta_{2}=\\frac{12.5}{1.72}\\\\ \\Rightarrow 24-\\theta_{2}=7.27\\\\ \\therefore ~\\theta_{2}=16.73^{\\circ} \\mathrm{C} \\text{ (Ans.)}\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E\nব্যাখ্যা: শিশিরাঙ্ক [math]11.5{ }^{\\circ}\\mathrm{C}[/math] থেকে বাষ্পচাপটি লিনিয়ার হিসেবে ইন্টারপোলেট করলে [math]e= (9.9+10.52)/2=10.21\\times10^{-3}[/math] হয়; গ্লে‑ইসারের উৎপাদককে [math]\\gamma=1.72\\times10^{-3}[/math] ধরা হলে গলেশম্যানের সমীকরণ থাকে [math]e_s(T_w)-\\gamma(24-T_w)=e[/math]. [math]e_s(T)[/math]‑কে 12–24°C রেঞ্জে লিনিয়ার মান ধরে রেখে সমীকরণ সমাধান করলে পাওয়া যায় [math]T_w\\approx19.5{ }^{\\circ}\\mathrm{C}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 416439,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416439,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 416439,
+            "tag_id": 1,
+            "year": "2021",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416438,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের কোন স্থানে ঐ দিন ভেজা কাপড় দ্রুত শুকাবে? গাণিতিক যুক্তিসহ ব্যাখ্যা করো।"
+        },
+        "question": "কোনো একদিন ঢাকার তাপমাত্রা 35°C এবং আপেক্ষিক আর্দ্রতা 50%। একই দিনে রাজশাহীতে স্থাপিত একটি হাইগ্রোমিটারের শুষ্ক বাল্ব থার্মোমিটারের পাঠ 25°C এবং সিক্ত বাল্ব থার্মোমিটারের পাঠ 19°C. [ 25° C তাপমাত্রায় G এর মান 1.65। . 15°C, 16°C ও 25°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে 12.77 mm, 13.71 mm, 23.7 mm পারদ ]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eঢাকায় ঐ দিন ভেজা কাপড় দ্রুত শুকাবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ঢাকা-তে ভেজা কাপড় দ্রুত শুকাবে কারণ বাষ্পচাপ ঘাটতি বেশি। ঢাকা-তে [math]e_{Dhaka}=0.5\\times e_s(35^\\circ C)\\approx0.5\\times42.2=21.1\\ \\text{mmHg}[/math] ও ঘাটতি [math]e_s(35)-e_{Dhaka}=42.2-21.1=21.1\\ \\text{mmHg}[/math]। রাজশাহীতে [math]e_s(19^\\circ C)\\approx17.04\\ \\text{mmHg}[/math] হওয়ায় [math]e_{Raj}=17.04-1.65(25-19)=7.14\\ \\text{mmHg}[/math] এবং ঘাটতি [math]23.7-7.14=16.56\\ \\text{mmHg}[/math]। ঢাকা-র ঘাটতি বেশি হওয়ায় বাষ্পায়ন দ্রুত ঘটে, তাই কাপড় বেশি দ্রুত শুকায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 416438,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 416438,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416437,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সিক্ত এবং শুষ্ক বাল্‌ব আর্দ্রতামাপক যন্ত্রের দুই থার্মোমিটারের তাপমাত্রার পার্থক্য হঠাৎ বেড়ে গেলে বুঝা যায় ঐ স্থানে—\n\n[math]\\hspace{1.2 cm}[/math]i. আপেক্ষিক আর্দ্রতা বৃদ্ধি পেয়েছে\n\n[math]\\hspace{1.2 cm}[/math]ii. ভিজা কাপড় তাড়াতাড়ি শুকাবে\n\n[math]\\hspace{1.2 cm}[/math]iii. বায়ুতে জলীয় বাষ্পের চাপ কমেছে\n\nনিচের কোনটি সঠিক?",
+        "solution": "তাপমাত্রার পার্থক্য বেড়ে যাওয়ার অর্থ বায়ুর আপেক্ষিক আর্দ্রতা কমেছে। ফলে বাষ্পায়ন দ্রুত হবে অর্থাৎ ভিজা কাপড় তাড়াতাড়ি শুকাবে। বায়ুতে জলীয় বাষ্প কমে যাওয়ায় জলীয় বাষ্পের চাপও কমে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 416437,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 256,
+          "full_name": "Adamjee Cantonment Public School & College, Dhaka",
+          "short_name": "ACPSCD",
+          "slug": "acpscd",
+          "pivot": {
+            "question_bank_id": 416437,
+            "tag_id": 256,
+            "year": "2022",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416436,
+      "value": {
+        "options": {
+          "ক": "বায়ুতে অক্সিজেন নাই",
+          "খ": "বায়ু শুষ্ক",
+          "গ": "বায়ু জলীয় বাষ্প দ্বারা সম্পৃক্ত",
+          "ঘ": "বায়ুতে জলীয় বাষ্প নাই"
+        },
+        "question": "হাইগ্রোমিটার আর্দ্র ও শুষ্ক বাল্ব থার্মোমিটারের তাপমাত্রার পার্থক্য শূন্য হলে—",
+        "solution": "[math]\\rm{\\theta_{1}=\\theta+G\\left(\\theta_{1}-\\theta_{2}\\right) \\Rightarrow \\theta_{1}=\\theta:}[/math]\u003Cbr\u003E বায়ুর তাপমাত্রা [math]=[/math]\u003Cbr\u003E শিশিরাঙ্কের তাপমাত্রা ।",
+        "explanation": "",
+        "correct_answer": "C. বায়ু জলীয় বাষ্প দ্বারা সম্পৃক্ত"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 416436,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1152,
+          "full_name": "SCOT",
+          "short_name": "SCOT",
+          "slug": "scot",
+          "pivot": {
+            "question_bank_id": 416436,
+            "tag_id": 1152,
+            "year": "2022",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416434,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বায়ুর আর্দ্রতা কমে গেলে–\n\ni. দ্রুত বাষ্পায়ন ঘটে\n\nii. বাষ্পায়ন বন্ধ হয়ে যাবে\n\niii. হাইগ্রোমিটারের দুই থার্মোমিটারের ব্যবধান কমে যায়\n\nনিচের কোনটি সঠিক?",
+        "solution": "বায়ুর আর্দ্রতা কমে গেলে বাষ্পীভবনের হার বৃদ্ধি পায় কারণ শুষ্ক বায়ু জলীয় বাষ্প শোষণ করতে বেশি সক্ষম। তাই, i সঠিক। হাইগ্রোমিটারের ভেজা বাল্বের তাপমাত্রা পারিপার্শ্বিক বায়ুর আর্দ্রতার উপর নির্ভর করে। আর্দ্রতা কমলে ভেজা বাল্ব থেকে বাষ্পীভবন দ্রুত হয়, যার ফলে ভেজা বাল্বের তাপমাত্রা আরও কমে যায় এবং শুষ্ক বাল্বের সাথে এর তাপমাত্রার ব্যবধান বৃদ্ধি পায়। তাই, iii ভুল। আর্দ্রতা শূন্য না হওয়া পর্যন্ত বাষ্পীভবন বন্ধ হয় না, বরং কম আর্দ্রতায় বাষ্পীভবনের হার বাড়ে। তাই, ii ভুল।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 416434,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416433,
+      "value": {
+        "options": {
+          "ক": "আর্দ্র আবহাওয়া",
+          "খ": "শুষ্ক আবহাওয়া",
+          "গ": "বৃষ্টি সম্ভাবনা রয়েছে",
+          "ঘ": "ঝড় হতে পারে"
+        },
+        "question": "আর্দ্র ও শুষ্ক বালব হাইগ্রোমিটারের পাঠের পার্থক্য যদি কম হয়, তবে আবহাওয়ার কোন পূর্বাভাস দেওয়া যায়?",
+        "solution": "আর্দ্র ও শুষ্ক বালবের পাঠের পার্থক্য কম হলে তা নির্দেশ করে বাতাসের আপেক্ষিক আর্দ্রতা বেশি। আপেক্ষিক আর্দ্রতা বেশি মানে বায়ুমণ্ডলে জলীয় বাষ্পের পরিমাণ বেশি, যা মেঘ সৃষ্টি এবং বৃষ্টিপাতের অনুকূল পরিস্থিতি তৈরি করে। তাই, এই অবস্থায় বৃষ্টি হওয়ার সম্ভাবনা বেশি থাকে।\n\nঅতিরিক্ত তথ্য: হাইগ্রোমিটার হলো একটি যন্ত্র যা বায়ুমণ্ডলের আপেক্ষিক আর্দ্রতা পরিমাপ করতে ব্যবহৃত হয়। এটি দুটি থার্মোমিটার নিয়ে গঠিত: একটি শুষ্ক বালব যা বায়ুর সাধারণ তাপমাত্রা পরিমাপ করে এবং অন্যটি ভেজা বালব যা ভেজা কাপড়ে আবৃত থাকে এবং বাষ্পীভবনের মাধ্যমে ঠান্ডা হয়। এই দুই বালবের তাপমাত্রার পার্থক্য থেকে আপেক্ষিক আর্দ্রতা নির্ণয় করা হয়। পার্থক্য যত কম, আর্দ্রতা তত বেশি।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 416433,
+            "year_id": 31
+          }
+        },
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 416433,
+            "year_id": 17
+          }
+        },
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 416433,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 416433,
+            "tag_id": 460,
+            "year": "13-14",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        },
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 416433,
+            "tag_id": 460,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        },
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 416433,
+            "tag_id": 460,
+            "year": "10-11",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416432,
+      "value": {
+        "options": {
+          "ক": "বাতাসের শুল্ক",
+          "খ": "ঝড় হতে পারে",
+          "গ": "বাতাস আদ্রতা",
+          "ঘ": "বৃষ্টি হতে পারে"
+        },
+        "question": "শুষ্ক ও সিক্ত বাল্ব আদ্রতা মাপক যন্ত্রে থার্মোমিটার দুটির তাপমাত্রার পার্থক্য হঠাৎ রুমে গেলে কোনটি বোঝায়?",
+        "solution": "তাপমাত্রার পার্থক্য হঠাৎ কমে গেলে, বাতাসের আর্দ্রতা বাড়ে। তাই ঝড় হওয়ার সম্ভাবনা থাকে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 416432,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 416432,
+            "tag_id": 474,
+            "year": "16-17",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416431,
+      "value": {
+        "options": {
+          "ক": "উচ্চ আপেক্ষিক আর্দ্রতা",
+          "খ": "নিম্ন আপেক্ষিক আর্দ্রতা",
+          "গ": "উচ্চ শিশিরাঙ্ক",
+          "ঘ": "নিম্ন শিশিরাঙ্ক"
+        },
+        "question": "শুষ্ক ও সিক্ত হাইগ্রোমিটারে বাল্বের মধ্যে তাপমাত্রার পার্থক্য অধিক নির্দেশ করলে–",
+        "solution": "শুষ্ক ও সিক্ত হাইগ্রোমিটারে বাল্বের মধ্যে তাপমাত্রার পার্থক্য বেশি হলে বায়ুতে জলীয় বাষ্পের পরিমাণ কম থাকে। সিক্ত বাল্ব থেকে জল বাষ্পীভূত হওয়ার জন্য পরিবেশ থেকে তাপ গ্রহণ করে, ফলে এর তাপমাত্রা কমে যায়। যদি বাতাসের আর্দ্রতা কম থাকে, তবে বাষ্পীভবন বেশি হয় এবং শুষ্ক ও সিক্ত বাল্বের তাপমাত্রার পার্থক্যও বেশি হয়। এর মানে হলো বায়ুর আপেক্ষিক আর্দ্রতা কম।\n\nএই পার্থক্য যত বেশি হবে, আপেক্ষিক আর্দ্রতা তত কম হবে। অন্যভাবে বলা যায়, বায়ু যত শুষ্ক হবে, সিক্ত বাল্বের বাষ্পীভবন তত বেশি হবে এবং তাপমাত্রার পার্থক্যও তত বাড়বে।",
+        "explanation": "",
+        "correct_answer": "B. নিম্ন আপেক্ষিক আর্দ্রতা"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 416431,
+            "year_id": 18
+          }
+        },
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 416431,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 416431,
+            "tag_id": 57,
+            "year": "19-20",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        },
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 416431,
+            "tag_id": 11,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416430,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও ii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সিক্ত ও শুষ্ক বাল্ব আর্দ্রতামাপক যন্ত্রের দুই থার্মোমিটারের তাপমাত্রার পার্থক্য হঠাৎ বেড়ে গেলে বুঝা যায় ঐ স্থানে—\n\n[math]\\hspace{1 cm}[/math]i. আপেক্ষিক আর্দ্রতা বৃদ্ধি পেয়েছে\n\n[math]\\hspace{1 cm}[/math]ii. আপেক্ষিক আর্দ্রতা হ্রাস পেয়েছে\n\n[math]\\hspace{1 cm}[/math]iii. ভিজা কাপড় তাড়াতাড়ি শুকাবে\n\nনিচের কোনটি সঠিক?",
+        "solution": "সিক্ত ও শুষ্ক বাল্ব আর্দ্রতামাপক যন্ত্রের দুই থার্মোমিটারের তাপমাত্রার পার্থক্য বেড়ে যাওয়ার অর্থ হলো শুষ্ক বাল্বের তাপমাত্রা বেশি এবং সিক্ত বাল্বের তাপমাত্রা কম। সিক্ত বাল্বের তাপমাত্রা কমে যাওয়ার কারণ হলো জল বাষ্পীভূত হওয়ার জন্য প্রয়োজনীয় তাপ সিক্ত বাল্ব থেকে শোষণ করে, ফলে বাল্বটি ঠান্ডা হয়ে যায়। এই বাষ্পীভবনের হার বাতাসের আপেক্ষিক আর্দ্রতার উপর নির্ভরশীল। যখন বাতাসের আপেক্ষিক আর্দ্রতা কম থাকে, তখন বাষ্পীভবন বেশি হয় এবং সিক্ত বাল্ব বেশি ঠান্ডা হয়, যার ফলে দুই থার্মোমিটারের তাপমাত্রার পার্থক্য বেড়ে যায়। বাষ্পীভবন বেশি হলে অবশ্যই ভিজা কাপড় তাড়াতাড়ি শুকাবে। তাই, আপেক্ষিক আর্দ্রতা হ্রাস পেয়েছে এবং ভিজা কাপড় তাড়াতাড়ি শুকাবে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 416430,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416430,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 416430,
+            "tag_id": 46,
+            "year": "2015",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416429,
+      "value": {
+        "options": {
+          "ক": "বাতাস শুষ্ক",
+          "খ": "ঝড় হতে পারে",
+          "গ": "বাতাস আর্দ্র",
+          "ঘ": "বৃষ্টি হতে পারে"
+        },
+        "question": "শুষ্ক ও সিক্ত বাল্ব আর্দ্রতামাপক যন্ত্রে থার্মোমিটার দুটির তাপমাত্রার পার্থক্য হঠাৎ কমে গেলে কোনটি বোঝায়?",
+        "solution": "শুষ্ক ও সিক্ত বাল্ব আর্দ্রতামাপক যন্ত্রে থার্মোমিটার দুটির তাপমাত্রার পার্থক্য হঠাৎ কমে গেলে ঝড় হতে পারে",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 416429,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416429,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 416429,
+            "tag_id": 6,
+            "year": "2016",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416422,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শুষ্ক ও সিক্ত বাল্ব হাইগ্রোমিটারের থার্মোমিটার দুটির পাঠের পার্থক্য হঠাৎ কমতে থাকলে বুঝতে হবে—\n\ni. বায়ুতে জলীয় বাষ্পের পরিমাণ হঠাৎ বেড়ে গেছে\n\nii. ঝড়-বৃষ্টির সম্ভাবনা রয়েছে\n\niii. আবহাওয়া শুষ্ক থাকবে\n\nনিচের কোনটি সঠিক?",
+        "solution": "আদ্র ও শুল্ক বাল্ব থার্মোমিটারের পাথের পার্থক্য লক্ষ্য করে আবহাওয়ার মোটামুটি পূবাভাস দেওয়া যায় -\n\n* কমে গেলে বলা যায় বায়ুতে জলীয় বাষ্প এর পরিমান বেড়ে গেছে, অর্থাৎ আপেক্ষিক আদ্রতা বেশি হবে।\n\n* হ্রাস পীলে পূর্বাভাসে ঝড় হতে পারে উল্লেখ করা যায়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 416422,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416422,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 416422,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T06:58:50.000000Z",
+            "updated_at": "2025-08-19T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416428,
+      "value": {
+        "options": {
+          "ক": "ঝড়",
+          "খ": "কুয়াশা",
+          "গ": "রৌদ্র",
+          "ঘ": "শিশির"
+        },
+        "question": "হাইগ্রোমিটারের শুষ্ক ও আর্দ্র বাল্বের তাপমাত্রা হঠাৎ কমতে থাকলে কীসের পূর্বাভাস?",
+        "solution": "হাইগ্রোমিটারের শুষ্ক ও আর্দ্র বাল্বের তাপমাত্রা হঠাৎ কমতে থাকলে ঝড়ের পূর্বাভাস",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 416428,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 416428,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416428,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416428,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 416428,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 416428,
+            "tag_id": 6,
+            "year": "2016",
+            "created_at": "2025-08-19T06:58:51.000000Z",
+            "updated_at": "2025-08-19T06:58:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416427,
+      "value": {
+        "options": {
+          "ক": "গ্রীষ্মকালে",
+          "খ": "শীতকালে",
+          "গ": "প্রত্যেক দিন সকালে",
+          "ঘ": "প্রত্যেক দিন বিকালে"
+        },
+        "question": "আমাদের দেশে সিক্ত ও শুষ্ক বালব হাইগ্রোমিটারের থার্মোমিটারদ্বয়ের পাঠের পার্থক্য কখন বেশি হয়?",
+        "solution": "বায়ুমণ্ডলের আপেক্ষিক আর্দ্রতা যত কম থাকে, সিক্ত ও শুষ্ক বালব হাইগ্রোমিটারের থার্মোমিটারদ্বয়ের পাঠের পার্থক্য তত বেশি হয়। শীতকালে সাধারণত বায়ুমণ্ডলের জলীয় বাষ্পের পরিমাণ কম থাকে, তাই আপেক্ষিক আর্দ্রতা কম থাকে। এই কারণে শীতকালে পাঠের পার্থক্য বেশি হয়। গ্রীষ্মকালে বায়ুমণ্ডলে জলীয় বাষ্পের পরিমাণ বেশি থাকে, ফলে আপেক্ষিক আর্দ্রতা বেশি থাকে এবং পাঠের পার্থক্য কম হয়। সকাল ও বিকাল বেলায় আপেক্ষিক আর্দ্রতার পরিবর্তনশীলতার উপর নির্ভর করে, কিন্তু সামগ্রিকভাবে শীতকালে এটি বেশি পরিলক্ষিত হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 416427,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 416427,
+            "tag_id": 3,
+            "year": "2018",
+            "created_at": "2025-08-19T06:58:50.000000Z",
+            "updated_at": "2025-08-19T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416426,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আর্দ্রতামাপক যন্ত্রে দুই থার্মোমিটারের পাঠের পার্থক্য–\n\n[math]\\hspace{1 cm}[/math]i. হঠাৎ হ্রাস পেলে ঝড় হতে পারে\n\n[math]\\hspace{1 cm}[/math]ii. ধীরে ধীরে কমলে বৃষ্টি হতে পারে\n\n[math]\\hspace{1 cm}[/math]iii. খুব কম হলে আবহাওয়া শুষ্ক হয়\n\nনিচের কোনটি সঠিক?",
+        "solution": "আর্দ্রতামাপক যন্ত্রে একটি থার্মোমিটারে ভেজা সলতে জড়ানো থাকে।বাষ্পীভবনের হার বেশি হলে সুপ্ততাপ গ্রহণের দরুণ এ থার্মোমিটারের পাঠ দ্রুত হ্রাস পায়।বায়ুতে আর্দ্রতা কম থাকলে বাষ্পীভবনের হার বেশি হয় এবং আর্দ্র থার্মোমিটারের পাঠ তুলনামূলক কম থাকে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 416426,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416426,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 416426,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T06:58:50.000000Z",
+            "updated_at": "2025-08-19T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416425,
+      "value": {
+        "options": {
+          "ক": "থার্মোমিটার দুটির পাঠের পার্থক্য না থাকলে বাতাস সম্পৃক্ত আছে",
+          "খ": "থার্মোমিটার দুটির পাঠের পার্থক্য কম হলে আবহাওয়া শুষ্ক থাকবে",
+          "গ": "থার্মোমিটার দুটি পাঠের পার্থক্য ধীরে ধীরে কমতে থাকলে ঝড়ের সম্ভাবনা",
+          "ঘ": "থার্মোমিটার দুটির পাঠের পার্থক্য বেশি হলে আবহাওয়া আর্দ্র থাকবে"
+        },
+        "question": "শুষ্ক ও আর্দ্র বালব হাইগ্রোমিটারের সাহায্যে আবহাওয়া পূর্বাভাসের জন্য নিচের কোনটি সঠিক?",
+        "solution": "থার্মোমিটার দুটির পাঠের পার্থক্য -\n\n১। কম হলে পূর্বাভাসে আদ্র আবহাওয়া উল্লেখ করা যায়।\n\n২। খুব বেশি হলে পূরবাভাসে বলা যায় যে , আবহাওয়া শুল্ক।\n\n৩। ধীরে ধীরে কমতে থাকতে বলা যায় যে, বৃষ্টি হওয়ার সম্ভাবনা আছে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 416425,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416425,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 416425,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T06:58:50.000000Z",
+            "updated_at": "2025-08-19T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416424,
+      "value": {
+        "options": {
+          "ক": "আপেক্ষিক আর্দ্রতা কম",
+          "খ": "আপেক্ষিক আর্দ্রতা বেশি",
+          "গ": "নিম্ন শিশিরাঙ্ক হবে",
+          "ঘ": "শরীরে আরাম অনুভব হবে"
+        },
+        "question": "যদি হাইগ্রোমিটারের সিক্ত ও শুষ্ক বালবের তাপমাত্রার পার্থক্য কম প্রদর্শন করে তাহলে—",
+        "solution": "হাইগ্রোমিটার এর শুল্ক ও সিক্ত বাল্বের তাপমাত্রার পার্থক্য বেশি হলে আপেক্ষিক আর্দ্রতা কম হয়।\n\nশুষ্ক ও সিক্ত বাল্বের তাপমাত্রার পার্থক্য কম হলে আর্দ্রতা বেশি হয়।\n\nউভয় থার্মোমিটার এর পাঠ একই হলে অর্থাৎ তাপমাত্রার পার্থক্য না থাকলে বায়ুমন্ডল জলীয়বাষ্প দ্বারা সম্পৃক্ত হয়।",
+        "explanation": "",
+        "correct_answer": "B.আপেক্ষিক আর্দ্রতা বেশি"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 416424,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416424,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 416424,
+            "tag_id": 236,
+            "year": "2021",
+            "created_at": "2025-08-19T06:58:50.000000Z",
+            "updated_at": "2025-08-19T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416423,
+      "value": {
+        "options": {
+          "ক": "আপেক্ষিক আর্দ্রতা বেশি হবে",
+          "খ": "আপেক্ষিক আর্দ্রতা কম হবে",
+          "গ": "নিম্ন শিশিরাঙ্ক হবে",
+          "ঘ": "শরীরে আরাম অনুভব হবে"
+        },
+        "question": "যদি সিক্ত ও শুষ্ক বাল্ব হাইগ্রোমিটারের সিক্ত ও শুষ্ক বাল্বের তাপমাত্রার পার্থক্য কম প্রদর্শন করে তাহলে—",
+        "solution": "আদ্র ও শুল্ক বাল্ব থার্মোমিটারের পাঠের পার্থক্য লক্ষ্য করে আবহাওয়ার মোটামুটি পূর্বাভাস দেওয়া যায়।\n\nথার্মোমিটার দুটির পাঠের পার্থক্য -\n\n১। কম হলে পূর্বাভাসে আদ্র আবহাওয়া উল্লেখ করা যায় অর্থাৎ আপেক্ষিক আদ্রতা বেশি হবে।\n\n২। খুব বেশি হলে পূর্বাভাসে বলা যায় যে, আবহাওয়া শুল্ক।\n\n৩। ধীরে ধীরে কমতে থাকলে বলা যায় যে, বৃষ্টি হওয়ার সম্ভাবনা রয়েছে।",
+        "explanation": "",
+        "correct_answer": "A.আপেক্ষিক আর্দ্রতা বেশি হবে"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 416423,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416423,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 416423,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T06:58:50.000000Z",
+            "updated_at": "2025-08-19T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6609&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6609&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6609&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 27,
+  "total": 27
+}

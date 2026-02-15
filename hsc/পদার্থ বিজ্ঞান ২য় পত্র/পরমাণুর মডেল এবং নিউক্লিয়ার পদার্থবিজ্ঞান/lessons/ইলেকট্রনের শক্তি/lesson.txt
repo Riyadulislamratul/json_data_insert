@@ -1,0 +1,2595 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 433301,
+      "value": {
+        "options": [],
+        "question": "পরমাণুর শক্তিস্তরের শক্তি ঋণাত্মক ব্যাখ্যা করো।",
+        "solution": "ইলেকট্রনের ভর m, শূন্যস্থানের তড়িৎ ভেদনযোগ্যতা [math]\\in_{0}[/math]\u003Cbr\u003E, ইলেকট্রনের চার্জ e, প্লাংকের ধ্রুবক h হলে n তম কক্ষপথে ইলেকট্রনের গতিশক্তি, [math]\\mathrm{E}_{\\mathrm{k}}=\\frac{m e^{4}}{8 \\mathrm{n}^{2} \\mathrm{~h}^{2} \\epsilon_{\\mathrm{o}}^{2}}[/math]\u003Cbr\u003E; এবং বিভব শক্তি, [math]E_{p}=-\\frac{m e^{4}}{4 n^{2} h^{2} \\epsilon_{0}^{2}}[/math]\u003Cbr\u003E সুতরাং n-তম কক্ষপথে ইলেকট্রনের মোট শক্তি, [math]\\mathrm{E}_{\\mathrm{T}}=\\mathrm{E}_{\\mathrm{K}}+\\mathrm{E}_{\\mathrm{P}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{m e^{4}}{8 n^{2} h^{2} \\epsilon_{0}^{2}}-\\frac{m e^{4}}{4 n^{2} h^{2} \\epsilon_{0}^{2}} \\\\=-\\frac{m e^{4}}{8 n^{2} h^{2} \\epsilon_{0}^{2}}\\end{array}[/math]\u003Cbr\u003E [math]\\mathrm{n}, \\mathrm{h}, \\epsilon_{0}, \\mathrm{~m}, \\mathrm{e}[/math]\u003Cbr\u003E সকল রাশির মান ধনাত্মক হওয়ায় স্পষ্টত, উক্ত মোট শক্তি [math]\\mathrm{E}_{\\mathrm{T}}[/math]\u003Cbr\u003E ঋণাত্মক। এভাবে পরমাণুতে আবদ্ধ ইলেকট্রনের মোট শক্তি সর্বদা ঋণাত্মক হওয়ার তাৎপর্য হলো উক্ত ইলেকট্রন অবমুক্ত করতে বাইরে থেকে শক্তি খরচ করতে হয়।",
+        "explanation": "পরমাণুর শক্তিস্তরগুলো ঋণাত্মক কারণ শূন্য শক্তি ধরা হয় ইলেকট্রন ও পারমাণবিক নিউক্লিয়াস অশেষ দূরে অবস্থান করলে (মুক্ত ইলেকট্রন), আর বন্ধ অবস্থায় ইলেকট্রনের মোট শক্তি সেই শূন্যের থেকে কম হয়ে যায়। ঋণাত্মক মান মানে ইলেকট্রন বন্ধ অবস্থায় রয়েছে ও এটিকে মুক্ত করার জন্য বাইরের থেকে ধনাত্মক (ইনিশিয়াল) শক্তি দিতে হয়; উদাহরণস্বরূপ হাইড্রোজেনের স্তর শক্তি [math]E_n=-13.6\\ \\text{eV}/n^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 433301,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 433301,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 433301,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433291,
+      "value": {
+        "options": {
+          "ক": "বোর মডেলের স্বীকার্য কয়টি? প্রথম স্বীকার্য বিবৃত করো।",
+          "খ": "উদ্দীপকের ইলেকট্রন ২য় কক্ষ হতে ১ম কক্ষে লাফ দেওয়ায় বিকিরিত শক্তির পরিমাণ কত? কক্ষপথের মুখ্য কোয়ান্টাম সংখ্যা বলতে কী বুঝ?",
+          "গ": "হাইড্রোজেন পরমাণুর দ্বিতীয় ইলেকট্রনীয় কক্ষের ব্যাসার্ধ নির্ণয় করো । [math]([/math]ধরো, [math]\\left.h=6.63 \\times 10^{-34} \\mathrm{Js}, m=9.11 \\times 10^{-31} \\mathrm{~kg} 3 e=1.6 \\times 10^{-19} \\mathrm{C}\\right)[/math]",
+          "ঘ": "ইলেকট্রন ২য় কক্ষপথ হতে ১ম কক্ষপথে লাফ দেওয়ার ফলে নির্গত ফোটনের কম্পাঙ্ক কত হবে? ইলেকট্রন কক্ষপথে আবর্তনে শক্তির শোষণ না হয়ে বিকিরণ ঘটে— এর যৌক্তিকতা ব্যাখ্যা করো ।"
+        },
+        "question": "নিচের চিত্রে একটি ইলেকট্রনের ২য় কক্ষপথ হতে ১ম কক্ষপথে লাফ দেওয়ার ফলে ফোটনের নিঃসরণ দেখানো হয়েছে ।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22042-8_1755589799_ccS0wvpl.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eবোর মডেলের স্বীকার্য ৩টি ।১ম স্বীকার্যটি হলো- পরমাণুর ইলেকট্রনসমূহ নির্দিষ্ট শক্তির কতকগুলো বৃত্তাকার স্থায়ী কক্ষপথে নিউক্লিয়াসের চারদিকে আবর্তন করে। এ সকল কক্ষপথে আবর্তনরত অবস্থায় ইলেকট্রন কোনো শক্তি শোষণ বা বিকিরণ করে না। এ কক্ষপথগুলোকে শক্তিস্তর বা অরবিট (Orbit) বলা হয়। নিউক্লিয়াস থেকে ক্রমান্বয়ে দূরবর্তী শক্তিস্তরসমূহকে যথাক্রমে প্রথম, দ্বিতীয়, তৃতীয় ইত্যাদি শক্তিস্তর বলে। যে শক্তিস্তর নিউক্লিয়াস থেকে যত বেশি দূরে, তার শক্তি তত বেশি। শক্তিস্তর সূচক সংখ্যাগুলোকে প্রধান কোয়ান্টাম সংখ্যা বলে। একে n দ্বারা প্রকাশ করা হয় (n = 1, 2, 3 ইত্যাদি)।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eএখানে,১ম কক্ষপথের শক্তি, [math]E_1 =[/math]\u003Cbr\u003E - 3.4 eV২য় কক্ষপথের শক্তি, [math]E_2 = - 1.5 eV[/math]\u003Cbr\u003Eবিকিরিত শক্তি, E = ?আমরা জানি,[math]\\begin{aligned}\\mathrm{E} & =\\mathrm{E}_{2}-\\mathrm{E}_{1} \\\\& =-1.5-(-3.4) \\\\& =-1.5+3.4 \\\\& =1.9 \\mathrm{eV}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, বিকিরিত ইলেকট্রন শক্তি 1.9eVমুখ্য কোয়ান্টাম সংখ্যা: পরমাণুর শক্তিস্তরসূচক সংখ্যাগুলোকে কোয়ান্টাম সংখ্যা বলে। একে সাধারণত n দ্বারা প্রকাশ করা হয়। ...ইত্যাদি)।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,২য় কক্ষপথের শক্তি, [math]E_2[/math]\u003Cbr\u003E = -1.5 eV১ম কক্ষপথের শক্তি, [math]E_1[/math]\u003Cbr\u003E = - 3.4 eVপ্ল্যাঙ্ক ধ্রুবক, h = 6.63 [math]\\times 10^{-34}[/math]\u003Cbr\u003EJsকম্পাঙ্ক, f = ?আমরা জানি,[math]\\begin{aligned}\\mathrm{h} f & =\\mathrm{E}_{2}-\\mathrm{E}_{1} \\\\\\Rightarrow\\text { } f & =\\frac{\\mathrm{E}_{2}-\\mathrm{E}_{1}}{\\mathrm{~h}} \\\\& =\\frac{(-1.5+3.4)}{6.63 \\times 10^{-74}}\\end{aligned}[/math]\u003Cbr\u003E [math]=\\frac{1.9 \\mathrm{e}}{6.63 \\times 10^{-14}}=\\frac{1.9 \\times 1.6 \\times 10^{-19}}{6.63 \\times 10^{-34}}=4.59 \\times 10^{14} \\mathrm{~Hz}[/math]\u003Cbr\u003Eঅতএব, নির্গত ফোটনের কম্পাঙ্ক [math]4.59 \\times 10^14[/math]\u003Cbr\u003E Hzইলেকট্রন কক্ষপথে আবর্তনে শক্তির শোষণ না হয়ে বিকিরণ: বোরের তৃতীয় স্বীকার্য থেকে আমরা জানি, ইলেকট্রন একটি শক্তিস্তর থেকে আরেকটি শক্তিস্তরে স্থানান্তরিত হলে শক্তির শোষণ বা বিকিরণ ঘটে। ইলেকট্রন উচ্চ শক্তিস্তর থেকে নিম্ন শক্তিস্তরে স্থানান্তরিত হলে শক্তির বিকিরণ এবং নিম্ন শক্তির স্তর থেকে উচ্চ শক্তির স্তরে স্থানান্তরিত হলে শক্তির শোষণ ঘটে।উদ্দীপক অনুযায়ী ইলেকট্রন উচ্চ শক্তিস্তর থেকে নিম্ন শক্তিস্তরে স্থানান্তরিত হয়েছে বিধায় এক্ষেত্রে শক্তির শোষণ না ঘটে বিকিরণ ঘটেছে।-",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বোর মডেলের স্বীকার্য সংখ্যা তিনটি। প্রথম স্বীকার্য: ইলেকট্রন পারমাণবিক কক্ষপথে স্থিতিশীলভাবে আবর্তিত থাকে এবং এই স্থায়ী কক্ষপথগুলোতে ইলেকট্রন বিকিরণ করে না; এগুলো কোয়ান্টাইজড কক্ষপথ যেগুলোর কোণগত ভরবেগ হলো [math]mvr=n\\hbar[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বোর-এর শক্তি সূত্র অনুযায়ী [math]E_n=-\\dfrac{13.6\\ \\text{eV}}{n^2}[/math], সুতরাং [math]E_1=-13.6\\ \\text{eV},\\;E_2=-3.4\\ \\text{eV}[/math] এবং বিকিরিত শক্তি = [math]\\Delta E=E_1-E_2=10.2\\ \\text{eV}=[1.632\\times10^{-18}\\ \\text{J}][/math]। কক্ষপথের মুখ্য কোয়ান্টাম সংখ্যা (n) হলো কক্ষপথকে চিহ্নিত করার বিচ্ছিন্ন সংখ্যা (n=1,2,3...), যা কক্ষপথের শক্তি ও ব্যাস নির্ধারণ করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বোর সূত্র অনুসারে কক্ষপথের ব্যাসার্ধ [math]r_n=n^2 a_0[/math] যেখানে [math]a_0=0.529\\times10^{-10}\\ \\text{m}[/math]। তাই দ্বিতীয় কক্ষের ব্যাসার্ধ [math]r_2=4a_0=4\\times0.529\\times10^{-10}=2.12\\times10^{-10}\\ \\text{m}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ফোটনের কম্পাঙ্ক [math]\\nu=\\dfrac{\\Delta E}{h}=\\dfrac{1.632\\times10^{-18}}{6.63\\times10^{-34}}\\approx2.46\\times10^{15}\\ \\text{Hz}[/math]। কক্ষপথে আবর্তনের সময় শক্তি শোষিত না হয়ে বিকিরণ না হওয়ার যৌক্তিকতা: বোর মডেলে প্রতিটি স্থায়ী কক্ষপথ একটি স্থির শক্তি অবস্থা (energy eigenstate) এবং সেই অবস্থায় ইলেকট্রন সময় অনুযায়ী পরিবর্তনশীল কক্ষপথগত চার্জ হিসেবে বিকিরণ করে না; কেবল কক্ষপথ পরিবর্তনের (transition) সময়ই শক্তির পার্থক্য ফোটন হিসেবে বিকিরণ বা শোষণ ঘটে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 433291,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433292,
+      "value": {
+        "options": {
+          "ক": "ডোপিং কী?",
+          "খ": "বোর মডেলের স্বীকাৰ্যসমূহ লেখ।",
+          "গ": "উদ্দীপক অনুসারে নিঃসরিত বিকিরণের শক্তি নির্ণয় কর।",
+          "ঘ": "সুমন উদ্দীপকের বিকিরণ দেখতে পারবে কি না গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।"
+        },
+        "question": "হাইড্রোজেন পরমাণুর একটি ইলেকট্রন [math]- 1.5\\ eV[/math] শক্তি অবস্থা থেকে [math]- 3.4\\ eV[/math] অবস্থায় আসলে বিকিরণ নিঃসরণ করে। দৃশ্যমান আলোর তরঙ্গ দৈর্ঘ্য [math]380\\ nm[/math] থেকে [math]780\\ nm[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eবিশুদ্ধ অর্ধপরিবাহীর সাথে খুব সামান্য পরিমাণে ত্রি বা পঞ্চযোজী মৌলের মিশ্রণের কৌশলকে ডোপিং বলে । [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eবোর পরমাণু মডেলের স্বীকার্যসমূহ নিম্নরূপ-কৌণিক ভরবেগ সংক্রান্ত স্বীকার্য : পরমাণুতে ইলেকট্রনগুলো নিউক্লিয়াসকে কেন্দ্র করে কতকগুলো নির্দিষ্ট কক্ষপথে ঘুরতে পারে যেখানে ইলেকট্রনের কৌণিক ভরবেগ L হলে কোনো পূর্ণসংখ্যা N এবং [math]\\frac{\\mathrm{h}}{2 \\pi}[/math]\u003Cbr\u003E এর গুণফল ।অর্থাৎ, [math]L = \\frac{\\mathrm{Nh}}{2 \\pi}[/math]\u003Cbr\u003Eশক্তিস্তর সংক্রান্ত স্বীকার্য : পরমাণুর ইলেকট্রনসমূহ নির্দিষ্ট শক্তির কতকগুলো বৃত্তাকার স্থায়ী কক্ষপথে নিউক্লয়াসকে কেন্দ্র করে আবর্তন করে। এসব কক্ষপথে আবর্তনের সময় ইলেকট্রন কোনো শক্তি শোষণ বা বিকিরণ করে না । [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\begin{array}{l}E_{1}=-3.4 \\mathrm{~eV} \\\\E_{2}=-1.5 \\mathrm{~eV}\\end{array}[/math]\u003Cbr\u003Eআমরা জানি, নিঃসরিত বিকিরণের শক্তি,[math]\\hspace{4cm}\\begin{aligned}\\Delta \\mathrm{E} & =\\mathrm{E}_{2}-\\mathrm{E}_{1} \\\\& =(-1.5 \\mathrm{~eV}+3.4 \\mathrm{eV}) \\\\& =1.9 \\mathrm{~eV}\\end{aligned}[/math]\u003Cbr\u003Eনির্ণেয় শক্তি [math]1.9 ~eV[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\begin{array}{l}E_{1}=-3.4 \\mathrm{~eV} \\\\E_{2}=-1.5 \\mathrm{~eV}\\end{array}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{~Js}[/math]\u003Cbr\u003Eকম্পাঙ্ক, [math]v = ?[/math]\u003Cbr\u003Eআমরা জানি, [math]hv = E_2 - E_1[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{aligned}\\Rightarrow v & =\\frac{E_{2}-E_{1}}{h}=\\frac{-1.5 \\mathrm{~eV}-(-3.4 \\mathrm{~eV})}{6.63 \\times 10^{-34} \\mathrm{~Js}} \\\\& =2.86 \\times 10^{33} \\mathrm{~eV} / \\mathrm{Js} \\\\& =2.86 \\times 10^{33} \\times 1.60 \\times 10^{-19} \\mathrm{~Hz} \\\\& =4.58 \\times 10^{14} \\mathrm{~Hz}\\end{aligned}[/math]\u003Cbr\u003Eআবার, আমরা জানি, [math]c = v\\lambda[/math]\u003Cbr\u003E [math]\\hspace{3.5cm}\\begin{aligned}\\Rightarrow \\lambda=\\frac{\\mathrm{c}}{\\mathrm{v}} & =\\frac{3 \\times 10^{8} \\mathrm{~ms}^{-1}}{4.58 \\times 10^{14} \\mathrm{~Hz}} \\\\& =6.550 \\times 10^{-7} \\mathrm{~m}=6550 \\mathring{A}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, কম্পাঙ্ক [math]4.59 \\times 10^{14} \\mathrm{~Hz}[/math]\u003Cbr\u003E তরঙ্গদৈর্ঘ্য [math]6550 \\mathring{A}[/math]\u003Cbr\u003E যা দৃশ্যমান তরঙ্গের মধ্যে।সুতরাং, সুমন উদ্দীপকের বিকিরণ দেখতে পাবে ।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ডোপিং হল সেমিকন্ডাক্টরে সচেতনভাবে অপরিষ্কারতা (ইম্পিউরিটি) যোগ করা যেন কনডাকশন বৈশিষ্ট্য বদলে যায় — উদাহরণ: n‑type (ইলেকট্রন প্রদানকারী) ও p‑type (হোল প্রদানকারী)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বোর মডেলের স্বীকার্যসমূহ সংক্ষেপে: ইলেকট্রন নির্দিষ্ট কোয়ান্টাইজড কক্ষপথে ঘোরে এবং ঐ কক্ষপথগুলোতে বিকিরণ করে না; কক্ষপথের ভল্ডগুলোর কক্ষীয় ভরবেগ কোয়ান্টাইজড [math](mvr=n\\hbar)[math]; কক্ষপথ বদলে হলে বিমিত বা শোষিত ফোটনের শক্তি হবে কক্ষপথদের শক্তি পার্থক্য।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ইলেকট্রন [math]-1.5\\ \\text{eV}[/math] থেকে [math]-3.4\\ \\text{eV}[/math] এ গেলে উৎৎপন্ন ফোটনের শক্তি হবে পার্থক্য: [math]ΔE=|(-3.4)-(-1.5)|=1.9\\ \\text{eV}[/math], তার তরঙ্গদৈর্ঘ্য [math]\\lambda=\\dfrac{hc}{E}\\approx\\dfrac{1240\\ \\text{eV·nm}}{1.9\\ \\text{eV}}\\approx652.6\\ \\text{nm}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কারণ পাওয়া তরঙ্গদৈর্ঘ্য [math]652.6\\ \\text{nm}[/math] দৃশ্যমান পরিসরের মধ্যে ([math]380\\text{–}780\\ \\text{nm}[/math]) পড়ে, তাই সুমন ঐ বিকিরণ দেখতে পারবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 433292,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1141,
+          "full_name": "Uttora High School and College, Dhaka",
+          "short_name": "UHSC",
+          "slug": "uhsc",
+          "pivot": {
+            "question_bank_id": 433292,
+            "tag_id": 1141,
+            "year": "2020",
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433293,
+      "value": {
+        "options": {
+          "ক": "ডি ব্রগলী তরঙ্গ কী?",
+          "খ": "হাইড্রোজেন পরমাণুতে একটি মাত্র ইলেকট্রন আছে। কিন্তু হাইড্রোজেন বর্ণালীতে অনেকগুলো রেখা পাওয়া যায়— ব্যাখ্যা কর।",
+          "গ": "ঐ কক্ষপথে ইলেকট্রনটির শক্তি কত?",
+          "ঘ": "প্রযুক্ত ফোটনটি ভূমিস্তর হতে ইলেকট্রনটিকে পরমাণুর ৪র্থ কক্ষপথে তুলতে পারবে কি না— গাণিতিকভাবে যাচাই কর।"
+        },
+        "question": "হাইড্রোজেন পরমাণুর কোনো একটি কক্ষপথে ইলেকট্রনটির কৌণিক ভরবেগ [math]4.2 \\times 10^{-33} \\mathrm{~J} . \\mathrm{s}[/math]। ইলেকট্রনটি ভূমিস্তরে থাকা অবস্থায় [math]1500\\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের একটি ফোটন ফেলা হলো। [ইলেকট্রনটির ভর, [math]m_{c}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math], ইলেকট্রনটির চার্জ, [math]\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C}, 1 \\mathrm{eV}=1.6 \\times 10^{-19} \\mathrm{~J}[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপ্রত্যেকটি চলমান পদার্থ কণার সাথে যে তরঙ্গ যুক্ত থাকে তাকে ডি-ব্রগলী তরঙ্গ বলে । [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eহাইড্রোজেন পরমাণুতে একটি মাত্র ইলেকট্রন থাকলেও অনেকগুলো অরবিট বা কক্ষপথ রয়েছে। ভূমিস্তর থেকে একেক কক্ষপথের শক্তির পার্থক্য একেক। তাই বিভিন্ন কক্ষপথে ইলেকট্রনের স্থানান্তরে বিভিন্ন মাত্রার শক্তি বিকিরিত হয় তথা বিভিন্ন কম্পাঙ্কের ফোটন নিঃসৃত হয়, ফলে বর্ণালীতে বিভিন্ন রেখা পাওয়া যায়। একারণেই হাইড্রোজেন পরমাণুতে একটি মাত্র ইলেকট্রন থাকলেও হাইড্রোজেন বর্ণালীতে অনেকগুলো রেখা পাওয়া যায় [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, [math]\\mathrm{m}_{\\mathrm{e}}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C} \\\\\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js} \\\\\\epsilon_{0}=8.854 \\times 10^{-12} \\mathrm{C}^{2} \\mathrm{~m}^{-2} \\mathrm{n}^{-1} \\\\\\mathrm{~L}=4.2 \\times 10^{-33} \\mathrm{Js}\\end{array}[/math]\u003Cbr\u003Eআমরা জানি, [math]L=\\frac{n h}{2 \\pi}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{array}{l}\\Rightarrow \\mathrm{n}=\\frac{2 \\pi \\mathrm{L}}{\\mathrm{h}}=\\frac{2 \\times 3.1416 \\times 4.2 \\times 10^{-33}}{6.63 \\times 10^{-34}} \\\\\\therefore \\mathrm{n}=39.78 \\approx 40\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ঐ কক্ষপথে ইলেকট্রনটির শক্তি,[math]\\hspace{1cm}\\begin{aligned}\\mathrm{E}_{40} & =\\frac{-\\mathrm{m}_{\\mathrm{e}} \\mathrm{e}^{4}}{8 \\mathrm{n}^{2} \\mathrm{~h}^{2} \\epsilon_{0}^{2}} \\\\\\Rightarrow \\mathrm{E}_{40} & =\\frac{-9.1 \\times 10^{-31} \\times\\left(1.6 \\times 10^{-19}\\right)^{4}}{8 \\times\\left(6.63 \\times 10^{-34}\\right)^{2} \\times 40^{2} \\times\\left(8.854 \\times 10^{-12}\\right)^{2}} \\mathrm{~J} \\\\\\Rightarrow \\mathrm{E}_{40} & =-1.35 \\times 10^{-21} \\mathrm{~J}=-8.45 \\mathrm{~meV}\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, [math]\\mathrm{n}_{1}=1, \\mathrm{n}_{4}=4[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\mathrm{m}_{\\mathrm{e}}=9.1 \\times 10^{-31} \\mathrm{~kg} \\\\\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C} \\\\\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js} \\\\\\epsilon_{0}=8.854 \\times 10^{-12} \\mathrm{C}^{2} \\mathrm{~m}^{-2} \\mathrm{n}^{-1}\\end{array}[/math]\u003Cbr\u003Eভূমিস্তর ও ৪র্থ কক্ষপথের মধ্যে শক্তির পার্থক্য,[math]\\begin{array}{l}\\mathrm{E}_{4}-\\mathrm{E}_{1}=\\frac{\\mathrm{m}_{\\mathrm{e}} \\mathrm{e}^{4}}{8 \\mathrm{~h}^{2} \\mathrm{E}_{0}^{2}}\\left(\\frac{1}{\\mathrm{n}_{1}^{2}}-\\frac{1}{\\mathrm{n}_{4}^{2}}\\right) \\\\\\quad=\\frac{9.1 \\times 10^{-31} \\times\\left(1.6 \\times 10^{-19}\\right)^{4}}{8 \\times\\left(6.63 \\times 10^{-34}\\right)^{2} \\times\\left(8.854 \\times 10^{-12}\\right)^{2}} \\times\\left\\{\\frac{1}{1^{2}}-\\frac{1}{4^{2}}\\right\\} \\mathrm{J} \\\\\\therefore \\mathrm{E}_{4}-\\mathrm{E}_{1}=2.04 \\times 10^{-18} \\mathrm{~J}\\end{array}[/math]\u003Cbr\u003Eএখানে,[math]\\begin{array}{l}\\begin{aligned}\\lambda & =1500 \\mathring{A} \\\\& =1500 \\times 10^{-10} \\mathrm{~m} \\\\\\mathrm{c} & =3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}\\end{aligned}\\end{array}[/math]\u003Cbr\u003E [math]1500 \\mathring{A}[/math]\u003Cbr\u003E তরঙ্গ দৈর্ঘ্যের ফোটনের শক্তি,[math]\\begin{aligned}E & =h \\frac{c}{\\lambda} \\\\\\Rightarrow E & =6.63 \\times 10^{-34} \\times \\frac{3 \\times 10^{8}}{1500 \\times 10^{-10}} \\mathrm{~J} \\\\\\therefore & e=1.326 \\times 10^{-18} \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003Eসুতরাং দেখা যাচ্ছে, [math]E_4 - E_1 \u003E E[/math]\u003Cbr\u003Eঅর্থাৎ, ভূমিস্তর ও ৪র্থ কক্ষপথের মধ্যে শক্তির পার্থক্য ফোটনের শক্তি অপেক্ষা বেশিঅতএব, প্রযুক্ত ফোটনটি ভূমিস্তর হতে ইলেকট্রনটিকে পরমাণুর ৪র্থ কক্ষপথে তুলতে পারবে না ।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ডি ব্রগলী তরঙ্গ হলো কণার তরঙ্গীয় প্রকৃতি বোঝাতে ব্যবহৃত তরঙ্গদৈর্ঘ্য, যা [math]\\lambda=\\dfrac{h}{p}[/math] (এখানে [math]h[/math] প্ল্যাঙ্কের ধ্রুবক ও [math]p[/math] ত্বরক) দ্বারা প্রদিস্ট। এটি কণার তেজস্ক্রিয় গতি/তরঙ্গদুইয়ের সম্পর্ক প্রকাশ করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হাইড্রোজেনে কেবল একটি ইলেকট্রন থাকলেও বহু এনের্জি স্তর আছে; различных জোড়া স্তরের মধ্যে পারস্পরিক ট্রানজিশনের ফলে প্রতি জোড়ার জন্য ভিন্ন ফোটন নির্গত বা শোষিত হয়, তাই বহু spectral রেখা পাওয়া যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কৌণিক ভরবেগ থেকে কোয়ান্টাইজেশন ব্যবহার করে [math]n=\\dfrac{L}{\\hbar}=\\dfrac{4.2\\times10^{-33}}{1.055\\times10^{-34}}\\approx39.8\\approx40[/math]। তাই [math]E_n=-\\dfrac{13.6\\ \\mathrm{eV}}{n^2}=-\\dfrac{13.6}{40^2}\\approx-0.0085\\ \\mathrm{eV}\\approx-1.36\\times10^{-21}\\ \\mathrm{J}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ফোটনের শক্তি [math]E_{ph}=\\dfrac{hc}{\\lambda}=\\dfrac{1240\\ \\mathrm{eV\\cdot nm}}{150\\ \\mathrm{nm}}\\approx8.27\\ \\mathrm{eV}[/math]। ভূমিস্থর থেকে চতুর্থ কক্ষপথে উত্তোলনের জন্য প্রয়োজন [math]\\Delta E=E_4-E_1=-\\dfrac{13.6}{16}-(-13.6)=13.6\\Big(1-\\dfrac{1}{16}\\Big)=12.75\\ \\mathrm{eV}[/math]। যেহেতু [math]8.27\\ \\mathrm{eV}\u003C12.75\\ \\mathrm{eV}[/math], তাই ঐ ফোটনটি ভূমিস্থর থেকে চতুর্থ কক্ষপথে তুলতে পারে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 433293,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 341,
+          "full_name": "Rajshahi Cadet College",
+          "short_name": "RCC",
+          "slug": "rcc",
+          "pivot": {
+            "question_bank_id": 433293,
+            "tag_id": 341,
+            "year": "2020",
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433294,
+      "value": {
+        "options": {
+          "ক": "তেজস্ক্রিয় ক্ষয় সূত্রটি লিখ।",
+          "খ": "রেডনের অর্ধায়ু [math]3.82[/math] দিন বলতে কী বুঝ?",
+          "গ": "হাইড্রোজেন পরমাণুর তৃতীয় বোর কক্ষের ব্যাসার্ধ নির্ণয় কর।",
+          "ঘ": "উদ্দীপক অনুযায়ী নিঃসৃত ফোটন চোখে দেখা যাবে কি-না? গাণিতিকভাবে যাচাই কর।"
+        },
+        "question": "হাইড্রোজেন পরমাণুর তৃতীয় কোয়ান্টাম কক্ষ হতে প্রথম কোয়ান্টাম কক্ষে ইলেকট্রন যাওয়ায় ফোটন নির্গত হয়। [math]\\left(\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C}, \\mathrm{m}=9.1 \\times 10^{-31} \\mathrm{~kg}, \\mathrm{~h}=6.63 \\times 10^{-34} \\mathrm{Js}, \\epsilon_{0}=8.85 \\times 10^{-12} \\mathrm{C}^{2} \\mathrm{~N}^{-1} \\mathrm{~m}^{-2}\\right)[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eতেজস্ক্রিয় ক্ষয় সূত্রটি হলো— তেজস্ক্রিয় পরমাণুর ভাঙনের হার ঐ সময়ে উপস্থিত অক্ষত পরমাণুর সংখ্যার সমানুপাতিক । [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eরেডনের অর্ধায়ু 3.82 দিন বলতে বুঝায় 1 গ্রাম পরিমাণ মৌলে পরমাণু ভেঙে ঠিক অর্ধেক অর্থাৎ [math]\\frac{1}{2}[/math]\u003Cbr\u003E গ্রাম হতে সময় লাগে 3.82 দিন । [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, ইলেকট্রনের ভর, [math]\\mathrm{m}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003Eইলেকট্রনের আধান, [math]\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C}[/math]\u003Cbr\u003Eপ্লাঙ্ক ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{JS}[/math]\u003Cbr\u003Eশূন্যস্থানে ভেদনযোগ্যতা, [math]\\epsilon_{0}=8.85 \\times 10^{-12} \\mathrm{C}^{2} \\mathrm{~N}^{-1} \\mathrm{~m}^{-1}[/math]\u003Cbr\u003Eকোয়ান্টাম সংখ্যা, n = 3কক্ষের ব্যাসার্ধ, [math]r_n = ?[/math]\u003Cbr\u003Eআমরা জানি, [math]r_{n}=\\frac{n^{2} h^{2} \\epsilon_{0}}{\\pi m e^{2}}[/math]\u003Cbr\u003E [math]\\hspace{2.5cm}\\begin{array}{l}=\\frac{3^{2} \\times\\left(6.63 \\times 10^{-34}\\right)^{2} \\times 8.85 \\times 10^{-12}}{3.1416 \\times 9.1 \\times 10^{-31} \\times\\left(1.6 \\times 10^{-19}\\right)^{2}} \\\\=4.79 \\times 10^{-10} \\mathrm{~m} \\\\=4.79 \\mathring{A}\\end{array}[/math]\u003Cbr\u003Eঅতএব, ৩য় বোর কক্ষের ব্যাসার্ধ [math]4.79 \\mathring{A}[/math]\u003Cbr\u003E। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, [math]\\Delta \\mathrm{E}=\\frac{m \\mathrm{e}^{4}}{8 \\mathrm{~h}^{2} \\in_{0}^{2}}\\left(\\frac{1}{(1)^{2}}-\\frac{1}{(3)^{2}}\\right)[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\begin{array}{l}=\\frac{9.1 \\times 10^{-31} \\times\\left(1.6 \\times 10^{-19}\\right)^{4}}{8 \\times\\left(6.63 \\times 10^{-34}\\right)^{2} \\times\\left(8.85 \\times 10^{-12}\\right)^{2}} \\times\\left(\\frac{9-1}{9}\\right) \\\\=2.16 \\times 10^{-18} \\times \\frac{8}{9} \\\\=1.92 \\times 10^{-18} \\mathrm{~J}\\end{array}[/math]\u003Cbr\u003Eএখন, [math]f=\\frac{1.92 \\times 10^{-18}}{6.63 \\times 10^{-34}}=2.89 \\times 10^{15} \\mathrm{~Hz}[/math]\u003Cbr\u003Eযা দৃশ্যমান কম্পাঙ্কের মধ্যে নয়।অতএব, নিঃসৃত ফোটন দৃশ্যমান হবে না ।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তেজস্ক্রিয় ক্ষয় সূত্র: পরমাণু/নিউক্লাইডের সংখ্যা সময়ের সঙ্গে ঘাটে [math]N(t)=N_0e^{-\\lambda t}[/math], যেখানে [math]\\lambda[/math] হছে ক্ষয় ধারা; অর্ধায়ু ও ক্ষয় ধারা সম্পর্ক: [math]T_{1/2}=\\dfrac{\\ln 2}{\\lambda}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E রেডনের অর্ধায়ু [math]3.82[/math] দিন মানে: কোনো প্রদত্ত পরিমাণ রেডনের পরমাণুর মধ্যে [math]3.82[/math] দিনের পরে মূল সংখ্যার অর্ধেক বাকি থাকবে; প্রতিটি পারমাণবিক কণার অবক্ষয়ের সম্ভাব্যতা অনির্দিষ্টকালীন একটাই হার দ্বারা চলে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বোর মডেলে n-তম কক্ষের ব্যাসার্ধ [math]r_n=n^2a_0[/math] এবং বোর ব্যাসার্ধ [math]a_0=\\dfrac{\\epsilon_0 h^2}{\\pi m e^2}\\approx5.32\\times10^{-11}\\ \\mathrm{m}[/math]; তাই তৃতীয় কক্ষের ব্যাসার্ধ [math]r_3=3^2a_0=9\\times5.32\\times10^{-11}\\approx4.79\\times10^{-10}\\ \\mathrm{m}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ফোটনের শক্তি = স্তরগুলোর মানের পার্থক্য: [math]E_{\\gamma}=13.6\\left(1-\\dfrac{1}{3^2}\\right)\\ \\mathrm{eV}=13.6\\times\\dfrac{8}{9}=12.09\\ \\mathrm{eV}\\approx1.93\\times10^{-18}\\ \\mathrm{J}[/math]; তরঙ্গদৈর্ঘ্য [math]\\lambda=\\dfrac{hc}{E}\\approx\\dfrac{6.63\\times10^{-34}\\times3.00\\times10^8}{1.93\\times10^{-18}}\\approx1.03\\times10^{-7}\\ \\mathrm{m}=103\\ \\mathrm{nm}[/math], যা চোখে দেখা যায় এমন দৃশ্যমান সীমা (≈400–700 nm) থেকে অনেক ছোট — তাই এটি অতিবেগুনী এবং চোখে দেখা যাবে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 433294,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3315,
+          "full_name": "Ispahani Public School And College. Chattogram",
+          "short_name": "IPSCC",
+          "slug": "ipscc",
+          "pivot": {
+            "question_bank_id": 433294,
+            "tag_id": 3315,
+            "year": "2020",
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433295,
+      "value": {
+        "options": {
+          "ঘ": "নিঃসরিত বিকিরণটি দৃশ্যমান হবে কি? যাচাই কর।"
+        },
+        "question": "একটি হাইড্রোজেন পরমাণুর ইলেক্ট্রন [math]-1.5\\ eV[/math] শক্তি অবস্থা হতে। [math]3.4\\ eV[/math] শক্তি অবস্থায় আসে। [ [math]\\mathrm{e}=3 \\times 10^{8} \\mathrm{~ms}^{-1}, \\mathrm{~h}=6.63 \\times 10^{-34} \\mathrm{Js}, 1\\ \\mathrm{eV}=1.6 \\times 10^{-19} \\mathrm{~J}[/math] দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের পাল্লা [math]4 \\times 10^{-7} \\mathrm{~m}[/math] হতে [math]8 \\times 10^{-7} \\mathrm{~m}[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআদি অবস্থানে, [math]\\mathrm{E}_{1}=-1.5 \\mathrm{~eV}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচূড়ান্ত অবস্থানে, [math]E_{2}=-3.4 \\mathrm{~eV}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]h=6.63 \\times 10^{-34} \\mathrm{Js}[/math]\u003Cbr\u003Eধরি, নির্গত ফোটনের কম্পাঙ্ক [math]f[/math]\u003Cbr\u003E এবং তরঙ্গদৈর্ঘ্য [math]\\lambda[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\begin{array}{l} \\therefore ~E_{1}-E_{2}=-1.5 \\mathrm{eV}+3.4 \\mathrm{eV} \\\\ \\Rightarrow \\mathrm{h} f=1.9 \\mathrm{eV} \\\\ \\Rightarrow f=\\frac{1.9 \\times 1.6 \\times 10^{-19}}{6.63 \\times 10^{-34}} \\mathrm{~Hz} \\\\ \\Rightarrow f=4.6 \\times 10^{14} \\mathrm{~Hz} \\\\ \\Rightarrow \\frac{\\mathrm{c}}{\\lambda}=4.6 \\times 10^{14} \\mathrm{~Hz} \\\\ \\Rightarrow \\lambda=\\frac{3 \\times 10^{8}}{4.6 \\times 10^{14} \\mathrm{~m}} \\\\ \\therefore~ \\lambda=6.5 \\times 10^{-7} \\mathrm{~m} \\end{array}[/math]\u003Cbr\u003Eএখানে, [math]4 \\times 10^{-7} \\mathrm{~m}\u003C\\lambda\u003C8 \\times 10^{-7} \\mathrm{~m}[/math]\u003Cbr\u003Eঅর্থাৎ, নির্গত ফোটনের তরঙ্গদৈর্ঘ্য দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের পাল্লার মধ্যে অবস্থান করছে। অতএব, নিঃসরিত বিকিরণটি দৃশ্যমান হবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শক্তি পার্থক্য [math]\\Delta E=3.4-(-1.5)=4.9\\ \\text{eV}[/math], যা জুলে হচ্ছে [math]4.9\\times1.6\\times10^{-19}=7.84\\times10^{-19}\\ \\text{J}[/math]. ফলে তরঙ্গদৈর্ঘ্য [math]\\lambda=\\dfrac{hc}{\\Delta E}=\\dfrac{6.63\\times10^{-34}\\times3\\times10^{8}}{7.84\\times10^{-19}}\\approx2.54\\times10^{-7}\\ \\text{m}[/math]. এই মান দৃশ্যমান পরিসীমা [math]4\\times10^{-7}\\ \\text{m}[/math]–[math]8\\times10^{-7}\\ \\text{m}[/math]‑এর চাইতে ছোট, তাই বিকিরণ দৃশ্যমান নয় (এটি অতিবেগুনী)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 433295,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 433295,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 433295,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433296,
+      "value": {
+        "options": [],
+        "question": "একটি পারমাণবিক চুল্লিতে [math]{}^{235}\\rm{U}[/math] নিউক্লিয়ার ফিশন প্রক্রিয়ায় [math]200\\ \\rm{MeV}[/math] শক্তি উন্মুক্ত করে। ঐ চুল্লিটির দক্ষতা [math]10 \\%[/math] এবং এটির [math]1000\\ \\rm{MW}[/math]। চুল্লিটি [math]10[/math] বছর চালাতে কতটুকু ইউরেনিয়াম লাগবে? [math]\\left[1 \\mathrm{eV}=1.602 \\times 10^{-19} \\mathrm{~J} \\text {. Avogadro's Constant }=6.023 \\times 10^{23} \\text { mole e}^{-1}\\right][/math]",
+        "solution": "(Answer : [math]1.63623 \\times 10^{5} \\mathrm{~mole}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : প্রয়োজনীয় ক্ষমতা [math]=\\dfrac{p_{\\text {out }}}{\\eta}\\\\ =\\dfrac{1000 \\mathrm{MW}}{10 \\%}\\\\ =10000 \\mathrm{MW}\\\\ =10000 \\times 10^{6} \\mathrm{~W}\\\\ =10^{10} \\mathrm{~W}[/math]\u003Cbr\u003E [math]\\therefore \\ 10[/math]\u003Cbr\u003E বছরে মোট শক্তি দরকার [math]=\\mathrm{pt}\\\\ =10^{10} \\times 86400 \\times 365 \\times 10 \\mathrm{~J}\\\\ =3.1536 \\times 10^{18} \\mathrm{~J}[/math]\u003Cbr\u003E [math]1[/math]\u003Cbr\u003E টি [math]{}^{235}\\rm{U}[/math]\u003Cbr\u003E ফিশনে শক্তি [math]=200 \\mathrm{MeV}\\\\ =200 \\times 10^{6} \\times 1.6 \\times 10^{-19} \\mathrm{~J}\\\\ =3.2 \\times 10^{-11} \\mathrm{~J}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ইউরেনিয়াম দরকার [math]=\\dfrac{3.1536 \\times 10^{18} \\mathrm{~J}}{3.2 \\times 10^{-11}} \\text { atoms }\\\\ =9.855 \\times 10^{28} \\text { atoms }\\\\ =1.63623 \\times 10^{5} \\mathrm{~mole~}(\\text {Ans. })[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: মোট উৎপাদিত বিদ্যুৎ শক্তি [math]E_{out}=1000\\ \\rm{MW}\\times10\\ \\rm{yr}=1.0\\times10^{9}\\ \\rm{W}\\times3.1536\\times10^{8}\\ \\rm{s}=3.1536\\times10^{17}\\ \\rm{J}[/math], এবং দক্ষতা [math]10\\%[/math] হলে ফিশন থেকে প্রয়োজনীয় মোট শক্তি [math]E_f=E_{out}/0.10=3.1536\\times10^{18}\\ \\rm{J}[/math]. এক ফিশনে মুক্ত শক্তি [math]200\\ \\rm{MeV}=200\\times1.602\\times10^{-13}\\ \\rm{J}=3.204\\times10^{-11}\\ \\rm{J}[/math], অতএব ফিশনের সংখ্যা [math]N=3.1536\\times10^{18}/3.204\\times10^{-11}\\approx9.85\\times10^{28}[/math]. মোল সংখ্যা [math]n=N/N_A\\approx9.85\\times10^{28}/6.023\\times10^{23}\\approx1.63\\times10^{5}\\ \\rm{mol}[/math], এবং ভরের হিসেবে [math]m=n\\times235\\ \\rm{g/mol}\\approx3.84\\times10^{7}\\ \\rm{g}=3.84\\times10^{4}\\ \\rm{kg}\\approx38.4\\ \\rm{tonnes}[/math]; সুতরাং প্রায় 38.4 টন [math]{}^{235}\\rm{U}[/math] লাগবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 433296,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 433296,
+            "tag_id": 80,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433297,
+      "value": {
+        "options": [],
+        "question": "সোডিয়াম পরমাণু থেকে হলুদ বর্ণের একটি বিকিরণ নিঃসৃত হয় যার তরঙ্গদৈর্ঘ্য [math]589.6 \\times 10 ^{-9}m[/math] । যে দুটি শক্তিস্তরের মধ্যে এই বিকিরণ হয় তাদের শক্তির পার্থক্য কত?",
+        "solution": "[math]2.11eV[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,আলোর তরঙ্গদৈর্ঘ্য, [math]\\lambda = 589.6 \\times 10^{-9}m[/math]\u003Cbr\u003Eজানা আছে, প্ল্যাঙ্কের ধ্রুবক, [math]h=6.63 \\times 10^{-34}J.s[/math]\u003Cbr\u003Eআলোর বেগ, [math]e=3 \\times 10^{8}ms^{-1}[/math]\u003Cbr\u003Eশক্তিস্তরের মধ্যে পার্থক্য, [math]\\Delta E=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} \\Delta E=h \\frac{c}{\\lambda} \\\\ =\\frac{6.63 \\times 10^{-34} \\mathrm{~J} . \\mathrm{s} \\times 3 \\times 10^{8} \\mathrm{~ms}^{-1}}{589.6 \\times 10^{-9} \\mathrm{~m}} \\\\ =3.373 \\times 10^{-19} \\mathrm{~J} . \\\\ =2.11 \\mathrm{eV} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বিকিরণটি একটি ফোটনের শক্তি, তাই শক্তির পার্থক্য হবে ফোটনের শক্তি যা [math]\\Delta E=\\dfrac{hc}{\\lambda}[/math] দিয়ে দেওয়া। এখানে [math]h=6.626\\times10^{-34}\\ \\text{Js},\\ c=3.00\\times10^8\\ \\text{m/s},\\ \\lambda=589.6\\times10^{-9}\\ \\text{m}[/math], তাই [math]\\Delta E=\\dfrac{6.626\\times10^{-34}\\times3.00\\times10^8}{589.6\\times10^{-9}}\\approx3.37\\times10^{-19}\\ \\text{J}\\approx2.11\\ \\text{eV}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 433297,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433298,
+      "value": {
+        "options": {
+          "গ": "দ্বিতীয় কক্ষপথ থেকে প্রথম কক্ষপথে ইলেকট্রন অবতরণের ফলে নিঃসৃত শক্তি কত হবে?"
+        },
+        "question": "রাদারফোর্ড মডেলের সমস্যাগুলি দূর করার জন্য বিজ্ঞানী নীলস বোর রাদারফোর্ডের পরীক্ষালব্দ ফলাফলের সাথে প্ল্যাঙ্কের কোয়ান্টাম তত্ত্বকে যুক্ত করে পরমাণুর গঠন সম্পর্কে একটি উপস্থাপন করেন। বোরের মডেল অনুসারে হাইড্রোজেন পরমাণুর নতুন তথ্য স্থায়ী কক্ষপথে একটি ইলেকট্রনের মোট শ ক্তি [math]E = -13.6 \\ eV[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,১ম কক্ষপথে (হাইড্রোজেনের স্থায়ী কক্ষপথ) ইলেকট্রনের শক্তি, [math]E_1 = -13.6 eV[/math]\u003Cbr\u003E২য় কক্ষপথে ইলেকট্রনের শক্তি, [math]E_2 = ?[/math]\u003Cbr\u003E [math]\\therefore \\Delta E = E_2 -E_1[/math]\u003Cbr\u003E= ?আমরা জানি,n-তম কক্ষপথে ইলেকট্রনের শক্তি,[math]\\begin{aligned}\\mathrm{E}_{\\mathrm{n}} & =\\frac{\\mathrm{E}_{1}}{\\mathrm{n}^{2}} \\\\\\mathrm{n}=2 & \\text { } \\\\\\mathrm{E}_{2} & =\\frac{\\mathrm{E}_{1}}{2^{2}} \\\\& =\\frac{-13.6}{4} \\\\& =-3.4 \\mathrm{eV}\\end{aligned}[/math]\u003Cbr\u003Eআবার,[math]\\begin{aligned}\\Delta \\mathrm{E} & =\\mathrm{E}_{2}-\\mathrm{E}_{1} \\\\& =-3.4-(-13.6) \\\\\\therefore \\quad \\Delta \\mathrm{E} & =10.2 \\mathrm{eV}\\end{aligned}[/math]\u003Cbr\u003Eঅর্থাৎ ২য় কক্ষপথ হতে ১ম কক্ষপথে ইলেকট্রন অবতরণে নির্গত শক্তি = 10.2 eV (Ans.)[math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: বোর মডেল অনুসারে শক্তি মাত্রা [math]E_n = -13.6/n^2\\ eV[/math]. তাই [math]E_1=-13.6\\ eV[/math] এবং [math]E_2=-3.4\\ eV[/math]. দ্বিতীয় থেকে প্রথম কক্ষে অবতরণের সময় নিঃসৃত শক্তি [math]E_1-E_2=-13.6-(-3.4)=10.2\\ eV[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 433298,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433299,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপক অনুসারে নিঃসরিত বিকিরণের শক্তি নির্ণয় কর।"
+        },
+        "question": "হাইড্রোজেন পরমাণুর একটি ইলেকট্রন [math]- 1.5\\ eV[/math] শক্তি অবস্থা থেকে [math]- 3.4\\ eV[/math] অবস্থায় আসলে বিকিরণ নিঃসরণ করে। দৃশ্যমান আলোর তরঙ্গ দৈর্ঘ্য [math]380\\ nm[/math] থেকে [math]780\\ nm[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\begin{array}{l}E_{1}=-3.4 \\mathrm{~eV} \\\\E_{2}=-1.5 \\mathrm{~eV}\\end{array}[/math]\u003Cbr\u003Eআমরা জানি, নিঃসরিত বিকিরণের শক্তি,[math]\\hspace{4cm}\\begin{aligned}\\Delta \\mathrm{E} & =\\mathrm{E}_{2}-\\mathrm{E}_{1} \\\\& =(-1.5 \\mathrm{~eV}+3.4 \\mathrm{eV}) \\\\& =1.9 \\mathrm{~eV}\\end{aligned}[/math]\u003Cbr\u003Eনির্ণেয় শক্তি [math]1.9 ~eV[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বিকিরণকৃত ফোটনের শক্তি হচ্ছে স্তরের শক্তির পার্থক্য: [math]E_{\\text{photon}}=E_i-E_f=[-1.5-(-3.4)]=1.9\\ \\text{eV}[/math]. কারণ ইলেকট্রন উচ্চ-শক্তি অবস্থান থেকে নিম্ন-শক্তি অবস্থায় নেমে এনার্জি ছাড়ে; এই [math]1.9\\ \\text{eV}[/math] মানটি দৃশ্যমান সীমার মধ্যে পড়ে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 433299,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1141,
+          "full_name": "Uttora High School and College, Dhaka",
+          "short_name": "UHSC",
+          "slug": "uhsc",
+          "pivot": {
+            "question_bank_id": 433299,
+            "tag_id": 1141,
+            "year": "2020",
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433300,
+      "value": {
+        "options": [],
+        "question": "পরমাণুতে আবদ্ধ ইলেক্ট্রনের মোট শক্তি সর্বদা ঋণাত্মক হয়—ব্যাখ্যা কর।",
+        "solution": "পরমাণুতে বিদ্যমান শক্তির সমীকরণ বিবেচনা করলে পাই,[math]E_{n}[/math]\u003Cbr\u003E [math]=-\\frac{m e^{4}}{8 n^{2} h^{2} \\epsilon_{0}^{2}}[/math]\u003Cbr\u003Eএই সমীকরণ থেকে দেখা যায় পরমাণুতে আবদ্ধ ইলেকট্রনের মোট শক্তি সর্বদাই ঋণাত্মক, অর্থাৎ অসীমের দিকে ইলেকট্রনকে সরিয়ে নিতে হলে কাজ সম্পাদন করতে হয়। এর অর্থ হলো ইলেকট্রন সর্বদা পরমাণুতে আবদ্ধ থাকে। পরমাণুতে আবদ্ধ ইলেকট্রনের মোট শক্তি ধনাত্মক হলে ইলেকট্রন পরমাণুতে আবদ্ধ থাকতে পারতো না।",
+        "explanation": "ব্যাখ্যা: পরমাণুতে ইলেক্ট্রনের মোট শক্তি হলো গতিশক্তি ও পারস্পরিক আকর্ষণজনিত সম্ভাব্য শক্তির যোগ [math]E=T+V[/math]—এখানে সম্ভাব্য শক্তি পারমাণবিক মূলকার্যের কারণে ঋণাত্মক এবং অসীমে মানকে শূন্য ধরা হয়। কুলংগতির ক্ষেত্রে ভাইরিয়াল থিওরেম অনুযায়ী [math]2T+V=0[/math], ফলে [math]E=T+V=-T\u003C0[/math] এবং এর মানে ইলেকট্রন বন্ধধারায় রয়েছে; মুক্ত করতে ধনাত্মক (আয়ননরণ) শক্তি যোগ করতে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 433300,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 433300,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 433300,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 433300,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 433300,
+            "tag_id": 6,
+            "year": "2023",
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 433300,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T07:49:59.000000Z",
+            "updated_at": "2025-08-19T07:49:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433290,
+      "value": {
+        "options": {
+          "ক": "রাদারফোর্ড পরমাণু মডেল সংক্ষেপে লিখ।",
+          "খ": "একটি ইলেকট্রন কীভাবে প্রথম কক্ষ থেকে দ্বিতীয় কক্ষে যেতে পারে?",
+          "গ": "দ্বিতীয় কক্ষপথ থেকে প্রথম কক্ষপথে ইলেকট্রন অবতরণের ফলে নিঃসৃত শক্তি কত হবে?",
+          "ঘ": "সবচেয়ে সরল পরমাণুর ব্যাসার্ধের রাশিমালা বের কর।"
+        },
+        "question": "রাদারফোর্ড মডেলের সমস্যাগুলি দূর করার জন্য বিজ্ঞানী নীলস বোর রাদারফোর্ডের পরীক্ষালব্দ ফলাফলের সাথে প্ল্যাঙ্কের কোয়ান্টাম তত্ত্বকে যুক্ত করে পরমাণুর গঠন সম্পর্কে একটি উপস্থাপন করেন। বোরের মডেল অনুসারে হাইড্রোজেন পরমাণুর নতুন তথ্য স্থায়ী কক্ষপথে একটি ইলেকট্রনের মোট শক্তি [math]E = -13.6 \\ eV[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eরাদারফোর্ডের পরমাণুর মডেল অনুযায়ী পরমাণুর সমস্ত ধনাত্মক চার্জ এবং প্রায় সমস্ত ভর এর কেন্দ্রে স্বল্প পরিসরে পুঞ্জীভূত, যাকে নিউক্লিয়াস বলে। নিউক্লিয়াস ভিন্ন পরমাণুর অভ্যন্তরের অবশিষ্ট অংশ ফাঁকা এবং ইলেকট্রনসমূহ নিউক্লিয়াসকে কেন্দ্র করে বৃত্তাকার কক্ষপথে ঘূর্ণায়মান ৷[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eবোর পরমাণু মডেল অনুযায়ী, একটি ইলেকট্রন [math]E_1 \\sim E_2 = hv[/math]\u003Cbr\u003E পরিমাণ শক্তি শোষণ করে প্রথম কক্ষ থেকে দ্বিতীয় কক্ষে যেতে পারে [যেখানে, [math]E_1[/math]\u003Cbr\u003E = ১ম কক্ষপথের শক্তি, [math]E_2[/math]\u003Cbr\u003E = ২য় কক্ষপথের শক্তি, h = প্ল্যাঙ্কের ধ্রুবক এবং [math]v[/math]\u003Cbr\u003E = শোষিত শক্তির কম্পাঙ্ক ][math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,১ম কক্ষপথে (হাইড্রোজেনের স্থায়ী কক্ষপথ) ইলেকট্রনের শক্তি, [math]E_1 = -13.6 eV[/math]\u003Cbr\u003E২য় কক্ষপথে ইলেকট্রনের শক্তি, [math]E_2 = ?[/math]\u003Cbr\u003E [math]\\therefore \\Delta E = E_2 -E_1[/math]\u003Cbr\u003E= ?আমরা জানি,n-তম কক্ষপথে ইলেকট্রনের শক্তি,[math]\\begin{aligned}\\mathrm{E}_{\\mathrm{n}} & =\\frac{\\mathrm{E}_{1}}{\\mathrm{n}^{2}} \\\\\\mathrm{n}=2 & \\text { } \\\\\\mathrm{E}_{2} & =\\frac{\\mathrm{E}_{1}}{2^{2}} \\\\& =\\frac{-13.6}{4} \\\\& =-3.4 \\mathrm{eV}\\end{aligned}[/math]\u003Cbr\u003Eআবার,[math]\\begin{aligned}\\Delta \\mathrm{E} & =\\mathrm{E}_{2}-\\mathrm{E}_{1} \\\\& =-3.4-(-13.6) \\\\\\therefore \\quad \\Delta \\mathrm{E} & =10.2 \\mathrm{eV}\\end{aligned}[/math]\u003Cbr\u003Eঅর্থাৎ ২য় কক্ষপথ হতে ১ম কক্ষপথে ইলেকট্রন অবতরণে নির্গত শক্তি = 10.2 eV (Ans.)[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eহাইড্রোজেনের পরমাণু সব থেকে সরল, এর পারমাণবিক সংখ্যা 1 অর্থাৎ এতে একটি মাত্র ইলেকট্রন আছে। ধরা যাক ইলেকট্রনের ভর m এবং চার্জ e। সুতরাং, এর নিউক্লিয়াসে ধনাত্মক চার্জের পরিমাণ e। আরো ধরা যাক, হাইড্রোজেনের n তম কক্ষপথের ব্যাসার্ধ [math]r_n[/math]\u003Cbr\u003E এবং ঐ কক্ষপথে ইলেকট্রনের বেগ [math]v_n[/math]\u003Cbr\u003E (চিত্র)। সুতরাং, ইলেকট্রনটির আবর্তনের জন্য [math]\\frac{mv^2_n}{r_n}. প্রয়োজনীয় কেন্দ্রমুখী বল এবং নিউক্লিয়াস ও ইলেকট্রনের মধ্যে আকর্ষণী তাড়িত বল[/math]\u003Cbr\u003E\\frac{1}{4 \\pi \\epsilon_{0}} \\cdot \\frac{e^{2}}{r_{n}^{2}}$ । এ তাড়িত বলই প্রয়োজনীয় কেন্দ্রমুখী বল যোগায় । সুতরাং,[math]\\begin{array}{l}\\frac{m v_{n}^{2}}{r_{n}}=\\frac{1}{4 \\pi \\epsilon_{0}} \\cdot \\frac{e^{2}}{r_{n}^{2}} \\\\v_{n}=\\frac{e}{\\sqrt{4 \\pi \\epsilon_{0} m r_0}}\\end{array}[/math]\u003Cbr\u003Eবোরের প্রথম স্বীকার্য অনুযায়ী n তম কক্ষপথে ইলেকট্রনের কৌণিক ভরবেগ,[math]m v_{n} r_{n}=\\frac{n h}{2 \\pi}[/math]\u003Cbr\u003E [math]v_n[/math]\u003Cbr\u003E এর মান বসিয়ে পাই,[math]\\begin{array}{l}\\therefore \\frac{m e r_{n}}{\\sqrt{4 \\pi \\epsilon_{0} m r_{n}}}=\\frac{n h}{2 \\pi} \\\\\\Rightarrow\\text { } \\frac{m^{2} e^{2} r_{n}^{2}}{4 \\pi \\epsilon_{0} m r_{n}}=\\frac{n^{2} h^{2}}{4 \\pi^{2}} \\\\\\therefore r_{n}=\\frac{n^{2} h^{2} \\epsilon_{0}}{\\pi m e^{2}}\\end{array}[/math]\u003Cbr\u003Eএখন n = 1 হলে, [math]r_1 =\\frac {h^2 \\epsilon_0} {\\pi me^2}[/math]\u003Cbr\u003E-",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E রাদারফোর্ড মডেল বলেঃ পরমাণুর কেন্দ্রভাগে ছোট ও ঘন ধনাত্মক নিউক্লিয়াস রয়েছে যার মধ্যে প্রায় সমগ্র ভর কেন্দ্রীভূত, এবং ইলেকট্রনগুলো নিউক্লিয়াসের চারপাশে শূন্য স্থানে পৃথিবীর মত পরিভ্রমণ করে। এই মডেল ব্যাখ্যা করলেও ইলেকট্রনের স্থায়িত্ব ও রেখীয় স্পেকট্রাম ব্যাখ্যা করতে পারে না।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E প্রথম কক্ষ থেকে দ্বিতীয় কক্ষে উঠতে ইলেকট্রনকে বাহ্যিকভাবে সেই দুই স্তরের মধ্যে শক্তির পার্থক্য সমপরিমাণ শোষিত ফোটনের শক্তি পেতে হয়; এখানে [math]E_1=-13.6\\ eV,\\ E_2=-3.4\\ eV[/math] তাই [math]\\Delta E=E_2-E_1=10.2\\ eV[/math] শক্তির ফোটন শোষণ করলে উঠে যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দ্বিতীয় কক্ষপথ থেকে প্রথম কক্ষে অবতরণে সেইই শক্তি ফেরত নির্গত হয়, অর্থাৎ একটি ফোটন হিসেবে [math]10.2\\ eV[/math] নিঃসৃত হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বোর মডেলে পরমাণুর কক্ষপথের ব্যাসার্ধের সূত্র [math]r_n=n^2 a_0[/math] যেখানে [math]a_0=\\dfrac{4\\pi\\epsilon_0\\hbar^2}{m_e e^2}\\approx5.29\\times10^{-11}\\ \\text{m}[/math] (প্রাথমিক কক্ষপথে n=1 হলে [math]r_1=a_0[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 433290,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:49:58.000000Z",
+            "updated_at": "2025-08-19T07:49:58.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433289,
+      "value": {
+        "options": {
+          "ক": "নিউক্লিয়ন কী?",
+          "খ": "ভর-ত্রুটি বলতে কী বুঝ?",
+          "গ": "হাইড্রোজেন পরমাণু থেকে বিকিরিত সর্বনিম্ন তরঙ্গদৈর্ঘ্য নির্ণয় কর ।",
+          "ঘ": "দৃশ্যমান আলোর জন্য ইলেকট্রনের অবস্থান্তর দেখাও। এদের মধ্যে কোনটি লাল এবং কোনটি বেগুনী তা চিহ্নিত করে কারণ ব্যাখ্যা কর।"
+        },
+        "question": "চিত্রে হাইড্রোজেন পরমাণুর কিছু শক্তি লেভেল দেখানো হয়েছে। শুধু [math]3.40 \\ eV[/math] শক্তিস্তরে ইলেকট্রন অবস্থান্তরের ক্ষেত্রে দৃশ্যমান আলো বিকিরিত হয়।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22036-8_1755589798_4f8n4RUI.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eনিউক্লিয়াসে যেসব কণা থাকে বা নিউক্লিয়াস যেসব কণা সমন্বয়ে গঠিত তাদেরকে নিউক্লিয়ন বলে ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eকোনো নিউক্লিয়াসের ভর এর মধ্যে অবস্থিত নিউক্লিয়নগুলোর ভরের সমষ্টি অপেক্ষা সামান্য কম। অর্থাৎ নিউক্লিয়নগুলো মিলিত হয়ে নিউক্লিয়াস গঠনের সময় কিছুটা ভর অদৃশ্য হয়। একে ভর-ত্রুটি বলে ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eআমরা জানি, যখন ইলেকট্রন উচ্চ শক্তি স্তর থেকে নিম্ন শক্তি স্তরে গমন করে তখন শক্তি স্তরদ্বয়ের শক্তির পার্থক্যের সমান শক্তি সম্পন্ন ফোটন নির্গত হয়। নির্গত ইলেকট্রনে তরঙ্গ দৈর্ঘ্য সর্বাপেক্ষা কম হতে হলে কম্পাঙ্ক তথা শক্তি সর্বোচ্চ হতে হবে। নির্গত ফোটনের শক্তি সর্বোচ্চ হবে যদি ইলেকট্রন 0 eV থেকে 13.6 ev গমন করে । - এক্ষেত্রে নির্গত ফোটনের শক্তি হবে 0.eV – (– 13.6 eV) = 13.6 eV = 13.6 × 1.6 × [math]10^{-19} J = 21.76 × 10^{-19}[/math]\u003Cbr\u003E J।আমরা জানি,[math]\\begin{aligned}& E=h f \\\\\\therefore \\quad & f=\\frac{E}{h}=\\frac{21.76 \\times 10^{-19} \\mathrm{~J}}{6.63 \\times 10^{-34} \\mathrm{~J} \\cdot \\mathrm{s}}=3.282 \\times 10^{15} \\mathrm{~Hz}\\end{aligned}[/math]\u003Cbr\u003Eআবার, c = [math]f\\lambda[/math]\u003Cbr\u003E [math]\\begin{aligned}\\therefore \\quad \\lambda=\\frac{c}{f} & =\\frac{3 \\times 10^{8} \\mathrm{~m} \\cdot \\mathrm{s}^{-1}}{3.282 \\times 10^{15} \\mathrm{~Hz}} \\\\& =914 \\times 10^{-10} \\mathrm{~m} \\\\& =914 A^\\circ\\end{aligned}[/math]\u003Cbr\u003Eএটিই হাইড্রোজেন পরমাণু থেকে নির্গত বিকিরণের সর্বনিম্ন তরঙ্গ দৈর্ঘ্য।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003En = = 2 থেকে n = 1 স্তরে ইলেকট্রন গমনের ক্ষেত্রে নির্গত ফোটনের শক্তি হবে – 3.40 eV. - ( - 13.6 eV) = 10.2 eV = 10.2 × 1.6 × [math]10^{-19} J = 16.32 × 10^{-19}[/math]\u003Cbr\u003E J।সুতরাং কম্পাঙ্ক [math]f=\\frac{E}{h}=\\frac{16.32 \\times 10^{-19} \\mathrm{~J}}{6.63 \\times 10^{-34} \\mathrm{~J} \\cdot \\mathrm{s}}=2.4615 \\times 10^{15} \\mathrm{~Hz}[/math]\u003Cbr\u003Eএবং তরঙ্গ দৈর্ঘ্য,[math]\\begin{aligned}\\dot{\\lambda}=\\frac{c}{f}=\\frac{3 \\times 10^{8} \\mathrm{~m} \\cdot \\mathrm{s}^{-1}}{2.4615 \\times 10^{15} \\mathrm{~Hz}}= & 1218.77 \\times 10^{-10} \\mathrm{~m} \\\\& =1218.77^\\circ \\end{aligned}[/math]\u003Cbr\u003Eযা দৃশ্যমান আলোর তরঙ্গ দৈর্ঘ্যের নিম্ন সীমা [math]4000^A\\circ[/math]\u003Cbr\u003E অপেক্ষা ছোট n = 3, 4, . . থেকে n = 1 স্তরে ইলেকট্রন গমনের ক্ষেত্রে নির্গত ফোটনের তরঙ্গ দৈর্ঘ্য আরো ছোট ।আবার, n = ∞ থেকে n = 3 স্তরে ইলেকট্রন গমনের ক্ষেত্রে নির্গত ফোটনের শক্তি হবে 0 eV - ( - 1.51 eV) = 1.51 eV = 1.51 × 1.6 [math]\\times 10^{-19} J = 2.416 × 10^{-19}[/math]\u003Cbr\u003E । সুতরাং কম্পাঙ্ক[math]f=\\frac{E}{h}=\\frac{2.416 \\times 10^{-19} \\mathrm{~J}}{6.63 \\times 10^{-34} \\mathrm{~J} \\cdot \\mathrm{s}}=0.3644 \\times 10^{15} \\mathrm{~Hz}[/math]\u003Cbr\u003Eএবং তরঙ্গ দৈর্ঘ্য,[math]\\lambda=\\frac{c}{f}=\\frac{3 \\times 10^{8} \\mathrm{~m} \\cdot \\mathrm{s}^{-1}}{0.3644 \\times 10^{15} \\mathrm{~Hz}}=8232 \\times 10^{-10} \\mathrm{~m}=8232 A^\\circ[/math]\u003Cbr\u003Eযা দৃশ্যমান আলোর তরঙ্গ দৈর্ঘ্যের ঊর্ধ্ব সীমা 7000 [math]A\\circ[/math]\u003Cbr\u003E অপেক্ষা বড়। n = 3, 4, . . থেকে n = 1 স্তরে ইলেকট্রন গমনের ক্ষেত্রে নির্গত ফোটনের তরঙ্গ দৈর্ঘ্য আরো ছোট ।শুধুমাত্র n = 3, 4, . . থেকে n = 2 স্তরে ইলেকট্রন গমনের ক্ষেত্রে নির্গত ফোটনের তরঙ্গ দৈর্ঘ্য হবে দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্য সীমার মধ্যে সুতরাং হাইড্রোজেনের দৃশ্যমান বর্ণলীর জন্য ইলেকট্রনের অবস্থান্তর নিচের চিত্রের সাহায্যে দেখানো যায়। এর মধ্যে সব থেকে কম শক্তির বিকিরণ হবে লাল এবং সব থেকে বেশি শক্তির বিকিরণ হবে বেগুনী-",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নিউক্লিয়ন হল পারমাণবিক নিউক্লিয়াসের গঠনকারী কণাগুলো — প্রোটন ও নিউট্রন।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভর-ত্রুটি হলো পৃথক নিউক্লিয়নের মোট ভরের এবং সেই নিউক্লিয়াসের প্রকৃত ভরের পার্থক্য, যা বন্ডিং এনার্জিতে রূপান্তরিত হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E হাইড্রোজেনের শক্তি স্তর [math]E_n=-\\dfrac{13.6\\ \\text{eV}}{n^2}[/math], তাই [math]n=2[/math] এ [math]E_2=-3.40\\ \\text{eV}[/math]; সিরিজ সীমা (স্বল্পতম তরঙ্গদৈর্ঘ্য) জন্য ফোটনের শক্তি [math]3.40\\ \\text{eV}[/math], ফলে [math]\\lambda=\\dfrac{1240\\ \\text{eV·nm}}{3.40\\ \\text{eV}}\\approx 365\\ \\text{nm}[/math]।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দৃশ্যমান লাইনগুলো হলো বালমার সিরিজ: [math]3\\to2,\\ 4\\to2,\\ 5\\to2,\\ 6\\to2,\\dots[/math]; [math]3\\to2[/math] (প্রায় [math]656\\ \\text{nm}[/math]) হলো লাল কারণ এর তরঙ্গদৈর্ঘ্য দীর্ঘতর, আর [math]5\\to2[/math] (≈[math]434\\ \\text{nm}[/math]) ও [math]6\\to2[/math] (≈[math]410\\ \\text{nm}[/math]) ছোট তরঙ্গদৈর্ঘ্যের ফলে বেগুনী/নীলাভ দেখায় — রঙ নির্ধারিত হয় তরঙ্গদৈর্ঘ্যের ওপর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 433289,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:49:58.000000Z",
+            "updated_at": "2025-08-19T07:49:58.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433288,
+      "value": {
+        "options": {
+          "ক": "অর্ধায়ু কাকে বলে?",
+          "খ": "[math]\\text{X-ray}[/math] চৌম্বক ক্ষেত্র দ্বারা বিক্ষিপ্ত হয় না—ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের পরমাণুর তৃতীয় কক্ষপথের ব্যাসার্ধ নির্ণয় কর।",
+          "ঘ": "আঘাতপ্রাপ্ত ইলেকট্রনটির কী পরিণতি হয়েছিল গাণিতিক বিশ্লেষণের সাহায্যে মতামত দাও।"
+        },
+        "question": "হাইড্রোজেন পরমাণুর প্রথম কক্ষের ব্যাসার্ধ ও শক্তি যথাক্রমে [math]0.53\\ \\mathring{\\rm{A}}[/math] এবং – [math]13.6\\ eV[/math]। [math]2.46 \\times 10^{15} \\mathrm{~Hz}[/math] কম্পাঙ্কের ফোটন দ্বারা উক্ত পরমাণুর প্রথম কক্ষের ইলেকট্রনকে আঘাত করা হলো। প্ল্যাংকের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযে সময়ে কোনো তেজস্ক্রিয় পদার্থের ঠিক অর্ধেক পরিমাণ পরমাণু ভেঙে যায়, তাকে ঐ পদার্থের অর্ধায়ু বলে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003EX-ray এক ধরনের তড়িৎ চুম্বকীয় তরঙ্গ। এটি চার্জ নিরপেক্ষ। আমরা জানি, আহিত বা চার্জযুক্ত কণা তড়িৎ ও চুম্বক ক্ষেত্র দ্বারা বিক্ষিপ্ত হয়। X-ray চার্জ নিরপেক্ষ অর্থাৎ আহিত কণা না হওয়ায় চৌম্বক ক্ষেত্র দ্বারা বিক্ষিপ্ত হয় না। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, হাইড্রোজেন পরমাণুর তৃতীয় কক্ষপথের ব্যাসার্ধ [math]r_3[/math]\u003Cbr\u003Eউদ্দীপক হতে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{~J} \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশূন্যস্থানের ভেদনযোগ্যতা, [math]\\epsilon_{0}=8.854 \\times 10^{-12} \\mathrm{~N}^{-1} \\mathrm{~m}^{-2} \\mathrm{C}^{2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের ভর, [math]\\mathrm{m}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের আধান, [math]\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকোয়ান্টাম সংখ্যা, n = 3আমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{r}_{\\mathrm{n}} & =\\frac{\\mathrm{n}^{2} \\mathrm{~h}^{2} \\in_{0}}{\\pi \\mathrm{me}^{2}} \\\\ & =\\frac{3^{2} \\times\\left(6.63 \\times 10^{-34} \\mathrm{Js}\\right)^{2} \\times 8.854 \\times 10^{-12} \\mathrm{~N}^{-1} \\mathrm{~m}^{-2} \\mathrm{C}^{2}}{3.14 \\times 9.1 \\times 10^{-31} \\mathrm{Js} \\times\\left(1.6 \\times 10^{-19} \\mathrm{C}\\right)^{2}} \\\\ & =4.788 \\times 10^{-10} \\mathrm{~m} \\end{aligned}[/math]\u003Cbr\u003Eসুতরাং পরমাণুর তৃতীয় কক্ষপথের ব্যাসার্ধ [math]4.788 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক অনুসারে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eফোটনের কম্পাঙ্ক, [math]v=2.46 \\times 10^{15} \\mathrm{~Hz}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]h=6.63 \\times 10^{-34} \\mathrm{~J}_{\\mathrm{S}}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eফোটনের শক্তি, E =?আমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{E}=\\mathrm{h} v & =6.63 \\times 10^{-34} \\mathrm{Js} \\times 2.46 \\times 10^{15} \\mathrm{~Hz} \\\\ & =1.63098 \\times 10^{-18} \\mathrm{~J} \\\\ & =\\frac{1.63098 \\times 10^{-18}}{1.6 \\times 10^{-19}} \\mathrm{eV}=10.2 \\mathrm{eV} \\end{aligned}[/math]\u003Cbr\u003Eইলেকট্রনের ১ম কক্ষপথের শক্তি, [math]\\mathrm{E}_{1}=-13.6 \\mathrm{eV}[/math]\u003Cbr\u003Eএবং ২য় কক্ষপথের শক্তি, [math]\\mathrm{E}_{2}=-3.4 \\mathrm{eV}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ১ম কক্ষপথ থেকে ২য় কক্ষপথে যেতে প্রয়োজনীয় শক্তি, [math]\\mathrm{E}_{2}-\\mathrm{E}_{1}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}=-3.4 \\mathrm{eV}-(-13.6 \\mathrm{eV})=-3.4 \\mathrm{eV}+13.6 \\mathrm{eV}=10.2 \\mathrm{eV}[/math]\u003Cbr\u003Eউপরের গাণিতিক বিশ্লেষণ হতে দেখা যায় যে, ফোটন দ্বারা ইলেকট্রনকে আঘাত করায় ইলেকট্রনটি 10.2 eV শক্তি অর্জন করে যা ১ম কক্ষপথ থেকে ২য় কক্ষপথে যাওয়ার জন্য প্রয়োজনীয় শক্তির সমান। অর্থাৎ আঘাতপ্রাপ্ত ইলেকট্রনটি ১ম কক্ষপথ থেকে ২য় কক্ষপথে প্রবেশ করবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E অর্ধায়ু হল বোহর মডেলে কোনো কক্ষপথের কেন্দ্র (পারমাণবিক-কেন্দ্র) থেকে ইলেকট্রন হতে পরিমাপ করা দূরত্ব; প্রথম কক্ষপথের অর্ধায়ুকে সাধারণত বোহর বিকিরণ ধ্রুবক [math]a_0[/math] বলা হয় (এখানে [math]0.53\\ \\mathring{\\rm A}[/math])। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]\\text{X-ray}[/math] ফোটন নিরপেক্ষ কণিকাই—এগুলোতে চার্জ নেই, তাই ম্যাগনেটিক ক্ষেত্রের দ্বারা সরাসরি লোরেন্জ বল প্রযোজ্য হয় না; ফলে সাধারণভাবে একটি স্থির চৌম্বক ক্ষেত্র X-ray কণাকে বিচ্যুত করে না (কেবল চার্জযুক্ত কণার মাধ্যমে পরোক্ষভাবে প্রভাব পড়তে পারে)। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E তৃতীয় কক্ষপথের ব্যাসার্ধ বোহর সূত্র অনুসারে [math]r_n=n^2 r_1[/math]; তাই [math]r_3=3^2\\times0.53\\ \\mathring{\\rm A}=9\\times0.53\\ \\mathring{\\rm A}=4.77\\ \\mathring{\\rm A}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ফোটনের শক্তি হচ্ছে [math]E=h\\nu=6.63\\times10^{-34}\\times2.46\\times10^{15}=1.631\\times10^{-18}\\ {\\rm J}\\approx10.18\\ {\\rm eV}[/math]। আইনাইজেশনের জন্য প্রয়োজন [math]13.6\\ {\\rm eV}[/math] যা বেশি, তাই ইলেকট্রন আয়নকরণ হয়নি; প্রথম কক্ষ থেকে দ্বিতীয় কক্ষে ওঠার জন্য প্রয়োজন শক্তি [math]E_{2}-E_{1}=13.6\\left(1-\\tfrac{1}{4}\\right)=10.2\\ {\\rm eV}[/math], যা ফোটনের [math]10.18\\ {\\rm eV}[/math]‑এর কাছাকাছি—সুতরাং ইলেকট্রনটি মূলত দ্বিতীয় কক্ষে উদ্দীপিত হয়েছে (ছোটতম তফাত থাকলে সংবহন/রিকোয়েল বা রেখার প্রলম্বনতার কারণে বাস্তবে উত্তরণ ঘটতে পারে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 433288,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 433288,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 433288,
+            "tag_id": 4,
+            "year": "2016",
+            "created_at": "2025-08-19T07:49:57.000000Z",
+            "updated_at": "2025-08-19T07:49:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433287,
+      "value": {
+        "options": {
+          "ক": "জড় প্রসঙ্গ কাঠামো কী?",
+          "খ": "“কোনো ধাতুর ফটোতড়িৎ ক্রিয়া তার সূচন কম্পাঙ্কের উপর নির্ভরশীল”— ব্যাখ্যা কর।",
+          "গ": "চিত্র (i) এ ইলেকট্রনটি যে কক্ষপথে অবস্থিত তার ব্যাসার্ধ নির্ণয় কর।",
+          "ঘ": "কোন চিত্রে ইলেকট্রনের কক্ষচ্যুতি ঘটবে? গাণিতিক বিশ্লেষণের সাহায্যে মন্তব্য কর।"
+        },
+        "question": "উভয় চিত্রে [math]H_2[/math] পরমাণুর মডেল দেখানো হলো :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-29-tp-cq-4_1755589797_ud2TQfZ2.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[ [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js} ; \\epsilon_{0}=8.85 \\times 10^{-12} \\mathrm{C}^{2} \\mathrm{~N}^{-1} \\mathrm{~m}^{-2}[/math] [math]H_2[/math] পরমাণুর ভূমি অবস্থার শক্তি [math]= 13.6\\ eV[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপরস্পরের সাপেক্ষে ধ্রুববেগে গতিশীল যে সকল প্রসঙ্গ কাঠামোতে নিউটনের গতিসূত্র অর্জন করা যায় সে সকল কাঠামোই জড় প্রসঙ্গ কাঠামো। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eযথোপযুক্ত উচ্চ কম্পাঙ্করিশিষ্ট আলোকরশ্মি কোনো ধাতব পৃষ্ঠে আপতিত হলে তা থেকে ইলেকট্রন নিঃসৃত হয়। এ ঘটনাকে ফটোতড়িৎ ক্রিয়া বলে। আবার ন্যূনতম যে কম্পাঙ্কের চেয়ে কম কম্পাঙ্ক বিশিষ্ট আলো ঐ ধাতু থেকে ইলেকট্রন নির্গত করতে পারে না সে কম্পাঙ্কই সূচন কম্পাঙ্ক। অর্থাৎ‍ সূচন কম্পাঙ্কে আলোকরশ্মি আপতিত হলেই শুধুমাত্র ফটোতড়িৎ ক্রিয়া ঘটে। এজন্য কোনো ধাতুর ফটোতড়িৎ ক্রিয়া তার সূচন কম্পাঙ্কের উপর নির্ভরশীল। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eচিত্র (i) এ ইলেকট্রনটি ১ম বোর কক্ষপথে অবস্থিতধরি, প্রথম বোর কক্ষপথের ব্যাসার্ধ [math]r_1[/math]\u003Cbr\u003Eউদ্দীপক হতে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের আধান, [math]e=1.6 \\times 10^{-19} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{~J} \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশূন্য স্থানের ভেদনযোগ্যতা, [math]\\epsilon_{0}=8.854 \\times 10^{-12} \\mathrm{~N}^{-1} \\mathrm{~m}^{-2} \\mathrm{C}^{2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের ভর, [math]\\mathrm{m}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকোয়ান্টাম সংখ্যা, n = 1আমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} r_n&=\\frac{\\mathrm{n}^{2} \\mathrm{~h}^{2} \\epsilon_{0}}{\\pi \\mathrm{me}^{2}} \\\\ &=\\frac{1^{2} \\times\\left(6.63 \\times 10^{-34} \\mathrm{Js}\\right)^{2} \\times 8.85 \\times 10^{-12} \\mathrm{~N}^{-1} \\mathrm{~m}^{-2} \\mathrm{C}^{2}}{3.14 \\times 9.1 \\times 10^{-31} \\mathrm{~kg} \\times\\left(1.6 \\times 10^{-19} \\mathrm{C}\\right)^{2}} \\\\ &=0.532 \\times 10^{-10} \\\\ &= 0.532 \\mathring{A}\\end{aligned}[/math]\u003Cbr\u003Eসুতরাং কক্ষপথের ব্যাসার্ধ [math]0.532 \\mathring{A}[/math]\u003Cbr\u003E।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক অনুসারে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচিত্র (i) এ আপতিত ফোটনের তরঙ্গদৈর্ঘ্য, [math]\\lambda_{1}=2500 \\mathring{A} =2500 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচিত্র (ii) এ আপতিত ফোটনের তরঙ্গদৈর্ঘ্য, [math]\\lambda_{2}=4500 \\mathring{A} =4500 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{~J} \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআলোর বেগ, [math]\\mathrm{c}=3 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eধরি, চিত্র (i) এর ফোটনের শক্তি, [math]\\mathrm{E}_{1}[/math]\u003Cbr\u003Eএবং চিত্র (ii) এর ফোটনের শক্তি, [math]\\mathrm{E}_{2}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{E}_{1} & =h v_{1} \\\\ & =\\mathrm{h} \\frac{\\mathrm{c}}{\\lambda_{1}} \\\\ & =\\frac{6.63 \\times 10^{-34} \\mathrm{Js} \\times 3 \\times 10^{8} \\mathrm{~ms}^{-1}}{2500 \\times 10^{-10} \\mathrm{~m}} \\\\ & =7.956 \\times 10^{-19} \\mathrm{~J} \\\\ & =\\frac{7.956 \\times 10^{-19}}{1.6 \\times 10^{-19} \\mathrm{eV}} \\\\ & =4.9725 \\mathrm{eV} \\end{aligned}[/math]\u003Cbr\u003Eআবার,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{E}_{2} & =h v_{2} \\\\ & =h \\frac{\\mathrm{c}}{\\lambda_{2}} \\\\ & =\\frac{6.63 \\times 10^{-34} \\mathrm{Js} \\times 3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}}{4500 \\times 10^{-10} \\mathrm{~m}} \\\\ & =4.42 \\times 10^{-19} \\mathrm{~J} \\\\ & =\\frac{4.42 \\times 10^{-19}}{1.6 \\times 10^{-19}} \\mathrm{eV} \\\\ & =2.7625 \\mathrm{eV} \\end{aligned}[/math]\u003Cbr\u003Eআমরা জানি,১ম শক্তিস্তর হতে ২য় শক্তিস্তরে যেতে ইলেকট্রনের প্রয়োজনীয় শক্তি[math]\\hspace{3.5 cm}\\begin{array}{l} =-3.4 \\mathrm{eV}-(-13.6 \\mathrm{eV}) \\\\ =-3.4 \\mathrm{eV}+13.6 \\mathrm{eV} \\\\ =10.2 \\mathrm{eV} \\end{array}[/math]\u003Cbr\u003Eযেহেতু উদ্দীপকের কোনো চিত্র থেকে প্রয়োজনীয় শক্তির বিকিরণ ঘটেনি সেহেতু ইলেকট্রনের কক্ষচ্যুতি ঘটবে না।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E জড় প্রসঙ্গ কাঠামো হলো এমন একটি দ্রুতি-স্বাধীন রেফারেন্স ফ্রেম যেখানে নিউটনের প্রথম সূত্র প্রযোজ্য (অবজেক্টে বাহ্যিক বল না থাকলে তা সমগতিতেই থাকে); অর্থাৎ ফ্রেমটি ত্বরণহীন।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ফটোইলেকট্রিক ক্ষেত্রে কোনো ধাতুর ইলেকট্রন নির্গমনের জন্য ন্যূনতম ফ্রিকোয়েন্সি (থ্রেশহোল্ড) থাকা আবশ্যক, কারণ কাজ ফাংশন [math]\\phi[/math] এবং [math]\\phi=h\\nu_0[/math] দ্বারা সংজ্ঞায়িত; যদি [math]\\nu\u003C\\nu_0[/math] হয় কোন ইলেকট্রন বের হবে না, আর [math]K_{\\max}=h\\nu-\\phi[/math] দ্বারা নির্গত ইলেকট্রনের সর্বোচ্চ কাইনেটিক শক্তি ফ্রিকোয়েন্সির ওপর নির্ভর করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E চিত্র (i)-এর জন্য যদি বোএর মডেল ধরা হয় তো ভূমি কক্ষপথের ব্যাসার্ধ (n=1, Z=1) হলো বোএর ব্যাসার্ধ:\n[math]r_1=\\dfrac{4\\pi\\epsilon_0 h^2}{m_e e^2}=a_0\\approx 5.29\\times10^{-11}\\ \\mathrm{m}.[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কক্ষচ্যুতি ঘটে না — বোএর মডেলে স্থিতিশীল কক্ষপথের শর্ত দিলে সাধারণভাবে\n[math]r_n=\\dfrac{4\\pi\\epsilon_0 h^2}{m_e e^2}\\dfrac{n^2}{Z}=a_0\\dfrac{n^2}{Z}[/math]\nপাওয়া যায়; Z মানের ক্রমবৃদ্ধি কেবল ব্যাসার্ধ কমায় (ধ্বংসাত্মক ভূপুঞ্জে \"ধ্বস\" নয়), তাই প্রদত্ত চিত্রগুলোর মধ্যে কোনটিতেই স্বতঃস্ফূর্ত কক্ষচ্যুতি ঘটে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 433287,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 433287,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 433287,
+            "tag_id": 1,
+            "year": "2016",
+            "created_at": "2025-08-19T07:49:57.000000Z",
+            "updated_at": "2025-08-19T07:49:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433286,
+      "value": {
+        "options": {
+          "ক": "তড়িৎ বিভব কী?",
+          "খ": "সকল কম্পাঙ্কের আলোর জন্য ফটোতড়িৎ ক্রিয়া সম্পন্ন হয় না— ব্যাখ্যা কর।",
+          "গ": "দ্বিতীয় কক্ষপথের ব্যাসার্ধ নির্ণয় কর।",
+          "ঘ": "ফোটন দ্বারা আঘাতের পর ইলেকট্রনটির কি ঘটেছিল গাণিতিক বিশ্লেষণসহ মতামত দাও।"
+        },
+        "question": "ভূমি অবস্থায় হাইড্রোজেন পরমাণুর ইলেকট্রনের শক্তি [math]- 13.6\\ eV[/math]। ভূমি অবস্থার ইলেকট্রনকে [math]8.2 \\times 10^{14} \\mathrm{~Hz}[/math] কম্পাঙ্কের একটি ফোটন দ্বারা আঘাত করা হলো। এখানে, [math]\\mathrm{m}_\\rm{e}=9.1 \\times 10^{-31} \\mathrm{~kg}, \\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C}, \\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js}[/math] এবং [math]t_{0}=8.85 \\times 10^{-12} \\mathrm{C}^{2} \\mathrm{~N}^{-1} \\mathrm{~m}^{-2}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eঅসীম দূর থেকে একক ধনাত্মক আধানকে তড়িৎ ক্ষেত্রের কোনো বিন্দুতে আনতে কৃতকাজের পরিমাণই হলো তড়িৎ বিভব। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eযথোপযুক্ত উচ্চ কম্পাঙ্কবিশিষ্ট আলোকরশ্মি কোনো ধাতব পৃষ্ঠে আপতিত হলে তা থেকে ইলেকট্রন নিঃসৃত হয়। এ ঘটনাকে ফটোতড়িৎ ক্রিয়া বলে। আবার ন্যূনতম যে কম্পাঙ্কের চেয়ে কম কম্পাঙ্ক বিশিষ্ট আলো ঐ ধাতু থেকে ইলেকট্রন নির্গত করতে পারে না সে কম্পাঙ্কই সূচন কম্পাঙ্ক। অর্থাৎ‍ সূচন কম্পাঙ্কে আলোকরশ্মি আপতিত হলেই শুধুমাত্র ফটোতড়িৎ ক্রিয়া ঘটে। এজন্য সকল কম্পাঙ্কের আলোর জন্য ফটোতড়িৎ ক্রিয়া সম্পন্ন হয় না। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের ভর, [math]\\mathrm{m}_{\\mathrm{e}}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকোয়ান্টাম সংখ্যা, n = 2[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের আধান, [math]e=1.6 \\times 10^{-19} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্লাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশূন্যস্থানের ভেদনযোগ্যতা, [math]\\epsilon_{0}=8.85 \\times 10^{-12} \\mathrm{C}^{2} \\mathrm{~N}^{-1} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eদ্বিতীয় কক্ষপথের ব্যাসার্ধ, [math]r_2=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{r}_{\\mathrm{n}} & =\\frac{\\mathrm{n}^{2} \\mathrm{~h}^{2} \\epsilon_{0}}{\\pi \\mathrm{m}_{\\mathrm{e}} \\mathrm{e}^{2}} \\\\ \\Rightarrow \\mathrm{r}_{2} & =\\frac{2^{2} \\times\\left(6.63 \\times 10^{-34} \\mathrm{Js}\\right)^{2} \\times\\left(8.85 \\times 10^{-12} \\mathrm{C}^{2} \\mathrm{~N}^{-1} \\mathrm{~m}^{-2}\\right)}{3.1416 \\times 9.1 \\times 10^{-31} \\mathrm{~kg} \\times\\left(1.6 \\times 10^{-19} \\mathrm{C}\\right)^{2}} \\\\ & =2.13 \\times 10^{-10} \\mathrm{~m}=2.13 \\mathring{A}\\end{aligned}[/math]\u003Cbr\u003Eসুতরাং দ্বিতীয় কক্ষপথের ব্যাসার্ধ্য [math]2.13 \\mathring{A}[/math]\u003Cbr\u003E।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eফোটনের কম্পাঙ্ক, [math]f=8.2 \\times 10^{14} \\mathrm{~Hz}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]h=6.63 \\times 10^{-34} \\mathrm{Js}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eফোটনের শক্তি, E= ?আমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{E} & =\\mathrm{hf} \\\\ & =6.63 \\times 10^{-34} \\mathrm{Js} \\times 8.2 \\times 10^{14} \\mathrm{~Hz} \\\\ & =5.4360 \\times 10^{-19} \\mathrm{~J}=3.4 \\mathrm{eV} \\end{aligned}[/math]\u003Cbr\u003Eইলেকট্রনের ১ম কক্ষপথের শক্তি, [math]E_{1}=-13.6 \\mathrm{eV}[/math]\u003Cbr\u003Eইলেকট্রনের ২য় কক্ষপথের শক্তি, [math]E_{2}=-3.4 \\mathrm{eV}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ১ম কক্ষপথ থেকে ২য় কক্ষপথে যেতে প্রয়োজনীয় শক্তি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{E}^{\\prime} & =\\mathrm{E}_{2}-\\mathrm{E}_{1}=-3.4 \\mathrm{eV}+13.6 \\mathrm{eV} \\\\ \\therefore \\mathrm{E}^{\\prime} & =10.2 \\mathrm{eV} \\end{aligned}[/math]\u003Cbr\u003Eফোটন দ্বারা আঘাত করায় ইলেকট্রনের অর্জিত শক্তি, E = 3.4 eV যেহেতু [math]E",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ভূমি অবস্থার ইলেকট্রনের সংবদ্ধ তড়িৎ শক্তি (পটেনশিয়াল এনার্জি) হলো [math]U=2E_1=2(-13.6\\ \\mathrm{eV})=-27.2\\ \\mathrm{eV}[/math], তাই তড়িৎ বিভব [math]V=\\dfrac{U}{q_e}=\\dfrac{-27.2\\ \\mathrm{eV}}{-e}=27.2\\ \\mathrm{V}[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ফটোতড়িৎ ঘটবে শুধুমাত্র যখন ফোটনের শক্তি আয়নন শক্তি বা কোন দ্বি-স্তরের ফারককে মিলিয়ে দেয়; এখানে প্রয়োজনীয় থ্রেশহোল্ড কম্পাঙ্ক [math]\\nu_0=\\dfrac{13.6\\ \\mathrm{eV}\\times1.6\\times10^{-19}}{6.63\\times10^{-34}}\\approx3.28\\times10^{15}\\ \\mathrm{Hz}[/math], তাই সব কম্পাঙ্কের আলোর জন্য ফটোতড়িৎ সম্পন্ন হয় না।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দ্বিতীয় কক্ষে ব্যাসার্ধ বোর সূত্রে [math]r_n=n^2a_0[/math] এবং [math]a_0\\approx5.29\\times10^{-11}\\ \\mathrm{m}[/math], তাই [math]r_2=4a_0=2.12\\times10^{-10}\\ \\mathrm{m}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ফোটনের শক্তি [math]E_{ph}=h\\nu=6.63\\times10^{-34}\\times8.2\\times10^{14}=5.44\\times10^{-19}\\ \\mathrm{J}=3.40\\ \\mathrm{eV}[/math]; যদি এটি শোষিত হতো মোট এনার্জি হবে [math]-13.6+3.40=-10.20\\ \\mathrm{eV}[/math], যা কোনো বোর স্তরের [math]E_n=-13.6/n^2[/math] সঙ্গে মিলে না (গণনায় [math]n\\approx1.155[/math], পূর্ণ সংখ্যা নয়), অতএব ফোটনটি আয়ন করতে অপর্যাপ্ত এবং কোনো অনুমতিবদ্ধ পথে উত্তেজিতও করে না — ইলেকট্রন মূল অবস্থাতেই থাকে আর ফোটনটি বিকিরণ/প্রতিফলিত হতে পারে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 433286,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 433286,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 433286,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T07:49:55.000000Z",
+            "updated_at": "2025-08-19T07:49:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433285,
+      "value": {
+        "options": {
+          "ক": "সূচন কম্পাঙ্ক কাকে বলে?",
+          "খ": "কোনো বস্তুর বেগ ফোটনের বেগের সমান হতে পারে না ব্যাখ্যা কর।",
+          "গ": "ভূমি অবস্থার শক্তি [math]-13.6\\ eV[/math] হলে ইলেক্ট্রন প্রথমে কোন শক্তি স্তরে ছিল?",
+          "ঘ": "নিঃসরিত বিকিরণটি দৃশ্যমান হবে কি? যাচাই কর।"
+        },
+        "question": "একটি হাইড্রোজেন পরমাণুর ইলেক্ট্রন [math]-1.5\\ eV[/math] শক্তি অবস্থা হতে। [math]3.4\\ eV[/math] শক্তি অবস্থায় আসে। [ [math]\\mathrm{e}=3 \\times 10^{8} \\mathrm{~ms}^{-1}, \\mathrm{~h}=6.63 \\times 10^{-34} \\mathrm{Js}, 1\\ \\mathrm{eV}=1.6 \\times 10^{-19} \\mathrm{~J}[/math] দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের পাল্লা [math]4 \\times 10^{-7} \\mathrm{~m}[/math] হতে [math]8 \\times 10^{-7} \\mathrm{~m}[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eআপতিত ফোটনের কম্পাঙ্কের যে ন্যূনতম মানের জন্য ধাতব পৃষ্ঠ হতে ইলেকট্রন নির্গত হতে পারে সেই কম্পাঙ্ককে সূচন কম্পাঙ্ক বলে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eভরের আপেক্ষিকতা থেকে আমরা জানি, [math]\\mathrm{m}=\\dfrac{\\mathrm{m}_{0}}{1-\\frac{v^{2}}{c^{2}}}[/math]\u003Cbr\u003Eযদি কোনো বস্তুর বেগ ফোটনের বেগের সমান হয় অর্থাৎ, v = c হয় তবে এই সমীকরণ অনুসারে বস্তুর ভর অসীম হয়ে যায়। যা সম্ভব নয়। সুতরাং, কোনো বস্তু ফোটনের সমান বেগে চলতে পারে না। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eভূমি অবস্থার শক্তি, [math]\\mathrm{E}_{1}=-13.6 \\mathrm{~eV}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেক্ট্রনটির ১ম অবস্থানের স্তরে শক্তি, [math]E=-1.5 \\mathrm{~eV}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~ E=\\frac{1}{n^{2}} E_{1}\\\\ \\Rightarrow n^{2}=\\frac{E_{1}}{E} \\\\ \\Rightarrow n=\\sqrt{\\frac{E_{1}}{E}}=\\sqrt{\\frac{-13.6}{1.5}} \\\\ \\therefore ~n=3\\end{array}[/math]\u003Cbr\u003Eঅতএব, ইলেক্ট্রনটি প্রথমে ৩য় শক্তি স্তরে ছিল ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআদি অবস্থানে, [math]\\mathrm{E}_{1}=-1.5 \\mathrm{~eV}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচূড়ান্ত অবস্থানে, [math]E_{2}=-3.4 \\mathrm{~eV}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]h=6.63 \\times 10^{-34} \\mathrm{Js}[/math]\u003Cbr\u003Eধরি, নির্গত ফোটনের কম্পাঙ্ক [math]f[/math]\u003Cbr\u003E এবং তরঙ্গদৈর্ঘ্য [math]\\lambda[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\begin{array}{l} \\therefore ~E_{1}-E_{2}=-1.5 \\mathrm{eV}+3.4 \\mathrm{eV} \\\\ \\Rightarrow \\mathrm{h} f=1.9 \\mathrm{eV} \\\\ \\Rightarrow f=\\frac{1.9 \\times 1.6 \\times 10^{-19}}{6.63 \\times 10^{-34}} \\mathrm{~Hz} \\\\ \\Rightarrow f=4.6 \\times 10^{14} \\mathrm{~Hz} \\\\ \\Rightarrow \\frac{\\mathrm{c}}{\\lambda}=4.6 \\times 10^{14} \\mathrm{~Hz} \\\\ \\Rightarrow \\lambda=\\frac{3 \\times 10^{8}}{4.6 \\times 10^{14} \\mathrm{~m}} \\\\ \\therefore~ \\lambda=6.5 \\times 10^{-7} \\mathrm{~m} \\end{array}[/math]\u003Cbr\u003Eএখানে, [math]4 \\times 10^{-7} \\mathrm{~m}\u003C\\lambda\u003C8 \\times 10^{-7} \\mathrm{~m}[/math]\u003Cbr\u003Eঅর্থাৎ, নির্গত ফোটনের তরঙ্গদৈর্ঘ্য দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের পাল্লার মধ্যে অবস্থান করছে। অতএব, নিঃসরিত বিকিরণটি দৃশ্যমান হবে।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সূচন (প্রধান) কোয়ান্টাম সংখ্যা হলো ধনাত্মক পূর্ণসংখ্যা [math]n=1,2,3,\\dots[/math] যা পরমাণুর কক্ষপথের আকার ও শক্তি নির্ধারণ করে; হাইড্রোজেনে শক্তি হচ্ছে [math]E_n=-\\dfrac{13.6}{n^2}\\ \\mathrm{eV}[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কোনো ভরযুক্ত বস্তু আলোর গতি [math]c[/math] পর্যন্ত পৌঁছাতে পারে না কারণ আপেক্ষিকতায় গতিবৃদ্ধির সাথে প্রয়োজনীয় শক্তি অসীমভাবে বড় হয়ে যায়, ফলে অতিরিক্ত শক্তি দিয়েও [math]c[/math] ছোঁয়া যায় না।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রয়োগ করে [math]-\\dfrac{13.6}{n^2}=-1.5[/math], তাই [math]n^2=\\dfrac{13.6}{1.5\\ } \\approx 9.07[/math] এবং [math]n\\approx3[/math]; অতএব ইলেকট্রনটি প্রারম্ভে [math]n=3[/math] স্তরে ছিল।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যদি ইলেকট্রন [math]n=3[/math] থেকে [math]n=2[/math] এ নামে, তৎকালীন ফোটনের শক্তি [math]\\Delta E=E_3-E_2=1.9\\ \\mathrm{eV}[/math] হবে; তার তরঙ্গদৈর্ঘ্য [math]\\lambda=\\dfrac{hc}{E}=\\dfrac{6.63\\times10^{-34}\\times3.0\\times10^8}{1.9\\times1.6\\times10^{-19}}\\approx6.54\\times10^{-7}\\ \\mathrm{m}[/math], যা প্রদত্ত দৃশ্যমান সীমা [math]4\\times10^{-7}\\ \\text{m}[/math] থেকে [math]8\\times10^{-7}\\ \\text{m}[/math] এর ভিতরে থাকায় বিকিরণটি দৃশ্যমান হবে (লাল রং)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 433285,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 433285,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 433285,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T07:49:54.000000Z",
+            "updated_at": "2025-08-19T07:49:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433284,
+      "value": {
+        "options": {
+          "ক": "গড় আয়ু কাকে বলে?",
+          "খ": "একটি নিউক্লিয়াসের স্থায়িত্ব নির্ভর করে নিউক্লিয়ন প্ৰতি বন্ধনশক্তির উপর— ব্যাখ্যা করো।",
+          "গ": "n = 2 শক্তিস্তরে ইলেকট্রনের বেগ নির্ণয় করো।",
+          "ঘ": "উদ্দীপকের প্রদত্ত তরঙ্গদৈর্ঘ্যের ফোটন কণা নিঃসরণের জন্য A, B এবং C এর মধ্যে কোনটি দায়ী— গাণিতিকভাবে বিশ্লেষণ করে তোমার সিদ্ধান্ত দাও।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-2920part201202023-2001_1755589794_oAELCqyN.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রে হাইড্রোজেন পরমাণুর শক্তিস্তর দেখানো আছে এবং ইলেকট্রন স্থানান্তরের ক্ষেত্রে A, B এবং C তিনটি ধাপ দেখানো হয়েছে যেন কোনো একটি হতে [math]6513 \\ \\mathring {A}[/math] তরঙ্গদৈর্ঘ্যের ফোটন কণা নির্গত হয়। [ [math]C=3 \\times 10^{8} \\mathrm{~ms}^{-1}, \\mathrm{~h}=6.6 \\times 10^{-34} \\mathrm{Js}[/math] ]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপ্রত্যেকটি তেজস্ক্রিয় পরমাণুর আয়ুর যোগফলকে পরমাণুর প্রারম্ভিক সংখ্যা দ্বারা ভাগ করলে যে আয়ু পাওয়া যায় তাকে ঐ তেজস্ক্রিয় পদার্থের গড় আয়ু বলে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eআমরা জানি, কতগুলো ধনাত্মক চার্জগ্রস্থ প্রোটন ও চার্জ নিরপেক্ষ নিউট্রন সমন্বয়ে নিউক্লিয়াস গঠিত। ধনাত্মক চার্জ পরস্পরকে বিকর্ষণ করে। তা সত্ত্বেও এরা একত্রে নিউক্লিয়াসের মধ্যে থাকতে পারে বন্ধন শক্তির জন্য। নিউক্লিয়ন প্রতি বন্ধন শক্তি যে সকল পদার্থের ক্ষেত্রে বেশি সেগুলোর স্থায়িত্ব বেশি। বেশি ভর সংখ্যা বিশিষ্ট মৌলের নিউক্লিয়ন প্রতি বন্ধন শক্তি কম বলে এগুলোর ভাঙ্গন ঘটে এবং তেজস্ক্রিয় বিকিরণের মাধ্যমে নতুন মৌলের সৃষ্টি হয়। সুতরাং বলা যায়, একটি নিউক্লিয়াসের স্থায়িত্ব নির্ভর করে নিউক্লিয়ন প্রতি বন্ধনশক্তির উপর। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,তড়িতাধান,[math]\\begin{array}{l}\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C} \\\\\\epsilon_{0}=8.854 \\times 10^{-12} \\mathrm{C}^{2} \\mathrm{~N}^{-1} \\mathrm{~m}^{-2}\\end{array}[/math]\u003Cbr\u003Eদ্বিতীয় কক্ষে, n =2প্ল্যাঙ্কের ধ্রুবক,[math]\\begin{array}{l}\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{JS} \\\\\\mathrm{v}_{2}=?\\end{array}[/math]\u003Cbr\u003Eআমরা জানি, [math]\\mathrm{r}_{\\mathrm{n}}=\\frac{{\\mathrm{n}}^{2} \\mathrm{~h}^{2} \\in_{0}}{\\pi \\mathrm{me}^{2}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\therefore \\mathrm{r}_{2}=\\frac{2^{2} \\times\\left(6.63 \\times 10^{-34}\\right)^{2} \\times 8.854 \\times 10^{-12}}{\\pi \\times 9.1 \\times 10^{-31} \\times\\left(1.6 \\times 10^{-19}\\right)^{2}} \\\\=2.12 \\times 10^{-10} \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eআবার, [math]\\mathrm{v}_{\\mathrm{n}}=\\frac{\\mathrm{nh}}{2 \\pi \\mathrm{mr}_{\\mathrm{n}}}[/math]\u003Cbr\u003E [math]\\begin{aligned}\\therefore \\mathrm{v}_{2} & =\\frac{2 \\times 6.63 \\times 10^{-34}}{2 \\times \\pi \\times 9.1 \\times 10^{-31} \\times 2.12 \\times 10^{-10}} \\\\& =1.1 \\times 10^{6} \\mathrm{~ms}^{-1} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপ্রদত্ত তরঙ্গদৈর্ঘ্য, [math]\\lambda=6513 \\ \\mathring {A} =6513 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003Eএখানে,প্লাঙ্কের ধ্রুবক, [math]h=6.6 \\times 10^{-34} \\mathrm{J.s}[/math]\u003Cbr\u003Eআলোর বেগ, [math]\\mathrm{c}=3 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]\\lambda=6513 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\lambda[/math]\u003Cbr\u003E তরঙ্গদৈর্ঘ্যের ফোটনের শক্তি,[math]\\begin{aligned}\\mathrm{E} & =\\frac{\\mathrm{hc}}{\\lambda} \\\\ & =\\frac{6.6 \\times 10^{-34} \\times 3 \\times 10^{8}}{6513 \\times 10^{-10}} \\\\& =3.04 \\times 10^{-19} \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E বিকিরিত ফোটনের শক্তি [math]\\begin{aligned}=3.04 \\times 10^{-19} \\mathrm{~J} & =\\frac{3.04 \\times 10^{-19}}{1.6 \\times 10^{-19}} \\mathrm{eV} \\\\& =1.906 \\mathrm{\\ eV}\\end{aligned}[/math]\u003Cbr\u003Eবোরের মডেল অনুযায়ী বিকিরিত ফোটনের শক্তি = স্থানান্তরিত ইলেকট্রনের কক্ষপথদ্বয়ের মধ্যবর্তী শক্তির পার্থক্য।উদ্দীপকের A ধাপের ক্ষেত্রে n = 4 থেকে n = 2 তে ইলেকট্রন স্থানান্তরিত হয়।[math]\\therefore[/math]\u003Cbr\u003E শক্তির পার্থক্য [math]=|-3.4-(-0.85)| \\mathrm{eV}=2.55 \\mathrm{eV}[/math]\u003Cbr\u003EB ধাপের ক্ষেত্রে শক্তির পার্থক্য = [math]|-3.4-(-1.5)| \\mathrm{eV}=1.9 \\mathrm{eV}[/math]\u003Cbr\u003Eদেখা যাচ্ছে, B ধাপের ক্ষেত্রে শক্তির পার্থক্য উক্ত ফোটনের শক্তির প্রায় সমান।[math]\\therefore[/math]\u003Cbr\u003E উক্ত ফোটন কণা নিঃসরণের জন্য B দায়ী। (Ans.)",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E গড় আয়ু হলো কোনো ক্ষয়নীয় কণার অনুরূপভাবে মৃত্যুর মধ্যেকার গড় সময়—এটি তাপীয় অবক্ষয়ের ডিকেই কনস্ট্যান্ট [math]\\lambda[/math]ের বিপরীত মান: [math]\\tau=\\frac{1}{\\lambda}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E নিউক্লিয়াসের স্থায়িত্ব মূলত নিউক্লিয়ন প্রতি বন্ধনশক্তি (binding energy per nucleon)–এর উপর নির্ভর করে কারণ বড় বন্ধনশক্তি থাকলে একটি নিউক্লিয়ন আলাদা করতে বেশি শক্তি লাগে, তাই পারমাণবিক কোর বেশি স্থিতিশীল হয়; অতিরিক্তভাবে অপ্রতুল বা অতিরিক্ত নিউট্রন/প্রোটন অনুপাতও স্থায়িত্বকে হ্রাস করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বোহর মডেল অনুযায়ী তত্ত্বীয় গতিবেগ [math]v_n=\\dfrac{v_1}{n}[/math] যেখানে [math]v_1\\approx\\alpha c\\approx2.18\\times10^{6}\\ \\text{m/s}[/math]; তাই n=2-এ [math]v_2=\\dfrac{2.18\\times10^{6}}{2}\\approx1.09\\times10^{6}\\ \\text{m/s}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হাইড্রোজেনের এনার্জি ভর বৈষম্য ব্যবহার করে (৩→২)–এর জন্য ΔE = [math]13.6\\left(\\frac{1}{2^{2}}-\\frac{1}{3^{2}}\\right)=13.6\\times\\frac{5}{36}\\approx1.89\\ \\text{eV}=[/math][math]3.02\\times10^{-19}\\ \\text{J}[/math]; তাই [math]\\lambda=\\dfrac{hc}{\\Delta E}=\\dfrac{6.6\\times10^{-34}\\times3\\times10^{8}}{3.02\\times10^{-19}}\\approx6.55\\times10^{-7}\\ \\text{m}=6550\\ \\mathring{A}[/math], যা প্রদত্ত [math]6513\\ \\mathring{A}[/math]-এর নিকটে আছে—অতএব উল্লিখিত সূত্রে ফোটন নির্গত করার দায়ী ট্রানজিশনটি হলো n=3 থেকে n=2 (চিত্রে যেটি A হিসেবে দেখানো আছে সেটি)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 433284,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 433284,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 433284,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T07:49:54.000000Z",
+            "updated_at": "2025-08-19T07:49:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433281,
+      "value": {
+        "options": [],
+        "question": "ইলেকট্রন নিম্ন কক্ষপথ হতে উচ্চ কক্ষপথে প্রবেশ করলে কী ঘটে?",
+        "solution": "",
+        "explanation": "ব্যাখ্যা: ইলেকট্রন নিম্ন কক্ষপথ থেকে উচ্চ কক্ষপথে উঠতে বাইরের থেকে শক্তি শোষণ করে। শোষিত শক্তি কক্ষপথদ্বয়ের এনার্জি পার্থক্যের সমান, অর্থাৎ [math]\\Delta E=E_{\\text{higher}}-E_{\\text{lower}}=h\\nu[/math]।",
+        "correct_answer": "A."
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 433281,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3434,
+          "full_name": "DAWOOD PUBLIC SCHOOL & COLLEGE",
+          "short_name": "DPSC",
+          "slug": "dpsc",
+          "pivot": {
+            "question_bank_id": 433281,
+            "tag_id": 3434,
+            "year": "2022",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433283,
+      "value": {
+        "options": {
+          "ক": "শোষণ",
+          "খ": "বিকিরণ",
+          "গ": "সৃষ্টি",
+          "ঘ": "বিনাশ"
+        },
+        "question": "উত্তেজিত অবস্থা এবং ভূমি অবস্থায় শক্তি যথাক্রমে [math]-3.4 \\mathrm{eV} \\ ও\\ -13.6 \\mathrm{eV}[/math] একটি হাইড্রোজেন পরমাণু উত্তেজিত অবস্থা হতে ভূমি অবস্থায় আসলে ফোটন নিঃসরণ করে।\n\nউদ্দীপকের তথ্যের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\nউদ্দীপকে শক্তির কী ঘটে।",
+        "solution": "হাইড্রোজেন পরমাণুটি যখন উচ্চতর শক্তিস্তর (উত্তেজিত অবস্থা, [math]-3.4 \\mathrm{eV}[/math]\u003Cbr\u003E) থেকে নিম্নতর শক্তিস্তরে (ভূমি অবস্থা, [math]-13.6 \\mathrm{eV}[/math]\u003Cbr\u003E) আসে, তখন এটি শক্তির পার্থক্য ফোটন আকারে নির্গত বা বিকিরণ করে। এই শক্তি পার্থক্য হলো [math]\\Delta E = E_{\\text{উচ্চ}} - E_{\\text{নিম্ন}} = -3.4 \\mathrm{eV} - (-13.6 \\mathrm{eV}) = 10.2 \\mathrm{eV}[/math]\u003Cbr\u003E. যেহেতু পরমাণু শক্তি হারাচ্ছে, তাই এটি বিকিরণ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 433283,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3177,
+          "full_name": "RCPSCG",
+          "short_name": "RCPSCG",
+          "slug": "rcpscg",
+          "pivot": {
+            "question_bank_id": 433283,
+            "tag_id": 3177,
+            "year": "2022",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433282,
+      "value": {
+        "options": {
+          "ক": "– 54.4 eV",
+          "খ": "– 27.2 eV",
+          "গ": "– 6.8 eV",
+          "ঘ": "– 3.4 eV"
+        },
+        "question": "১ম কক্ষপথে শক্তির পরিমাণ [math]- 13.6\\rm{~ eV}[/math] হলে ২য় কক্ষপথে শক্তির পরিমাণ কত?",
+        "solution": "[math]\\rm{E_{2}=\\dfrac{E_{1}}{2^{2}}}=\\dfrac{-13.6}{4}=-3.4 \\mathrm{eV}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 433282,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3498,
+          "full_name": "Nilphamari Govt. College, Nilphamari",
+          "short_name": "NGCC",
+          "slug": "ngcc",
+          "pivot": {
+            "question_bank_id": 433282,
+            "tag_id": 3498,
+            "year": "2022",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433271,
+      "value": {
+        "options": {
+          "ক": "তরঙ্গধর্ম",
+          "খ": "কণাধর্মী",
+          "গ": "চার্জ নাই",
+          "ঘ": "জড়তা নাই"
+        },
+        "question": "নিচের কোনটি বিটা রশ্মির ধর্ম?",
+        "solution": "বিটা রশ্মি আসলে উচ্চ শক্তির ইলেকট্রন বা পজিট্রন, যা কণার মতো আচরণ করে। এটি তরঙ্গ হিসেবে বিবেচিত হয় না। বিটা রশ্মির কণাগুলোর ঋণাত্মক বা ধনাত্মক আধান থাকে, তাই এরা চার্জবিহীন নয়। এদের ভর আছে, তাই এদের জড়তাও আছে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 433271,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433261,
+      "value": {
+        "options": {
+          "ক": "নিউট্রন",
+          "খ": "আলফা পার্টিকেল",
+          "গ": "ইলেকট্রন",
+          "ঘ": "প্রোটন"
+        },
+        "question": "একটি ধাতব পৃষ্ঠে অতি বেগুনি রশ্মি আপতিত হলে কোন কণা বিচ্ছুরিত হবে?",
+        "solution": "ধাতব পৃষ্ঠের উপরে অতি বেগুনি রশ্মি আপতিত হলে ধাতব পৃষ্ঠ হতে নির্গত কণা হল ইলেকট্রন। এই ঘটনাটিকে ফটোইলেকট্রিক প্রভাব বলা হয়। ফটোইলেকট্রিক প্রভাবে, অতিবেগুনি রশ্মি ধাতব পৃষ্ঠের সাথে সংঘর্ষে ইলেকট্রনকে ধাতু থেকে বের করে দেয়। এই ইলেকট্রনগুলিকে ফোটোইলেকট্রন বলা হয়",
+        "explanation": "",
+        "correct_answer": "C.ইলেকট্রন"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 433261,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 433261,
+            "tag_id": 18,
+            "year": "09-10",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433262,
+      "value": {
+        "options": {
+          "ক": "[math]11.9 \\times 10^{-31} \\mathrm{Kg}[/math]",
+          "খ": "[math]\\text { 9. } 11 \\times 10^{-31} \\mathrm{Kg}[/math]",
+          "গ": "[math]11.9 \\times 10^{-32} \\mathrm{Kg}[/math]",
+          "ঘ": "[math]6.9 \\times 10^{-51} \\mathrm{Kg}[/math]"
+        },
+        "question": "নিম্নের কোনটি ইলেকট্রনের ভর?",
+        "solution": "ইলেকট্রনের ভর প্রায় [math]9.11 \\times 10^{-31}[/math] কিলোগ্রাম। অন্যান্য বিকল্পগুলির মান ইলেকট্রনের ভরের সাথে মেলে না।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 34,
+          "year": "2002-2003",
+          "pivot": {
+            "question_bank_id": 433262,
+            "year_id": 34
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 433262,
+            "tag_id": 18,
+            "year": "02-03",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433263,
+      "value": {
+        "options": {
+          "ক": "ভর [math]9.1 \\times 10^{-28}[/math] গ্রাম",
+          "খ": "গ্যাসকে আয়নিত করার ক্ষমতা [math]\\alpha[/math] রশ্মি অপেক্ষা কম",
+          "গ": "ভেদন ক্ষমতা [math]\\alpha[/math] রশ্মি অপেক্ষা বেশি",
+          "ঘ": "কোন চার্জ নেই"
+        },
+        "question": "বিটা (β) রশ্মির-",
+        "solution": "বিটা রশ্মি মূলত উচ্চ-শক্তি সম্পন্ন ইলেকট্রন বা পজিট্রন, যাদের ভর আছে কিন্তু চার্জ আছে। তাদের ভেদন ক্ষমতা আলফা রশ্মির চেয়ে বেশি, কারণ আলফা কণাগুলি তুলনামূলকভাবে বড় এবং ভারী। অন্যদিকে, বিটা রশ্মির গ্যাসকে আয়নিত করার ক্ষমতা আলফা রশ্মির চেয়ে কম। বিটা রশ্মির ভর প্রায় [math]9.1 \\times 10^{-31}[/math]\u003Cbr\u003E কেজি বা [math]9.1 \\times 10^{-28}[/math]\u003Cbr\u003E গ্রাম (ইলেকট্রনের ভরের কাছাকাছি)। এদের চার্জ থাকে, তাই এদের কোন চার্জ নেই - এই বক্তব্যটি সঠিক নয়। তাই, বিটা রশ্মির ভেদন ক্ষমতা আলফা রশ্মি অপেক্ষা বেশি।",
+        "explanation": "",
+        "correct_answer": "A.ভর [math]9.1 \\times 10^{-28}[/math] গ্রাম"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 60,
+          "year": "1994-1995",
+          "pivot": {
+            "question_bank_id": 433263,
+            "year_id": 60
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 433263,
+            "tag_id": 18,
+            "year": "94-95",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433264,
+      "value": {
+        "options": {
+          "ক": "ফোটন",
+          "খ": "প্রাইমারি ইলেকট্রন",
+          "গ": "ফটো ইলেকট্রন",
+          "ঘ": "কোয়ান্টাম"
+        },
+        "question": "ধাতুর উপর আলোক পতিত হলে যে ইলেকট্রন বিকিরণ হয় তাকে বলে–",
+        "solution": "আলোর ফোটন কণা ধাতুর উপর আপতিত হলে ধাতু থেকে যে ইলেকট্রন নির্গত হয়, তাকে ফটোইলেকট্রন বলে। এটি আলোক তড়িৎ ক্রিয়ার (photoelectric effect) মূল ধারণা। ফোটন হলো আলোর শক্তি প্যাকেট, প্রাইমারি ইলেকট্রন হলো অন্য কোনো উৎস থেকে প্রাপ্ত ইলেকট্রন এবং কোয়ান্টাম হলো শক্তির একটি ন্যূনতম পরিমাণ।",
+        "explanation": "",
+        "correct_answer": "C. ফটো ইলেকট্রন"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 35,
+          "year": "2000-2001",
+          "pivot": {
+            "question_bank_id": 433264,
+            "year_id": 35
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 433264,
+            "tag_id": 3225,
+            "year": "00-01",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433265,
+      "value": {
+        "options": {
+          "ক": "-13.6",
+          "খ": "-3.4",
+          "গ": "-2",
+          "ঘ": "-0.5"
+        },
+        "question": "হাইড্রোজেন পরমাণুর 2 য় কক্ষপথে ইলেকট্রনের শক্তি কত [math]\\mathrm{e V}[/math] হবে-",
+        "solution": "[math]\\mathrm{E}_{\\mathrm{n}}[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{E}_{1}}{\\mathrm{n}^{2}}[/math]\u003Cbr\u003E [math]\\Rightarrow \\mathrm{E}_{2}[/math]\u003Cbr\u003E [math]=\\frac{-13.6}{2^{2}}[/math]\u003Cbr\u003E [math]=-3.4 \\mathrm{eV}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.-3.4"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 433265,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 471,
+          "full_name": "Sylhet Agricultural University",
+          "short_name": "SAU",
+          "slug": "sau",
+          "pivot": {
+            "question_bank_id": 433265,
+            "tag_id": 471,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433266,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{E_{2}-E_{2}}{h c}[/math]",
+          "খ": "[math]\\dfrac{\\mathrm{hc}}{\\mathrm{E}_{2}}-\\dfrac{\\mathrm{hc}}{\\mathrm{E}_{1}}[/math]",
+          "গ": "[math]\\dfrac{c}{h\\left(E_{2}-E_{1}\\right)}[/math]",
+          "ঘ": "[math]\\dfrac{\\text { hc }}{E_{2}-E_{1}}[/math]"
+        },
+        "question": "একটি ইলেকট্রন যদি [math]E_2[/math] শক্তিস্তর থেকে [math]E_1[/math] নিম্ন শক্তিস্তরে গমন করে, তাহলে বিকির্ণ শক্তির তরঙ্গ দৈর্ঘ্য হবে [math]-[/math]",
+        "solution": "[math]\\Delta E=\\dfrac{h c}{\\lambda} \\Rightarrow \\lambda=\\dfrac{h c}{\\Delta E} \\Rightarrow \\lambda=\\dfrac{h c}{E_{2}-E_{1}}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 433266,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 433266,
+            "tag_id": 57,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433267,
+      "value": {
+        "options": {
+          "ক": "ইলেক্ট্রনের ভরের সমান",
+          "খ": "ইলেক্ট্রনের ভরের দ্বিগুণ",
+          "গ": "প্রোটনের ভরের সমান",
+          "ঘ": "প্রোটনের ভরের দ্বিগুণ"
+        },
+        "question": "বিটা রশ্মির কণিকার ভর–",
+        "solution": "বিটা রশ্মি আসলে ইলেকট্রন বা পজিট্রন। তাই বিটা কণার ভর ইলেক্ট্রনের ভরের সমান।",
+        "explanation": "",
+        "correct_answer": "A. ইলেক্ট্রনের ভরের সমান"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 433267,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 433267,
+            "tag_id": 57,
+            "year": "16-17",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433268,
+      "value": {
+        "options": {
+          "ক": "শক্তির বিকিরণ",
+          "খ": "শক্তির শোষণ",
+          "গ": "শক্তির পরিচলন",
+          "ঘ": "শক্তির আদান [math]-[/math]প্রদান হয় না"
+        },
+        "question": "ইলেকট্রন উচ্চ শক্তি স্তর থেকে নিম্ন শক্তি স্তরে প্রবেশ করলে কী ঘটে?",
+        "solution": "ইলেকট্রন যখন উচ্চ শক্তি স্তর থেকে নিম্ন শক্তি স্তরে আসে, তখন এটি অতিরিক্ত শক্তি বিকিরণ করে, যা সাধারণত ফোটন আকারে নির্গত হয়। শক্তির শোষণ ঘটে যখন ইলেকট্রন নিম্ন শক্তি স্তর থেকে উচ্চ শক্তি স্তরে যায়। শক্তির পরিচলন একটি ভিন্ন প্রক্রিয়া যা পদার্থের তাপ স্থানান্তরের সাথে সম্পর্কিত। শক্তির কোনো আদান-প্রদান না হওয়ার ধারণাটি ভুল কারণ শক্তি স্তর পরিবর্তনের সময় শক্তির পরিবর্তন ঘটে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 433268,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 433268,
+            "tag_id": 460,
+            "year": "15-16",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433269,
+      "value": {
+        "options": {
+          "ক": "বিভব",
+          "খ": "প্রতিসরণ",
+          "গ": "শক্তি",
+          "ঘ": "ক্ষমতা"
+        },
+        "question": "ইলেকট্রন ভোল্ট কিসের একক?",
+        "solution": "ইলেকট্রন ভোল্ট হল শক্তির একক যা সাধারণত পারমাণবিক এবং নিউক্লীয় পদার্থবিদ্যায় ব্যবহৃত হয়। 1 ভোল্টের বৈদ্যুতিক বিভব পার্থক্য জুড়ে একটি একক ইলেকট্রনের আধান দ্বারা অর্জিত শক্তির পরিমাণকে ইলেকট্রন ভোল্ট বলে।",
+        "explanation": "",
+        "correct_answer": "C.শক্তি"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 433269,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 433269,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 433269,
+            "tag_id": 4,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433270,
+      "value": {
+        "options": {
+          "ক": "প্রোটন",
+          "খ": "ইলেকট্রন",
+          "গ": "নিউট্রন",
+          "ঘ": "[math]\\alpha -[/math]কণা"
+        },
+        "question": "ধাতব পৃষ্ঠের উপরে অতি বেগুনি রশ্মি আপতিত হলে ধাতব পৃষ্ঠ হতে নির্গত কণা–",
+        "solution": "অতিবেগুনি রশ্মি (UV rays) আলোকরশ্মি, যা ফোটন কণা দ্বারা গঠিত। যখন এই ফোটন কণাগুলি ধাতব পৃষ্ঠে আপতিত হয়, তখন ধাতুর মুক্ত ইলেকট্রনগুলি যথেষ্ট শক্তি শোষণ করে পৃষ্ঠ থেকে বেরিয়ে আসে। এই ঘটনাকে আলোক তড়িৎ ক্রিয়া (photoelectric effect) বলা হয় এবং নির্গত কণাগুলি হলো ইলেকট্রন। প্রোটন, নিউট্রন বা [math]\\alpha[/math]-কণা পারমাণবিক নিউক্লিয়াসের অংশ এবং অতিবেগুনি রশ্মির প্রভাবে সাধারণত নির্গত হয় না।",
+        "explanation": "",
+        "correct_answer": "B. ইলেকট্রন"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 433270,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 433270,
+            "tag_id": 3,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433260,
+      "value": {
+        "options": {
+          "ক": "শক্তির শোষণ",
+          "খ": "শক্তির বিকিরণ",
+          "গ": "শক্তির বিচ্ছুরণ",
+          "ঘ": "শক্তির কোনো আদান-প্রদান হয় না"
+        },
+        "question": "ইলেকট্রন নিম্ন কক্ষপথ থেকে উচ্চ কক্ষপথে প্রবেশ করলে কী ঘটে?",
+        "solution": "প্রথম বোর শক্তিস্তরে আবর্তনরত একটি ইলেকট্রনের শক্তি [math]E_0[/math]\u003Cbr\u003E হলে [math]n-[/math]\u003Cbr\u003Eতম বোর শক্তিস্তরে আবর্তনরত বোর কক্ষপথের শক্তি, [math]E_{n}=\\dfrac{E_{0}}{n^{2}}.[/math]\u003Cbr\u003Eএ শক্তি হলো বিভব শক্তি। তাই এ শক্তি ঋণাত্মক। যেমন : [math]E_0 =-13.6\\ eV.[/math]\u003Cbr\u003Eবেশি বিভবশক্তিতে শক্তিস্তরে বিদ্যমান থাকার মানে হলো [math]-[/math]\u003Cbr\u003E ইলেক্ট্রনটি সেখানে বেশি দৃঢ়ভাবে আবদ্ধ।বাইরের দিকের শক্তিস্তরে ইলেকট্রন অপেক্ষাকৃত কম বিভবশক্তিতে আবদ্ধ থাকে।ঋণাত্মক শক্তি হ্রাস করার জন্য ইলেকট্রনে শক্তি প্রদান করতে হয়, ফোটন আপতনের মাধ্যমে।তাই ইলেকট্রন নিম্ন কক্ষপথ থেকে উচ্চ কক্ষপথে যাওয়ার সময় শক্তি শোষণ করে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 433260,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 433260,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 433260,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433272,
+      "value": {
+        "options": {
+          "ক": "সমানুপাতিক",
+          "খ": "ব্যস্তানুপাতিক",
+          "গ": "বর্গের সমানুপাতিক",
+          "ঘ": "বর্গের ব্যস্তানুপাতিক"
+        },
+        "question": "স্থায়ী কক্ষপথে আবর্তনশীল ইলেকট্রনের মোট শক্তির পরিমাণ প্রধান কোয়ান্টাম সংখ্যার সাথে কিভাবে সম্পর্কিত?",
+        "solution": "স্থায়ী কক্ষপথে আবর্তনশীল ইলেকট্রনের মোট শক্তি [math]E \\propto -\\frac{1}{n^2}[/math]\u003Cbr\u003E , যেখানে [math]n[/math]\u003Cbr\u003E হল প্রধান কোয়ান্টাম সংখ্যা। সুতরাং, মোট শক্তি প্রধান কোয়ান্টাম সংখ্যার বর্গের ব্যস্তানুপাতিক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 433272,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433273,
+      "value": {
+        "options": {
+          "ক": "[math]E_{3}=\\frac{1}{3} E_{1}[/math]",
+          "খ": "[math]E_{3}=3 E_{1}[/math]",
+          "গ": "[math]E_{3}=\\frac{1}{9} E_{1}[/math]",
+          "ঘ": "[math]E_{3}=9 E_{1}[/math]"
+        },
+        "question": "৩য় কক্ষপথে ইলেকট্রনের শক্তি -",
+        "solution": "বোর মডেল অনুসারে, হাইড্রোজেন পরমাণুর [math]n[/math]\u003Cbr\u003E তম কক্ষপথে ইলেকট্রনের শক্তি [math]E_n[/math]\u003Cbr\u003E নিম্নলিখিত সূত্র দ্বারা প্রকাশ করা হয়: [math]E_n = -\\frac{13.6}{n^2}[/math]\u003Cbr\u003E eV. যেখানে [math]n[/math]\u003Cbr\u003E হল কক্ষপথের সংখ্যা।অতএব, ১ম কক্ষপথের শক্তি ( [math]n=1[/math]\u003Cbr\u003E): [math]E_1 = -\\frac{13.6}{1^2} = -13.6[/math]\u003Cbr\u003E eV.এবং ৩য় কক্ষপথের শক্তি ( [math]n=3[/math]\u003Cbr\u003E): [math]E_3 = -\\frac{13.6}{3^2} = -\\frac{13.6}{9}[/math]\u003Cbr\u003E eV.এখন, [math]E_3[/math]\u003Cbr\u003E এবং [math]E_1[/math]\u003Cbr\u003E এর মধ্যে সম্পর্ক নির্ণয় করতে:[math]E_3 = -\\frac{13.6}{9}[/math]\u003Cbr\u003Eআমরা জানি [math]E_1 = -13.6[/math]\u003Cbr\u003Eসুতরাং, [math]E_3 = \\frac{E_1}{9}[/math]\u003Cbr\u003Eলক্ষ্য করুন, প্রশ্নে শক্তির মানগুলি ধনাত্মকভাবে উপস্থাপন করা হয়েছে, যা সাধারণত বন্ধন শক্তি (binding energy) বোঝায়। তবে, এখানে আপেক্ষিক তুলনাটি সঠিক। তৃতীয় কক্ষপথের শক্তি প্রথম কক্ষপথের শক্তির [math]\\frac{1}{9}[/math]\u003Cbr\u003E গুণ।",
+        "explanation": "",
+        "correct_answer": "C.[math]E_{3}=\\frac{1}{9} E_{1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 433273,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433274,
+      "value": {
+        "options": {
+          "ক": "3.4eV",
+          "খ": "-3eV",
+          "গ": "-13.6eV",
+          "ঘ": "13.4 eV"
+        },
+        "question": "হাইড্রোজেন সদৃশ একটি পরমাণুতে একটি ইলেকট্রন উদ্দীপিত স্তরে আছে। এর মোট শক্তি [math]3.4V[/math] ইলেকট্রনটির গতিশক্তি—",
+        "solution": "হাইড্রোজেন পরমাণুতে মোট শক্তি ( [math]E[/math]\u003Cbr\u003E) এবং গতিশক্তি ( [math]K[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হলো [math]E = -K[/math]\u003Cbr\u003E। প্রদত্ত মোট শক্তি [math]E = -3.4eV[/math]\u003Cbr\u003E। সুতরাং, গতিশক্তি [math]K = -E = -(-3.4eV) = 3.4eV[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 433274,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433275,
+      "value": {
+        "options": {
+          "ক": "-6.8 eV",
+          "খ": "6.8 eV",
+          "গ": "3.4 eV",
+          "ঘ": "-3.4 eV"
+        },
+        "question": "হাইড্রোজেন পরমাণুর ইলেকট্রনের প্রথম উত্তেজিত অবস্থায় মোট শক্তি [math]- 3.4 \\ eV[/math]। এই অবস্থায় ইলেকট্রনের স্থিতিশন্তি—",
+        "solution": "হাইড্রোজেন পরমাণুর ইলেকট্রনের প্রথম উত্তেজিত অবস্থায় মোট শক্তি ( [math]E[/math]\u003Cbr\u003E) হল [math]-3.4 \\ eV[/math]\u003Cbr\u003E। আমরা জানি যে মোট শক্তি ( [math]E[/math]\u003Cbr\u003E), গতিশক্তি ( [math]K[/math]\u003Cbr\u003E) এবং স্থিতিশক্তি ( [math]U[/math]\u003Cbr\u003E)-এর যোগফল: [math]E = K + U[/math]\u003Cbr\u003E। বোর মডেল অনুসারে, একটি ইলেকট্রনের মোট শক্তি হল তার স্থিতিশক্তির অর্ধেক, অর্থাৎ [math]E = \\frac{1}{2}U[/math]\u003Cbr\u003E। অতএব, স্থিতিশক্তি ( [math]U[/math]\u003Cbr\u003E) হবে মোট শক্তির দ্বিগুণ: [math]U = 2E[/math]\u003Cbr\u003E। এখানে [math]E = -3.4 \\ eV[/math]\u003Cbr\u003E, সুতরাং [math]U = 2 \\times (-3.4 \\ eV) = -6.8 \\ eV[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "A.-6.8 eV"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 433275,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433276,
+      "value": {
+        "options": {
+          "ক": "[math]h f=E_{u}-E_{1}[/math]",
+          "খ": "[math]h f=E_{u}+E_{1}[/math]",
+          "গ": "[math]h f=\\frac{E_{u}}{E_{1}}[/math]",
+          "ঘ": "[math]h f=\\frac{E_{1}}{E_{u}}[/math]"
+        },
+        "question": "ইলেকট্রন যখন উচ্চ শক্তিস্তর থেকে নিম্ন শক্তিস্তরে যায় তখন ইলেক্ট্রন কর্তৃক বিকিরিত শক্তি কী হবে?",
+        "solution": "ইলেকট্রন যখন উচ্চ শক্তিস্তর ( [math]E_u[/math]\u003Cbr\u003E) থেকে নিম্ন শক্তিস্তরে ( [math]E_l[/math]\u003Cbr\u003E) যায়, তখন এটি একটি ফোটন বিকিরণ করে। এই ফোটনের শক্তি ( [math]hf[/math]\u003Cbr\u003E) দুটি শক্তিস্তরের পার্থক্যের সমান হয়। এটি প্ল্যাঙ্কের সমীকরণ দ্বারা বর্ণিত হয়, যেখানে [math]h[/math]\u003Cbr\u003E হলো প্ল্যাঙ্কের ধ্রুবক এবং [math]f[/math]\u003Cbr\u003E হলো বিকিরিত ফোটনের কম্পাঙ্ক। তাই, বিকিরিত শক্তি [math]E_u - E_l[/math]\u003Cbr\u003E এর সমান হয়।",
+        "explanation": "",
+        "correct_answer": "A.[math]h f=E_{u}-E_{1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 433276,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433277,
+      "value": {
+        "options": {
+          "ক": "[math]\\lambda=\\frac{E_{1}-E_{2}}{h e}[/math]",
+          "খ": "[math]\\lambda=\\frac{h c}{E_{2}}-\\frac{h c}{E_{1}}[/math]",
+          "গ": "[math]\\lambda=\\frac{c}{h\\left(E_{2}-E_{1}\\right)}[/math]",
+          "ঘ": "[math]\\lambda=\\frac{h c}{E_{2}-E_{1}}[/math]"
+        },
+        "question": "একটি ইলেকট্রন যদি [math]E_{2}[/math], শকিস্তর হতে [math]E_{1}[/math]; নিম্নশক্তিস্তরে গমন করে তাহলে বিকীর্ণ শক্তির তরঙ্গদৈর্ঘ্য জানা যাবে নিচের কোন সমীকরণের সাহায্যে?",
+        "solution": "বর্ণিত ক্ষেত্রে ইলেকট্রনের নির্গত শক্তির পরিমাণ হবে উচ্চ শক্তিস্তর ( [math]E_2[/math]\u003Cbr\u003E) এবং নিম্ন শক্তিস্তর ( [math]E_1[/math]\u003Cbr\u003E) এর পার্থক্য, অর্থাৎ [math]\\Delta E = E_2 - E_1[/math]\u003Cbr\u003E । फोटন বিকিরণের ক্ষেত্রে, শক্তি ( [math]E[/math]\u003Cbr\u003E) এবং তরঙ্গদৈর্ঘ্য ( [math]\\lambda[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হলো [math]E = \\frac{hc}{\\lambda}[/math]\u003Cbr\u003E, যেখানে [math]h[/math]\u003Cbr\u003E হলো প্ল্যাঙ্কের ধ্রুবক এবং [math]c[/math]\u003Cbr\u003E হলো আলোর বেগ। সুতরাং, নির্গত ফোটনের শক্তি হবে [math]E_{2}-E_{1}[/math]\u003Cbr\u003E , তাই [math]\\frac{hc}{\\lambda} = E_2 - E_1[/math]\u003Cbr\u003E । এই সমীকরণটিকে [math]\\lambda[/math]\u003Cbr\u003E এর জন্য সাজালে আমরা পাই [math]\\lambda=\\frac{hc}{E_{2}-E_{1}}[/math]\u003Cbr\u003E । বিকল্প A তে একটি অতিরিক্ত [math]e[/math]\u003Cbr\u003E (ইলেকট্রনের আধান) রয়েছে যা এই গণনার জন্য অপ্রাসঙ্গিক। বিকল্প B তে শক্তির পার্থক্যটি সঠিকভাবে প্রকাশ করা হলেও, এটিকে [math]\\lambda[/math]\u003Cbr\u003E এর সাথে সম্পর্কিত করার সূত্রটি সঠিক নয়। বিকল্প C তে [math]c[/math]\u003Cbr\u003E কে হর থেকে লব-এ নিয়ে যাওয়া এবং শক্তির পার্থক্যকে ভগ্নাংশ করা হয়েছে, যা সঠিক নয়।",
+        "explanation": "",
+        "correct_answer": "D.[math]\\lambda=\\frac{h c}{E_{2}-E_{1}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 433277,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433278,
+      "value": {
+        "options": {
+          "ক": "i,ii",
+          "খ": "ii,iii",
+          "গ": "i,iii",
+          "ঘ": "i,ii,iii"
+        },
+        "question": "তিনটি বিবৃতি দেওয়া হলো—\n\ni. কোনো ইলেকট্রন যদি উচ্চশক্তি স্তর [math]E_{u}[/math] থেকে একটি নিম্নশক্তি স্তর [math]E_{l}[/math], এ গমন করে তখন নিঃসৃত ফোটনের শক্তি হবে [math]hf=E_{u}-E_{l}[/math]\n\nii. প্রতি সেকেন্ডে একটি তেজস্ক্রিয় ভাঙ্গন বা ক্ষয়কে এক বেকেরেল বলে\n\niii. যে নিউক্লিয়ার বিক্রিয়ায় একটি ভারী নিউক্লিয়াস প্রায় সমান। ভরবিশিষ্ট দুটি নিউক্লিয়াসে বিভক্ত হয় তাকে নিউক্লিয়ার ফিশান বলে\n\nনিচের কোনটি সঠিক?",
+        "solution": "প্রথম বিবৃতিটি সঠিক কারণ একটি ইলেকট্রন যখন উচ্চ শক্তি স্তর থেকে নিম্ন শক্তি স্তরে যায় তখন শক্তি বিকিরণ করে, যা [math]E_{u}-E_{l}[/math]\u003Cbr\u003E এর সমান এবং এই শক্তি একটি ফোটনের শক্তি [math]hf[/math]\u003Cbr\u003E এর সমান হয়। দ্বিতীয় বিবৃতিটি সঠিক কারণ প্রতি সেকেন্ডে একটি তেজস্ক্রিয় রূপান্তরকে এক বেকেরেল (Bq) বলা হয়। তৃতীয় বিবৃতিটি সঠিক নয় কারণ যে নিউক্লিয়ার বিক্রিয়ায় একটি ভারী নিউক্লিয়াস প্রায় সমান ভরবিশিষ্ট দুটি নিউক্লিয়াসে বিভক্ত হয় তাকে নিউক্লিয়ার ফিশন বলে, এটি সঠিক সংজ্ঞা নয়। নিউক্লিয়ার ফিশনে একটি ভারী নিউক্লিয়াস ভেঙে অপেক্ষাকৃত হালকা দুটি নিউক্লিয়াসে পরিণত হয়, কিন্তু তারা প্রায় সমান ভরের হয় না। তাই প্রথম ও দ্বিতীয় বিবৃতি সঠিক।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 433278,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433279,
+      "value": {
+        "options": [],
+        "question": "[math]1 \\ amu[/math] ভরের সমতুল্য শক্তি কত?",
+        "solution": "",
+        "explanation": "ব্যাখ্যা: 1 amu-এর শক্তি সমতুল্য পাওয়া যায় [math]E=mc^2[/math] সূত্রে; এখানে [math]m=1\\,amu=1.6605\\times10^{-27}\\ kg[/math] এবং [math]c=2.998\\times10^8\\ m/s[/math], ফলে [math]E=1.6605\\times10^{-27}\\times(2.998\\times10^8)^2\\approx1.4924\\times10^{-10}\\ J[/math]. Joule থেকে ইলেকট্রনভোল্টে রূপান্তরে ([math]1\\ eV=1.6022\\times10^{-19}\\ J[/math]) এটি প্রায় [math]931.5\\ MeV[/math], তাই উত্তরটি সঠিক।",
+        "correct_answer": "A."
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 433279,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 433280,
+      "value": {
+        "options": {
+          "ক": "10 eV",
+          "খ": "-12 eV",
+          "গ": "-13.6 eV",
+          "ঘ": "+ 13.6 eV"
+        },
+        "question": "হাইড্রোজেন পরমাণুর ভূ-স্তরের শক্তি—",
+        "solution": "হাইড্রোজেন পরমাণুর মূল শক্তিস্তর বা ভূ-স্তরের শক্তি হলো [math]-13.6[/math] ইলেকট্রন ভোল্ট (eV)। এটি বোর মডেল অনুসারে নির্ণীত হয়। অন্য বিকল্পগুলি এই মানের সাথে সঙ্গতিপূর্ণ নয়।",
+        "explanation": "",
+        "correct_answer": "C. -13.6 eV"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6335,
+      "created_at": "2025-08-19T07:49:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 433280,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:49:53.000000Z",
+            "updated_at": "2025-08-19T07:49:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6335&grade=1&lesson=6710&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6335&grade=1&lesson=6710&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6335&grade=1&lesson=6710&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 42,
+  "total": 42
+}

@@ -1,0 +1,2820 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 414397,
+      "value": {
+        "options": [],
+        "question": "মানুষের শ্রাব্যতার তীব্রতার অনুপাত [math]10^{12}[/math] [math]-[/math] ব্যাখ্যা কর।",
+        "solution": "মানুষের কান এত সংবেদনশীল যে অতি ক্ষীণ এবং অত্যন্ত জোরালো শব্দ শুনতে পায়। মানুষের শ্রাব্যতার তীব্রতার অনুপাত [math]10^{12}[/math]\u003Cbr\u003E বলতে বুঝানো হয় যে একটি ক্ষীণশব্দ এবং এর প্রায় [math]10^{12}[/math]\u003Cbr\u003E গুণ বেশি তীব্রতা সম্পন্ন শব্দ আমাদের কানে অনুভূতি সৃষ্টি করতে পারে। এই সীমার বাইরে কোনো শব্দ আমরা শুনতে পাই না।",
+        "explanation": "মানুষের শ্রাব্যতার তীব্রতার অনুপাত [math]10^{12}[/math] মানে সবচেয়ে নীরব শব্দের তীব্রতা (প্রায় [math]10^{-12}\\ \\text{W m}^{-2}[/math]) থেকে খুব তীব্র/কষ্টদায়ক শব্দ (প্রায় [math]1\\ \\text{W m}^{-2}[/math]) পর্যন্ত অনুপাত। ডেসিবেলে এটি হিসাব করলে [math]\\Delta L=10\\log_{10}(I_2/I_1)=10\\log_{10}(10^{12})=120\\ \\text{dB}[/math], তাই মানবশ্রবণ প্রায় [math]120\\ \\text{dB}[/math] বিস্তৃত তীব্রতা অনুভব করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 414397,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414397,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 414397,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414396,
+      "value": {
+        "options": [],
+        "question": "শব্দের তীব্রতা লেবেল কাকে বলে?",
+        "solution": "কোনো শব্দের তীব্রতা ও প্রমাণ তীব্রতার অনুপাতের লগারিদমকে ঐ শব্দের তীব্রতা লেভেল বলে।",
+        "explanation": "শব্দের তীব্রতা লেবেল হলো শব্দস্তরের পরিমাপক যা ডেসিবেল (dB) এ প্রকাশ করা হয়। এটি সংজ্ঞায়িত হয়: [math]L=10\\log_{10}\\!\\left(\\frac{I}{I_0}\\right)\\,\\text{dB}[/math], যেখানে [math]I[/math] হলো শব্দের তীব্রতা এবং রেফারেন্স [math]I_0=10^{-12}\\,\\text{W/m}^2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 414396,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414396,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 414396,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414376,
+      "value": {
+        "options": {
+          "ক": "1 Hz থেকে 20 Hz",
+          "খ": "20 Hz থেকে 20 kHz",
+          "গ": "20 Hz থেকে 200 KHz",
+          "ঘ": "20 kHz থেকে 20000 KHz"
+        },
+        "question": "একজন যুবকের জন্য শ্রাব্যতার সীমা কোনাটি ?",
+        "solution": "মানুষের কানের শ্রবণসীমা সাধারণত 20 Hz থেকে 20 kHz পর্যন্ত বিস্তৃত। এর কম কম্পাঙ্কের শব্দকে অবশ্রাব্য (infrasound) এবং এর বেশি কম্পাঙ্কের শব্দকে পরাশ্রাব্য (ultrasound) বলা হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414376,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414375,
+      "value": {
+        "options": {
+          "ক": "[math]10^{-11}[/math]",
+          "খ": "[math]10^{11}[/math]",
+          "গ": "[math]10^{-12}[/math]",
+          "ঘ": "[math]10^{12}[/math]"
+        },
+        "question": "মানুষের কানে সহনীয় সর্বোচ্চ শব্দের তীব্রতা ও শ্রাব্যতার শুরুর তীব্রতার অনুপাত কোনটি ?",
+        "solution": "মানুষের কানে সহনীয় সর্বোচ্চ শব্দের তীব্রতা প্রায় [math]1 W/m^2[/math]\u003Cbr\u003E এবং শ্রাব্যতার শুরুর তীব্রতা [math]10^{-12} W/m^2[/math]\u003Cbr\u003E। এদের অনুপাত হলো [math]\\frac{1 W/m^2}{10^{-12} W/m^2} = 10^{12}[/math]\u003Cbr\u003E। এই সীমাটি শব্দের তীব্রতার একটি বিশাল পরিসর নির্দেশ করে যা মানুষ শুনতে পারে।",
+        "explanation": "",
+        "correct_answer": "D.[math]10^{12}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414375,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414377,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{Hz}[/math]",
+          "খ": "[math]\\mathrm{Wm}^{-2}[/math]",
+          "গ": "[math]\\mathrm{dB}[/math]",
+          "ঘ": "[math]\\mathrm{Wm}^{-1}[/math]"
+        },
+        "question": "শব্দের তীব্রতা লেভেল মাপার একক হচ্ছে–",
+        "solution": "শব্দের তীব্রতা লেভেল মাপার জন্য ডেসিবেল (dB) একক ব্যবহৃত হয়। এটি একটি লগারিদমিক স্কেল যা মানুষের শ্রবণ ক্ষমতার পরিসীমা বুঝতে সাহায্য করে। [math]\\mathrm{Hz}[/math]\u003Cbr\u003E (হার্টজ) দ্বারা শব্দের কম্পাঙ্ক মাপা হয়, অর্থাৎ প্রতি সেকেন্ডে কতগুলি পূর্ণ তরঙ্গ সম্পন্ন হচ্ছে। [math]\\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E (ওয়াট প্রতি বর্গমিটার) দ্বারা শব্দের প্রকৃত তীব্রতা (intensity) মাপা হয়, যা প্রতি একক ক্ষেত্রফলে শব্দের শক্তি প্রবাহ নির্দেশ করে। [math]\\mathrm{Wm}^{-1}[/math]\u003Cbr\u003E কোনো প্রমিত এককের নাম নয়।",
+        "explanation": "",
+        "correct_answer": "C.[math]\\mathrm{dB}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414377,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414378,
+      "value": {
+        "options": {
+          "ক": "[math]10^{-6} \\mathrm{Wm}^{-2}[/math]",
+          "খ": "[math]10^{-8} \\mathrm{Wm}^{-2}[/math]",
+          "গ": "[math]10^{-10} \\mathrm{Wm}^{-2}[/math]",
+          "ঘ": "[math]10^{-12} \\mathrm{Wm}^{-2}[/math]"
+        },
+        "question": "আমাদের কান সবচেয়ে মৃদু যে শব্দ শুনতে পায় তার তীব্রতা কত?",
+        "solution": "মানুষের কান প্রায় [math]10^{-12} \\mathrm{Wm}^{-2}[/math] তীব্রতার শব্দ শুনতে পায়, যা শব্দের শ্রাব্যতার সীমা নির্দেশ করে। এই তীব্রতা \"শ্রাব্যতার প্রান্ত\" (threshold of hearing) নামে পরিচিত। এর চেয়ে কম তীব্রতার শব্দ আমরা শুনতে পাই না। এটি একটি ডেসিবল স্কেলে 0 dB-এর সমান। মানুষের শ্রবণসীমা প্রায় 20 Hz থেকে 20 kHz পর্যন্ত বিস্তৃত, তবে এই সীমা বয়স এবং অন্যান্য কারণের উপর নির্ভর করে পরিবর্তিত হতে পারে।",
+        "explanation": "",
+        "correct_answer": "D.[math]10^{-12} \\mathrm{Wm}^{-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414378,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414379,
+      "value": {
+        "options": {
+          "ক": "তীব্রতা",
+          "খ": "স্বরকম্প",
+          "গ": "স্বরগ্রাম",
+          "ঘ": "শব্দোচ্চতা"
+        },
+        "question": "যে বৈশিষ্ট্য দ্বারা একটি শব্দ অন্য একটি শব্দ হতে কত বেশি জোরালো তা বুঝা যায়, তাকে কী বলে?",
+        "solution": "শব্দের যে বৈশিষ্ট্য দ্বারা একটি শব্দ অন্য একটি শব্দের চেয়ে কত বেশি জোরালো বা দুর্বল তা বোঝা যায়, তাকে শব্দের তীব্রতা (Intensity) বলা হয়। এটি শব্দের বিস্তার (amplitude) এর বর্গের সমানুপাতিক। শব্দের জোর বা আওয়াজের মাত্রাকে মূলত শব্দোচ্চতা (Loudness) দিয়ে প্রকাশ করা হয়, যা শ্রোতার কানের ওপর নির্ভর করে এবং এটি শব্দের তীব্রতার একটি মনস্তাত্ত্বিক ধারণা। স্বরগ্রাম (Pitch) শব্দের কম্পাঙ্কের (frequency) উপর নির্ভর করে এবং স্বর স্বর is not a standard term in acoustics.",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414379,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414380,
+      "value": {
+        "options": {
+          "ক": "50dB",
+          "খ": "90dB",
+          "গ": "10dB",
+          "ঘ": "110dB"
+        },
+        "question": "শব্দের তীব্রতার স্তর কত হলে সব কিছু প্রশান্ত মনে হবে?",
+        "solution": "শব্দের তীব্রতার স্তর 10 ডেসিবেল (dB) হলে তা শান্ত বা প্রশান্ত মনে হয়। এটি প্রায় একটি ফিসফিসানির শব্দের সমান। 50 dB স্বাভাবিক কথোপকথনের জন্য উপযুক্ত, 90 dB উচ্চ শব্দ যা দীর্ঘ সময় ধরে শুনলে ক্ষতি হতে পারে, এবং 110 dB খুবই উচ্চ শব্দ যা কানের জন্য ক্ষতিকর।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414380,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414381,
+      "value": {
+        "options": {
+          "ক": "[math]10^{-12} \\mathrm{Wm}^{-2}[/math]",
+          "খ": "[math]1 \\mathrm{Wm}^{-2}[/math]",
+          "গ": "[math]120 \\mathrm{~dB}[/math]",
+          "ঘ": "[math]2000 \\mathrm{~Hz}[/math]"
+        },
+        "question": "সবচেয়ে জোড়ালো যে শব্দ কান সহ্য করতে পারে তার প্রাবল্য—",
+        "solution": "মানুষের কান সর্বোচ্চ যে শব্দ শুনতে পারে তার প্রাবল্য হল [math]120 \\mathrm{~dB}[/math]\u003Cbr\u003E। [math]1 \\mathrm{~dB}[/math]\u003Cbr\u003E হলো শব্দের তীব্রতার একক, যেখানে [math]0 \\mathrm{~dB}[/math]\u003Cbr\u003E হলো শ্রাব্যতার সীমা। [math]10^{-12} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E হলো শব্দের ক্ষুদ্রতম প্রাবল্য যা মানুষ শুনতে পারে। [math]2000 \\mathrm{~Hz}[/math]\u003Cbr\u003E হলো শব্দের কম্পাঙ্ক, যা শ্রাব্যতার সীমার মধ্যে পড়ে।",
+        "explanation": "",
+        "correct_answer": "C.[math]120 \\mathrm{~dB}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414381,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414382,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii ও iii",
+          "গ": "iii",
+          "ঘ": "i ও iii"
+        },
+        "question": "কোন পাবলিক লাইব্রেরির পাঠকক্ষে শব্দের তীব্রতা [math]10^{-8} \\mathrm{Wm}^{-2}[/math] শব্দের তীব্রতা লেভেল কত হবে?\n\ni. 40 dB\n\nii. 20 dB\n\niii. 4 B\n\nনিচের কোনটি সঠিক?",
+        "solution": "শব্দের তীব্রতা লেভেল (L) ডেসিবেলে (dB) নির্ণয়ের সূত্র হলো [math]L = 10 \\log_{10} (\\frac{I}{I_0})[/math]\u003Cbr\u003E, যেখানে [math]I[/math]\u003Cbr\u003E হলো শব্দের তীব্রতা এবং [math]I_0[/math]\u003Cbr\u003E হলো শ্রাব্যতার সীমা, যার মান [math]10^{-12} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E।এখানে, [math]I = 10^{-8} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E এবং [math]I_0 = 10^{-12} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E।সুতরাং, [math]L = 10 \\log_{10} (\\frac{10^{-8}}{10^{-12}}) = 10 \\log_{10} (10^{(-8 - (-12))}) = 10 \\log_{10} (10^4) = 10 \\times 4 = 40 \\mathrm{dB}[/math]\u003Cbr\u003E।শব্দের তীব্রতা লেভেল সাধারণত ডেসিবেলে (dB) মাপা হয়, বেল (B) এককে খুব কমই ব্যবহৃত হয়। 1 বেল = 10 ডেসিবেল। তাই, 40 dB = 4 B।এই প্রশ্নটিতে দুটি উত্তর সঠিক, কারণ 40 dB এবং 4 B একই শব্দের তীব্রতা লেভেল নির্দেশ করে। তাই বিকল্প ii (20 dB) ভুল।সুতরাং, সঠিক উত্তর হল i ও iii।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414382,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414383,
+      "value": {
+        "options": {
+          "ক": "বেল",
+          "খ": "ডেসিবেল",
+          "গ": "সোন",
+          "ঘ": "ফন"
+        },
+        "question": "[math]1000\\rm{~Hz}[/math] কম্পাঙ্ক বিশিষ্ট প্ৰমাণ তীব্রতার এক ডেসিবেল এর একটি বিশুদ্ধ সুর যে প্রাবল্য সৃষ্টি করে তাকে কি বলে?",
+        "solution": "সঠিক উত্তর হল সোন। সোন হলো শব্দের প্রাবল্য বা Loudness-এর একটি একক। এটি 1 kHz কম্পাঙ্কের একটি বিশুদ্ধ সুরের সাথে তুলনা করে পরিমাপ করা হয়, যেখানে 40 dB সাউন্ড প্রেশার লেভেল (SPL) কে 40 সোন ধরা হয়। বেল এবং ডেসিবেল হল শব্দের তীব্রতা বা সাউন্ড প্রেশার লেভেল পরিমাপের একক, তবে সোন সরাসরি শব্দের শ্রবণযোগ্য প্রাবল্যকে নির্দেশ করে। ফন হল শব্দের প্রাবল্যের আরেকটি একক যা সোন-এর সাথে সম্পর্কিত।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414383,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3513,
+          "full_name": "Rajshahi College",
+          "short_name": "RC",
+          "slug": "rc",
+          "pivot": {
+            "question_bank_id": 414383,
+            "tag_id": 3513,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414384,
+      "value": {
+        "options": {
+          "ক": "12 dB",
+          "খ": "12 B",
+          "গ": "20 dB",
+          "ঘ": "20 B"
+        },
+        "question": "সর্বনিম্ন যে তীব্রতার শব্দে মানুষ যন্ত্রণা অনুভব করে তার মান কত?",
+        "solution": "সবচেয়ে কম যে তীব্রতার শব্দ আমাদের কানে যন্ত্রণা সৃষ্টি করে তাকে শ্রুতি যন্ত্রণার প্রারম্ভ বলে। এ তীব্রতার মান প্রায় [math]1 \\mathrm{wm}^{-2}[/math]\u003Cbr\u003E সুতরাং এর তীব্রতা লেভেল, [math]\\beta=10 \\log \\left(\\dfrac{1}{10^{-12}}\\right) \\mathrm{dB}=120 \\mathrm{~dB}=12 \\mathrm{~B}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414384,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3441,
+          "full_name": "Feni Government College",
+          "short_name": "FGC",
+          "slug": "fgc",
+          "pivot": {
+            "question_bank_id": 414384,
+            "tag_id": 3441,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414385,
+      "value": {
+        "options": {
+          "গ": "নাফিস তীব্রতা লেভেল কতটুকু বৃদ্ধি করেছিল?"
+        },
+        "question": "নাফিস তাদের টিভিতে [math]T[/math]- [math]20[/math] বিশ্বকাপের বাংলাদেশ বনাম ভারতের খেলা দেখছিল। তখন টিভির শব্দের তীব্রতা [math]1 \\times 10^{-6} \\mathrm{Wm}^{-2}[/math]। টান টান উত্তেজনার মুহূর্তে কাজের মেয়ে মিতু ব্লেন্ডার মেশিন চালু করল যার তীব্রতা লেভেল [math]85\\ dB[/math]। এবার নাফিস টিভির সাউন্ড বাড়িয়ে দিল যার তীব্রতা লেভেল [math]78\\ dB[/math].",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, প্রথমে টিভির তীব্রতা, [math]\\mathrm{I}=10^{-6} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003Eএবং আদর্শ তীব্রতা, [math]\\rm{I}_{0}=10^{-12} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E প্রথমে টিভির তীব্রতা লেভেল, [math]\\beta=10 \\log \\frac{10^{-6}}{10^{-12}} \\mathrm{~dB}=60 \\mathrm{~dB}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শেষে টিভির তীব্রতা লেভেল, [math]78 \\mathrm{~dB}[/math]\u003Cbr\u003Eনাফিস তীব্রতা লেভেল বৃদ্ধি করেছিল [math]=(78-60) \\mathrm{~dB}\\Rightarrow 18 \\mathrm{~dB}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E TV-এর প্রাথমিক তীব্রতা স্তর [math]\\beta_i=10\\log_{10}\\frac{1\\times10^{-6}}{10^{-12}}=10\\log_{10}(10^6)=60\\ \\mathrm{dB}[/math], পরে সেটা [math]78\\ \\mathrm{dB}[/math] হয়েছে, সুতরাং বৃদ্ধি [math]78-60=18\\ \\mathrm{dB}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 414385,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 414385,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414385,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414385,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414385,
+            "tag_id": 4,
+            "year": "2016",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414385,
+            "tag_id": 7,
+            "year": "2016",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414386,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের ব্লেন্ডার চালু অবস্থায় সম্মিলিত তীব্রতা লেভেল অস্বস্তিকর হবে কি-না তা গাণিতিকভাবে ব্যাখ্যা কর।"
+        },
+        "question": "নাফিস তাদের টিভিতে [math]T[/math]- [math]20[/math] বিশ্বকাপের বাংলাদেশ বনাম ভারতের খেলা দেখছিল। তখন টিভির শব্দের তীব্রতা [math]1 \\times 10^{-6} \\mathrm{Wm}^{-2}[/math]। টান টান উত্তেজনার মুহূর্তে কাজের মেয়ে মিতু ব্লেন্ডার মেশিন চালু করল যার তীব্রতা লেভেল [math]85\\ dB[/math]। এবার নাফিস টিভির সাউন্ড বাড়িয়ে দিল যার তীব্রতা লেভেল [math]78\\ dB[/math].",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, টিভির তীব্রতা লেভেল, [math]\\beta=78 \\mathrm{~dB}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E টিভির তীব্রতা [math]\\rm{I_1}[/math]\u003Cbr\u003E হলে,[math]\\hspace{1.5 cm}\\begin{array}{l} \\beta=10 \\log \\rm{\\dfrac{I_{1}}{I_{0}}} \\\\ \\Rightarrow \\dfrac{\\beta}{10}=\\log \\rm{\\frac{I_{1}}{I_{0}}} \\\\ \\Rightarrow 7.8=\\log \\rm{\\dfrac{I_{I}}{10^{-12}}} \\\\ \\Rightarrow \\rm{I}_{1}=10^{7.8} \\times 10^{-12}=6.31 \\times 10^{-5} \\mathrm{Wm}^{-2} \\end{array}[/math]\u003Cbr\u003Eব্লেন্ডারের তীব্রতা, [math]\\rm{I}_2[/math]\u003Cbr\u003E হলে,[math]\\hspace{1.5 cm}\\begin{aligned} 85 & =10 \\log \\rm{\\frac{I_{2}}{I_{0}}} \\\\ \\Rightarrow \\rm{I}_{2} & =10^{-12} \\times 10^{8.5}=3.16 \\times 10^{-4} \\mathrm{Wm}^{-2} \\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E সম্মিলিত তীব্রতা,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{I} & =\\mathrm{I}_{1}+\\mathrm{I}_{2} \\\\ & =6.31 \\times 10^{-5}+3.16 \\times 10^{-4} \\mathrm{Wm}^{-2} \\\\ & =3.79 \\times 10^{-4} \\mathrm{Wm}^{-2} \\end{aligned}[/math]\u003Cbr\u003Eসম্মিলিতি তীব্রতা লেভেল,[math]\\hspace{1.5 cm}\\begin{aligned} \\beta & =10 \\log \\frac{\\mathrm{I}}{\\mathrm{I}_{0}} \\\\ & =10 \\log \\frac{3.79 \\times 10^{-4}}{10^{-12}} \\\\ \\therefore \\beta & =85.79 \\mathrm{~dB} \\end{aligned}[/math]\u003Cbr\u003Eসম্মিলিত তীব্রতা লেভেল [math]85.79 \\mathrm{~dB}[/math]\u003Cbr\u003E যা [math]80 \\mathrm{~dB}[/math]\u003Cbr\u003E তুলনায় বেশি যা সার্বক্ষণিক শ্রবণে শ্রুতির মারাত্মক ক্ষতি করতে পারে তবে শ্রুতি যন্ত্রণা সৃষ্টি করে না।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: সম্মিলিত তীব্রতা লেভেল গণনা করতে ব্যবহার করি [math]L_{\\rm tot}=10\\log_{10}\\big(10^{L_1/10}+10^{L_2/10}\\big)[/math], যেখানে [math]L_1=85\\ \\rm dB,\\ L_2=78\\ \\rm dB[/math]. তাই [math]L_{\\rm tot}=10\\log_{10}\\big(10^{85/10}+10^{78/10}\\big)\\approx85.8\\ \\rm dB[/math]. এটি প্রায় [math]85.8\\ \\rm dB[/math], অর্থাৎ ব্লেন্ডার চালুর ফলে শব্দ মাত্রা কেবল সামান্য বেড়েছে — এটি দীর্ঘ সময়ের জন্য ক্ষতিকর হতে পারে (সাধারণত [math]85\\ \\rm dB[/math] আশেপাশের থেকে বেশি হলে ঝুঁকি থাকে), কিন্তু তৎক্ষণাত অস্বস্তির সীমা সাধারণত আরও বেশি (প্রায় [math]90\\ \\rm dB[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 414386,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 414386,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414386,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414386,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414386,
+            "tag_id": 4,
+            "year": "2016",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414386,
+            "tag_id": 7,
+            "year": "2016",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414387,
+      "value": {
+        "options": [],
+        "question": "দুটি শব্দের তীব্রতা যথাক্রমে [math]0.4 \\mathrm{~W} \\cdot \\mathrm{m}^{-2}[/math] এবং [math]10 \\tex t { W.m }{ }^{-2}[/math] ডেসিবেল এককে তাদের শব্দোচ্চতার পার্থক্য কত?",
+        "solution": "( Answer : [math]14 \\mathrm{~dB} .[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :দেয়া আছে,প্রথম শব্দের তীব্রতা, [math]\\mathrm{I}_{1}=0.4 \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003Eদ্বিতীয় শব্দের তীব্রতা, [math]\\mathrm{I}_{2}=10 \\mathrm{\\ Wm}^{-2}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শব্দোচ্চাতায় পার্থক্য [math]=10 \\log \\left(\\frac{\\mathrm{I}_{2}}{\\mathrm{I}_{1}}\\right)[/math]\u003Cbr\u003E [math]\\begin{array}{l}=10 \\log \\left(\\frac{10}{0.4}\\right) \\\\=14 \\text { dB. (Ans.) }\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: শব্দস্তরের পার্থক্য নির্ণয় করার সূত্র হলো [math]\\Delta L=10\\log_{10}\\!(I_2/I_1)[/math] যেখানে [math]I_1=0.4\\ \\mathrm{W\\,m^{-2}}[/math] এবং [math]I_2=10\\ \\mathrm{W\\,m^{-2}}[/math]; তাই [math]I_2/I_1=25[/math] এবং [math]\\Delta L=10\\log_{10}25\\approx13.98\\ \\mathrm{dB}\\approx14\\ \\mathrm{dB}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414387,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414388,
+      "value": {
+        "options": [],
+        "question": "দুটি শব্দের শব্দোচ্চতার পার্থক্য 6 dB. শব্দদ্বয়ের তীব্রতার অনুপাত কত?",
+        "solution": "( Answer : 4 )[math]\\\\[/math]\u003Cbr\u003ESolution :দেয়া আছে,দুটি শব্দের তীব্রতা লেভেলের পার্থক্য (B) = 6dBপ্রশ্নমতে, [math]6 \\mathrm{~dB}=10 \\log \\frac{\\mathrm{I}}{\\mathrm{I}_{0}} \\mathrm{~dB}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{I}}{\\mathrm{I}_{\\mathrm{o}}}=10^{0.6}[/math]\u003Cbr\u003E [math]\\therefore \\frac{\\mathrm{I}}{\\mathrm{I}_{0}}=3.98[/math]\u003Cbr\u003E [math]\\approx 4 \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: শব্দস্তরের পার্থক্য ডেসিবেলে দেওয়া হয়, যেখানে [math]\\Delta L=10\\log_{10}(I_1/I_2)[/math]. তাই [math]I_1/I_2=10^{\\Delta L/10}=10^{6/10}=10^{0.6}\\approx3.98\\approx4[/math], অর্থাৎ তীব্রতার অনুপাত প্রায় 4:1।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414388,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414389,
+      "value": {
+        "options": [],
+        "question": "কত তীব্রতার শব্দ [math]1 \\times 10^{-9} \\mathrm{Wm}^{-2}[/math] তীব্রতার শব্দ অপেক্ষা 17 dB বড় হবে?",
+        "solution": "( Answer : [math]5.01 \\times 10^{-8}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,তীব্রতা লেভেল, [math]\\Delta \\beta=17 \\mathrm{~dB}[/math]\u003Cbr\u003Eতীব্রতা, [math]\\mathrm{I}_{2}=1 \\times 10^{-9} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E [math]I_{1}=?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\Delta \\beta=10 \\log \\frac{I_{1}}{I_{2}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]17 \\mathrm{~dB}=10 \\log \\frac{I_{1}}{I_{2}} \\mathrm{~dB}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]1.7=\\log \\frac{I_{1}}{I_{2}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{I}_{1}}{\\mathrm{I}_{2}}=10^{1.7}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{I}_{1}=10^{1.7} \\times 10^{-9} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E [math]=5.01 \\times 10^{-8} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ডেসিবেল তফতর তীব্রতার লগারিদমিক অনুপাত দিয়ে মাপা হয়, তাই [math]\\Delta\\beta=10\\log_{10}(I_2/I_1)[/math]. এখানে [math]17=10\\log_{10}(I_2/1\\times10^{-9})[/math], ফলশ্রুতিতে [math]I_2=1\\times10^{-9}\\times10^{17/10}=1\\times10^{-9}\\times10^{1.7}\\approx5.01\\times10^{-8}\\ \\mathrm{Wm}^{-2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414389,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414390,
+      "value": {
+        "options": [],
+        "question": "কোনো শব্দের তীব্রতা প্রমাণ তীব্রতার 100 গুণ হলে ঐ শব্দের তীব্রতার লেভেল কত ডেসিবেল ?",
+        "solution": "( Answer : [math]20 \\mathrm{~dB}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,শব্দের তীব্রতা, [math]I=100 I_{0}[/math]\u003Cbr\u003Eতীব্রতা লেভেল, [math]\\beta=\\text { ? }[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned}\\beta & =10 \\log \\frac{1}{\\mathrm{I}_{\\mathrm{o}}} \\mathrm{dB} \\\\& =10 \\log \\frac{100 \\mathrm{I}_{\\mathrm{o}}}{\\mathrm{I}_{\\mathrm{o}}} \\mathrm{dB} \\\\& =10 \\times 2 \\mathrm{~dB}=20 \\mathrm{~dB} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "তীব্রতা লেভেল সংজ্ঞা হল [math]L=10\\log_{10}\\!(I/I_0)[/math]. যদি [math]I=100I_0[/math], তাহলে [math]L=10\\log_{10}(100)=10\\times2=20\\ \\text{dB}[/math]; অর্থাৎ তীব্রতা ১০০ গুণ হওয়ায় লেভেল ২০ ডেসিবেল বৃদ্ধি পায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414390,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414391,
+      "value": {
+        "options": [],
+        "question": "একটি অডিও ক্যাসেট প্লেয়ার ও একটি টেলিভিশনের তীব্রতা লেভেল যথাক্রমে 92dB এবং 86dB। এদের সম্মিলিত শব্দের তীব্রতার লেভেল নির্ণয় কর।",
+        "solution": "( Answer : [math]93 \\mathrm{~dB}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :দেওয়া আছে,অডিও প্লেয়ারের তীব্রতা লেভেল, [math]\\beta_{1}=92 \\mathrm{~dB}[/math]\u003Cbr\u003Eটেলিভিশনের তীব্রতা লেভেল, [math]\\beta_{2}=86 \\mathrm{~dB}[/math]\u003Cbr\u003Eপ্রমাণ তীব্রতা, [math]\\mathrm{I}_{0}=10^{-12} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003Eসম্মিলিত তীব্রতা লেভেল, [math]\\beta=?[/math]\u003Cbr\u003Eআমরা জানি, শব্দের তীব্রতা লেভেল, [math]\\beta=10 \\log \\frac{I_{1}}{I_{0}}[/math]\u003Cbr\u003Eসুতরাং, [math]\\beta_{1}=10 \\log \\frac{I_{1}}{I_{0}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]92 \\mathrm{~dB}=10 \\log \\frac{\\mathrm{I}_{1}}{\\dot{\\mathrm{I}}_{0}}[/math]\u003Cbr\u003E [math]\\begin{aligned}\\therefore \\mathrm{I}_{1} & =(10)^{9.2} \\times \\mathrm{I}_{0}: \\\\& =(10)^{9.2} \\times 10^{-12} \\mathrm{Wm}^{-2} \\\\& =10^{-2.8} \\mathrm{Wm}^{-2}\\end{aligned}[/math]\u003Cbr\u003Eআবার, [math]\\mathrm{I}_{2}=(10)^{8.6} \\times 10^{-12} \\mathrm{Wm}^{-2}=10^{-3.4} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E সম্মিলিত তীব্রতা,[math]\\begin{aligned}\\mathrm{I} & =\\mathrm{I}_{1}+\\mathrm{I}_{2} \\\\& =10^{-2.8} \\mathrm{Wm}^{-2}+10^{-3.4} \\mathrm{Wm}^{-2} \\\\& =1.98 \\times 10^{-3} \\mathrm{Wm}^{-2}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E সম্মিলিত তীব্রতা লেভেল,[math]\\begin{aligned}\\beta & =10 \\log \\frac{1.98 \\times 10^{-3} \\mathrm{Wm}^{-2}}{10^{-12} \\mathrm{Wm}^{-2}} \\\\& =10 \\times 9.3 \\mathrm{~dB}=93 \\mathrm{~dB} \\text { (Ans) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ডেসিবেল স্কেলে সরাসরি যোগ করা যায় না; ইন্টেনসিটি যোগ করে স্তর নির্ণয় করতে হয়, ফর্মুলা [math]L=10\\log_{10}\\big(10^{L_1/10}+10^{L_2/10}\\big)[/math]. এখানে [math]L_1=92[/math], [math]L_2=86[/math] রাখলে [math]L=10\\log_{10}(10^{9.2}+10^{8.6})\\approx10\\log_{10}(10^{8.6}\\times4.981)\\approx92.98\\ \\text{dB}\\approx93.0\\ \\text{dB}[/math], তাই সম্মিলিত তীব্রতা প্রায় 93.0 dB।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414391,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414392,
+      "value": {
+        "options": {
+          "গ": "শাবাবার নিকট জাহাজ থেকে সৃষ্ট সাইরেনের শব্দের তীব্রতা লেভেলের মান নির্ণয় কর।"
+        },
+        "question": "শাবাবা শিক্ষা সফরে নিঝুম দ্বীপ যাওয়ার জন্য লঞ্চে উঠলো। নদীতে নোঙর করা অপর একটি জাহাজ থেকে সৃষ্ট সাইরেনের শব্দের তীব্রতা শাবাবার কাছে [math]10^{-4} \\mathrm{Wm}^{-2}[/math] মনে হলো। এমন সময় শাবাবার লঞ্চের সাইরেনও বেজে উঠলো যার তীব্রতা লেভেল [math]100\\rm{~dB}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক অনুসারেজাহাজ থেকে সৃষ্ট সাইরেনের শব্দের তীব্রতা, [math]\\mathrm{I}=10^{-4} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003Eপ্রমাণ তীব্রতা, [math]\\mathrm{I}_{0}=10^{-12} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শব্দের তীব্রতা লেভেল, [math]\\beta=10 \\log \\frac{I}{I_{0}}[/math]\u003Cbr\u003E [math]\\hspace{3.5cm}\\begin{array}{l}\\Rightarrow\\beta=10\\log\\frac{10^{-4}}{10^{-12}}\\\\\\Rightarrow\\beta=10\\log_{10}8\\\\\\therefore\\beta=80\\mathrm{~dB}\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: শব্দ তীব্রতা স্তর নির্ণয়ের সূত্র হল [math]L=10\\log_{10}\\frac{I}{I_0}[/math], যেখানে সাধারণত [math]I_0=10^{-12}\\ \\mathrm{Wm^{-2}}[/math]. তাই [math]L=10\\log_{10}\\frac{10^{-4}}{10^{-12}}=10\\log_{10}10^{8}=80\\ \\mathrm{dB}[/math]. ফলে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এর মান [math]80\\ \\mathrm{dB}[/math] (এটি শাবাবার লঞ্চের সাইরেন [math]100\\ \\mathrm{dB}[/math] থেকে [math]20\\ \\mathrm{dB}[/math] কম)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414392,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3318,
+          "full_name": "Milestone College, Dhaka",
+          "short_name": "MCD",
+          "slug": "mcd",
+          "pivot": {
+            "question_bank_id": 414392,
+            "tag_id": 3318,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414393,
+      "value": {
+        "options": {
+          "ঘ": "সৃষ্ট দুটি শব্দ একত্রে শাবাবার কাছে সহনীয় হবে কি না— গাণিতিকভাবে ব্যাখ্যা কর।"
+        },
+        "question": "শাবাবা শিক্ষা সফরে নিঝুম দ্বীপ যাওয়ার জন্য লঞ্চে উঠলো। নদীতে নোঙর করা অপর একটি জাহাজ থেকে সৃষ্ট সাইরেনের শব্দের তীব্রতা শাবাবার কাছে [math]10^{-4} \\mathrm{Wm}^{-2}[/math] মনে হলো। এমন সময় শাবাবার লঞ্চের সাইরেনও বেজে উঠলো যার তীব্রতা লেভেল [math]100\\rm{~dB}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক হতে পাই,[math]\\hspace{1.5cm}\\mathrm{I}_{1}=10^{-4} \\mathrm{~W} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003Eএখানে,লঞ্চের সাইরেনের শব্দের তীব্রতা লেভেল, [math]\\beta=100 \\mathrm{~dB}[/math]\u003Cbr\u003Eআবার, লঞ্চের শব্দের তীব্রতা, [math]\\mathrm{I_2}[/math]\u003Cbr\u003E হলে,[math]\\hspace{1.5cm}\\begin{array}{l}\\ \\ \\ \\ \\beta=10\\log\\frac{I_2}{I_0}\\\\\\Rightarrow100=10\\log\\frac{\\mathrm{I}_2}{\\mathrm{I}_0}\\\\\\Rightarrow\\mathrm{I}_2=\\mathrm{I}_0\\times10^{10}\\\\\\Rightarrow\\mathrm{I}_2=10^{-12}\\times10^{10}\\\\\\therefore\\quad\\mathrm{I}_2=10^{-2}\\mathrm{~W}\\mathrm{~m}^{-2}\\\\\\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ সাইরেন দুটির সম্মিলিত তীব্রতা,[math]\\hspace{1.5cm}\\begin{aligned}\\mathrm{I} & =\\mathrm{I}_{1}+\\mathrm{I}_{2} \\\\& =10^{-4}+10^{-2} \\\\& =0.0101 \\mathrm{~W} \\mathrm{~m}^{-2}\\end{aligned}[/math]\u003Cbr\u003Eসুতরাং সম্মিলিত তীব্রতা লেভেল, [math]\\beta=10 \\log \\frac{I}{I_{0}}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{array}{l}\\Rightarrow \\beta=10 \\log \\frac{0.0101}{10^{-12}} \\\\\\therefore \\quad \\beta=100.04 \\mathrm{~dB}\\end{array}[/math]\u003Cbr\u003Eসুতরাং সৃষ্ট দুটি শব্দ শাবাবার কাছে সহনীয় হবে। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: 100 dB-এর ইন্টেন্সিটি হলো [math]I=10^{-12}\\times10^{100/10}=10^{-2}\\ \\mathrm{Wm^{-2}}[/math], দুই নম্বর জাহাজের শব্দ [math]10^{-4}\\ \\mathrm{Wm^{-2}}[/math] হলে মোট তীব্রতা [math]I_{\\rm tot}=10^{-2}+10^{-4}=1.01\\times10^{-2}\\ \\mathrm{Wm^{-2}}[/math]। সূচকগত মাত্রা হবে [math]L=10\\log_{10}\\frac{1.01\\times10^{-2}}{10^{-12}}\\approx100.04\\ \\mathrm{dB}[/math], অর্থাৎ মাত্রা মাত্র [math]0.04\\ \\mathrm{dB}[/math] বাড়ে এবং কার্যত এখনও ≈100 dB থাকে—যা দীর্ঘসময় সহনীয় নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414393,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3318,
+          "full_name": "Milestone College, Dhaka",
+          "short_name": "MCD",
+          "slug": "mcd",
+          "pivot": {
+            "question_bank_id": 414393,
+            "tag_id": 3318,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414394,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের ব্লেন্ডার চালু অবস্থায় তীব্রতা লেভেল অস্বস্তিকর হবে কি না? গাণিতিক বিশ্লেষণ কর।"
+        },
+        "question": "নিরা তাদের টিভিতে বাংলাদেশ বনাম ভারত এর মধ্যকার একটি ক্রিকেট ম্যাচ দেখছিল। তখন টিভির শব্দের তীব্রতা ছিল [math]1 \\times 10^{-6} \\mathrm{~W} \\mathrm{m}^{-2}[/math]। হঠাৎ নিরার বোন আসিয়া ব্লেন্ডার মেশিন চালু করল যার তীব্রতা লেভেল ছিল [math]85\\ dB[/math]। এবার নিরা টিভির সাউ ন্ড বাড়িয়ে দিল যার তীব্রতা লেভেল [math]78\\ dB[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, টিভির শব্দের তীব্রতা লেভেল, [math]\\beta=78 \\mathrm{~dB}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E টিভির শব্দের তীব্রতা [math]\\mathrm{I}_{1}[/math]\u003Cbr\u003E হলে,[math]\\hspace{1.5cm}\\begin{array}{l}\\quad\\beta=10\\log\\frac{I_1}{I_0}\\\\\\Rightarrow\\frac{\\beta}{10}=\\log\\frac{I_1}{I_0}\\\\\\Rightarrow7.8=\\log\\frac{I_1}{10^{-12}}\\\\\\Rightarrow\\mathrm I_1=10^{7.8}\\times10^{-12}=6.31\\times10^{-5}\\cdot\\mathrm{Wm}^{-2}\\end{array}[/math]\u003Cbr\u003Eব্লেন্ডারের শব্দের তীব্রতা, [math]\\mathrm{I}_{2}[/math]\u003Cbr\u003E হলে,[math]\\hspace{1.5cm}\\begin{aligned}85 & =10 \\log \\frac{I_{2}}{I_{0}} \\\\\\Rightarrow \\mathrm I_{2} & =10^{-12} \\times 10^{8.5}=3.16 \\times 10^{-4} \\mathrm{Wm}^{-2}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E সম্মিলিত শব্দের তীব্রতা, [math]\\mathrm{I}=\\mathrm{I}_{1}+\\mathrm{I}_{2}[/math]\u003Cbr\u003E [math]\\hspace{4.7cm}\\begin{array}{l}=6.31 \\times 10^{-5}+3.16 \\times 10^{-4} \\mathrm{Wm}^{-2} \\\\=3.79 \\times 10^{-4} \\mathrm{Wm}^{-2}\\end{array}[/math]\u003Cbr\u003Eসম্মিলিতি শব্দের তীব্রতা লেভেল, [math]\\beta=10 \\log \\frac{I}{I_{0}}[/math]\u003Cbr\u003E [math]\\hspace{5cm}\\begin{aligned}& =10 \\log \\frac{3.79 \\times 10^{-4}}{10^{-12}} \\\\\\therefore \\beta & =85.79 \\mathrm{~dB}\\end{aligned}[/math]\u003Cbr\u003Eসম্মিলিত শব্দের তীব্রতা লেভেল [math]85.79 \\mathrm{~dB}[/math]\u003Cbr\u003E যা [math]80 \\mathrm{~dB}[/math]\u003Cbr\u003E এর তুলনায় বেশি যা সার্বক্ষণিক শ্রবণে শ্রুতির মারাত্মক ক্ষতি করতে পারে তবে শ্ৰুতি যন্ত্রণা সৃষ্টি করে না । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্লেন্ডারের [math]85\\ \\mathrm{dB}[/math] তীব্রতা অস্বস্তিকর ও দীর্ঘসময় অনুভব করলে ক্ষতিকর হতে পারে; গণিতগতভাবে [math]I_{blender}=10^{-12}\\times10^{85/10}=3.16\\times10^{-4}\\ \\mathrm{W\\,m^{-2}}[/math], টিভির [math]78\\ \\mathrm{dB}[/math] হলে [math]I_{TV}=10^{-12}\\times10^{78/10}=6.31\\times10^{-5}\\ \\mathrm{W\\,m^{-2}}[/math], তাই [math]I_{blender}/I_{TV}=10^{(85-78)/10}\\approx5[/math] (ব্লেন্ডার টিভির চেয়ে প্রায় ৫ গুণ তীব্র) — 85 dB সাধারণভাবে অস্বস্তিকর এবং দীর্ঘসময় ক্ষতিকর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414394,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1926,
+          "full_name": "Birsrestha Noor Mohammad Public College",
+          "short_name": "BNMPC",
+          "slug": "bnmpc",
+          "pivot": {
+            "question_bank_id": 414394,
+            "tag_id": 1926,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414395,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের শেষ ক্ষেত্রে শব্দের তীব্রতা লেভেল কত?"
+        },
+        "question": "একদিন সাকিন তার মোবাইলে [math]BBC[/math] এর সংবাদ শুনছিল। তখন শব্দের তীব্রতা ছিল [math]10^{-7} \\ {Wm}^{-2}[/math]। কিছুক্ষণ পর সে সাউন্ড বাড়িয়ে শব্দের তীব্রতা দ্বিগুণ করল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, শব্দের তীব্রতা, [math]\\mathrm{I}=2 \\times 10^{-7} \\mathrm{~W} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003Eপ্রমাণ তীব্রতা, [math]\\mathrm{I}_{0}=10^{-12} \\mathrm{~W} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003Eতীব্রতা লেভেল, [math]\\beta=\\text { ? }[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1cm}\\begin{aligned}\\beta & =10 \\log \\frac{\\mathrm{I}}{\\mathrm{I}_{0}} \\\\& =10 \\log \\frac{2 \\times 10^{-7} \\mathrm{~W} \\mathrm{~m}^{-2}}{10^{-12} \\mathrm{~W} \\mathrm{~m}^{-2}} \\\\& =53.01 \\cong 53 \\mathrm{~dB}\\end{aligned}[/math]\u003Cbr\u003Eনির্ণেয় তীব্রতা লেভেল 53 dB [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শব্দ স্তর বের করতে ব্যবহার করি [math]L=10\\log_{10}(I/I_0)[/math] যেখানে [math]I_0=10^{-12}\\ \\mathrm{Wm^{-2}}[/math]. প্রাথমিক অবস্থায় [math]L_1=10\\log_{10}(10^{-7}/10^{-12})=50\\ \\mathrm{dB}[/math], দ্বিগুণ করলে [math]L_2=10\\log_{10}(2\\times10^{-7}/10^{-12})=10\\log_{10}(2\\times10^5)\\approx53.01\\ \\mathrm{dB}[/math] (প্রায় [math]53\\ \\mathrm{dB}[/math], বৃদ্ধি প্রায় [math]3.01\\ \\mathrm{dB}[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414395,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 345,
+          "full_name": "Feni Girls' Cadet College",
+          "short_name": "FGCC",
+          "slug": "fgcc",
+          "pivot": {
+            "question_bank_id": 414395,
+            "tag_id": 345,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:03.000000Z",
+            "updated_at": "2025-08-19T06:54:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414374,
+      "value": {
+        "options": {
+          "ক": "0 dB",
+          "খ": "1 dB",
+          "গ": "0.1 dB",
+          "ঘ": "–1 dB"
+        },
+        "question": "প্রমাণ তীব্রতার একটি শব্দের তীব্রতা লেভেল কত?",
+        "solution": "প্রমাণ তীব্রতার শব্দের তীব্রতা লেভেল 0 dB হয়। এটি একটি সংজ্ঞানুসারে নির্ধারিত মান, যা আমাদের শোনার ক্ষমতার সর্বনিম্ন সীমা। 10 dB এর বেশি পার্থক্য শ্রবণযোগ্য মনে হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414374,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414373,
+      "value": {
+        "options": {
+          "ক": "30 গুণ",
+          "খ": "300 গুণ",
+          "গ": "1000 গুণ",
+          "ঘ": "3000 গুণ"
+        },
+        "question": "একটি প্লেনের ইঞ্জিন চালু করার কারণে শব্দের তীব্রতা লেভেল 30dB বৃদ্ধি পেলে সেটি কতগুণ বৃদ্ধি পেয়েছে?",
+        "solution": "[math]\\begin{array}{l}\\text{Hints: } \\beta=10 \\log _{10}\\left(\\frac{I_{1}}{I_{0}}\\right)\\\\\\text{Solve: } \\beta=10 \\log \\left(\\frac{I_{1}}{I_{0}}\\right) \\ldots . \\text{. (i), } \\beta_{2}=10 \\log \\left(\\frac{I_{2}}{I_{0}}\\right)\\\\\\text { (i) }- \\text { (ii), } \\beta_{2}-\\beta_{1}=10 \\log \\left(\\frac{\\mathrm{I}_{2}}{\\mathrm{I}_{0}}\\right)-10 \\log \\left(\\frac{\\mathrm{I}_{1}}{\\mathrm{~L}_{0}}\\right) \\\\\\Rightarrow \\beta_{1}+30-\\beta_{1}=10\\left[\\log \\left(\\frac{\\mathrm{I}_{2}}{\\mathrm{I}_{0}}\\right)-\\log \\left(\\frac{\\mathrm{I}_{1}}{\\mathrm{I}_{0}}\\right)\\right]\\left[\\because \\beta_{2}=\\beta_{1}+30\\right] \\\\\\Rightarrow 30=10 \\log \\left(\\frac{\\mathrm{I}_{2}}{\\mathrm{I}_{0}} \\div \\frac{\\mathrm{I}_{1}}{\\mathrm{I}_{0}}\\right) \\Rightarrow 3=\\log \\left(\\frac{\\mathrm{I}_{2}}{\\mathrm{I}_{1}}\\right) \\\\\\Rightarrow 10^{3}=\\frac{\\mathrm{I}_{2}}{\\mathrm{I}_{1}} \\Rightarrow \\mathrm{I}_{2}=1000 \\mathrm{I}_{1}\\end{array}[/math]",
+        "explanation": "ব্যাখ্যা: যেকোনো তীব্রতার শব্দের শব্দোচ্চতা এবং আদর্শ বা প্রমাণ তীব্রতার শব্দের শব্দোচ্চতার পার্থক্যকে তীব্রতা লেভেল বলেযে কোন তীব্রতার শব্দের শব্দোচ্চতা, [math]S_{1}=10 \\log (\\mathrm{I})[/math]\u003Cbr\u003Eপ্রমাণ তীব্রতার শব্দের শব্দোচ্চতা [math]S_{2}=10 \\log \\left(\\mathrm{I}_{0}\\right)[/math]\u003Cbr\u003E [math]\\beta=S_{2}-S_{1}=10 \\log _{10}\\left(\\frac{\\mathrm{I}}{\\mathrm{I}_{0}}\\right) \\mathrm{dB}[/math]\u003Cbr\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 414373,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 414373,
+            "tag_id": 73,
+            "year": "09-10",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414372,
+      "value": {
+        "options": {
+          "ক": "30 dB",
+          "খ": "60 dB",
+          "গ": "117 dB",
+          "ঘ": "123 dB",
+          "ঙ": "240 dB"
+        },
+        "question": "পাশাপাশি 2 টি হেভি মেটাল ব্যান্ড 120B শব্দ তৈরী করছে। একটি ব্যান্ড চলে গেলে কত শব্দ তৈরী হবে?",
+        "solution": "[math]\\begin{array}{l}\\text{Hints: } \\beta=\\beta_{1}-\\beta_{2} ; \\beta_{2}=10 \\log \\left(\\frac{I_{1}}{I_{2}}\\right)\\\\\\text{Solve: } \\beta=\\beta_{1}-\\beta_{2}\\\\=120 \\mathrm{~dB}-10 \\log \\left(\\frac{\\mathrm{I}_{1}}{\\mathrm{I}_{2}}\\right) \\mathrm{dB} \\\\ =120 \\mathrm{~dB}-10 \\log \\left(\\frac{\\mathrm{I}_{1}}{\\frac{1}{2} \\mathrm{I}_{2}}\\right) \\mathrm{dB}\\\\ \\Rightarrow 120 \\mathrm{~dB}-3 \\mathrm{~dB}=117 \\mathrm{~dB}\\end{array}[/math]\u003Cbr\u003E [math]\\left[\\because I_{2}=\\frac{1}{2} I_{1}\\right.[/math]\u003Cbr\u003E অর্থাৎ 1 টি ব্যান্ড চলে যাওয়ায় তীব্রতা অর্ধেক হয়ে যাবে]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 414372,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 414372,
+            "tag_id": 73,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414371,
+      "value": {
+        "options": {
+          "ক": "10–10000 Hz",
+          "খ": "20–20000 Hz",
+          "গ": "30–30000 Hz",
+          "ঘ": "20–20020 Hz"
+        },
+        "question": "শ্রাব্যতার সীমা কত?",
+        "solution": "মানুষের কান সাধারণত 20 হার্টজ (Hz) থেকে 20,000 হার্টজ (Hz) পর্যন্ত শব্দ তরঙ্গ শুনতে পায়। এই সীমার বাইরের শব্দগুলো হয় খুব কম কম্পাঙ্কের (অবশ্রাব্য শব্দ) অথবা খুব বেশি কম্পাঙ্কের (উচ্চশ্রাব্য শব্দ) হওয়ায় আমাদের কান তা শুনতে পায় না। বয়সের সাথে সাথে বা অন্য কোনো কারণে এই সীমা কিছুটা পরিবর্তিত হতে পারে, বিশেষ করে উচ্চ কম্পাঙ্কের শ্রবণ ক্ষমতা কমে যেতে পারে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 414371,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 414371,
+            "tag_id": 3,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414370,
+      "value": {
+        "options": {
+          "A": "Doubled",
+          "B": "3 times",
+          "C": "2.5 times",
+          "D": "1.5 times"
+        },
+        "question": "If the sound level is increased by [math]3dB[/math], what is the corresponding change in the intensity level?",
+        "solution": "[math]P+3=10 \\log \\left(\\dfrac{I^{\\prime}}{I_{0}}\\right)[/math]\u003Cbr\u003E [math]\\Rightarrow P+3=10 \\log \\left(\\dfrac{x I}{I_{0}}\\right) \\Rightarrow P+3=10 \\log x+10 \\log \\left(\\dfrac{I}{I_{0}}\\right) \\therefore 10 \\log x=3 ; x=2[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 414370,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 414370,
+            "tag_id": 55,
+            "year": "14-15",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414369,
+      "value": {
+        "options": {
+          "ক": "88",
+          "খ": "75",
+          "গ": "58",
+          "ঘ": "37",
+          "ঙ": "21"
+        },
+        "question": "একটি শ্রেণিকক্ষে শব্দের তীব্রতা লেভেল [math]1\\ dB[/math] কমাতে হলে শব্দের তীব্রতা [math]W/m^2[/math] এ শতকরা কত ভাগ কমাতে হবে?",
+        "solution": "[math]\\Delta \\beta=10 \\log \\dfrac{I_{f}}{I_{i}}[/math]\u003Cbr\u003E যেহেতু, [math]\\Delta \\beta=-1 \\mathrm{~dB} \\quad \\therefore \\dfrac{{I}_{{f}}}{{I}_{{i}}}=10^{-0.1}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E কমাতে হবে [math]=\\left(\\dfrac{I_{i}-I_{f}}{I_{i}}\\right) \\times 100 \\%=\\left(1-\\dfrac{I_{f}}{I_{i}}\\right) \\times 100 \\%=20.57 \\% \\approx 21 \\%[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "E. 21"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 414369,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 414369,
+            "tag_id": 73,
+            "year": "16-17",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414368,
+      "value": {
+        "options": {
+          "ক": "[math]-10[/math] বেল",
+          "খ": "[math]-12[/math] বেল",
+          "গ": "[math]0[/math] বেল",
+          "ঘ": "[math]-15[/math] বেল"
+        },
+        "question": "বেল একক অনুসারে শব্দের তীব্রতা লেভেলের সর্বনিম্ন সীমা হলো-",
+        "solution": "শব্দের তীব্রতা লেভেল (Sound Intensity Level) পরিমাপের জন্য বেল (Bel) একক ব্যবহার করা হয়। এই স্কেলের সর্বনিম্ন সীমা হলো [math]0[/math]\u003Cbr\u003E বেল। এটি [math]10^{\\circ}[/math]\u003Cbr\u003E ওয়াট প্রতি বর্গমিটার ( [math]10^0 \\, \\text{W/m}^2[/math]\u003Cbr\u003E) তীব্রতার সাথে সম্পর্কিত, যা মানুষের শ্রবণশক্তির প্রায় সর্বনিম্ন শ্রবণসীমা। অন্য বিকল্পগুলো এই সর্বনিম্ন সীমার চেয়ে কম তীব্রতা নির্দেশ করে, যা বাস্তবসম্মত নয়। বেল স্কেলের পরিবর্তে ডেসিবেল (Decibel, dB) একক বেশি প্রচলিত, যেখানে [math]0[/math]\u003Cbr\u003E dB সর্বনিম্ন শ্রবণসীমার সঙ্গে সঙ্গতিপূর্ণ।",
+        "explanation": "",
+        "correct_answer": "C.[math]0[/math] বেল"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 414368,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 414368,
+            "tag_id": 84,
+            "year": "17-18",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414367,
+      "value": {
+        "options": {
+          "ক": "70",
+          "খ": "40",
+          "গ": "60",
+          "ঘ": "50"
+        },
+        "question": "স্বাভাবিক কথোপকথনে শব্দের তীব্রতা লেভেল [math]\\beta (dB)[/math] নিম্নের কোনটি?",
+        "solution": "স্বাভাবিক কথোপকথনে শব্দের তীব্রতা লেভেল প্রায় 60 dB হয়ে থাকে। এটি মূলত মানুষের শ্রবণসীমা এবং দৈনন্দিন জীবনে ব্যবহৃত শব্দের মাত্রার সাথে সামঞ্জস্যপূর্ণ। 70 dB এর উপরে শব্দকে সাধারণত উচ্চ শব্দ হিসেবে গণ্য করা হয় যা শ্রবণশক্তির জন্য ক্ষতিকর হতে পারে। 40 dB এবং 50 dB তুলনামূলকভাবে শান্ত পরিবেশের শব্দের মাত্রা।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 414367,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 414367,
+            "tag_id": 480,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414366,
+      "value": {
+        "options": {
+          "ক": "[math]10^{-6} \\mathrm{Wm}^{-2}[/math]",
+          "খ": "[math]10^{-8} \\mathrm{Wm}^{-2}[/math]",
+          "গ": "[math]10^{-10} \\mathrm{Wm}^{-2}[/math]",
+          "ঘ": "[math]10^{-12} \\mathrm{Wm}^{-2}[/math]"
+        },
+        "question": "আমাদের কানে সবচেয়ে ম্রিদ যে শব্দ শুনতে পাই তার তীব্রতা কত?",
+        "solution": "মানুষের কান সাধারণত [math]10^{-12} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E তীব্রতার শব্দ শুনতে পায়, যা শব্দের শ্রবণসীমার সর্বনিম্ন প্রান্ত। এই তীব্রতাকে [math]0[/math]\u003Cbr\u003E ডেসিবল (dB) ধরা হয়। এর চেয়ে কম তীব্রতার শব্দ আমরা শুনতে পাই না। শব্দের তীব্রতা ডেসিবল স্কেলে মাপা হয়, যা লগারিদমিক স্কেল। [math]10 \\mathrm{dB}[/math]\u003Cbr\u003E বৃদ্ধি মানে শব্দের তীব্রতা ১০ গুণ বৃদ্ধি, এবং [math]20 \\mathrm{dB}[/math]\u003Cbr\u003E বৃদ্ধি মানে শব্দের তীব্রতা ১০০ গুণ বৃদ্ধি।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 414366,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 148,
+          "full_name": "Agriculture Cluster Admission System",
+          "short_name": "ACAS",
+          "slug": "acas",
+          "pivot": {
+            "question_bank_id": 414366,
+            "tag_id": 148,
+            "year": "19-20",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414365,
+      "value": {
+        "options": {
+          "ক": "[math]10^{-6} \\mathrm{Wm}^{-2}[/math]",
+          "খ": "[math]10^{-8} \\mathrm{Wm}^{-2}[/math]",
+          "গ": "[math]10^{-10} \\mathrm{Wm}^{-2}[/math]",
+          "ঘ": "[math]10^{-12} \\mathrm{Wm}^{-2}[/math]"
+        },
+        "question": "আমাদের কানে সবচেয়ে মুদ্র যে শব্দ শুনতে পাই তার তীব্রতা কত?",
+        "solution": "মানুষের কান যে সর্বনিম্ন শব্দের তীব্রতা শুনতে পায় তা হলো [math]10^{-12} \\mathrm{Wm}^{-2}[/math]। এই তীব্রতাকে শব্দের শ্রাব্যতার সীমা (threshold of hearing) বলা হয়। এর চেয়ে কম তীব্রতার শব্দ মানুষ শুনতে পায় না।",
+        "explanation": "",
+        "correct_answer": "D.[math]10^{-12} \\mathrm{Wm}^{-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 414365,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 148,
+          "full_name": "Agriculture Cluster Admission System",
+          "short_name": "ACAS",
+          "slug": "acas",
+          "pivot": {
+            "question_bank_id": 414365,
+            "tag_id": 148,
+            "year": "19-20",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414364,
+      "value": {
+        "options": {
+          "ক": "[math]5 \\sim 15,000 \\mathrm{~Hz}[/math]",
+          "খ": "[math]0 \\sim 20,000 \\mathrm{~Hz}[/math]",
+          "গ": "[math]20 \\sim 20,000 \\mathrm{~Hz}[/math]",
+          "ঘ": "[math]25 \\sim 25,000 \\mathrm{~Hz}[/math]"
+        },
+        "question": "শ্রাব্যতার সীমা কত?",
+        "solution": "মানুষ সাধারণত [math]20[/math]\u003Cbr\u003E হার্টজ থেকে [math]20,000[/math]\u003Cbr\u003E হার্টজ পর্যন্ত শব্দ তরঙ্গ শুনতে পায়। এটি মানুষের শ্রাব্যতার সীমা হিসাবে পরিচিত। এর চেয়ে কম কম্পাঙ্কের শব্দকে অবশ্রাব্য (infrasound) এবং এর চেয়ে বেশি কম্পাঙ্কের শব্দকে পরাশ্রাব্য (ultrasound) বলা হয়। বিভিন্ন প্রাণীর শ্রাব্যতার সীমা ভিন্ন হতে পারে, যেমন কুকুরের শ্রাব্যতার সীমা প্রায় [math]40,000[/math]\u003Cbr\u003E হার্টজ পর্যন্ত বিস্তৃত।",
+        "explanation": "",
+        "correct_answer": "C.[math]20 \\sim 20,000 \\mathrm{~Hz}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 32,
+          "year": "2003-2004",
+          "pivot": {
+            "question_bank_id": 414364,
+            "year_id": 32
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 414364,
+            "tag_id": 3225,
+            "year": "03-04",
+            "created_at": "2025-08-19T06:54:02.000000Z",
+            "updated_at": "2025-08-19T06:54:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414357,
+      "value": {
+        "options": {
+          "ক": "70 dB",
+          "খ": "50 dB",
+          "গ": "10 dB",
+          "ঘ": "90 dB"
+        },
+        "question": "শ্রেণিকক্ষের শব্দের তীব্রতা লেভেল কত?",
+        "solution": "কয়েকটি তীব্রতা লেভেল নিচে দেওয়া হলো:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fmat20phhysics20chapter209_1755586441_Gi5A5qvs.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "explanation": "",
+        "correct_answer": "B.50 dB"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 414357,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 414357,
+            "tag_id": 18,
+            "year": "17-18",
+            "created_at": "2025-08-19T06:54:01.000000Z",
+            "updated_at": "2025-08-19T06:54:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414358,
+      "value": {
+        "options": {
+          "ক": "20 Hz হতে 20000 Hz",
+          "খ": "200 Hz হতে 2000 Hz",
+          "গ": "20 Hz হতে 120000 Hz",
+          "ঘ": "10 Hz হতে 10.000 Hz"
+        },
+        "question": "কোনটি শ্রাব্যতার সীমা?",
+        "solution": "প্রতি সেকেন্ডে কম্পনের সংখ্যা 20 Hz হতে 20,000Hz এর মধ্যে থাকলে যে শব্দ উৎপন্ন হয় তা আমরা শুনতে পাই, কম্পনের এই সীমাকে শ্রাব্যতার সীমা বলে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 34,
+          "year": "2002-2003",
+          "pivot": {
+            "question_bank_id": 414358,
+            "year_id": 34
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 414358,
+            "tag_id": 18,
+            "year": "02-03",
+            "created_at": "2025-08-19T06:54:01.000000Z",
+            "updated_at": "2025-08-19T06:54:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414359,
+      "value": {
+        "options": {
+          "ক": "200 dB",
+          "খ": "180 dB",
+          "গ": "80 dB",
+          "ঘ": "120 dB"
+        },
+        "question": "শব্দের সর্বোচ্চ কত তীব্রতা মানুষের কর্ণ সহ্য করতে পারে?",
+        "solution": "অগ্রগামী তরঙ্গের বৈশিষ্ট্য:i. সকল কণাই পর্যাবৃত্ত গতি লাভ করে।ii, মাধ্যমের কণাগুলো কখনও স্থিরাবস্থা প্রাপ্ত হয় না।iii. মাধ্যমের প্রতিটি কণার বিস্তার সমান কিন্তু তাদের ভেতর দশা পার্থক্য থাকে।iv. মাধ্যমের ভেতর দিয়ে নির্দিষ্ট বেগে অগ্রসর হয়।v. এর সমীকরণ: [math]y=A \\sin \\frac{2 \\pi}{\\lambda}(v t-x)[/math]",
+        "explanation": "",
+        "correct_answer": "D.120 dB"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 414359,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 414359,
+            "tag_id": 3225,
+            "year": "19-20",
+            "created_at": "2025-08-19T06:54:01.000000Z",
+            "updated_at": "2025-08-19T06:54:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414360,
+      "value": {
+        "options": {
+          "ক": "[math]10^{-6} \\mathrm{Wm}^{-2}[/math]",
+          "খ": "[math]10^{-8} \\mathrm{Wm}^{-2}[/math]",
+          "গ": "[math]10^{-12} \\mathrm{Wm}^{-2}[/math]",
+          "ঘ": "[math]10^{-10} \\mathrm{Wm}^{-2}[/math]"
+        },
+        "question": "মানুষের কান সবচেয়ে মৃদু যে শব্দ শুনতে পায়, তার তীব্রতা কত?",
+        "solution": "মানুষের কান সবচেয়ে কম যে তীব্রতার শব্দ শুনতে পায় তা হলো [math]10^{-12} \\mathrm{Wm}^{-2}[/math]। এটি শ্রাব্যতার সীমা (threshold of hearing) নামে পরিচিত। এর চেয়ে কম তীব্রতার শব্দ মানুষ শুনতে পায় না, যদিও এর চেয়ে বেশি তীব্রতার শব্দও ক্ষতিকর হতে পারে। শব্দের তীব্রতা মূলত শব্দের শক্তি এবং প্রতি একক ক্ষেত্রফলের উপর নির্ভর করে। ডেসিবেল (dB) স্কেলে এই সর্বনিম্ন শ্রবণযোগ্য শব্দের তীব্রতাকে 0 dB ধরা হয়।",
+        "explanation": "",
+        "correct_answer": "C.[math]10^{-12} \\mathrm{Wm}^{-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 414360,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 414360,
+            "tag_id": 3225,
+            "year": "16-17",
+            "created_at": "2025-08-19T06:54:01.000000Z",
+            "updated_at": "2025-08-19T06:54:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414361,
+      "value": {
+        "options": {
+          "ক": "70",
+          "খ": "40",
+          "গ": "60",
+          "ঘ": "50"
+        },
+        "question": "স্বাভাবিক কথপোকথনে শব্দের তীব্রতা লেভেল ẞ (dB) নিম্নের কোনটি?",
+        "solution": "শব্দ উৎস ও তীব্রতা লেভেল ẞ(dB)\n\n• স্বাভাবিক শ্বাস-প্রশ্বাস → 0\n\n• পাতার মর্মর ধ্বনি →10\n\n• ফিসফিস কথা → 30\n\n• স্বাভাবিক কথা → 60\n\n• লাইব্রেরি → 40",
+        "explanation": "",
+        "correct_answer": "C.60"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 414361,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 414361,
+            "tag_id": 3225,
+            "year": "10-11",
+            "created_at": "2025-08-19T06:54:01.000000Z",
+            "updated_at": "2025-08-19T06:54:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414362,
+      "value": {
+        "options": {
+          "ক": "[math]1 \\propto \\frac{1}{\\mathrm{f}^{2}}[/math]",
+          "খ": "উৎসের কাছে অনুনাদী বস্তুর উপস্থিতি শব্দের তীব্রতা কমিয়ে দেয়",
+          "গ": "শব্দের তীব্রতা উৎসের আকারের সহিত সম্পর্কিত নয়",
+          "ঘ": "মাধ্যমের ঘনত্ব বেশি হলে শব্দের তীব্রতা বেশি হয়"
+        },
+        "question": "নিম্নের কোন তথ্যটি শব্দের জন্য সঠিক?",
+        "solution": "অনুনাদী নল সম্পূর্ণভাবে উলম্ব করে নেয়া হয়• তীক্ষ্ণতা হচ্ছে সুশ্রাব্য শব্দের বৈশিষ্ট্য• [math]f \\propto \\frac{1}{1}[/math]\u003Cbr\u003E -যখন, T ও µ স্থির• [math]f \\propto \\sqrt{T}[/math]\u003Cbr\u003E যখন, I ও µ স্থির",
+        "explanation": "",
+        "correct_answer": "D.মাধ্যমের ঘনত্ব বেশি হলে শব্দের তীব্রতা বেশি হয়"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 414362,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 414362,
+            "tag_id": 3225,
+            "year": "10-11",
+            "created_at": "2025-08-19T06:54:01.000000Z",
+            "updated_at": "2025-08-19T06:54:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414363,
+      "value": {
+        "options": {
+          "ক": "উৎসের আকার বড় হলে শব্দের তীব্রতা বেড়ে যায়",
+          "খ": "শব্দ সৃষ্টিকারী বস্তুর কম্পন ও বিস্তার বেশি হলে শব্দের তীব্রতা বেশি হয়",
+          "গ": "উৎসের কম্পাঙ্ক বেশি হলে শব্দের তীব্রতা কম হয়",
+          "ঘ": "যে মাধ্যমের মধ্য দিয়ে শব্দ তরঙ্গ সঞ্চালিত হয় তার ঘনত্ব বেশি হলে শব্দের তীব্রতা বেশি হয়"
+        },
+        "question": "শব্দের তীব্রতা ও শব্দোচ্চতা সম্বন্ধে নিম্নের কোন তথ্যটি সঠিক নয়?",
+        "solution": "তীব্রতা ও প্রাবল্য উভয়ই শব্দের উৎসের কম্পনের বিস্তারের বর্গের সমানুপাতিক বিধায় তীব্রতা ও প্রাবল্যকে সাধারণত অভিন্ন বলে ধরা হয়। কিন্তু প্রকৃতপক্ষে প্রাবল্য বলতে তীব্রতা কানে যে অনুভূতির উদ্রেক করে তা বুঝায় এবং এটি ব্যক্তি নির্ভর। কম্পাঙ্ক বৃদ্ধি পেলে তীক্ষ্ণতাও বৃদ্ধি পায় অর্থাৎ তীক্ষ্ণতা কম্পাঙ্কের সমানুপাতিক।",
+        "explanation": "",
+        "correct_answer": "C.উৎসের কম্পাঙ্ক বেশি হলে শব্দের তীব্রতা কম হয়"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:54:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 25,
+          "year": "2006-2007",
+          "pivot": {
+            "question_bank_id": 414363,
+            "year_id": 25
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 414363,
+            "tag_id": 3225,
+            "year": "06-07",
+            "created_at": "2025-08-19T06:54:01.000000Z",
+            "updated_at": "2025-08-19T06:54:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414352,
+      "value": {
+        "options": {
+          "ক": "[math]\\beta=\\log \\dfrac{I}{I_{0}}[/math]",
+          "খ": "[math]\\beta=10 \\log \\dfrac{I}{I_{0}}[/math]",
+          "গ": "[math]\\beta=\\dfrac{I}{I_{0}} \\times 10[/math]",
+          "ঘ": "[math]\\beta=\\dfrac{I}{I_{0}}[/math]"
+        },
+        "question": "ডেসিবেল এককে শব্দের তীব্রতা লেভেল কোনটি?",
+        "solution": "শব্দের তীব্রতা লেভেল (Sound Intensity Level) ডেসিবেল (dB) এককে প্রকাশ করার সূত্র হলো [math]\\beta = 10 \\log_{10} \\frac{I}{I_0}[/math]\u003Cbr\u003E, যেখানে [math]I[/math]\u003Cbr\u003E হলো শব্দের তীব্রতা এবং [math]I_0[/math]\u003Cbr\u003E হলো একটি প্রসঙ্গ তীব্রতা (সাধারণত [math]10^{-12}[/math]\u003Cbr\u003E [math]W/m^2[/math]\u003Cbr\u003E ধরা হয়)। লগারিদমের সাথে 10 গুণ করার কারণ হলো মানুষের শ্রবণের অনুভূতি লগারিদমিক (logarithmic)। এটি শব্দের বিশাল পরিসরকে ছোট এবং সহজে পরিচালনাযোগ্য স্কেলে নিয়ে আসে।",
+        "explanation": "",
+        "correct_answer": "B.[math]\\beta=10 \\log \\dfrac{I}{I_{0}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 414352,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414352,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414352,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T06:53:59.000000Z",
+            "updated_at": "2025-08-19T06:53:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414356,
+      "value": {
+        "options": {
+          "ক": "dB",
+          "খ": "DB",
+          "গ": "[math]\\mathrm{Wm}^{-2}[/math]",
+          "ঘ": "[math]\\mathrm{WM}^{-1}[/math]"
+        },
+        "question": "শব্দের প্রবলতা মাপার একক হচ্ছে-",
+        "solution": "• শব্দের তীব্রতার লেভেল পরিমাপের একক dB (ডেসিবেল, dB)• শব্দের প্রবলতার বা তীব্রতার একক [math]\\mathrm{Wm}^{-2}[/math]",
+        "explanation": "",
+        "correct_answer": "C.[math]\\mathrm{Wm}^{-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 414356,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 414356,
+            "tag_id": 18,
+            "year": "19-20",
+            "created_at": "2025-08-19T06:53:59.000000Z",
+            "updated_at": "2025-08-19T06:53:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414355,
+      "value": {
+        "options": {
+          "ক": "10 dB",
+          "খ": "0 dB",
+          "গ": "2 dB",
+          "ঘ": "1 dB"
+        },
+        "question": "কোন তীব্রতার মাত্রাকে কানের শ্রবণসীমা (threshold of audibility of ear) বলে?",
+        "solution": "তীব্রতা লেভেল, [math]\\beta=10 \\log \\frac{I}{I_{0}} d B .[/math]\u003Cbr\u003Eশ্রাব্যতার প্রারম্ভিক শব্দের তীব্রতা, [math]I=I_{0}=10^{-12} \\mathrm{Wm}^{-2} .[/math]\u003Cbr\u003Eঅতএব, শ্রাব্যতার প্রারম্ভিক সীমা [math]=0 \\mathrm{~dB} .[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.0 dB"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 414355,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 414355,
+            "tag_id": 18,
+            "year": "20-21",
+            "created_at": "2025-08-19T06:53:59.000000Z",
+            "updated_at": "2025-08-19T06:53:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414354,
+      "value": {
+        "options": {
+          "ক": "[math]10^{-12} \\mathrm{wm}^{-2}[/math]",
+          "খ": "[math]10^{-6} \\mathrm{wm}^{-2}[/math]",
+          "গ": "[math]10^{-10} \\mathrm{wm}^{-2}[/math]",
+          "ঘ": "[math]10^{-8} \\mathrm{wm}^{-2}[/math]"
+        },
+        "question": "মানুসের কান সবচেয়ে মৃদু যে শব্দ শুনতে পায় তার তীব্রতা কত?",
+        "solution": "সবচেয়ে মৃদু যে শব্দ মানুষ শুনতে পায় তার তীব্রতা [math]10^{-12} \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E। সবচেয়ে জোরালো যে শব্দ কান সহ্য করতে পারে তার তীব্রতা [math]1 \\mathrm{Wm}^{-2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]10^{-12} \\mathrm{wm}^{-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 414354,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 414354,
+            "tag_id": 18,
+            "year": "23-24",
+            "created_at": "2025-08-19T06:53:59.000000Z",
+            "updated_at": "2025-08-19T06:53:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414353,
+      "value": {
+        "options": {
+          "ক": "[math]৮০, \\text{dB}[/math]",
+          "খ": "[math]১২০, \\text{dB}[/math]",
+          "গ": "[math]১৫০, \\text{dB}[/math]",
+          "ঘ": "[math]১৮০, \\text{dB}[/math]"
+        },
+        "question": "কোন শব্দ তীব্রতায় (sound intensity) কানে শ্রুতি যন্ত্রণা শোনা যায়?",
+        "solution": "শ্রুতি যন্ত্রণা শুরু হয় প্রায় [math]120, \\text{dB}[/math] তীব্রতার শব্দে, যা মানুষ কানে যন্ত্রণা অনুভব করে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 15,
+          "year": "2024-2025",
+          "pivot": {
+            "question_bank_id": 414353,
+            "year_id": 15
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 414353,
+            "tag_id": 18,
+            "year": "24-25",
+            "created_at": "2025-08-19T06:53:59.000000Z",
+            "updated_at": "2025-08-19T06:53:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6600&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6600&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6600&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 46,
+  "total": 46
+}

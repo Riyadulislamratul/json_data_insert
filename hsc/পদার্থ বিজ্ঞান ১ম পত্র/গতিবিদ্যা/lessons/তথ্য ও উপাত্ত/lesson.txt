@@ -1,0 +1,532 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 398447,
+      "value": {
+        "options": {
+          "ক": "ভরবেগের একক হলো ভরের একক X বেগের একক [math]\\left(\\mathrm{kgms}^{-1}\\right)[/math]",
+          "খ": "কৌণিক বেগকে বৃত্তের ব্যাসার্ধ দ্বারা ভাগ করলে রৈখিক বেগ পাওয়া যায়",
+          "গ": "শব্দের তীব্রতা উৎসের কম্পাঙ্কের বর্গের সমানুপাতিক",
+          "ঘ": "রুদ্ধতাপীয় রেখা সমোষ্ণ রেখার চেয়ে অধিকতর খাড়া"
+        },
+        "question": "কোন উক্তিটি সত্য নয়?",
+        "solution": "কৌণিক বেগকে বৃত্তের ব্যাসার্ধ দ্বারা গুণ করলে রৈখিক বেগ পাওয়া যায়।",
+        "explanation": "",
+        "correct_answer": "B.কৌণিক বেগকে বৃত্তের ব্যাসার্ধ দ্বারা ভাগ করলে রৈখিক বেগ পাওয়া যায়"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:42:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 25,
+          "year": "2006-2007",
+          "pivot": {
+            "question_bank_id": 398447,
+            "year_id": 25
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 398447,
+            "tag_id": 18,
+            "year": "06-07",
+            "created_at": "2025-08-19T05:42:53.000000Z",
+            "updated_at": "2025-08-19T05:42:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 398448,
+      "value": {
+        "options": {
+          "ক": "[math]1kWh=550 \\ J[/math]",
+          "খ": "[math]1kWh=746 \\ J[/math]",
+          "গ": "[math]1kWh=3.6 \\times 10^6 \\ J[/math]",
+          "ঘ": "[math]1kWh=9.8 \\ J[/math]"
+        },
+        "question": "কিলোওয়াট-ঘন্টার সাথে জুলের সম্পর্ক –",
+        "solution": "[math]1 \\mathrm{kWh}=1000 \\mathrm{~W} \\times 3600 \\mathrm{~s}=3.6 \\times 10^{6} \\mathrm{~J}[/math]",
+        "explanation": "",
+        "correct_answer": "C.[math]1kWh=3.6 \\times 10^6 \\ J[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:42:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 398448,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 398448,
+            "tag_id": 3,
+            "year": "14-15",
+            "created_at": "2025-08-19T05:42:53.000000Z",
+            "updated_at": "2025-08-19T05:42:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 398449,
+      "value": {
+        "options": [],
+        "question": "গরু দ্বারা ধান মাড়াইয়ের সময় সর্বাধিক বেগে দৌড়াতে হয়।\n\n[math]\\hspace{1 cm}[/math](i) নিকটবর্তী গরুকে\n\n[math]\\hspace{1 cm}[/math](ii)দূরবর্তী গরুকে\n\n[math]\\hspace{1 cm}[/math](iii) সবগুলো সমান বেগে\n\nনিচের কোনটি সঠিক ?",
+        "solution": "[math]\\mathrm{V}=\\omega \\mathrm{r} \\quad \\therefore[/math] যে গরুর দূরত্ব যত বেশি তার বেগ তত বেশী।",
+        "explanation": "ব্যাখ্যা: ধান মাড়ায় প্রত্যেক গরু একই কোণগত বেগে ঘোরে, তাই তাদের রেখীয় গতি [math]v=\\omega r[/math] অনুযায়ী ব্যাসার্ধের অনুপাতে বৃদ্ধি পায়; ফলে সবচেয়ে বেশি বেগে দৌড়াতে হয় দূরবর্তী গরুকে (ii)।",
+        "correct_answer": "D."
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:42:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 398449,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 398449,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 398449,
+            "tag_id": 4,
+            "year": "14-15",
+            "created_at": "2025-08-19T05:42:53.000000Z",
+            "updated_at": "2025-08-19T05:42:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 398450,
+      "value": {
+        "options": {
+          "ক": "বেগ ও দ্রুতি",
+          "খ": "বল ও টর্ক",
+          "গ": "কাজ ও শক্তি",
+          "ঘ": "ত্বরণ ও মন্দন"
+        },
+        "question": "কোনটির একক ও মাত্রা এক নয়?",
+        "solution": "[বল] [math]=\\mathrm{MLT}^{-2}[/math]\u003Cbr\u003E [টক] [math]=\\mathrm{ML}^{2} \\mathrm{~T}^{-2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:42:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 398450,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 196,
+          "full_name": "Pabna University of Science and Technology (A Unit)",
+          "short_name": "PUST-A",
+          "slug": "pust-a",
+          "pivot": {
+            "question_bank_id": 398450,
+            "tag_id": 196,
+            "year": "13-14",
+            "created_at": "2025-08-19T05:42:53.000000Z",
+            "updated_at": "2025-08-19T05:42:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 398451,
+      "value": {
+        "options": {
+          "ক": "[math]mg[/math]",
+          "খ": "[math]mc^2[/math]",
+          "গ": "[math]1/2mv^2[/math]",
+          "ঘ": "[math]mv[/math]"
+        },
+        "question": "কোন বস্তুর ভর m হলে এর ওজন–",
+        "solution": "ওজন হলো বস্তুর উপর পৃথিবীর অভিকর্ষ বলের পরিমাপ। বস্তুর ভর (m) এবং অভিকর্ষজ ত্বরণ (g) এর গুণফলই হলো ওজন (W)। সূত্রটি হলো [math]W = mg[/math]\u003Cbr\u003E. বিকল্প B ( [math]mc^2[/math]\u003Cbr\u003E) আইনস্টাইনের ভর-শক্তি সমীকরণ, যা বস্তুর ভরকে শক্তিতে রূপান্তরিত করে। বিকল্প C ( [math]1/2mv^2[/math]\u003Cbr\u003E) হলো বস্তুর গতিশক্তি। বিকল্প D (mv) হলো ভরবেগ। সুতরাং, বস্তুর ভর m হলে তার ওজন হবে [math]mg[/math]\u003Cbr\u003E.",
+        "explanation": "",
+        "correct_answer": "A.[math]mg[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:42:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 398451,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 14,
+          "full_name": "Hajee Mohammad Danesh Science & Technology University (A Unit)",
+          "short_name": "HSTU-A",
+          "slug": "hstu-a",
+          "pivot": {
+            "question_bank_id": 398451,
+            "tag_id": 14,
+            "year": "12-13",
+            "created_at": "2025-08-19T05:42:53.000000Z",
+            "updated_at": "2025-08-19T05:42:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 398452,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{v}=\\mathrm{u}+\\mathrm{ft}[/math]",
+          "খ": "[math]v^{2}=u^{2}+2 g h[/math]",
+          "গ": "[math]S_{t}=u-\\frac{2 t+1}{2} f[/math]",
+          "ঘ": "[math]\\theta=\\omega t+\\frac{1}{2} \\theta t^{2}[/math]"
+        },
+        "question": "নিম্নের কোন সমীকরণটি সঠিক নয় ?",
+        "solution": "এখানে গতির সমীকরণগুলোর মধ্যে [math]S_{t}=u-\\frac{2 t+1}{2} f[/math]\u003Cbr\u003E সমীকরণটি সঠিক নয়। গতির তৃতীয় সমীকরণটি হলো [math]v^2 = u^2 + 2as[/math]\u003Cbr\u003E, যেখানে [math]a[/math]\u003Cbr\u003E হলো ত্বরণ এবং [math]s[/math]\u003Cbr\u003E হলো সরণ। এই সমীকরণে [math]g[/math]\u003Cbr\u003E অভিকর্ষজ ত্বরণ এবং [math]h[/math]\u003Cbr\u003E উচ্চতা বোঝানো হয়েছে, যা উল্লম্বভাবে নিক্ষিপ্ত বস্তুর ক্ষেত্রে প্রযোজ্য। এছাড়া, [math]v=u+ft[/math]\u003Cbr\u003E হলো গতির প্রথম সমীকরণ এবং [math]S_{t}[/math]\u003Cbr\u003E দ্বারা [math]t[/math]\u003Cbr\u003E তম সেকেন্ডে অতিক্রান্ত দূরত্ব বোঝানো হলে তার সঠিক সমীকরণটি হবে [math]S_t = u + \\frac{f(2t-1)}{2}[/math]\u003Cbr\u003E। গতির শেষ সমীকরণটিও সঠিক নয়, কারণ কৌণিক গতির সমীকরণটি হলো [math]\\theta=\\omega t+\\frac{1}{2} \\alpha t^2[/math]\u003Cbr\u003E, যেখানে [math]\\omega[/math]\u003Cbr\u003E হলো প্রাথমিক কৌণিক বেগ এবং [math]\\alpha[/math]\u003Cbr\u003E হলো কৌণিক ত্বরণ। তাই, প্রশ্নে উল্লিখিত [math]v^{2}=u^{2}+2 g h[/math]\u003Cbr\u003E এবং [math]\\theta=\\omega t+\\frac{1}{2} \\theta t^{2}[/math]\u003Cbr\u003E সমীকরণ দুটি সঠিক নয়। তবে প্রদত্ত অপশনগুলির মধ্যে [math]S_{t}=u-\\frac{2 t+1}{2} f[/math]\u003Cbr\u003E সমীকরণটি গতির কোনো পরিচিত সমীকরণ নয় এবং এটি ভুল।",
+        "explanation": "",
+        "correct_answer": "D.[math]\\theta=\\omega t+\\frac{1}{2} \\theta t^{2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:42:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 398452,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 398452,
+            "tag_id": 3,
+            "year": "11-12",
+            "created_at": "2025-08-19T05:42:53.000000Z",
+            "updated_at": "2025-08-19T05:42:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 398453,
+      "value": {
+        "options": {
+          "ক": "পাথর",
+          "খ": "টেবিলের উপর মার্বেলের অবস্থান",
+          "গ": "সরু, দীর্ঘ সুতা",
+          "ঘ": "ঝুলন্ত সুতা"
+        },
+        "question": "কোনটি দ্বিমাত্রিক বস্তুর উদাহরণ?",
+        "solution": "দ্বিমাত্রিক বস্তুর কেবল দৈর্ঘ্য ও প্রস্থ থাকে, উচ্চতা থাকে না। টেবিলের উপর মার্বেলের অবস্থানকে একটি বিন্দু হিসেবে ভাবা যেতে পারে, যার দৈর্ঘ্য, প্রস্থ বা উচ্চতা নেই। তাই এটি দ্বিমাত্রিক নয়। পাথর ত্রিমাত্রিক, সরু ও দীর্ঘ সুতা এবং ঝুলন্ত সুতাও ত্রিমাত্রিক কারণ তাদের দৈর্ঘ্য, প্রস্থ ও উচ্চতা (অত্যন্ত কম হলেও) আছে।\n\n\"দ্বিমাত্রিক\" (Two-dimensional) বস্তুর ধারণা জ্যামিতিতে গুরুত্বপূর্ণ, যেখানে এদেরকে তল বা পৃষ্ঠ (plane) হিসেবে কল্পনা করা হয়। যেমন - একটি রেখা (line) বা একটি বর্গক্ষেত্র (square)। জ্যামিতিতে, একটি রেখার কেবল দৈর্ঘ্য আছে, প্রস্থ বা উচ্চতা নেই, তাই এটি এক-মাত্রিক। একটি বর্গক্ষেত্র বা বৃত্তের দৈর্ঘ্য ও প্রস্থ আছে, কিন্তু কোনো পুরুত্ব বা উচ্চতা নেই, তাই এরা দ্বিমাত্রিক। বাস্তব জগতে প্রায় সকল বস্তুই ত্রিমাত্রিক (three-dimensional), যাদের দৈর্ঘ্য, প্রস্থ ও উচ্চতা বিদ্যমান। তবে, কিছু বস্তুকে তাদের একটি মাত্রা অন্য মাত্রাগুলোর তুলনায় এতই নগণ্য যে সেগুলোকে প্রায় দ্বিমাত্রিক হিসেবে বিবেচনা করা যেতে পারে, যেমন - একটি কাগজের পাতা।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:42:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 398453,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T05:42:53.000000Z",
+            "updated_at": "2025-08-19T05:42:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 398454,
+      "value": {
+        "options": [],
+        "question": "নিট বল কী?",
+        "solution": "কোনো বস্তুর ওপর যদি একাধিক বল প্রযুক্ত হয় তাহলে বস্তুর ওপর প্রযুক্ত স্বতন্ত্র বলগুলোর ভেক্টর সমষ্টিকে নিট বল বলে।",
+        "explanation": "নিট বল (সমষ্টিযোগ বল) হলো কোনো বস্তুতে কাজ করা সব বলের ভেক্টর যোগফল, যা ঐ বস্তুর গতির পরিবর্তন (ত্বরন) নির্ধারণ করে। যদি সমষ্টি শূন্য হয় ত্বরন হয় না, আর যদি না শূন্য হয় তাহলে নিউটনের দ্বিতীয় নিয়ম অনুযায়ী ত্বরন দেয়া হয়: [math]F_{net}=ma[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:42:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 398454,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 398454,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 398454,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:42:53.000000Z",
+            "updated_at": "2025-08-19T05:42:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6512&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6512&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6512&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

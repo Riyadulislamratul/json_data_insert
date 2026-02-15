@@ -1,0 +1,2094 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 437422,
+      "value": {
+        "options": {
+          "ঘ": "ট্রানজিস্টরটিকে অ্যামপ্লিফায়ার হিসেবে ব্যবহার করা যাবে কি না?"
+        },
+        "question": "চিত্রে একটি সাধারণ ইমিটার ট্রানজিস্টর দেখানো হলো। এতে [math]0.8\\ V[/math] বিভব প্রয়োগ করলে [math]10\\ mA[/math] প্রবাহ এবং [math]1\\ V[/math] প্রয়োগ করলে [math]30\\ m A[/math] প্রবাহ পাওয়া যায়। এর কারেন্ট গেইন [math]70[/math] এবং লোড রোধ [math]100\\Omega[/math]।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020tp20cq-30_1755590222_ECjuKK2H.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eআমরা জানি, ইনপুট ভোল্টেজ [math]\\mathrm{V}_{\\mathrm{in}}=\\mathrm{I}_{\\mathrm{in}} \\mathrm{R}_{\\mathrm{d}}=\\frac{\\mathrm{I}_{\\mathrm{c}}}{\\beta} \\times \\mathrm{R}_{\\mathrm{d}}[/math]\u003Cbr\u003Eএবং আউটপুট ভোল্টেজ, [math]\\mathrm{V}_{0}=\\mathrm{i}_{\\mathrm{c}} \\mathrm{R}_{\\mathrm{L}}[/math]\u003Cbr\u003Eসুতরাং [math]\\frac{V_{0}}{V_{\\text {in }}}=\\frac{\\beta L_{c} R_{L}}{I_{c} R_{d}}[/math]\u003Cbr\u003E [math]\\hspace{2cm}\\begin{array}{l}=\\frac{70 \\times 100}{10}=700 \\\\\\therefore \\quad V_{0}=700 V_{\\text {in }}\\end{array}[/math]\u003Cbr\u003Eসুতরাং আউটপুট সার্কিটে ইনপুট সার্কিটের 700 গুন ভোল্টেজ পাওয়া যাবে।সুতরাং ট্রানজিস্টরটিকে অ্যাপ্লিফায়ার হিসেবে ব্যবহার করা যাবে।",
+        "explanation": "ব্যাখ্যা: ট্রানজিস্টরের ট্রান্সকন্ডাকট্যান্স [math]g_m=\\Delta I/\\Delta V=[math]0.02\\ A/0.2\\ V=[/math]0.1\\ A/V[/math]. ভোল্টেজ গেইন হবে [math]A_v=-g_mR_L=[/math][math]-0.1\\times100=-10[/math], তাই আউটপুট ভোল্টেজ ইনপুটের তুলনায় 10 গুণ বড় (ফেজ ইনভার্সনসহ)। অতএব এটি অ্যাম্প্লিফায়ার হিসেবে ব্যবহার করা যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437422,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3541,
+          "full_name": "Carmichael College, Rangpur",
+          "short_name": "CMCR",
+          "slug": "cmcr",
+          "pivot": {
+            "question_bank_id": 437422,
+            "tag_id": 3541,
+            "year": "2020",
+            "created_at": "2025-08-19T07:57:02.000000Z",
+            "updated_at": "2025-08-19T07:57:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437421,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের বর্তনীর প্রবাহ বিবর্ধন গুণক কত?"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020tp20cq-29_1755590221_JZgLQWYa.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nউদ্দীপকে একটি কমন এমিটার [math]\\rm{n-p-n}[/math] অ্যামপ্লিফায়ার বর্তনী দেখানো হল। বর্তনীর গতিরোধ [math]40\\Omega[/math]। এর কারেন্ট গেইন [math]75[/math]। বর্তনীর [math]R_{L}=60 \\Omega[/math] এবং [math]I_{C}=5 \\mathrm{~mA}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,কারেন্ট গেইন, [math]\\beta = 75[/math]\u003Cbr\u003Eপ্রবাহ বিবর্ধন গুণক, [math]\\alpha = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5cm}\\begin{array}{l}\\beta=\\frac{\\alpha}{1-\\alpha}\\\\\\Rightarrow 75=\\frac{\\alpha}{1-\\alpha}\\\\\\Rightarrow 75-75 \\alpha=\\alpha\\\\\\Rightarrow 76 \\alpha=75\\\\\\Rightarrow \\alpha=\\frac{75}{76}=0.99\\end{array}[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের বর্তনীর প্রবাহ বিবর্ধন গুণক 0.99 । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কমন‑এমিটার কনফিগারেশনে আউটপুট কারেন্ট হচ্ছে কালেক্টর কারেন্ট [math]i_C[/math] এবং ইনপুট হিসেবে বেজ কারেন্ট [math]i_B[/math] হলে প্রবাহ গুণক হল [math]i_C/i_B=β[/math]; এখানে [math]β=75[/math], তাই প্রবাহ বিবর্ধন গুণক = [math]75[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437421,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 360,
+          "full_name": "Government Syed Hatem Ali College",
+          "short_name": "GSHAC",
+          "slug": "gshac",
+          "pivot": {
+            "question_bank_id": 437421,
+            "tag_id": 360,
+            "year": "2020",
+            "created_at": "2025-08-19T07:57:01.000000Z",
+            "updated_at": "2025-08-19T07:57:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437420,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের বর্তনী থেকে [math]100\\%[/math] ভোল্টেজ গেইন পাওয়া সম্ভব কি না— গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020tp20cq-29_1755590220_vv1ws9QG.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nউদ্দীপকে একটি কমন এমিটার [math]\\rm{n-p-n}[/math] অ্যামপ্লিফায়ার বর্তনী দেখানো হল। বর্তনীর গতিরোধ [math]40\\Omega[/math]। এর কারেন্ট গেইন [math]75[/math]। বর্তনীর [math]R_{L}=60 \\Omega[/math] এবং [math]I_{C}=5 \\mathrm{~mA}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের বর্তনীতে ট্রানজিস্টরটি সাধারণ নিঃসারক সংযোগে সংযুক্ত। অতএব এর অন্তর্গামী সংকেত পীঠে দেওয়া হবে এবং সংগ্রাহক থেকে বহিঃর্গামী সংকেত গ্রহণ করা হবে।দেওয়া আছে, কালেক্টর কারেন্ট, [math]\\mathrm{I}_{\\mathrm{C}}=5 \\mathrm{~mA}[/math]\u003Cbr\u003Eকারেন্ট গেইন, [math]\\beta = 75[/math]\u003Cbr\u003Eগতীয় রোধ, [math]\\mathrm{R}=40 \\Omega[/math]\u003Cbr\u003Eলোডের রোধ, [math]\\mathrm{R}_{\\mathrm{L}}=60 \\Omega[/math]\u003Cbr\u003Eপীঠ প্রবাহ, [math]\\mathrm{I}_{\\mathrm{B}}=\\frac{\\mathrm{I}_{\\mathrm{C}}}{\\beta}=\\frac{5}{75} \\mathrm{~mA}=\\frac{1}{15} \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E অন্তঃর্গামী বিভব, [math]\\mathrm{V}_{\\mathrm{in}}=\\mathrm{RI}_{\\mathrm{B}}=40 \\times \\frac{1}{15} \\mathrm{mV}=\\frac{8}{3} \\mathrm{mV}[/math]\u003Cbr\u003Eবহিঃর্গামী বিভব, [math]\\mathrm{V}_{0}=\\mathrm{I}_{\\mathrm{C}} \\mathrm{R}_{\\mathrm{L}}=(5 \\times 60) \\mathrm{mV}=300 \\mathrm{mV}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ভোল্টেজ গেইন, [math]\\mathrm {A_{v}}=\\frac{V_{0}}{V_{\\text {in }}}=\\frac{300 \\mathrm{mV}}{\\frac{8}{3} \\mathrm{mV}}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm {A_{v}}=112.5[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের বর্তনী থেকে 112.5 ভোল্টেজ গেইন পাওয়া যাবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সমাধান: প্রথমে ক্ষুদ্র-সংকেত ইমিটার প্রতিরোধ [math]r_e'≈\\dfrac{26\\text{ mV}}{I_E}=\\dfrac{26\\text{ mV}}{5\\text{ mA}}=5.2\\Omega[/math]. সাধারণ কমন-এমিটার ক্ষেত্রে ভোল্টেজ গেইন আনুমানিক [math]A_v\\approx -\\dfrac{R_C}{r_e'+R_E}[/math] হয়, এখানে [math]R_C=R_L=60\\Omega,\\,R_E=40\\Omega[/math], তাই [math]A_v\\approx -\\dfrac{60}{5.2+40}=-1.33[/math]. ফলে গেইনের পরিমাণ [math]|A_v|≈1.33\u003E1[/math], সুতরাং 100% (unity) ভোল্টেজ গেইন সহজেই পাওয়া সম্ভব (চিন্হিতভাবে ঋণাত্মক)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437420,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 360,
+          "full_name": "Government Syed Hatem Ali College",
+          "short_name": "GSHAC",
+          "slug": "gshac",
+          "pivot": {
+            "question_bank_id": 437420,
+            "tag_id": 360,
+            "year": "2020",
+            "created_at": "2025-08-19T07:57:00.000000Z",
+            "updated_at": "2025-08-19T07:57:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437419,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের বর্তনীর প্রবাহ বিবর্ধন গুণক কত?"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020tp20cq-29_1755590218_qXc0m6YG.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nউদ্দীপকে একটি কমন এমিটার [math]\\rm{n-p-n}[/math] অ্যামপ্লিফায়ার বর্তনী দেখানো হল। বর্তনীর গতিরোধ [math]40\\Omega[/math]। এর কারেন্ট গেইন [math]75[/math]। বর্তনীর [math]R_{L}=60 \\Omega[/math] এবং [math]I_{C}=5 \\mathrm{~mA}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,কারেন্ট গেইন, [math]\\beta = 75[/math]\u003Cbr\u003Eপ্রবাহ বিবর্ধন গুণক, [math]\\alpha = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5cm}\\begin{array}{l}\\beta=\\frac{\\alpha}{1-\\alpha}\\\\\\Rightarrow 75=\\frac{\\alpha}{1-\\alpha}\\\\\\Rightarrow 75-75 \\alpha=\\alpha\\\\\\Rightarrow 76 \\alpha=75\\\\\\Rightarrow \\alpha=\\frac{75}{76}=0.99\\end{array}[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের বর্তনীর প্রবাহ বিবর্ধন গুণক 0.99 । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ট্রানজিস্টরের বেস প্রবাহ [math]I_B=I_C/β=[\\tfrac{5\\ \\text{mA}}{75}=0.0667\\ \\text{mA}][/math] এবং এমিটার প্রবাহ [math]I_E=I_C+I_B=5.0667\\ \\text{mA}[/math]; তাই কারেন্ট গেইন (α = [math]I_C/I_E[/math]) হচ্ছে [math]\\frac{β}{β+1}=\\frac{75}{76}\\approx0.987[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437419,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 360,
+          "full_name": "Government Syed Hatem Ali College",
+          "short_name": "GSHAC",
+          "slug": "gshac",
+          "pivot": {
+            "question_bank_id": 437419,
+            "tag_id": 360,
+            "year": "2020",
+            "created_at": "2025-08-19T07:56:58.000000Z",
+            "updated_at": "2025-08-19T07:56:58.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437418,
+      "value": {
+        "options": {
+          "ঘ": "ট্রানজিস্টরটিকে অ্যামপ্লিফায়ার হিসাবে ব্যবহার করা যাবে কি না? গাণিতিক বিশ্লেষণ করে মতামত দাও।"
+        },
+        "question": "একটি ট্রানজিস্টর কমন ইমিটার বিন্যাসে রয়েছে। ইনপুটে [math]1\\ V[/math] বিভব প্রয়োগ করলে [math]I_B = 10\\ mA[/math] এবং [math]1.2\\ V[/math] বিভব প্রয়োগ করলে [math]I_B= 30mA[/math] –পাওয়া যায়। এর কারেন্ট গেইন [math]70[/math] আউটপুট ভার রোধ [math]7.5\\Omega[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcamscanner-09-20-2023-1344-6-removebg-preview_1755590217_4czB1HIu.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eট্রানজিস্টরের পরিবর্তিত অ্যামিটার কারেন্ট [math]I_E[/math]\u003Cbr\u003E হলে,[math]\\hspace{1.5cm}\\begin{array}{l}\\beta=\\frac{\\mathrm{I}_{E}-\\mathrm{I}_{B}}{\\mathrm{I}_{B}}\\\\\\Rightarrow \\mathrm{I}_{\\mathrm{E}}=\\beta \\mathrm{I}_{\\mathrm{B}}+\\mathrm{I}_{\\mathrm{B}}=70 \\times 30 \\times 10^{-3}+30 \\times 10^{-3}=2.13 \\mathrm{~A}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পরিবর্তিত কালেক্টর কারেন্ট [math]I_C[/math]\u003Cbr\u003E হলে,[math]\\hspace{2.5cm}\\mathrm{I}_{\\mathrm{C}}=\\mathrm{I}_{\\mathrm{E}}-\\mathrm{I}_{\\mathrm{B}}=2.13-30 \\times 10^{-3}=2.1 \\mathrm{~A}[/math]\u003Cbr\u003Eইনপুট ভোল্টেজ পরিবর্তনের পূর্বে কালেক্টর কারেন্ট [math]{I_C}^{\\prime}[/math]\u003Cbr\u003E হলে,[math]\\hspace{2.5cm}\\mathrm{I}_{C^{\\prime}} =\\beta \\mathrm{I}_{\\mathrm{B}}{ }^{\\prime} =70 \\times 10 \\times 10^{-3} =0.7 \\mathrm{~A}[/math]\u003Cbr\u003Eএখন,পূর্বের বেস কারেন্ট, [math]\\mathrm{I}_{\\mathrm{B}}{ }^{\\prime} =10 \\mathrm{~mA} =10 \\times 10^{-3} \\mathrm{~A}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E কালেক্টর কারেন্টের পরিবর্তন, [math]\\Delta \\mathrm{I}=\\mathrm{I}_{\\mathrm{C}}-\\mathrm{I}_{\\mathrm{C}}^{\\prime}=2.1-0.7=1.4 \\mathrm{~A}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E লোড রেজিস্ট্যান্সে আউটপুট ভোল্টেজের পরিবর্তন,[math]\\hspace{2.5cm}\\Delta \\mathrm{V}_{\\text {out }}=\\Delta \\mathrm{IR}=1.4 \\times 7.5=10.5 \\mathrm{~V}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ভোল্টেজ বিবর্ধন [math]=\\frac{\\Delta V_{\\text {out }}}{\\Delta V_{\\text {in }}}=\\frac{10.5}{1.2-1}=\\frac{10.5}{0.2}=52.5[/math]\u003Cbr\u003Eঅর্থাৎ, ট্রানজিস্টরটি ইনপুটের ভোল্টেজ সিগন্যালকে 52.5 গুণ বিবর্ধিত করে। তাই একে বিবর্ধক হিসেবে ব্যবহার করা যাবে।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ইনপুট পরিবর্তনে বেসকারেন্টের পরিবর্তন [math]\\Delta I_B=(30-10)\\ \\text{mA}=20\\ \\text{mA}[/math], তাই কলেক্টর কারেন্ট পরিবর্তন [math]\\Delta I_C=\\beta\\Delta I_B=70\\times20\\ \\text{mA}=1400\\ \\text{mA}=1.4\\ \\text{A}[/math]. আউটপুট ভোল্টেজ পরিবর্তন হবে [math]\\Delta V_{out}=1.4\\ \\text{A}\\times7.5\\ \\Omega=10.5\\ \\text{V}[/math], ফলে ভোল্টেজ গেইন আনুমানিক [math]A_v\\approx10.5/0.2=52.5[/math] (কমন-ইমিটার হলে বোঝাপড়া অনুযায়ী সদস্য ঋণাত্মক)। গণিতগতভাবে গেইন বড় হলেও এখানে কাইসেন্টস খুব বড় (উদাহরণস্বরূপ বেস-কারেন্ট [math]10\\ \\text{mA}[/math] এ কলেক্টর প্রায় [math]0.7\\ \\text{A}[/math]) হওয়ার কারণে ট্রানজিস্টর সহজে স্যাচুরেট হবে এবং তাপ-বিকিরণ বেশি হবে — সুতরাং বাস্তবে এটি লিনিয়ার অ্যাম্প্লিফায়ার হিসেবে উপযুক্ত নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437418,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 339,
+          "full_name": "Gazipur Cantonment College",
+          "short_name": "GCC",
+          "slug": "gcc",
+          "pivot": {
+            "question_bank_id": 437418,
+            "tag_id": 339,
+            "year": "2020",
+            "created_at": "2025-08-19T07:56:57.000000Z",
+            "updated_at": "2025-08-19T07:56:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437417,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের উল্লেখিত যন্ত্রটি বিবর্ধক হিসেবে ব্যবহার করা যায় এর পক্ষে চিত্রসহ যুক্তি দাও।"
+        },
+        "question": "একটি কমন অ্যামিটার ট্রানজিস্টারের জন্য প্রবাহ লাভ [math]100[/math] এবং বেস কারেন্ট [math]50\\ \\mu A[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপ্রদর্শিত বর্তনীর সাহায্যে বিবর্ধক বর্তনী তৈরি সম্ভব।ব্যাখ্যা:\u003Cbr/\u003E\u003Cimg src=\"https://lh4.googleusercontent.com/qtK2V5H3PhdsxxszjEyYkwv_aRVBR09CqJ0eaxiegMesAdibx_ovlXNmYmgBa2cF6-cXYCYy9INXpsC_zVTOMQiwbFzixNcjbUvKtMaemIMoVcTpbJb-lsGg6VTi64BMwMcdKZ70AriWKsUe7ha4wg\" alt=\"\"\u003E\u003Cbr/\u003Eএখানে, সাধারণ পীঠ জাংশনে একটি দুর্বল অন্তর্গামী সংকেত প্রদান করা হয় এবং সংগ্রাহক বর্তনীতে সংযুক্ত [math]R_L[/math]\u003Cbr\u003E থেকে বহির্গামী সংকেত গ্রহণ করা হয়। ভালো বিবর্ধন পাওয়ার জন্য বর্তনীকে সর্বদা সম্মুখী বায়াস করা হয় এবং তা করার জন্য অন্তর্গামী বর্তনীতে অন্তর্গামী সংকেতের অতিরিক্ত একটি ডি. সি. ভোল্টেজ [math]V_{BB}[/math]\u003Cbr\u003E প্রয়োগ করা হয়, যাকে বায়াস ভোল্টেজ বলে। সম্মুখী ঝোঁক দেওয়ায় অন্তর্গামী বর্তনীতে রোধ খুব কম হয়। নিঃসারণ সংগ্রাহক বর্তনীতে অর্থাৎ বহির্গামী বর্তনীতে [math]V_{CC}[/math]\u003Cbr\u003E ব্যাটারির মাধ্যমে বিমুখী ঝোঁক প্রদান করা হয়। পীঠ জাংশনের প্রযুক্ত সংকেতের ধনাত্মক অর্ধচক্রের সময় জাংশনের সম্মুখ ঝোঁক বৃদ্ধি পায় ফলে অধিক পরিমাণ ইলেকট্রন নিঃসারক পীঠ এর মধ্যদিয়ে সংগ্রাহকে প্রবাহিত হয় এবং সংগ্রাহক প্রবাহ বৃদ্ধি পায়। এই বেড়ে যাওয়া সংগ্রাহক প্রবাহ [math]I_C[/math]\u003Cbr\u003E ভার রোধ [math]R_L[/math]\u003Cbr\u003E এ অধিক বিভব পতন সৃষ্টি করে অর্থাৎ বহির্গামীতে অধিক ভোল্টেজ পাওয়া যায়। সংকেতের ধনাত্মক অর্ধচক্রের জন্য নিঃসারক পীঠ জাংশনের সম্মুখী ঝোঁক হ্রাস পায় ফলে সংগ্রাহক প্রবাহও কমে যায়। সংগ্রাহক প্রবাহ কমে গেলে বহির্গামী ভোল্টেজও হ্রাস পায় তবে তা অন্তর্গামী থেকে বেশি হয়। ফলে একটি দুর্বল সংকেত থেকে একটি বিবর্ধিত সংকেত পাওয়া যায়।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বেসের ছোট কারেন্ট পরিবর্তন বড় কালেক্টর কারেন্ট তৈরি করে, তাই এটি অ্যাম্প্লিফায়ার হিসেবে ব্যবহার করা যায়; উদাহরণস্বরূপ [math]I_C=βI_B=100×50\\ \\mu A=5000\\ \\mu A=5\\ \\text{mA}[/math], অর্থাৎ ক্ষুদ্র বেস সংকেত থেকে বৃহত্তর আউটপুট পাওয়া যায়। সাধারণত কমন-এমিটার সার্কিটে ইনপুট বেসে ও আউটপুট কালেক্টরে (কালেক্টর রেজিস্টরের উপর) নেওয়া হয়, ফলে ভোল্টেজ ও কারেন্ট দুটোই বৃদ্ধি করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437417,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1157,
+          "full_name": "নীলফামারী সরকারি মহিলা কলেজের",
+          "short_name": "NGWC",
+          "slug": "ngwc",
+          "pivot": {
+            "question_bank_id": 437417,
+            "tag_id": 1157,
+            "year": "2020",
+            "created_at": "2025-08-19T07:56:56.000000Z",
+            "updated_at": "2025-08-19T07:56:56.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437416,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের ট্রানজিস্টরটিকে বিবর্ধক হিসেবে ব্যবহার করা যাবে কি না— গাণিতিক যুক্তি দাও।"
+        },
+        "question": "নিচে একটি কমন ইমিটার অ্যামপ্লিফায়ারের বর্তনী চিত্র দেখানো হলো। বর্তনীটির কারেন্ট গেইন [math]60[/math] এবং কালেক্টর প্রবাহ [math]600\\ \\mu A[/math]\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020tp20cq-23_1755590215_8ZXwCb8C.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,কালেক্টর প্রবাহ, [math]\\mathrm{I}_{\\mathrm{C}} =600 \\mu \\mathrm{A} =600 \\times 10^{-6} \\mathrm{~A}[/math]\u003Cbr\u003Eকারেন্ট গেইন, [math]\\beta = 60[/math]\u003Cbr\u003E [math]\\hspace{2cm}\\begin{array}{l}\\mathrm{R}_{\\text {in }}=40 \\Omega \\\\\\mathrm{R}_{\\mathrm{L}}=200 \\Omega \\\\\\mathrm{V}_{\\text {in }}=? \\\\\\mathrm{~V}_{\\text {out }}=?\\end{array}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1cm}\\begin{aligned}\\beta & =\\frac{I_{c}}{I_{B}} \\\\\\Rightarrow I_{B} & =\\frac{I_{C}}{\\beta} \\\\& =\\frac{600 \\times 10^{-6}}{60} \\\\& =1 \\times 10^{-5} \\mathrm{~A} \\\\\\therefore V_{\\text {in }} & =I_{B} \\times R_{in} \\\\& =10^{-5} \\times 40 \\\\& =4 \\times 10^{-4} \\mathrm{~V}\\end{aligned}[/math]\u003Cbr\u003Eএবং [math]V_{\\text {out }}=I_{C} \\times R_{L}=600 \\times 10^{-6} \\times 200=0.12 \\mathrm{~V}[/math]\u003Cbr\u003Eযেহেতু [math]V_{out} \u003E V_{in}[/math]\u003Cbr\u003E সেহেতু ট্রানজিস্টরটিকে বিবর্ধক হিসেবে ব্যবহার করা যাবে।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ট্রানজিস্টরটিকে বিবর্ধক হিসেবে ব্যবহার করা যাবে — কারণ বেস কারেন্ট খুবই ছোট এবং সহজে যোগ করা যায়। গণিতীয়ভাবে [math]I_B=\\dfrac{I_C}{\\beta}=\\dfrac{600\\ \\mu A}{60}=10\\ \\mu A[/math]; যদি সার্কিটে উপযুক্ত বায়াস থাকে যাতে ট্রানজিস্টর ফোরওয়ার্ড‑অ্যাকটিভ রিজিমে থাকে (উদাহরণস্বরূপ [math]V_{BE}\\approx0.7\\ V[/math] ও যথেষ্ট [math]V_{CE}[/math]) তাহলে এটি লিনিয়ারভাবে সিগন্যাল বিবর্ধন করবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437416,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3434,
+          "full_name": "DAWOOD PUBLIC SCHOOL & COLLEGE",
+          "short_name": "DPSC",
+          "slug": "dpsc",
+          "pivot": {
+            "question_bank_id": 437416,
+            "tag_id": 3434,
+            "year": "2020",
+            "created_at": "2025-08-19T07:56:55.000000Z",
+            "updated_at": "2025-08-19T07:56:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437415,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের বর্তনীর প্রবাহ বিবর্ধন গুণক কত?"
+        },
+        "question": "নিচে একটি কমন ইমিটার অ্যামপ্লিফায়ারের বর্তনী চিত্র দেখানো হলো। বর্তনীটির কারেন্ট গেইন [math]60[/math] এবং কালেক্টর প্রবাহ [math]600\\ \\mu A[/math]\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020tp20cq-23_1755590214_FjoRAMFz.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eকারেন্ট গেইন, [math]\\beta = 60[/math]\u003Cbr\u003Eপ্রবাহ বিবর্ধন গুণক, [math]\\alpha = ?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\alpha=\\frac{\\beta}{1+\\beta}=\\frac{60}{1+60}=0.983[/math]\u003Cbr\u003Eঅতএব, প্রবাহ বিবর্ধন গুণক 0.983 [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ইনপুট (এমিটার-সার্কিট) কারেন্ট গেইন হল [math]I_E/I_B=\\beta+1[/math]। এখানে [math]\\beta=60[/math], তাই গেইন = [math]60+1=61[/math] (যেখানে [math]I_B=600\\ \\mu A/60=10\\ \\mu A[/math] এবং [math]I_E=600\\ \\mu A+10\\ \\mu A=610\\ \\mu A[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437415,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3434,
+          "full_name": "DAWOOD PUBLIC SCHOOL & COLLEGE",
+          "short_name": "DPSC",
+          "slug": "dpsc",
+          "pivot": {
+            "question_bank_id": 437415,
+            "tag_id": 3434,
+            "year": "2020",
+            "created_at": "2025-08-19T07:56:54.000000Z",
+            "updated_at": "2025-08-19T07:56:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437414,
+      "value": {
+        "options": {
+          "ঘ": "ট্রানজিস্টরের ইনপুটে [math]50\\ \\Omega[/math] এবং আউটপুটে [math]4\\ k\\Omega[/math] রোধ যুক্ত করে বিবর্ধকের প্রয়োজনীয় ভোল্টেজ গেইন পাওয়া সম্ভব কী?"
+        },
+        "question": "একটি ট্রানজিস্টরের সাধারণ নিঃসারক বিন্যাসে প্রবাহ লাভ [math]200[/math] এবং ভূমি প্রবাহ [math]80\\ mA[/math]। ট্রানজিস্টরটি একটি বিবর্ধকে ব্যবহার করা হয় যেখানে বিবর্ধকের আউটপুট ভোল্টেজ গেইন [math]7000[/math] হওয়া প্রয়োজন।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,Input রোধ, [math]\\mathrm{R}_{\\mathrm{in}}=50 \\Omega[/math]\u003Cbr\u003EOutput রোধ, [math]\\mathrm{R}_{\\text {out }}=4 \\mathrm{k} \\Omega=4000 \\Omega[/math]\u003Cbr\u003Eভোল্টেজ গেইন = ?Input ভোল্টেজ, [math]V_{\\text {in }}=I_{B} R_{\\text {in }}=80 \\times 10^{-3} \\times 50=4 \\mathrm{~V}[/math]\u003Cbr\u003EOutput ভোল্টেজ,[math]\\hspace{2cm}\\begin{aligned}V_{\\text {out }} & =I_{C} R_{\\text {out }} \\\\& =16 \\times 4000=64000 \\mathrm{~V}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ভোল্টেজ গেইন [math]=\\frac{V_{\\text {out }}}{V_{\\text {in }}}=\\frac{64000}{4}=16000[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E প্রাপ্ত ভোল্টেজ গেইন বিবর্ধকের প্রয়োজনীয় গেইনের চেয়ে বেশি হয়।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রথমে [math]g_m = I_C/V_T = 80\\ \\text{mA}/25\\ \\text{mV} = 3.2\\ \\text{S}[/math] এবং [math]r_{\\pi}=\\beta/g_m = 200/3.2 = 62.5\\ \\Omega[/math]। সূত্রানুসারে মোট ভোল্টেজ গেইন হবে [math]A_v \\approx -g_m R_C\\frac{r_{\\pi}}{r_{\\pi}+R_{in}}[/math] = [math]-3.2\\times4000\\times\\frac{62.5}{62.5+50}\\approx-7111[/math], যার মান প্রয়োজনীয় [math]7000[/math] এর চেয়ে বড়; তাই গেইন পাওয়া সম্ভব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437414,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3418,
+          "full_name": "St. Gregory's High School and College",
+          "short_name": "SGHSC",
+          "slug": "sghsc",
+          "pivot": {
+            "question_bank_id": 437414,
+            "tag_id": 3418,
+            "year": "2020",
+            "created_at": "2025-08-19T07:56:52.000000Z",
+            "updated_at": "2025-08-19T07:56:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437413,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকে চিত্র-২ কীভাবে বিবর্ধক হিসাবে কাজ করে সার্কিট অঙ্কন করে গাণিতিক বিশ্লেষণসহ আলোচনা কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-210-tp-cq-17_1755590211_Jp4q6QeR.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকে চিত্র-২ নিম্নরূপে বিবর্ধক হিসেবে কাজ করে—\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcamscanner-09-20-2023-1335-4-removebg-preview_1755590212_Y8Xn6J6r.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, সাধারণ পীঠ জাংশনে একটি দুর্বল অন্তর্গামী সংকেত প্রদান করা হয় এবং সংগ্রাহক বর্তনীতে সংযুক্ত [math]R_L[/math]\u003Cbr\u003E থেকে বহির্গামী সংকেত গ্রহণ করা হয়। ভালো বিবর্ধন পাওয়ার জন্য বর্তনীকে সর্বদা সম্মুখী বায়াস করা হয় এবং তা করার জন্য অন্তর্গামী বর্তনীতে অন্তর্গামী সংকেতের অতিরিক্ত একটি ডি. সি. ভোল্টেজ [math]V_{BB}[/math]\u003Cbr\u003E প্রয়োগ করা হয়, যাকে বায়াস ভোল্টেজ বলে। সম্মুখী ঝোঁক দেওয়ায় অন্তর্গামী বর্তনীতে রোধ খুব কম হয়। নিঃসারণ সংগ্রাহক বর্তনীতে অর্থাৎ বহির্গামী বর্তনীতে [math]V_{CC}[/math]\u003Cbr\u003E ব্যাটারির মাধ্যমে বিমুখী ঝোঁক প্রদান করা হয়। পীঠ জাংশনের প্রযুক্ত সংকেতের ধনাত্মক অর্ধচক্রের সময় জাংশনের সম্মুখ ঝোঁক বৃদ্ধি পায় ফলে অধিক পরিমাণ ইলেকট্রন নিঃসারক পীঠ এর মধ্যদিয়ে সংগ্রাহকে প্রবাহিত হয় এবং সংগ্রাহক প্রবাহ বৃদ্ধি পায়। এই বেড়ে যাওয়া সংগ্রাহক প্রবাহ [math]I_C[/math]\u003Cbr\u003E ভার রোধ [math]R_L[/math]\u003Cbr\u003E এ অধিক বিভব পতন সৃষ্টি করে অর্থাৎ বহির্গামীতে অধিক ভোল্টেজ পাওয়া যায়। সংকেতের ধনাত্মক অর্ধচক্রের জন্য নিঃসারক পীঠ জাংশনের সম্মুখী ঝোঁক হ্রাস পায় ফলে সংগ্রাহক প্রবাহও কমে যায়। সংগ্রাহক প্রবাহ কমে গেলে বহির্গামী ভোল্টেজও হ্রাস পায় তবে তা অন্তর্গামী থেকে বেশি হয়। ফলে একটি দুর্বল সংকেত থেকে একটি বিবর্ধিত সংকেত পাওয়া যায় ৷",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E চিত্র-২ একটি সাধারণ-এমিটার (common-emitter) বিবর্ধক যেখানে ইনপুট ক্যাপাসিটর বেইসে ভোল্টেজ দেয়, আউটপুট সংগ্রহক (collector) থেকে ক্যাপাসিটর দিয়ে নেয়া হয়; সংগ্রহকে রোধ [math]R_C[/math] এবং এমিটার রোধ [math]R_E[/math] সার্কিটের লোড ও স্থিরকরণ দেয়। ছোট ইনপুট ভোল্টেজের ফলে বেইস-এমিটার ভোল্টেজ পরিবর্তন বেস-কারেন্ট এবং ফলে সংগ্রহ কারেন্টে বড় পরিবর্তন তৈরি করে, যা [math]R_C[/math]-এ বড় ভোল্টেজ স্যুইং উৎপন্ন করে; ভল্টেজ গেইন আনুমানিকভাবে [math]A_v\\approx -g_mR_C\\approx -\\dfrac{R_C}{r_e}[/math] যেখানে [math]r_e\\approx\\dfrac{25\\text{ mV}}{I_E}[/math]। নেগেটিভ চিহ্ন ফেজ বিপরীত নির্দেশ করে (ইনপুট ও আউটপুট 180° বিপরীত)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437413,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3478,
+          "full_name": "Abdul Kadir Molla City College",
+          "short_name": "AKMCC",
+          "slug": "akmcc",
+          "pivot": {
+            "question_bank_id": 437413,
+            "tag_id": 3478,
+            "year": "2020",
+            "created_at": "2025-08-19T07:56:52.000000Z",
+            "updated_at": "2025-08-19T07:56:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437412,
+      "value": {
+        "options": {
+          "ঘ": "অন্তগামী বর্তনীতে [math]I_{max}= 20\\ \\mu A\\ AC[/math] তড়িতের জন্য বহিঃবর্তনীতে বিবর্ধিত সংকেত পূর্ণাঙ্গ বর্তনী অঙ্কনের মাধ্যমে বর্ণনা কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-210-tp-cq-15-r_1755590209_kHnPd6Z4.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nপ্রদত্ত বর্তনীর অন্তগামী সংকেত বহি:গামীতে [math]110[/math] গুণ বিবর্ধিত হয়",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, অন্তঃগ্রামী তড়িৎপ্রবাহ, [math]I_{\\max }=20 \\mu \\mathrm{A}[/math]\u003Cbr\u003Eপ্রবাহ লাভ, [math]\\beta = 100[/math]\u003Cbr\u003Eযেহেতু ট্রানজিস্টরটি একটি n-p-n ট্রানজিস্টর সেহেতু উদ্দীপকরে চিত্রানুযায়ী এটি CE মোডে আছে ।যেহেতু প্রবাহ লাভ 100 সেহেতু অন্তঃগামী সংকেতের 100 গুণ বিবর্ধন পাওয়া যাবে। অর্থাৎ [math]I_{\\max }=20 \\mu \\mathrm{A}[/math]\u003Cbr\u003E অন্তঃগামী তড়িৎ প্রবাহের জন্য [math]I_{\\max (\\text { output) }}=100 \\times 20 \\mu \\mathrm{A}=2000 \\mu \\mathrm{A}[/math]\u003Cbr\u003E পাওয় যাবে।এখন উপরের বর্ণনা হতে নিচের চিত্রটি লক্ষ করি।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcamscanner-09-20-2023-1335-1-removebg-preview_1755590210_eIzjLGXk.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eচিত্র : [math]I_{\\max }=20 \\mu \\mathrm{A}[/math]\u003Cbr\u003E এর জন্য বহিঃবর্তনীর বিবর্ধিত সংকেতযেহেতু n-p-n ট্রানজিস্টরটি CE মোডে আছে সেহেতু বহিঃস্থ সংকেত এর দশা 180° পরিবর্তন হবে।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ইনপুট ধারের পরিমাণকে গুণনীয়ক দ্বারা বাড়ানো হয়, তাই আউটপুট তরঙ্গের ধারা হবে [math]I_{out}=110\\times 20\\ \\mu A=[2200\\ \\mu A]=[2.2\\ \\mathrm{mA\\ AC}][/math]. মূল ধারণা হলো প্রবর্ধন হল একটি গুণক (current gain), তাই আউটপুটে একই ধরনের AC সিগন্যাল কিন্তু [math]110[/math] গুণ বড় আকারে পাওয়া যাবে; পূর্ণাঙ্গ অঙ্কন করলে একটি ট্রানজিস্টর বা অপ-অ্যাম্প স্টেজ দেখাতে হবে যেখানে আউটপুট নোড থেকে একটি কপলিং ক্যাপাসিটর/লোড রেজিস্টরের মাধ্যমে এই [math]2.2\\ \\mathrm{mA\\ AC}[/math] লোডে সরবরাহ করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437412,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1158,
+          "full_name": "\"\"\"Mirzapur Cadet College",
+          "short_name": "MCC",
+          "slug": "mcc",
+          "pivot": {
+            "question_bank_id": 437412,
+            "tag_id": 1158,
+            "year": "2020",
+            "created_at": "2025-08-19T07:56:50.000000Z",
+            "updated_at": "2025-08-19T07:56:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437411,
+      "value": {
+        "options": {
+          "গ": "যদি পাঠ প্রবাহ [math]50\\ \\mu A[/math] হয়, তবে উদ্দীপক অনুসারে বর্তনীর নিঃসরক প্রবাহ নির্ণয় কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-210-tp-cq-15-r_1755590208_MqxbgwRF.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nপ্রদত্ত বর্তনীর অন্তগামী সংকেত বহি:গামীতে [math]110[/math] গুণ বিবর্ধিত হয়",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক অনুসারে, প্রবাহ লাভ, [math]\\beta = 100[/math]\u003Cbr\u003Eপীঠ প্রবাহ, [math]I_{B}=500 \\mu A=50 \\times 10^{-6} A[/math]\u003Cbr\u003Eআমরা জানি, [math]\\beta=\\frac{I_{C}}{I_{B}}[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\Rightarrow I_{C}=\\beta I_{B}=100 \\times 50 \\times 10^{-6} A\\\\\\therefore \\quad \\mathrm{I}_{\\mathrm{C}}=5 \\times 10^{-3} \\mathrm{~A}[/math]\u003Cbr\u003Eএমিটার কারেন্ট, [math]I_{E}=I_{C}+I_{B}[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\begin{array}{l}\\Rightarrow \\mathrm{I}_{E}=5 \\times 10^{-3}+50 \\times 10^{-6} \\\\\\therefore \\mathrm{I}_{E}=5.05 \\times 10^{-3} \\mathrm{~A}\\end{array}[/math]\u003Cbr\u003Eসুতরাং বর্তনীর নিঃসরক প্রবাহ [math]5.05 \\times 10^{-3} \\mathrm{~A}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E — প্রদত্ত কারেন্ট গেইন β = 110 হলে [math]I_C = β I_B[/math]. যদি পাঠ প্রবাহ (base) [math]I_B = 50\\ \\mu A[/math] হয়, তাহলে [math]I_C = 110 \\times 50\\ \\mu A = 5500\\ \\mu A = 5.5\\ \\text{mA}[/math], অর্থাৎ আউটপুট প্রবাহ ইনপুটের 110 গুণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437411,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1158,
+          "full_name": "\"\"\"Mirzapur Cadet College",
+          "short_name": "MCC",
+          "slug": "mcc",
+          "pivot": {
+            "question_bank_id": 437411,
+            "tag_id": 1158,
+            "year": "2020",
+            "created_at": "2025-08-19T07:56:48.000000Z",
+            "updated_at": "2025-08-19T07:56:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437410,
+      "value": {
+        "options": {
+          "ঘ": "আউটপুট ও ইনপুট ভোল্টেজের তুলনা কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-210-tp-cq-14_1755590207_RU9PDKTS.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]I_c = 1.5~mA[/math]\u003Cbr\u003E [math]R_L = 50\\Omega[/math]\u003Cbr\u003Eউদ্দীপকের চিত্রানুসারে, ইনপুট ভোল্টেজ, [math]V_{in} = 75 ~V[/math]\u003Cbr\u003Eআউটপুট ভোল্টেজ, [math]V_{\\text {out }}=I_{C} R_{L}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{array}{l}\\Rightarrow \\mathrm{V}_{\\text {out }}=1.5 \\times 10^{-3} \\mathrm{~A} \\times 50 \\Omega \\\\\\therefore \\mathrm{V}_{\\text {out }}=0.075 \\mathrm{~V} \\\\\\Rightarrow \\frac{\\mathrm{V}_{\\text {out }}}{\\mathrm{V}_{\\text {in }}}=\\frac{0.075}{75} \\\\\\Rightarrow \\mathrm{V}_{\\text {out }}=\\frac{1}{1000} \\mathrm{~V}_{\\text {in }}\\end{array}[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের বর্তনীতে আউটপুট ভোল্টেজ ইনপুট ভোল্টেজের [math]\\frac{1}{1000}[/math]\u003Cbr\u003E গুণ ।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E একটি ট্রান্সফর্মারে ভোল্টেজ এবং টার্নসের অনুপাতে সম্পর্ক থাকে, [math]\\dfrac{V_s}{V_p}=\\dfrac{N_s}{N_p}[/math]। তাই যদি সেকেন্ডারির টার্ন সংখ্যা কম হয় ([math]N_s\u003CN_p[/math]) আউটপুট ইনপুটের থেকে কম হবে, বেশি হলে বেশি হবে এবং টার্নস সমান হলে ভোল্টেজও সমান হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437410,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 255,
+          "full_name": "Dhaka City College",
+          "short_name": "DC",
+          "slug": "dc",
+          "pivot": {
+            "question_bank_id": 437410,
+            "tag_id": 255,
+            "year": "2020",
+            "created_at": "2025-08-19T07:56:47.000000Z",
+            "updated_at": "2025-08-19T07:56:47.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437409,
+      "value": {
+        "options": [],
+        "question": "একটি [math]CE[/math] বিবর্ধকে [math]\\beta = 50[/math], ইনপুট রোধ [math]1 \\ k \\Omega[/math] এবং [math]AC[/math] ইনপুটের সর্বো চ্চ মান [math]0.1 \\ V[/math] । সংগ্রাহক প্রবাহমাত্রার সর্বোচ্চ মান কত?",
+        "solution": "[math]50 \\times 10^{-4}A[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,ইনপুট রোধ, [math]R=10^{3}\\Omega[/math]\u003Cbr\u003Eইনপুট বিভবের সর্বোচ্চ মান, [math]V=0.1 \\ V[/math]\u003Cbr\u003Eবিবর্ধন, [math]\\beta = 50[/math]\u003Cbr\u003Eবেস কারেন্ট [math]=I_{B}[/math]\u003Cbr\u003Eসংগ্রাহক প্রবাহমাত্রা [math]=I_{C}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned} I_{B} & =\\frac{V}{R} \\\\ & =\\frac{0.1}{10^{3}} \\mathrm{~A} \\\\ & =10^{-4} \\mathrm{~A} \\end{aligned}[/math]\u003Cbr\u003Eআবার, [math]\\beta=\\frac{\\mathrm{I}_{C}}{\\mathrm{I}_{\\mathrm{B}}}[/math]\u003Cbr\u003E [math]\\Rightarrow \\mathrm{I}_{\\mathrm{C}}=\\beta \\mathrm{I}_{\\mathrm{B}}=50 \\times 10^{-4} \\mathrm{~A} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ইনপুট ভোল্টেজ [math]0.1\\ V[/math] এবং ইনপুট রোধ [math]1\\ k\\Omega[/math] হলে বেইস প্রবাহ [math]I_B=\\dfrac{V_{in}}{R_{in}}=\\dfrac{0.1}{1000}=0.1\\ \\text{mA}[/math]. সংগ্রাহক প্রবাহ প্রায় [math]I_C=\\beta I_B=50\\times0.1\\ \\text{mA}=5\\ \\text{mA}[/math], তাই সর্বোচ্চ সংগ্রাহক প্রবাহ [math]5\\ \\text{mA}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437409,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:56:46.000000Z",
+            "updated_at": "2025-08-19T07:56:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437408,
+      "value": {
+        "options": [],
+        "question": "একটি কমন এমিটার ট্রানজিস্টর অ্যামপ্লিফায়ারের আউটপুট রোধ [math]500 \\ k\\Omega[/math] এবং প্রবাহ বিবর্ধন [math]\\beta = 49[/math]। যদি ইনপুট রোধ [math]240 \\Omega[/math] হয়, তবে অ্যামপ্লিফায়ারের ক্ষমতা বিবর্ধন কত?",
+        "solution": "[math]5 \\times 10^{6}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,প্রবাহ বিবর্ধন, [math]\\beta = 49[/math]\u003Cbr\u003Eইনপুট রোধ, [math]R_{\\text {in }}=240 \\Omega[/math]\u003Cbr\u003Eআউটপুট রোধ,[math]\\begin{aligned} \\mathrm{R}_{\\text {out }} & =500 \\mathrm{k} \\Omega \\\\ \\therefore & =500 \\times 10^{3} \\Omega \\end{aligned}[/math]\u003Cbr\u003Eক্ষমতা বিবর্ধন, [math]\\frac{P_{\\text {out }}}{P_{\\text {in }}}=?[/math]\u003Cbr\u003Eআমরা জানি, আমপ্লিফায়ারের ক্ষমতা বিবর্ধন,[math]\\begin{array}{l} =\\frac{\\mathrm{P}_{\\text {out }}}{\\mathrm{P}_{\\text {in }}}=\\frac{\\mathrm{I}_{\\mathrm{C}}^{2} \\mathrm{R}_{\\text {out }}}{\\mathrm{I}_{\\mathrm{B}}^{2} R_{\\text {in }}} \\\\ \\Rightarrow \\frac{P_{\\text {out }}}{P_{\\text {in }}}=\\left(\\frac{I_{C}}{I_{B}}\\right)^{2} \\times \\frac{R_{\\text {out }}}{R_{\\text {in }}} \\\\ \\Rightarrow \\frac{P_{\\text {out }}}{P_{\\text {in }}}=\\beta^{2} \\times \\frac{R_{\\text {out }}}{R_{\\text {in }}} \\\\ =49^{2} \\times \\frac{500 \\times 10^{3}}{240} \\\\ =5 \\times 10^{6} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ইনপুট কারেন্ট [math]I_{in}=V_{in}/R_{in}[/math] এবং আউটপুট কারেন্ট প্রায় [math]\\beta I_{in}[/math] হওয়ায় [math]V_{out}=\\beta\\frac{V_{in}}{R_{in}}R_{out}[/math] এবং ভোল্টেজ গেইন [math]A_v=\\beta\\frac{R_{out}}{R_{in}}[/math]। তাই শক্তি গেইন [math]G_p=A_v^2\\frac{R_{in}}{R_{out}}=\\beta^2\\frac{R_{out}}{R_{in}}[/math] এবং সংখ্যায় এটি হবে [math]G_p=49^2\\frac{500000}{240}\\approx5.00\\times10^6[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437408,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:56:46.000000Z",
+            "updated_at": "2025-08-19T07:56:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437407,
+      "value": {
+        "options": {
+          "ঘ": "পলাশের কী ভুল ছিল? শিমূল কীভাবে এর সমাধান দিয়েছিল? বর্তনীসহ বিশ্লেষণ কর।"
+        },
+        "question": "পলাশ ও শিমুল দুই বন্ধু বুয়েটের ট্রিপল ই বিভাগের ছাত্র। তারা সংকেত বিবর্ধনের বর্তনী তৈরি করে পরীক্ষা করছিল। পলাশ ইনপুটে [math]0.85 \\ mA[/math] সংকেত প্রয়োগ করে দেখল আউটপুটে [math]0.82 \\ mA[/math] মানের সংকেত পাওয়া যায়। সংকেত বিবর্ধন না হওয়ায় শিমুল এর সমাধান দেয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপলাশ বিবর্ধকের বিন্যাসে ভূল করেছিল। উপযুক্ত বিবর্ধন পাওয়ার জন্য ট্রানজিস্টরকে কমন এমিটার বিন্যাসে যুক্ত করে বেস এ ইনপুট এবং ইমিটারে আউটপুট নিতে হয়। কিন্তু পলাশ সম্ভবত ইমিটারে ইনপুট দিয়েছিল এবং কালেক্টর হতে আউটপুট নিয়েছিল। অর্থাৎ পলাশের বিন্যাসটি ছিল কমন বেস ট্রানজিস্টর। এর সমাধানের জন্য শিমুল ট্রানজিস্টরকে কমন ইমিটার বিন্যাস দেয় এবং বেসে ইনপুট দিয়ে কালেক্টর হতে আউটপুট নেয়।পলাশের বিন্যাসটি কমন বেস হলে,নিঃসরক প্রবাহ, [math]I_E[/math]\u003Cbr\u003E = 0.85mAসংগ্রাহক প্রবাহ, [math]I_c[/math]\u003Cbr\u003E = 0.82 mAবেস প্রবাহ, [math]I_B = I_E - I_c[/math]\u003Cbr\u003E = 0.85 - 0.82 = 0.03 mAশিমুলের বর্তনীর ইনপুট কারেন্ট, [math]I_B[/math]\u003Cbr\u003E = 0.03 mAআউটপুট কারেন্ট, [math]I_c[/math]\u003Cbr\u003E = 0.82 mA\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture_1755590206_mCAuV19A.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eশিমুলের বর্তনীর বিবর্ধন = [math]\\frac {I_c}{I_B} = \\frac {0.82}{0.03} = 27.33[/math]\u003Cbr\u003Eঅতএব, পলাশের বর্তনীর বিন্যাস পরিবর্তন করে শিমুল পলাশের ভূল সংশোধন করেছিল ।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পলাশের ভুল ছিল যে তিনি আউটপুট পরিমাপে অ্যামিটারকে ভুলভাবে প্যারালেলে লাগিয়ে আউটপুটকে শর্ট করে দিয়েছেন (অথবা মিটারের অভ্যন্তরীণ রুপান্তর লোডকে বড় করে ফেলেছেন), ফলে সার্কিটের লোড বেড়ে গিয়েছে এবং গেইন কমে আউটপুট কারেন্ট ইনপুটের থেকেও ছোট দেখিয়েছে। শিমুল এটি সঠিকভাবে সিরিজে অ্যামিটার বসিয়ে বা আউটপুটে ভোল্টমিটার দিয়ে ভোল্টেজ পরিমাপ করে এবং তারপর লোড দিয়ে [math]I=V/R_L[/math] দিয়ে কারেন্ট হিসাব করে দেখাল—এভাবে মিটার লোডিং বাদ দিলে প্রকৃত সিগন্যাল বর্ধন পাওয়া যায়; সাধারণত কারেন্ট গেইন [math]A_i=I_{out}/I_{in}[/math] ঠিকমতো বিচার করার জন্য ডিভাইসের DC বায়াস ও লোড রেজিস্টর সঠিক রাখতে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437407,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:56:46.000000Z",
+            "updated_at": "2025-08-19T07:56:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437405,
+      "value": {
+        "options": [],
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22090-8_1755590205_PFv9cIDl.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রে, অ্যামিটারের পাঠ কত?",
+        "solution": "[math]0.022A[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে, কোষের তড়িচ্চালক শক্তি, [math]E=3V[/math]\u003Cbr\u003Eভোল্টমিটারের পাঠ, [math]V^{\\prime}=0.8V[/math]\u003Cbr\u003Eবহিঃস্থ রোধ, [math]R=100 \\Omega[/math]\u003Cbr\u003Eআমিটারের পাঠ, [math]I=?[/math]\u003Cbr\u003E [math]100 \\Omega[/math]\u003Cbr\u003E বহিঃস্থ রোধের দুই প্রান্তের বিভব পার্থক্য, [math]\\mathrm{V}=\\mathrm{E}-\\mathrm{V}^{\\prime}=3 \\mathrm{~V}-0.8 \\mathrm{~V}=2.2 \\mathrm{~V}[/math]\u003Cbr\u003Eআমরা জানি, [math]I=\\frac{V}{R}=\\frac{2.2V}{100 \\Omega}=0.022 \\ A[/math]\u003Cbr\u003E",
+        "explanation": "আমি ছবিটি দেখতে পাচ্ছি না, তাই সরাসরি অ্যামিটার‑পাঠ বলতে পারছি না। অনুগ্রহ করে ছবি পুনরায় আপলোড করুন বা সার্কিটে ব্যাটারির ভোল্টেজ ও প্রতিটি রোধের মানগুলো উল্লেখ করুন, আমি তখন স্পষ্টভাবে ব্যাখ্যা ও গণনা দেখিয়ে দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 437405,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:56:45.000000Z",
+            "updated_at": "2025-08-19T07:56:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437406,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের বর্ণনা মতে প্রবাহ বিবর্ধন গুণাঙ্ক নির্ণয় কর।"
+        },
+        "question": "পলাশ ও শিমুল দুই বন্ধু বুয়েটের ট্রিপল ই বিভাগের ছাত্র। তারা সংকেত বিবর্ধনের বর্তনী তৈরি করে পরীক্ষা করছিল। পলাশ ইনপুটে [math]0.85 \\ mA[/math] সংকেত প্রয়োগ করে দেখল আউটপুটে [math]0.82 \\ mA[/math] মানের সংকেত পাওয়া যায়। সংকেত বিবর্ধন না হওয়ায় শিমুল এর সমাধান দেয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\begin{aligned}\\mathrm{I}_{\\mathrm{B}} & =0.85 \\mathrm{~mA} \\\\\\mathrm{I}_{\\mathrm{C}} & =0.82 \\mathrm{~mA} \\\\\\therefore \\quad \\mathrm{I}_{\\mathrm{E}} & =\\mathrm{I}_{\\mathrm{C}}+\\mathrm{I}_{\\mathrm{B}} \\\\& =0.82+0.85 \\\\& =1.67 \\mathrm{~mA}\\end{aligned}[/math]\u003Cbr\u003Eবিবর্ধন গুণক, [math]\\alpha=\\frac{\\mathrm{l}_{\\mathrm{C}}}{\\mathrm{I}_{\\mathrm{E}}}=\\frac{0.82}{1.67}=0.491[/math]\u003Cbr\u003Eপ্রবাহ বিবর্ধন গুণক , [math]\\alpha=0.491 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রবাহ বিবর্ধন গুণাঙ্ক হিসাব করা হয় আউটপুট প্রবাহ ভাগ ইনপুট প্রবাহ দ্বারা: [math]\\beta = \\dfrac{I_{out}}{I_{in}} = \\dfrac{0.82\\ \\text{mA}}{0.85\\ \\text{mA}} \\approx 0.965[/math]. যেহেতু [math]\\beta\u003C1[/math], তাই সংকেত বৃদ্ধি হয়নি বরং সামান্য ক্ষয় হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437406,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:56:45.000000Z",
+            "updated_at": "2025-08-19T07:56:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437404,
+      "value": {
+        "options": {
+          "ঘ": "ইনপুট সংকেত অপেক্ষা আউটপুট সংকেতের বিস্তার বড় এবং সংকেত বিপরীত হওয়ার কারণ ব্যাখ্যা কর ।"
+        },
+        "question": "চিত্রানুসারে নিচের প্রশ্নগুলোর উত্তর দাও :\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22061-8_1755590203_ysKicJwM.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eইনপুট সংকেত অপেক্ষা আউটপুট সংকেতের বিস্তার বড় এবং বিপরীত হওয়ার কারণ নিম্নে ব্যাখ্যা করা হলো:উপযুক্ত বিবর্ধক হিসেবে কাজ করার জন্য বর্তনীটির বায়াসিং করা হলো । চিত্রের [math]V_{BB}[/math]\u003Cbr\u003E এবং [math]V_{cc}[/math]\u003Cbr\u003E ভোল্টেজদ্বয়কে বায়াসিং ভোল্টেজ বলা হয় ।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture_1755590204_5ygMo1Df.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eবায়াসিং ভোল্টেজের সাহায্যে ট্রানজিস্টরের বেস ইমিটারে সম্মুখ বায়াস এবং কালেক্টর-ইমিটারে বিমুখী বায়াস প্রয়োগ করা হয়। বায়াস ভোল্টেজের মান এমন হয় যেন ইনপুট সিগন্যালের ঋণাত্মক অর্ধচক্রের সময়ও বেস-ইমিটার সম্মুখ বায়াসে থাকে । ইমিটার-বেস জাংশনে প্রযুক্ত সিগন্যালের ধনাত্মক অর্ধচক্রের সময় সম্মুখ ঝোঁক বৃদ্ধি পায়। ফলে অধিক পরিমাণ ইলেকট্রন ইমিটার থেকে কালেক্টরে প্রবাহিত হয়ে কালেক্টর প্রবাহ বৃদ্ধি করে। এই বর্ধিত প্রবাহ কালেক্টরে অধিক পরিমাণ বিভব পতন ঘটায়। অর্থাৎ আউটপুট সংকেতের বিস্তার বড় হয় । সিগন্যালের ঋণাত্মক অর্ধচক্রের সময় সম্মুখ ঝোঁক কমে যায় ফলে কালেক্টর প্রবাহ হ্রাস পায়। এক্ষেত্রে আউটপুট ভোল্টেজও হ্রাস পায়, কিন্তু ইনপুটের চেয়ে বেশি হয় অর্থাৎ এক্ষেত্রেও আউটপুট সংকেতের বিস্তার বড় হয় ।আবার, বর্তনীর ইনপুট ভোল্টেজ বৃদ্ধি পেলে বেস প্রবাহ বৃদ্ধি পায়। ফলে কালেক্টর প্রবাহ বৃদ্ধি পায়। কালেক্টরের প্রবাহ বৃদ্ধি পাওয়ায় আউটপুট বিভব পতন বেশি হয়। অর্থাৎ ইনপুট ভোল্টেজ বৃদ্ধি পেলে আউটপুট ভোল্টেজ পতন বেশি হয় এবং কালেক্টর প্রবাহের দিক বিপরীত হওয়ায় আউটপুট সংকেত বিপরীত হয় ।",
+        "explanation": "আউটপুট সংকেত বড় এবং বিপরীত হওয়ার কারণ: ট্রানজিস্টর বাহ্যিকভাবে কারেন্ট গেইন (β) দিয়ে ছোট বেইস-ইনপুটকে বড় কালেক্টর কারেন্টে রূপান্তর করে, যা কালেক্টরে সংযুক্ত রেজিস্টর (R_C)–এ বড় ভোল্টেজ মাত্রার পতন ঘটায় ফলে আউটপুট ভোল্টেজ বৃদ্ধি পায়; একই সময়ে বেইসের ধনাত্মক সিগন্যাল হলে কালেক্টর কারেন্ট বাড়ার কারণে কালেক্টর ভোল্টেজ কমে—অতএব ১৮০° ফেজ বিপরীত ঘটে। আনুমানিক ভলিউম গেইন ধরা যায়, [math]A_v\\approx -β\\frac{R_C}{r_e'}[/math], যেখানে ঋণাত্মক চিহ্নটি ফেজ বিপরীত নির্দেশ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 437404,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:56:44.000000Z",
+            "updated_at": "2025-08-19T07:56:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437403,
+      "value": {
+        "options": {
+          "ঘ": "“বর্তনীটির ইনপুটে একটি দুর্বল সংকেত প্রয়োগ করে আউটপুটে একটি বিবর্ধিত সংকেত পাওয়া যাবে”— উক্তিটির যথার্থতা যাচাই কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020tp20cq-11_1755590200_xC0Maws9.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[math]I_{E}=0.80 \\mathrm{~mA} ; I_{B}=0.05 \\mathrm{~mA}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eবর্তনীটির ইনপুটে একটি দুর্বল সংকেত প্রয়োগ করে আউটপুটে একটি বিবর্ধিত সংকেত পাওয়া যাবে।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-2-10-cq-letque-solve-16_1755590202_Of4O36XN.png\" alt=\"\"\u003E\u003Cbr/\u003Eএখানে, সাধারণ পীঠ জাংশনে একটি দুর্বল অন্তর্গামী সংকেত প্রদান করা হয় এবং সংগ্রাহক বর্তনীতে সংযুক্ত [math]R_L[/math]\u003Cbr\u003E থেকে বহির্গামী সংকেত গ্রহণ করা হয়। ভালো বিবর্ধন পাওয়ার জন্য বর্তনীকে সর্বদা সম্মুখী বায়াস করা হয় এবং তা করার জন্য অন্তর্গামী বর্তনীতে অন্তর্গামী সংকেতের অতিরিক্ত একটি ডি. সি. ভোল্টেজ [math]V_{BB}[/math]\u003Cbr\u003E প্রয়োগ করা হয়, যাকে বায়াস ভোল্টেজ বলে। সম্মুখী ঝোঁক দেওয়ায় অন্তর্গামী বর্তনীতে রোধ খুব কম হয়। নিঃসারণ সংগ্রাহক বর্তনীতে অর্থাৎ বহির্গামী বর্তনীতে [math]V_CC[/math]\u003Cbr\u003E ব্যাটারির মাধ্যমে বিমুখী ঝোঁক প্রদান করা হয়। পীঠ জাংশনের প্রযুক্ত সংকেতের ধনাত্মক অর্ধচক্রের সময় জাংশনের সম্মুখ ঝোঁক বৃদ্ধি পায় ফলে অধিক পরিমাণ ইলেকট্রন নিঃসারক পীঠ এর মধ্যদিয়ে সংগ্রাহকে প্রবাহিত হয় এবং সংগ্রাহক প্রবাহ বৃদ্ধি পায়। এই বেড়ে যাওয়া সংগ্রাহক প্রবাহ [math]I_C[/math]\u003Cbr\u003E ভার রোধ [math]R_L[/math]\u003Cbr\u003E এ অধিক বিভব পতন সৃষ্টি করে অর্থাৎ বহির্গামীতে অধিক ভোল্টেজ পাওয়া যায়। সংকেতের ধনাত্মক অর্ধচক্রের জন্য নিঃসারক পীঠ জাংশনের সম্মুখী ঝোঁক হ্রাস পায় ফলে সংগ্রাহক প্রবাহও কমে যায়। সংগ্রাহক প্রবাহ কমে গেলে বহির্গামী ভোল্টেজও হ্রাস পায় তবে তা অন্তর্গামী থেকে বেশি হয়। ফলে একটি দুর্বল সংকেত থেকে একটি বিবর্ধিত সংকেত পাওয়া যায়।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সঠিক — কারণ [math]I_C=I_E-I_B=0.80-0.05=0.75\\ \\text{mA}[/math] এবং প্রবলতা [math]\\beta=I_C/I_B=0.75/0.05=15[/math], অর্থাৎ বেসে ছোট সিগন্যালে কালেক্টরে বেশি কারেন্ট পরিবর্তন ঘটবে; তাই বিন্দুযুক্তভাবে প্রবাহ (ও সাধারণত ভোল্টেজ) বর্ধিত হতে পারে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 437403,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437403,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 437403,
+            "tag_id": 5,
+            "year": "2016",
+            "created_at": "2025-08-19T07:56:42.000000Z",
+            "updated_at": "2025-08-19T07:56:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437402,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের বর্তনী থেকে [math]100\\%[/math] ভোল্টেজ গেইন পাওয়া সম্ভব কি-না গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই কর।"
+        },
+        "question": "উদ্দীপকে একটি কমন এমিটার [math]\\text{n-p-n}[/math] অ্যাম্প্লিফায়ার বর্তনী দেখানো হলো। বর্তনীর গতীয় রোধ [math]40\\Omega[/math]। এর কারেন্ট গেইন [math]75[/math]। বর্তনীর [math]R_1 = 60\\Omega[/math] এবং কালেক্টর কারেন্ট [math]5\\ mA[/math]।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-210-tp-cq-4_1755590199_3cWKjJN7.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের বর্তনীতে ট্রানজিস্টরটি সাধারণ নিঃসারক সংযোগে সংযুক্ত। অতএব এর অন্তর্গামী সংকেত পীঠে দেওয়া হবে এবং সংগ্রাহক থেকে বহির্গামী সংকেত গ্রহণ করা হবে।দেওয়া আছে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকালেক্টর কারেন্ট, [math]\\mathrm{I}_{\\mathrm{C}}=5 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকারেন্ট গেইন, [math]\\beta =75[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eগতীয় রোধ, [math]\\mathrm{R}=40 \\Omega[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eলোডের রোধ, [math]R_{L}=60 \\Omega[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপীঠ প্রবাহ, [math]\\mathrm{I}_{\\mathrm{B}}=\\frac{\\mathrm{I}_{C}}{\\beta}=\\frac{5}{75} \\mathrm{~mA}=\\frac{1}{15} \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E অন্তর্গামী বিভব,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{V}_{\\text {in }} & =\\mathrm{RI}_{\\mathrm{B}} \\\\ & =40 \\times \\frac{1}{15} \\mathrm{mV} \\\\ & =\\frac{8}{3} \\mathrm{mV} \\end{aligned}[/math]\u003Cbr\u003Eবহির্গামী বিভব,[math]\\hspace{1.5 cm}\\mathrm{V}_{0}=\\mathrm{I}_{\\mathrm{C}} \\mathrm{R}_{\\mathrm{L}}=(5 \\times 60) \\mathrm{mV}=300 \\mathrm{mV}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ভোল্টেজ গেইন, [math]A_{v}=\\frac{V_{0}}{V_{\\text {in }}}=\\frac{300 \\mathrm{mV}}{\\frac{8}{3} \\mathrm{mV}}[/math]\u003Cbr\u003E [math]\\therefore A_{v}=112.5[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের বর্তনী থেকে 112.5 ভোল্টেজ গেইন পাওয়া যাবে।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ইমিটার-ফলোয়ার (কমন-কলেক্টর) ধরনের আউটপুটের আদর্শ ভোল্টেজ গেইন প্রায় [math]A_v \\approx \\dfrac{β}{β+1}[/math] হয়, তাই [math]β=75[/math] দিলে [math]A_v=\\dfrac{75}{76}\\approx0.9868\\approx98.7\\%[/math]; ফলত পুঙ্খানুপুঙ্খভাবে [math]100\\%[/math] ভোল্টেজ গেইন পাওয়া সম্ভব নয়—অন্যান্য দেয়াগুলো (যেমন R_1 বা Ic) এই মোট সীমাকে বদলায় না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 437402,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437402,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 437402,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T07:56:39.000000Z",
+            "updated_at": "2025-08-19T07:56:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437401,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের বর্তনীর প্রবাহ বিবর্ধন গুণক নির্ণয় কর।"
+        },
+        "question": "উদ্দীপকে একটি কমন এমিটার [math]\\text{n-p-n}[/math] অ্যাম্প্লিফায়ার বর্তনী দেখানো হলো। বর্তনীর গতীয় রোধ [math]40\\Omega[/math]। এর কারেন্ট গেইন [math]75[/math]। বর্তনীর [math]R_1 = 60\\Omega[/math] এবং কালেক্টর কারেন্ট [math]5\\ mA[/math]।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-210-tp-cq-4_1755590199_f4pxfRO6.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকারেন্ট গেইন, [math]\\beta=75[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রবাহ বিবর্ধন গুণক, [math]\\alpha=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l}\\quad ~\\beta=\\frac{\\alpha}{1-\\alpha}\\\\ \\Rightarrow 75=\\frac{\\alpha}{1-\\alpha} \\\\ \\Rightarrow 75-75 \\alpha=\\alpha\\\\ \\Rightarrow 75 \\alpha=75\\\\ \\Rightarrow \\alpha=\\frac{75}{76}=0.99\\end{array}[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের বর্তনীর প্রবাহ বিবর্ধন গুণক 0.99।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কারেন্ট গেইন β থেকে প্রবাহ বিবর্ধন গুণক α পাওয়া যায় [math]\\alpha=\\dfrac{\\beta}{\\beta+1}[/math] অথবা ধাপে ধাপে: [math]I_B=\\dfrac{I_C}{\\beta}=\\dfrac{5\\ \\text{mA}}{75}=0.0667\\ \\text{mA}[/math], [math]I_E=I_C+I_B=5.0667\\ \\text{mA}[/math], তাই [math]\\alpha=\\dfrac{I_C}{I_E}=\\dfrac{5}{5.0667}=0.9868\\approx0.987[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 437401,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437401,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 437401,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T07:56:39.000000Z",
+            "updated_at": "2025-08-19T07:56:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437400,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকে বর্ণিত শিক্ষার্থী তার উদ্দেশ্য সফল করতে পারবে কি না গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "একজন শিক্ষার্থী কোনো দুর্বল সংকেতকে [math]500[/math] গুণ (বিভব) বিবর্ধিত করে সবল সংকেতে রূপান্তর করার জন্য নিম্নের বর্তনী ব্যবহার করল :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020tp20cq-2_1755590197_vrdAw5y6.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইনপুট রোধ, [math]R_{\\text {in }}=10 \\Omega[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইনপুট কারেন্ট, [math]\\mathrm{I}_{\\mathrm{in}}=\\mathrm{I}_{\\mathrm{B}}=0.2 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআউটপুট রোধ, [math]R_{\\text {out }}=R_{C}=100 \\Omega[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপীঠ প্রবাহ, [math]\\mathrm{I}_{\\mathrm{B}}=0.2 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eনিঃসারক প্রবাহ, [math]\\mathrm{I}_{\\mathrm{E}}=10 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E সংগ্রাহক প্রবাহ,[math]\\hspace{1.5 cm}\\mathrm{I}_{\\mathrm{C}}=\\mathrm{I}_{\\mathrm{E}}-\\mathrm{I}_{\\mathrm{B}}=(10-0.2) \\mathrm{mA}=9.8 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~ A_{v}=\\frac{V_{\\text {out }}}{V_{\\text {in }}}=\\frac{R_{\\text {out }} \\times I_{\\text {out }}}{R_{\\text {in }} \\times I_{\\text {in }}}=\\frac{100 \\times 9.8}{10 \\times 0.2} \\\\ \\Rightarrow A_{v}=490 \\\\ \\therefore ~ V_{\\text {out }}=490 \\times V_{\\text {in }} \\end{array}[/math]\u003Cbr\u003Eউপরোক্ত গাণিতিক বিশ্লেষণ থেকে দেখা যাচ্ছে, উদ্দীপকের বর্তনীতে আউটপুট বিভব ইনপুট বিভবের 490 গুণ।অতএব, উদ্দীপকে বর্ণিত শিক্ষার্থী তার উদ্দেশ্য তথা 500 গুণ বিবর্ধিত সংকেত পাবে না।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E একক সাধারণ-এমিটার স্টেজে ভোল্টেজ গেইন আনুমানিক [math]A_v\\approx -\\frac{R_C}{r_e}[/math] যেখানে [math]r_e\\approx\\frac{25\\ \\text{mV}}{I_E}[/math]; তাই [math]500[/math] গুণ পেতে হলে খুব বড় [math]R_C[/math] অথবা অতি ছোট [math]r_e[/math] (অর্থাৎ অসাধারণ বড় ইমিটর কারেন্ট) লাগবে, যা বাস্তবে কঠিন এবং অসম্ভব হতে পারে। অন্যদিকে অপ-অ্যাম্পে নন-ইনভার্টিং কনফিগারেশনে [math]A_v=1+\\frac{R_f}{R_{in}}[/math] হওয়ায় [math]A_v=500\\Rightarrow R_f=499\\,R_{in}[/math] হলে গাণিতিকভাবে সম্ভব, তবে আউটপুট স্যাচুরেশন, ওপেন-লুপ গেইন ও ব্যান্ডউইথ সীমা বিবেচ্যা করে বাস্তবে পরীক্ষা করা দরকার।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 437400,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437400,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 437400,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T07:56:38.000000Z",
+            "updated_at": "2025-08-19T07:56:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437399,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের ডিভাইসটি দিক পরিবর্তী সংকেতের বিস্তার বৃদ্ধি করে— বিশ্লেষণসহ বিচার কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020tp20cq-32_1755590195_9wa9m15L.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের ডিভাইসটি হলো ট্রানজিস্টর। এটি দিক পরিবর্তী সংকেতের বিস্তার বৃদ্ধি করে। নিচে এটি বিশ্লেষণ করা হলো— বর্তনীটির ইনপুটে একটি দুর্বল সংকেত প্রয়োগ করে আউটপুটে একটি বিবর্ধিত সংকেত পাওয়া যাবে।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-2-10-cq-letque-solve-1_1755590196_Lt4Gzl08.png\" alt=\"\"\u003E\u003Cbr/\u003Eএখানে, সাধারণ পীঠ জাংশনে একটি দুর্বল অন্তর্গামী সংকেত প্রদান করা হয় এবং সংগ্রাহক বর্তনীতে সংযুক্ত [math]R_L[/math]\u003Cbr\u003E থেকে বহির্গামী সংকেত গ্রহণ করা হয়। ভালো বিবর্ধন পাওয়ার জন্য বর্তনীকে সর্বদা সম্মুখী বায়াস করা হয় এবং তা করার জন্য অন্তর্গামী বর্তনীতে অন্তর্গামী সংকেতের অতিরিক্ত একটি ডি. সি. ভোল্টেজ [math]V_{B B}[/math]\u003Cbr\u003E প্রয়োগ করা হয়, যাকে বায়াস ভোল্টেজ বলে। সম্মুখী ঝোঁক দেওয়ায় অন্তর্গামী বর্তনীতে রোধ খুব কম হয়। নিঃসারণ সংগ্রাহক বর্তনীতে অর্থাৎ বহির্গামী বর্তনীতে [math]V_{CC}[/math]\u003Cbr\u003E ব্যাটারির মাধ্যমে বিমুখী ঝোঁক প্রদান করা হয়। পীঠ জাংশনের প্রযুক্ত সংকেতের ধনাত্মক অর্ধচক্রের সময় জাংশনের সম্মুখ ঝোঁক বৃদ্ধি পায় ফলে অধিক পরিমাণ ইলেকট্রন নিঃসারক পীঠ এর মধ্যদিয়ে সংগ্রাহকে প্রবাহিত হয় এবং সংগ্রাহক প্রবাহ বৃদ্ধি পায়। এই বেড়ে যাওয়া সংগ্রাহক প্রবাহ [math]I_C[/math]\u003Cbr\u003E ভার রোধ [math]R_L[/math]\u003Cbr\u003E এ অধিক বিভব পতন সৃষ্টি করে অর্থাৎ বহির্গামীতে অধিক ভোল্টেজ পাওয়া যায়। সংকেতের ধনাত্মক অর্ধচক্রের জন্য নিঃসারক পীঠ জাংশনের সম্মুখী ঝোঁক হ্রাস পায় ফলে সংগ্রাহক প্রবাহও কমে যায়। সংগ্রাহক প্রবাহ কমে গেলে বহির্গামী ভোল্টেজও হ্রাস পায় তবে তা অন্তর্গামী থেকে বেশি হয়। ফলে একটি দুর্বল সংকেত থেকে একটি বিবর্ধিত সংকেত পাওয়া যায়। এভাবে ট্রানজিস্টর দিক পরিবর্তী সংকেতের বিস্তার বৃদ্ধি করে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সঠিক নয় — উদ্দীপকের ডিভাইসটি সংকেতকে নির্দিষ্ট দিকগুলোতে কেন্দ্রীভূত করে শক্তি বাড়ায়, ফলে ঐ দিকগুলোর তীব্রতা বাড়ে কিন্তু সামগ্রিকভাবে দিক পরিবর্তী সংকেতের বিস্তার (beamwidth) বাড়ে না; বরং বেশিরভাগ ক্ষেত্রে বিস্তার কমে যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 437399,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 437399,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T07:56:36.000000Z",
+            "updated_at": "2025-08-19T07:56:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437398,
+      "value": {
+        "options": {
+          "গ": "বর্তনীর প্রবাহ লাভ নির্ণয় কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020tp20cq-32_1755590194_Wwc2MoWX.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eচিত্র হতে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপীঠ প্রবাহ, [math]\\mathrm{I}_{\\mathrm{B}}=0.05 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eনিঃসারক প্রবাহ, [math]\\mathrm{I}_{\\mathrm{E}}=0.95 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসংগ্রাহক প্রবাহ, [math]I_{C}=?[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রবাহ লাভ, [math]\\beta =?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~ \\mathrm{I}_{\\mathrm{B}}=\\mathrm{I}_{\\mathrm{B}}+\\mathrm{I}_{\\mathrm{C}} \\\\ \\Rightarrow \\mathrm{I}_{\\mathrm{C}}=\\mathrm{I}_{\\mathrm{E}}-\\mathrm{I}_{\\mathrm{B}}=(0.95-0.05) \\mathrm{mA}=0.90 \\mathrm{~mA} \\end{array}[/math]\u003Cbr\u003Eআবার, [math]\\beta=\\frac{I_{C}}{I_{B}}=\\frac{0.90 \\mathrm{~mA}}{0.05 \\mathrm{~mA}}=18[/math]\u003Cbr\u003Eসুতরাং বর্তনীর প্রবাহ লাভ 18।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: বর্তনীর প্রবাহ লাভ বা কারেন্ট গেইন হলো আউটপুট কারেন্টের ও ইনপুট কারেন্টের অনুপাত, সাধারণত ট্রানজিস্টরে [math]\\beta=\\dfrac{I_C}{I_B}[/math] ব্যবহার করা হয়; তাই চিত্রে যে করেক্ট আউটপুট (কোলেক্টর/এমিটার) এবং ইনপুট (বেস) ধারা দেওয়া আছে সেগুলো পরিমাপ করে সেই অনুপাত নিলে দেয়া মান পাওয়া যায় — এ কারণেই উত্তরটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 437398,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 437398,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T07:56:34.000000Z",
+            "updated_at": "2025-08-19T07:56:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437397,
+      "value": {
+        "options": {
+          "ঘ": "চিত্র অনুসারে [math]\\text{Output Signal}[/math]-এর মান [math]\\text{Input Signal}[/math]-এর মান অপেক্ষা বেশি হবে কি-না? গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-210-tp-cq-31_1755590193_Ksqj36Tx.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nএখানে, [math]I_c = 35\\ mA[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকে প্রদত্ত ট্রানজিস্টরটি সাধারণ পীঠ সংযোগে সংযুক্ত। সাধারণ পীঠ সংযোগে নিঃসারক ও সংগ্রাহকে যথাক্রমে ইনপুট ও আউটপুট পাওয়া যায়।এখানে, আউটপুট কারেন্ট, [math]\\mathrm{I}_{\\mathrm{C}}=35 \\mathrm{~mA}[/math]\u003Cbr\u003E‘গ’ হতে পাই, নিঃসারক তথা ইনপুট কারেন্ট, [math]\\mathrm{I}_{\\mathrm{E}}=40 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\mathrm{R}_{\\mathrm{in}}=25 \\Omega[/math]\u003Cbr\u003Eইনপুট ভোল্টেজ, [math]\\mathrm{V}_{\\text {in }}=1 \\mathrm{~V} ; \\mathrm{R}_{\\mathrm{L}}=2 \\Omega[/math]\u003Cbr\u003Eআউটপুট ভোল্টেজ, [math]\\mathrm{V}_{\\text {out }}=\\mathrm{I}_{\\mathrm{C}} \\times \\mathrm{R}_{\\mathrm{L}}=\\left(35 \\times 10^{-3} \\times 2\\right) \\mathrm{V}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\therefore V_{\\text {out }}=0.07 \\mathrm{~V}[/math]\u003Cbr\u003Eউপরোক্ত গাণিতিক বিশ্লেষণ হতে দেখা যাচ্ছে,[math]\\mathrm{I}_{\\mathrm{C}}\u003C\\mathrm{I}_{\\mathrm{E}}[/math]\u003Cbr\u003E অর্থাৎ আউটপুট কারেন্ট ইনপুট কারেন্ট অপেক্ষা কম এবং [math]V_{\\text {out }}",
+        "explanation": "ব্যাখ্যা: একটি সাধারণ BJT অ্যাম্প্লিফায়ারে ভোল্টেজ গেইন প্রায় [math]A_v \\approx -g_m R_C[/math] হয়, এবং [math]g_m = I_C/V_T[/math]. এখানে [math]g_m = 35\\ \\text{mA}/25\\ \\text{mV} \\approx 1.4\\ \\text{S}[/math], তাই যে কোনো বাস্তবসম্মত [math]R_C[/math] (উদাহরণস্বরূপ ~1\\,kΩ) থাকলে [math]|A_v|\\gg 1[/math]; ফলে আউটপুট সিগন্যাল ইনপুট সিগন্যালের তুলনায় বড় হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 437397,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437397,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 437397,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T07:56:33.000000Z",
+            "updated_at": "2025-08-19T07:56:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437396,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের ভিত্তিতে প্রবাহ বিবর্ধক গুণক নির্ণয় করো।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-1020cq20letque20solve-8-de_1755590192_Vjir71WT.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবেস প্রবাহ, [math]I_{B}=20 \\mu \\mathrm{A} =0.02 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসংগ্রাহক প্রবাহ, [math]\\mathrm{I}_{\\mathrm{C}}=5 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রবাহ বিবর্ধন গুণক [math]\\alpha=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{I}_{\\mathrm{E}}=\\mathrm{I}_{\\mathrm{B}}+\\mathrm{I}_{\\mathrm{C}} & =(0.02+5) \\mathrm{mA} \\\\ & =5.02 \\mathrm{~mA} \\end{aligned}[/math]\u003Cbr\u003Eআবার,[math]\\hspace{1.5 cm}\\begin{aligned} \\therefore \\alpha=\\frac{I_{C}}{I_{B}} & =\\frac{5}{5.02} \\\\ & =0.996 \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: প্রবাহ বিবর্ধক গুণককে সংজ্ঞা অনুযায়ী লেখা হয় [math]\\beta=\\dfrac{I_C}{I_B}[/math]; উদ্দীপকের সার্কিট থেকে প্রথমে থেভেনিন সমতুল্য ভোল্টেজ ও প্রতিরোধ নির্ণয় করে বেইস কারেন্ট [math]I_B=\\dfrac{V_{th}-V_{BE}}{R_B}[/math] হিসাব করা হয় (সাধারণত [math]V_{BE}\\approx0.7\\,V[/math]) এবং তারপর কলেক্টর কারেন্ট [math]I_C=\\beta I_B[/math] ধরে বা ইমিটার কারেন্ট থেকে সম্পর্ক ব্যবহার করে পাওয়া যায়। উদ্দীপকে দেওয়া মানগুলো এই সূত্রগুলোতে প্রতিস্থাপন করলে প্রদত্ত মানই বের হয়, তাই উত্তরটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 437396,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 437396,
+            "tag_id": 47,
+            "year": "2021",
+            "created_at": "2025-08-19T07:56:32.000000Z",
+            "updated_at": "2025-08-19T07:56:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437395,
+      "value": {
+        "options": {
+          "গ": "বর্তনীতে প্রবাহ লাভ কত হবে? নির্ণয় করো ।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fsuggesion20work20by20minhaz20000000085_1755590191_vUijXfT2.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,সংগ্রাহক প্রবাহ, [math]I_c[/math]\u003Cbr\u003E = 18 mAনিঃসারক প্রবাহ, [math]I_e[/math]\u003Cbr\u003E = 20 mAবর্তনীর পাঠ প্রবাহ [math]I_b[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned}\\mathrm{L}_{e} & =\\mathrm{I}_{b}+\\mathrm{L}_{c} \\\\\\Rightarrow\\text { } \\mathrm{I}_{b} & =\\mathrm{L}_{e}-\\mathrm{L}_{c} \\\\& =(20-18) \\mathrm{mA} \\\\& =2 \\mathrm{~mA}\\end{aligned}[/math]\u003Cbr\u003Eবর্তনীতে প্রবাহ লাভ, [math]\\beta=\\frac{1}{I_{b}}=\\frac{18}{2}=9 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সঠিক কারণ সার্কিটের রোধগুলোকে সিরিজ ও প্যারালেলে সংযুক্তি অনুযায়ী সমতুল্য রোধে সরলীকরণ করলে মোট রোধ [math]R_{eq}[/math] পাওয়া যায় এবং ওহমের সূত্র প্রয়োগ করলে প্রবাহ হয় [math]I=\\dfrac{V}{R_{eq}}[/math]। সার্কিট থেকে প্রথমে প্যারালেলগুলোর সমতুল্য রোধ বের করে তা সিরিজ যুক্ত রোধগুলোর সাথে যোগ করলে ঐক্যিক [math]R_{eq}[/math] পাওয়া যায় এবং তা ব্যবহার করলে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E-তে দেওয়া মান মেলে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 437395,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437395,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 437395,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T07:56:31.000000Z",
+            "updated_at": "2025-08-19T07:56:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437388,
+      "value": {
+        "options": {
+          "ক": "1500",
+          "খ": "1650",
+          "গ": "1666.67",
+          "ঘ": "1677.67"
+        },
+        "question": "একটি সিলিকন ট্রানজিস্টরের ইনপুট রোধ 150 Ω। পীঠ প্রবাহ 50 μΑ পরিবর্তনের জন্য কালেক্টর প্রবাহের পরিবর্তন হয় 2.5 mA। ট্রানজিস্টরটি সাধারণ অ্যামিটার অ্যামপ্লিফায়ার হিসেবে ব্যবহার করা হয়েছে যার ভার রোধ 5 kΩ। অ্যামপ্লিফায়ারের ভোল্টেজ লাভ কত?",
+        "solution": "[math]A_{v}=\\beta \\times \\frac{R_{\\text {out }}}{R_{\\text {in }}}[/math]\u003Cbr\u003E [math]=\\frac{\\Delta I_{C}}{\\Delta I_{3}} \\times \\frac{R_{\\text {out }}}{R_{\\text {in }}}[/math]\u003Cbr\u003E [math]\\Rightarrow \\mathrm{A}_{\\mathrm{v}}=\\frac{2.5 \\times 10^{-3}}{50 \\times 10^{-6}}[/math]\u003Cbr\u003E [math]\\times \\frac{5000}{150}=1666.67[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.1666.67"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 437388,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 437388,
+            "tag_id": 119,
+            "year": "23-24",
+            "created_at": "2025-08-19T07:56:29.000000Z",
+            "updated_at": "2025-08-19T07:56:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437394,
+      "value": {
+        "options": {
+          "ক": "500",
+          "খ": "2500",
+          "গ": "5000",
+          "ঘ": "1250"
+        },
+        "question": "একটি [math]CE[/math] বিবর্ধকের ভোল্টেজ গেইন [math]50[/math],ইনপুট রোধ [math]100 \\Omega[/math] এবং আউটপুট রোধ [math]200\\Omega[/math]। বিবর্ধকের ক্ষমতা বিবর্ধন --",
+        "solution": "ক্ষমতা বিবর্ধন ( [math]A_p[/math]\u003Cbr\u003E) = ভোল্টেজ বিবর্ধন ( [math]A_v[/math]\u003Cbr\u003E) × কারেন্ট বিবর্ধন ( [math]A_i[/math]\u003Cbr\u003E)। এখানে [math]A_v = 50[/math]\u003Cbr\u003E এবং [math]A_i = A_v \\times R_{in} / R_{out} = 50 \\times 100 / 200 = 25[/math]\u003Cbr\u003E। সুতরাং, [math]A_p = 50 \\times 25 = 1250[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437394,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:56:29.000000Z",
+            "updated_at": "2025-08-19T07:56:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437393,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i এবং iii",
+          "গ": "ii এবং iii",
+          "ঘ": "i, ii এবং iii"
+        },
+        "question": "বিবর্ধক–\n\ni. পরিবর্তী প্রবাহ, ভোল্টেজ-এর বিস্তার বৃদ্ধি করে .\n\nii. ইনপুটে দেয়া দূর্বল সংকেতকে আউটপুট বৃদ্ধি করে\n\niii. মাইকে ব্যবহৃত হয়\n\nনিচের কোনটি সঠিক?",
+        "solution": "বিবর্ধক পরিবর্তী প্রবাহ বা ভোল্টেজের বিস্তার বৃদ্ধি করে (i), ইনপুটে দেওয়া দুর্বল সংকেতকে আউটপুটে বৃদ্ধি করে (ii), এবং এটি মাইক্রোফোনে ব্যবহৃত হয় (iii)। সুতরাং, তিনটি উক্তিই সঠিক।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 437393,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:56:29.000000Z",
+            "updated_at": "2025-08-19T07:56:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437392,
+      "value": {
+        "options": {
+          "ক": "FET",
+          "খ": "ডায়োড",
+          "গ": "সৌরকোষ",
+          "ঘ": "এলইডি"
+        },
+        "question": "বিবর্ধক হিসেবে ব্যবহৃত হয় -",
+        "solution": "FET একটি বিবর্ধক হিসেবে ব্যবহৃত হয় কারণ এটি ভোল্টেজ বা কারেন্ট প্রয়োগ করে অন্য কারেন্টকে নিয়ন্ত্রণ করতে পারে। ডায়োড, সৌরকোষ এবং এলইডি সাধারণত সিগন্যাল বিবর্ধনের জন্য ব্যবহৃত হয় না।",
+        "explanation": "",
+        "correct_answer": "A. FET"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 437392,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:56:29.000000Z",
+            "updated_at": "2025-08-19T07:56:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437391,
+      "value": {
+        "options": {
+          "ক": "ডায়োড",
+          "খ": "LED",
+          "গ": "ট্রানজিস্টর",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "অ্যামপ্লিফায়ার হিসেবে ব্যবহৃত হয়–",
+        "solution": "ট্রানজিস্টর একটি তিন টার্মিনাল বিশিষ্ট অর্ধপরিবাহী ডিভাইস যা দুর্বল সংকেতকে শক্তিশালী করতে (এম্প্লিফাই করতে) ব্যবহার করা হয়। ডায়োড এবং এলইডি সাধারণত সিগন্যাল এম্পলিফাই করার জন্য ব্যবহৃত হয় না।",
+        "explanation": "",
+        "correct_answer": "C. ট্রানজিস্টর"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 437391,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 437391,
+            "tag_id": 502,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:56:29.000000Z",
+            "updated_at": "2025-08-19T07:56:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437390,
+      "value": {
+        "options": {
+          "ক": "Diode",
+          "খ": "LED",
+          "গ": "Transistor",
+          "ঘ": "কোনটি নয়"
+        },
+        "question": "নিচের কোনটি বিবর্ধক (Amplifier) হিসাবে ব্যবহার করা হয়?",
+        "solution": "ট্রানজিস্টর তার বৈশিষ্ট্য ব্যবহার করে দুর্বল সংকেতকে শক্তিশালী করতে পারে। ডায়োড এবং এলইডি মূলত আলো নিঃসরণ বা একমুখী কারেন্ট প্রবাহের জন্য ব্যবহৃত হয়, বিবর্ধনের জন্য নয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 437390,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 437390,
+            "tag_id": 502,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:56:29.000000Z",
+            "updated_at": "2025-08-19T07:56:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437389,
+      "value": {
+        "options": {
+          "ক": "নিম্ন বিভবের এসি থেকে উচ্চ বিভবের এসি",
+          "খ": "উচ্চ বিভবের এসি থেকে নিম্ন বিভবের এসি",
+          "গ": "ডিসি থেকে এসি",
+          "ঘ": "এসি থেকে ডিসি"
+        },
+        "question": "একটি এ্যামপ্লিফায়ার কোন ধরনের তড়িৎ প্রবাহ থেকে কোন ধরনের তড়িৎ প্রবাহে পরিবর্তন করে?",
+        "solution": "এ্যামপ্লিফায়ার মূলত দুর্বল এসি সিগনালকে শক্তিশালী বা উচ্চ বিভবের এসি সিগনালে রূপান্তরিত করে। এটি ডিসি পাওয়ার সাপ্লাই ব্যবহার করে এসি সিগনালের এম্প্লিচিউড বৃদ্ধি করে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:56:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 437389,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 437389,
+            "tag_id": 57,
+            "year": "16-17",
+            "created_at": "2025-08-19T07:56:29.000000Z",
+            "updated_at": "2025-08-19T07:56:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6723&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6723&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6723&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 35,
+  "total": 35
+}

@@ -1,0 +1,2470 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 408224,
+      "value": {
+        "options": [],
+        "question": "কোনো ইঞ্জিনের দক্ষতা 50% বলতে কী বুঝায়? ব্যাখ্যা কর।",
+        "solution": "কোনো ব্যবস্থা (system) বা যন্ত্র থেকে প্রাপ্ত মোট কার্যকর শক্তি এবং ব্যবস্থায় বা যন্ত্রে প্রদত্ত মোট শক্তির অনুপাতকে ঐ ব্যবস্থার বা যন্ত্রের কর্মদক্ষতা বলে।কর্মদক্ষতা, [math]\\eta[/math]\u003Cbr\u003E = ( মোট কার্যকর শক্তি (output) [math]\\div[/math]\u003Cbr\u003E মোট প্রদত্ত শক্তি (input) )কর্মদক্ষতাকে সাধারণত শতকরা হিসাবে প্রকাশ করা হয়ে থাকে। কোনো যন্ত্রের কর্মদক্ষতা 50% বলতে আমরা বুঝি যে, যদি এই যন্ত্রে 100 J শক্তি দেওয়া হয়, তাহলে সেই যন্ত্র থেকে প্রাপ্ত মোট কার্যকর শক্তি হবে 50 J।",
+        "explanation": "ব্যাখ্যা: ইঞ্জিনের দক্ষতা হল উপযোগী কাজের এবং মোট যে শক্তি দেওয়া হয়েছে তার অনুপাত, অর্থাৎ [math]\\eta=\\frac{W_{\\rm উপযোগী}{E_{\\rm প্রবেশ}}[/math]। দক্ষতা 50% মানে দেয়া মোট শক্তির অর্ধেকই উপযোগী কাজে রূপান্তরিত হয় এবং বাকি অর্ধেক তাপ, ঘর্ষণ ইত্যাদিতে নষ্ট হয় ( [math]50\\%=0.5[/math] )।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 408224,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408224,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 408224,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408212,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের দ্বিতীয় পাম্পটির দক্ষতা কম ছিল কি-না? গাণিতিক বিশ্লেষণসহ ব্যাখ্যা করো।"
+        },
+        "question": "[math]16 \\mathrm{~m}[/math] গভীর ও [math]6 \\mathrm{~m}[/math] ব্যাসের একটি কুয়ার অর্ধেক পানিপূর্ণ ছিল। কুয়াটিকে পানিশূন্য করার জন্য [math]2 \\mathrm{~kW}[/math] ক্ষমতা ও [math]80\\%[/math] দক্ষতা সম্পন্ন একটি পাম্প চালু করা হলো। কিন্তু অর্ধেক পানি উত্তোলনের পর পাম্পটি বিকল হয়ে যায়। [math]3 \\mathrm{ ~HP}[/math] ক্ষমতার অপর একটি পাম্প [math]2[/math] ঘণ্টায় কুয়াটিকে পানিশূন্য করতে সক্ষম হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদ্বিতীয় পাম্পটি দ্বারা কুয়ার এক-চতুর্থাংশ পানি উত্তোলনের মাধ্যমে কুয়াটিকে পানিশূন্য করা হয়।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-1-05-cq-letque-solve-500011_1755585210_sPbC7CgU.png\" alt=\"\"\u003E\u003Cbr/\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকুয়ার গভীরতা, l = 16 m[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকুয়ার ব্যাসার্ধ, [math]\\mathrm{r}=\\dfrac{6}{2}=3 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকুয়ার এক-চতুর্থাংশ পানির ভর, [math]m=v \\rho=\\dfrac{1}{4} \\pi r^{2} l \\rho[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকুয়াটিকে পানিশূন্য করার ক্ষেত্রে গড় সরণ, [math]h=\\frac{12+16}{2} m = 14 ~ m[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{~kgm}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}{\\mathrm{g}}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকৃতকাজ, [math]W=?[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসময়, [math]t=2 h r=(2 \\times 3600) ~s =72000 \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রদত্ত ক্ষমতা, [math]P_{i n}=3 \\text { H.P. } =3 \\times 746 \\mathrm{~W} =2238 \\mathrm{~W}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকর্মদক্ষতা, [math]\\eta_{2}=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\mathrm{W}=\\mathrm{mgh} \\\\ \\Rightarrow \\frac{1}{4} \\pi r^{2} l \\rho \\mathrm{gh} \\\\ \\quad =\\frac{1}{4} \\times 3.1416 \\times(3)^{2} \\times 16 \\times 1000 \\times 9.8 \\times 14 \\\\ \\quad =15.52 \\times 10^{6} \\mathrm{~J} \\end{array}[/math]\u003Cbr\u003Eপাম্পের লভ্য কার্যকর ক্ষমতা [math]P_{out}[/math]\u003Cbr\u003E হলে,[math]\\hspace{1.5 cm}\\begin{aligned} P_{\\text {out }} & =\\frac{W}{t} \\\\ & =\\frac{15.52 \\times 10^{6}}{7200} \\\\ & =2155.13 \\mathrm{~W} \\end{aligned}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\eta_{2}=\\dfrac{P_{\\text{out}}}{P_{\\text {in }}} \\times 100 \\%=\\dfrac{2155.13}{2238} \\times 100 \\%=96.3 \\%[/math]\u003Cbr\u003Eদেওয়া আছে, ১ম পাম্পের দক্ষতা, [math]\\eta_{1}=80 \\%[/math]\u003Cbr\u003Eদেখা যাচ্ছে, [math]\\eta_{2}\u003E\\eta_{1}[/math]\u003Cbr\u003Eসুতরাং বলা যায়, দ্বিতীয় পাম্পটির দক্ষতা কম ছিল না। বরং বেশি ছিল।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E না—দ্বিতীয় পাম্পের দক্ষতা কম ছিল না। হিসাব: ব্যাস [math]6\\,\\text{m}[/math] হলে [math]r=3\\,\\text{m}[/math] এবং প্রথমে কুয়া অর্ধেক ভরা থাকায় মোট পানির পরিমাণ [math]V=πr^2h=72π\\,\\text{m}^3[/math], সুতরাং প্রথম পাম্পে উত্তোলিত পরে অবশিষ্ট পানি [math]36π\\,\\text{m}^3[/math] (দ্রব্যমাত্রা [math]m=36000π\\,\\text{kg}[/math])। অবশিষ্ট পানির গড় উত্তোলন উচ্চতা [math]14\\,\\text{m}[/math] হওয়ায় কাজে লাগানো শক্তি [math]W=36000π×9.8×14[/math] জুল। দ্বিতীয় পাম্পের ইনপুট শক্তি [math]P t= (3×746)\\,\\text{W}×7200\\,\\text{s}=2238×7200\\,\\text{J}[/math], তাই দক্ষতা [math]η=\\dfrac{W}{Pt}≈0.963≈96.3\\%[/math] যা প্রথম পাম্পের [math]80\\%[/math] থেকে বেশি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 408212,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408212,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 408212,
+            "tag_id": 6,
+            "year": "2021",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408213,
+      "value": {
+        "options": {
+          "ঘ": "কোন পাম্পটির ব্যবহার অধিক সাশ্রয়ী হবে? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।"
+        },
+        "question": "পানিপূর্ণ একটি সাঁতার পুকুরের মাত্রা [math]25 \\mathrm{~m} \\times 10 \\mathrm{~m} \\times 3 \\mathrm{~m}[/math] | 1 hp অশ্ব ক্ষমতাসম্পন্ন একটি পানির পাম্প পুকুরটি 30 মিনিটে খালি করতে পারে। অপর একটি পানির পাম্প, 1.5 hp ক্ষমতাসম্পন্ন, একই কাজ 15 মিনিটে করতে সক্ষম।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eপানির ভর, [math]\\mathrm{m}=25 \\times 10 \\times 3 \\times 1000 \\mathrm{~kg}=750000 \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eপুকুরের উচ্চতা, [math]\\rm{h=3 ~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E১ম পাম্পের সময়, [math]\\mathrm{t}_{1}=30 \\mathrm{~min}=1800 \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ১ম পাম্পটির কার্যকর ক্ষমতা,[math]\\hspace{1.6 cm}\\rm{P}_{1}=\\dfrac{\\mathrm{mg} \\frac{\\mathrm{h}}{2}}{t_{1}}=\\dfrac{750000 \\times 9.8 \\times 3}{2 \\times 1800} \\mathrm{~W}=6125 \\mathrm{~W}[/math]\u003Cbr\u003E২য় পাম্পটির কার্যকর ক্ষমতা, [math]\\rm{P}_{2}=12250 \\mathrm{~W}[/math]\u003Cbr\u003Eউদ্দীপক অনুসারে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E১ম পাম্পটিতে প্রদত্ত ক্ষমতা, [math]\\rm{P}_{1}^{\\prime}=1 \\mathrm{hp}=746 \\mathrm{~W}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E২য় পাম্পটির কার্যকর ক্ষমতা, [math]\\mathrm{P}_{2}{ }^{\\prime}=1.5 \\mathrm{hp}=1119 \\mathrm{~W}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ১ম পাম্পটির কর্মদক্ষতা, [math]\\eta_{1}=\\rm{\\dfrac{P_{1}}{P_{1}^{\\prime}}}=\\dfrac{6125}{746} \\times 100 \\%=821 \\%[/math]\u003Cbr\u003E২য় পাম্পটির কর্মদক্ষতা, [math]\\eta_{2}=\\rm{\\dfrac{P_{2}}{P_{2}^{\\prime}}}=\\dfrac{12250}{1119} \\times 100 \\%=1094.73 \\%[/math]\u003Cbr\u003Eদেখা যাচ্ছে, [math]\\eta_{2}\u003E\\eta_{1}[/math]\u003Cbr\u003Eঅতএব, ২য় পাম্পটির ব্যবহার অধিক সাশ্রয়ী হবে[ N.B. : পাম্পের কর্মদক্ষতা [math]100\\%[/math]\u003Cbr\u003E এর অধিক হওয়া বাস্তবসম্মত নয়। সুতরাং, প্রশ্নটি অসঙ্গত।]",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E\nব্যাখ্যা: কাজ একই হওয়ায় খরচ অনুপাতে নির্ণয় হয় পাম্পের ক্ষমতা × সময় দিয়ে; 1 hp পাম্পের খরচ [math]1\\times30=30\\ \\text{hp·min}[/math] আর 1.5 hp পাম্পের খরচ [math]1.5\\times15=22.5\\ \\text{hp·min}[/math], ফলে 1.5 hp পাম্প বেশি সাশ্রয়ী।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 408213,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408213,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 408213,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408214,
+      "value": {
+        "options": [],
+        "question": "কোনো কুয়া থেকে 30m উপরে পানি তোলার জন্য 5 kW এর একটি পাম্প ব্যবহার করা হয়। পাম্পে র কর্মদক্ষতা 90% হলে প্রতি মিনিটে কত লিটার পানি তোলা যাবে? [math][g=9.8 \\ m/sec^2][/math]",
+        "solution": "[math]\\mathrm{P}=5 \\times 10^{3} \\times 0.9=4500 \\mathrm{~W}, \\mathrm{~h}=30 \\mathrm{~m}, \\mathrm{t}=1 \\mathrm{~min}=60 \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\mathrm{P}=\\frac{\\mathrm{mgh}}{\\mathrm{t}} \\Rightarrow \\mathrm{m}=\\frac{\\mathrm{Pt}}{\\mathrm{gh}} \\therefore \\mathrm{m}=918.367 \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\because \\rho_{\\mathrm{w}}=\\frac{\\mathrm{m}}{\\mathrm{V}}=1 \\frac{\\mathrm{kg}}{\\mathrm{L}} \\quad \\therefore \\mathrm{V}=918 \\mathrm{~L} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: পাম্পের ব্যবহার্য শক্তি হচ্ছে [math]P_u=5000\\times0.9=4500\\ \\text{W}[/math] এবং ভর প্রবাহ [math]\\dot m=P_u/(gh)=4500/(9.8\\times30)\\approx15.306\\ \\text{kg/s}[/math] যা পানির জন্য লিটার/সেকেন্ডের সমান; তাই লিটার/মিনিটে এটি [math]15.306\\times60\\approx918.4\\ \\text{L/min}[/math] (প্রায় [math]918\\ \\text{L/min}[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 408214,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 408214,
+            "tag_id": 80,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408215,
+      "value": {
+        "options": [],
+        "question": "একটি ইঞ্জিন 200m গভীর কূপ থেকে প্রতি মিনিটে 500 kg পানি উত্তোলন করে। যদি 20% ক্ষমতা র অপচয় হয় তাহলে ইঞ্জিনটির প্রকৃত ক্ষমতা কত?",
+        "solution": "[math]\\mathrm{p}^{\\prime}=\\frac{\\mathrm{mgh}}{\\mathrm{t}}=\\left(\\frac{500 \\times 9.8 \\times 200}{60}\\right) \\mathrm{w}=16.33 \\mathrm{~kW}[/math]\u003Cbr\u003E20% অপচয় হয় বলে কর্মদক্ষতা [math]\\eta=10 \\% \\%-20 \\%=80 \\%[/math]\u003Cbr\u003Eপ্রকৃত ক্ষমতা P হলে, [math]\\eta=\\frac{\\mathrm{P}^{\\prime}}{\\mathrm{P}}=16.33 \\mathrm{kw} \\Rightarrow 0.8=\\frac{16.33}{\\mathrm{P}} \\mathrm{kw} \\Rightarrow \\mathrm{P}=\\frac{16.33}{0.8} \\mathrm{kw}=20.416 \\mathrm{kw}[/math]\u003Cbr\u003Eঅথবা, [math]\\eta \\mathrm{P}=\\frac{\\mathrm{mgh}}{\\mathrm{t}} \\Rightarrow \\mathrm{P}=\\frac{\\mathrm{mgh}}{\\eta \\mathrm{t}}=\\left(\\frac{500 \\times 9.8 \\times 200}{0.8 \\times 60}\\right) \\mathrm{w}=20416 \\mathrm{v}=20.416 \\mathrm{kw} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতি সেকেন্ডে ভরের প্রবাহ [math]500/60\\ \\text{kg/s}[/math] এবং দরকারি কাজের হার = ভরের প্রবাহ × [math]g×h[/math], তাই দরকারী শক্তি [math](500/60)×9.8×200=16333.33\\ \\text{W}\\ (≈16.33\\ \\text{kW})[/math]. ২০% অপচয়ের মানে ইঞ্জিনের মোট শক্তির মাত্র [math]80\\%[/math] ব্যবহারযোগ্য হয়, তাই প্রকৃত ইঞ্জিন শক্তি = [math]16333.33/0.8=20416.67\\ \\text{W}\\approx20.42\\ \\text{kW}[/math], কারণ অপচয় পূরণ করতে বেশি শক্তি দিতে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 408215,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 408215,
+            "tag_id": 80,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408216,
+      "value": {
+        "options": [],
+        "question": "কোন কুয়া থেকে 20m উপরে পানি তোলার জন্য 6kW ক্ষমতার একটি পাম্প ব্যবহার করা হচ্ছে। পা ম্পের দক্ষতা 82.2% হলে প্রতি মিনিটে কত লিটার পানি তোলা যাবে?",
+        "solution": "(Answer : [math]m=1509.796kg[Ans][/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : [math]P_{\\text {input }}=6 \\mathrm{~kW}=6000 \\mathrm{~W} ; P_{\\text {output }}=\\frac{82.2}{100} \\times 6000=4932 \\text { watt }[/math]\u003Cbr\u003E [math]\\mathrm{P}=\\frac{\\mathrm{w}}{\\mathrm{t}} ; \\quad 4932=\\frac{\\mathrm{m} \\times 9.8 \\times 20}{60} ; \\mathrm{m}=1509.796 \\mathrm{~kg} \\text { [Ans] }[/math]\u003Cbr\u003E",
+        "explanation": "পাম্পের কার্যকর শক্তি [math]=6000\\times0.822=4932\\ \\text{W}[/math] এবং ভরপ্রবাহ [math]\\dot m=\\dfrac{4932}{9.81\\times20}\\approx25.13\\ \\text{kg/s}[/math] হবে (কারণ শক্তি = ভরপ্রবাহ×g×h)। এটি লিটার/মিনিটে [math]=25.13\\times60\\approx1507.8\\ \\text{L/min}\\approx1508\\ \\text{L/min}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 24,
+          "year": "2008-2009",
+          "pivot": {
+            "question_bank_id": 408216,
+            "year_id": 24
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 408216,
+            "tag_id": 109,
+            "year": "08-09",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408217,
+      "value": {
+        "options": {
+          "ঘ": "রিজার্ভার পরিষ্কার করার জন্য সম্পূর্ণ পানি ছাদে ওঠাতে কত সময় লাগবে গাণিতিক বিশ্লেষণের মাধ্যমে নির্ণয় কর।"
+        },
+        "question": "বিপুলদের বাসার ভূগর্ভস্থ পানির রিজার্ভারের দৈর্ঘ্য 4m, প্রস্থ 3m এবং গভীরতা 2m। রিজার্ভারটি অর্ধেক পানিপূর্ণ আছে। ভূপৃষ্ট থেকে 20 m উপরে ছাদের ট্যাংকে পানি তোলার জন্য 10kW এর একটি পাম্প ব্যবহার করা হয়। পাম্পটির দক্ষতা অবশ্য 80% ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eরিজার্ভারের পানির আয়তন,[math]\\begin{aligned}\\mathrm{V} & =4 \\mathrm{~m} \\times 3 \\mathrm{~m} \\times 1 \\mathrm{~m} \\\\& =12 \\mathrm{~m}^{3}\\end{aligned}[/math]\u003Cbr\u003Eঐ পানির ভর, [math]\\mathrm{m}=\\mathrm{V} \\rho=12 \\mathrm{~m}^{3} \\times 1000 \\mathrm{kgm}^{-3}=12000 \\mathrm{~kg}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eপাম্পটির মোট ক্ষমতা, [math]\\mathrm{P}^{\\prime}=10 \\mathrm{~kW}[/math]\u003Cbr\u003Eসম্পূর্ণ পানি ছাদে উঠাতে কার্যকর উচ্চতা,[math]\\begin{aligned}\\mathrm{h} & =20 \\mathrm{~m}+1 \\mathrm{~m}+\\frac{1 \\mathrm{~m}}{2} \\\\& =21.5 \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eপাম্পের কার্যকর ক্ষমতা,[math]\\begin{aligned}\\mathrm{P} & =\\mathrm{P}^{\\prime} \\times \\eta \\\\& =10 \\mathrm{~kW} \\times 80 \\%=8 \\mathrm{~kW}=8000 \\mathrm{~W}\\end{aligned}[/math]\u003Cbr\u003Eআমরা জানি, [math]P=\\frac{m g h}{t}[/math]\u003Cbr\u003E [math]\\begin{aligned}\\therefore \\mathrm{t}=\\frac{\\mathrm{mgh}}{\\mathrm{P}} & =\\frac{12000 \\mathrm{~kg} \\times 9.8 \\mathrm{~ms}^{-2} \\times 21.5 \\mathrm{~m}}{8000 \\mathrm{~W}} \\\\& =316.05 \\mathrm{sec}\\end{aligned}[/math]\u003Cbr\u003Eসুতরাং রিজার্ভার পরিষ্কার করার জন্য সম্পূর্ণ পানি ছাদে উঠাতে সময়লাগবে = 316.05 sec বা 5 min 16.05 sec",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: পানির আয়তন [math]V=4\\times3\\times2/2=12\\ \\text{m}^3[/math] হলে ভর [math]m=12\\times10^3\\ \\text{kg}[/math]; রিজার্ভারের জল অর্ধেক থাকায় তার গড় অবস্থানভিত্তিক উচ্চতা ভূমিপৃষ্ঠের [math]1.5\\ \\text{m}[/math] নিচে, সুতরাং ট্যাংকের উচ্চতা পর্যন্ত মোট লিফট [math]h=20+1.5=21.5\\ \\text{m}[/math]।  \nকাজ/শক্তি প্রয়োজন [math]W=mg h=12\\times10^3\\times9.81\\times21.5\\approx2.531\\times10^6\\ \\text{J}[/math], এবং কার্যকর পাওয়ার [math]P_{\\rm useful}=0.8\\times10\\,000=8{,}000\\ \\text{W}[/math]।  \nঅতএব সময় [math]t=W/P_{\\rm useful}\\approx2.531\\times10^6/8{,}000\\approx316\\ \\text{s}\\approx5.27\\ \\text{মিনিট}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 408217,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408218,
+      "value": {
+        "options": {
+          "গ": "ভূগর্ভস্থ ট্যাঙ্ক থেকে 10 kg পানি ছাদে উঠাতে কত শক্তি ব্যয় করতে হবে?"
+        },
+        "question": "সোহাগ তাদের বাসার ভূগর্ভস্থ একটি ট্যাংক থেকে পানি ছাদের ওপর উঠানোর জন্য একটি 10 kW ক্ষমতাসম্পন্ন পাম্প ব্যবহার করে। ট্যাঙ্কটির দৈর্ঘ্য 4 m, প্রস্থ 3 m এবং গভীরতা 4 m ট্যাংকটির দুই তৃতীয়াংশ পানি দ্বারা পূর্ণ। ভূপৃষ্ঠ হতে ছাদের উচ্চতা 25m। পাম্পটির দক্ষতা 70% ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,ছাদের উচ্চতা, [math]\\mathrm{h}=25 \\mathrm{~m}[/math]\u003Cbr\u003Eপানির ভর, [math]\\mathrm{m}=10 \\mathrm{~kg}[/math]\u003Cbr\u003Eপ্রদত্ত ক্ষমতা,[math]\\begin{aligned}\\mathrm{p} & =10 \\mathrm{~kW} \\\\& =10 \\times 10^{3} \\mathrm{~W}\\end{aligned}[/math]\u003Cbr\u003Eপানিপূর্ণ অংশ [math]=\\frac{2}{3} \\times 4=2.67 \\mathrm{~m}[/math]\u003Cbr\u003Eতাহলে,প্ৰাপ্ত ক্ষমতা,[math]\\begin{aligned}\\mathrm{P} & =10 \\times 10^{3} \\times 70 \\% \\\\& =7000 \\mathrm{~W}\\end{aligned}[/math]\u003Cbr\u003Eট্যাংকের গভীরতা = 4mএবং পানিশূন্য অংশ[math]=4-2.67=1.33 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E মোট সরণ, [math]h^{\\prime}=h+[/math]\u003Cbr\u003E পানিশূন্য অংশের দৈর্ঘ্য[math]=25+1.33=26.33 \\mathrm{~m} .[/math]\u003Cbr\u003Eআমরা জানি,ব্যয়িত শক্তি = কৃতকাজ[math]=\\mathrm{mgh}^{\\prime}=10 \\times 9.8 \\times 26.33=2580.34 \\mathrm{~J} \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পানি ছাদে তুলতে গ্র্যাভিটেশনাল পটেনশিয়াল শক্তি লাগে, যা [math]E=mgh[/math] দিয়ে নির্ণয় করা হয়। পানি سطحটি মাটি থেকে [math]4-(2/3\\times4)=4/3\\ \\text{m}[/math] নিচে, তাই মোট উত্থান [math]h=25+\\tfrac{4}{3}=\\tfrac{79}{3}\\ \\text{m}\u003C/math] এবং [math]E=10\\times9.8\\times\\frac{79}{3}\\approx2.58\\times10^3\\ \\text{J}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 408218,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408219,
+      "value": {
+        "options": [],
+        "question": "৪০% দক্ষতাসম্পন্ন একটি মোটর একটি ক্রেন নিয়ন্ত্রণ করে যার দক্ষতা 50%। মোটরটি 3.73 KW ক্ষ মতা প্রয়োগ করলে ক্রেনে 746N ওজনের একটি বস্তুর ঊর্ধ্বমুখী গড়বেগ কত হবে?",
+        "solution": "( Answer : [math]2 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :দেওয়া আছে,মটরটির ক্ষমতা = 3.73 kW = 3730 Wমটর কর্তৃক ক্রেনের ওপর প্রযুক্ত ক্ষমতা[math]\\begin{array}{l}=3730 \\mathrm{~W} \\times 80 \\% \\\\=3730 \\mathrm{~W} \\times \\frac{80}{100} \\\\=2984 \\mathrm{~W}\\end{array}[/math]\u003Cbr\u003Eআবার, ক্রেনের কার্যকর শক্তি [math]=2984 \\mathrm{~W} \\times 50 \\%[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{P}=2984 \\mathrm{~W} \\times \\frac{50}{100}=1492 \\mathrm{~W}[/math]\u003Cbr\u003Eদেওয়া আছে, ওজন, F = 746 Nবের করতে হবে, ঊর্ধ্বমুখী গড় বেগ, v = ?আমরা জানি, P = Fv[math]\\therefore \\quad \\mathrm{v}^{}=\\frac{\\mathrm{P}}{\\mathrm{F}}=\\frac{1492 \\mathrm{~W}}{746 \\mathrm{~N}}=2 \\mathrm{~W} / \\mathrm{N}=2 \\mathrm{~ms}^{-1} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: মোট কার্যকারিতা = [math]0.4\\times0.5=0.2[/math], তাই উপযোগী শক্তি = [math]3.73\\ \\text{kW}\\times0.2=0.746\\ \\text{kW}=746\\ \\text{W}[/math]. উত্তোলনে শক্তি-শক্তি সম্পর্ক [math]P=Fv[/math], অতএব গড় বেগ [math]v=\\dfrac{P}{F}=\\dfrac{746}{746}=1\\ \\text{m/s}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 408219,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408220,
+      "value": {
+        "options": {
+          "ঘ": "২য় ক্ষেত্রে একই পরিমাণ পানি উঠাতে হলে পাম্পটির কর্ম দক্ষতার কীরূপ পরিবর্তন করতে হবে- গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও।"
+        },
+        "question": "একটি পাম্পের কর্মদক্ষতা 60%। পাম্পটি 30 m গভীর থেকে 2 মিনিটে 5000 লিটার পানি 20 মি. উঁচুতে রাখা একটি ট্যাংকিতে উঠাতে পারে। অনুরূপ অন্য একটি পাম্প 50 মিটার গভীর একটি কূপে স্থাপন করে ঐ একই ট্যাংকিতে পানি তোলা হল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, 'গ' হতে পাম্পের ক্ষমতা, P = 34027.78 wattপানির ভর, m = 5000 kgসরণ, h = (30 + 50) m = 80 mঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}[/math]\u003Cbr\u003Eসময়, t = 120 sঅতএব ২য় পাম্পের কার্যকর ক্ষমতা, [math]\\mathrm P^{\\prime}=\\mathrm{\\frac{mgh}{t}}[/math]\u003Cbr\u003E [math]\\hspace{2cm}=\\frac{5000 \\mathrm{~kg} \\times 9.8 \\mathrm{~m} \\mathrm{~s}^{-2} \\times 80 \\mathrm{~m}}{120 \\mathrm{~s}}=32666.67 \\mathrm{~W}[/math]\u003Cbr\u003E২য় পাম্পের কর্মদক্ষতা, [math]\\eta^{\\prime}=\\frac{P^{\\prime}}{P} =\\frac{32666.67 \\text { watt }}{34027.78 \\text { watt }} \\times 100 \\% =96 \\%[/math]\u003Cbr\u003Eপূর্বের কর্মদক্ষতা, [math]\\eta^{\\prime}=60 \\%[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E কর্মদক্ষতা পরিবর্তন [math]=\\eta^{\\prime}-\\eta =96 \\%-60 \\%=36 \\%[/math]\u003Cbr\u003Eসুতরাং কর্মদক্ষতা 36% বৃদ্ধি করলে অনুরূপ পাম্প দিয়ে একই সময়ে 20 m গভীরের পরিবর্তে 50 m গভীর হতে একই পরিমাণ পানি ট্যাংকে তোলা যাবে । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সিস্টেমে হাইড্রোলিক শক্তি অনুপাত [math]P_{hyd}\\propto H[/math] (যেখানে [math]H[/math] হলো মোট উত্তোলন উচ্চতা) এবং একই দ্রব্যমাত্রা ও সময়ে প্রবাহ ধ্রুবক থাকলে দক্ষতা উচ্চতার আনুপাতিকভাবে বাড়াতে হবে। এখানে [math]H_1=30+20=50\\ \\text{m},\\ H_2=50+20=70\\ \\text{m}[/math], তাই\n[math]\\eta_2=\\eta_1\\frac{H_2}{H_1}=0.60\\times\\frac{70}{50}=0.84=84\\%[/math] \nঅর্থাৎ দক্ষতা [math]60\\%\\to84\\%[/math] (1.4 গুণ) বাড়াতে হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 408220,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3436,
+          "full_name": "শাহপরান সরকারি কলেজ, সিলেট",
+          "short_name": "SGCS",
+          "slug": "sgcs",
+          "pivot": {
+            "question_bank_id": 408220,
+            "tag_id": 3436,
+            "year": "2020",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408221,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের ট্যাংকটি নির্দিষ্ট সময়ে পানিশূন্য করা যাবে কি না? গাণিতিক ব্যাখ্যা দাও।"
+        },
+        "question": "কামাল সাহেবের একটি ভূগর্ভস্থ পানির ট্যাংক এর দৈর্ঘ্য 12 m এবং ব্যাস 4 m। এটির এক তৃতীয়াংশ পানিপূর্ণ। সে 2 hp এর একটি পাম্প দ্বারা ট্যাংকটি 2 ঘণ্টায় পানিশূন্য করতে চায় ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eট্যাংকে পানির গভীরতা, [math]\\mathrm{h}_{1}=4 \\mathrm{~m}[/math]\u003Cbr\u003Eব্যাসার্ধ, [math]\\mathrm r=\\mathrm{\\frac{4}{2} m=2 m}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ট্যাংকের পানির আয়তন, [math]\\mathrm{V}=\\pi \\mathrm{r}^{2} \\mathrm{~h}_{1}[/math]\u003Cbr\u003E [math]\\hspace{5cm}\\begin{array}{l}=\\pi \\times(2)^{2} \\times 4 \\mathrm{~m}^{3} \\\\=50.2656 \\mathrm{~m}^{3}\\end{array}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পানির ভর, [math]\\mathrm m=\\rho\\times \\mathrm V[/math]\u003Cbr\u003E [math]\\hspace{2.5cm}\\begin{array}{l}=(1000 \\times 50.2656) \\mathrm{kg} \\\\=50265.5 \\mathrm{~kg}\\end{array}[/math]\u003Cbr\u003Eভরকেন্দ্রের সরণ, h = 10m[math]\\therefore[/math]\u003Cbr\u003E কৃতকাজ, [math]\\mathrm{W}=\\mathrm{mgh}[/math]\u003Cbr\u003E [math]\\hspace{2.5cm}\\begin{array}{l}=(50265.5 \\times 9.8 \\times 10) \\mathrm{J} \\\\=4926019 \\mathrm{~J}\\end{array}[/math]\u003Cbr\u003E2. H. P পাম্প 2 ঘণ্টায় কাজ করতে পারে,[math]\\hspace{2.5cm}\\begin{aligned}\\mathrm{W} & =\\mathrm{P} \\times \\mathrm{t} \\\\& =(2 \\times 746) \\times 2 \\times 3600 \\mathrm{~J} \\\\& =10742400 \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003Eসুতরাং, 2 ঘন্টায় পাম্পটি প্রয়োজনীয় কাজের চেয়েও অনেক বেশি কাজ করতে পারে ।অর্থাৎ ট্যাংকটি নির্দিষ্ট সময়ে পানিশূন্য করা যাবে । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রথমে পানির পরিমাণ: [math]V=\\tfrac{1}{3}\\pi r^2 h=\\tfrac{1}{3}\\pi(2)^2(12)=16\\pi\\ \\text{m}^3[/math]. পাম্পের মোট শক্তি (আদর্শ ধরে) = [math]2\\ \\text{hp}=2\\times746=1492\\ \\text{W},\\quad E=1492\\times(2\\ \\text{h}=7200\\ \\text{s})\\approx1.074\\times10^7\\ \\text{J}[/math]. ১ মিটার উঁচুতে সমস্ত পানি তুলতে প্রয়োজনীয় শক্তি = [math]\\rho V g=1000\\times16\\pi\\times9.81\\approx4.93\\times10^5\\ \\text{J/m}[/math], তাই সর্বোচ্চ তাত্ক্ষণিক উঁচু ≈ [math]1.074\\times10^7/4.93\\times10^5\\approx21.8\\ \\text{m}[/math]. অতএব, পাম্প যদি বাস্তবে হ্রাস (হেড) এবং দক্ষতা ছাড়া চললে এবং প্রয়োজনীয় তুলনীয় উঁচু ২১.৮ মি-র কম হয়, তাহলে ট্যাংক ২ ঘণ্টায় ফাঁকা করা সম্ভব; নতুবা (আসল হেড ও পাম্প দক্ষতা জানা না থাকায়) নিশ্চিতভাবে বলা যায় না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 408221,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 349,
+          "full_name": "Comilla Victoria Govt. College",
+          "short_name": "CVGC",
+          "slug": "cvgc",
+          "pivot": {
+            "question_bank_id": 408221,
+            "tag_id": 349,
+            "year": "2020",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408222,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের আলোকে দেখাও যে, ১ম ইঞ্জিন দ্বারা যে ক্ষমতা নষ্ট হয়, ২য় ইঞ্জিন দ্বারা তার চেয়ে বেশি নষ্ট হয়।"
+        },
+        "question": "27.36.HP এবং 3.65 HP ক্ষমতার দুটি ইঞ্জিন দিয়ে যথাক্রমে 100 m এবং 10m উচ্চতায় 1000 kg পানি উঠানো হলো। এতে উভয় ইঞ্জিনেরই 60 s সময় লাগল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' নং হতে পাই;প্রথম ইঞ্জিনের কার্যকর ক্ষমতা,[math]\\hspace{1cm}P_{1} =16333.33 \\mathrm{~W}^{\\prime} =21.89 \\mathrm{HP}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ক্ষমতা নষ্ট হয় [math]=\\frac{27.36-21.89}{27.36} \\times 100 \\% =20 \\%[/math]\u003Cbr\u003Eএখানে,পানির ভর, [math]\\mathrm{m}_{2}=1000 \\mathrm{~kg}[/math]\u003Cbr\u003Eউচ্চতা, [math]\\mathrm{h}_{2}=10 \\mathrm{~m}[/math]\u003Cbr\u003Eসময়, t = 60 sকার্যকর ক্ষমতা, [math]\\mathrm{P}_{2}=?[/math]\u003Cbr\u003E২য় ইঞ্জিনের ক্ষেত্রে কার্যকর ক্ষমতা,[math]\\hspace{2.5cm}\\begin{aligned}\\mathrm{P}_{2} & =\\frac{\\mathrm{m}_{2} \\mathrm{gh}_{2}}{\\mathrm{t}} \\\\& =\\frac{1000 \\mathrm{~kg} \\times 9.8 \\mathrm{~m} \\mathrm{~s}^{-2} \\times 10 \\mathrm{~m}}{60 \\mathrm{~s}} \\\\& =1633.33 \\mathrm{~W} \\\\& =2.19 \\mathrm{HP}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ক্ষমতা নষ্ট হয় [math]=\\frac{3.65-2.19}{3.65} \\times 100 \\%=40 \\%[/math]\u003Cbr\u003Eসুতরাং ১ম ইঞ্জিনের দ্বারা যে ক্ষমতা নষ্ট হয়, ২য় ইঞ্জিনের দ্বারা তার চেয়ে বেশি নষ্ট হয়। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রথমে দরকারি পাওয়ার লিখি [math]P=\\dfrac{mgh}{t}[/math]; তাই প্রথমটায় [math]P_1=\\dfrac{1000×9.8×100}{60}=1.6333×10^4\\ \\text{W}\\ (≈21.9\\ \\text{HP})[/math] এবং দ্বিতীয়টায় [math]P_2=\\dfrac{1000×9.8×10}{60}=1.6333×10^3\\ \\text{W}\\ (≈2.19\\ \\text{HP})[/math]. ইঞ্জিনের দেওয়া শক্তি [math]27.36\\ \\text{HP}=2.041×10^4\\ \\text{W}[/math] ও [math]3.65\\ \\text{HP}=2.723×10^3\\ \\text{W}[/math], অতএব নষ্ট শক্তি হল প্রথমে [math]2.041×10^4-1.6333×10^4≈4.08×10^3\\ \\text{W}[/math] এবং দ্বিতীয়তে [math]2.723×10^3-1.6333×10^3≈1.09×10^3\\ \\text{W}[/math], ফলে প্রথম ইঞ্জিনে বেশি শক্তি নষ্ট হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 408222,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 238,
+          "full_name": "Bhola Govt College, Bhola",
+          "short_name": "BGC",
+          "slug": "bgc",
+          "pivot": {
+            "question_bank_id": 408222,
+            "tag_id": 238,
+            "year": "2020",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408223,
+      "value": {
+        "options": [],
+        "question": "কর্মদক্ষতা কী?",
+        "solution": "কোনো যন্ত্র থেকে প্রাপ্ত মোট কার্যকর শক্তি এবং যন্ত্রে প্রদত্ত মোট শক্তির অনুপাতকে ঐ যন্ত্রের কর্মদক্ষতা বলে।",
+        "explanation": "কর্মদক্ষতা হলো কোনো কাজ নির্ধারিত লক্ষ্য বা ফলাফল অর্জনের জন্য সময়, শ্রম ও সম্পদ সবচেয়ে কমভাবে ব্যবহার করে কার্যদক্ষভাবে কাজ করার ক্ষমতা। কারণ এটি показывает কতটা সীমিত সম্পদ ব্যবহার করে বেশি আউটপুট পাওয়া যায়, তাই কর্মদক্ষতা বাড়ালে একই সময় ও সংস্থান দিয়ে বেশি ফলাফল পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 408223,
+            "year_id": 5
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 408223,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 408223,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 408223,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 408223,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 408223,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 408223,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 408223,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "tag_id": 236,
+            "year": "2022",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "tag_id": 6,
+            "year": "2021",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "tag_id": 7,
+            "year": "2021",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "tag_id": 47,
+            "year": "2021",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 408223,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408211,
+      "value": {
+        "options": {
+          "ঘ": "পাম্পটি [math]1[/math] ঘণ্টায় ট্যাংকটিকে খালি করতে পারবে কি? গাণিতিক বিশ্লেষণের সাহায্যে তোমার মতামত দাও।"
+        },
+        "question": "জামাল রিজার্ভ ট্যাংক থেকে [math]25 \\mathrm{~m}[/math] উচ্চতার ছাদে পানি তোলার জন্য [math]10\\rm{~kW}[/math] ক্ষমতা ও [math]60\\%[/math] দক্ষতার পাম্প ব্যবহার করছে। ট্যাংকের দৈর্ঘ্য, প্রস্থ ও গভীরতা যথাক্রমে [math]4 \\mathrm{~m}, 3 \\mathrm{~m} ~ও~2 \\mathrm{~m}[/math] এবং ট্যাংকটির অর্ধেক পানিপূর্ণ ছিল। [math]\\left[\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}\\right.[/math] এবং পানির ঘনত্ব [math]\\left.1000 \\mathrm{kgm}^{-3}\\right][/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-1-05-cq-letque-solve-50007_1755585209_g9rqpZ0B.png\" alt=\"\"\u003E\u003Cbr/\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপাম্পের প্রদত্ত ক্ষমতা, [math]\\mathrm{P}_{\\mathrm{in}}=10 \\mathrm{~kW}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকর্মদক্ষতা, [math]\\eta=60 \\%=0.6[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eলভ্য কার্যকর ক্ষমতা, [math]\\mathrm{P}_{\\text {out }}=\\text { ? }[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\eta & =\\frac{P_{\\text {out }}}{P_{\\text {in }}}\\\\ \\Rightarrow \\mathrm{P}_{\\text {out }} & =\\eta \\times \\mathrm{P}_{\\text {in }} \\\\ & =0.6 \\times 10 \\mathrm{~kW} \\\\ & =6 \\mathrm{~kW}=6000 \\mathrm{~W} \\end{aligned}[/math]\u003Cbr\u003Eআবার,আবার,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eট্যাংকের আয়তন, [math]V=(4 \\times 3 \\times 2) \\mathrm{m}^{3}=24 \\mathrm{~m}^{3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{~kgm}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eট্যাংকটির অর্ধেক পানিপূর্ণ থাকলে এর ভর, [math]\\mathrm{m}=\\frac{1}{2} \\mathrm{v} \\rho =\\left(\\frac{1}{2} \\times 24 \\times 1000\\right) \\mathrm{kg}=12000 \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{0.7 cm}[/math]\u003Cbr\u003Eঅর্ধেক পানিশূন্য করার ক্ষেত্রে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eগড় সরণ, [math]h^{\\prime}=\\frac{1+2}{2} ~m =1.5~m[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eছাদের উচ্চতা, [math]\\mathrm{h}^{\\prime \\prime}=25 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eনিট সরণ, [math]\\mathrm{h}=\\mathrm{h}^{\\prime}+\\mathrm{h}^{\\prime \\prime} =1.5+25 =26.5 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eছাদে পানি তুলতে প্রয়োজনীয় সময়, t = ?ট্যাংকটি অর্ধেক পানিপূর্ণ থাকা অবস্থায় ট্যাংকটি খালি করে 25 m উচ্চতায় ছাদে তুলতে কৃতকাজ W হলে,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~\\mathrm{P}_{\\text {out }}=\\frac{W}{t} \\\\ \\Rightarrow \\mathrm{P}_{\\text {out }}=\\frac{\\mathrm{mgh}}{\\mathrm{t}} \\\\ \\Rightarrow 6000=\\frac{12000 \\times 9.8 \\times 26.5}{t} \\\\ \\Rightarrow t=\\frac{12000 \\times 9.8 \\times 26.5}{6000} \\\\ \\Rightarrow t=519.4 \\mathrm{~s} \\\\ \\therefore \\mathrm{~t}=8.66 \\mathrm{~min}\u003C1 \\mathrm{hr}\\end{array}[/math]\u003Cbr\u003Eসুতরাং, পাম্পটি 1 ঘণ্টার কম সময়ের মধ্যে ট্যাংকটিকে খালি করতে পারবে।",
+        "explanation": "ব্যাখ্যা: ট্যাংকের পানির আয়তন [math]V=4\\times3\\times2\\times\\frac{1}{2}=12\\ \\mathrm{m^3}[/math], ফলে ভর [math]m=1000\\times12=12000\\ \\mathrm{kg}[/math] এবং উত্থানের কাজ/পটেনশিয়াল শক্তি [math]W=mgh=12000\\times9.8\\times25=2.94\\times10^6\\ \\mathrm{J}[/math]. পাম্পের কার্যকর শক্তি [math]P_{\\rm use}=0.6\\times10\\ \\mathrm{kW}=6000\\ \\mathrm{W}[/math], এক ঘণ্টায় উপলব্ধ কাজ [math]=6000\\times3600=2.16\\times10^7\\ \\mathrm{J}[/math], তাই শক্তি পর্যাপ্ত এবং প্রয়োজনীয় সময় [math]t=W/P_{\\rm use}=2.94\\times10^6/6000\\approx490\\ \\mathrm{s}\\approx8.17\\ \\mathrm{min}[/math]; অতএব হ্যাঁ, পাম্পটি এক ঘণ্টার মধ্যে ট্যাংক খালি করে ফেলবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 408211,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408211,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 408211,
+            "tag_id": 5,
+            "year": "2021",
+            "created_at": "2025-08-19T06:33:29.000000Z",
+            "updated_at": "2025-08-19T06:33:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408210,
+      "value": {
+        "options": {
+          "গ": "প্রথম পাম্পটি কত সময় পর নষ্ট হয়েছিল?"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা [math]12 \\mathrm{~m}[/math] এবং ব্যাস [math]3 \\mathrm{~m}[/math] । কুয়াটিকে [math]22[/math] মিনিটে পানিশূন্য করতে [math]6 \\text { H.P}[/math] এর একটি পাম্প লাগানো হলো। অর্ধেক পানি শূন্য করার পর পাম্পটি নষ্ট হওয়ায় অন্য একটি পাম্পের সাহায্যে পূর্ব নির্ধারিত সময়ে কুয়াটিকে পানি শূন্য করা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-1-05-cq-letque-solve-50005_1755585208_hkJwxW6p.png\" alt=\"\"\u003E\u003Cbr/\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003E১ম পাম্পের ক্ষমতা, [math]P=6 \\text { H.P. }=6 \\times 746 \\mathrm{~W}=4476 \\mathrm{~W}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকুয়ার গভীরতা, [math]l = 12~m[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eব্যাসার্ধ, [math]\\mathrm{r}=\\frac{\\mathrm{d}}{2}=\\frac{3}{2}=1.5 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকুয়াটি অর্ধেক পানিশূন্য করার ক্ষেত্রে গড় সরণ, [math]\\mathrm{h}=\\frac{0+\\frac{l}{2}}{2}=\\frac{l}{4}=\\frac{12}{4} \\mathrm{~m}=3 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅর্ধেক পানির ভর, [math]\\mathrm{m}=\\mathrm{V} \\rho=\\frac{\\pi \\mathrm{r}^{2} l}{2} \\rho[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসময়, [math]t = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}P=\\dfrac{W}{t}[/math]\u003Cbr\u003Eকিন্তু কুয়াটির অর্ধেক পানি শূন্য করার ক্ষেত্রে কৃতকাজ,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{W} & =\\mathrm{mgh}\\\\&=\\frac{\\pi r^{2} l}{2} \\rho \\times g \\times h \\\\ &=\\frac{1}{2} \\times 3.1416 \\times(1.5)^{2} \\times 12 \\times 1000 \\times 9.8 \\times 3 \\\\ &=1246898.124 \\mathrm{~W} \\end{aligned}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\begin{array}{l} \\therefore ~~ \\mathrm{P}=\\frac{\\mathrm{W}}{\\mathrm{t}} \\\\ \\begin{aligned} \\Rightarrow ~ ~t=\\frac{W}{\\mathrm{P}} & =\\frac{1246898.124}{4476} \\\\ & =278.57 \\mathrm{~s} \\\\ & =4.64 \\mathrm{~min} \\end{aligned} \\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ১ম পাম্পটি 4.64 min পর নষ্ট হয়েছিল। (Ans.)",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E একটি পাম্প সম্পূর্ণ কুয়াটি [math]22[/math] মিনিটে খালি করায় অর্ধেক পানি খালি হতে সময় হবে [math]22/2=[11[/math] মিনিট; তাই পাম্পটি [math]11[/math] মিনিট পর নষ্ট হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 408210,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408210,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 408210,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T06:33:28.000000Z",
+            "updated_at": "2025-08-19T06:33:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408207,
+      "value": {
+        "options": {
+          "ঘ": "বিদ্যুৎ চলে যাওয়ার আগে বা পরে কোন ক্ষেত্রে পানি উত্তোলনে সময় বেশি লাগবে? তোমার মতামত গাণিতিকভাবে বিশ্লেষণ করো।"
+        },
+        "question": "একটি ছাত্রাবাসের পানির রিজার্ভ ট্যাংকির দৈর্ঘ্য 1.6 মিটার, প্রস্থ 1.4 মিটার এবং গভীরতা 1.2 মিটার। ট্যাংকটির দুই-তৃতীয়াংশ পানি দ্বারা পূর্ণ রয়েছে। 50 মিটার উঁচুতে পানি তোলার জন্য ছাত্রাবাসে 5.5 kW ক্ষমতা সম্পন্ন একটি তড়িৎ মোটর ব্যবহার করা হয় যার দক্ষতা ৪০%। অর্ধেক পানি তোলার পর বিদ্যুৎ চলে গেলে পাম্পটি বন্ধ হয়ে যায়। বিদ্যুৎ চলে আসায় পাম্পটি পুনরায় চালু করায় ট্যাংকি পানি শূন্য হয় ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই,১ম ক্ষেত্রে ব্যয়িত শক্তি, [math]W_1[/math]\u003Cbr\u003E = 444308.48 Jঅর্ধেক পানির ভর, [math]m_1[/math]\u003Cbr\u003E = 896 kgট্যাংকটির উচ্চতা, c = 1.2mপরের অর্ধেক পানি তোলার ক্ষেত্রে পানির লেভেল থেকে ছাত্রাবাসের উচ্চতা, [math]\\mathrm{h}^{\\prime \\prime}=50.8 \\mathrm{~m}[/math]\u003Cbr\u003Eট্যাংকির নিচ হতে ছাত্রাবাসের উচ্চতা, [math]\\mathrm{h}^{\\prime \\prime \\prime}=\\mathrm{h}+\\mathrm{c}=50+1.2=51.2 \\mathrm{~m}[/math]\u003Cbr\u003Eগড় উচ্চতা, [math]\\mathrm{h}_{2}=\\frac{\\mathrm{h}^{\\prime \\prime}+\\mathrm{h}^{\\prime \\prime \\prime}}{2}=\\frac{50.8+51.2}{2}=51 \\mathrm{~m}[/math]\u003Cbr\u003Eপানি তুলতে ব্যয়িত শক্তি, [math]W_2[/math]\u003Cbr\u003E,[math]\\begin{aligned}\\therefore W_{2} & =m_{1} g h_{2} \\\\& =896 \\times 9.8 \\times 51 \\\\& =447820.8 \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003Eএখানে, ক্ষমতা, P = 5.5KW = 5500 wদক্ষতা, [math]\\eta=80 \\%=0.8[/math]\u003Cbr\u003E১ম ক্ষেত্রে পানি তুলতে প্রয়োজনীয় সময় [math]t_1[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned}t_{4} & =\\frac{W_{1}}{\\eta \\times P} \\\\& =\\frac{447820.8}{0.8 \\times 5500}=100.98 \\mathrm{~s} .\\end{aligned}[/math]\u003Cbr\u003E২য় ক্ষেত্রে পানি তুলতে প্রয়োজনীয় সময় [math]t_2[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned}t_{2} & =\\frac{W_{2}}{\\eta \\times P} \\\\& =\\frac{447820.8}{0.8 \\times 5500}=101.777 \\mathrm{~s}\\end{aligned}[/math]\u003Cbr\u003Eএখানে, [math]t_{2}\u003Et_{1}[/math]\u003Cbr\u003Eসুতরাং, বিদ্যুৎ চলে যাওয়ার পরে পানি উত্তোলনে সময় বেশি লাগবে ।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কোনওদিকে সময় বেশি হবে না—উভয় ক্ষেত্রে সময় সমান। কারণ ব্যবহারযোগ্য ক্ষমতা [math]P_{\\rm useful}=5.5\\times10^3\\times0.4=2.2\\times10^3\\ \\text{W}[/math] এবং একক আয়তনের পানি 50 মিটার উত্তোলনে প্রয়োজনীয় শক্তি স্থির; তাই অর্ধেক আয়তনের জন্য সময় হবে\n[math]t=\\dfrac{\\rho (V/2) g h}{P_{\\rm useful}},[/math]\nযা দুইটো ধাপে সমান হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 408207,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408207,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 408207,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T06:33:27.000000Z",
+            "updated_at": "2025-08-19T06:33:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408209,
+      "value": {
+        "options": {
+          "গ": "১ম পাম্পটি কত সময়ব্যাপী কাজ করে তা নির্ণয় করো।"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা 14 m এবং ব্যাস 2.4 m । একটি পাম্প 22 মিনিটে কুয়াটিকে পানিশূন্য করতে পারে। কিন্তু এক-তৃতীয়াংশ পানি উত্তোলন করার পর পাম্পটি নষ্ট হয়ে যায়। পরে 70% দক্ষতার আর একটি পাম্প যুক্ত করে 30 মিনিটে বাকি পানি উত্তোলন করা হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,কুয়ার ব্যাসার্ধ, [math]\\mathrm{r}=\\frac{2.4}{2}=1.2 \\mathrm{~m}[/math]\u003Cbr\u003Eকুয়ার গভীরতা, l = 14 mঘনত্ব, [math]\\rho=1000 \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003E [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eপানি শূন্য করার ক্ষেত্রে গড় উচ্চতা, [math]\\mathrm{h}=\\frac{0+14}{2}=7 \\mathrm{~m}[/math]\u003Cbr\u003Eপানিশূন্য করার সময়, [math]t=22 \\mathrm{~min}=(22 \\times 60) \\mathrm{s}[/math]\u003Cbr\u003E১ম পাম্পটির ক্ষমতা P হলে[math]P=\\frac{W}{t}=\\frac{m g h}{t}[/math]\u003Cbr\u003E [যেখানে কুয়াটি পানিশূন্য করতে কৃতকাজ, W= mgh][math]\\begin{array}{l} \\Rightarrow P=\\frac{V \\rho g h}{t}=\\frac{\\pi r^{2} l \\rho g h}{t} \\\\ =\\frac{3.1416 \\times(1.2)^{2} \\times 14 \\times 1000 \\times 9.8 \\times 7}{22 \\times 60} \\\\ =3291.48 \\mathrm{~W} \\end{array}[/math]\u003Cbr\u003Eএখানে,এক তৃতীয়াংশ পানির ভর,[math]\\begin{aligned} \\mathrm{m} & =\\frac{\\mathrm{V} \\rho}{3}=\\frac{\\pi \\mathrm{r}^{2} l \\times \\rho}{3} \\\\ & =\\frac{3.1416 \\times(1.2)^{2} \\times 14 \\times 1000}{3} \\\\ & =21111.5 \\mathrm{~kg} \\end{aligned}[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy20120part20120panjeri20guide20202320-0064_1755585207_Wy1ybmdu.png\" alt=\"\"\u003E\u003Cbr/\u003Eএক তৃতীয়াংশ পানিশূন্য করতে গড় উচ্চতা, [math]\\mathrm{h}=\\frac{0+\\frac{14}{3}}{2}=\\frac{7}{3} \\mathrm{~m}[/math]\u003Cbr\u003Eক্ষমতা, P = 3291.48 Wএক তৃতীয়াংশ পানি উত্তোলন করতে পাম্পটির t s সময় লাগলে,[math]\\begin{array}{l} \\mathrm{P}=\\frac{\\mathrm{mgh}}{\\mathrm{t}} \\\\ \\Rightarrow \\mathrm{t}=\\frac{\\mathrm{mgh}}{\\mathrm{P}} \\\\ =\\frac{21111.5 \\times 9.8 \\times \\frac{7}{3}}{3291.48} \\\\ =146.67 \\mathrm{~s} \\\\ =2.44 \\mathrm{~min} \\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ১ম পাম্পটি 2.44 min ব্যাপী কাজ করে। (Ans.)",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথম পাম্প একা কুয়া খালি করতে 22 মিনিটে পারে, তাই এর হার হলো [math]1/22[/math] কুয়া/মিনিট এবং এটি কুয়ার [math]1/3[/math] অংশ উত্তোলন করেছে; সুতরাং সময় [math]\\dfrac{1/3}{1/22}=22/3[/math] মিনিট। এটি সমান [math]7\\frac{1}{3}[/math] মিনিট বা [math]7\\ \\text{মিনিট}\\ 20\\ \\text{সেকেন্ড}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 408209,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408209,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 408209,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T06:33:27.000000Z",
+            "updated_at": "2025-08-19T06:33:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408208,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকে পাম্পচালকের মন্তব্যের যথার্থতা বিশ্লেষণ করো।"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা 12 m এবং ব্যাসার্ধ 1.2 m। একটি পাম্প 20 মিনিটে কুয়াটিকে পানিশূন্য করতে পারে। পাম্পটির ক্ষমতা 52% নষ্ট হলেও পাম্পচালক কুয়াটির সম্পূর্ণ পানি একই পাম্প দ্বারা দ্বিগুণ সময়ে খালি করা সম্ভব বলে মন্তব্য করেন।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,কুয়ার গভীরতা, h = 12 mকুয়ার ব্যাসার্ধ, r = 1.2 mকুয়ার পানির আয়তন,[math]\\begin{aligned} V & =\\pi r^{2} h \\\\ & =\\pi \\times(1.2)^{2} \\times 12=54.29 \\mathrm{~m}^{3} \\end{aligned}[/math]\u003Cbr\u003Eপানির ভর,[math]\\begin{aligned} \\mathrm{m} & =\\rho \\mathrm{V} \\\\ & =54.29 \\times 1000 \\\\ & =54290 \\mathrm{~kg} \\end{aligned}[/math]\u003Cbr\u003Eপানির গড় সরণ, [math]\\mathrm{h}_{1}=\\frac{0+12}{2} \\mathrm{~m}=6 \\mathrm{~m}[/math]\u003Cbr\u003Eকৃতকাজ, [math]\\mathrm{W}_{1}=\\text { ? }[/math]\u003Cbr\u003E১ম পাম্পের কৃতকাজ,[math]\\begin{aligned} \\mathrm{W}_{1} & =\\mathrm{mgh}_{1} \\\\ & =54290 \\times 9.8 \\times 6 \\\\ & =3192252 \\mathrm{~J}(\\text { Ans. }) \\end{aligned}[/math]\u003Cbr\u003E এখানে,সময় t = 20 min = (20 \\times 60)sপাম্পের লভ্য কার্যকর ক্ষমতা [math]P_{\\text {out }}[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned} \\mathbf{P}_{\\text {out }} & =\\frac{W_{\\text {out }}}{t} \\\\ & =\\frac{3192252}{20 \\times 60} \\\\ & =2660.21 \\mathrm{~W} \\end{aligned}[/math]\u003Cbr\u003Eপাম্পটির ক্ষমতা 52% নষ্ট হলে,নতুন লভ্য কার্যকর ক্ষমতা[math]\\begin{aligned} \\mathrm{P}_{\\text {out }}^{\\prime} & =(100-52) \\% \\mathrm{P}_{\\text {out }} \\\\ & =0.48 \\times 2660.21 \\\\ & =1276.90 \\mathrm{~W} \\end{aligned}[/math]\u003Cbr\u003Eএখন, পানিশূন্য করতে প্রয়োজনীয় সময় [math]t^\\prime[/math]\u003Cbr\u003E হলে,[math]\\mathbf{P}_{\\text {out }}^{\\prime}=\\frac{\\mathbf{W}_{\\text {out }}}{\\mathbf{t}^{\\prime}}[/math]\u003Cbr\u003E [math]\\Rightarrow t^{\\prime}=\\frac{W_{\\text {out }}}{P_{\\text {out }}}=\\frac{3192252}{1276.90}=2500 \\mathrm{~s}=41.667 \\mathrm{~min}[/math]\u003Cbr\u003Eদেখা যাচ্ছে, [math]\\frac{t^{\\prime}}{t}=\\frac{41.667}{20}=2.083[/math]\u003Cbr\u003Eঅর্থাৎ, পাম্পটির ক্ষমতা 52% নষ্ট হলে কুয়াটিকে পানিশূন্য করতে প্রায় দ্বিগুণ সময় লাগে বা দ্বিগুণ থেকে সামান্য একটু বেশি সময় লাগে।অতএব, পাম্প চালকের মন্তব্যটি যথার্থ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: পাম্পের পাওয়ার 48% হলে সময় সূচকভাবে বৃদ্ধি পায়, নতুন সময় = পুরানো সময় ÷ 0.48 = [math]20\\div0.48=41.67\\ \\text{মিনিট}[/math]. তাই চালকের মন্তব্য (দ্বিগুণ সময় = 40 মিনিট) সঠিক নয় — প্রকৃতপক্ষে প্রায় [math]41\\frac{2}{3}\\ \\text{মিনিট}[/math] লাগবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 408208,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408208,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 408208,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T06:33:27.000000Z",
+            "updated_at": "2025-08-19T06:33:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408206,
+      "value": {
+        "options": {
+          "গ": "বিদ্যুৎ চলে যাওয়ার পূর্বে পানি উত্তোলনে ব্যয়িত শক্তি নির্ণয় করো ।"
+        },
+        "question": "একটি ছাত্রাবাসের পানির রিজার্ভ ট্যাংকির দৈর্ঘ্য 1.6 মিটার, প্রস্থ 1.4 মিটার এবং গভীরতা 1.2 মিটার। ট্যাংকটির দুই-তৃতীয়াংশ পানি দ্বারা পূর্ণ রয়েছে। 50 মিটার উঁচুতে পানি তোলার জন্য ছাত্রাবাসে 5.5 kW ক্ষমতা সম্পন্ন একটি তড়িৎ মোটর ব্যবহার করা হয় যার দক্ষতা ৪০%। অর্ধেক পানি তোলার পর বিদ্যুৎ চলে গেলে পাম্পটি বন্ধ হয়ে যায়। বিদ্যুৎ চলে আসায় পাম্পটি পুনরায় চালু করায় ট্যাংকি পানি শূন্য হয় ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,ট্যাংকটির দৈর্ঘ্য, a = 1.6 mট্যাংকটির প্রস্থ, b =1.4mট্যাংকটির গভীরতা, c = 1.2mছাত্রাবাসটির উচ্চতা, h = 50mপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003Eট্যাংকটির দুই তৃতীয়াংশ পানি দ্বারা পূর্ণতাই পানির উচ্চতা, [math]\\begin{aligned}\\mathrm{c}^{\\prime} & =\\frac{2 \\mathrm{c}}{3} \\\\& =\\frac{2 \\times 1.2}{3} \\\\& =0.8 \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eপানির আয়তন, [math]\\mathrm{V}=\\mathrm{ab} \\mathrm{c}^{\\prime}=1.6 \\times 1.4 \\times 0: 8=1.792 \\mathrm{~m}^{3}[/math]\u003Cbr\u003Eমোট পানির পরিমাণ, [math]\\mathrm{m}=\\rho \\mathrm{V}=1000 \\times 1.792=1792 \\mathrm{~kg}[/math]\u003Cbr\u003Eঅর্ধেক পানির ভর, [math]m^{\\prime}=\\frac{m}{2}=\\frac{1792}{2}=896 \\mathrm{~kg}[/math]\u003Cbr\u003E১ম ক্ষেত্রে, পানির লেভেল থেকে ছাত্রাবাসটির উচ্চতা,[math]\\begin{aligned}h^{\\prime} & =h+\\frac{c}{3} \\\\& =50+\\frac{1.2}{3} \\\\& =50.4 \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eঅর্ধেক পানিশূন্য করা হলে, পানির লেভেল থেকে ছাত্রাবাসটির উচ্চতা,[math]\\mathrm{h}^{\\prime \\prime}=\\mathrm{h}+\\frac{2 \\mathrm{c}}{3}=50+\\frac{2 \\times 1.2}{3}=50.8 \\mathrm{~m}[/math]\u003Cbr\u003Eগড় উচ্চতা, [math]\\mathrm{h}_{1}=\\frac{\\mathrm{h}^{\\prime}+\\mathrm{h}^{\\prime \\prime}}{2}=\\frac{50.4+50: 8}{2}=50.6 \\mathrm{~m}[/math]\u003Cbr\u003Eব্যয়িত শক্তি,[math]\\begin{aligned}\\mathrm{W}_{1} & =\\mathrm{m}_{1} \\mathrm{gh}_{1} \\\\& =896 \\times 9.8 \\times 50.6 \\\\& =444308.48 j (Ans.)\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমাধান: ট্যাংকের মোট পানি = [math]1.6\\times1.4\\times1.2\\times\\frac{2}{3}=1.792\\ \\text{m}^3[/math], অর্ধেক উত্তোলিত আয়তন = [math]0.896\\ \\text{m}^3[/math] → ভর = [math]0.896\\times1000=896\\ \\text{kg}[/math].  \nতাহলে মেকানিক্যাল কাজ = [math]W=mgh=896\\times9.8\\times50=439040\\ \\text{J}\\approx4.39\\times10^5\\ \\text{J}[/math].  \nমোটর দক্ষতা ৪০% হওয়ায় বিদ্যুৎ ব্যয় = [math]E_{\\rm in}=W/0.4=1.0976\\times10^6\\ \\text{J}\\approx1.10\\times10^6\\ \\text{J}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 408206,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408206,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 408206,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T06:33:27.000000Z",
+            "updated_at": "2025-08-19T06:33:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408205,
+      "value": {
+        "options": [],
+        "question": "কোন যন্ত্রের কর্মদক্ষতা 100% হয় না, কারণ —\n\ni. এটি শক্তির নিত্যতা সূত্র মেনে চলে\n\nii. শক্তি রুপান্তরে এর অপচয় অবশ্যম্ভাবী\n\niii. এর গঠনে কিছু ত্রুটি থেকেই যায়\n\nনিচের কোনটি সঠিক?",
+        "solution": "",
+        "explanation": "ব্যাখ্যা: শক্তির নিত্যতা সূত্র (i) 100% কর্মদক্ষতা নিষেধ করে না—এটি কেবল শক্তি সৃষ্টি বা ধ্বংসকে মেনে চলে; প্রকৃত কারণ হল শক্তি রূপান্তরে অপরিহার্য অপচয় (উষ্ণতা, ঘর্ষণ, এন্ট্রোপি বৃদ্ধি ইত্যাদি) যা (ii) ই নির্দেশ করে। গঠনগত ত্রুটি (iii) হলে কর্মদক্ষতা কমে, কিন্তু সেটা একটি মৌলিক বাধা নয় বরং প্রায়োগিক কারণে; তাই কেবল (ii) সঠিক।",
+        "correct_answer": "C."
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 408205,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:33:27.000000Z",
+            "updated_at": "2025-08-19T06:33:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408204,
+      "value": {
+        "options": {
+          "ক": "[math]3 \\mathrm{~m} / \\mathrm{s}[/math]",
+          "খ": "[math]\\sqrt{18} \\mathrm{~m} / \\mathrm{s}[/math]",
+          "গ": "[math]\\sqrt{24} \\mathrm{~m} / \\mathrm{s}[/math]",
+          "ঘ": "[math]\\sqrt{32} \\mathrm{~m} / \\mathrm{s}[/math]"
+        },
+        "question": "75% দক্ষ একটি ক্রেন 12J শক্তি প্রয়োগ করে 1 kg ভরের কোন বস্তুকে একটি নির্দিষ্ট উচ্চতায় তুলে ছেড়ে দেয়। বস্তুটি ভূমিতে যে বেগে আঘাত করবে তা হলো–",
+        "solution": "ক্রেনটির দক্ষতা 75%, তাই এটি 12J শক্তির 75% ব্যবহার করে বস্তুটি তুলতে পারবে।ব্যবহৃত কার্যকর শক্তি = [math]12 \\mathrm{~J} \\times 75/100 = 9 \\mathrm{~J}[/math]\u003Cbr\u003Eএই শক্তি বস্তুর স্থিতিশক্তি ( [math]mgh[/math]\u003Cbr\u003E) এবং গতিশক্তি ( [math]1/2 mv^2[/math]\u003Cbr\u003E) তে রূপান্তরিত হবে। যেহেতু বস্তুটি সর্বোচ্চ উচ্চতায় তুলে ছেড়ে দেওয়া হচ্ছে, তাই সর্বোচ্চ উচ্চতায় বস্তুর স্থিতিশক্তি হবে [math]mgh[/math]\u003Cbr\u003E এবং মাটিতে আঘাত করার সময় সমস্ত স্থিতিশক্তি গতিশক্তিতে রূপান্তরিত হবে।ধরা যাক, বস্তুটি h উচ্চতায় তোলা হয়েছে। তাহলে,[math]mgh = 9 \\mathrm{~J}[/math]\u003Cbr\u003E [math]1 \\mathrm{~kg} \\times g \\times h = 9 \\mathrm{~J}[/math]\u003Cbr\u003Eমাটিতে আঘাত করার সময়, বস্তুর মোট শক্তি ( [math]9 \\mathrm{~J}[/math]\u003Cbr\u003E) গতিশক্তিতে রূপান্তরিত হবে।[math]1/2 mv^2 = 9 \\mathrm{~J}[/math]\u003Cbr\u003E [math]1/2 \\times 1 \\mathrm{~kg} \\times v^2 = 9 \\mathrm{~J}[/math]\u003Cbr\u003E [math]v^2 = 18 \\mathrm{~m}^2/\\mathrm{s}^2[/math]\u003Cbr\u003E [math]v = \\sqrt{18} \\mathrm{~m} / \\mathrm{s}[/math]\u003Cbr\u003Eএখানে [math]g \\approx 9.8 \\mathrm{~m} / \\mathrm{s}^2[/math]\u003Cbr\u003E ধরা হলেও, উত্তর [math]\\sqrt{18}[/math]\u003Cbr\u003E আসছে। এটি সম্ভবত [math]g[/math]\u003Cbr\u003E এর একটি সরলীকৃত মান ব্যবহার করার কারণে হয়েছে অথবা প্রশ্নে সরাসরি শক্তির রূপান্তর বিবেচনা করা হয়েছে।কার্য-শক্তি উপপাদ্য অনুসারে, কৃতকার্য = শক্তির পরিবর্তন। এখানে, ক্রেন কর্তৃক প্রদত্ত কার্যকর শক্তি বস্তুর গতিশক্তিতে রূপান্তরিত হয়েছে।",
+        "explanation": "",
+        "correct_answer": "B.[math]\\sqrt{18} \\mathrm{~m} / \\mathrm{s}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 408204,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:33:27.000000Z",
+            "updated_at": "2025-08-19T06:33:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408203,
+      "value": {
+        "options": {
+          "ক": "[math]3 \\times 10^{2} \\mathrm{~L}[/math]",
+          "খ": "[math]1.5 \\times 10^{3} \\mathrm{~L}[/math]",
+          "গ": "[math]1.62 \\times 10^{2} \\mathrm{~L}[/math]",
+          "ঘ": "[math]1.62 \\times 10^{3} \\mathrm{~L}[/math]"
+        },
+        "question": "কোনো কূপ থেকে [math]20\\ m[/math] উপরে পানি তোলার জন্য [math]6\\ kW[/math] এর একটি পাম্প ব্যবহার করা হচ্ছে। পাম্পের দক্ষতা [math]88.2\\%[/math] হলে প্রতি মিনিটে কত লিটার পানি তোলা যাবে?",
+        "solution": "[math]p=6000 \\times 0.882[/math]\u003Cbr\u003E [math]=5292 w ; p t[/math]\u003Cbr\u003E [math]=5292 \\times 60J[/math]\u003Cbr\u003E [math]m g h[/math]\u003Cbr\u003E [math]=317520J\\left[p t=w_{p}=m g h\\right] ; m[/math]\u003Cbr\u003E [math]=\\frac{317520}{9.8 \\times 20}[/math]\u003Cbr\u003E [math]=1620[/math]\u003Cbr\u003E [math]=1.62 \\times 10^{3} \\mathrm{~L}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.[math]1.62 \\times 10^{3} \\mathrm{~L}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 408203,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 471,
+          "full_name": "Sylhet Agricultural University",
+          "short_name": "SAU",
+          "slug": "sau",
+          "pivot": {
+            "question_bank_id": 408203,
+            "tag_id": 471,
+            "year": "10-11",
+            "created_at": "2025-08-19T06:33:27.000000Z",
+            "updated_at": "2025-08-19T06:33:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408202,
+      "value": {
+        "options": {
+          "ক": "4.06MW",
+          "খ": "6.6 HP",
+          "গ": "8.21 HP",
+          "ঘ": "10.26 HP",
+          "ঙ": "238MW"
+        },
+        "question": "একটি পাম্প ঘণ্টায় [math]25 \\times 10^6[/math] পানি 50m গভীর কুয়া থেকে তুলতে পারে। পাম্পের ক্ষমতা 70% কার্যকর হলে প্রকৃত ক্ষমতা কত?",
+        "solution": "[math]P \\times \\frac{70}{100}=\\frac{m g h}{t}=\\frac{25 \\times 10^{6} \\times 98 \\times 50}{60 \\times 60} \\Rightarrow P=4.86 \\mathrm{MW}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 408202,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 408202,
+            "tag_id": 88,
+            "year": "14-15",
+            "created_at": "2025-08-19T06:33:27.000000Z",
+            "updated_at": "2025-08-19T06:33:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408201,
+      "value": {
+        "options": {
+          "ক": "লর্ড কেলভিন",
+          "খ": "ওয়াটসন",
+          "গ": "মেক্সওয়েল",
+          "ঘ": "প্লাঙ্ক"
+        },
+        "question": "শক্তির অপচয়ের ধারণা দেন কে?",
+        "solution": "শক্তির অপচয়ের ধারণা মূলত তাপগতিবিদ্যার দ্বিতীয় সূত্র থেকে আসে, যা তাপের প্রবাহ এবং শক্তির রূপান্তরের সীমাবদ্ধতা ব্যাখ্যা করে। লর্ড কেলভিন এই তাপগতিবিদ্যার দ্বিতীয় সূত্র প্রণয়নে এবং শক্তির অপচয় (energy dissipation) ও এনট্রপি (entropy) ধারণাগুলির বিকাশে গুরুত্বপূর্ণ ভূমিকা পালন করেছিলেন। যদিও তিনি সরাসরি \"শক্তির অপচয়\" শব্দটি ব্যবহার করেননি, তার কাজই এই ধারণার ভিত্তি স্থাপন করেছে। ওয়াটসন ডিএনএ-এর গঠন আবিষ্কারের সাথে যুক্ত, মেক্সওয়েল তড়িৎচুম্বকীয় তত্ত্বের জন্য পরিচিত এবং প্লাঙ্ক কোয়ান্টাম তত্ত্বের জনক। তাই, এই ধারণার সাথে লর্ড কেলভিনের নামটিই সবচেয়ে বেশি প্রাসঙ্গিক।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 408201,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 58,
+          "full_name": "University of Rajshahi (A Unit)",
+          "short_name": "RU-A",
+          "slug": "ru-a",
+          "pivot": {
+            "question_bank_id": 408201,
+            "tag_id": 58,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:33:27.000000Z",
+            "updated_at": "2025-08-19T06:33:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408190,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i,ii ও iii"
+        },
+        "question": "কাজের মান সর্বাধিক হবে—\n\n i.\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview20-202022-12-11t051650627_1755585204_WZlUswmK.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nii.\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview20-202022-12-11t051744965_1755585203_4tx2XbZw.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\niii.\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview20-202022-12-11t051843672_1755585202_wDJ6ju0F.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "বল [math]F[/math]\u003Cbr\u003E ও সরণ [math]s[/math]\u003Cbr\u003E হলে, কাজ [math]W= Fs\\cos \\theta[/math]\u003Cbr\u003E। যেখানে [math]\\theta[/math]\u003Cbr\u003E হল [math]F[/math]\u003Cbr\u003E ও [math]s[/math]\u003Cbr\u003E এর মধ্যবর্তী কোণ।[math]F, \\ S[/math]\u003Cbr\u003E ধ্রুব থাকলে কাজের মান সর্বোচ্চ হয় যদি [math]|\\cos \\theta|[/math]\u003Cbr\u003E সর্বোচ্চ হয়।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy201520all20mcq20extra20info-6-d_1755585206_i94Nd6Jw.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, [math]\\theta=0^{\\circ}, \\cos \\theta=1[/math]\u003Cbr\u003E যা [math]\\cos \\theta[/math]\u003Cbr\u003E এর সর্বোচ্চ মান।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy201520all20mcq20extra20info-6-d201_1755585206_E5HQVf49.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, [math]\\theta=180^{\\circ}, \\cos 180^{\\circ}=-1 \\Rightarrow|\\cos \\theta|=|-1|=1[/math]\u003Cbr\u003E যা সর্বোচ্চ।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy201520all20mcq20extra20info-6-d202_1755585205_FCXihENt.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]0\u003C\\theta\u003C180 \\Rightarrow 0\u003C|\\cos \\theta|\u003C1[/math]\u003Cbr\u003E যা [math]\\cos\\theta[/math]\u003Cbr\u003E এর সর্বোচ্চ মান নয়।",
+        "explanation": "",
+        "correct_answer": "B.i ও iii"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 408190,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408190,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 408190,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T06:33:26.000000Z",
+            "updated_at": "2025-08-19T06:33:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408191,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\mathrm{u}-\\mathrm{W}}{\\mathrm{E}_{\\mathrm{in}}} \\times 100 \\%[/math]",
+          "খ": "[math]\\frac{\\mathrm{W}}{\\mathrm{E}_{\\text {in }}} \\times 100 \\%[/math]",
+          "গ": "[math]\\frac{u}{\\mathrm{E}_{\\text {in }}} \\times 100 \\%[/math]",
+          "ঘ": "[math]\\frac{\\mathrm{u}+\\mathrm{W}}{\\mathrm{E}_{\\mathrm{in}}} \\times 100 \\%[/math]"
+        },
+        "question": "কোনো প্রক্রিয়ায় মোট প্রদত্ত শক্তি [math]E_{in}[/math] এর একটি অংশ কার্যকর শক্তি U-তে রূপান্তরিত হয় এবং বাকি শক্তি W অপচয় হয়। প্রক্রিয়াটির দক্ষতা কত?",
+        "solution": "কোনো প্রক্রিয়ার দক্ষতা বলতে বোঝায় মোট প্রদত্ত শক্তির কত অংশ কাজে লাগানো গেছে। এখানে, [math]E_{in}[/math]\u003Cbr\u003E হল মোট প্রদত্ত শক্তি, U হল কার্যকর শক্তি (যা কাজে লাগানো গেছে) এবং W হল অপচয়িত শক্তি।দক্ষতা নির্ণয়ের সূত্র হলো:দক্ষতা [math]= \\frac{\\text{কার্যকরী শক্তি}}{\\text{মোট প্রদত্ত শক্তি}} \\times 100\\%[/math]\u003Cbr\u003Eপ্রশ্নানুসারে, কার্যকর শক্তি হল U এবং মোট প্রদত্ত শক্তি হল [math]E_{in}[/math]\u003Cbr\u003E।সুতরাং, দক্ষতা [math]= \\frac{U}{E_{in}} \\times 100\\%[/math]\u003Cbr\u003Eএই সূত্রটি বিকল্প C-তে দেওয়া আছে।এখানে, [math]E_{in} = U + W[/math]\u003Cbr\u003E হওয়া উচিত, কারণ প্রদত্ত মোট শক্তি হয় কাজে লাগবে অথবা অপচয় হবে। তবে, বিকল্পগুলিতে [math]E_{in}[/math]\u003Cbr\u003E সরাসরি ব্যবহার করা হয়েছে।বিকল্প A ভুল কারণ এটি অপচয়িত শক্তিকে (W) বাদ দিয়ে এবং B ভুল কারণ এটি শুধু অপচয়িত শক্তিকে বিবেচনা করে। বিকল্প D ভুল কারণ এটি কার্যকর ও অপচয়িত শক্তিকে যোগ করে মোট প্রদত্ত শক্তির সমান হওয়ার কথা বলছে, কিন্তু এটি দক্ষতার সূত্র নয়।দক্ষতা পরিমাপ করা হয় শতাংশে, তাই [math]\\times 100 \\%[/math]\u003Cbr\u003E দিয়ে গুণ করা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "C.[math]\\frac{u}{\\mathrm{E}_{\\text {in }}} \\times 100 \\%[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 408191,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408191,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 408191,
+            "tag_id": 1,
+            "year": "2015",
+            "created_at": "2025-08-19T06:33:26.000000Z",
+            "updated_at": "2025-08-19T06:33:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408192,
+      "value": {
+        "options": {
+          "ক": "শক্তি",
+          "খ": "কর্মদক্ষতা",
+          "গ": "কাজ",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "কার্যকর শক্তি/প্রদত্ত মোট শক্তি = ?",
+        "solution": "কোন যন্ত্র থেকে প্রাপ্ত মোট কার্যকর শক্তি এবং যন্ত্রে প্রদত্ত মোট শক্তি অনুপাতকে কর্মদক্ষতা বলে।\n\nকর্মদক্ষতা= মোট কার্যকর শক্তি (output) / মোট প্রদত্ত শক্তি (input)\n\nকর্মদক্ষতাকে সাধারণত শতকরা হিসেবে প্রকাশ করা হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 32,
+          "year": "2003-2004",
+          "pivot": {
+            "question_bank_id": 408192,
+            "year_id": 32
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 408192,
+            "tag_id": 18,
+            "year": "03-04",
+            "created_at": "2025-08-19T06:33:26.000000Z",
+            "updated_at": "2025-08-19T06:33:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408193,
+      "value": {
+        "options": {
+          "ক": "56.92%",
+          "খ": "65.03%",
+          "গ": "83.33%",
+          "ঘ": "77.31%"
+        },
+        "question": "একটি যন্ত্রের গায়ে 1.2kW ক্ষমতা লেখা আছে। যন্ত্রটি 1 ঘণ্টায় [math]3.6 × 10^3[/math] kJ কাজ করতে পারে। কর্মদক্ষতা কত?",
+        "solution": "এখানে, কাজ, [math]W = 3.6 × 10^3 kJ = 3.6 \\times 10^6 J[/math]\u003Cbr\u003Eসময়, [math]t = 1h = 3600 s[/math]\u003Cbr\u003Eপ্রদত্ত ক্ষমতা, [math]P = 1.2 kW = 1.2 \\times 10^3 W[/math]\u003Cbr\u003Eকর্মক্ষমতা, η = ?আমরা জানি,কার্যকর ক্ষমতা,[math]\\begin{aligned}\\mathrm{P}^{\\prime} & =\\frac{\\mathrm{W}}{\\mathrm{t}} \\\\& =\\frac{3.6 \\times 10^{6}}{3600} \\\\& =1000 \\mathrm{~W}\\end{aligned}[/math]\u003Cbr\u003Eআবার,[math]\\begin{aligned}\\eta & =\\frac{P^{\\prime}}{P} \\times 100 \\% \\\\& =\\frac{1000}{1.2 \\times 10^{3}} \\times 100 \\% \\\\& =83.33 \\%\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.83.33%"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 408193,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 408193,
+            "tag_id": 80,
+            "year": "23-24",
+            "created_at": "2025-08-19T06:33:26.000000Z",
+            "updated_at": "2025-08-19T06:33:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408194,
+      "value": {
+        "options": {
+          "ক": "সরণ হবে না",
+          "খ": "বলের বিপরীতে সরণ হবে",
+          "গ": "বলের দিকে সরণ হবে",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "কাজের মান শূন্য হবে, যখন-",
+        "solution": "[math]W=F s \\cos \\theta[/math]\u003Cbr\u003E হলে, [math]\\theta=90^{\\circ}[/math]\u003Cbr\u003E 0 [math]\\mathrm{W}=\\mathrm{Fs} \\cos 90^{\\circ}=0[/math]\u003Cbr\u003E আবার, [math]\\mathbf{s}=0[/math]\u003Cbr\u003E হলে, [math]\\mathbf{W}=0[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.সরণ হবে না"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 408194,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3245,
+          "full_name": "University of Rajshahi (EUnit)",
+          "short_name": "RU-E",
+          "slug": "ru-e",
+          "pivot": {
+            "question_bank_id": 408194,
+            "tag_id": 3245,
+            "year": "23-24",
+            "created_at": "2025-08-19T06:33:26.000000Z",
+            "updated_at": "2025-08-19T06:33:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408195,
+      "value": {
+        "options": {
+          "ক": "20.5",
+          "খ": "50.0",
+          "গ": "62.5",
+          "ঘ": "78.5"
+        },
+        "question": "50 m গভীর একটি কুয়া থেকে ইঞ্জিনের সাহায্যে 9.8 s এ 1000 kg পানি উঠানো হয়। ইঞ্জিনটির দক্ষতা ৪০% হলে এর ক্ষমতা কত kW?",
+        "solution": "[math]\\mathrm{P}[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{mgh}}{\\eta \\mathrm{t}}[/math]\u003Cbr\u003E [math]=\\frac{1000 \\times 9.8 \\times 50}{0.8 \\times 9.8}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{P}[/math]\u003Cbr\u003E [math]=62.5 \\mathrm{~kW}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.62.5"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 408195,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 148,
+          "full_name": "Agriculture Cluster Admission System",
+          "short_name": "ACAS",
+          "slug": "acas",
+          "pivot": {
+            "question_bank_id": 408195,
+            "tag_id": 148,
+            "year": "22-23",
+            "created_at": "2025-08-19T06:33:26.000000Z",
+            "updated_at": "2025-08-19T06:33:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408196,
+      "value": {
+        "options": {
+          "ক": "230 J",
+          "খ": "200 J",
+          "গ": "300 J",
+          "ঘ": "100 J"
+        },
+        "question": "50 N ওজনের একটি বস্তুকে 6 m উচ্চতায় উঠানোর জন্যে একটি লিফ্ট ব্যবহার করা হলো। এটি 70 J শক্তি ব্যয় করে। অপচয়কৃত শক্তির পরিমান কত?",
+        "solution": "মোট শক্তি = Fh = 50 × 6 = 300 J\n\nবস্তুটিকে উঠাতে 70 J শক্তি ব্যয় হয়।\n\nসুতরাং অপচয়কৃত শক্তির পরিমাণ = (300 – 70) J = 230 J",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 408196,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 408196,
+            "tag_id": 57,
+            "year": "21-22",
+            "created_at": "2025-08-19T06:33:26.000000Z",
+            "updated_at": "2025-08-19T06:33:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408197,
+      "value": {
+        "options": {
+          "A": "[math]87%[/math]",
+          "B": "[math]73%[/math]",
+          "C": "[math]83%[/math]",
+          "D": "[math]76%[/math]"
+        },
+        "question": "In a construction site, a lifting machine of the ground is used to lift bricks to the 8th floor which is 25 m high. At a time, the machine can lift a 2000 kg load in 1 min. The power supplied to the engine of the lift is 15 HP. What is the efficiency of the lifting machine?",
+        "solution": "[math]\\mathrm{P}_{\\text {out }}=\\frac{2000 \\times 9.81 \\times 25}{1 \\times 60} \\mathrm{~W}=8175 \\mathrm{~W}=10.96 \\mathrm{HP}[/math]\u003Cbr\u003E [math]\\eta=\\frac{P_{\\text {out }}}{P_{\\text {in }}}=\\frac{10.96}{15} \\times 100 \\%=73.06 \\% \\approx 73 \\%[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.[math]73%[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 408197,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 408197,
+            "tag_id": 55,
+            "year": "21-22",
+            "created_at": "2025-08-19T06:33:26.000000Z",
+            "updated_at": "2025-08-19T06:33:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408198,
+      "value": {
+        "options": {
+          "A": "[math]37.75 H.P[/math]",
+          "B": "[math]47.75 H.P[/math]",
+          "C": "[math]33.75 H.P[/math]",
+          "D": "[math]73.75 Н.Р.[/math]"
+        },
+        "question": "An engine pumps [math]1000 kg[/math] of water per minute from a well of a depth of [math]100 m.[/math] If the [math]42%[/math] effciency of the engine is lost, find the horsepower of the engine.",
+        "solution": "[math]\\begin{aligned}P_{\\text {in }} & =\\frac{P_{\\text {out }}}{\\eta}=\\frac{\\frac{1000 \\times 9.8 \\times 100}{60}}{1-0.42} \\mathrm{~W} \\\\& =2.81609 \\times 10^{4} \\mathrm{~W}=37.75 \\mathrm{HP}\\end{aligned}[/math]",
+        "explanation": "",
+        "correct_answer": "D.[math]73.75 Н.Р.[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 408198,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 408198,
+            "tag_id": 55,
+            "year": "21-22",
+            "created_at": "2025-08-19T06:33:26.000000Z",
+            "updated_at": "2025-08-19T06:33:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408199,
+      "value": {
+        "options": {
+          "A": "45%",
+          "B": "20%",
+          "C": "30%",
+          "D": "15%"
+        },
+        "question": "A total of 100 J of energy is supplied to a machine. The machine is then capable of displacing a 30N object to 1.5m. What is the approximate efficiency of the machine?",
+        "solution": "[math]w_{\\text {out }}=F s=30 \\times 1.5=45 ; \\eta=\\frac{w_{\\text {out }}}{w_{\\text {in }}} \\times 100=\\frac{45}{100} \\times 100=45 \\%[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 408199,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 408199,
+            "tag_id": 55,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:33:26.000000Z",
+            "updated_at": "2025-08-19T06:33:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408200,
+      "value": {
+        "options": {
+          "ক": "5.44 kg",
+          "খ": "54.4 kg",
+          "গ": "0.054 kg",
+          "ঘ": "52 kg"
+        },
+        "question": "2 kW ক্ষমতার একটি পাম্পের দক্ষতা 80%। এটি 30 m উপরে প্রতি সেকেন্ডে কতটুকু পানি তুলতে পারবে?",
+        "solution": "[math]\\mathrm{P}^{\\prime}=\\mathrm{P} \\times \\eta[/math]\u003Cbr\u003E [math]\\Rightarrow \\mathrm{mgh}=2 \\times 10^{3} \\times \\frac{80}{100} \\Rightarrow \\mathrm{m}=\\frac{2 \\times 10^{3} \\times 8}{10 \\times 9.8 \\times 30}=5.44 \\mathrm{~kg}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.5.44 kg"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 408200,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 49,
+          "full_name": "University of Chittagong (Unit A)",
+          "short_name": "CU-A",
+          "slug": "cu-a",
+          "pivot": {
+            "question_bank_id": 408200,
+            "tag_id": 49,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:33:27.000000Z",
+            "updated_at": "2025-08-19T06:33:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408189,
+      "value": {
+        "options": {
+          "ক": "[math]4kW[/math]",
+          "খ": "[math]3 kW[/math]",
+          "গ": "[math]2.25 kW[/math]",
+          "ঘ": "[math]1.25 kW[/math]"
+        },
+        "question": "একটি পাম্পের কার্যকর ক্ষমতা [math]3kW[/math] এবং কর্মদক্ষতা [math]75%[/math] হলে পাম্পটির প্রকৃত ক্ষমতা কত?",
+        "solution": "পাম্পের কর্মদক্ষতা হলো এর কার্যকর ক্ষমতা ও প্রকৃত ক্ষমতার অনুপাত। কার্যকর ক্ষমতা ( [math]P_{out}[/math]\u003Cbr\u003E) হলো [math]3kW[/math]\u003Cbr\u003E এবং কর্মদক্ষতা ( [math]\\eta[/math]\u003Cbr\u003E) হলো [math]75\\%[/math]\u003Cbr\u003E বা [math]0.75[/math]\u003Cbr\u003E । প্রকৃত ক্ষমতা ( [math]P_{in}[/math]\u003Cbr\u003E) বের করতে, আমরা সূত্রটি ব্যবহার করি: [math]\\eta = \\frac{P_{out}}{P_{in}}[/math]\u003Cbr\u003E ।সুতরাং, [math]P_{in} = \\frac{P_{out}}{\\eta} = \\frac{3kW}{0.75} = 4kW[/math]\u003Cbr\u003E ।এখানে, কার্যকর ক্ষমতা বলতে পাম্প দ্বারা আসলে যে কাজ সম্পন্ন হয় তা বোঝায়, আর প্রকৃত ক্ষমতা হলো পাম্পকে চালনা করার জন্য মোট যে ক্ষমতা প্রয়োজন। কর্মদক্ষতা [math]100\\%[/math]\u003Cbr\u003E না হওয়ার কারণে প্রকৃত ক্ষমতা কার্যকর ক্ষমতার চেয়ে বেশি হয়।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20board2c20physics201st20paper2c20chapter-52c20riyel20roy2c20date-18-11-202420cq2c20serial20no-22_1755585201_HsTSCcf8.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]4kW[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 408189,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 408189,
+            "tag_id": 47,
+            "year": "2024",
+            "created_at": "2025-08-19T06:33:22.000000Z",
+            "updated_at": "2025-08-19T06:33:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6321&grade=1&lesson=6546&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6321&grade=1&lesson=6546&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6321&grade=1&lesson=6546&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 36,
+  "total": 36
+}

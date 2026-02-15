@@ -1,0 +1,2066 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 430048,
+      "value": {
+        "options": [],
+        "question": "আলোক বছর আসলে সময় নয়- ব্যাখ্যা করো।",
+        "solution": "আলোক বছর আসলে সময় নয়, এটি দূরত্বের একক। এক বছরে আলোকরশ্মি যে দূরত্ব অতিক্রম করে, তাকে আলোক বছর বলে। 1 আলোক বছর = আলোর বেগ [math]\\times 1[/math]\u003Cbr\u003E বছরে সেকেন্ড সংখ্যা[math]=3 \\times 10^{8} \\mathrm{~ms}^{-1} \\times(365 \\times 24 \\times 60 \\times 60) \\mathrm{s}[/math]\u003Cbr\u003E [math]=9.46 \\times 10^{15} \\mathrm{~m}=9.46 \\times 10^{12} \\mathrm{~km}[/math]\u003Cbr\u003E এটি দূরত্ব পরিমাপের একক এবং বিভিন্ন নক্ষত্রের অবস্থান ও দূরত্ব প্রকাশের জন্য এই একক ব্যবহার করা হয় ৷ এজন্য আলোক বছর আসলে সময় নয়, দূরত্ব নির্দেশ করে।",
+        "explanation": "ব্যাখ্যা: আলোকবর্ষ হল দূরত্বের একক — এটি আলো এক বছরে যে পথ অতিক্রম করে তার দৈর্ঘ্য বোঝায়, তাই এটি সময় নয়। এটি প্রায় [math]9.46\\times10^{12}\\ \\text{কিলোমিটার}[/math] সমান একটি দৈর্ঘ্য, যেখানে \"বছর\" শব্দটি আলো কতক্ষণ চলেছে তা জানাতে ব্যবহৃত হয়েছে কিন্তু মোট পরিমাপটি দৈর্ঘ্যই।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430048,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430048,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430048,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430047,
+      "value": {
+        "options": [],
+        "question": "পানি ও হীরকের প্রতিসরাঙ্ক যথাক্রমে [math]1.33[/math] এবং [math]2.4[/math] হলে হীরকে আলোর দ্রুতি কত? পানিতে আলোর দ্রুতি [math]2.28 \\times 10^{8} \\ ms^{-1}[/math]।",
+        "solution": "[math]1.2635 \\times 10^{8} \\ ms^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,পানির প্রতিসরাঙ্ক, [math]\\mu_{w}=1.33[/math]\u003Cbr\u003Eহীরকের প্রতিসরাঙ্ক, [math]\\mu_{g}=2.4[/math]\u003Cbr\u003Eপানিতে আলোর দ্রুতি, [math]c_{w}=2.28 \\times 10^{8} \\cdot \\mathrm{ms}^{-1}[/math]\u003Cbr\u003Eহীরকে আলোর দ্রুতি, [math]c_{g}=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} { }_{w} \\mu_{\\mathrm{g}}=\\frac{\\mathrm{c}_{\\mathrm{w}}}{\\mathrm{c}_{\\mathrm{g}}} \\\\ \\begin{aligned} \\Rightarrow \\frac{\\mu_{\\mathrm{i}}}{\\mu_{w}} & =\\frac{\\mathrm{c}_{i}}{\\mathrm{c}_{\\mathrm{g}}} \\end{aligned} \\\\ \\begin{aligned} \\Rightarrow \\mathrm{c}_{\\mathrm{g}} & =\\frac{2.28 \\times 10^{8} \\times 1.33}{2.4} \\\\ & =1.2635 \\times 10^{8} \\mathrm{~ms}^{-1} \\end{aligned} \\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E হীরকে আলোর দ্রুতি [math]1.2635 \\times 10^{8} \\mathrm{~ms}^{-1} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতিসরাঙ্ক [math]n[/math] এবং আলোর দ্রুতির মধ্যে সম্পর্ক [math]n = \\dfrac{c}{v}[/math]; তাই প্রথমে পানির ওপর থেকে শূন্যপদার্থে আলোর দ্রুততা পাবো: [math]c = n_{\\text{water}}\\,v_{\\text{water}} = 1.33\\times2.28\\times10^{8} = 3.0324\\times10^{8}\\ \\text{m/s}[/math]. হীরকের জন্য আলোর দ্রুতি হবে [math]v_{\\text{diamond}} = \\dfrac{c}{n_{\\text{diamond}}} = \\dfrac{3.0324\\times10^{8}}{2.4} = 1.2635\\times10^{8}\\ \\text{m/s} \\approx 1.26\\times10^{8}\\ \\text{m/s}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430047,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430046,
+      "value": {
+        "options": {
+          "গ": "পানি ও কাচের প্রতিসরণাঙ্ক যথাক্রমে [math]1.33[/math] এবং [math]1.5[/math]। পানিতে আলোর বেগ [math]2.28 \\times 10^{8} \\ ms^{-1}[/math] হলে কাচে আলোর বেগ কত?"
+        },
+        "question": "পাশের চিত্রটি লক্ষ করো এবং নিচের প্রশ্নগুলোর উত্তর দাও:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22012-7_1755589526_NZ6BADml.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,পানির প্রতিসরাঙ্ক, [math]\\mu_w[/math]\u003Cbr\u003E = 1.33কাচের প্রতিসরাঙ্ক, [math]\\mu_g[/math]\u003Cbr\u003E= 1.5পানিতে আলোর বেগ, [math]C_w = 2.28×10^8 ms^{-1}[/math]\u003Cbr\u003Eকাচে আলোর বেগ, [math]c_g[/math]\u003Cbr\u003E = ?আমরা জানি,[math]\\begin{aligned}{}_g\\mu_{w} & =\\frac{c_{g}}{c_{w}} \\\\\\frac{\\mu_{w}}{\\mu_{g}} & =\\frac{c_{g}}{c_{w}} \\\\\\therefore c_{g} & =\\frac{\\mu_{w}}{\\mu_{g}} \\times c_{w} \\\\& =\\frac{1.33}{1.5} \\times 2.28 \\times 10^{8} \\mathrm{~ms}^{-1} \\\\& =2.02 \\times 10^{8} \\mathrm{~ms}^{-1} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E আলোর প্রতিসরণাঙ্কের সম্পর্ক [math]n=\\dfrac{c}{v}[/math] থেকে কাচে বেগ লেখা যাবে [math]v_{\\text{glass}}=\\dfrac{c}{n_{\\text{glass}}}=\\dfrac{n_{\\text{water}}\\,v_{\\text{water}}}{n_{\\text{glass}}}[/math]. ধরে নিয়ে হিসাব করলে [math]v_{\\text{glass}}=\\dfrac{1.33}{1.5}\\times2.28\\times10^{8}=2.023\\times10^{8}\\ \\text{m/s}[/math], তাই এটা সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430046,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430033,
+      "value": {
+        "options": {
+          "ক": "[math]c=\\sqrt{\\mu_{0} \\varepsilon_{0}}[/math]",
+          "খ": "[math]c=\\dfrac{1}{\\sqrt{\\mu_{0} \\varepsilon_{0}}}[/math]",
+          "গ": "[math]c=\\dfrac{1}{\\mu_{0} \\varepsilon_{0}}[/math]",
+          "ঘ": "[math]\\mathrm{c}=\\mu_{0} \\varepsilon_{0}[/math]"
+        },
+        "question": "শূন্যস্থানে আলোর বেগ নির্ণয়ের সূত্র কোনটি?",
+        "solution": "শূন্যস্থানে আলোর বেগ ( [math]\\mathrm{c}[/math]\u003Cbr\u003E) নির্ণয়ের সূত্র হলো শূন্যস্থানের ভেদ্যতা ( [math]\\mu_0[/math]\u003Cbr\u003E) এবং শূন্যস্থানের প্রবেশ্যতা ( [math]\\varepsilon_0[/math]\u003Cbr\u003E) এর গুণফলের বর্গমূলের বিপরীত রাশি। অর্থাৎ, [math]\\mathrm{c}=\\dfrac{1}{\\sqrt{\\mu_{0} \\varepsilon_{0}}}[/math]\u003Cbr\u003E.",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 430033,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 430033,
+            "tag_id": 474,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430032,
+      "value": {
+        "options": {
+          "ক": "[math]3\\times 10^8\\mathrm{~m}/\\mathrm{s}[/math]",
+          "খ": "[math]2.25\\times 10^8\\mathrm{~m}/\\mathrm{s}[/math]",
+          "গ": "[math]2.25\\mathrm{~m}/\\mathrm{s}[/math]",
+          "ঘ": "[math]4.4\\times 10^{-7}\\mathrm{~m}/\\mathrm{s}[/math]"
+        },
+        "question": "পানির প্রতিসরাঙ্ক [math]\\text {(Refractive index) } 1.33[/math] হলে পানিতে আলোর বেগ কত?",
+        "solution": "[math]V_{\\rm{w}}=\\dfrac{\\rm{c}}{\\mu_\\rm{w}}=\\dfrac{3 \\times 10^8}{1.33}\\ m/s=2.25 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 430032,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 430032,
+            "tag_id": 84,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430034,
+      "value": {
+        "options": {
+          "ক": "[math]c=\\sqrt{\\dfrac{1}{\\mu_{0} \\varepsilon_{0}}}[/math]",
+          "খ": "[math]c=\\sqrt{\\mu_{0} \\varepsilon_{0}}[/math]",
+          "গ": "[math]c=\\mu_{0} \\varepsilon_{0}[/math]",
+          "ঘ": "[math]c=\\dfrac{\\mu_{0}}{\\varepsilon_{0}}[/math]"
+        },
+        "question": "শূন্যস্থানে তাড়িতচৌম্বক তরঙ্গের বেগের সমীকরণ কোনটি?",
+        "solution": "তাড়িতচৌম্বক তরঙ্গের বেগ শূন্যস্থানে [math]\\mu_0[/math]\u003Cbr\u003E (শূন্যস্থানের ভেদনযোগ্যতা) এবং [math]\\varepsilon_0[/math]\u003Cbr\u003E (শূন্যস্থানের প্রবেশ্যতা) এর বর্গের ব্যস্তানুপাতিক। সঠিক সম্পর্কটি হলো [math]c=\\sqrt{\\dfrac{1}{\\mu_{0} \\varepsilon_{0}}}[/math]\u003Cbr\u003E.",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 430034,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430034,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 430034,
+            "tag_id": 4,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430035,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{1.54}{3 \\times 10^{8}}[/math]",
+          "খ": "[math]\\frac{3 \\times 10^{8} \\times 1.54}{1.33}[/math]",
+          "গ": "[math]\\frac{3 \\times 10^{8}}{1.5}[/math]",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "শূন্য স্থানে আলোর বেগ [math]3 \\times 10^{8}ms^{-1}[/math] হলে [math]1.5[/math] প্রতিসরাঙ্কের একটি তরলের আলোর বেগ কত?",
+        "solution": "আলোর বেগ (v) = শূন্য মাধ্যমে আলোর বেগ (c) / প্রতিসরাঙ্ক (n)। এখানে, [math]c = 3 \\times 10^8[/math]\u003Cbr\u003E [math]ms^{-1}[/math]\u003Cbr\u003E এবং [math]n = 1.5[/math]\u003Cbr\u003E। সুতরাং, তরলে আলোর বেগ হবে [math]v = \\frac{3 \\times 10^8}{1.5}[/math]\u003Cbr\u003E [math]ms^{-1}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430035,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430036,
+      "value": {
+        "options": {
+          "ক": "[math]3 \\times 10^{8} \\mathrm{~km}[/math]",
+          "খ": "[math]23.5 \\times 10^{12} \\mathrm{~km}[/math]",
+          "গ": "[math]23 \\times 10^{12} \\mathrm{~km}[/math]",
+          "ঘ": "[math]23.5 \\times 10^{8} \\mathrm{~km}[/math]"
+        },
+        "question": "খালি চোখে দৃশ্যমান একটি তারকা হতে আলো পৃথিবীতে পৌছাতে পৌঁছাতে [math]2.5[/math] বৎসর লাগলে তারকাটি কত দূরে অবস্থিত?",
+        "solution": "আলোর গতিবেগ প্রতি সেকেন্ডে প্রায় [math]3 \\times 10^8[/math]\u003Cbr\u003E মিটার, যা প্রতি বছর প্রায় [math]9.46 \\times 10^{12}[/math]\u003Cbr\u003E কিলোমিটার। যেহেতু তারাটি থেকে আলো পৃথিবীতে পৌঁছাতে [math]2.5[/math]\u003Cbr\u003E বছর সময় লাগে, তাই দূরত্ব হবে [math]2.5 \\times 9.46 \\times 10^{12}[/math]\u003Cbr\u003E কিমি।[math]2.5 \\times 9.46 \\times 10^{12} = 23.65 \\times 10^{12}[/math]\u003Cbr\u003E কিমি।এই মানটি বিকল্প (B) [math]23.5 \\times 10^{12} \\mathrm{~km}[/math]\u003Cbr\u003E-এর সবচেয়ে কাছাকাছি।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430036,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430037,
+      "value": {
+        "options": {
+          "ক": "[math]2.25 \\times 10^{-8} \\mathrm{~ms}^{-1}[/math]",
+          "খ": "[math]2.25 \\times 10^{-10} \\mathrm{cms}^{-1}[/math]",
+          "গ": "[math]2.25 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+          "ঘ": "[math]2.25 \\times 10^{-9} \\mathrm{cms}^{-1}[/math]"
+        },
+        "question": "পানির প্রতিসরাঙ্ক [math]4/3[/math] হলে পানিতে আলোর বেগের মান কত?",
+        "solution": "আলোর বেগ শূন্য মাধ্যমে হয় [math]c \\approx 3 \\times 10^8 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E। পানির প্রতিসরাঙ্ক ( [math]n[/math]\u003Cbr\u003E) হলো শূন্য মাধ্যমে আলোর বেগ এবং পানিতে আলোর বেগের অনুপাত।এখানে, [math]n = 4/3[/math]\u003Cbr\u003E এবং [math]c = 3 \\times 10^8 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E।পানিতে আলোর বেগ ( [math]v[/math]\u003Cbr\u003E) নির্ণয়ের সূত্রটি হলো:[math]v = c / n[/math]\u003Cbr\u003Eমান বসিয়ে পাই:[math]v = (3 \\times 10^8 \\mathrm{~ms}^{-1}) / (4/3)[/math]\u003Cbr\u003E [math]v = (3 \\times 10^8 \\mathrm{~ms}^{-1}) \\times (3/4)[/math]\u003Cbr\u003E [math]v = (9/4) \\times 10^8 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E [math]v = 2.25 \\times 10^8 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430037,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430038,
+      "value": {
+        "options": {
+          "ক": "[math]3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}[/math]",
+          "খ": "[math]2.25 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}[/math]",
+          "গ": "[math]2.25 \\ m/s[/math]",
+          "ঘ": "[math]4.4 \\times 10^{-7} \\mathrm{~m} / \\mathrm{s}[/math]"
+        },
+        "question": "পানির প্রতিসরাঙ্ক [math]1.33[/math] হলে পানিতে আলোর বেগ কত?",
+        "solution": "আলোর বেগ এবং প্রতিসরাঙ্কের মধ্যে সম্পর্ক হলো [math]v = c/n[/math]\u003Cbr\u003E, যেখানে [math]v[/math]\u003Cbr\u003E হলো কোনো মাধ্যমে আলোর বেগ, [math]c[/math]\u003Cbr\u003E হলো শূন্য মাধ্যমে আলোর বেগ ( [math]3 \\times 10^8[/math]\u003Cbr\u003E m/s) এবং [math]n[/math]\u003Cbr\u003E হলো মাধ্যমটির প্রতিসরাঙ্ক। এখানে পানির প্রতিসরাঙ্ক [math]n = 1.33[/math]\u003Cbr\u003E এবং শূন্য মাধ্যমে আলোর বেগ [math]c = 3 \\times 10^8[/math]\u003Cbr\u003E m/s।অতএব, পানিতে আলোর বেগ [math]v = (3 \\times 10^8) / 1.33 \\approx 2.25 \\times 10^8[/math]\u003Cbr\u003E m/s।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430038,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430039,
+      "value": {
+        "options": {
+          "ক": "[math]2 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+          "খ": "[math]0.5 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+          "গ": "[math]4.5 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+          "ঘ": "[math]3 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]"
+        },
+        "question": "শূন্য স্থানে আলোর বেগ [math]3 \\times 10^{8} \\ ms^{-1}[/math] হলে [math]1.50[/math] প্রতিসরাঙ্কের একটি তরলে আলোর বেগ কত?",
+        "solution": "আলোর বেগ = শূন্য স্থানে আলোর বেগ / প্রতিসরাঙ্কআলোর বেগ = [math](3 \\times 10^{8} \\ ms^{-1}) / 1.50[/math]\u003Cbr\u003Eআলোর বেগ = [math]2 \\times 10^{8} \\ ms^{-1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430039,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430040,
+      "value": {
+        "options": {
+          "ক": "[math]1.52 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+          "খ": "[math]2.02 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+          "গ": "[math]2.61 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+          "ঘ": "[math]1.99 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]"
+        },
+        "question": "পানি ও কাচের প্রতিসরণাংক যথাক্রমে [math]1.33[/math] ও [math]1.52[/math] হলে, কাচে আলোর বেগ কত? (পানিতে আলোর বেগ [math]2.28 \\times 10^{8} \\mathrm{~ms}^{-1}[/math])",
+        "solution": "[math]\\dfrac{c_{g}}{c_{w}}=\\dfrac{\\mu_{w}}{\\mu_{w}}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{c}_{\\mathrm{g}}=\\dfrac{\\mu_{\\mathrm{w}}}{\\mu \\mathrm{g}} \\times \\mathrm{c}_{\\mathrm{w}}=\\dfrac{1.33}{1.52} \\times 2.28 \\times 10^{8}=1.99 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430040,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 345,
+          "full_name": "Feni Girls' Cadet College",
+          "short_name": "FGCC",
+          "slug": "fgcc",
+          "pivot": {
+            "question_bank_id": 430040,
+            "tag_id": 345,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430041,
+      "value": {
+        "options": [],
+        "question": "শূন্যস্থানে আলোর দ্রুতি [math]3 \\times 10^{8} \\ ms^{-1}[/math]। হীরকের প্রতিসরাঙ্ক [math]2.4[/math] হলে হীরকে আলোর দ্রুতি নির্ণয় কর।",
+        "solution": "[math]1.25 \\times 10^{8} \\ ms^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,শূন্যস্থানে আলোর দ্রুতি, [math]c_{o}=3 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eহীরকের প্রতিসরাঙ্ক, [math]\\mu_{\\mathrm{g}}=2.4[/math]\u003Cbr\u003Eহীরকের আলোর দ্রুতি, [math]c_{\\mathrm{g}}=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি, [math]\\mu_{\\mathrm{g}}=\\frac{c_{o}}{c_{g}}[/math]\u003Cbr\u003E [math]\\begin{aligned} \\Rightarrow \\mathrm{c}_{\\mathrm{g}} & =\\frac{\\mathrm{c}_{\\mathrm{o}}}{\\mu_{\\mathrm{g}}} \\\\ & =\\frac{3 \\times 10^{8} \\mathrm{~ms}^{-1}}{2.4} \\\\ & =1.25 \\times 10^{8} \\mathrm{~ms}^{-1} \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "হীরকের প্রতিসরাঙ্কের সংজ্ঞা অনুযায়ী [math]n=\\frac{c}{v}[/math], তাই [math]v=\\frac{c}{n}[/math]. সংখ্যায় বসালে [math]v=\\frac{3\\times10^{8}}{2.4}=1.25\\times10^{8}\\ \\text{m s}^{-1}[/math], অর্থাৎ হীরকে আলোর দ্রুতি [math]1.25\\times10^{8}\\ \\text{m s}^{-1}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430041,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430042,
+      "value": {
+        "options": [],
+        "question": "পানি ও হীরকের প্রতিসরাঙ্ক যথাক্রমে [math]1.33[/math] এবং [math]2.4[/math] হলে হীরকে আলোর দ্রুতি কত? পানিতে আলোর দ্রুতি [math]2.28 \\times 10^{8} \\ ms^{-1}[/math]।",
+        "solution": "[math]1.2635 \\times 10^{8} \\ ms^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,পানির প্রতিসরাঙ্ক, [math]\\mu_{w}=1.33[/math]\u003Cbr\u003Eহীরকের প্রতিসরাঙ্ক, [math]\\mu_{g}=2.4[/math]\u003Cbr\u003Eপানিতে আলোর দ্রুতি, [math]c_{w}=2.28 \\times 10^{8} \\cdot \\mathrm{ms}^{-1}[/math]\u003Cbr\u003Eহীরকে আলোর দ্রুতি, [math]c_{g}=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} { }_{w} \\mu_{\\mathrm{g}}=\\frac{\\mathrm{c}_{\\mathrm{w}}}{\\mathrm{c}_{\\mathrm{g}}} \\\\ \\begin{aligned} \\Rightarrow \\frac{\\mu_{\\mathrm{i}}}{\\mu_{w}} & =\\frac{\\mathrm{c}_{i}}{\\mathrm{c}_{\\mathrm{g}}} \\end{aligned} \\\\ \\begin{aligned} \\Rightarrow \\mathrm{c}_{\\mathrm{g}} & =\\frac{2.28 \\times 10^{8} \\times 1.33}{2.4} \\\\ & =1.2635 \\times 10^{8} \\mathrm{~ms}^{-1} \\end{aligned} \\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E হীরকে আলোর দ্রুতি [math]1.2635 \\times 10^{8} \\mathrm{~ms}^{-1} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: রিফ্র্যাকটিভ ইনডেক্সের সম্পর্ক [math]n=\\dfrac{c}{v}[/math], তাই শূন্যে আলোর বেগ [math]c=n_{\\text{water}}\\times v_{\\text{water}}=1.33\\times2.28\\times10^{8}=3.0324\\times10^{8}\\ \\text{m/s}[/math]. হীরকের ক্ষেত্রে [math]v_{\\text{diamond}}=\\dfrac{c}{n_{\\text{diamond}}}=\\dfrac{3.0324\\times10^{8}}{2.4}=1.2635\\times10^{8}\\ \\text{m/s}\\approx1.26\\times10^{8}\\ \\text{m/s}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430042,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430043,
+      "value": {
+        "options": [],
+        "question": "বায়ু সাপেক্ষে কাচের প্রতিসরাঙ্ক [math]1.5[/math]। বায়ুতে এক আলোক বছর [math]9.4 \\times 10^{12} \\math rm{~km}[/math] হলে, কাচে এক আলোক বছর কত?",
+        "solution": "[math]6.266 \\times 10^{12}km[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,বায়ুর সাপেক্ষে কাচের প্রতিসরাঙ্ক, [math]{}_a \\mu_{g}=1.5[/math]\u003Cbr\u003Eবায়ুতে এক আলোক বছর [math]=9.4 \\times 10^{12}km[/math]\u003Cbr\u003Eকাচে এক আলোক বছর [math]=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি, [math]{}_a \\mu_{g}=[/math]\u003Cbr\u003Eবায়ুতে এক আলোক বছর / কাচে এক আলোক বছর[math]\\Rightarrow[/math]\u003Cbr\u003E কাচে এক আলোক বছর [math]=[/math]\u003Cbr\u003E বায়ুতে এক আলোক বছর / [math]{}_a \\mu_{g}[/math]\u003Cbr\u003E [math]\\begin{array}{l} =\\frac{9.4 \\times 10^{12} \\mathrm{~km}}{1.5} \\\\ =6.266 \\times 10^{12} \\mathrm{~km} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতিসরাঙ্ক [math]n[/math] হল বায়ুর উপর গ্লাসে আলোর বেগের অনুপাত, তাই একই সময়ে আলোর কণাটি গ্লাসে দূরত্ব হবে বায়ুর দূরত্বকে [math]n[/math] দিয়ে ভাগ করলে। তাই গ্লাসে এক আলোকবর্ষ = [math]\\dfrac{9.4\\times10^{12}\\ \\mathrm{km}}{1.5}=6.266\\ldots\\times10^{12}\\ \\mathrm{km}\\approx6.27\\times10^{12}\\ \\mathrm{km}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430043,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430044,
+      "value": {
+        "options": [],
+        "question": "[math]589 \\ nm[/math] তরঙ্গদৈর্ঘ্য একবর্ণী রশ্মি বায়ু থেকে পানি পৃষ্ঠে আপতিত হলো। পানির ওই তরঙ্গের (i ) তরঙ্গ দৈর্ঘ্য (ii) কম্পাঙ্ক এবং (iii) গতিবেগ নির্ণয় কর। পানির প্রতিসরাঙ্ক [math]\\mu = \\frac{4}{3}[/math]।",
+        "solution": "[math](i) 442 \\ nm, (ii)5.09 \\times 10^{14}Hz, \\ (iii) 2.25 \\times 10^{8} \\ ms^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003E [math](ii)[/math]\u003Cbr\u003E এখানে,বায়ুতে আলোক তরঙ্গের বেগ, [math]v_{a}=3 \\times 10^{8} \\ ms^{-1}[/math]\u003Cbr\u003Eবায়ুতে তরঙ্গদৈর্ঘ্য,[math]\\begin{aligned} \\lambda_{\\mathrm{a}} & =589 \\mathrm{~nm} \\\\ & =589 \\times 10^{-9} \\mathrm{~m} \\end{aligned}[/math]\u003Cbr\u003Eকম্পাঙ্ক, [math]f=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,যেকোনো মাধ্যমেই আলোক তরঙ্গের কম্পাঙ্ক অপরিবর্তিত থাকে।[math]\\therefore[/math]\u003Cbr\u003E এখানে, কম্পাঙ্ক [math]=[/math]\u003Cbr\u003E পানিতে কম্পাঙ্ক।[math]\\begin{aligned} f & =\\frac{v_{a}}{\\lambda_{a}} \\\\ & =\\frac{3 \\times 10^{8}}{589 \\times 10^{-4}} \\\\ & =5.09 \\times 10^{14} \\mathrm{~Hz} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: কম্পাঙ্ক কোনও মাধ্যম পরিবর্তনে অপরিবর্তিত থাকে, তাই [math]v=\\lambda f[/math] এবং [math]\\mu=\\dfrac{c}{v}[/math] সম্পর্ক ব্যবহার করে পানির জন্য তরঙ্গদৈর্ঘ্য ও গতিবেগ নির্ণয় করা যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তরঙ্গদৈর্ঘ্য: [math]\\lambda'=\\dfrac{\\lambda}{\\mu}=\\dfrac{589\\ \\text{nm}}{4/3}=589\\times\\dfrac{3}{4}=441.75\\ \\text{nm}\\approx4.42\\times10^{-7}\\ \\text{m}[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কম্পাঙ্ক: [math]f=\\dfrac{c}{\\lambda}=\\dfrac{3.00\\times10^8\\ \\text{m/s}}{589\\times10^{-9}\\ \\text{m}}=5.09\\times10^{14}\\ \\text{Hz}[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গতিবেগ: [math]v=\\dfrac{c}{\\mu}=\\dfrac{3.00\\times10^8}{4/3}=2.25\\times10^8\\ \\text{m/s}[/math] (যা [math]v=f\\lambda'[/math] থেকে একই ফল দেয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430044,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430045,
+      "value": {
+        "options": [],
+        "question": "শূন্য মাধ্যমী কোনো আলোক রশ্মির তরঙ্গদৈর্ঘ্য [math]5.5 \\times 10^{-7} \\ m[/math] হলে [math]1.33[/math] প্রতিসরা ঙ্কবিশিষ্ট পানিতে ওই রশ্মির তরঙ্গদৈর্ঘ্য ও বেগ কত?",
+        "solution": "[math]\\lambda_{\\mathrm{w}}=4.14 \\times 10^{-7} \\mathrm{~m}, \\mathrm{v}_{\\mathrm{w}}=2.26 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+        "explanation": "ব্যাখ্যা: শূন্য মাধ্যমে আলোর কম্পাঙ্ক অপরিবর্তিত থাকে, তাই মাধ্যমের তরঙ্গদৈর্ঘ্য [math]\\lambda=\\lambda_0/n[/math] এবং বেগ [math]v=c/n[/math]. ফলে [math]\\lambda=\\dfrac{5.5\\times10^{-7}}{1.33}=4.14\\times10^{-7}\\ \\mathrm{m}[/math] এবং [math]v=\\dfrac{3.00\\times10^8}{1.33}=2.26\\times10^8\\ \\mathrm{m/s}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430045,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430031,
+      "value": {
+        "options": {
+          "ক": "[math]2.5\\times 10^{13}\\mathrm{~km}[/math]",
+          "খ": "[math]4.5\\times 10^{13}\\mathrm{~km}[/math]",
+          "গ": "[math]9.5\\times 10^{13}\\mathrm{~km}[/math]",
+          "ঘ": "[math]7.5\\times 10^{13}\\mathrm{~km}[/math]"
+        },
+        "question": "আলো শূন্য মাধ্যমে [math]\\text{(Vacuum)}[/math] [math]10[/math] বছরে কত দূরত্ব অতিক্রম করে?",
+        "solution": "[math]\\mathrm{S}=\\mathrm{vt}=3 \\times 10^{8} \\times 10 \\times 365 \\times 24 \\times 3600=9.4608 \\times 10^{16} \\mathrm{~m}=9.46 \\times 10^{13} \\mathrm{~km}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 430031,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 430031,
+            "tag_id": 84,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430030,
+      "value": {
+        "options": {
+          "ক": "[math]0.88 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+          "খ": "[math]2.08 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+          "গ": "[math]2.88 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+          "ঘ": "[math]3.25 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]"
+        },
+        "question": "কোন মাধ্যমের আপেক্ষিক প্রবেশ্যতা [math]1.08[/math] এবং ডাই-ইলেকট্রিক ধ্রুবক [math]1.005[/math] হলে ঐ মাধ্যমে আলোর বেগ কত?",
+        "solution": "[math]c=\\dfrac{1}{\\sqrt{\\mu \\epsilon}}[/math]\u003Cbr\u003E [math]=\\dfrac{1}{\\sqrt{\\mu_{r} \\epsilon_{r} \\mu_{0} \\epsilon_{0}}}[/math]\u003Cbr\u003E [math]=\\dfrac{1}{\\sqrt{1.08 \\times 1.005 \\mu_{0} \\epsilon_{0}}}[/math]\u003Cbr\u003E [math]=2.88 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 430030,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 430030,
+            "tag_id": 16,
+            "year": "16-17",
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430029,
+      "value": {
+        "options": {
+          "ক": "1977",
+          "খ": "1887",
+          "গ": "1992",
+          "ঘ": "2013"
+        },
+        "question": "মহাবিশ্বে ইথারের কোনো অস্তিত্ব নেই তা কত সালে প্রমাণিত হয়?",
+        "solution": "মাইকেলসন-মোরলে পরীক্ষাটি ১৮৮৭ সালে ইথারের অস্তিত্ব প্রমাণে ব্যর্থ হয়েছিল, যা ইথারের ধারণাকে বাতিল করে দেয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430029,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 430029,
+            "tag_id": 11,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430016,
+      "value": {
+        "options": {
+          "ক": "i ও iii",
+          "খ": "i ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আলোর বেগ দি-\n\n[math]\\text { i. } \\quad C=\\frac{E_{0}}{B_{0}}[/math] [math]\\text { ii. } C=\\frac{1}{\\sqrt{\\mu_{0} \\epsilon_{0}}}[/math] [math]\\text { iii. } C=\\frac{E}{P}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "• আপেক্ষিকতার তত্ত্ব: আলোর বেগ আইনস্টাইনের আপেক্ষিকতার তত্ত্বের মূল ভিত্তি। এই তত্ত্ব অনুযায়ী, আলোর বেগ সব পর্যবেক্ষকের কাছে একই থাকে, তা যতই দ্রুত গতি করুক না কেন।• ব্রহ্মাণ্ডের দূরত্ব মাপা: আলোকবর্ষ নামক একক ব্যবহার করে আমরা ব্রহ্মাণ্ডের দূরত্ব মাপি। এক আলোকবর্ষ হল এক বছরে আলো যে দূরত্ব অতিক্রম করে।• বিভিন্ন প্রযুক্তি: স্যাটেলাইট ন্যাভিগেশন, ফাইবার অপটিক্স এবং অন্যান্য অনেক প্রযুক্তিতে আলোর বেগের ধারণা ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430016,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430016,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430016,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430028,
+      "value": {
+        "options": {
+          "ক": "লাল",
+          "খ": "নীল",
+          "গ": "হলুদ",
+          "ঘ": "বেগুনী"
+        },
+        "question": "কাঁচের মধ্য দিয়ে বিভিন্ন বর্ণের আলো পরিভ্রমণ করলে কোন বর্ণের আলোর বেগ বেশি হবে?",
+        "solution": "আলোর বর্ণালীতে লাল আলোর তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি এবং বেগুনী আলোর তরঙ্গদৈর্ঘ্য সবচেয়ে কম। কাঁচের প্রতিসরাঙ্ক আলোর তরঙ্গদৈর্ঘ্যের উপর নির্ভরশীল, অর্থাৎ লাল আলোর জন্য কাঁচের প্রতিসরাঙ্ক কম এবং বেগুনী আলোর জন্য বেশি। যখন আলো একটি মাধ্যম থেকে অন্য মাধ্যমে প্রবেশ করে, তখন এর বেগের পরিবর্তন হয়। আলোর বেগ মাধ্যমের প্রতিসরাঙ্কের ব্যস্তানুপাতিক। তাই, যে বর্ণের আলোর জন্য মাধ্যমের প্রতিসরাঙ্ক কম, সেই বর্ণের আলোর বেগ বেশি হবে। কাঁচের ক্ষেত্রে লাল আলোর জন্য প্রতিসরাঙ্ক সর্বনিম্ন হওয়ায় এর বেগ সর্বোচ্চ হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430028,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 430028,
+            "tag_id": 11,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:45:25.000000Z",
+            "updated_at": "2025-08-19T07:45:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430027,
+      "value": {
+        "options": {
+          "A": "[math]\\left[LT^{-1}\\right][/math]",
+          "B": "[math]\\left[L^{-1}T\\right][/math]",
+          "C": "[math]\\left[LT^{-2}\\right][/math]",
+          "D": "[math]\\left[LT^{-1}\\right][/math]"
+        },
+        "question": "[math]\\sqrt{\\mu_{0} \\epsilon_{0}}[/math] এর মাত্রা কত?",
+        "solution": "[math]C=\\dfrac{1}{\\sqrt{\\mu_{0} \\epsilon_{o}}}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430027,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 430027,
+            "tag_id": 11,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430026,
+      "value": {
+        "options": {
+          "ক": "[math]3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}[/math]",
+          "খ": "[math]3 \\times 10^{10} \\mathrm{~m} / \\mathrm{s}[/math]",
+          "গ": "[math]3 \\times 10^{11} \\mathrm{~m} / \\mathrm{s}[/math]",
+          "ঘ": "[math]3 \\times 10^{12} \\mathrm{~m} / \\mathrm{s}[/math]"
+        },
+        "question": "শূন্য মাধ্যমে আলোর বেগ কত m/s?",
+        "solution": "শূন্য মাধ্যমে আলোর গতিবেগ প্রায় [math]3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}[/math]আলো একটি তরঙ্গ এবং কণা উভয়ই। এটি একটি তরঙ্গ হিসাবে, এটি একটি নির্দিষ্ট মাধ্যম জুড়ে ভ্রমণ করে। শূন্য একটি মাধ্যম, তাই এটি মধ্য দিয়ে ভ্রমণ করতে পারে। শূন্য মাধ্যমে আলোর গতিবেগ একটি সার্বজনীন ধ্রুবক, যা c দ্বারা চিহ্নিত করা হয়। এর মান 299,792,458 মিটার/সেকেন্ড ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 430026,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 471,
+          "full_name": "Sylhet Agricultural University",
+          "short_name": "SAU",
+          "slug": "sau",
+          "pivot": {
+            "question_bank_id": 430026,
+            "tag_id": 471,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430025,
+      "value": {
+        "options": {
+          "ক": "[math]\\sqrt{\\dfrac{\\epsilon _0}{\\mu _0}}[/math]",
+          "খ": "[math]\\sqrt{\\epsilon _0\\mu _0}[/math]",
+          "গ": "[math]\\sqrt{\\dfrac{1}{\\epsilon _0\\mu _0}}[/math]",
+          "ঘ": "[math]\\sqrt{\\dfrac{\\mu _0}{\\epsilon _0}}[/math]"
+        },
+        "question": "শূন্য মাধ্যমে আলোর বেগ নিচের কোনটির সমান?",
+        "solution": "শূন্য মাধ্যমে আলোর বেগ ( [math]c[/math]\u003Cbr\u003E) এর সূত্র হলো [math]c = \\dfrac{1}{\\sqrt{\\epsilon_0 \\mu_0}}[/math]\u003Cbr\u003E যেখানে [math]\\epsilon_0[/math]\u003Cbr\u003E হলো শূন্য মাধ্যমের প্রবেশ্যতা এবং [math]\\mu_0[/math]\u003Cbr\u003E হলো শূন্য মাধ্যমের ভেদ্যতা। বিকল্প C তে এই সূত্রটি বর্গমূলের ভেতরের পদটি উল্টে দেওয়া হয়েছে, যা সঠিক নয়। বিকল্প A, B এবং D তে [math]\\epsilon_0[/math]\u003Cbr\u003E এবং [math]\\mu_0[/math]\u003Cbr\u003E এর অনুপাত বা এদের গুণফলের বর্গমূল রয়েছে, যা আলোর বেগের সাথে সম্পর্কিত নয়। তাই সঠিক উত্তর হল [math]c = \\dfrac{1}{\\sqrt{\\epsilon_0 \\mu_0}}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 430025,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 430025,
+            "tag_id": 11,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430024,
+      "value": {
+        "options": {
+          "ক": "[math](3.9986\\pm 0.003)\\times 10^8\\mathrm{~m}/\\mathrm{\\sec }[/math]",
+          "খ": "[math](2.9986+0.003)\\times 10^8\\mathrm{~m}/\\mathrm{\\sec }[/math]",
+          "গ": "[math](2.9986\\pm 0.003)\\times 10^6\\mathrm{~m}/\\mathrm{\\sec }[/math]",
+          "ঘ": "[math](3.9986\\pm 0.003)\\times 10^{10}\\mathrm{~m}/\\mathrm{\\sec }[/math]"
+        },
+        "question": "শূন্যস্থানে আলোর বেগ কত?",
+        "solution": "শূন্যস্থানে আলোর বেগ প্রায় [math]299,792,458[/math]\u003Cbr\u003E মিটার প্রতি সেকেন্ড। বিকল্প A-তে প্রদত্ত মান [math](3.9986\\pm 0.003)\\times 10^8\\mathrm{~m}/\\mathrm{\\sec }[/math]\u003Cbr\u003E এই মানের কাছাকাছি, বিশেষত যখন দশমিকের পরে প্রথম অঙ্ক বিবেচনা করা হয়। বিকল্প B-তে যোগ চিহ্ন ব্যবহার করা হয়েছে যা ত্রুটি নির্দেশ করে না। বিকল্প C-তে বেগ [math]10^6[/math]\u003Cbr\u003E অর্ডারে দেওয়া হয়েছে যা ভুল। বিকল্প D-তে বেগ [math]10^{10}[/math]\u003Cbr\u003E অর্ডারে দেওয়া হয়েছে যা আলোর বেগের থেকে অনেক বেশি।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 34,
+          "year": "2002-2003",
+          "pivot": {
+            "question_bank_id": 430024,
+            "year_id": 34
+          }
+        },
+        {
+          "id": 34,
+          "year": "2002-2003",
+          "pivot": {
+            "question_bank_id": 430024,
+            "year_id": 34
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 430024,
+            "tag_id": 18,
+            "year": "02-03",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        },
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 430024,
+            "tag_id": 3225,
+            "year": "02-03",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430023,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{V_a}{V_b}=\\dfrac{\\epsilon _b}{\\epsilon _a}[/math]",
+          "খ": "[math]\\dfrac{V_a}{V_b}=\\dfrac{\\epsilon_a}{\\epsilon_b}[/math]",
+          "গ": "[math]\\dfrac{V_a}{V_b}=\\dfrac{\\sqrt{\\epsilon_b}}{\\sqrt{\\epsilon_a}}[/math]",
+          "ঘ": "[math]\\dfrac{V_a}{V_b}=\\dfrac{\\sqrt{\\epsilon_a}}{\\sqrt{\\epsilon_b}}[/math]"
+        },
+        "question": "আলোর বেগ এবং একটি মাধ্যমের পরাবৈদ্যুতিক ধ্রুবকের মধ্যকার সম্পর্ক নিম্নের কোন সমীকরণ দিয়ে প্রকাশ পায়?",
+        "solution": "আমরা জানি, [math]\\mathrm{V}=\\dfrac{1}{\\sqrt{\\epsilon \\mu}}[/math]\u003Cbr\u003Eঅর্থাৎ, [math]\\mathrm{V} \\propto \\dfrac{1}{\\sqrt{\\epsilon}}[/math]\u003Cbr\u003Eযখন [math]\\mu[/math]\u003Cbr\u003E ধ্রুবসুতরাং, [math]=\\dfrac{V_{a}}{V_{b}}=\\dfrac{\\sqrt{\\epsilon_{b}}}{\\sqrt{\\varepsilon_{a}}}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 430023,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 430023,
+            "tag_id": 18,
+            "year": "09-10",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430022,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{m}^{2} \\mathrm{~s}^{-2}[/math]",
+          "খ": "[math]\\mathrm{m}^{\\frac{1}{2}} \\mathrm{~s}^{-\\frac{1}{2}}[/math]",
+          "গ": "[math]\\mathrm{m}^{-1} \\mathrm{~s}[/math]",
+          "ঘ": "[math]m^{-2} s^{2}[/math]"
+        },
+        "question": "নিচের কোনটি [math]\\epsilon_{0} \\mu_{0}[/math] -এর একক?",
+        "solution": "আমরা জানি, [math]c=\\frac{1}{\\sqrt{\\mu_{0} \\in_{0}}}[/math]\u003Cbr\u003E [math]~~~~~~~[/math]\u003Cbr\u003E [math]\\Rightarrow \\mu_{0} \\in_{0}=\\frac{1}{\\mathrm{c}^{2}}[/math]\u003Cbr\u003E [math]=\\frac{1}{\\left(\\mathrm{~ms}^{-1}\\right)^{2}}[/math]\u003Cbr\u003E [math]=\\frac{1}{\\mathrm{~m}^{2} \\mathrm{~s}^{-2}}[/math]\u003Cbr\u003E [math]=\\mathrm{m}^{-2} \\mathrm{~s}^{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 430022,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 430022,
+            "tag_id": 8,
+            "year": "23-24",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430021,
+      "value": {
+        "options": {
+          "ক": "1.18",
+          "খ": "1.21",
+          "গ": "1.33",
+          "ঘ": "1.50"
+        },
+        "question": "বায়ু থেকে অন্য কোনো মাধ্যমের ভিতর একটি আলোক রশ্মি প্রবেশ করার পর ভরবেগ [math]15\\%[/math] হ্রাস পায়। মাধ্যমের প্রতিসরাংক হলো—",
+        "solution": "প্রতিসরাংক [math]= 100/85 = 1.18[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430021,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 430021,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430021,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430021,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 430021,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 430021,
+            "tag_id": 4,
+            "year": "2015",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430020,
+      "value": {
+        "options": {
+          "ক": "1.33",
+          "খ": "1.40",
+          "গ": "1.44",
+          "ঘ": "1.51"
+        },
+        "question": "কেরোসিনের প্রতিসরাঙ্ক কত? দেওয়া আছে [math]c_{0}=3 \\times 10^{8} \\mathrm{~ms}^{-1}[/math] এবং [math]c_{k}=2.08 \\times 10^{8} \\mathrm{~ms}^{-1}[/math].",
+        "solution": "কেরোসিনের প্রতিসরাঙ্ক হলো শূন্য মাধ্যমে আলোর বেগ ও কেরোসিনের মধ্যে আলোর বেগের অনুপাত।[math]n = c_0 / c_k[/math]\u003Cbr\u003E [math]n = (3 \\times 10^8 \\mathrm{~ms}^{-1}) / (2.08 \\times 10^8 \\mathrm{~ms}^{-1})[/math]\u003Cbr\u003E [math]n \\approx 1.44[/math]\u003Cbr\u003Eসুতরাং, কেরোসিনের প্রতিসরাঙ্ক প্রায় 1.44।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430020,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430020,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430020,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430019,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{c}=\\sqrt{\\epsilon_{0} \\mu_{0}}[/math]",
+          "খ": "[math]c=\\dfrac{1}{\\sqrt{\\epsilon_{0} \\mu_{0}}}[/math]",
+          "গ": "[math]\\mathrm{c}=\\sqrt{\\dfrac{\\epsilon_{0}}{\\mu_{0}}}[/math]",
+          "ঘ": "[math]\\mathrm{c}=\\sqrt{\\dfrac{\\mu_{0}}{\\epsilon_{0}}}[/math]"
+        },
+        "question": "শূন্য মাধ্যমে আলোর বেগ [math]c[/math] হলে কোনটি সঠিক?",
+        "solution": "শূন্য মাধ্যমে আলোর বেগ ( [math]c[/math]\u003Cbr\u003E) এবং শূন্য মাধ্যমের ভেদনযোগ্যতা ( [math]\\mu_0[/math]\u003Cbr\u003E) ও প্রবেশ্যতা ( [math]\\epsilon_0[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হলো [math]c=\\dfrac{1}{\\sqrt{\\epsilon_{0} \\mu_{0}}}[/math]\u003Cbr\u003E। এটি ম্যাক্সওয়েলের সমীকরণ থেকে উদ্ভূত একটি মৌলিক সূত্র। অন্য বিকল্পগুলি এই সম্পর্ককে সঠিকভাবে প্রকাশ করে না।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430019,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430019,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 430019,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430018,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আলোর বেগকে লেখা যায়—\n\n[math]\\text { i. } c=\\dfrac{E}{B}[/math] [math]\\text { ii. } c=\\dfrac{1}{\\sqrt{\\epsilon_{0} \\mu_{0}}}[/math] [math]\\text { iii. } c=\\dfrac{F \\lambda}{h}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "আলো বা অন্য যেকোনো তাড়িতচৌম্বক তরঙ্গ যখন মাধ্যমের মধ্য দিয়ে অগ্রসর হয়, তখন তড়িৎক্ষেত্র তরঙ্গ এবং চৌম্বকক্ষেত্র তরঙ্গ পরস্পর সমদশায় থাকে।তাই ঐ মাধ্যমে আলোর বেগকে [math]c=\\dfrac{E_{0}}{B_{0}}=\\dfrac{E}{B}[/math]\u003Cbr\u003E সমীকরণের দ্বারা প্রকাশ করা যায়।এখানে, [math]\\epsilon_0[/math]\u003Cbr\u003E ও [math]\\mu_0[/math]\u003Cbr\u003E হলো যথাক্রমে শূন্য মাধ্যমের তড়িৎ ভেদনযোগ্যতা ও চৌম্বক প্রবেশ্যতা।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 430018,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430018,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430018,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430017,
+      "value": {
+        "options": {
+          "A": "[math]8.85 \\times 10^{-12} \\mathrm{C}^{2} \\mathrm{~N}^{-1} \\mathrm{~m}^{-2}[/math]",
+          "B": "[math]9 \\times 10^{9} \\mathrm{Nm}^{2} \\mathrm{C}^{-2}[/math]",
+          "C": "[math]4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1}[/math]",
+          "D": "[math]3 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]"
+        },
+        "question": "[math]\\epsilon_{0} \\mu_{0}^{-\\frac{1}{2}}[/math] এর মান কোনটি?",
+        "solution": "তড়িতচৌম্বক তরঙ্গের বেগ [math]c=\\dfrac{1}{\\sqrt{\\mu_{0} \\varepsilon_{0}}}=\\left(\\mu_{0} \\varepsilon_{0}\\right)^{-\\frac{1}{2}}[/math]\u003Cbr\u003E [math]\\varepsilon_{0}[/math]\u003Cbr\u003E হলো শূন্য মাধ্যমের ভেদনযোগ্যতা যার মান [math]\\varepsilon_{0}=8.854 \\times 10^{-12}[/math]\u003Cbr\u003E [math]\\mu_{0}[/math]\u003Cbr\u003E হলো শূন্য মাধ্যদের প্রবেশ্যতা যার মান [math]\\mu_{0}=4 \\pi \\times 10^{-7}[/math]\u003Cbr\u003E [math]\\mu_0\\ ও\\ \\varepsilon_0[/math]\u003Cbr\u003E এর মান বসিয়ে [math]\\left(\\mu_{0} \\varepsilon_{0}\\right)^{-\\frac{1}{2}}, \\dfrac{1}{\\sqrt{\\mu_{0} \\varepsilon_{0}}}=\\mathrm{c}=3 \\times 10^{8} \\mathrm{ms}^{-1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 430017,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430017,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430017,
+            "tag_id": 5,
+            "year": "2021",
+            "created_at": "2025-08-19T07:45:24.000000Z",
+            "updated_at": "2025-08-19T07:45:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6688&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6688&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6688&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 33,
+  "total": 33
+}

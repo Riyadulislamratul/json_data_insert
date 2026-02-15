@@ -1,0 +1,4174 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 414504,
+      "value": {
+        "options": {
+          "গ": "রাজশাহীর শিশিরাঙ্ক নির্ণয় করো।"
+        },
+        "question": "কোনো একদিন ঢাকার তাপমাত্রা 35°C এবং আপেক্ষিক আর্দ্রতা 50%। একই দিনে রাজশাহীতে স্থাপিত একটি হাইগ্রোমিটারের শুষ্ক বাল্ব থার্মোমিটারের পাঠ 25°C এবং সিক্ত বাল্ব থার্মোমিটারের পাঠ 19°C. [ 25° C তাপমাত্রায় G এর মান 1.65। . 15°C, 16°C ও 25°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে 12.77 mm, 13.71 mm, 23.7 mm পারদ ]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003EAnswer : 15.1°C",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E রাজশাহীর শিশিরাঙ্ক নির্ণয়: শুষ্ক ও সিক্ত পাঠ থেকে বাষ্পচাপ পাওয়া যায়: [math]e = e_s(T_w) - G\\,(T_d - T_w)[/math]; এখানে [math]T_d=25^\\circ C,\\;T_w=19^\\circ C,\\;G=1.65[/math] এবং সংবদ্ধ চাপ [math]e_s(19^\\circ C)\\approx17.04\\ \\text{mmHg}[/math], তাই [math]e=17.04-1.65\\times6=7.14\\ \\text{mmHg}[/math]. শিশিরাঙ্ক হবে সেই তাপমাত্রা যেখানে সংবদ্ধ চাপ [math]7.14\\ \\text{mmHg}[/math]; Magnus সূত্র বা সারণি প্রয়োগ করলে শিশিরাঙ্ক ≈ [math]6.3^\\circ C[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414504,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 414504,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:23.000000Z",
+            "updated_at": "2025-08-19T06:54:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414503,
+      "value": {
+        "options": {
+          "গ": "ঐদিন উক্ত এলাকায় শিশিরাঙ্ক নির্ণয় করো।"
+        },
+        "question": "কোনো এলাকায় একদিন শুষ্ক ও সিক্ত বাল্ব হাইগ্রোমিটারের পাঠ যথাক্রমে 20°C এবং 12.8°C পাওয়া গেল। 20°C তাপমাত্রায় গ্লেইসারের উৎপাদক 1.79। 7°C, 8°C এবং 20°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে [math]7.5 \\times 10^{-3} \\mathrm{~m} \\mathrm{Hg} \\mathrm{P}, 8.1 \\times 10^{-3} \\mathrm{~m} \\mathrm{Hg} \\mathrm{P}[/math] এবং [math]17.4 \\times 10^{-3} \\mathrm{~m} \\mathrm{Hg} \\mathrm{\\ P}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,শুষ্ক বাল্বের পাঠ, [math]\\theta_{1}=20^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eসিক্ত বাল্বের পাঠ, [math]\\theta_{2}=12.8^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেইসারের উৎপাদক, G = 1.79ঐ এলাকায় শিশিরাঙ্ক, [math]\\theta=?[/math]\u003Cbr\u003Eআমরা জানি, গ্লেইসারের সূত্রানুসারে,[math]\\theta_{1}-\\theta=G\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]20-\\theta=1.79(20-12.8)[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]20-\\theta=12. 888[/math]\u003Cbr\u003E [math]\\therefore \\theta=7.112^{\\circ} \\mathrm{C}^{} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: শিশিরাঙ্ক নির্ণয়ে প্রথমে আর্দ্র বাষ্পচাপ পাওয়া হয়, যেখানে ব্যবহার করি উইট‑বাল্ব সূত্র [math]e=e_s(T_w)-kP(T-T_w)[/math] (এখানে [math]k=0.00066[/math], [math]P\\approx760\\ \\text{mmHg}[/math])। টিউব‑টেম্পারেচার [math]T_w=12.8^\\circ\\text{C}[/math]‑এ উদ্দীপক চাপে রেখায় আন্তঃঅনিূপাতে আনুমানিক মান পাই [math]e_s(12.8)\\approx11.82\\times10^{-3}\\ \\text{mHg}[/math], এবং সোধনামূলক অংশ [math]kP(T-T_w)=0.00066\\times760\\times7.2\\approx3.61\\times10^{-3}\\ \\text{mHg}[/math]। ফলে বাস্তব বাষ্পচাপ [math]e\\approx11.82\\times10^{-3}-3.61\\times10^{-3}=8.21\\times10^{-3}\\ \\text{mHg}[/math], যা প্রায়ই 8°C তাপমাত্রার সম্পৃক্ত চাপে ([math]8.1\\times10^{-3}[/math]) সমান, সুতরাং শিশিরাঙ্ক ≈ 8°C।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414503,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 414503,
+            "tag_id": 3179,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:23.000000Z",
+            "updated_at": "2025-08-19T06:54:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414502,
+      "value": {
+        "options": {
+          "গ": "রংপুরে ঐ দিনের শিশিরাঙ্ক কত?"
+        },
+        "question": "রংপুর আবহাওয়া অফিস একদিন সিক্ত ও শুষ্ক বাল্ব আর্দ্রতা মাপক যন্ত্রের শুষ্ক বাল্বের পাঠ 28°C ও সিক্ত বাল্বের পাঠ 26°C পেল । 28°C তাপমাত্রায় গ্লেসিয়ারের উৎপাদক 1.65। 24°C, 25°C ও 28°C তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে 22.38, 24.21 এবং 27:78 mm Hg P। ঐদিন বরিশালের আ পেক্ষিক আর্দ্রতা ছিল 65%।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,শুষ্ক বাল্বের পাঠ, [math]\\theta_{1}=28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eসিক্ত বাল্বের পাঠ, [math]\\theta_{2}=26^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেসিয়ারের উৎপাদক [math]\\mathrm{G}=1.65[/math]\u003Cbr\u003Eরংপুরের শিশিরাঙ্ক, [math]\\theta=?[/math]\u003Cbr\u003Eআমরা জানি,গ্লেসিয়ারের সূত্রানুসারে[math]\\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]28-\\theta=1.65(28-26)[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]28-\\theta=3.3[/math]\u003Cbr\u003E [math]\\therefore \\theta=24.7^{\\circ} \\mathrm{C} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E রংপুরের শিশিরাঙ্ক প্রায় [math]23.85^\\circ\\text{C}[/math]। কারণ våয়বিন্দু নির্ণয়ের ধাপগুলো: প্রথমে সিক্ত বাল্বের তাপমাত্রা [math]26^\\circ\\text{C}[/math]-এ তাপমাত্রা স্যাচুরেশন চাপ আনুমানিক.interpolate করে [math]e_s(26)\\approx25.40\\ \\text{mmHg}[/math] পাওয়া যায়, এরপর বাস্তব আর্দ্রতার চাপ হিসাব করি [math]e=e_s(26)-1.65(28-26)=25.40-3.30=22.10\\ \\text{mmHg}[/math]। এখন শিশিরাঙ্ক সেই তাপমাত্রা যেখানে স্যাচুরেশন চাপ [math]22.10\\ \\text{mmHg}[/math]; ২৪°C-এ [math]e_s(24)=22.38[/math] এবং ২৫°C-এ [math]e_s(25)=24.21[/math] থাকা থেকে সরল ইন্টারপোলেশনে [math]T_d\\approx24+\\frac{22.10-22.38}{24.21-22.38}\\approx23.85^\\circ\\text{C}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414502,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414502,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 414502,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:23.000000Z",
+            "updated_at": "2025-08-19T06:54:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414501,
+      "value": {
+        "options": {
+          "গ": "ঘরের মধ্যে শিশিরাঙ্ক বের করো।"
+        },
+        "question": "একদিন কোনো এক স্থানের নিম্নোক্ত তথ্যাদি পাওয়া গেল:\n\nঘরের মধ্যে: শুষ্ক বাল্বের তাপমাত্রা = 32°C\n\nআর্দ্র বাল্বের তাপমাত্রা = 28°C\n\n32°C তাপমাত্রায় গ্লেইসারের ধ্রুবক = 1.63\n\n24°C তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ = 22.38 mmHg\n\n26°C তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ = 25.21 mmHg\n\n32°C তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ = 35.66 mmHg\n\nঘরের বাইরে: তাপমাত্রা = 14°C\n\n14°C তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ = 12.0 mmHg\n\nআপেক্ষিক আর্দ্রতা = 80%।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,শুষ্ক বাল্বের পাঠ, [math]\\theta_{1}=32^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eসিক্ত বাল্বের পাঠ, [math]\\theta_{2}=28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেসিয়ারের উৎপাদক, G = 1.63ঘরের মধ্যে শিশিরাঙ্ক, [math]\\theta=?[/math]\u003Cbr\u003Eআমরা জানি,গ্লেসিয়ারের সূত্রানুসারে , [math]\\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]32-\\theta=1.63(32-28)[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]32-\\theta=6.52[/math]\u003Cbr\u003E [math]\\therefore \\theta=25.48^{\\circ} \\mathrm{C} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শিশিরাঙ্ক নির্ণয়ের জন্য ব্যবহার করব [math]e = e_s(T_{wb}) - G\\,(T_{db}-T_{wb})[/math] যেখানে [math]G=1.63[/math] mmHg/°C। প্রথমে [math]e_s(28)\\approx 25.21 + (28-26)\\times\\frac{35.66-25.21}{32-26}\\approx 28.69\\text{ mmHg}[/math] তাই [math]e=28.69 - 1.63\\times(32-28)=28.69-6.52\\approx22.17\\text{ mmHg}[/math]। টেবিল অনুযায়ী [math]e\\approx22.17\\text{ mmHg}\\approx e_s(24)=22.38\\text{ mmHg}[/math], সুতরাং শিশিরাঙ্ক প্রায় [math]24^\\circ\\text{C}[/math] (প্রায় [math]23.9^\\circ\\text{C}[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414501,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414501,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 414501,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:23.000000Z",
+            "updated_at": "2025-08-19T06:54:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414500,
+      "value": {
+        "options": {
+          "গ": "ঐ দিন ঢাকার শিশিরাঙ্ক কত ছিল?"
+        },
+        "question": "একজন আবহাওয়াবিদ দৈনিক প্রতিবেদন তৈরির জন্য একদিন ঢাকা এবং রাজশাহীতে স্থাপিত দুটি সিক্ত ও শুষ্ক বাল্ব আর্দ্রতা মাপক যন্ত্রের মাধ্যমে নিম্নের উপাত্তগুলো সংগ্রহ করলেন ।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture_1755586463_veiFaLRW.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[14°C, 16°C, 28°C, 30°C, 32°C এবং 34°C তাপমাত্রায় সম্পৃক্ত জলীয়বাষ্পের চাপ যথাক্রমে 11.99, 13.63, 28.35, 31.83, 35.66 এবং 39.90 mmHgP স্বাস্থ্যের জন্য আপেক্ষিক আর্দ্রতার স্বাচ্ছন্দ্যকর মান হলো 40% থেকে 60% পর্যন্ত]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,শুষ্ক বাল্বের পাঠ, [math]\\theta_1[/math]\u003Cbr\u003E 28.6°Cসিক্ত বাল্বের পাঠ, [math]\\theta_2[/math]\u003Cbr\u003E = 20°Cগ্লেসিয়ারের উৎপাদক, G = 1.664ঢাকার শিশিরাঙ্ক, [math]\\theta[/math]\u003Cbr\u003E = ?আমরা জানি, গ্লেসিয়ারের সূত্রানুসারে,[math]\\begin{array}{l}\\quad \\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\\\Rightarrow\\text { } 28.6-\\theta=1.664(28.6-20) \\\\\\Rightarrow\\text { } 28.6-\\theta=14.31 \\\\\\therefore \\theta=14.29^{\\circ} \\mathrm{C} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ঢাকার শিশিরাঙ্ক নির্ণয়ের জন্য প্রথমে ন্যাকড়-বাল্ব থেকে ন্যায্য বাষ্পচাপ গণনা করি: [math]e=e_s(T_w)-0.00066\\,P\\,(T-T_w)[/math] যেখানে [math]e_s(30)=31.83\\ \\text{mmHg},\\ T-T_w=2^\\circ\\text{C},\\ P\\approx760\\ \\text{mmHg}[/math], তাই [math]e\\approx31.83-0.00066\\times760\\times2\\approx30.83\\ \\text{mmHg}[/math]. এরপর শিশিরাঙ্ক সেই তাপমাত্রা যেখানে সরাসরি সমসমতল বাষ্পচাপ ≈30.83 mmHg; [math]e_s(28)=28.35,\\ e_s(30)=31.83[/math] থেকে লিনিয়ার ইন্টারপোলেশনে [math]T_d\\approx28+\\frac{30.83-28.35}{31.83-28.35}\\times2\\approx29.4^\\circ\\text{C}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 414500,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414500,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414500,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T06:54:23.000000Z",
+            "updated_at": "2025-08-19T06:54:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414499,
+      "value": {
+        "options": {
+          "ঘ": "তাপমাত্রার পরিবর্তনে উক্ত স্থানের আবদ্ধ বায়ুর শিশিরাংক একই থাকবে নাকি ভিন্ন হবে? গাণিতিক যুক্তসহ মতামত দাও ।"
+        },
+        "question": "কোনো একটি পরীক্ষণে খাগড়াছড়িতে বায়ুর তাপমাত্রা 28°C এবং শিশিরাংক 7.8°C পাওয়া গেল। হঠাৎ শৈত্যপ্রবাহের ফলে ঐ স্থানের তাপমাত্রা কমে 14°C হলো ।\n\n7°C, 8°C এবং 28°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে 7.51, 8.05 এবং 28.35 mm পা রদ ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,7.8°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ,= 7.51+0.8 × (8.05 -7.51)= 7.942 mmHg= 28°C তাপমাত্রায় অসম্পৃক্ত জলীয় বাষ্পের চাপ= [math]P_1[/math]\u003Cbr\u003Eআমরা জানি, আবদ্ধ স্থানে আয়তন ধ্রুবক ।এখানে, [math]T_1[/math]\u003Cbr\u003E = 273 + 28°C = 301 K[math]T_2[/math]\u003Cbr\u003E = 273 + 14 = 287 K[math]T_2[/math]\u003Cbr\u003E তাপমাত্রায় চাপ [math]P_2[/math]\u003Cbr\u003E হলে চাপীয় সূত্র হতে পাই,[math]\\frac{P_{2}}{P_{1}}=\\frac{T_{2}}{T_{1}} \\Rightarrow\\text { } P_{2}=\\frac{287}{301} \\times 7.942=7.572 \\mathrm{mmHg}[/math]\u003Cbr\u003Eসুতরাং, 7.52 mmHg চাপ হবে শিশিরাংকে সম্পৃক্ত জলীয় বাষ্প চাপ (8.05 – 7.51) = 0.54 mmHg চাপ বৃদ্ধির জন্য তাপমাত্রা বৃদ্ধি পায় -[math]\\therefore[/math]\u003Cbr\u003E (7.572 - 7.51) 0.062 mmHg চাপ বৃদ্ধির জন্য তাপমাত্রার পরিবর্তন হবে [math]\\frac{0.062}{0.54}=0.114^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eসুতরাং শিশিরাংক হবে (7 + 0.114)°C = 7.114°Cতাপমাত্রার পরিবর্তনে উক্ত স্থানের শিশিরাংক পরিবর্তিত হবে।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E তাপমাত্রা বদলালে শিশিরাংক একই থাকবে, কারণ শিশিরাংক নির্ধারণ করে বায়ুর বাস্তব বাষ্পচাপ, তাপমাত্রা নয়। প্রথমে শিশিরাংকের সাথে সঙ্গতিপূর্ণ বাষ্পচাপ বের করলে: [math]e\\approx7.51+(7.8-7)\\times(8.05-7.51)=7.51+0.8\\times0.54=7.94\\ \\text{mmHg}[/math]. শৈত্যপ্রবাহে বাষ্পচাপ অপরিবর্তিত থাকলে শিশিরাংকও প্রায় [math]7.8^\\circ\\text{C}[/math] বজায় থাকবে (14°C-এ এই বাষ্পচাপ স্যাচুরেশন নয়, তাই কনডেন্সেশন ঘটে না)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 414499,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414499,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414499,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T06:54:22.000000Z",
+            "updated_at": "2025-08-19T06:54:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414498,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের ঐ স্থানে ঐ দিন বৃষ্টি হওয়ার সম্ভাবনা আছে কিনা গাণিতিক বিশ্লেষণের আলোকে ব্যাখ্যা করো ।"
+        },
+        "question": "গ্রীষ্মের কোনো একদিনের প্রচণ্ড তাপদাহে মিমি ও তার সহপাঠী পরীক্ষাগারে 'একটি সিলিন্ডারে 1000 gm মিথেন গ্যাস নিয়ে পরীক্ষা করছিল যার আণবিক ভর [math]16 gmmol^{-1}[/math]। আবহাওয়ার এই অবস্থার প্রেক্ষিতে শিক্ষক ছাত্র-ছাত্রীদের বললেন কোন স্থানে আপেক্ষিক আর্দ্রতা 70% অতিক্রম করলেই বৃষ্টি হওয়ার সম্ভাবনা থাকে। ঐ স্থানের শিশিরাংক 12.5°C এবং বায়ুর তাপমাত্রা 20.6°C 12°C, 13°C, 20°C ও 21°C তাপমাত্রায় সম্পৃক্ত জলীয়বাষ্প চাপ যথাক্রমে 10.85 mmHg, 14.5 mmHg, 18.5 mmHg 320.55 mmHg |",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে, ঐ স্থানের শিশিরাংক 12.5°C এবং বায়ুর তাপমাত্রা 20.6°Cএখন (13–12)°C বা 1°C তাপমাত্রার পার্থক্যে জলীয় বাষ্পের পরিবর্তন (14.5 - 10.85) বা, 3.65 mgHg:. (12.5 - 12)°C বা, 0.5°C তাপমাত্রার পার্থক্যে জলীয় বাষ্পের পরিবর্তন (3.65 x 0.5 mmHg = 1.825 mmHg[math]\\therefore[/math]\u003Cbr\u003E শিশিরাঙ্ক 12.5°C সম্পৃক্ত জলীয় বাষ্পচাপ, Y = (10.85 + 1.825) mmHg = 12.675 mmHgআবার,(21-20)°C বা, 1°C তাপমাত্রার পার্থক্যে জলীয় বাষ্পের পরিবর্তন ( 20.55 - 18.5 ) mmHg বা, 2.05 mmHg. ( 20.6 - 20 )° বা, 0.6°C তাপমাত্রার পার্থক্যে জলীয় বাষ্পের পরিবর্তন (2.05 × 0.6 mmHg = 1.23 mmHg ).:. বায়ুর তাপমাত্রা 20.6°C এ সম্পৃক্ত জলীয় বাষ্পের চাপ, F = (18.5 + 1.23) mmHg = 19.73 mmHg এখন,ঐ স্থানের আপেক্ষিক আর্দ্রতা,[math]\\begin{aligned}\\mathrm{R} & =\\frac{f}{\\mathrm{~F}} \\times 100 \\% \\\\& =\\frac{12.675}{19.73} \\times 100 \\% \\\\& =64.24 \\%\\end{aligned}[/math]\u003Cbr\u003Eদেখা যাচ্ছে, R \u003C 70%যেহেতু, ঐ স্থানের আপেক্ষিক আর্দ্রতা 70% অপেক্ষা কম, তাই 'বলা যায়, ঐ স্থানে ঐ দিন বৃষ্টি হওয়ার সম্ভাবনা নেই । -",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: আপেক্ষিক আর্দ্রতা গণনা করতে প্রথমে বাস্তব বাষ্পচাপকে শিশিরাংকের সমতুল্য ধরা হয় এবং পূর্ণ সংযুক্তি বাষ্পচাপকে বাতাসের তাপমাত্রার জন্য নেওয়া হয়; তারপর [math]\\text{RH}=\\dfrac{e_{\\text{actual}}}{e_{\\text{sat at }T}}×100\\%[/math]। শিশিরাংক 12.5°C এর জন্য দুটো দেওয়া মানের মধ্য দিয়ে সরলসমীকরণ করলে [math]e_{\\text{actual}}\\approx(10.85+14.5)/2=12.675\\ \\text{mmHg}[/math], এবং 20.6°C এর জন্য [math]e_{\\text{sat}}\\approx18.5+0.6(20.55-18.5)=19.73\\ \\text{mmHg}[/math]। তাই [math]\\text{RH}\\approx\\dfrac{12.675}{19.73}×100\\%\\approx64.2\\%\u003C/math\u003E, যা 70% থেকে কম—অতএব ঐ স্থানে ঐ দিনে বৃষ্টি হওয়ার সম্ভাবনা নেই।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 414498,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414498,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 414498,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T06:54:22.000000Z",
+            "updated_at": "2025-08-19T06:54:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414497,
+      "value": {
+        "options": {
+          "A": "[math]24.9^{\\circ} \\mathrm{C}[/math]",
+          "B": "[math]14.29^{\\circ} \\mathrm{C}[/math]",
+          "C": "[math]11.56^{\\circ} \\mathrm{C}[/math]",
+          "D": "[math]9.86^{\\circ} \\mathrm{C}[/math]"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-1-10-teste-mcq-10008_1755586462_Tl94xvwG.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[math]14^{\\circ} \\mathrm{C} ,\\ 16^{\\circ} \\mathrm{C} ,\\ 28^{\\circ} \\mathrm{C} ,\\ 30^{\\circ} \\mathrm{C} ,\\ 32^{\\circ} \\mathrm{C} \\ ও\\ 34^{\\circ} \\mathrm{C}[/math]\n\nতাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে\n\n[math]11.99 \\mathrm{mmHg}, 13.63 \\mathrm{mmHg}, 28.35 \\mathrm{mmHg}, 31.83 \\mathrm{mmHg}, 35.66 \\mathrm{mmHg}\\ ও\\ 39.90 \\mathrm{mmHg} .[/math]\n\nউদ্দীপকের তথ্যের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\nঐদিন ঢাকার শিশিরাংক কত ছিল?",
+        "solution": "[math]\\theta=\\theta_{1}-\\rm{G}\\left(\\theta_{1}-\\theta_{2}\\right)=28.6-1.664(28.6-20)=14.29^{\\circ} \\mathrm{C}[/math]",
+        "explanation": "",
+        "correct_answer": "B.[math]14.29^{\\circ} \\mathrm{C}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414497,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1916,
+          "full_name": "Sylhet Cadet College",
+          "short_name": "SCC",
+          "slug": "scc",
+          "pivot": {
+            "question_bank_id": 414497,
+            "tag_id": 1916,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:22.000000Z",
+            "updated_at": "2025-08-19T06:54:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414487,
+      "value": {
+        "options": {
+          "ক": "পানির ফোঁটা",
+          "খ": "তাপমাত্রা",
+          "গ": "তাপ",
+          "ঘ": "আর্দ্রতা"
+        },
+        "question": "শিশির হচ্ছে—",
+        "solution": "বায়ুর তাপমাত্রা ক্রমশ কমতে থাকলে জলীয় বাষ্প ধারণ ক্ষমতা কমতে থাকে। কোনো স্থানের নির্দিষ্ট আয়তনের বায়ু এর অভ্যন্তরীণ জলীয় বাষ্প দ্বারা নির্দিষ্ট তাপমাত্রায় সম্পৃক্ত হয়। এই তাপমাত্রাকে শিশিরাংক বলে।",
+        "explanation": "",
+        "correct_answer": "A.পানির ফোঁটা"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 414487,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 414487,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414490,
+      "value": {
+        "options": {
+          "ক": "অর্ধেক হবে",
+          "খ": "দ্বিগুণ হবে",
+          "গ": "সমান হবে",
+          "ঘ": "কম হবে"
+        },
+        "question": "আপেক্ষিক আর্দ্রতা 100% হলে শিশিরাঙ্ক বায়ুর তাপমাত্রার–",
+        "solution": "যখন আপেক্ষিক আর্দ্রতা 100% হয়, তখন বাতাস জলীয় বাষ্পে সম্পূর্ণ সম্পৃক্ত থাকে। শিশিরাঙ্ক হলো সেই তাপমাত্রা যেখানে বাতাসে থাকা জলীয় বাষ্প ঘনীভূত হয়ে শিশিরে পরিণত হয়। যেহেতু বাতাস ইতিমধ্যেই সম্পৃক্ত, তাই ঘনীভবন শুরু হওয়ার জন্য আর শীতল হওয়ার প্রয়োজন হয় না। এই অবস্থায়, বাতাসে উপস্থিত জলীয় বাষ্পের পরিমাণ তার সম্পৃক্ত জলীয় বাষ্পের পরিমাণের সমান, এবং তাই শিশিরাঙ্ক বায়ুর বর্তমান তাপমাত্রার সমান হয়। অন্য বিকল্পগুলি ভুল কারণ আপেক্ষিক আর্দ্রতা 100% হলে শিশিরাঙ্ক তাপমাত্রার সমান হয়, অর্ধেক বা দ্বিগুণ হওয়ার কোনো সম্পর্ক নেই। এটি একটি মৌলিক নীতি যা বায়ুচলাচল এবং আবহাওয়ার পূর্বাভাসে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 414490,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 414490,
+            "tag_id": 460,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414486,
+      "value": {
+        "options": {
+          "ক": "দিনের আলোয় তীব্রতা বৃদ্ধি পায়",
+          "খ": "আপেক্ষিক আর্দ্রতা বৃদ্ধি পায়",
+          "গ": "তাপমাত্রা বৃদ্ধিতে বায়ু অসম্পৃক্ত হয়",
+          "ঘ": "বাষ্পায়নের হার হ্রাস পায়"
+        },
+        "question": "মেঘমুক্ত দিনে দুপুরের আগেই শিশির তিরোহিত হয় কেন?",
+        "solution": "সকালের দিকে বায়ুর তাপমাত্রা কম থাকে। ফলে একই পরিমাণ জলীয়বাষ্প দ্বারা বায়ু সম্পৃক্ত থাকার সম্ভাবনা বেশি ।\n\nতাপমাত্রা বাড়লে বায়ুতে জলীয় বাষ্প শোষণের ক্ষমতা বাড়ে, কারণ তাপমাত্রা বাড়লে আপেক্ষিক আর্দ্রতা কমে ।\n\nশীতকালে বেলা বাড়লে জলীয় বাষ্প দ্বারা সম্পৃক্ত বায়ু অসম্পৃক্ত হয়ে যায়, একারণেই মেঘমুক্ত দিনে দুপুরের আগেই শিশির তিরোহিত হয়।",
+        "explanation": "",
+        "correct_answer": "C.তাপমাত্রা বৃদ্ধিতে বায়ু অসম্পৃক্ত হয়"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 414486,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414486,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414486,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414485,
+      "value": {
+        "options": {
+          "ক": "দ্রুত হবে",
+          "খ": "ধীরে ধীরে হবে",
+          "গ": "হবে না",
+          "ঘ": "একই থাকবে"
+        },
+        "question": "বায়ুর তাপমাত্রা শিশিরাঙ্কে উপনীত হলে বাষ্পায়ন–",
+        "solution": "বায়ুর তাপমাত্রা শিশিরাঙ্কে উপনীত হলে ঐ জলীয় বাষ্প দ্বারাই ঐ স্থানের বায়ু সম্পৃক্ত হবে। ঐ অবস্থায় আর বাষ্পায়ন হবে না।\n\nবায়ুর তাপমাত্রা ও শিশিরাঙ্কের মধ্যে পার্থক্য বেশি হলে বাষ্পায়নও দ্রুত হবে।",
+        "explanation": "",
+        "correct_answer": "C.হবে না"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414485,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 414485,
+            "tag_id": 47,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414484,
+      "value": {
+        "options": {
+          "ক": "তাপ",
+          "খ": "তাপমাত্রা",
+          "গ": "শিশিরের পরিমাণ",
+          "ঘ": "আপেক্ষিক আর্দ্রতা"
+        },
+        "question": "শিশিরাঙ্ক বলতে বোঝায়—",
+        "solution": "যে তাপমাত্রায় কোনো নির্দিষ্ট আয়তনের বায়ু এর মধ্যে অবস্থিত জলীয় বাষ্প দ্বারা সম্পৃক্ত হয়, সেই তাপমাত্রাকে শিশিরাংক বলে। অর্থাৎ শিশিরাঙ্ক তাপমাত্রাকে নির্দেশ করে।\n\nশিশিরাঙ্কে সম্পৃক্ত জলীয় বাষ্প চাপ এবং বায়ুর তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্প চাপের অনুপাতকেই আপেক্ষিক আর্দ্রতা বলে।",
+        "explanation": "",
+        "correct_answer": "B.তাপমাত্রা"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414484,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414484,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 414484,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 414484,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414484,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414484,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414484,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414484,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414484,
+            "tag_id": 7,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414484,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414484,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 414484,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414483,
+      "value": {
+        "options": [],
+        "question": "আকাশ মেঘলা থাকলে শিশির পড়ে না কেন? ব্যাখ্যা করো।",
+        "solution": "দিনের বেলায় সূর্যের তাপে ভূপৃষ্ঠ সংলগ্ন বাতাস গরম থাকে এবং জলীয় বাষ্প দ্বারা অসম্পৃক্ত থাকে। মেঘহীন রাত্রিতে ভূপৃষ্ঠ তাপ বিকিরণ করে ঠাণ্ডা হতে থাকে এবং পরিশেষে এমন একটি তাপমাত্রায় উপনীত হয় যখন বাতাস জলীয় বাষ্প দ্বারা সম্পৃক্ত হয় এবং জলীয় বাষ্প ঘনীভূত হয়ে শিশির জমে। কিন্তু, আকাশ মেঘাচ্ছন্ন থাকলে ভূপৃষ্ঠ তাপ বিকিরণ করে ঠাণ্ডা হতে পারে না। কারণ মেঘ তাপরোধী পদার্থ বলে ভূপৃষ্ঠ হতে বিকিরণজনিত তাপ পরিবাহিত হতে পারে না। ফলে ভূপৃষ্ঠ তথা ভূ-পৃষ্ঠ সংলগ্ন বায়ু ঠাণ্ডা হয় না এবং শিশির জমে না।",
+        "explanation": "আকাশ মেঘলা থাকলে মেঘ রাতের তাপীয় বিকিরণ আটকে রেখে মাটী ও পাতাগুলোর শীতলায়ন ঠেকায়, ফলে পৃষ্ঠের তাপমাত্রা শিশির বিন্দুর নীচে নামে না। তাই শিশির গঠিত হয় না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414483,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 414483,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414482,
+      "value": {
+        "options": [],
+        "question": "মেঘলা রাত্রি শিশির জমার জন্য সহায়ক নয় কেন? ব্যাখ্যা করো৷",
+        "solution": "দিনের বেলায় সূর্যের তাপে ভূপৃষ্ঠ সংলগ্ন বাতাস গরম থাকে এবং জলীয় বাষ্প দ্বারা অসম্পৃক্ত থাকে। মেঘহীন রাত্রিতে ভূপৃষ্ঠ তাপ বিকিরণ করে ঠাণ্ডা হতে থাকে এবং পরিশেষে এমন একটি তাপমাত্রায় উপনীত হয় যখন বাতাস জলীয় বাষ্প দ্বারা সম্পৃক্ত হয় এবং জলীয় বাষ্প ঘনীভূত হয়ে শিশির জমে। কিন্তু আকাশ মেঘাচ্ছন্ন থাকলে ভূপৃষ্ঠ তাপ বিকিরণ করে ঠাণ্ডা হতে পারে না। কারণ মেঘ তাপরোধী পদার্থ বলে ভূপৃষ্ঠ হতে বিকিরণজনিত তাপ পরিবাহিত হতে পারে না। ফলে ভূপৃষ্ঠ তথা ভূ-পৃষ্ঠ সংলগ্ন বায়ু ঠাণ্ডা হয় না এবং শিশির জমে না।",
+        "explanation": "মেঘলা রাত্রে মাটি ও বাতাস আকাশের দিকে তাপীয় বিকিরণ কমাতে পারে না কারণ মেঘ তাপীয় (ইনফ্রারেড) বিকিরণকে ফিরে প্রতিফলিত ও আটকে রাখে; ফলে মাটির তাপমাত্রা পর্যাপ্তভাবে নামেনা এবং বাতাসের তাপমাত্রা শিশির বিন্দুতে না পৌঁছালে শিশির জমে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414482,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 414482,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414481,
+      "value": {
+        "options": [],
+        "question": "আবদ্ধ স্থানে তাপমাত্রা বৃদ্ধিতে শিশিরাঙ্ক কমে না বাড়ে? ব্যাখ্যা দাও।",
+        "solution": "শিশিরাঙ্ক হলো সেই তাপমাত্রা যে তাপমাত্রায় নির্দিষ্ট পরিমাণ বায়ু এতে বিদ্যমান জলীয় বাষ্প দ্বারা সম্পৃক্ত হয়। তাপমাত্রা বৃদ্ধিতে যেহেতু জলীয় বাষ্পের পরিমাণ বৃদ্ধি পায় না সেহেতু আবদ্ধ স্থানে তাপমাত্রা বৃদ্ধিতে শিশিরাঙ্কের কোনো পরিবর্তন হবে না, শিশিরাঙ্ক একই থাকবে।",
+        "explanation": "ব্যাখ্যা: শিশিরাঙ্ক কমে না, অপরিবর্তিত থাকে — কারণ আবদ্ধ স্থলে তাপমাত্রা বাড়লে যদি বায়ুতে নতুন জলবাষ্প না যোগ করা হয়, তাহলে বায়ুতে থাকা জলীয় বাষ্পের পরিমাণ (বা বাষ্পীয় চাপ) অপরিবর্তিত থাকে এবং শিশিরাঙ্ক মূলত সেই বাষ্পীয় চাপের উপর নির্ভর করে; তাপমাত্রা বাড়লে কেবল সমপর্যায়ী বাষ্পচাপ বেড়ে যাওয়ার কারণে আপেক্ষিক আর্দ্রতা কমে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414481,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414481,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 414481,
+            "tag_id": 236,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414480,
+      "value": {
+        "options": [],
+        "question": "শীতের সকালে শিশির দেখা যায় কেন? ব্যাখ্যা করো।",
+        "solution": "শীতের সকালে তাপমাত্রা কম থাকে। এর ফলে পরিবেশের জলীয় বাষ্প ধারণ ক্ষমতা কম থাকে। তাই ধারণ ক্ষমতার চেয়ে অতিরিক্ত যে পরিমাণ জলীয় বাষ্প থাকে তা শিশির আকারে পড়ে যায়। এ কারণে শীতের সকালে শিশির পড়তে দেখা যায়।",
+        "explanation": "শীতের রাতে ভূমি ও পৃষ্ঠের বস্তুর তাপ রশ্মি হিসেবে বাইরে চলে যাওয়ায় তাদের তাপমাত্রা দ্রুত কমে যায় এবং সকালে পৃষ্ঠের তাপমাত্রা বাতাসের তুলনায় কমে পড়ে। যখন বাতাসে থাকা জলীয় বাষ্প সেই অল্প তাপমাত্রায় শিশির বিন্দুতে পৌঁছায়, তখন বাষ্প ঘনীভবন হয়ে পৃষ্ঠে শিশিরের বিন্দু তৈরি হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 414480,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414480,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414480,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 414480,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 414480,
+            "tag_id": 3179,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414479,
+      "value": {
+        "options": [],
+        "question": "শিশিরাঙ্ক কী?",
+        "solution": "যে তাপমাত্রায় একটি নির্দিষ্ট আয়তনের বায়ু উপস্থিত জলীয় বাষ্প দ্বারা সম্পৃক্ত হয় তাকে ঐ বায়ুর শিশিরাঙ্ক বলে।",
+        "explanation": "শিশিরাঙ্ক হলো সেই তাপমাত্রা যেখানে বাতাসে থাকা জলীয় বাষ্প ঠান্ডা হয়ে কুয়াশা বা শিশির হিসেবে কন­denসেন্স করে; অর্থাৎ ওই তাপমাত্রায় বাতাসের আপেক্ষিক আর্দ্রতা [math]100\\%[/math] হয়। যখন বাতাসের তাপমাত্রা শিশিরাঙ্কের নিচে নামবে, তখন বাষ্প তরল কণায় পরিণত হয়ে শিশির বা কুয়াশা তৈরি হয়—এই কারণেই সংজ্ঞাটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 414479,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 414479,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414479,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414479,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414479,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414479,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414479,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 414479,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "tag_id": 236,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "tag_id": 1,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "tag_id": 6,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414479,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414488,
+      "value": {
+        "options": {
+          "ক": "29°C",
+          "খ": "27°C",
+          "গ": "30°C",
+          "ঘ": "28°C"
+        },
+        "question": "রাজশাহীর শুস্ক থার্মোমিটারের তাপমাত্রা 35°C এবং আর্দ্র থার্মোমিটারের তাপমাত্রা 30°CI 35°C তাপমাত্রায় গ্রেইসারের উৎপাদক 1.6 হলে, শিশিরাঙ্ক কত?",
+        "solution": "[math]\\theta=\\theta_{1}-G\\left(\\theta_{1}-\\theta_{2}\\right)=35-1.6(35-30)=27^{\\circ} \\mathrm{C}[/math]",
+        "explanation": "",
+        "correct_answer": "B.27°C"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 414488,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 414488,
+            "tag_id": 11,
+            "year": "22-23",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414489,
+      "value": {
+        "options": {
+          "ক": "তাপ",
+          "খ": "তাপমাত্রা",
+          "গ": "আর্দ্রতা",
+          "ঘ": "আপেক্ষিক আর্দ্রতা"
+        },
+        "question": "শিশিরাংক বলতে আমরা কি বুঝি?",
+        "solution": "শিশিরাংক হলো সেই তাপমাত্রা যেখানে বাতাস জলীয় বাষ্প দ্বারা সম্পূর্ণ সম্পৃক্ত হয় এবং ঘনীভবন শুরু হয়। এটি বাতাসে থাকা জলীয় বাষ্পের পরিমাণ নির্দেশ করে। সহজ ভাষায়, এটি হলো বাতাসের আর্দ্রতা পরিমাপের একটি উপায়।\n\nআর্দ্রতা (Humidity) হলো বাতাসে জলীয় বাষ্পের উপস্থিতি। শিশিরাংক, আপেক্ষিক আর্দ্রতা (Relative Humidity) এবং পরম আর্দ্রতা (Absolute Humidity) সবই বাতাসের জলীয় বাষ্পের পরিমাণ সম্পর্কিত ধারণা। আপেক্ষিক আর্দ্রতা হলো নির্দিষ্ট তাপমাত্রায় বাতাসে উপস্থিত জলীয় বাষ্পের পরিমাণ এবং ঐ তাপমাত্রায় ধারণযোগ্য সর্বোচ্চ জলীয় বাষ্পের পরিমাণের অনুপাত। তাপমাত্রা (Temperature) এবং তাপ (Heat) হলো ভিন্ন ধারণা।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 414489,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 414489,
+            "tag_id": 502,
+            "year": "17-18",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414491,
+      "value": {
+        "options": {
+          "ক": "[math]-20^{\\circ} \\mathrm{C}[/math]",
+          "খ": "[math]16^{\\circ} \\mathrm{C}[/math]",
+          "গ": "[math]-12^{\\circ} \\mathrm{C}[/math]",
+          "ঘ": "[math]-10^{\\circ} \\mathrm{C}[/math]"
+        },
+        "question": "কত ডিগ্রী সেলসিয়াস তাপমাত্রায় আকাশে পানির কণা জমে যায় এবং শিলা আকারে পৃথিবীতে নেমে আসে?",
+        "solution": "-20°C তাপমাত্রার কাছাকাছি গেলে পানির কণা জমে যায় এবং চারপাশের পানির কণা নিয়ে জমে বলে দ্রুত ঘনত্ব বেড়ে যায়। ঘনত্ব বেড়ে যাওয়ার ফলে ঘনীভূত পিন্ডটি বায়ু আবদ্ধ করে ফেলে এবং গোলকের আকার ধারণ করে যা শিলা আকারে নেমে আসে।",
+        "explanation": "",
+        "correct_answer": "A.[math]-20^{\\circ} \\mathrm{C}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 414491,
+            "year_id": 26
+          }
+        },
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 414491,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 414491,
+            "tag_id": 16,
+            "year": "14-15",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        },
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 414491,
+            "tag_id": 16,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414492,
+      "value": {
+        "options": {
+          "ক": "দুপুরের পরে তাপমাত্রা পুনরায় কমতে থাকে বলে",
+          "খ": "সূর্যোদয়ের পর পর বায়ু জলীয় বাষ্প দ্বারা অসম্পৃক্ত থাকে",
+          "গ": "দুপুরের আগ মূহূর্তে বায়ু পুনরায় অসম্পৃক্ত হয়ে পড়ে",
+          "ঘ": "দুপুরের অসম্পৃক্ত বায়ুতে বাষ্পায়দের হার বন্ধ হয়ে যায়"
+        },
+        "question": "দুপুরের আগেই শিশির তিরোহিত হয় কেন?",
+        "solution": "সূর্যোদয়ের পর তাপমাত্রা বৃদ্ধি পেতে শুরু করে, ফলে শিশির বিন্দু (dew point) অতিক্রম করে যায়। বায়ু যত উত্তপ্ত হয়, তার জলীয় বাষ্প ধারণ করার ক্ষমতা তত বাড়ে। যখন বায়ুর তাপমাত্রা শিশির বিন্দুর উপরে চলে যায়, তখন জলীয় বাষ্প তরল আকারে থাকতে পারে না এবং তা আবার বাষ্পে পরিণত হয়। এই কারণে দুপুরের আগেই শিশির তিরোহিত হয়।\n\nকিছু অতিরিক্ত তথ্য:\n\nশিশির হল জলীয় বাষ্প যখন কোনো ঠান্ডা পৃষ্ঠের সংস্পর্শে এসে ঘনীভূত হয়। এটি সাধারণত রাতে বা ভোরের দিকে ঘটে যখন তাপমাত্রা শিশির বিন্দুর নিচে নেমে যায়।\n\nদিনের বেলায় তাপমাত্রা বাড়লে বায়ুর আর্দ্রতা (relative humidity) কমে যায়, যদিও বায়ুতে থাকা জলীয় বাষ্পের মোট পরিমাণ একই থাকতে পারে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414492,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414493,
+      "value": {
+        "options": {
+          "ক": "[math]2^\\cdot 06[/math]",
+          "খ": "[math]7^\\cdot 82[/math]",
+          "গ": "[math]40^\\cdot 4[/math]",
+          "ঘ": "[math]1^\\cdot99[/math]"
+        },
+        "question": "নিচের কোনটি 10°C তাপমাত্রার শুষ্ক বাল্বের গ্লেসিয়ারের উৎপাদক?",
+        "solution": "এই প্রশ্নের সঠিক উত্তরটি বাল্ব থার্মোমিটারে (dry-bulb thermometer) 10°C তাপমাত্রায় বিদ্যমান জলীয় বাষ্পের চাপকে নির্দেশ করে। শুষ্ক বাল্বের গ্লেসিয়ার (dry-bulb depression) হলো শুষ্ক-বাল্ব এবং ভেজা-বাল্ব তাপমাত্রার মধ্যে পার্থক্য। 10°C তাপমাত্রায়, শুষ্ক-বাল্বের জলীয় বাষ্পের চাপ নির্ভর করে বাতাসের আপেক্ষিক আর্দ্রতার উপর। প্রদত্ত অপশনগুলির মধ্যে, 7.82 mmHg হলো 10°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ (saturation vapor pressure), যা সাধারণত একটি রেফারেন্স মান হিসেবে ব্যবহৃত হয়। শুষ্ক বাল্বের গ্লেসিয়ার সরাসরি ঐ নির্দিষ্ট তাপমাত্রার জলীয় বাষ্পের চাপকে বোঝায় না, বরং এটি আর্দ্রতা পরিমাপের সাথে সম্পর্কিত। তবে, প্রশ্নটি সম্ভবত \"10°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ কত?\" এই প্রশ্নটিরই একটি পরিবর্তিত রূপ, যেখানে \"গ্লেসিয়ার\" শব্দটি ভুলভাবে ব্যবহৃত হয়েছে। এই তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ প্রায় 7.82 mmHg (বা 1.04 kPa)। অন্যান্য বিকল্পগুলি এই তাপমাত্রার জন্য সঠিক জলীয় বাষ্পের চাপকে প্রতিনিধিত্ব করে না।",
+        "explanation": "",
+        "correct_answer": "A.[math]2^\\cdot 06[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414493,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414494,
+      "value": {
+        "options": {
+          "ক": "শূন্য",
+          "খ": "50%",
+          "গ": "75%",
+          "ঘ": "100%"
+        },
+        "question": "আপেক্ষিক আর্দ্রতা কত হলে শিশিরাঙ্ক বায়ুর তাপমাত্রার সমান হবে?",
+        "solution": "যখন আপেক্ষিক আর্দ্রতা 100% হয়, তখন বায়ু জলীয় বাষ্পে সম্পূর্ণরূপে সম্পৃক্ত থাকে। এই অবস্থায়, শিশিরাঙ্ক (dew point) বায়ুর তাপমাত্রার (air temperature) সমান হয়, যার মানে হল বাতাসে আর জলীয় বাষ্প ধারণ করার ক্ষমতা থাকে না এবং ঘনীভবন শুরু হওয়ার সম্ভাবনা থাকে।\n\nশিশিরাঙ্ক হল সেই তাপমাত্রা যেখানে একটি নির্দিষ্ট পরিমাণ বায়ুকে শীতল করলে তা জলীয় বাষ্প দ্বারা সম্পৃক্ত হয় এবং ঘনীভবন শুরু হয়। আপেক্ষিক আর্দ্রতা হল বায়ুর জলীয় বাষ্প ধারণ করার ক্ষমতার একটি পরিমাপ, যা সম্পৃক্ততার শতাংশ হিসেবে প্রকাশ করা হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414494,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414495,
+      "value": {
+        "options": {
+          "ক": "তাপ",
+          "খ": "তাপমাত্রা",
+          "গ": "আর্দ্রতা",
+          "ঘ": "আপেক্ষিক আর্দ্রতা"
+        },
+        "question": "শিশিরাংক মূলত—",
+        "solution": "শিশিরাঙ্ক হলো সেই নির্দিষ্ট তাপমাত্রা যেখানে বাতাস জলীয় বাষ্প দ্বারা সম্পৃক্ত হয় এবং জলীয় বাষ্প ঘনীভূত হয়ে তরল জল বা শিশিরে পরিণত হয়। এটি মূলত বাতাসের জলীয় বাষ্প ধারণের ক্ষমতার সাথে সম্পর্কিত, যা আপেক্ষিক আর্দ্রতা নামে পরিচিত। শিশিরাঙ্ক যত বেশি হবে, বাতাসে জলীয় বাষ্পের পরিমাণ তত বেশি থাকবে।\n\nশিশিরাঙ্ক (Dew Point) এবং আপেক্ষিক আর্দ্রতা (Relative Humidity) একে অপরের সাথে নিবিড়ভাবে সম্পর্কিত। আপেক্ষিক আর্দ্রতা হলো বাতাসে উপস্থিত জলীয় বাষ্পের প্রকৃত পরিমাণ এবং নির্দিষ্ট তাপমাত্রায় বাতাসে সর্বাধিক জলীয় বাষ্প ধারণ করার ক্ষমতার অনুপাত। যখন আপেক্ষিক আর্দ্রতা ১০০% হয়, তখন বাতাসের তাপমাত্রা শিশিরাঙ্কের সমান হয়।\n\nজলীয় বাষ্প ঘনীভূত হওয়ার জন্য একটি নির্দিষ্ট তাপমাত্রার প্রয়োজন হয়, যা শিশিরাঙ্ক। তাই শিশিরাঙ্ক তাপমাত্রার একটি পরিমাপ। তবে, প্রশ্নে \"মূলত\" শব্দটি ব্যবহার করায় এবং বিকল্পগুলির মধ্যে \"তাপমাত্রা\" এবং \"আপেক্ষিক আর্দ্রতা\" উভয়ই উপস্থিত থাকায়, শিশিরাঙ্ককে সরাসরি তাপমাত্রা হিসাবে ব্যাখ্যা করা যায়। আর্দ্রতা (Humidity) একটি সাধারণ শব্দ, যেখানে আপেক্ষিক আর্দ্রতা (Relative Humidity) নির্দিষ্টভাবে বাতাসের সম্পৃক্ততার মাত্রা বোঝায়। শিশিরাঙ্ক একটি নির্দিষ্ট তাপমাত্রা, যা নির্দেশ করে যে বাতাসের আর্দ্রতা কতখানি। এটি পরোক্ষভাবে আপেক্ষিক আর্দ্রতার উপর নির্ভর করলেও, শিশিরাঙ্ক নিজেই একটি তাপমাত্রা।",
+        "explanation": "",
+        "correct_answer": "B. তাপমাত্রা"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414495,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 244,
+          "full_name": "Rajuk Uttara Model College, Dhaka",
+          "short_name": "RUMC",
+          "slug": "rumc",
+          "pivot": {
+            "question_bank_id": 414495,
+            "tag_id": 244,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414496,
+      "value": {
+        "options": {
+          "ক": "40%",
+          "খ": "50%",
+          "গ": "80%",
+          "ঘ": "100%"
+        },
+        "question": "আপেক্ষিক আর্দ্রতা কত হলে শিশিরাংক বায়ুর তাপমাত্রার সমান হবে?",
+        "solution": "যখন আপেক্ষিক আর্দ্রতা ১০০% হয়, তখন শিশিরাংক বায়ুর তাপমাত্রার সমান হয়। এর কারণ হলো, আপেক্ষিক আর্দ্রতা হলো নির্দিষ্ট তাপমাত্রায় বায়ুতে উপস্থিত জলীয় বাষ্পের পরিমাণ এবং ওই তাপমাত্রায় বায়ুর জলীয় বাষ্প ধারণ করার সর্বোচ্চ ক্ষমতার অনুপাত। যখন আপেক্ষিক আর্দ্রতা ১০০%, তখন বায়ু জলীয় বাষ্পে সম্পূর্ণরূপে সম্পৃক্ত থাকে। এই অবস্থায়, তাপমাত্রা কমলে বাষ্প ঘনীভূত হয়ে জলকণায় পরিণত হতে শুরু করে, যা শিশির সৃষ্টি করে। শিশিরাংক হলো সেই তাপমাত্রা যেখানে বায়ু সম্পৃক্ত অবস্থায় পৌঁছায় এবং ঘনীভবন শুরু হয়। তাই, আপেক্ষিক আর্দ্রতা ১০০% হলে শিশিরাংক বায়ুর বর্তমান তাপমাত্রার সমান হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414496,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3526,
+          "full_name": "Lakshmipur Government College",
+          "short_name": "LGC",
+          "slug": "lgc",
+          "pivot": {
+            "question_bank_id": 414496,
+            "tag_id": 3526,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414474,
+      "value": {
+        "options": {
+          "গ": "ঐ দিনের শিশিরাঙ্ক কত?"
+        },
+        "question": "একদিন শুষ্ক ও সিক্ত বাল্ব হাইগ্রোমিটারে পাঠ যথাক্রমে [math]20^\\circ C[/math] এবং [math]12.8^\\circ C[/math] পাওয়া গেল। [math]20^\\circ C[/math] তাপমাত্রায় গ্লেসিয়ারের উৎপাদক [math]1.79[/math]। [math]7 ^\\circ C,\\ 8 ^\\circ C[/math] এবং [math]20^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে [math]7.5 \\times 10^{-3} \\mathrm{~m} \\mathrm{HgP}, 8.1 \\times 10^{-3} \\mathrm{~m} \\mathrm{HgP}[/math] এবং [math]17.4 \\times 10^{-3} \\mathrm{~m} \\mathrm{HgP}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, ঐ দিনের শিশিরাঙ্ক, [math]\\theta[/math]\u003Cbr\u003Eউদ্দীপক হতে পাই, শুষ্ক বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{1}=20^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eসিক্ত বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{2}=12.8^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেসিয়ারের ধ্রুবক, G = 1.79আমরা জানি,[math]\\hspace{.5cm}\\begin{array}{ll}&\\theta_1-\\theta=\\mathrm{G}\\left(\\theta_1-\\theta_2\\right)\\\\\\Rightarrow&\\theta=\\theta_1-\\mathrm{G}\\left(\\theta_1-\\theta_2\\right)\\\\\\Rightarrow&\\theta=20^{\\circ}-1.79\\left(20^{\\circ}\\mathrm{C}-12.8^{\\circ}\\mathrm{C}\\right)\\\\&=20^{\\circ}\\mathrm{C}-12.888^{\\circ}\\mathrm{C}=7.112^{\\circ}\\mathrm{C}\\end{array}[/math]\u003Cbr\u003Eঅতএব, ঐ দিনের শিশিরাঙ্ক [math]7.112^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: গ্লেসিয়ারের সূত্রানুযায়ী প্রকৃত বাষ্পচাপ [math]e = e_s(T_w) - \\dfrac{T_d-T_w}{1.79}\\times10^{-3}\\text{ mHg}[/math]; এখানে [math]T_d-T_w=20-12.8=7.2^\\circ C[/math].  দিব্যুৎচাপকে সীমান্তবিন্দু থেকে ইন্টারপোলেট করে [math]e_s(12.8)\\approx11.82\\times10^{-3}\\text{ mHg}[/math] পাওয়া যায়, ফলে [math]e\\approx11.82\\times10^{-3}-4.02\\times10^{-3}=7.80\\times10^{-3}\\text{ mHg}[/math].  এই মানটি [math]7.5\\times10^{-3}[/math] (৭°C) এবং [math]8.1\\times10^{-3}[/math] (৮°C)-এর মাঝে পড়ায় শিশিরাঙ্ক প্রায় [math]7.5^\\circ C[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414474,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3405,
+          "full_name": "Govt. Majid Mammorial City College. Khulna",
+          "short_name": "GMMCCK",
+          "slug": "gmmcck",
+          "pivot": {
+            "question_bank_id": 414474,
+            "tag_id": 3405,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:20.000000Z",
+            "updated_at": "2025-08-19T06:54:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414478,
+      "value": {
+        "options": {
+          "ঘ": "তাপমাত্রা পরিবর্তনে ঐ স্থানের আবদ্ধ বায়ুর শিশিরাঙ্ক পরিবর্তিত হবে কি না— গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।"
+        },
+        "question": "কোনো একটি পরীক্ষণে জাফলংয়ের আবদ্ধ বায়ুর তাপমাত্রা [math]19^\\circ C[/math] এবং শিশিরাঙ্ক [math]7.4^\\circ C[/math] পাওয়া গেল । শৈত প্রবাহে ঐ স্থানের তাপমাত্রা কমে [math]15^\\circ C[/math] হলো। [math]7^\\circ C,\\ 8^\\circ C[/math] এবং [math]19^\\circ C[/math] তাপমাত্রায় ঐ স্থানের সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]7.5, \\ 8.2[/math] এবং [math]16.5\\ mm[/math] পারদ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, 19 °C ও 15°C তাপমাত্রায় ঐ স্থানের অসম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]\\mathrm{P}_{1}[/math]\u003Cbr\u003E ও [math]\\mathrm{P}_{2}[/math]\u003Cbr\u003E হলে শিশিরাঙ্কের সংজ্ঞানুসারে,[math]\\mathrm{P}_{1}=19^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় অসম্পৃক্ত জলীয় বাষ্পের চাপ[math]\\hspace{.7cm}=7.4^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ[math]\\hspace{.7cm}=7.78 \\mathrm{~mm} \\mathrm{~Hg}[/math]\u003Cbr\u003Eআবার, স্থানটি আবদ্ধ বলে বায়ুর আয়তন নির্দিষ্ট[math]\\hspace{1.5cm}\\therefore \\quad \\frac{\\mathrm{P}_{1}}{\\mathrm{P}_{2}}=\\frac{\\mathrm{T}_{1}}{\\mathrm{~T}_{2}}=\\frac{19+273}{15+273}=\\frac{292}{288}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পরিবর্তিত জলীয় বাষ্প চাপ, [math]\\mathrm{P_2=P_1\\times\\frac{T_2}{T_1}}[/math]\u003Cbr\u003E [math]\\hspace{5.7cm}\\begin{array}{l}=7.78 \\times \\frac{288}{292} \\\\=7.67 \\mathrm{~mm} \\mathrm{~Hg}\\end{array}[/math]\u003Cbr\u003Eএখন, পরিবর্তিত শিশিরাঙ্ক t °C হলে, t°C তাপমাত্রায় সম্পৃক্ত বাষ্পের চাপ [math]=7.67 \\mathrm{~mm} \\mathrm{~Hg}[/math]\u003Cbr\u003E [math]\\therefore(8.2-7.5)[/math]\u003Cbr\u003E বা [math]=0.7 \\mathrm{~mm} \\mathrm{~Hg}[/math]\u003Cbr\u003E চাপের পরিবর্তন হয় (8 - 7) °Cবা 1 °C তাপমাত্রা পরিবর্তনের জন্য[math]\\therefore(7.67-7.5)[/math]\u003Cbr\u003E বা [math]=0.17 \\mathrm{~mm} \\mathrm{~Hg}[/math]\u003Cbr\u003E, চাপ বৃদ্ধির জন্য7 °C থেকে তাপমাত্রা বৃদ্ধি পাবে [math]=\\frac{1}{0.7} \\times 17^{\\circ} \\mathrm{C}=0.24^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শিশিরাঙ্কের পরিবর্তন = (7 + 0.24) °C = 7.24°Cঅতএব, তাপমাত্রার পরিবর্তনে ঐ স্থানের আবদ্ধ বায়ুর শিশিরাঙ্ক পরিবর্তিত হবে। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: শিশিরাঙ্ক নির্ধারিত হয় বাতাসে থাকা প্রকৃত জলীয় বাষ্পচাপ দ্বারা, তাপমাত্রা পরিবর্তনে তা নিজেরাই না বদলে যতক্ষণ বাষ্পকণার কোন যোগ বা অপসারণ না ঘটে। ৫–৮°C টেবিল থেকে [math]7.4^\\circ C[/math]–এ স্যাচুরেশন চাপ প্রায় [math]7.5+0.4(8.2-7.5)=7.78\\ mm[/math]। শৈতপ্রবাহে তাপমাত্রা [math]15^\\circ C[/math] হলে যেহেতু সেটি শিশিরাঙ্কের ([math]≈7.4^\\circ C[/math]) উপর রয়েছে এবং বাষ্পচাপ অপরিবর্তিত থাকলে কোন ঘনত্ব ঘটবে না, তাই শিশিরাঙ্ক অপরিবর্তিত থাকবে—অর্থাৎ \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অনুযায়ী পরিবর্তন হবে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414478,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3511,
+          "full_name": "Patuakhali Government Mahila College",
+          "short_name": "PGMC",
+          "slug": "pgmc",
+          "pivot": {
+            "question_bank_id": 414478,
+            "tag_id": 3511,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:21.000000Z",
+            "updated_at": "2025-08-19T06:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414477,
+      "value": {
+        "options": {
+          "গ": "ঐ দিনের শিশিরাঙ্ক নির্ণয় কর।"
+        },
+        "question": "একদিন হাইগ্রোমিটারের পাঠ নিতে গিয়ে দেখা গেল শুষ্ক ও আর্দ্র বালবের তাপমাত্রা যথাক্রমে [math]20^\\circ C[/math] এবং [math]12.8^\\circ C, 20^\\circ C[/math] তাপমাত্রায় গ্রেইসারের উৎপাদক [math]1.79[/math]। [math]7 ^\\circ C,\\ 8^\\circ C\\ ও\\ 20^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে [math]7.5 \\times 10^{-3}, 8.1 \\times 10^{-3}[/math] ও [math]17.4 \\times 10^{-3}[/math] পারদচাপ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, ঐ দিনের শিশিরাঙ্ক, [math]\\theta[/math]\u003Cbr\u003Eউদ্দীপক হতে পাই, শুষ্ক বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{1}=20^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eসিক্ত বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{2}=12.8^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেসিয়ারের উৎপাদক, G = 1.79আমরা জানি, [math]\\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\begin{aligned}\\Rightarrow\\theta & =\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\& =20^{\\circ} \\mathrm{C}-1.79\\left(20^{\\circ} \\mathrm{C}-12.8^{\\circ} \\mathrm{C}\\right)=20^{\\circ} \\mathrm{C}-12.888^{\\circ} \\mathrm{C}=7.112^{\\circ} \\mathrm{C}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, ঐ দিনের শিশিরাঙ্ক [math]7.112^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414477,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3515,
+          "full_name": "Central Women's College,",
+          "short_name": "CWC",
+          "slug": "cwc",
+          "pivot": {
+            "question_bank_id": 414477,
+            "tag_id": 3515,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:20.000000Z",
+            "updated_at": "2025-08-19T06:54:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414476,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের পরীক্ষণীয় স্থানে শিশিরাংক কত?"
+        },
+        "question": "তন্দ্রাকে হাইগ্রোমিটার পাঠ দেখে একটি নির্দিষ্ট এলাকার আবহাওয়া পূর্বাভাস দিতে বলা হলো। হাইগ্রোমিটারের শুষ্ক ও সিল্ক বাল্বের তাপমাত্রা যথাক্রমে [math]28 ^\\circ C\\ ও\\ 12.8^\\circ C[/math]। তন্দ্রা বলল শুষ্ক ও রোদ ঝলমলে আবহাওয়া থাকবে। [math]28^\\circ C[/math] তাপমাত্রায় গ্লেইসারের উৎপাদক [math]1.67[/math] । [math]2^\\circ ,\\ 4^\\circ \\ ও\\ 28^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্প চাপ যথাক্রমে [math]5.29 \\times 10^{-3} \\mathrm{~m},\\ 6.10 \\times 10^{-3} \\mathrm{~m}[/math] এবং [math]28.35 \\times 10^{-3} \\mathrm{~m}[/math] পারদ চাপ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, শুষ্ক বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{1}=28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eআর্দ্র বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{2}=12.8^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্রেইসারের উৎপাদক, G = 1.67শিশিরাঙ্ক, [math]\\theta=?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\theta_{1}-\\theta=G\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{aligned}\\Rightarrow\\theta & =\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\& =28^{\\circ} \\mathrm{C}-1.67\\left(28^{\\circ} \\mathrm{C}-12.8^{\\circ} \\mathrm{C}\\right) \\\\& =2.616^{\\circ} \\mathrm{C}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব উদ্দীপকের পরীক্ষণীয় স্থানে শিশিরাঙ্ক [math]2.616^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414476,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3436,
+          "full_name": "শাহপরান সরকারি কলেজ, সিলেট",
+          "short_name": "SGCS",
+          "slug": "sgcs",
+          "pivot": {
+            "question_bank_id": 414476,
+            "tag_id": 3436,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:20.000000Z",
+            "updated_at": "2025-08-19T06:54:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414475,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের কোন স্থানে একজন ব্যক্তি বেশি স্বস্থিবোধ করবে? গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "[math]A[/math] স্থানের একটি হ্রদের তলদেশ হতে একটি বায়ু বুদবুদ পানির উপরিতলে আসায় বুদবুদের ব্যাসার্ধ দ্বিগুণ হয় । হ্রদটিতে বায়ুমণ্ডলের চাপ [math]10^{3} \\mathrm{~Pa}[/math], বায়ুর তাপমাত্রা [math]18.6^\\circ C[/math] এবং আপেক্ষিক আর্দ্রতা [math]52.4\\%[/math]। অন্য কোনো দিন [math]B[/math] স্থানের জন্য একটি অন্য একটি হ্রদে বায়ুর তাপমাত্রা [math]A[/math] স্থানের হ্রদের সমান এবং শিশিরাংক [math]7.4^\\circ C[/math]। [math]7^\\circ C,\\ 8^\\circ C,\\ 18^\\circ C[/math] ও [math]19^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]7.5 \\times 10^{-3} \\mathrm{~m},\\ 8.2 \\times 10^{-3} \\mathrm{~m},\\ 15.6 \\times 10^{-3} \\mathrm{~m},\\ 16.5 \\times 10^{-3} \\mathrm{~m}[/math] পারদ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, A স্থানের আপেক্ষিক আর্দ্রতা, [math]\\mathrm{R}_{\\mathrm{A}}=52.4 \\%[/math]\u003Cbr\u003EB স্থানে : 8 °C - 7 °C = 1 °C তাপমাত্রা ব্যবধানের জন্য সম্পৃক্ত জলীয় বাষ্প চাপের পরিবর্তন-[math]\\hspace{1.5cm}=(8.2-7.5) \\times 10^{-3} \\mathrm{~m}=7 \\times 10^{-4} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore 0.4^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রার তারতম্যের জন্য সম্পৃক্ত জলীয় বাষ্পচাপের পরিবর্তন-[math]\\hspace{1.5cm}=7 \\times 10^{-4} \\times 0.4 \\mathrm{~m}=2.8 \\times 10^{-4} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শিশিরাঙ্কে সম্পৃক্ত জলীয় বাষ্পচাপ,[math]\\hspace{1.5cm}f_{\\mathrm{B}}=\\left(7.5 \\times 10^{-3}+2.8 \\times 10^{-4}\\right) \\mathrm{m}=7.78 \\times 10^{-3} \\mathrm{m}[/math]\u003Cbr\u003Eআবার, (19 °C – 18 °C) = 1 °C তাপমাত্রার পরিবর্তনের জন্য সম্পৃক্ত জলীয় বাষ্পচাপের পরিবর্তন[math]\\hspace{1.5cm}=(16.5-15.6) \\times 10^{-3} \\mathrm{~m}=9 \\times 10^{-4} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore 0.6^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রার তারতম্যের জন্য সম্পৃক্ত জলীয় বাষ্পচাপের পরিবর্তন[math]\\hspace{1.5cm}=\\left(0.6 \\times 9 \\times 10^{-4}\\right) \\mathrm{m}=5.4 \\times 10^{-4} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E বায়ুর তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ,[math]\\hspace{1.5cm}\\mathrm{F}_{\\mathrm{B}}=\\left(15.6 \\times 10^{-3}+5.4 \\times 10^{-4}\\right) \\mathrm{m}=16.14 \\times 10^{-3} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E B স্থানে আপেক্ষিক আর্দ্রতা,[math]\\hspace{1.5cm}\\begin{array}{l}\\mathrm{\\ \\ \\ \\ \\ R}_{\\mathrm{B}}=\\frac{f_B}{\\mathrm{~F}_B}\\times 100\\%=\\frac{7.78\\times 10^{-3}}{16.14\\times 10^{-3}}\\times 100\\%\\\\\\therefore \\quad \\mathrm{R}_{\\mathrm{B}}=48.2\\%\\\\\\end{array}[/math]\u003Cbr\u003Eসুতরাং [math]\\mathrm{R_{A}\u003ER_{B}}[/math]\u003Cbr\u003E অর্থাৎ, A স্থানের আপেক্ষিক আর্দ্রতা B স্থানের আপেক্ষিক আর্দ্রতা অপেক্ষা বেশি। অতএব B স্থানে একজন ব্যক্তি বেশি স্বস্তি বোধ করবে। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: B স্থানে আপেক্ষিক আর্দ্রতা হিসাব করলে দেখা যায় [math]\\text{RH}_B=\\dfrac{e_s(7.4^\\circ C)}{e_s(18.6^\\circ C)}\\approx\\dfrac{7.5\\times10^{-3}}{15.6\\times10^{-3}}=0.48=48\\%[/math], যা A স্থানের [math]52.4\\%[/math] থেকে কম; তাই B স্থানে বাতাস তুলনামূলকভাবে শুষ্ক এবং মানুষ সাধারণত কম আর্দ্রতায় বেশি স্বস্তিবোধ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414475,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3432,
+          "full_name": "BAF Shaheen college, Jessore",
+          "short_name": "BAFSCJ",
+          "slug": "bafscj",
+          "pivot": {
+            "question_bank_id": 414475,
+            "tag_id": 3432,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:20.000000Z",
+            "updated_at": "2025-08-19T06:54:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414473,
+      "value": {
+        "options": {
+          "গ": "কক্সবাজারের শিশিরাংক নির্ণয় কর।"
+        },
+        "question": "কোনো একদিন কক্সবাজারে শুষ্ক ও সিক্ত বাদ আর্দ্রতামাপক যন্ত্রে পাঠ পাওয়া গেল [math]30^\\circ C[/math] ও [math]28 ^\\circ C[/math]। উত্ত আর্দ্রতামাপক যন্ত্রটিকে একই দিনে বগুড়াতে নেয়া হলো এবং সেখানে বায়ুর তাপমাত্রা পাওয়া গেল 30°C ও শিশিরাংক [math]21.5^\\circ C[/math]। [math]30^\\circ C[/math] তাপমাত্রায় প্লেইসারের উৎপাদক [math]1.656[/math] এবং [math]20^\\circ C[/math], [math]22 ^\\circ C[/math], [math]26 ^\\circ C[/math], [math]28^\\circ C[/math] ও [math]30^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে [math]17.55 \\times 10^{-3} \\mathrm{~m} \\mathrm{Hg}, 22.55 \\times 10^{-3} \\mathrm{~m}, 25.25 \\times 10^{-3} \\mathrm{mHg} 28 .6 \\times 10^{-3} \\mathrm{~m } \\mathrm{Hg}\\ ও\\ 31.85 \\times 10^{-3} \\mathrm{~m} \\mathrm{Hg}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, কক্সবাজারের শিশিরাঙ্ক, [math]\\theta[/math]\u003Cbr\u003Eউদ্দীপক হতে পাই, শুষ্ক বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{1}=30^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eসিক্ত বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{2}=28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেসিয়ারের উৎপাদক, G = 1.65আমরা জানি, [math]\\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{aligned}\\Rightarrow\\theta & =\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\& =30^{\\circ} \\mathrm{C}-1.65\\left(30^{\\circ} \\mathrm{C}-28^{\\circ} \\mathrm{C}\\right)=30^{\\circ} \\mathrm{C}-3.3^{\\circ} \\mathrm{C}=26.7^{\\circ} \\mathrm{C}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, কক্সবাজারের শিশিরাঙ্ক [math]26.7^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: শিশিরাংক নির্ণয়ের জন্য প্রথমে বাস্তব বাষ্পচাপ নির্ণয় করি Plessier সূত্র ব্যবহার করে: [math]e = e_s(T_{wet}) - A\\,(T_{dry}-T_{wet})[/math] এখানে [math]e_s(28^\\circ C)=28.6\\times10^{-3}\\ \\mathrm{mHg}[/math], [math]A=1.656\\times10^{-3}\\ \\mathrm{mHg/^\\circ C}[/math] এবং [math]T_{dry}-T_{wet}=2^\\circ C[/math], ফলে [math]e=28.6\\times10^{-3}-1.656\\times10^{-3}\\times2=25.288\\times10^{-3}\\ \\mathrm{mHg}[/math]. টেবিল অনুযায়ী [math]25.25\\times10^{-3}\\ \\mathrm{mHg}[/math] প্রায় [math]26^\\circ C[/math]‑এর সম্পৃক্ত বাষ্পচাপ, তাই শিশিরাংক ≈ [math]26^\\circ C[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414473,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 414473,
+            "tag_id": 3179,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:20.000000Z",
+            "updated_at": "2025-08-19T06:54:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414472,
+      "value": {
+        "options": {
+          "গ": "ঐদিন পাবনায় শিশিরাঙ্ক কত ছিল?"
+        },
+        "question": "একজন আবহাওয়াবিদ দৈনিক প্রতিবেদন তৈরির জন্য কোনো একদিন ঢাকা ও পাবনাতে স্থাপিত দুটি সিক্ত ও শুষ্ক বালব আর্দ্রতামাপক যন্ত্রের মাধ্যমে নিচের উপাত্তগুলো সংগ্রহ করলেন :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-00102_1755586460_coIt1Ljs.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[ [math]14^\\circ C,\\ 16^\\circ C,\\ 28^\\circ C,\\ 30^\\circ C,\\ 32^\\circ C,\\ 34^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্প চাপ যথাক্রমে [math]11.99,\\ 13.63,\\ 28.35,\\ 31.83,\\ 35.66[/math] এবং [math]39.90\\ mm\\ Hg[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,পাবনায় শুষ্ক বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{1}=32.5^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eপাবনায় আর্দ্র বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{2}=22^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেসিয়ারের ধ্রুবক, G = 1.625শিশিরাঙ্ক, [math]\\theta = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{.5cm}\\begin{array}{ll}&\\theta_1-\\theta=\\mathrm{G}\\left(\\theta_1-\\theta_2\\right)\\\\\\Rightarrow&\\theta=\\theta_1-\\mathrm{G}\\left(\\theta_1-\\theta_2\\right)\\\\\\Rightarrow&\\theta=32.5^{\\circ}-1.625\\left(32.5^{\\circ}\\mathrm{C}-22^{\\circ}\\mathrm{C}\\right)\\\\&=15.4375^{\\circ}\\mathrm{C}\\end{array}[/math]\u003Cbr\u003Eঅতএব, ঐ দিন পাবনায় শিশিরাঙ্ক [math]15.4375^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শিশিরাঙ্ক নির্ণয়ের জন্য vået‑bulb থেকে বাষ্পচাপ বের করি: [math]e=e_s(T_w)-0.00066\\times760\\times(T-T_w)=35.66-0.5016(34-32)=34.6568\\ mmHg[/math].  \nতারপর টেবিল থেকে এই বাষ্পচাপে অনুপাতে ইন্টারপোলে করে শিশিরাঙ্ক পাই: [math]T_d\\approx32-\\frac{35.66-34.6568}{(35.66-31.83)/2}=31.48\\ ^\\circ C\\ (\\approx31.5^\\circ C)[math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414472,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 248,
+          "full_name": "Pabna Cadet College",
+          "short_name": "PCC",
+          "slug": "pcc",
+          "pivot": {
+            "question_bank_id": 414472,
+            "tag_id": 248,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:20.000000Z",
+            "updated_at": "2025-08-19T06:54:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414471,
+      "value": {
+        "options": {
+          "গ": "ঢাকায় শিশিরাঙ্ক কত?"
+        },
+        "question": "কামরুল সাহেব কোনো একটি নির্দিষ্ট দিনে ঢাকা ও সিলেটের আবহাওয়া পর্যবেক্ষণ করতে হাইগ্রোমিটারের সাহায্যে নিম্নোক্ত উপাত্তসমূহ সংগ্রহ করলেন।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-90091_1755586459_B8UIXo0k.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eগে এখানে, ঢাকায় শুষ্ক বাল্ব থার্মোমিটারের গাঠ, [math]\\theta_{1}=32.5^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eসিক্ত বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{2}=22^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেইসারের ধ্রুবক, G = 1.625শিশিরাঙ্ক, [math]\\theta = ?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\begin{aligned}\\Rightarrow\\theta & =\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\& =32.5^{\\circ} \\mathrm{C}-1.625\\left(32.5^{\\circ} \\mathrm{C}-22^{\\circ} \\mathrm{C}\\right)=15.4375^{\\circ} \\mathrm{C}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, ঐ দিনে ঢাকার শিশিরাঙ্ক [math]15.4375^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E– এই অপশনের সঠিকতা যাচাই করার জন্য দরকার ঢাকার মূল উপাত্ত (শুকনো-বাল্ব ও ভেজা-বাল্ব তাপমাত্রা বা আপেক্ষিক আর্দ্রতা) যা ছবিতে আছে; অনুগ্রহ করে সেই সংখ্যাগুলো দিন। সাধারণভাবে শিশিরাঙ্ক বের করতে শুকনো-বাল্ব [math]T[/math] ও ভেজা-বাল্ব [math]T_w[/math] থেকে সাইক্রমেট্রিক চার্ট বা ম্যাগনাস সূত্র ব্যবহার করা হয়; আপেক্ষিক আর্দ্রতা [math]RH[/math] থাকলে ম্যাগনাস সূত্র হলো: [math]T_d=\\frac{b\\gamma(T,RH)}{a-\\gamma(T,RH)},\\ \\gamma=\\ln(RH/100)+\\frac{aT}{b+T},\\ a=17.27,\\ b=237.7^\\circ C.[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414471,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3534,
+          "full_name": "Netrakona Govt. College, Netrakona",
+          "short_name": "NGCN",
+          "slug": "ngcn",
+          "pivot": {
+            "question_bank_id": 414471,
+            "tag_id": 3534,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:19.000000Z",
+            "updated_at": "2025-08-19T06:54:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414470,
+      "value": {
+        "options": {
+          "গ": "তোমার কলেজের ল্যাবরেটরিতে ঐ দিনের শিশিরাঙ্ক কত ছিল?"
+        },
+        "question": "কোন একদিন তোমার কলেজের ল্যাবরেটরিতে শুষ্ক ও সিক্ত বাল্ব আর্দ্রতা মাপক যন্ত্রের শুষ্ক ও সিক্ত বাল্বের পাঠ যথাক্রমে [math]30^\\circ C[/math] ও [math]22^\\circ C[/math] পাওয়া গেল ৷ তোমার পদার্থবিজ্ঞানের শিক্ষক বললেন আপেক্ষিক আর্দ্রতা [math]60\\%[/math] এর উপরে থাকলে কোন স্থানে বৃষ্টি হওয়ার সম্ভাবনা থাকে। ভিন্ন ভিন্ন তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ ও গ্লেইসারের উৎপাদকের মান নিচের সারণি-১ এ প্রদত্ত হলো :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-10kk_1755586458_Pk274Xl8.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, শুষ্ক বাঘের তাপমাত্রা, [math]\\theta_{1}=30^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eআর্দ্র বাঘের তাপমাত্রা, [math]\\theta_{2}=22^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]30^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় গ্রেইসারের উৎপাদক, G = 1.65শিশিরাংক, [math]\\theta =?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\theta= \\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\Rightarrow\\theta=30-1.65(30-22)[/math]\u003Cbr\u003Eসুতরাং, [math]\\theta =16.8^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eআমার কলেজের ল্যাবরেটরিতে ঐ দিনের শিশিরাংক [math]16.8^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E ছিল। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শিশিরাঙ্ক নির্ণয়ে প্রথমে কার্যতীয় বাষ্পচাপ বের করি: টেবিল থেকে [math]e_s(22)\\approx26.4\\ \\text{hPa}[/math] এবং গ্লেইসারের গুণক ধরা হলো [math]\\gamma\\approx0.66\\ \\text{hPa}/^\\circ C[/math], তাই [math]e=26.4-0.66(30-22)=26.4-5.28=21.12\\ \\text{hPa}[/math]। এরপর সেই কার্যতীয় বাষ্পচাপে মিলনকারী শিশিরাঙ্ক হলো প্রায় [math]T_d\\approx18.4^\\circ C[/math], তাই শিশিরাঙ্ক ≈ [math]18.4^\\circ C[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414470,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3338,
+          "full_name": "Monipur Uchcha Vidyalaya and College, Dhaka",
+          "short_name": "MUVCD",
+          "slug": "muvcd",
+          "pivot": {
+            "question_bank_id": 414470,
+            "tag_id": 3338,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:18.000000Z",
+            "updated_at": "2025-08-19T06:54:18.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414469,
+      "value": {
+        "options": {
+          "গ": "রাজশাহীর শিশিরাঙ্ক নির্ণয় কর।"
+        },
+        "question": "কোন একদিন রাজশাহী ও চট্টগ্রামে শুষ্ক ও সিক্ত বাল্‌ব হাইগ্রোমিটারের পাঠ নিম্নরূপ :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-1003_1755586457_N3N18hQu.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[math]10^\\circ C,\\ 20^\\circ C,\\ 26^\\circ C,\\ 28^\\circ C\\ ও\\ 30^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]9.21\\ mm,\\ 17.6\\ mm,\\ 24.48\\ mm,\\ 25.25\\ mm\\ ও\\ 31.85\\ mm[/math] পারদ চাপ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E15 এখানে, রাজশাহীতে শুষ্ক বাল্বের তাপমাত্রা, [math]\\theta_{1}=30^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eরাজশাহীতে সিক্ত বাল্বের তাপমাত্রা, [math]\\theta_{2}=28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লোসিয়ারের উৎপাদক, G = 1.65শিশিরাঙ্ক, [math]\\theta=?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{array}{l}\\Rightarrow\\theta=\\theta_1-\\mathrm{G}\\left(\\theta_1-\\theta_2\\right)\\\\\\Rightarrow\\theta=30-1.65(30-28)\\\\\\therefore\\theta=26.7^{\\circ}\\mathrm{C}\\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ রাজশাহীর শিশিরাঙ্ক, [math]26.7^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শিশিরাঙ্ক নির্ণয়ের জন্য প্রথমে বায়বীয় বাষ্পচাপ নির্ণয় করি, যেখানে [math]e=e_s(T_w)-0.00066P(T_d-T_w)[/math] এবং [math]P\\approx760\\ mm.[math] রাজশাহীর ক্ষেত্রে [math]T_d=30^\\circ C,\\ T_w=28^\\circ C[/math] হলে\n[math]e=25.25-0.00066\\times760\\times(30-28)=25.25-1=24.25\\ mm.[/math]\nশিশিরাঙ্ক সেই তাপমাত্রা যেখানে সম্পৃক্ত বাষ্পচাপ [math]24.25\\ mm[/math], যা টেবিলে [math]26^\\circ C[/math] (কারণ [math]e_s(26^\\circ C)=24.48\\ mm[/math]) এর কাছে, তাই শিশিরাঙ্ক ≈ [math]26^\\circ C.[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414469,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1154,
+          "full_name": "Dhaka City College",
+          "short_name": "DCC",
+          "slug": "dcc",
+          "pivot": {
+            "question_bank_id": 414469,
+            "tag_id": 1154,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:17.000000Z",
+            "updated_at": "2025-08-19T06:54:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414468,
+      "value": {
+        "options": {
+          "ঘ": "তাপমাত্রার পরিবর্তনে ঐ স্থানের আবদ্ধ বায়ুর শিশিরাঙ্কের কোনো পরিবর্তন হবে কি না গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "কোনো একটি পরীক্ষণে জাফলংয়ের আবদ্ধ বায়ুর তাপমাত্রা [math]19^\\circ C[/math] এবং আপেক্ষিক আর্দ্রতা [math]47\\%[/math]। শৈত্যপ্রবাহে ঐ স্থানের তাপমাত্রা কমে [math]15^\\circ C[/math] হলো। [math]7^\\circ C,\\ 8^\\circ C\\ ও\\ 19^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্প চাপ যথাক্রমে [math]7.5,\\ 8.2\\ ও\\ 16.5\\ mm[/math] পারদ চাপের সমান।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, [math]19^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E ও [math]15^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় ঐ স্থানের অসম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]\\mathrm{P}_{1}[/math]\u003Cbr\u003E ও [math]\\mathrm{P}_{2}[/math]\u003Cbr\u003E হলে শিশিরাঙ্কের সংজ্ঞানুসারে,[math]\\hspace{1cm}\\mathrm{P}_{1}=19^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় অসম্পৃক্ত জলীয় বাষ্পের চাপ[math]\\hspace{2cm}=7.4^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ[math]\\hspace{2cm}=7.67 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003Eআবার, স্থানটি আবদ্ধ বলে বায়ুর আয়তন নির্দিষ্ট[math]\\hspace{1.5cm}\\therefore \\quad \\frac{\\mathrm{P}_{1}}{\\mathrm{P}_{2}}=\\frac{\\mathrm{T}_{1}}{\\mathrm{~T}_{2}}=\\frac{19+273}{15+273}=\\frac{292}{288}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পরিবর্তিত জলীয় বাষ্প চাপ,[math]\\hspace{2.5cm}\\begin{aligned}\\mathrm{P}_{2} & =\\mathrm{P}_{1} \\times \\frac{\\mathrm{T}_{2}}{\\mathrm{~T}_{1}}=7.78 \\times \\frac{288}{292} \\\\& =7.67 \\mathrm{~mm} \\mathrm{Hg}\\end{aligned}[/math]\u003Cbr\u003Eএখন, পরিবর্তিত শিশিরাঙ্ক [math]\\mathrm t^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E হলে, [math]\\mathrm t^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় সম্পৃক্ত বাষ্পের চাপ [math]=7.67 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003E [math]\\therefore(8.2-7.5)[/math]\u003Cbr\u003E বা [math]=0.7 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003E চাপের পরিবর্তন হয় [math](8-7)^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E বা [math]1^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রা পরিবর্তনের জন্য[math]\\therefore(7.67-7.5)[/math]\u003Cbr\u003E বা [math]=0.7 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003E চাপ বৃদ্ধির জন্য[math]7^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E থেকে তাপমাত্রা বৃদ্ধি পাবে [math]=\\frac{1}{0.7} \\times 17^{\\circ} \\mathrm{C}=0.24^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শিশিরাঙ্কের পরিবর্তন [math]=(7+0.24)^{\\circ} \\mathrm{C}=7.24^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eঅতএব, তাপমাত্রার পরিবর্তনে ঐ স্থানের আবদ্ধ বায়ুর শিশিরাঙ্ক পরিবর্তিত হবে । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মূল বাষ্পচাপ হবে [math]e=0.47\\times16.5=7.755\\ \\text{mm}[/math], এবং কারণ [math]7.5\u003C7.755\u003C8.2[/math], শিশিরাঙ্ক [math]7^\\circ C–8^\\circ C[/math] এর মধ্যে (প্রায় [math]7.7^\\circ C[/math])। তাপমাত্রা [math]15^\\circ C[/math] এ নামলেও বাষ্পচাপ অপরিবর্তিত থাকায় শিশিরাঙ্ক অপরিবর্তিত থাকবে (এখানে কোনো ঘনীভবন হবে না)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414468,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 355,
+          "full_name": "সফিউদ্দিন সরকার একাডেমি এন্ড কলেজ",
+          "short_name": "SSAC",
+          "slug": "ssac",
+          "pivot": {
+            "question_bank_id": 414468,
+            "tag_id": 355,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:16.000000Z",
+            "updated_at": "2025-08-19T06:54:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414467,
+      "value": {
+        "options": {
+          "গ": "ঐদিন ঢাকার শিশিরাঙ্ক নির্ণয় কর।"
+        },
+        "question": "ঢাকা আবহাওয়া অফিসে শুষ্ক ও সিক্ত বাল্বের পাঠ যথাক্রমে [math]30^\\circ C[/math] এবং [math]28^\\circ C[/math] পাওয়া গেল। ঐ দিন খুলনার আপেক্ষিক আর্দ্রতা ছিল [math]60\\%। \\ 26^\\circ C,\\ 28^\\circ C[/math] এবং [math]30^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে [math]25 \\times 10^{-3} \\mathrm{~m}, 28.45 \\times 10^{-3} \\mathrm{~m}[/math] এবং [math]31.85 \\times 10^{-3} \\mathrm{~m }[/math] পারদ চাপ। [math]30^\\circ C[/math] তাপমাত্রায় গ্লেইসারের উৎপাদক [math]1.65[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eগ এখানে, শুষ্ক বাঘের পাঠ, [math]\\theta_{1}=30^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eসিক্ত বাল্বের পাঠ, [math]\\theta_{2}=28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেসিয়ারের উৎপাদক, G = 1.65শিশিরাঙ্ক, [math]\\theta = ?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{aligned}\\Rightarrow\\theta & =\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\& =30^{\\circ} \\mathrm{C}-1.65\\left(30^{\\circ} \\mathrm{C}-28^{\\circ} \\mathrm{C}\\right) \\\\& =26.7^{\\circ} \\mathrm{C}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, ঐ দিনে ঢাকার শিশিরাঙ্ক [math]26.7^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: শিশিরাঙ্ক নির্ণয়ের জন্য সাইক্রোমেট্রিক সূত্র ব্যবহার করে বাস্তব বাষ্পচাপ বের করি: [math]e = e_s(T_w) - G\\,(T_d - T_w)[/math]. এখানে [math]e_s(28)=28.45\\times10^{-3}[/math], [math]G=1.65[/math], [math]T_d-T_w=2^\\circ C[/math], তাই [math]e=28.45\\times10^{-3}-1.65\\times2\\times10^{-3}=25.15\\times10^{-3}[/math]. এটি [math]e_s(26)=25\\times10^{-3}[/math] এর খুব কাছাকাছি হলে শিশিরাঙ্ক প্রায় [math]26^\\circ C[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414467,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1926,
+          "full_name": "Birsrestha Noor Mohammad Public College",
+          "short_name": "BNMPC",
+          "slug": "bnmpc",
+          "pivot": {
+            "question_bank_id": 414467,
+            "tag_id": 1926,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:16.000000Z",
+            "updated_at": "2025-08-19T06:54:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414466,
+      "value": {
+        "options": {
+          "গ": "ঐ দিনে খুলনার শিশিরাঙ্ক কত ছিল?"
+        },
+        "question": "একজন আবহাওয়াবিদ দৈনিক প্রতিবেদন তৈরির জন্য কোনো একদিন খুলনা ও সিরাজগঞ্জে স্থাপিত দুটি সিক্ত ও শুষ্ক বালব আর্দ্রতামাপক যন্ত্রের মাধ্যমে নিচের উপাত্তগুলো সংগ্রহ করলেন :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-10055_1755586456_aalP4Qqp.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[ [math]14^\\circ C,\\ 16^\\circ C,\\ 28^\\circ C,\\ 30^\\circ C,\\ 32^\\circ C,\\ 34^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্প চাপ যথাক্রমে [math]11.99,\\ 13.63,\\ 28.35,\\ 31.83,\\ 35.66[/math] এবং [math]39.90\\ mm\\ Hg[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, খুলনায়, শুষ্ক বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{1}=28.6^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eসিক্ত বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{2}=20^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেসিয়ারের ধ্রুবক, G = 1.664শিশিরাঙ্ক, [math]\\theta =?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{aligned}\\Rightarrow\\theta & =\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\& =28.6^{\\circ} \\mathrm{C}-1.664\\left(28.6^{\\circ} \\mathrm{C}-20^{\\circ} \\mathrm{C}\\right)=14.2896^{\\circ} \\mathrm{C}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, ঐ দিনে খুলনার শিশিরাঙ্ক [math]14.2896^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E খুলনার জন্য প্রথমে আসল বাষ্পচাপ ধরা হবে: [math]e=e_s(T_w)-0.00066P(T_d-T_w)[/math] ধরে [math]P\\approx760\\ mmHg[/math], তাই [math]e\\approx31.83-0.00066\\times760\\times2=31.83-1.00\\approx30.83\\ mmHg[/math]. এরপর টেবিল থেকে এই বাষ্পচাপে ম্যাচ করে ইন্টারপোলেশন করলে শিশিরাঙ্ক প্রায় [math]29.5^\\circ C[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414466,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 247,
+          "full_name": "Mymensingh Girl's Cadet College",
+          "short_name": "MGCC",
+          "slug": "mgcc",
+          "pivot": {
+            "question_bank_id": 414466,
+            "tag_id": 247,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:16.000000Z",
+            "updated_at": "2025-08-19T06:54:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414465,
+      "value": {
+        "options": {
+          "গ": "চট্টগ্রামের শিশিরাঙ্ক বের কর।"
+        },
+        "question": "একজন আবহাওয়াবিদ শুষ্ক ও সিক্ত বাল্ব আর্দ্রতামাপক হাইগ্রোমিটার ব্যবহার করে ঢাকা ও চট্টগ্রামের তথ্য কোনো একদিন একই সমেয় নিম্নলিখিত ছকে রেকর্ড করলেন :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-1002_1755586455_VqzQL4zb.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[math]17^\\circ C,\\ 18^\\circ C,\\ 28^\\circ C\\ \\&\\ 32^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে [math]14.56,\\ 15.48,\\ 28.35\\ \\&\\ 35.36\\ mm[/math] পারদ চাপ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, চট্টগ্রামে, শুষ্ক বাল্ব হাইগ্রোমিটারের পাঠ, [math]\\theta_{1}=28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eশিক্ত বাল্ব হাইগ্রোমিটারের পাঠ, [math]\\theta_{2}=22^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেসিয়ারের ধ্রুবক, G = 1.67শিশিরাঙ্ক, [math]\\theta=?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)[/math]\u003Cbr\u003E [math]\\hspace{.5cm}\\begin{aligned}\\Rightarrow\\theta & =\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\& =28^{\\circ} \\mathrm{C}-1.67\\left(28^{\\circ} \\mathrm{C}-22^{\\circ} \\mathrm{C}\\right)=17.98^{\\circ} \\mathrm{C}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, ঐ দিনে চট্টগ্রামের শিশিরাঙ্ক [math]17.98^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: চট্টগ্রামের শুষ্ক-বাল্ব [math]32^\\circ C[/math] ও সিক্ত-বাল্ব [math]28^\\circ C[/math] ধরে বাস্তব বাষ্পচাপ নেওয়া হবে  \n[math]e=e_s(28^\\circ C)-0.5(32-28)=28.35-0.5\\times4=26.35\\ \\text{mm}[/math]. এরপর শিশিরাঙ্ক সেই তাপমাত্রা যেখানে সম্পৃক্ত বাষ্পচাপ [math]26.35\\ \\text{mm}[/math]; রেখাচিত্রের রৈখিক অন্তর্হিতপথে ইন্টারপোলেট করে পাই  \n[math]T_{dew}\\approx18+\\dfrac{26.35-15.48}{28.35-15.48}\\times10\\approx26.5^\\circ C[/math].  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E চট্টগ্রামের শিশিরাঙ্ক ≈ [math]26.5^\\circ C[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414465,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 253,
+          "full_name": "Dhaka Residential Model College, Dhaka",
+          "short_name": "DRMC",
+          "slug": "drmc",
+          "pivot": {
+            "question_bank_id": 414465,
+            "tag_id": 253,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:15.000000Z",
+            "updated_at": "2025-08-19T06:54:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414464,
+      "value": {
+        "options": [],
+        "question": "কোনো একদিনের শিশিরাঙ্ক 10°C এবং আপেক্ষিক আর্দ্রতা 67.30%। ঐ দিনের বায়ুর সম্পৃক্ত বাষ্পচা প কত? (10°C তাপমাত্রায় সম্পৃক্ত জলীয় চাপ [math]13.64 \\times 10^{-3} \\mathrm{~m}[/math] )",
+        "solution": "( Answer : [math]20.26 \\times 10^{-3} \\mathrm{m}(\\mathrm{Hg})[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,আপেক্ষিক আর্দ্রতা,[math]R=67.3 \\%=0.673[/math]\u003Cbr\u003Eশিশিরাঙ্কে সম্পৃক্ত জলীয় বাষ্পের চাপ, [math]\\mathrm{f}=13.64 \\times 10^{-3} \\mathrm{~m}[/math]\u003Cbr\u003Eবায়ুর সম্পৃক্ত বাষ্পচাপ, F = ?আমরা জানি,[math]R=\\frac{f}{F}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]0.673=\\frac{13.64 \\times 10^{-3}}{\\mathrm{~F}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{F}=\\frac{13.64 \\times 10^{-3}}{0.673}[/math]\u003Cbr\u003E [math]=20.26 \\times 10^{-3} \\mathrm{m}(\\mathrm{Hg} \\text { ) (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বায়ুর প্রকৃত বাষ্পচাপ হলো আপেক্ষিক আর্দ্রতার অংশগত মান, তাই [math]p=\\text{RH}\\times e_s[/math] । তাই [math]p=0.6730\\times 13.64\\times10^{-3}=9.18\\times10^{-3}[/math] (দেওয়া এককে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414464,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:14.000000Z",
+            "updated_at": "2025-08-19T06:54:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414463,
+      "value": {
+        "options": [],
+        "question": "একটি ঘরের তাপমাত্রা 24°C এবং আপেক্ষিক আর্দ্রতা ৪০%। কোন তাপমাত্রায় ঘরটি এর মধ্যে অব স্থিত জলীয় বাষ্প দ্বারা সম্পৃক্ত হবে? (24°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ = 0.02238m Hg এবং 20.32°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ = 0.017904m Hg)",
+        "solution": "( Answer : [math]20.32^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,আপেক্ষিক আর্দ্রতা, R = 80%24°C তাপমাত্রায় সম্পৃক্ত জলীয়বাষ্পচাপ, F = 0.02238 mHg24°C তাপমাত্রায় উপস্থিত জলীয়বাষ্প চাপ, F = ?আমরা জানি,আপেক্ষিক আর্দ্রতা, [math]\\mathrm{R}=\\frac{\\mathrm{f}}{\\mathrm{F}} \\times 100[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]80=\\frac{F}{0.02238} \\times 100[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]f=\\frac{80 \\times 0.02238}{100}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{f}=0.017904 \\mathrm{\\ mHg}[/math]\u003Cbr\u003E= 20.32°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্প চাপসুতরাং, 20.32°C তাপমাত্রায় ঘরটি এর মধ্যে অবস্থিত জলীয় বাষ্প দ্বারা সম্পৃক্ত হবে। (Ans.)",
+        "explanation": "ব্যাখ্যা: বাতাসের প্রকৃত বাষ্পচাপ = আপেক্ষিক আর্দ্রতা × সরাসরি সম্পৃক্ত বাষ্পচাপ, তাই [math]e=0.40\\times0.02238=0.008952\\ \\text{mHg}[/math]. এই চাপকে যে তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ সমান হবে সেটাই ঘরের দিউ-পয়েন্ট; ম্যাগনাস সূত্র ব্যবহার করে পাওয়া যায় [math]T_d\\approx9.6^\\circ\\text{C}[/math], অর্থাৎ প্রায় [math]9.6^\\circ\\text{C}[/math]-এ ঘরটি জলীয় বাষ্পে সম্পৃক্ত হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414463,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:14.000000Z",
+            "updated_at": "2025-08-19T06:54:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414462,
+      "value": {
+        "options": [],
+        "question": "বায়ুর তাপমাত্রা 30°C এবং আপেক্ষিক আর্দ্রতা 50% হলে ঐ স্থানের শিশিরাঙ্ক কত? (20.25°C এবং 32°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে 17.83mm এবং 35.66mm Hg)",
+        "solution": "( Answer : [math]20.25^{\\circ} \\mathrm{C}[/math] )",
+        "explanation": "ব্যাখ্যা: শিশিরাঙ্ক সেই তাপমাত্রা যেখানে বায়ুর আসল বাষ্পচাপ সম্পৃক্ত বাষ্পচাপের সমান হয়; আপেক্ষিক আর্দ্রতা ৫০% মানে আসল বাষ্পচাপ = 0.5 × [math]e_s(30^\\circ C)[/math]. রৈখিক আনুমানায় প্রথমে ঢাল বের করি: [math]m=\\frac{35.66-17.83}{32-20.25}=1.517\\ \\text{mmHg/}^\\circ\\text{C}[/math], তাই [math]e_s(30)=17.83+m(30-20.25)=32.62\\ \\text{mmHg}[/math] এবং আসল বাষ্পচাপ [math]e=0.5\\times32.62=16.31\\ \\text{mmHg}[/math]. শিশিরাঙ্ক এমন T যেখানে [math]e_s(T)=16.31[/math], তাই [math]T=20.25+\\frac{16.31-17.83}{m}=19.25^\\circ C[/math] (প্রায় [math]19.3^\\circ C[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414462,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:14.000000Z",
+            "updated_at": "2025-08-19T06:54:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414461,
+      "value": {
+        "options": {
+          "গ": "সিলেটের শিশিরাঙ্ক নির্ণয় কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-110-panjeri2-2012-01_1755586454_MCmJL6Dc.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n5.68°C, 20°C, 26°C, 28°C ও 30°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে 6856mm, 176mm, 2525mm, 2848mm ও 3185 mm.",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই,শুষ্ক বালবের তাপমাত্রা, [math]\\theta_{1}=30^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eসিক্ত বালবের তাপমাত্রা, [math]\\theta_{2}=28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eগ্লেইসারের উৎপাদক, [math]\\mathrm{G}=1.65[/math]\u003Cbr\u003Eশিশিরাঙ্ক, [math]\\theta=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned}\\theta & =\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\& =30^{\\circ} \\mathrm{C}-1.65\\left(30^{\\circ}-28^{\\circ}\\right) \\mathrm{C} \\\\\\therefore \\theta & =26.7^{\\circ} \\mathrm{C}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, সিলেটের শিশিরাঙ্ক, [math]26. 7^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E. [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: শিশিরাঙ্ক হলো সেই তাপমাত্রা যেখানে বায়ুর আসল জলীয় বাষ্পচাপ (actual vapor pressure) সম্পৃক্ত বাষ্পচাপে (saturation vapor pressure) সমান হয়, অর্থাৎ [math]e_{actual}=e_s(T_{dew})[/math]। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সিলেটে দেওয়া আসল বাষ্পচাপ টেবিলের [math]25.25\\ \\text{mm}[/math]–এর সঙ্গে মেলে, যা [math]26^\\circ\\text{C}[/math]-তে সম্পৃক্ত বাষ্পচাপ; তাই সিলেটের শিশিরাঙ্ক [math]26^\\circ\\text{C}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414461,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:14.000000Z",
+            "updated_at": "2025-08-19T06:54:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414459,
+      "value": {
+        "options": {
+          "গ": "ঐ দিনের শিশিরাংক কত?"
+        },
+        "question": "একদিন শুষ্ক ও সিক্ত বাল্ব হাইগ্রোমিটারে পাঠ- যথাক্রমে 20°C এবং 12.8°C পাওয়া গেল। 20°C তাপমাত্রায় গ্লেসিয়ারের উৎপাদক 1.79। 7°C, 8°C এবং 20°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে [math]7.5 \\times 10^{-3}, 8.1 \\times 10^{-3}[/math] এবং [math]17.4 \\times 10^{-3} \\mathrm {~m}[/math] Hgp।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে,ঢাকায় শুষ্ক বাল্বের তাপমাত্রা, [math]\\theta_{1}=28.6^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eএবং আর্দ্র বাল্বের তাপমাত্রা, [math]\\theta_{2}=20^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eবায়ুর তাপমাত্রায় গ্লেসিয়াসের উৎপাদক, [math]G=1.664[/math]\u003Cbr\u003Eশিশিরাংক [math]\\theta[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned}\\theta & =\\theta_{1}-G\\left(\\theta_{1}-\\theta_{2}\\right) \\\\& =28.6^{\\circ} \\mathrm{C}-1.664\\left(28.6^{\\circ} \\mathrm{C}-20^{\\circ} \\mathrm{C}\\right) \\\\& =14.29^{\\circ} \\mathrm{C} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E  \nব্যাখ্যা: প্রথমে 12.8°C-এ সম্পৃক্ত বাষ্পচাপ তালিকা থেকে রেখার মধ্যবর্তী ইন্টারপোলেশনে পাওয়া যায় [math]e_s(12.8^\\circ\\mathrm{C})\\approx 11.82\\times10^{-3}\\,\\mathrm{mHg}[/math]. গ্লেসিয়ারের সূত্র দিয়ে প্রকৃত বাষ্পচাপ নির্ণয় করি: [math]e=e_s(\\text{wet})-G\\,(T_{dry}-T_{wet})=11.82\\times10^{-3}-1.79\\times10^{-4}\\times(20-12.8)\\approx10.53\\times10^{-3}\\,\\mathrm{mHg}[/math]. এই মানকে 8°C ও 20°C এর স্যাচুরেশন কনট্যুর থেকে ইন্টারপোলেট করলে শিশিরাংক প্রায় [math]11.1^\\circ\\mathrm{C}[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414459,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:13.000000Z",
+            "updated_at": "2025-08-19T06:54:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414453,
+      "value": {
+        "options": {
+          "গ": "ঐ দিনে ঢাকার শিশিরাঙ্ক কত ছিল?"
+        },
+        "question": "একজন আবহাওয়াবিদ দৈনিক প্রতিবেদন তৈরির জন্য কোনো একদিন ঢাকা ও রাজশাহীতে স্থাপিত দুটি সিক্ত ও শুষ্ক বালব আর্দ্রতামাপক যন্ত্রের মাধ্যমে নিচের উপাত্তগুলো সংগ্রহ করলেন :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-0009-r-removebg-preview_1755586453_Fjhoqju2.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[ [math]14{ }^{\\circ} \\mathrm{C}, 16^{\\circ} \\mathrm{C}, 28^{\\circ} \\mathrm{C}, 30^{\\circ} \\mathrm{C}, 32^{\\circ} \\mathrm{C}, 34^{\\circ} \\mathrm{C}[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্প চাপ যথাক্রমে [math]11.99,\\ 13.63,\\ 28.35,\\ 31.83,\\ 35.66[/math] এবং [math]39.90\\text{mm Hg}[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, ঢাকায়,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশুষ্ক বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{1}=28.6^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিক্ত বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{2}=20^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eগ্লেসিয়ারের ধ্রুবক, [math]\\rm{G}=1.664[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিশিরাঙ্ক, [math]\\theta = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\theta_{1}^{\\prime}-\\theta & =\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\ \\Rightarrow \\quad \\theta & =\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\ & =28.6^{\\circ} \\mathrm{C}-1.664\\left(28.6^{\\circ} \\mathrm{C}-20^{\\circ} \\mathrm{C}\\right)=14.2896^{\\circ} \\mathrm{C} \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, ঐ দিনে ঢাকার শিশিরাঙ্ক [math]14.2896^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ঢাকার শিশিরাঙ্ক ছিল [math]28^\\circ\\text{C}[/math]. কারণ শিশিরাঙ্ক সেই তাপমাত্রা যেখানে সম্পৃক্ত জলীয় বাষ্প চাপ (বাস্তব বাষ্পচাপ) সমান হয়; গণনায় পাওয়া বাস্তব বাষ্পচাপ ছিল [math]28.35\\ \\text{mm Hg}[/math], এবং টেবিল অনুযায়ী [math]e_s(28^\\circ\\text{C})=28.35\\ \\text{mm Hg}[/math], তাই শিশিরাঙ্ক [math]28^\\circ\\text{C}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 414453,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414453,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 414453,
+            "tag_id": 6,
+            "year": "2015",
+            "created_at": "2025-08-19T06:54:13.000000Z",
+            "updated_at": "2025-08-19T06:54:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414454,
+      "value": {
+        "options": {
+          "ঘ": "তাপমাত্রার পরিবর্তনে ঐ স্থানের আবদ্ধ বায়ুর শিশিরাঙ্ক পরিবর্তিত হবে কিনা গাণিতিক বিশ্লেষণের সাহায্যে মতামত দাও।"
+        },
+        "question": "কোনো একটি পরীক্ষণের জাফলংয়ের আবদ্ধ বায়ুর তাপমাত্রা 19°C ও শিশিরাঙ্ক 7.4°C পাওয়া গেল। শৈতপ্রবাহে ঐ স্থানের তাপমাত্রা কমে 15°C হলো। 7°C, 8°C ও 19°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে 7.5, 8.2 এবং 16.5 mm পারদ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eমনে করি,15°C এবং 29°C তাপমাত্রায় জাফলংয়ের অসম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]P_{1}[/math]\u003Cbr\u003E ও [math]P_{2}[/math]\u003Cbr\u003E।তাহলে শিশিরাঙ্কের সংজ্ঞানুসারে [math]\\mathrm{P}_{2}=19^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় অসম্পৃক্ত জলীয় বাষ্পের চাপ = 7.4°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ [math]=\\{7.5+(8.2-7.5) \\times 0.4\\} \\mathrm{mm}[/math]\u003Cbr\u003E পারদ= 7.78 mm পারদআবার, স্থানটি আবদ্ধ বলে বায়ুর আয়তন নির্দিষ্ট। কাজেই চাপের সূত্র অনুসারে আমরা পাই,[math]\\frac{\\mathrm{P}_{1}}{\\mathrm{P}_{2}}=\\frac{\\mathrm{T}_{1}}{\\mathrm{~T}_{2}}=\\frac{273+15}{273+19}=\\frac{288}{292}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পরিবর্তীত জলীয় বাষ্পের চাপ, [math]P_{1}=\\frac{288}{292} \\times 7.78 \\mathrm{~mm}[/math]\u003Cbr\u003E, পারদ= 7.673 mm পারদমনে করি, পরিবর্তিত শিশিরাঙ্ক [math]=\\mathrm{t}^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]=\\mathrm{t}^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ = 7.673 mm পারদএখন দেখা যায় (8.2 – 7.5 ) = 0.7 mm পারদ চাপ বৃদ্ধির জন্য 7°C হতে তাপমাত্রা বৃদ্ধি = (8 – 7)°C = 1°C[math]\\therefore[/math]\u003Cbr\u003E (7.673 – 7.5) = 0.173 mm পারদ চাপ বৃদ্ধির জন্য 7°C হতেতাপমাত্রা বৃদ্ধি [math]=\\frac{1}{0.7} \\times 0.173=0.25^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পরিবর্তিত শিশিরাঙ্ক [math]=(7+0.25)^{\\circ} \\mathrm{C}=7.25^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শিশিরাঙ্ক কমে যাবে [math]=(7.4-7.25)^{\\circ} \\mathrm{C}=0.15^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E তাপমাত্রা কমলে শিশিরাঙ্ক সাধারণত পরিবর্তিত হবে না, কারণ শিশিরাঙ্ক নির্ধারিত হয় বায়ুর বাস্তব নিউম্যান্ড বাষ্পচাপে, যা তাপমাত্রা পাল্টালে নিজে অপরিবর্তিত থাকে যদি আর্দ্রতার পরিমাণ বদল না করে। প্রদত্ত শিশিরাঙ্ক [math]7.4^\\circ C[/math] থেকে বাস্তব বাষ্পচাপ আনুমানিক [math]7.78\\ \\text{mmHg}[/math] (7°C ও 8°C এর চাপের মধ্যবর্তী ইন্টারপোলেশন); 19°C-এ স্যাচুরেশন চাপ [math]16.5\\ \\text{mmHg}[/math], তাই আর্দ্রতা ≈ [math]7.78/16.5\\approx0.471\\ (47.1\\%)[/math]. শৈতপ্রবাহে তাপমাত্রা [math]15^\\circ C[/math] হলে বাস্তব বাষ্পচাপ অপরিবর্তিত থাকলে শিশিরাঙ্ক একইভাবে থাকবে, অর্থাৎ পরিবর্তন হবে না ([math]7.4^\\circ C[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414454,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:13.000000Z",
+            "updated_at": "2025-08-19T06:54:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414455,
+      "value": {
+        "options": {
+          "গ": "ঐ দিন সন্ধ্যায় বায়ুর তাপমাত্রা 23° এ নেমে এলে বায়ুস্থ তালীয় বাষ্পের কত অংশ ঘনীভূত হবে?"
+        },
+        "question": "একদিন দুপুরবেলা বায়ুর তাপমাত্রা 30°C এবং আপেক্ষিক আর্দ্রতা ছিল 75%। অফিসের বড় কর্তা কক্ষে প্রবেশ করেই এসি চালু করে তাপমাত্রা 23°C তে নামিয়ে নিলেন। ঐ দিনের শিশিরাঙ্ক ছিল 9.4°C । 30°C, 23°C, 9°C ও 10°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে 29.92mm, 20.24mm, 8.92 mm ও 9.22mm পারদ স্তম্ভ চাপ।",
+        "solution": "উত্তর পাওয়া যায় নি।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে বায়ুতে আসল বাষ্পচাপ ছিল [math]e=0.75\\times29.92=22.44\\ \\text{mm}[/math]। ২৩°C-এ সিদ্ধবাষ্পচাপ [math]e_s=20.24\\ \\text{mm}[/math], অতিরিক্ত অংশ কণা হয়ে পড়ে: [math]\\Delta e=22.44-20.24=2.20\\ \\text{mm}[/math]। ঘনীভূত অংশের অনুপাত [math]\\dfrac{2.20}{22.44}\\approx0.098\\ (\\approx9.8\\%)[/math], অর্থাৎ প্রায় ১০% জলীয় বাষ্প ঘনীভূত হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414455,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:13.000000Z",
+            "updated_at": "2025-08-19T06:54:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414456,
+      "value": {
+        "options": [],
+        "question": "কোনো এক স্থানের তাপমাত্রা 32°C এবং আপেক্ষিক আর্দ্রতা 50% হলে ঐ স্থানের শিশিরাঙ্ক কত? [ 20.25°C এবং 32°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে 17.83 mm এবং 35.66 mm পারদ।]",
+        "solution": "( Answer : [math]20.25^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,আপেক্ষিক আর্দ্রতা, [math]R=50 \\%=0.5[/math]\u003Cbr\u003E32°C তাপমাত্রায় জলীয় বাষ্পের চাপ, [math]\\mathrm{F}=35.66 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003Eশিশিরাঙ্কে জলীয় বাষ্পের চাপ = fএখন, আমরা জানি, [math]R=\\frac{f}{F}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]f=R \\times F[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]f=0.5 \\times 35.66[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{f}=17.83 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003Eএবং দেওয়া আছে, 20.25°C তাপমাত্রায় ঐ স্থানের সম্পৃক্ত জলীয় বাষ্পের চাপ নির্ণেয় 17.83 mm Hg'সুতরাং ঐ স্থানের শিশিরাঙ্ক [math]20.25^{\\circ} \\mathrm{C} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বাস্তব বাষ্পচাপ = আপেক্ষিক আর্দ্রতা × ওই তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ, অর্থাৎ [math]e = 0.50 \\times 35.66 = 17.83\\ \\text{mm}[/math]. যেহেতু [math]17.83\\ \\text{mm}[/math] হলো 20.25°C-এ সম্পৃক্ত বাষ্পচাপ, তাই শিশিরাঙ্ক হচ্ছে 20.25°C।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414456,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:13.000000Z",
+            "updated_at": "2025-08-19T06:54:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414457,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে চট্টগ্রামে শিশিরাঙ্ক নির্ণয় কর।"
+        },
+        "question": "কোনো একদিন চট্টগ্রামে সিক্ত ও শুল্ক আর্দ্রতামাপক যন্ত্রের পাঠ পাওয়া গেল 30°C ও 28°C। উক্ত আর্দ্রতামাপক যন্ত্রটিকে একই দিনে গাজীপুরে আনা হলো এবং সেখানে বায়ুর তাপমাত্রা পাওয়া গেল 30°C ও শিশিরাঙ্কের তাপমাত্রা 20°C । [30°C তাপমাত্রায় গ্লেইসারের উৎপাদক 1.65 এবং 20°C, 26°C, 28°C ও 30°C তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে [math]17.54 \\times 10^{-3} \\mathrm{~m}, 25.25 \\times[/math] [math]10^{-3} \\mathrm{~m}, 28.45 \\times 10^{-3} \\mathr m{~m}[/math] ও [math]31.85 \\times 10^{-3} \\mathrm{~m}[/math] পারদ চাপ ।]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E [math]26.7^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: Glaisher সূত্র অনুযায়ী বাষ্পচাপ নির্ণয় করলে [math]e = e_s(T_w) - A\\,(T_d - T_w)[/math]।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এখানে [math]e = 28.45\\times10^{-3} - 1.65\\times(30-28)\\times10^{-3} = 25.15\\times10^{-3}[/math], যা প্রায় সমতুল্য [math]e_s(26^\\circ C)=25.25\\times10^{-3}[/math] এর; অতএব চট্টগ্রামে শিশিরাঙ্ক ≈ [math]26^\\circ C[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414457,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:13.000000Z",
+            "updated_at": "2025-08-19T06:54:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414458,
+      "value": {
+        "options": {
+          "গ": "বৃষ্টিপাতের ফলে জলীয় বাষ্পের কত অংশ ঘনীভূত হলো?"
+        },
+        "question": "যশোরে সেদিন তাপমাত্রা ছিল 31°C এবং আপেক্ষিক আর্দ্রতা ছিল 50.45%। এক সময় তাপমাত্রা কমে চারপাশ ঠাণ্ডা হয়ে গেল, বৃষ্টিপাত শুরু হলো এবং তাপমাত্রা কমে গিয়ে 14°C-এ উপনীত হলো। বৃষ্টিপাত বন্ধ হওয়ায় কিছু সময়ের মধ্যে তাপমাত্রা বৃদ্ধি পেয়ে 24°C-এর উন্নীত হলো। এ সময় বায়ুস্থ জলীয় বাষ্পের পরিমাণ 20% বৃদ্ধি পেল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eবায়ুর তাপমাত্রায় (31°C) সম্পৃক্ত বাষ্পচাপ,[math]\\mathrm{F}=\\frac{31.83+35.66}{2}=33.745 \\mathrm{~mm} \\cdot \\mathrm{HgP}[/math]\u003Cbr\u003Eআপেক্ষিক আর্দ্রতা, [math]\\mathrm{R}=50.45 \\%=0.5045[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{R}=\\frac{\\mathrm{f}}{\\mathrm{F}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]f=F \\times R[/math]\u003Cbr\u003E [math]=33.745 \\times 0.5045=17.024 \\mathrm{~mm} \\mathrm{\\ HgP}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শিশিরাঙ্কে সম্পৃক্ত বাষ্পচাপ; [math]\\mathrm{f}=17.02435 \\mathrm{~mm} \\mathrm{HgP}[/math]\u003Cbr\u003E14°C তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ, [math]f^{\\prime}=11.99 \\mathrm{~mm} \\mathrm{HgP}[/math]\u003Cbr\u003Eসুতরাং বৃষ্টিপাতের ফলে বায়ুস্থ জলীয় বাষ্পের ঘনীভূত হলো-[math]=\\frac{f-f^{\\prime}}{f}[/math]\u003Cbr\u003E অংশ[math]=\\frac{17.02435-11.99}{17.02435}[/math]\u003Cbr\u003E অংশ= 0.2957 অংশ 29.57% (Ans.) [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে প্রাথমিক বায়ুচাপীয় জলীয় বাষ্পের পরিমান হবে [math]0.5045\\times e_s(31^\\circ C)\\approx 0.5045\\times 44.9\\approx 22.66\\ \\text{hPa}[/math]; ১৪°C-এ সম্পূর্ণ সান্দ্রতা হলে সেগুলি হবে [math]e_s(14^\\circ C)\\approx 15.95\\ \\text{hPa}[/math]. বৃষ্টি হলে ঘনীভূত হওয়া অংশ = [math]22.66-15.95=6.71\\ \\text{hPa}[/math], তাই ঘনীভূত অনুপাত = [math]6.71/22.66\\approx 0.296\\approx 29.6\\%[/math]. অতএব প্রায় [math]30\\%[/math] জলীয় বাষ্প ঘনীভূত হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414458,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:13.000000Z",
+            "updated_at": "2025-08-19T06:54:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414460,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপক অনুসারে কক্সবাজারের শিশিরাঙ্ক নির্ণয় কর।"
+        },
+        "question": "কোনো একদিন রাজশাহীর তাপমাত্রা 35°C এবং আপেক্ষিক আর্দ্রতা 50% । একই সময়ে কক্সবাজারে স্থাপিত একটি হাইগ্রোমিটারের শুষ্ক থার্মোমিটারের পাঠ 35°C এবং আর্দ্র থার্মোমিটারের পাঠ 30°C। 35°C তাপমাত্রায় গ্লেইসারের উৎপাদক এর মান 1.60। 26°C, 28°C এবং 35°C তাপমাত্রায় সম্পৃক্ত জলীয়বাষ্পের চাপ যথাক্রমে 25.21, 28.35 এবং 42.16 mm পারদ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E [math]27^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পানির সম্পৃক্ত চাপ প্রথমে 30°C-এ ইন্টারপোলেশন করে নির্ণয় করি: [math]e_{30}=28.35+2\\times\\frac{42.16-28.35}{7}=32.30\\ \\text{mmHg}[/math]. গ্লেইসারের উৎপাদক ব্যবহার করে ভেজা থার্মোমিটারের চাপ থেকে শুকনো–ভেজা তাপমাত্রার পার্থক্য বাদ দিলে বায়ুমণ্ডলীয় আর্দ্রতার আভ্যন্তরীণ চাপ পাওয়া যায়: [math]e=32.30-1.60\\times(35-30)=32.30-8=24.30\\ \\text{mmHg}[/math]. এখন 24.30 mmHg যে তাপমাত্রার সম্পৃক্ত চাপ তা 26°C (25.21 mmHg) ও 28°C (28.35 mmHg) এর মধ্যে ইন্টারপোলেশন করে পাই; ঢাল ≈ [math]1.57\\ \\text{mmHg/°C}[/math], তাই ΔT ≈ [math](25.21-24.30)/1.57=0.58\\ ^\\circ\\text{C}[/math] এবং শিশিরাঙ্ক ≈ [math]26-0.58=25.4\\ ^\\circ\\text{C}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414460,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:13.000000Z",
+            "updated_at": "2025-08-19T06:54:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414452,
+      "value": {
+        "options": {
+          "গ": "ঐ দিনের শিশিরাঙ্ক কত?"
+        },
+        "question": "একদিন শুষ্ক ও সিক্ত বালব হাইগ্রোমিটারে পাঠ যথাক্রমে [math]20^\\circ C[/math] এবং [math]12.8^\\circ C[/math] পাওয়া গেল। [math]20^\\circ C[/math] তাপমাত্রায় গ্লেসিয়ারের উৎপাদক [math]1.79[/math]। [math]7^\\circ C[/math], [math]8^\\circ C[/math] এবং [math]20^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে [math]7.5 \\times 10^{-3}[/math], [math]8.1 \\times 10^{-3}[/math] এবং [math]17.4 \\times 10^{-3} \\mathrm{mHg~P}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, ঐ দিনের শিশিরাঙ্ক, [math]\\theta[/math]\u003Cbr\u003Eউদ্দীপক হতে পাই,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশুষ্ক বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{1}=20^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসিক্ত বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{2}=12.8^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eগ্লেসিয়ারের উৎপাদক, [math]\\rm{G}=1.79[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned}\\theta_{1}-\\theta&=G\\left(\\theta_{1}-\\theta_{2}\\right)\\\\ \\Rightarrow \\quad \\theta & =\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\ & =20^{\\circ} \\mathrm{C}-1.79\\left(20^{\\circ} \\mathrm{C}-12.8^{\\circ} \\mathrm{C}\\right)=20^{\\circ} \\mathrm{C}-12.888^{\\circ} \\mathrm{C}=7.112^{\\circ} \\mathrm{C}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, ঐ দিনের শিশিরাঙ্ক [math]7.112^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শিশিরাঙ্ক ≈ [math]8^\\circ C[/math]\n\nব্যাখ্যা: প্রথমে [math]T_w=12.8^\\circ C[/math] এ সম্পৃক্ত বাষ্পচাপটি রেখীয়ভাবে ইন্টারপোলেট করে পাই [math]e_s(12.8)\\approx 11.82\\times10^{-3}\\,\\mathrm{mHgP}[/math]. গ্লেসিয়ারের সূত্র অনুযায়ী [math]e=e_s(T_w)-\\dfrac{T_d-T_w}{1.79}\\times10^{-3}[/math] হলে [math]e=11.82\\times10^{-3}-4.02\\times10^{-3}=7.8\\times10^{-3}\\,\\mathrm{mHgP}[/math], যা তালিকার সঙ্গে মিলে ≈ [math]8^\\circ C[/math] শিশু-তাপমাত্রা নির্দেশ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 414452,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 414452,
+            "tag_id": 47,
+            "year": "2015",
+            "created_at": "2025-08-19T06:54:11.000000Z",
+            "updated_at": "2025-08-19T06:54:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414451,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপক অনুসারে কক্সবাজারে শিশিরাঙ্ক নির্ণয় কর।"
+        },
+        "question": "কোনো একদিন রাজশাহীর তাপমাত্রা [math]35^\\circ C[/math] এবং আপেক্ষিক আর্দ্রতা [math]50\\%[/math]। একই সময়ে কক্সবাজারে স্থাপিত একটি হাইগ্রোমিটারের শুষ্ক ধর্মোমিটারের পাঠ [math]35^\\circ C[/math] এবং আর্দ্র থার্মোমিটারের পাঠ [math]30^\\circ C[/math] এবং [math]35 ^\\circ C[/math] তাপমাত্রায় গ্রেইসারের উৎপাদক এর মান [math]1.60[/math]। [math]26^\\circ C[/math], [math]28^\\circ C[/math] এবং [math]35^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলী য়বাষ্পের চাপ যথাক্রমে [math]25.21,\\ 28.35[/math] এবং [math]42.16\\ mm[/math] পারদ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, কক্সবাজারে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশুষ্ক বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{1}=35^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআর্দ্র বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{2}=30^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eগ্লেইসারের উৎপাদক, [math]\\mathrm{G}=1.60[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিশিরাঙ্ক, [math]\\theta=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\theta_{1}-\\theta=\\rm{G}\\left(\\theta_{1}-\\theta_{2}\\right)\\\\ \\Rightarrow \\theta=\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\ \\Rightarrow \\theta=35^{\\circ} \\mathrm{C}-1.60\\left(35^{\\circ} \\mathrm{C}-30^{\\circ} \\mathrm{C}\\right) \\\\ \\Rightarrow \\theta=35^{\\circ} \\mathrm{C}-8{ }^{\\circ} \\mathrm{C}=27^{\\circ} \\mathrm{C} \\end{array}[/math]\u003Cbr\u003Eঅতএব, উদ্দীপক অনুসারে কক্সবাজারের শিশিরাঙ্ক [math]27^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমাধান: শিশিরাঙ্ক নির্ণয়ের জন্য বাস্তব বাষ্পচাপকে সংশ্লিষ্ট তাপমাত্রায় পরিপূর্ণতাস্বল্পচাপের সমান করে বের করা হয়; প্রথমে আর্দ থার্মোমিটারের তাপমাত্রায় পরিপূর্ণতাস্বল্পচাপ নির্ণয় করে এরপর সাইক্ৰোমেট্রিক ধ্রুবক ব্যবহার করে বাস্তব বাষ্পচাপ পাবো: [math]e = e_s(30^\\circ C) - G\\,(35-30)[/math].  [math]e_s(30^\\circ C)[/math] কে 28°C ও 35°C এর মান থেকে রেখীয় ইন্টারপোলেশন করে পাই: [math]e_s(30)=28.35+2\\times\\frac{42.16-28.35}{7}=32.30\\ mmHg[/math], তাই [math]e=32.30-1.60\\times5=24.30\\ mmHg[/math]. এখন [math]e[/math] কে 26°C (25.21 mmHg) ও 28°C (28.35 mmHg) এর মধ্যে রেখীয় ইন্টারপোলেশনে মিলিয়ে শিশিরাঙ্ক পাই: [math]T_{dew}=26-\\frac{25.21-24.30}{(28.35-25.21)/2}\\approx25.4^\\circ C[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 414451,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414451,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 414451,
+            "tag_id": 5,
+            "year": "2016",
+            "created_at": "2025-08-19T06:54:11.000000Z",
+            "updated_at": "2025-08-19T06:54:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414450,
+      "value": {
+        "options": {
+          "ঘ": "তাপমাত্রার পরিবর্তনে ঐ স্থানের আবদ্ধ বায়ুর শিশিরাঙ্ক পরিবর্তিত হবে কিনা গাণিতিক বিশ্লেষণের সাহায্যে মতামত দাও।"
+        },
+        "question": "কোনো একটি পরীক্ষণে জাফলংয়ের আবদ্ধ বায়ুর তাপমাত্রা [math]19^\\circ C[/math] ও শিশিরাঙ্ক [math]7.4^\\circ C[/math] পাওয়া গেল। শৈত্যপ্রবাহে ঐ স্থানের তাপমাত্রা কমে [math]15^\\circ C[/math] হলো। [math]7^\\circ C[/math], [math]8^\\circ C[/math] ও [math]19^\\circ C[/math] তাপমাত্রায় ঐ সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]7.5,\\ 8.2[/math] এবং [math]16.5\\ mm[/math] পারদ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, [math]19^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E ও [math]15^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় ঐ স্থানের অসম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]\\rm{P}_1[/math]\u003Cbr\u003E ও [math]\\rm{P}_2[/math]\u003Cbr\u003E হলে শিশিরাক্ষের সংজ্ঞানুসারে,[math]\\hspace{1 cm}\\mathrm{P}_{1}=19^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় অসম্পৃক্ত জলীয় বাষ্পের চাপ[math]\\hspace{1 cm}\\quad ~=7.4^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ[math]\\hspace{1 cm}\\quad ~=7.78 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003Eআবার, স্থানটি আবদ্ধ বলে বায়ুর আয়তন নির্দিষ্ট[math]\\hspace{1.5 cm}\\therefore~ \\rm{\\dfrac{P_{1}}{P_{2}}=\\dfrac{T_{1}}{T_{2}}}=\\dfrac{19+273}{15+273}=\\dfrac{292}{288}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পরিবর্তিত জলীয় বাষ্প চাপ, P2 – Pix[math]\\hspace{1.5 cm}\\begin{aligned} \\rm{P}_{2} & =\\rm{P}_{1} \\times \\rm{\\dfrac{T_{2}}{T_{1}}}=7.78 \\times \\dfrac{288}{292} \\\\ & =7.67 \\mathrm{~mm} \\mathrm{Hg} \\end{aligned}[/math]\u003Cbr\u003Eএখন, পরিবর্তিত শিশিরাঙ্ক [math]\\rm{t}^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E হলে, [math]\\rm{t}^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় সম্পৃক্ত বাষ্পের চাপ [math]=7.67 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003E [math]\\therefore(8.2-7.5) \\Rightarrow 0.7 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003E চাপের পরিবর্তন হয় [math](8-7)^{\\circ} \\mathrm{C}\\Rightarrow 1^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রা পরিবর্তনের জন্য[math]\\therefore(7.67-7.5) \\Rightarrow 0.17 \\mathrm{~mm} \\mathrm{Hg}[/math]\u003Cbr\u003E চাপ বৃদ্ধির জন্য[math]7^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E থেকে তাপমাত্রা বৃদ্ধি পাবে [math]=\\dfrac{1}{0.7} \\times 17^{\\circ} \\mathrm{C}=0.24^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শিশিরাঙ্কের পরিবর্তন [math]=(7+0.24)^{\\circ} \\mathrm{C}=7.24^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eঅতএব, তাপমাত্রার পরিবর্তনে ঐ স্থানের আবদ্ধ বায়ুর শিশিরাঙ্ক পরিবর্তিত হবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শিশিরাঙ্ক বায়ুতে থাকা ভাপের প্রকৃত আর্দ্রতার ওপর নির্ভর করে; তাপমাত্রা বদলালে যদি আর্দ্রতা অপরিবর্তিত থাকে শিশিরাঙ্ক বদলাবে না। গাণিতিকভাবে প্রকৃত বাষ্পচাপটি শিশিরাঙ্ক [math]7.4^\\circ C[/math] এ সমান, যা উপরোক্ত মান থেকে আন্তঃরৈখিকভাবে আনুমানিক [math]e=7.5+\\frac{7.4-7}{8-7}(8.2-7.5)=7.78\\ mm[/math]; তাই শৈত্যপ্রবাহে তাপমাত্রা [math]15^\\circ C[/math] হলেও শিশিরাঙ্ক একই থাকবে (প্রায় [math]7.4^\\circ C[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 414450,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414450,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414450,
+            "tag_id": 7,
+            "year": "2016",
+            "created_at": "2025-08-19T06:54:11.000000Z",
+            "updated_at": "2025-08-19T06:54:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414449,
+      "value": {
+        "options": {
+          "গ": "ঐ দিনের শিশিরাঙ্ক নির্ণয় কর।"
+        },
+        "question": "একদিন হাইগ্রোমিটারের পাঠ নিতে গিয়ে দেখা গেল শুষ্ক ও আর্দ্র বাল্বের তাপমাত্রা যথাক্রমে [math]20^\\circ C[/math] এবং [math]12.8^\\circ C[/math]। [math]20^\\circ C[/math] তাপমাত্রায় গ্রেইসারের উৎপাদক, [math]1.79[/math]। [math]7^\\circ C[/math], [math]8^\\circ C[/math] ও [math]20^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে [math]7.5 \\times 10^{-3}, 8.1 \\times 10^{-3}, 17.4 \\times 10^{-3}[/math] পারদচাপ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশুষ্ক বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{1}=20^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআর্দ্র বাল্ব থার্মোমিটারের পাঠ, [math]\\theta_{2}=12.8^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eগ্লেসিয়ারের উৎপাদক, [math]\\mathrm{G}=1.79[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিশিরাঙ্ক, [math]\\theta=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\theta_{1}-\\theta &=\\rm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\ \\Rightarrow \\quad \\theta & =\\theta_{1}-G\\left(\\theta_{1}-\\theta_{2}\\right) \\\\ &=20^{\\circ} \\mathrm{C}-1.79\\left(20^{\\circ} \\mathrm{C}-12.8^{\\circ} \\mathrm{C}\\right) \\\\ & =7.112^{\\circ} \\mathrm{C} \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, ঐ দিনের শিশিরাঙ্ক [math]7.112^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 414449,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414449,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 414449,
+            "tag_id": 6,
+            "year": "2016",
+            "created_at": "2025-08-19T06:54:11.000000Z",
+            "updated_at": "2025-08-19T06:54:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414448,
+      "value": {
+        "options": {
+          "ঘ": "যদি ঐ দিন তাপমাত্রা হঠাৎ [math]1^\\circ C[/math] হ্রাস পায় তবে শিশিরাঙ্কের পরিবর্তন কিরূপ হবে তা গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "কোনো একদিন ল্যাবরেটরিতে সিক্ত ও শুষ্ক বাল্ব আর্দ্রতা মাপক যন্ত্রের শুষ্ক বাল্বের পাঠ [math]30^\\circ C[/math] এবং সিক্ত বাল্বের পাঠ [math]28^\\circ C[/math] পাওয়া গেল । ভিন্ন ভিন্ন তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ ও গ্লেইসারের উৎপাদকের মান নিচের সারণি-১ এ প্রদত্ত হলো :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-00006-202_1755586451_tZnHR16P.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশুষ্ক বাল্বের পাঠ, [math]\\theta_{1}=30^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসিক্ত বাল্বের পাঠ, [math]\\theta_{2}=28^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}30^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় গ্লেইসারের উৎপাদক, [math]\\rm{G}=1.65[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিশিরাঙ্ক [math]=\\theta[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\theta_{1}-\\theta&=\\rm{G}\\left(\\theta_{1}-\\theta_{2}\\right)\\\\ \\Rightarrow\\quad \\theta & =\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\ & =30^{\\circ} \\mathrm{C}-1.65\\left(30^{\\circ} \\mathrm{C}-28^{\\circ} \\mathrm{C}\\right) \\\\ & =26.7^{\\circ} \\mathrm{C} \\end{aligned}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}1^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রা কমালে শুষ্ক বাল্বের পাঠ হবে,[math]\\hspace{1 cm}\\theta_{3}=30^{\\circ} \\mathrm{C}-1^{\\circ} \\mathrm{C}=29^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}29^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E তাপমাত্রায় গ্লেসাইরের উৎপাদক, [math]\\rm{G}=1.66[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\theta_{3}-\\theta &=\\rm{G}\\left(\\theta_{3}-\\theta_{2}\\right)\\\\ \\Rightarrow \\quad\\theta & =\\theta_{3}-\\mathrm{G}\\left(\\theta_{3}-\\theta_{2}\\right) \\\\ & =29^{\\circ} \\mathrm{C}-1.66\\left(29^{\\circ} \\mathrm{C}-28^{\\circ} \\mathrm{C}\\right)=27.34^{\\circ} \\mathrm{C}\\end{aligned}[/math]\u003Cbr\u003Eউপরের গাণিতিক বিশ্লেষণ থেকে দেখা যায় ঐ দিনের তাপমাত্রা হঠাৎ [math]1^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E কমালে [math]\\left(27.34^{\\circ} \\mathrm{C}-26.7^{\\circ} \\mathrm{C}\\right) \\Rightarrow 0.64^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E শিশিরাঙ্ক বৃদ্ধি পাবে।",
+        "explanation": "শিশিরাঙ্ক অপরিবর্তিত থাকবে। কারণ শিশিরাঙ্ক (T_{dew}) জলীয় বাষ্পচাপের সমতুল্য তাপমাত্রা এবং হঠাৎ তাপমাত্রা হ্রাসে বাতাসে থাকা বাষ্পের parcial চাপ বদলায় না, অর্থাৎ প্রকৃত বাষ্পচাপ স্থির থাকে। গাণিতিকভাবে: শুরুতে বাস্তব বাষ্পচাপ [math]e = e_s(28^\\circ C) - \\gamma(30^\\circ C-28^\\circ C)[/math] এবং শিশিরাঙ্ক সেই মানখণ্ডের সমাধান [math]e = e_s(T_{dew})[/math]; তাপমাত্রা হঠাৎ [math]1^\\circ C[/math] কমলেও [math]e[/math] অপরিবর্তিত থাকবে, তাই [math]T_{dew}[/math] একই থাকবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 414448,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414448,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 414448,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T06:54:11.000000Z",
+            "updated_at": "2025-08-19T06:54:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414447,
+      "value": {
+        "options": {
+          "গ": "কুমিল্লায় শিশিরাঙ্ক কত? ( [math]20^{\\circ} \\mathrm{C}[/math] তাপমাত্রায় [math]\\rm{G} = 1.79[/math])"
+        },
+        "question": "নিচের ছকটি লক্ষ কর :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-0005_1755586450_nQJ4gfsw.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশুষ্ক বালবের তাপমাত্রা, [math]\\theta_{1}=20^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসিক্ত বালবের তাপমাত্রা, [math]\\theta_{2}=12^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশুষ্ক বাল্‌বের তাপমাত্রায় গ্লেসিয়ারের ধ্রুবক, [math]\\mathrm{G}=1.79[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিশিরাঙ্ক, [math]\\theta=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l}\\quad\\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\ \\Rightarrow \\theta=\\theta_{1}-\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right)=20^{\\circ} \\mathrm{C}-1.79\\left(20^{\\circ} \\mathrm{C}-12^{\\circ} \\mathrm{C}\\right) \\\\ \\Rightarrow \\theta=20^{\\circ} \\mathrm{C}-14.32^{\\circ} \\mathrm{C} \\\\ \\therefore ~\\theta=5.68^{\\circ} \\mathrm{C} \\end{array}[/math]\u003Cbr\u003Eঅতএব, কুমিল্লায় শিশিরাঙ্ক [math]5.68^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কুমিল্লায় শিশিরাঙ্ক ≈ [math]15.8^{\\circ}\\mathrm{C}[/math].  \nকারণ বাস্তব বাষ্পচাপ [math]G=1.79\\ \\text{kPa}[/math] এবং তাপমাত্রা [math]20^{\\circ}\\mathrm{C}[/math] এ স্যাচুরেশন বাষ্পচাপ [math]e_s(20)\\approx2.338\\ \\text{kPa}[/math], তাই আপেক্ষিক আর্দ্রতা [math]RH=1.79/2.338\\approx0.766[/math]; ম্যাগনাস সূত্র প্রয়োগ করলে [math]\\gamma=\\ln(0.766)+\\dfrac{17.27\\times20}{237.3+20}\\approx1.076[/math] এবং [math]T_d=\\dfrac{237.3\\gamma}{17.27-\\gamma}\\approx15.8^{\\circ}\\mathrm{C}[/math], তাই শিশিরাঙ্ক এই মান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 414447,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 414447,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 414447,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414447,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414447,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414447,
+            "tag_id": 7,
+            "year": "2018",
+            "created_at": "2025-08-19T06:54:10.000000Z",
+            "updated_at": "2025-08-19T06:54:10.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 414447,
+            "tag_id": 6,
+            "year": "2018",
+            "created_at": "2025-08-19T06:54:10.000000Z",
+            "updated_at": "2025-08-19T06:54:10.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 414447,
+            "tag_id": 3179,
+            "year": "2018",
+            "created_at": "2025-08-19T06:54:10.000000Z",
+            "updated_at": "2025-08-19T06:54:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414446,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে উল্লিখিত দিনে সিলেটের শিশিরাংক নির্ণয় করো।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-1-010-cq-solve-lq-00001_1755586449_sQA4gqDG.png\" alt=\"\"\u003E\u003Cbr/\u003E\n\n[math]20^{\\circ} \\mathrm{C}, 22^{\\circ} \\mathrm{C}, 24^{\\circ} \\mathrm{C}, 32^{\\circ} \\mathrm{C}[/math] এবং [math]34^{\\circ} \\mathrm{C}[/math] তাপমাত্রায় সম্পৃক্ত জলীয়বাষ্প চাপ যথাক্রমে [math]17.54 \\mathrm{~mm}, 19.83 \\mathrm{~mm}, 22.38 \\mathrm{~mm}, 35.66 \\mathrm{~mm}[/math] এবং [math]39.90 \\mathrm{~mm}[/math] পারদ চাপ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশুষ্ক বালব থার্মোমিটার পাঠ, [math]\\theta_{1}=32^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসিক্ত বালব থার্মোমিটার পাঠ, [math]\\theta_{2}=25^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003E20°C তাপমাত্রায় সেইসারের উৎপাদক, G = 1.63[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিশিরাঙ্ক, = 2আমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\theta & =\\theta_{1}-G\\left(\\theta_{1}-\\theta_{2}\\right) \\\\ & =32-1.63(32-25) \\\\ & =20.6^{\\circ} \\mathrm{C} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: শিশিরাংক হলো সেই তাপমাত্রা যেখানে বায়ুর আর্দ্রতার আণবিক চাপ স্যাচুরেশন চাপের সমান হয়; টেবিল অনুযায়ী আর্দ্রতার চাপ [math]22.38\\ \\text{mm Hg}[/math] হল [math]24^\\circ\\text{C}[/math]‑এর স্যাচুরেশন চাপ, সুতরাং শিশিরাংক [math]24^\\circ\\text{C}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414446,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414446,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 414446,
+            "tag_id": 6,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:09.000000Z",
+            "updated_at": "2025-08-19T06:54:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414445,
+      "value": {
+        "options": {
+          "গ": "ঐ দিনের শিশিরাঙ্ক নির্ণয় করো।"
+        },
+        "question": "একটি হাসপাতাল কর্তৃপক্ষ সবসময় রোগীদের কেবিনের আপেক্ষিক আদ্রতা [math]46\\%[/math] এর কম রাখার চেষ্টা করে। কিন্তু একদিন তাদের এসি নিয়ন্ত্রণ ইউনিট ঠিকমতো কাজ করছিল না। কর্তৃপক্ষ লক্ষ করলো যে তাদের হাসপাতালে শুষ্ক ও সিক্ত বাল্ব হাইগ্রোমিটারের পাঠ দিচ্ছে যথাক্রমে [math]23^\\circ \\rm{C}[/math], এবং [math]15.8^\\circ \\rm{C};[/math] গ্লেইসারের উৎপাদক [math]23^\\circ \\rm{C}[/math] এ [math]1.74;[/math] [math]10^\\circ \\rm{C}, 11^\\circ \\rm{C}[/math] এবং [math]23^\\circ \\rm{C}[/math] এ সম্পৃক্ত বাষ্পচাপ যথাক্র মে [math]9.2\\mathrm{~mm}, ~9.865 \\mathrm{~mm}[/math] এবং [math]21.105 \\mathrm{~mm} \\ \\mathrm{Hg} \\text {. }[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর: 10.472°C",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে ১৫.৮°C-এ সম্পৃক্ত বাষ্পচাপ সরল অনুপাত দ্বারা হিসাব করে নিন: [math]e_s(15.8)=9.865+(15.8-11)\\frac{21.105-9.865}{23-11}=14.361\\ \\rm{mmHg}[/math]. এরপর গ্লেইসারের উৎপাদক ব্যবহার করে প্রকৃত বাষ্পচাপ পাবেন: [math]e=14.361-1.74(23-15.8)=1.833\\ \\rm{mmHg}[/math]. এটিকে hPa-তে রূপান্তর করে ইনভার্স ম্যাগনুস সূত্র প্রয়োগ করে শিশিরাঙ্ক পাওয়া যায়: [math]e=1.833\\times1.3332=2.444\\ \\rm{hPa},\\quad T_{dew}=\\frac{243.04\\ln(e/6.1094)}{17.625-\\ln(e/6.1094)}\\approx -12.0^\\circ\\rm C[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414445,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 414445,
+            "tag_id": 3179,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:08.000000Z",
+            "updated_at": "2025-08-19T06:54:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414444,
+      "value": {
+        "options": {
+          "গ": "ঐ দিনে ঢাকার শিশিরাঙ্ক নির্ণয় করো।"
+        },
+        "question": "একজন আবহাওয়াবিদ দৈনিক প্রতিবেদনের জন্য নিচের উপাত্তগুলো সংগ্রহ করলেন:\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-1-08-cq-solve-lq-0003_1755586448_CRFeYxc7.png\" alt=\"\"\u003E\u003Cbr/\u003E\n\n[math]\\left[14^{\\circ} \\mathrm{C}, 16^{\\circ} \\mathrm{C}, 28^{\\circ} \\mathrm{C}, 30^{\\circ} \\mathrm{C}, 32^{\\circ} \\mathrm{C}\\right.[/math] এবং [math]34^{\\circ} \\mathrm{C}[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রম [math]11.99,13.63,28.35,31.83,35.66[/math] এবং [math]39.90 \\mathrm{~mm} \\mathrm{Hg}][/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশুষ্ক বাল্বের পাঠ, 0, = 28.6°C[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশিক্ত বাল্বের পাঠ, 02 - 20°C[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eগ্লেইসারের উৎপাদক, G = 1.664[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঢাকার শিশিরাঙ্ক, [math]\\theta = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} ~\\quad \\theta_{1}-\\theta=\\mathrm{G}\\left(\\theta_{1}-\\theta_{2}\\right) \\\\ \\Rightarrow 28.6-\\theta=1.664(28.6-20) \\\\ \\Rightarrow 28.6-\\theta=14.31 \\\\ \\therefore ~ \\theta=14.29^{\\circ} \\mathrm{C} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: শিশিরাঙ্ক হলো সেই তাপমাত্রা যেখানে বায়ুর বাস্তব জলের বাষ্পচাপ সম্পৃক্ত বাষ্পচাপের সমান হয়; এখানে বাস্তব বাষ্পচাপ [math]28.35\\ \\mathrm{mm\\ Hg}[/math] পাওয়া গেলে টেবিলে এটি [math]28^\\circ\\mathrm{C}[/math]–এর সঙ্গে মিলে, তাই শিশিরাঙ্ক [math]28^\\circ\\mathrm{C}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414444,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414444,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 414444,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:08.000000Z",
+            "updated_at": "2025-08-19T06:54:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414443,
+      "value": {
+        "options": {
+          "ঘ": "তাপমাত্রা পরিবর্তনের কারণে ঐ স্থানের আবদ্ধ বায়ুর শিশিরাঙ্কের কোনো পরিবর্তন হবে কিনা— গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও৷"
+        },
+        "question": "কোনো একটি পরীক্ষণে মিঠামইনের আবদ্ধ বায়ুর তাপমাত্রা 19°C এবং আপেক্ষিক আর্দ্রতা 47%। শৈত্য প্রবাহে ঐ স্থানের তাপমাত্রা কমে 15°C হলো। 7°C, 8°C ও 19°C তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে 7.5, 8.2 এবং 16.5 mm পারদ চাপের সমান।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E‘গ’ থেকে পাই, 19°C তাপমাত্রায় বায়ুতে উপস্থিত জলীয় বাষ্পের চাপ 7.755 mmHgঅর্থাৎ, শিশিরাঙ্কে সম্পৃক্ত জলীয় বাষ্পের চাপ = 7.755 mmHgপ্রশ্নমতে, (8.2 – 7.5) বা 0.7 mmHg বাষ্পচাপ পরিবর্তন হয়, যখন তাপমাত্রার পরিবর্তন (8° – 7°) বা 1°C[math]\\Rightarrow[/math]\u003Cbr\u003E 1 mmHg বাষ্পচাপ পরিবর্তন হয়, যখন তাপমাত্রার পরিবর্তন [math]\\frac{1}{0.7} { }^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E (7.755 - 7.5) বা 0.255 mmHg বাষ্পচাপ পরিবর্তন হয়, যখন তাপমাত্রার পরিবর্তন [math]\\left(\\frac{1 \\times 0.255}{0.7}\\right){ }^{\\circ} \\mathrm{C}=0.364^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ঐ স্থানের আবদ্ধ বায়ুর শিশিরাঙ্ক [math]=(7+0.364)^{\\circ} \\mathrm{C}=7.364^{\\circ} \\mathrm{C}[/math]\u003Cbr\u003Eএখন, ঐ স্থানের তাপমাত্রা কমে 15°C হলেও, ঐ স্থানের আবদ্ধ বায়ুর শিশিরাঙ্কের কোনো পরিবর্তন হবে না। কারণ শিশিরাঙ্ক নির্ভর করে বায়ুতে উপস্থিত জলীয় বাষ্পের পরিমাণের উপর, যা তাপমাত্রার পরিবর্তনে পরিবর্তিত হয় না৷সুতরাং বলা যায়, তাপমাত্রা কমে 15°C হলেও ঐ স্থানের আবদ্ধ বায়ুর শিশিরাঙ্ক 7.364°C ই থাকবে, পরিবর্তন হবে না।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E\nব্যাখ্যা: প্রথমে প্রকৃত বাষ্পচাপ হবে [math]e=0.47\\times16.5=7.755\\ \\text{mmHg}[/math], যে মানটি 7°C (7.5 mmHg) ও 8°C (8.2 mmHg)–এর মধ্যে আছে; তাই শিশিরাঙ্ক রৈখিকভাবে আনুমানিক হবে [math]T_d=7+\\frac{7.755-7.5}{8.2-7.5}\\approx7.36^\\circ\\text{C}[/math]. শিশিরাঙ্ক বায়ুর আর্দ্রতা (অবশ্যিক বাষ্পচাপ) বদলালে বদলে, শুধুমাত্র তাপমাত্রা 15°C-এ নামালে (যা [math]T_d[/math]-এর উপরে) কোনো ঘনীভবন হবে না, তাই শিশিরাঙ্ক পরিবর্তিত হবে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414443,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414443,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414443,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:06.000000Z",
+            "updated_at": "2025-08-19T06:54:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6602&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6602&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6602&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 62,
+  "total": 62
+}

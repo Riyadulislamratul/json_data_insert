@@ -1,0 +1,4814 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 430334,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{\\pi}{2}[/math]",
+          "খ": "[math]\\dfrac{\\pi}{3}[/math]",
+          "গ": "[math]\\dfrac{\\pi}{4}[/math]",
+          "ঘ": "[math]\\dfrac{\\pi}{6}[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর পথ পার্থক্য [math]\\dfrac{5 \\lambda}{4}[/math]। এদের দশা পার্থক্য হল—",
+        "solution": "তরঙ্গের পথ পার্থক্য ( [math]\\Delta x[/math]\u003Cbr\u003E) এবং দশা পার্থক্য ( [math]\\Delta \\phi[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্কটি হলো [math]\\Delta \\phi = \\dfrac{2\\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E । এখানে, [math]\\Delta x = \\dfrac{5 \\lambda}{4}[/math]\u003Cbr\u003E ।সুতরাং, দশা পার্থক্য ( [math]\\Delta \\phi[/math]\u003Cbr\u003E) = [math]\\dfrac{2\\pi}{\\lambda} \\times \\dfrac{5 \\lambda}{4} = \\dfrac{10\\pi}{4} = \\dfrac{5\\pi}{2}[/math]\u003Cbr\u003E ।এখানে প্রশ্নে একটি ভুল রয়েছে বলে মনে হচ্ছে, কারণ প্রদত্ত বিকল্পগুলির সাথে এটি মেলে না। তবে, যদি দশা পার্থক্য [math]\\dfrac{5\\pi}{2}[/math]\u003Cbr\u003E হয়, তাহলে এটি [math]2\\pi + \\dfrac{\\pi}{2}[/math]\u003Cbr\u003E এর সমান, অর্থাৎ দশা পার্থক্য [math]\\dfrac{\\pi}{2}[/math]\u003Cbr\u003E এর সমান। তাই বিকল্প (A) সঠিক হওয়ার সম্ভাবনা রয়েছে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430334,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430334,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 430334,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 430334,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 430334,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430334,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430334,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430334,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430334,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430334,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 430334,
+            "tag_id": 3179,
+            "year": "2016",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430334,
+            "tag_id": 5,
+            "year": "2016",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430334,
+            "tag_id": 47,
+            "year": "2015",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430333,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{\\lambda}{2}[/math]",
+          "খ": "[math]\\lambda[/math]",
+          "গ": "[math]\\dfrac{3 \\lambda}{2}[/math]",
+          "ঘ": "[math]2 \\lambda[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যবর্তী দশা পার্থক্য হলে পথ পার্থক্য [math]3 \\pi[/math] হলে পথ পার্থক্য হবে—",
+        "solution": "তরঙ্গের দশা পার্থক্য ( [math]\\Delta \\phi[/math]\u003Cbr\u003E) এবং পথ পার্থক্য ( [math]\\Delta x[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হল [math]\\Delta \\phi = \\frac{2\\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E । এখানে, দশা পার্থক্য [math]\\Delta \\phi = 3\\pi[/math]\u003Cbr\u003E এবং পথ পার্থক্য [math]\\Delta x[/math]\u003Cbr\u003E নির্ণয় করতে হবে।অতএব, [math]3\\pi = \\frac{2\\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E [math]\\Delta x = \\frac{3\\pi \\times \\lambda}{2\\pi}[/math]\u003Cbr\u003E [math]\\Delta x = \\frac{3\\lambda}{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 430333,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 430333,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 430333,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430333,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430333,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 430333,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430333,
+            "tag_id": 5,
+            "year": "2016",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430333,
+            "tag_id": 1,
+            "year": "2015",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430332,
+      "value": {
+        "options": {
+          "ক": "[math]\\pi/2[/math]",
+          "খ": "[math]\\pi[/math]",
+          "গ": "[math]3\\pi/2[/math]",
+          "ঘ": "[math]2\\pi[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য [math]\\lambda/ 4[/math] হলে দশা পার্থক্য কত?",
+        "solution": "নির্ণেয় দশ পার্থক্য [math]\\sigma=\\delta \\times \\dfrac{2 \\pi}{\\lambda}=\\dfrac{\\frac{\\lambda}{4}}{\\lambda} \\times 2 \\pi=\\dfrac{\\pi}{2} \\mathrm{rad}[/math]\u003Cbr\u003E [math]\\pi / 2[/math]\u003Cbr\u003E এর সমতুল্য দশা পার্থক্য হলো [math]\\left(\\dfrac{\\pi}{2}+2 \\pi n\\right) \\mathrm{rad}[/math]\u003Cbr\u003E; এখানে, [math]\\mathrm{n}=1,2,3 \\ldots \\ldots \\ldots[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 430332,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 430332,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430332,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 430332,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430332,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430332,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430332,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430332,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430332,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430332,
+            "tag_id": 47,
+            "year": "2015",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430331,
+      "value": {
+        "options": {
+          "ক": "[math]1.5 \\lambda[/math]",
+          "খ": "[math]1.3 \\lambda[/math]",
+          "গ": "[math]0.75 \\lambda[/math]",
+          "ঘ": "[math]0.67 \\lambda[/math]"
+        },
+        "question": "তরঙ্গের উপরস্থ দুটি বিন্দুর দশা পার্থক্য [math]\\dfrac{3}{2} \\pi[/math] হলে এদের পথ পার্থক্য—",
+        "solution": "দশ পার্থক্যের এস.আই একক রেডিয়ান এবং পথ পার্থক্যের আ আই একক মিটার ( [math]m[/math]\u003Cbr\u003E)।দশা পার্থক্য ও পথ পার্থক্যের ক্ষেত্রে [math]\\dfrac{\\delta}{\\lambda}=\\dfrac{\\sigma}{2 \\pi}[/math]\u003Cbr\u003E সম্পর্কটি প্রযোজ্য।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 430331,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430331,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 430331,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430330,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{2 \\pi}{\\lambda}[/math]",
+          "খ": "[math]\\dfrac{\\lambda}{\\pi}[/math]",
+          "গ": "[math]\\dfrac{\\lambda}{2\\pi}[/math]",
+          "ঘ": "[math]\\dfrac{2\\lambda}{\\pi}[/math]"
+        },
+        "question": "দশা পার্থক্য ও পথ পার্থক্যের অনুপাত কত?",
+        "solution": "তরঙ্গস্থিত পাশাপাশি অবস্থিত দুটি বিন্দুর মাঝে [math]\\lambda[/math]\u003Cbr\u003E পরিমাণ পথ পার্থক্য থাকলে এদের মাঝে দশা পার্থক্য [math]2\\pi rad[/math]\u003Cbr\u003E.[math]2\\pi,\\ 4\\pi,\\ 6\\pi[/math]\u003Cbr\u003E....... এ সকল দশা পার্থক্যের সমতুল্য দশা পার্থক্য হলো [math]0\\ rad[/math]\u003Cbr\u003E। অর্থাৎ এ সকল বিন্দু একই দশায় বিদ্যমান।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 430330,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 430330,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 430330,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430330,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430330,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430330,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430330,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430330,
+            "tag_id": 7,
+            "year": "2016",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430330,
+            "tag_id": 7,
+            "year": "2015",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430329,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি তড়িৎ চুম্বকীয় তরঙ্গের উপর অবস্থিত যে কোনো দুটি নির্দিষ্ট বিন্দুর দশা পার্থক্য—\n\n[math]\\quad[/math]i. বিন্দু দুটি মধ্যবর্তী দূরত্বের উপর নির্ভর করে\n\n[math]\\quad[/math]ii. তরঙ্গ দৈর্ঘ্যের উপর নির্ভর করে\n\n[math]\\quad[/math]iii. তরঙ্গের বিস্তারের উপর নির্ভর করে না\n\nনিচের কোনটি সঠিক?",
+        "solution": "দর্শা পার্থক্য ও পথ পার্থক্যের মধ্যে সম্পর্ক দশা পার্থক্য [math]=\\dfrac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য।অর্থাৎ [math]Q=\\dfrac{2 \\pi}{\\lambda} \\times \\Delta x[/math]\u003Cbr\u003E।সমীকরণ থেকে দেখা যায় যে, দশাপার্থক্য [math]Q[/math]\u003Cbr\u003E, পথ পার্থক্য [math]\\Delta x[/math]\u003Cbr\u003E এবং তরঙ্গদৈর্ঘ্য [math]\\lambda[/math]\u003Cbr\u003E এর উপর নির্ভর করে। তরঙ্গের বিস্তারের উপর নির্ভর করে না।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 430329,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430329,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430329,
+            "tag_id": 1,
+            "year": "2021",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430328,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{\\pi}{2}[/math]",
+          "খ": "[math]\\pi[/math]",
+          "গ": "[math]3 \\pi / 2[/math]",
+          "ঘ": "[math]2\\pi[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য [math]\\dfrac{\\lambda}{4}[/math] হলে দশা পার্থক্য কত?",
+        "solution": "দশা পার্থক্য [math]=\\dfrac{2 \\pi}{\\lambda}\\times[/math]\u003Cbr\u003E পথ পার্থক্য।পথ পার্থক্য [math]\\dfrac{\\lambda}{4}[/math]\u003Cbr\u003E হলে দশা পার্থক্য [math]=\\dfrac{2 \\pi}{\\lambda} \\times \\dfrac{\\lambda}{4}=\\dfrac{\\pi}{2}[/math]\u003Cbr\u003Eগঠনমূলক ব্যতিচারে [math]2[/math]\u003Cbr\u003Eটি তরঙ্গের পথ পার্থক্য [math]\\dfrac{\\lambda}{2}[/math]\u003Cbr\u003E এর জোড় গুণিতক হয়।ধ্বংসাত্মক ব্যতিচারে [math]2[/math]\u003Cbr\u003Eটি তরঙ্গের পথ পার্থক্য [math]\\dfrac{\\lambda}{2}[/math]\u003Cbr\u003E এর বিজোড় গুণিতক হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 430328,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430328,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430328,
+            "tag_id": 7,
+            "year": "2021",
+            "created_at": "2025-08-19T07:45:52.000000Z",
+            "updated_at": "2025-08-19T07:45:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430327,
+      "value": {
+        "options": {
+          "A": "[math]3 \\dfrac{\\pi}{4}[/math]",
+          "B": "[math]5 \\dfrac{\\pi}{4}[/math]",
+          "C": "[math]3 \\dfrac{\\pi}{2}[/math]",
+          "D": "[math]5 \\dfrac{\\pi}{2}[/math]"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202720board20mcq-7_1755589550_wmEdC8ll.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nউপরের চিত্র মোতাবেক [math]A[/math] ও [math]B[/math] বিন্দুর মধ্যকার দশা পার্থক্য কত ?",
+        "solution": "[math]2[/math]\u003Cbr\u003Eটি কণা একই দশায় থাকলে দশা পার্থক্য [math]2\\pi[/math]\u003Cbr\u003E। এক্ষেত্রে এদের পথ ব্যবধান এ হয়।[math]2[/math]\u003Cbr\u003Eটি কণা বিপরীত দশায় থাকলে দশা পার্থক্য [math]\\pi[/math]\u003Cbr\u003E। এদের পথ ব্যবধান [math]\\dfrac{\\lambda}{2}[/math]\u003Cbr\u003E হয়।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202720board20mcq-6_1755589551_72ygtPQF.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]A[/math]\u003Cbr\u003E ও [math]B[/math]\u003Cbr\u003E এর দশা পার্থক্য [math]2\\pi+\\dfrac{\\pi}{2}=\\dfrac{5 \\pi}{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 430327,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430327,
+            "tag_id": 47,
+            "year": "2021",
+            "created_at": "2025-08-19T07:45:51.000000Z",
+            "updated_at": "2025-08-19T07:45:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430323,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{11 \\lambda}{2}[/math]",
+          "খ": "[math]\\dfrac{11 \\pi^{2}}{\\lambda}[/math]",
+          "গ": "[math]\\dfrac{11 \\lambda}{4}[/math]",
+          "ঘ": "[math]\\dfrac{11 \\pi^{2}}{4 \\lambda}[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর দশাপার্থক্য [math]\\dfrac{11 \\pi}{2}[/math] হলে বিন্দুদ্বয়ের পথ পার্থক্য—",
+        "solution": "দশা পার্থক্য ও পথ পার্থক্যের মধ্যে সম্পর্ক, [math]\\mathrm{Q}=\\dfrac{2 \\pi}{\\lambda} \\times \\Delta \\mathrm{x}[/math]\u003Cbr\u003E [math]\\dfrac{11 \\pi}{2}=\\dfrac{2 \\pi}{\\lambda} \\times \\Delta x \\Rightarrow \\Delta x=\\dfrac{11 \\lambda}{4} \\text {। }[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 430323,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430323,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430323,
+            "tag_id": 1,
+            "year": "2021",
+            "created_at": "2025-08-19T07:45:49.000000Z",
+            "updated_at": "2025-08-19T07:45:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430322,
+      "value": {
+        "options": {
+          "ক": "0",
+          "খ": "[math]\\frac{\\lambda}{4}[/math]",
+          "গ": "[math]\\frac{\\lambda}{2}[/math]",
+          "ঘ": "[math]\\frac{3 \\lambda}{4}[/math]"
+        },
+        "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-2720part201202023-2001-1_1755589549_ldjBzVj1.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রে Q বিন্দুতে প্রথম অন্ধকার ডোরা সৃষ্টি হলে এর পথ পার্থক্য হবে—",
+        "solution": "[math]\\pi=\\frac{2 \\pi}{\\lambda} \\mathrm{x}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]x=\\frac{\\lambda}{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430322,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430322,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430322,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:49.000000Z",
+            "updated_at": "2025-08-19T07:45:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430324,
+      "value": {
+        "options": {
+          "ক": "[math]3 \\dfrac{\\pi}{2}[/math]",
+          "খ": "[math]\\pi[/math]",
+          "গ": "[math]\\dfrac{\\pi}{2}[/math]",
+          "ঘ": "[math]0[/math]"
+        },
+        "question": "একই তরঙ্গমুখে অবস্থিত যে কোনো দুটি বিন্দুর মধ্যে দশা পার্থক্য হবে—",
+        "solution": "কোনো তরঙ্গের উপর অবস্থিত সমদশা সম্পন্ন কণাগুলোর গতিপথকে তরঙ্গমুখ বলে।যেহেতু একই তরঙ্গমুখে অবস্থিত যে কোনো দুটি বিন্দু সমদশায় থাকে তাই এদের মধ্যে দশা পার্থক্য [math]0[/math] হয়।",
+        "explanation": "",
+        "correct_answer": "D. [math]0[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 430324,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430324,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 430324,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T07:45:49.000000Z",
+            "updated_at": "2025-08-19T07:45:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430325,
+      "value": {
+        "options": {
+          "ক": "[math]\\pi[/math]",
+          "খ": "[math]\\dfrac{\\pi}{2}[/math]",
+          "গ": "[math]\\dfrac{\\pi}{4}[/math]",
+          "ঘ": "[math]\\dfrac{\\pi}{8}[/math]"
+        },
+        "question": "আলোক তরঙ্গের দুটি বিন্দুর পথ পার্থক্য [math]\\dfrac{\\lambda}{4}[/math] হাল দশা পার্থক্য হবে?",
+        "solution": "দশা পার্থক্য [math]=\\dfrac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্যএখানে, দশা পার্থক্য [math]=\\dfrac{2 \\pi}{\\lambda} \\times \\dfrac{\\lambda}{4}=\\dfrac{\\pi}{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 430325,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430325,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 430325,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T07:45:49.000000Z",
+            "updated_at": "2025-08-19T07:45:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430326,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{\\pi}{2}[/math]",
+          "খ": "[math]\\dfrac{\\pi}{4}[/math]",
+          "গ": "[math]\\dfrac{\\pi}{6}[/math]",
+          "ঘ": "[math]\\dfrac{\\pi}{8}[/math]"
+        },
+        "question": "তরঙ্গের দুই বিন্দুর মধ্যে পথ পার্থক্য [math]\\dfrac{\\lambda}{4}[/math] হলে দশা পার্থক্য কত?",
+        "solution": "দশা পার্থক্য [math]=\\dfrac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্যএখানে, পথ পার্থক্য [math]=\\dfrac{\\lambda}{2 \\pi} \\times[/math]\u003Cbr\u003E দশা পার্থক্যদশা পার্থক্য [math]=\\dfrac{2 \\pi}{\\lambda} \\times \\dfrac{\\lambda}{4}=\\dfrac{\\pi}{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 430326,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430326,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430326,
+            "tag_id": 5,
+            "year": "2021",
+            "created_at": "2025-08-19T07:45:49.000000Z",
+            "updated_at": "2025-08-19T07:45:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430302,
+      "value": {
+        "options": {
+          "ক": "[math]n \\lambda[/math]",
+          "খ": "[math]n(\\lambda+1)[/math]",
+          "গ": "[math](n+1) \\frac{\\lambda}{2}[/math]",
+          "ঘ": "[math](2 n+1) \\frac{\\lambda}{2}[/math]"
+        },
+        "question": "ধ্বংসাত্মক ব্যতিচারের শর্ত হলো পথ পার্থক্য সমান -",
+        "solution": "ধ্বংসাত্মক ব্যতিচারের শর্ত হলো পথ পার্থক্য [math](2n+1)\\frac{\\lambda}{2}[/math]\u003Cbr\u003E যেখানে [math]n = 0, 1, 2, ...[/math]\u003Cbr\u003E। এই অবস্থায় দুটি তরঙ্গের পতন দশা একে অপরের বিপরীত হয়, ফলে বিস্তার কমে যায় এবং অন্ধকার ঝালর সৃষ্টি হয়। অন্য বিকল্পগুলো এই শর্ত পূরণ করে না।",
+        "explanation": "",
+        "correct_answer": "D.[math](2 n+1) \\frac{\\lambda}{2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430302,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430301,
+      "value": {
+        "options": {
+          "ক": "[math]\\pi[/math]",
+          "খ": "[math]\\frac{\\pi}{3}[/math]",
+          "গ": "[math]\\frac{\\pi}{2}[/math]",
+          "ঘ": "[math]\\frac{\\pi}{4}[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য [math]\\frac{\\lambda}{2}[/math] বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য কত ?",
+        "solution": "তরঙ্গের তরঙ্গদৈর্ঘ্য [math]\\lambda[/math]\u003Cbr\u003E এর জন্য পথ পার্থক্য ও দশা পার্থক্যের মধ্যে সম্পর্ক হল: দশা পার্থক্য = [math]\\frac{2\\pi}{\\lambda}[/math]\u003Cbr\u003E [math]\\times[/math]\u003Cbr\u003E পথ পার্থক্য।এখানে পথ পার্থক্য দেওয়া আছে [math]\\frac{\\lambda}{2}[/math]\u003Cbr\u003E।সুতরাং, দশা পার্থক্য = [math]\\frac{2\\pi}{\\lambda}[/math]\u003Cbr\u003E [math]\\times[/math]\u003Cbr\u003E [math]\\frac{\\lambda}{2}[/math]\u003Cbr\u003E = [math]\\pi[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430301,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430303,
+      "value": {
+        "options": {
+          "ক": "[math]2 \\pi[/math]",
+          "খ": "[math]2 \\pi \\lambda[/math]",
+          "গ": "[math]\\frac{2\\pi}{\\lambda}[/math]",
+          "ঘ": "[math]\\frac{\\lambda}{2 \\pi}[/math]"
+        },
+        "question": "দশা পার্থক্য পথ পার্থক্যের কতগুণ?",
+        "solution": "দশা পার্থক্য ( [math]\\Delta \\phi[/math]\u003Cbr\u003E) এবং পথ পার্থক্য ( [math]\\Delta x[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হলো [math]\\Delta \\phi = \\frac{2\\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E, যেখানে [math]\\lambda[/math]\u003Cbr\u003E হলো তরঙ্গদৈর্ঘ্য। সুতরাং, দশা পার্থক্য পথ পার্থক্যের [math]\\frac{2\\pi}{\\lambda}[/math]\u003Cbr\u003E গুণ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430303,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430304,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{n \\lambda}{2}[/math]",
+          "খ": "[math]n \\lambda[/math]",
+          "গ": "[math](2 n+1) \\frac{\\lambda}{2}[/math]",
+          "ঘ": "[math](n+1) \\frac{\\lambda}{2}[/math]"
+        },
+        "question": "গঠনমূলক ব্যতিচারের জন্য পথ পার্থক্য কী হবে?",
+        "solution": "গঠনমূলক ব্যতিচারের ক্ষেত্রে পথ পার্থক্য [math]n \\lambda[/math]\u003Cbr\u003E হয়, যেখানে [math]n[/math]\u003Cbr\u003E একটি পূর্ণসংখ্যা এবং [math]\\lambda[/math]\u003Cbr\u003E হলো তরঙ্গের তরঙ্গদৈর্ঘ্য। এই শর্তে দুটি তরঙ্গের চূড়া ও চূড়া এবং খাদ ও খাদ মিলে তীব্রতার সর্বোচ্চ বৃদ্ধি ঘটে। বিকল্প A, C এবং D ভুল কারণ এগুলি ধ্বংসাত্মক ব্যতিচারের শর্তাবলী বা অন্য কোনো ব্যতিচারের প্রকার নির্দেশ করে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430304,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430305,
+      "value": {
+        "options": {
+          "ক": "[math]n \\lambda[/math]",
+          "খ": "[math]\\frac{n \\lambda}{2}[/math]",
+          "গ": "[math](2 n+1) \\frac{\\lambda}{2}[/math]",
+          "ঘ": "[math](n+1) \\frac{\\lambda}{2}[/math]"
+        },
+        "question": "ধ্বংসাত্মক ব্যতিচারের জন্য পথ পার্থক্য কী হবে?",
+        "solution": "ধ্বংসাত্মক ব্যতিচারের জন্য, তরঙ্গ দুটির দশা পার্থক্য [math]\\pi[/math]\u003Cbr\u003E বা [math](2n+1)\\pi[/math]\u003Cbr\u003E হওয়া প্রয়োজন। এর ফলে পথ পার্থক্য [math]\\frac{\\lambda}{2}, \\frac{3\\lambda}{2}, \\frac{5\\lambda}{2}[/math]\u003Cbr\u003E, ইত্যাদি হয়, যা [math](2n+1)\\frac{\\lambda}{2}[/math]\u003Cbr\u003E আকারের হয়, যেখানে [math]n[/math]\u003Cbr\u003E একটি পূর্ণসংখ্যা। constructive interference এর জন্য পথ পার্থক্য [math]n\\lambda[/math]\u003Cbr\u003E হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430305,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430306,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\pi}{3}[/math]",
+          "খ": "[math]\\frac{\\pi}{4}[/math]",
+          "গ": "[math]\\frac{\\pi}{5}[/math]",
+          "ঘ": "[math]\\frac{\\lambda}{6}[/math]"
+        },
+        "question": "দুটি তরঙ্গের প্রতিটির ভরাদৈর্ঘ্য [math]12 \\ cm[/math]। যদি একটি থেকে অপরটি [math]14 \\ cm[/math] অগ্রগামী হয় তবে দশা পার্থক্য কত?",
+        "solution": "তরঙ্গের তরঙ্গদৈর্ঘ্য ( [math]\\lambda[/math]\u003Cbr\u003E) [math]12 \\ cm[/math]\u003Cbr\u003E এবং পথ পার্থক্য ( [math]\\Delta x[/math]\u003Cbr\u003E) [math]14 \\ cm[/math]\u003Cbr\u003E । দশা পার্থক্য ( [math]\\Delta \\phi[/math]\u003Cbr\u003E) এবং পথ পার্থক্যের মধ্যে সম্পর্ক হল [math]\\Delta \\phi = \\frac{2\\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E । এখানে, পথ পার্থক্যটি তরঙ্গদৈর্ঘ্যের চেয়ে বেশি, তাই পথ পার্থক্যকে তরঙ্গদৈর্ঘ্যের একটি গুণিতক এবং অতিরিক্ত একটি ভগ্নাংশ হিসাবে প্রকাশ করতে হবে। তবে প্রশ্নে দুটি তরঙ্গের মধ্যে কেবল একটি নির্দিষ্ট পার্থক্য উল্লেখ করা হয়েছে। যদি ধরে নেওয়া হয় যে [math]14 \\ cm[/math]\u003Cbr\u003E হলো অতিরিক্ত পথ পার্থক্য যা পূর্ণ তরঙ্গদৈর্ঘ্যের চেয়ে বেশি, তবে দশা পার্থক্য হবে: [math]\\Delta \\phi = \\frac{2\\pi}{12 \\ cm} \\times 14 \\ cm = \\frac{28\\pi}{12} = \\frac{7\\pi}{3}[/math]\u003Cbr\u003E । দশা পার্থক্য বের করার সময় আমরা সাধারণত [math]2\\pi[/math]\u003Cbr\u003E এর কম মান নিয়ে থাকি। তাই [math]\\frac{7\\pi}{3}[/math]\u003Cbr\u003E কে [math]2\\pi[/math]\u003Cbr\u003E এর সাপেক্ষে সরল করলে পাওয়া যায় [math]\\frac{7\\pi}{3} - 2\\pi = \\frac{\\pi}{3}[/math]\u003Cbr\u003E । বিকল্পে [math]\\frac{\\lambda}{6}[/math]\u003Cbr\u003E একটি পথ পার্থক্য, দশা পার্থক্য নয়। তাই সঠিক দশা পার্থক্য [math]\\frac{\\pi}{3}[/math]\u003Cbr\u003E ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430306,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430307,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\pi}{3}[/math]",
+          "খ": "[math]\\frac{\\pi}{4}[/math]",
+          "গ": "[math]\\frac{\\pi}{5}[/math]",
+          "ঘ": "[math]\\frac{\\pi}{6}[/math]"
+        },
+        "question": "দুটি তরঙ্গের প্রতিটির ভরাদৈর্ঘ্য [math]12 \\ cm[/math]। যদি একটি থেকে অপরটি [math]14 \\ cm[/math] অগ্রগামী হয় তবে দশা পার্থক্য কত?",
+        "solution": "তরঙ্গের বেগ [math]v[/math]\u003Cbr\u003E, কম্পাঙ্ক [math]f[/math]\u003Cbr\u003E এবং তরঙ্গদৈর্ঘ্য [math]\\lambda[/math]\u003Cbr\u003E হলে, [math]v = f\\lambda[/math]\u003Cbr\u003E । দশা পার্থক্য [math]\\Delta \\phi[/math]\u003Cbr\u003E এবং পথ পার্থক্য [math]\\Delta x[/math]\u003Cbr\u003E এর মধ্যে সম্পর্ক হল [math]\\Delta \\phi = \\frac{2\\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E । এখানে [math]\\lambda = 12 \\ cm[/math]\u003Cbr\u003E এবং [math]\\Delta x = 14 \\ cm[/math]\u003Cbr\u003E । সুতরাং, দশা পার্থক্য [math]\\Delta \\phi = \\frac{2\\pi}{12} \\times 14 = \\frac{14\\pi}{6} = \\frac{7\\pi}{3}[/math]\u003Cbr\u003E । তবে, প্রশ্নে যেহেতু দুটি তরঙ্গের মধ্যে পার্থক্য চেয়েছে এবং অপশনে [math]\\frac{7\\pi}{3}[/math]\u003Cbr\u003E নেই, তাই মূল দশা পার্থক্যকে [math]2\\pi[/math]\u003Cbr\u003E এর মধ্যে সীমাবদ্ধ করতে হবে। [math]\\frac{7\\pi}{3} = 2\\pi + \\frac{\\pi}{3}[/math]\u003Cbr\u003E । তাই দশা পার্থক্য হলো [math]\\frac{\\pi}{3}[/math]\u003Cbr\u003E ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430307,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430308,
+      "value": {
+        "options": {
+          "ক": "[math]2 \\pi \\lambda[/math]",
+          "খ": "[math]\\frac{1}{2 \\pi \\lambda}[/math]",
+          "গ": "[math]\\frac{2 \\pi}{\\lambda}[/math]",
+          "ঘ": "[math]\\frac{\\lambda}{2 \\pi}[/math]"
+        },
+        "question": "পথ পার্থক্য দশা পার্থক্যের কত গুণ?",
+        "solution": "তরঙ্গমুখের দুটি বিন্দুর মধ্যে দশা পার্থক্য [math](\\phi)[/math]\u003Cbr\u003E এবং পথ পার্থক্য [math](\\Delta x)[/math]\u003Cbr\u003E এর মধ্যে সম্পর্ক হল [math]\\phi = \\frac{2\\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E, যেখানে [math]\\lambda[/math]\u003Cbr\u003E হল তরঙ্গদৈর্ঘ্য। এই সম্পর্ক থেকে দেখা যায় যে, পথ পার্থক্য দশা পার্থক্যের [math]\\frac{\\lambda}{2\\pi}[/math]\u003Cbr\u003E গুণ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430308,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430309,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\delta}{2 \\pi}=\\frac{\\alpha}{\\lambda}[/math]",
+          "খ": "[math]\\frac{\\delta}{\\lambda}=\\frac{\\alpha}{2 \\pi}[/math]",
+          "গ": "[math]\\frac{\\delta}{\\lambda}=\\frac{\\alpha}{\\pi}[/math]",
+          "ঘ": "[math]\\frac{\\delta}{2 \\pi}=\\frac{\\alpha}{\\pi}[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে দশা পার্থক্য ও পথ পার্থক্যের মধ্যে সম্পর্ক হলো—",
+        "solution": "তরঙ্গের দুটি বিন্দুর মধ্যে দশা পার্থক্য ( [math]\\delta[/math]\u003Cbr\u003E) এবং পথ পার্থক্য ( [math]\\alpha[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হলো [math]\\frac{\\delta}{2 \\pi} = \\frac{\\alpha}{\\lambda}[/math]\u003Cbr\u003E, যেখানে [math]\\lambda[/math]\u003Cbr\u003E হলো তরঙ্গদৈর্ঘ্য। এই সূত্রটি দেখায় যে, একটি পূর্ণ তরঙ্গদৈর্ঘ্যের পথ পার্থক্যের জন্য দশা পার্থক্য [math]2\\pi[/math]\u003Cbr\u003E রেডিয়ান হয়।",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{\\delta}{\\lambda}=\\frac{\\alpha}{2 \\pi}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430309,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430310,
+      "value": {
+        "options": {
+          "ক": "[math]\\partial=\\dfrac{\\Delta x}{\\lambda}[/math]",
+          "খ": "[math]\\partial={\\lambda\\Delta x}[/math]",
+          "গ": "[math]\\partial=\\dfrac{2 \\pi}{\\lambda} \\Delta x[/math]",
+          "ঘ": "[math]\\partial=\\dfrac{\\lambda}{2 \\pi} \\Delta x[/math]"
+        },
+        "question": "দশা পার্থক্য [math]\\partial[/math] এবং পথ পর্থক্য [math]\\Delta\\rm{x}[/math] হলে নিচের কোনটি সঠিক?",
+        "solution": "তরঙ্গ মুখ বরাবর দুটি বিন্দুর মধ্যে পথ পার্থক্য ( [math]\\Delta\\rm{x}[/math]\u003Cbr\u003E) এবং দশা পার্থক্য ( [math]\\partial[/math]\u003Cbr\u003E) এর সম্পর্ক হলো [math]\\partial = \\frac{2 \\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E, যেখানে [math]\\lambda[/math]\u003Cbr\u003E হলো তরঙ্গদৈর্ঘ্য।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430310,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3498,
+          "full_name": "Nilphamari Govt. College, Nilphamari",
+          "short_name": "NGCC",
+          "slug": "ngcc",
+          "pivot": {
+            "question_bank_id": 430310,
+            "tag_id": 3498,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430311,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{\\lambda}{2}[/math]",
+          "খ": "[math]\\dfrac{\\lambda}{4}[/math]",
+          "গ": "[math]\\dfrac{\\lambda}{8}[/math]",
+          "ঘ": "[math]\\dfrac{\\lambda}{6}[/math]"
+        },
+        "question": "দশা পার্থক্য হলে [math]\\dfrac{\\pi}{2}[/math],পথ পার্থক্য কত?",
+        "solution": "[math]\\delta=\\dfrac{2 \\pi}{\\lambda} \\mathrm{x} \\Rightarrow \\mathrm{x}=\\dfrac{\\lambda}{2 \\pi} \\times \\delta=\\dfrac{\\lambda}{2 \\pi} \\times \\frac{\\pi}{2}=\\frac{\\lambda}{4}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430311,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 341,
+          "full_name": "Rajshahi Cadet College",
+          "short_name": "RCC",
+          "slug": "rcc",
+          "pivot": {
+            "question_bank_id": 430311,
+            "tag_id": 341,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430312,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{3 \\pi}{2}[/math]",
+          "খ": "[math]\\dfrac{\\pi}{4}[/math]",
+          "গ": "[math]\\dfrac{\\pi}{3}[/math]",
+          "ঘ": "[math]\\dfrac{\\pi}{5}[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যবর্তী পথ পার্থক্য [math]\\dfrac{2\\lambda}{4}[/math] হলে, ঐ বিন্দুদ্বয়ের মধ্যকার দশা পার্থক্য নির্ণয় কর।",
+        "solution": "দশা পার্থক্য [math]=\\dfrac{2 \\pi}{\\lambda} \\times \\dfrac{3 \\lambda}{4}=\\dfrac{3 \\pi}{2}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430312,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 244,
+          "full_name": "Rajuk Uttara Model College, Dhaka",
+          "short_name": "RUMC",
+          "slug": "rumc",
+          "pivot": {
+            "question_bank_id": 430312,
+            "tag_id": 244,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430313,
+      "value": {
+        "options": {
+          "ক": "শূন্য",
+          "খ": "[math]2\\pi[/math]",
+          "গ": "[math]4\\pi[/math]",
+          "ঘ": "ক ও খ উভয়ই"
+        },
+        "question": "দুটি সুসংগত উৎস হতে দুটি তরঙ্গ একই দশায় নিঃসৃত হলো। প্রত্যেকটি তরঙ্গের তরঙ্গদৈর্ঘ্য [math]6000\\mathring{\\rm{A}}[/math]। এদের পথ পার্থক্য [math]12000\\mathring{\\rm{A}}[/math]।\n\nউদ্দীপকের তথ্যের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\nতরঙ্গদ্বয়ের শেষ বিন্দু দুটির মধ্যে দশা পার্থক্য কত?",
+        "solution": "পথ পার্থক্য ( [math]\\Delta x[/math]\u003Cbr\u003E) এবং দশা পার্থক্য ( [math]\\Delta \\phi[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হলো [math]\\Delta \\phi = \\frac{2\\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E, যেখানে [math]\\lambda[/math]\u003Cbr\u003E হলো তরঙ্গদৈর্ঘ্য।দেওয়া আছে, [math]\\lambda = 6000\\mathring{\\rm{A}}[/math]\u003Cbr\u003E এবং [math]\\Delta x = 12000\\mathring{\\rm{A}}[/math]\u003Cbr\u003E।সুতরাং, [math]\\Delta \\phi = \\frac{2\\pi}{6000\\mathring{\\rm{A}}} \\times 12000\\mathring{\\rm{A}} = 4\\pi[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430313,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3539,
+          "full_name": "NGMCN",
+          "short_name": "NGMCN",
+          "slug": "ngmcn",
+          "pivot": {
+            "question_bank_id": 430313,
+            "tag_id": 3539,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430314,
+      "value": {
+        "options": [],
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য [math]\\frac{\\lambda}{2}[/math] । বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য কত?",
+        "solution": "[math]\\sigma = \\pi[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eদেওয়া আছে,পথ পার্থক্য, [math]\\delta=\\frac{\\lambda}{2}[/math]\u003Cbr\u003Eদশা পার্থক্য, [math]\\sigma = ?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,দশা পার্থক্য [math]=\\frac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য[math]\\begin{array}{l} \\Rightarrow \\sigma=\\frac{2 \\pi}{\\lambda} \\times \\delta \\\\ \\Rightarrow \\sigma=\\frac{2 \\pi}{\\lambda} \\times \\frac{\\lambda}{2} \\\\ \\therefore \\sigma=\\pi \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "পথ পার্থক্য [math]\\frac{\\lambda}{2}[/math] হলে দশা পার্থক্য হচ্ছে [math]\\Delta\\phi=\\frac{2\\pi}{\\lambda}\\times\\frac{\\lambda}{2}=\\pi[/math] রেডিয়ান, যা সমান [math]180^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430314,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430315,
+      "value": {
+        "options": [],
+        "question": "একই দশার দুটি তরঙ্গের প্রতিটির তরঙ্গদৈর্ঘ্য [math]6000[/math] Å । এদের মধ্যে পথ-পার্থক্য [math]9000[/math]Å হলে শেষ বিন্দুদ্বয়ের দশা পার্থক্য কত ?",
+        "solution": "[math]3 \\pi[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,তরঙ্গদৈর্ঘ্য, [math]\\lambda = 6000[/math]\u003Cbr\u003E Å[math]=6000 \\times 10^{-10}m[/math]\u003Cbr\u003Eপথ পার্থক্য,[math]=9000[/math]\u003Cbr\u003E Å[math]=9000 \\times 10^{-10}m[/math]\u003Cbr\u003Eদশা পার্থক্য, [math]=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,দশা পার্থক্য [math]=\\frac{2\\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য[math]\\begin{array}{l} =\\frac{2 \\pi}{6000 \\times 10^{-10} \\mathrm{~m}} \\\\ \\times 9000 \\times 10^{-10} \\mathrm{~m} \\\\ =3 \\pi \\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E দশা পার্থক্য [math]3\\pi \\ (Ans.)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ফেজ পার্থক্য হলো [math]\\Delta\\phi=\\frac{2\\pi}{\\lambda}\\Delta x[/math] তাই [math]\\Delta\\phi=\\frac{2\\pi}{6000}\\times9000=3\\pi\\ \\text{radian}[/math]. [math]3\\pi[/math] হলো [math]\\pi[/math] এর সমতুল্য modulo [math]2\\pi[/math], অর্থাৎ এগুলো বিপরীত পর্যায়ে (বিকর্ষী) থাকব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430315,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430316,
+      "value": {
+        "options": [],
+        "question": "একটি তরঙ্গের দুটিবন্দুর মধ্যে পথ পার্থক্য [math]\\frac{\\lambda}{2}[/math]। বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য ক ত?",
+        "solution": "[math]\\sigma = \\pi[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eদেওয়া আছে,পথ পার্থক্য, [math]\\delta=\\frac{\\lambda}{2}[/math]\u003Cbr\u003Eদশা পার্থক্য, [math]\\sigma = ?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,দশা পার্থক্য [math]=\\frac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য[math]\\begin{array}{l} \\Rightarrow \\sigma=\\frac{2 \\pi}{\\lambda} \\times \\delta \\\\ \\Rightarrow \\sigma=\\frac{2 \\pi}{\\lambda} \\times \\frac{\\lambda}{2} \\\\ \\therefore \\sigma=\\pi \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: পথ পার্থক্য ও দশা পার্থক্যের সম্পর্ক হল [math]\\phi=\\frac{2\\pi}{\\lambda}\\Delta x[/math]; এখানে [math]\\Delta x=\\frac{\\lambda}{2}[/math] বসালে [math]\\phi=\\frac{2\\pi}{\\lambda}\\cdot\\frac{\\lambda}{2}=\\pi[/math] রেডিয়ান, অর্থাৎ [math]180^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430316,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430317,
+      "value": {
+        "options": {
+          "ক": "[math]0^{\\circ}[/math]",
+          "খ": "[math]90^{\\circ}[/math]",
+          "গ": "[math]180^{\\circ}[/math]",
+          "ঘ": "[math]270^{\\circ}[/math]"
+        },
+        "question": "একটি তরঙ্গমুখের উপরস্থ বিন্দুগুলোর দশা পার্থক্য-",
+        "solution": "• হাইগেনস এর নীতি অনুসারে তরঙ্গমুখের প্রতিটি বিন্দুকে গোলকীয় তরঙ্গের উৎস হিসেবে গণ্য করা হয়।• গৌণ তরঙ্গগুলো সমান বেগে সামনের দিকে অগ্রসর হয়।• তরঙ্গমুখের উপরস্থ বিন্দুগুলোর দশাপার্থক্য [math]0^o[/math]।",
+        "explanation": "",
+        "correct_answer": "A.[math]0^{\\circ}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430317,
+            "year_id": 5
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 430317,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430317,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430317,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 430317,
+            "tag_id": 236,
+            "year": "2024",
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 430317,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430318,
+      "value": {
+        "options": {
+          "ক": "[math]\\lambda[/math] এর যুগ্ম গুণিতক",
+          "খ": "[math]\\lambda[/math] এর অযুগ্ম গুণিতক",
+          "গ": "[math]\\frac{\\lambda}{2}[/math] এর যুগ্ম গুণিতক",
+          "ঘ": "[math]\\frac{\\lambda}{2}[/math] এর অযুগ্ম গুণিতক"
+        },
+        "question": "বিনাশী ব্যতিচারের ক্ষেত্রে উপরিপাতিত তরঙ্গদ্বয়ের মধ্যে পথ পার্থক্য হবে-",
+        "solution": "• গঠনমূলক ব্যতিচারের ক্ষেত্রে তরঙ্গদ্বয়ের পথ পার্থক্য [math]\\frac{\\lambda}{2}[/math]\u003Cbr\u003E এ এর যুগ্ম গুণিতক।• ধ্বংসাত্মক ব্যতিচারের ক্ষেত্রে তরঙ্গদ্বয়ের পথ পার্থক্য [math]\\frac{\\lambda}{2}[/math]\u003Cbr\u003E এর অযুগ্ম গুণিতক।",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{\\lambda}{2}[/math] এর অযুগ্ম গুণিতক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430318,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430318,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 430318,
+            "tag_id": 4,
+            "year": "2024",
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430319,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\lambda}{2}[/math]",
+          "খ": "[math]\\frac{\\lambda}{4}[/math]",
+          "গ": "[math]\\frac{\\lambda}{8}[/math]",
+          "ঘ": "[math]\\frac{\\lambda}{16}[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর দশা-পার্থক্য [math]\\frac{\\pi}{4}[/math] হলে, পথ পার্থক্য কত হবে?",
+        "solution": "• দশা পার্থক্য, [math]\\varphi=\\frac{2 \\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E বা, [math]\\frac{\\pi}{4}=\\frac{2 \\pi}{\\lambda} \\times \\Delta x[/math]\u003Cbr\u003E বা, [math]\\Delta x=\\frac{\\lambda}{8} \\therefore[/math]\u003Cbr\u003E পথ পার্থক্য [math]=\\frac{\\lambda}{8}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430319,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430319,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430319,
+            "tag_id": 7,
+            "year": "2024",
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430320,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\pi}{2}[/math]",
+          "খ": "[math]2 \\pi[/math]",
+          "গ": "[math]3 \\pi[/math]",
+          "ঘ": "[math]\\frac{3 \\pi}{2}[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যবর্তী পথ পার্থক্য [math]\\frac{3 \\lambda}{4}[/math] হলে বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য কত হবে?",
+        "solution": "এখানে,পথ পার্থক্য, [math]x=\\frac{3 \\lambda}{4}[/math]\u003Cbr\u003Eদশা পার্থক্য, [math]\\delta=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned}\\delta & =\\frac{2 \\pi}{\\lambda} \\times x \\\\\\Rightarrow & =\\frac{2 \\pi}{\\lambda} \\times \\frac{3 \\lambda}{4} \\\\\\therefore\\delta & =\\frac{3 \\pi}{2}\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 430320,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430320,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 430320,
+            "tag_id": 6,
+            "year": "2023",
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430321,
+      "value": {
+        "options": {
+          "ক": "0",
+          "খ": "[math]\\frac{\\pi}{2}[/math]",
+          "গ": "[math]\\pi[/math]",
+          "ঘ": "[math]\\frac{3 \\pi}{2}[/math]",
+          "ঙ": "[math]3 \\pi[/math]"
+        },
+        "question": "তরঙ্গের দুটি বিন্দুর দূরত্ব [math]\\frac{3 \\lambda}{2}[/math] হলে তাদের দশা পার্থক্য কত?",
+        "solution": "দশা পাৰ্থক্য [math]=\\frac{3 \\lambda}{2}[/math]\u003Cbr\u003Eআমরা জানি,দশা পার্থক্য [math]=\\frac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য[math]\\begin{array}{l}=\\frac{2 \\pi}{\\lambda} \\times \\frac{3 \\lambda}{2} \\\\=3 \\pi\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "E.[math]3 \\pi[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430321,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 430321,
+            "tag_id": 3179,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430300,
+      "value": {
+        "options": {
+          "ক": "i,ii",
+          "খ": "i,iii",
+          "গ": "ii,iii",
+          "ঘ": "i,ii,iii"
+        },
+        "question": "পথ পার্থক্য [math]\\delta[/math] দশা পার্থক্য [math]\\sigma[/math] এবং তরঙ্গদৈর্ঘ্য [math]\\lambda[/math] হলে,\n\n[math]\\begin{array}{l}\\text{i. } \\alpha=\\frac{2 \\pi}{\\delta} \\lambda\\\\\\text{ii. } \\frac{2 \\pi}{\\delta} \\delta=\\alpha\\\\\\text{iii. } \\frac{\\lambda}{\\delta}=\\frac{2 \\pi}{\\alpha}\\end{array}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "পথ পার্থক্য ( [math]\\delta[/math]\u003Cbr\u003E) এবং দশা পার্থক্য ( [math]\\alpha[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হলো [math]\\alpha = \\frac{2\\pi}{\\lambda}\\delta[/math]\u003Cbr\u003E.প্রথম সম্পর্কটি দেখি: [math]\\alpha = \\frac{2\\pi}{\\delta} \\lambda[/math]\u003Cbr\u003E. এটি মূল সম্পর্ক থেকে ভিন্ন।দ্বিতীয় সম্পর্কটি হলো: [math]\\frac{2\\pi}{\\delta} \\delta = \\alpha[/math]\u003Cbr\u003E. এখানে [math]\\frac{2\\pi}{\\delta} \\delta[/math]\u003Cbr\u003E সরলীকরণ করলে [math]2\\pi[/math]\u003Cbr\u003E হয়। সুতরাং, [math]2\\pi = \\alpha[/math]\u003Cbr\u003E. এটি সর্বদা সত্য নয়, কারণ দশা পার্থক্য [math]\\alpha[/math]\u003Cbr\u003E [math]2\\pi[/math]\u003Cbr\u003E হতে পারে, কিন্তু সব সময় নয়।তৃতীয় সম্পর্কটি হলো: [math]\\frac{\\lambda}{\\delta} = \\frac{2\\pi}{\\alpha}[/math]\u003Cbr\u003E. মূল সম্পর্ক [math]\\alpha = \\frac{2\\pi}{\\lambda}\\delta[/math]\u003Cbr\u003E কে পুনর্বিন্যাস করলে পাই [math]\\frac{\\alpha}{2\\pi} = \\frac{\\delta}{\\lambda}[/math]\u003Cbr\u003E, যা থেকে [math]\\frac{\\lambda}{\\delta} = \\frac{2\\pi}{\\alpha}[/math]\u003Cbr\u003E পাওয়া যায়। এটি সঠিক।সুতরাং, শুধুমাত্র iii নম্বর সম্পর্কটি সঠিক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430300,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430299,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\lambda}{\\Delta x}=\\frac{\\Phi}{2 \\pi}[/math]",
+          "খ": "[math]\\frac{\\Delta x}{\\lambda}=\\frac{\\Phi}{2 \\pi}[/math]",
+          "গ": "[math]\\Delta x=\\frac{\\Phi}{2 \\pi}[/math]",
+          "ঘ": "[math]\\Phi=\\frac{\\Delta x}{2 \\pi}[/math]"
+        },
+        "question": "পথ পার্থক্য [math]\\Delta x[/math] ও দশা পার্থক্য -এর মধ্যে সঠিক সম্পর্ক কোনটি?",
+        "solution": "তরঙ্গ длиной [math]\\lambda[/math]\u003Cbr\u003E এর জন্য, পথ পার্থক্য [math]\\Delta x[/math]\u003Cbr\u003E এবং দশা পার্থক্য [math]\\Phi[/math]\u003Cbr\u003E এর মধ্যে সম্পর্ক হল [math]\\Delta x = \\frac{\\lambda}{2\\pi} \\Phi[/math]\u003Cbr\u003E. এই সম্পর্কটিকে [math]\\frac{\\Delta x}{\\lambda} = \\frac{\\Phi}{2\\pi}[/math]\u003Cbr\u003E আকারেও লেখা যেতে পারে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430299,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430298,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\pi}{8}[/math]",
+          "খ": "[math]\\frac{\\pi}{4}[/math]",
+          "গ": "[math]\\frac{\\pi}{2}[/math]",
+          "ঘ": "[math]\\pi[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য কত?",
+        "solution": "তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য ও দশা পার্থক্যের সম্পর্ক হলো, দশা পার্থক্য [math]= \\frac{2\\pi}{\\lambda} \\times \\text{পথ পার্থক্য}[/math]\u003Cbr\u003E, যেখানে [math]\\lambda[/math]\u003Cbr\u003E হলো তরঙ্গদৈর্ঘ্য। যদি পথ পার্থক্য [math]\\frac{\\lambda}{2}[/math]\u003Cbr\u003E হয়, তবে দশা পার্থক্য হবে [math]\\frac{2\\pi}{\\lambda} \\times \\frac{\\lambda}{2} = \\pi[/math]\u003Cbr\u003E.",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430298,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430297,
+      "value": {
+        "options": {
+          "ক": "[math]2 \\ \\pi[/math]",
+          "খ": "[math]2 \\pi \\lambda[/math]",
+          "গ": "[math]\\frac{\\lambda}{2 \\pi}[/math]",
+          "ঘ": "[math]\\frac{2 \\pi}{\\lambda}[/math]"
+        },
+        "question": "দশা পার্থক্য পথ পার্থক্যের কতগুণ?",
+        "solution": "দশা পার্থক্য ( [math]\\Delta \\phi[/math]\u003Cbr\u003E) এবং পথ পার্থক্য ( [math]\\Delta x[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হলো [math]\\Delta \\phi = \\frac{2 \\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E, যেখানে [math]\\lambda[/math]\u003Cbr\u003E হলো তরঙ্গদৈর্ঘ্য। সুতরাং, দশা পার্থক্য পথ পার্থক্যের [math]\\frac{2 \\pi}{\\lambda}[/math]\u003Cbr\u003E গুণ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430297,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430296,
+      "value": {
+        "options": {
+          "ক": "[math]2 \\ \\lambda[/math]",
+          "খ": "[math]\\lambda[/math]",
+          "গ": "[math]\\frac{\\lambda}{2}[/math]",
+          "ঘ": "[math]\\frac{\\lambda}{4}[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে দশা পার্থক্য [math]\\pi[/math] হলে বিন্দু দুটির মধ্যে পথ পার্থক্য কত?",
+        "solution": "তরঙ্গের দশা পার্থক্য ও পথ পার্থক্যের মধ্যে সম্পর্ক হল: পথ পার্থক্য [math]= \\frac{\\lambda}{2\\pi} \\times \\text{দশা পার্থক্য}[/math]\u003Cbr\u003E। এখানে দশা পার্থক্য দেওয়া আছে [math]\\pi[/math]\u003Cbr\u003E। তাই পথ পার্থক্য হবে [math]= \\frac{\\lambda}{2\\pi} \\times \\pi = \\frac{\\lambda}{2}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430296,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430295,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{\\pi}{2}[/math]",
+          "B": "[math]\\pi[/math]",
+          "C": "[math]2 \\pi[/math]",
+          "D": "[math]3 \\pi[/math]"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22010-7_1755589548_DjkP0DQf.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nউপরের চিত্রের আলোকে নিচের প্রশ্নের উত্তর দাওঃ\n\n[math]\\lambda[/math] পথ পার্থক্য দশা কত?",
+        "solution": "চিত্রানুসারে, দুটি তরঙ্গের মধ্যে পথ পার্থক্য হলো [math]\\Delta x = \\frac{\\lambda}{2}[/math]\u003Cbr\u003E। পথ পার্থক্য এবং দশা পার্থক্যের মধ্যে সম্পর্ক হলো [math]\\Delta \\phi = \\frac{2\\pi}{\\lambda} \\times \\Delta x[/math]\u003Cbr\u003E।এই ক্ষেত্রে, [math]\\Delta \\phi = \\frac{2\\pi}{\\lambda} \\times \\frac{\\lambda}{2} = \\pi[/math]\u003Cbr\u003E।সুতরাং, পথ পার্থক্য [math]\\lambda[/math]\u003Cbr\u003E হলে দশা পার্থক্য হবে [math]\\pi[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430295,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:45:48.000000Z",
+            "updated_at": "2025-08-19T07:45:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430294,
+      "value": {
+        "options": {
+          "ক": "[math]\\delta=\\frac{2 \\pi}{\\lambda} \\times x[/math]",
+          "খ": "[math]\\delta=\\frac{\\lambda}{2 \\pi} \\times x[/math]",
+          "গ": "[math]\\delta=\\frac{ \\pi}{\\lambda} \\times x[/math]",
+          "ঘ": "[math]\\delta=\\frac{ \\lambda}{\\pi} \\times x[/math]"
+        },
+        "question": "দুটি তরঙ্গের পথ পার্থক্য x এবং দশা পার্থক্য [math]\\delta[/math] এর মধ্যে সম্পর্ক কী?",
+        "solution": "Hints: দশাপার্থক্য [math]=\\frac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্যSolve : দশাপার্থক্য [math]=\\frac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য [math]\\Rightarrow \\delta=\\frac{2 \\pi}{\\lambda} \\times x[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যাঃ দুটি তরঙ্গের পথ পার্থক্য এবং দশা পার্থক্যের মধ্যে সম্পর্ক দশা পার্থক্য [math]=\\frac{2 \\pi}{\\lambda}[/math] পথ পার্থক্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 27,
+          "year": "2007-2008",
+          "pivot": {
+            "question_bank_id": 430294,
+            "year_id": 27
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 430294,
+            "tag_id": 73,
+            "year": "07-08",
+            "created_at": "2025-08-19T07:45:47.000000Z",
+            "updated_at": "2025-08-19T07:45:47.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430293,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\lambda}{2}[/math]",
+          "খ": "[math]\\frac{\\lambda}{4}[/math]",
+          "গ": "[math]\\frac{\\lambda}{8}[/math]",
+          "ঘ": "[math]\\lambda[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য - হলে বিন্দুদ্বয়ের দশা [math]\\frac{\\lambda}{4}[/math] পার্থক্য কত?",
+        "solution": "[math]\\text { Hints: } \\delta=\\frac{2 \\pi}{\\lambda} \\times x[/math]\u003Cbr\u003ESolve: দশা পার্থক্য [math]\\delta=\\frac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য [math](x)=\\frac{2 \\pi}{\\lambda} \\times \\frac{\\lambda}{4}=\\frac{\\pi}{2}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fsustqb-2008-9-17_1755589547_qhmUS7lj.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eচিত্রে একটি পূর্ণ তরঙ্গ দেখানো হয়েছে। এতে পথ পার্থক্য হচ্ছে A ও B এর মধ্যবর্তী দূরত্ব। আর দশা পার্থক্য হচ্ছে A ও B বিন্দুর কৌণিক ব্যবধান। সুতরাং বলা যায় λ পথ পাথকের জন্য দশা পার্থক্য একক পথ পাথকের জন্য দশা পার্থক্য [math]\\frac{2 \\pi}{\\lambda}[/math]\u003Cbr\u003Ex পথ পাথকের জন্য দশা পার্থক্য [math]\\left(\\frac{2 \\pi}{\\lambda}\\right) x[/math]\u003Cbr\u003E [math]\\therefore \\delta=\\left(\\frac{2 \\pi}{\\lambda}\\right) \\mathrm{x}[/math]\u003Cbr\u003E",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 24,
+          "year": "2008-2009",
+          "pivot": {
+            "question_bank_id": 430293,
+            "year_id": 24
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 430293,
+            "tag_id": 73,
+            "year": "08-09",
+            "created_at": "2025-08-19T07:45:47.000000Z",
+            "updated_at": "2025-08-19T07:45:47.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430280,
+      "value": {
+        "options": {
+          "ক": "[math]\\delta=\\frac{\\pi}{x} \\lambda[/math]",
+          "খ": "[math]\\delta=\\frac{2 \\pi}{x} \\lambda[/math]",
+          "গ": "[math]\\delta=\\frac{2 \\pi}{\\lambda} x[/math]",
+          "ঘ": "[math]\\frac{\\pi}{\\lambda} x[/math]"
+        },
+        "question": "নিম্নের কোন সমীকরণটি তরঙ্গদৈর্ঘ্য ও দশা (phase) -এর মধ্যে সম্পর্ক প্রকাশ করে?",
+        "solution": "দশা পার্থক্য [math](\\delta)=\\frac{2 \\pi}{\\lambda} x[/math] পথ পার্থক্য (x)",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 430280,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 49,
+          "full_name": "University of Chittagong (Unit A)",
+          "short_name": "CU-A",
+          "slug": "cu-a",
+          "pivot": {
+            "question_bank_id": 430280,
+            "tag_id": 49,
+            "year": "22-23",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430269,
+      "value": {
+        "options": {
+          "ক": "[math]\\pi/2[/math]",
+          "খ": "[math]\\pi[/math]",
+          "গ": "[math]3\\pi/2[/math]",
+          "ঘ": "[math]2\\pi[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য [math]\\lambda/ 4[/math] হলে দশা পার্থক্য কত?",
+        "solution": "নির্ণেয় দশ পার্থক্য [math]\\sigma=\\delta \\times \\dfrac{2 \\pi}{\\lambda}=\\dfrac{\\frac{\\lambda}{4}}{\\lambda} \\times 2 \\pi=\\dfrac{\\pi}{2} \\mathrm{rad}[/math]\u003Cbr\u003E [math]\\pi / 2[/math]\u003Cbr\u003E এর সমতুল্য দশা পার্থক্য হলো [math]\\left(\\dfrac{\\pi}{2}+2 \\pi n\\right) \\mathrm{rad}[/math]\u003Cbr\u003E; এখানে, [math]\\mathrm{n}=1,2,3 \\ldots \\ldots \\ldots[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 430269,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 430269,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430269,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 430269,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430269,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430269,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430269,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430269,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430269,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430269,
+            "tag_id": 47,
+            "year": "2015",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430279,
+      "value": {
+        "options": {
+          "ক": "π",
+          "খ": "2π",
+          "গ": "0",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "একটি তরঙ্গমুখের দুটি বিন্দুর মধ্যে ফেজ বা দশা পার্থক্য কী?",
+        "solution": "একটি তরঙ্গমুখের দুটি বিন্দুর মধ্যে পথ পার্থক্য [math]\\lambda[/math]।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 430279,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 430279,
+            "tag_id": 57,
+            "year": "22-23",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430278,
+      "value": {
+        "options": {
+          "ক": "0°",
+          "খ": "90°",
+          "গ": "60°",
+          "ঘ": "45°"
+        },
+        "question": "একটি তরঙ্গমুখে কণাগুলোর দশা পার্থক্য-",
+        "solution": "একই তরঙ্গমুখগুলোর মধ্যে দশা পার্থক্য 0°.",
+        "explanation": "",
+        "correct_answer": "A.0°"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 430278,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 430278,
+            "tag_id": 11,
+            "year": "22-23",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430277,
+      "value": {
+        "options": {
+          "ক": "[math]\\pi[/math]",
+          "খ": "[math]\\frac{\\pi}{2}[/math]",
+          "গ": "[math]\\frac{3 \\pi}{2}[/math]",
+          "ঘ": "[math]2 \\pi[/math]"
+        },
+        "question": "একই তরঙ্গদৈর্ঘ্যের (5640 Å) দুইটি আলোকরশ্মির মধ্যে পথ পার্থক্য [math]14.1 \\times 10 ^ {- 8} m[/math]। তাদের দশা পার্থক্য কত?",
+        "solution": "দশা পার্থক্য [math]=\\frac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য[math]=\\frac{2 \\pi}{5640 \\times 10^{-10}} \\times[/math]\u003Cbr\u003E [math]14.1 \\times 10^{-8}=\\frac{2 \\pi}{4}=\\frac{\\pi}{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 430277,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 430277,
+            "tag_id": 11,
+            "year": "23-24",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430276,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\lambda}{2}[/math]",
+          "খ": "[math]\\frac{\\lambda}{4}[/math]",
+          "গ": "[math]\\frac{3 \\lambda}{4}[/math]",
+          "ঘ": "[math]\\lambda[/math]"
+        },
+        "question": "একটি তরঙ্গের দুইটি বিন্দুর মধ্যে দশা পার্থক্য [math]\\pi / 2[/math]। বিন্দুদ্বয়ের পথ পার্থক্য কত?",
+        "solution": "দশা পার্থক্য [math]=\\frac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য[math]\\Rightarrow \\frac{\\pi}{2}=\\frac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য [math]\\Rightarrow[/math]\u003Cbr\u003E পথ পার্থক্য [math]=\\frac{\\pi}{2} \\times \\frac{\\lambda}{2 \\pi}=\\frac{\\lambda}{4}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 430276,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 430276,
+            "tag_id": 119,
+            "year": "23-24",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430275,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\lambda}{4}[/math]",
+          "খ": "[math]\\frac{\\lambda}{5}[/math]",
+          "গ": "[math]\\frac{\\lambda}{3}[/math]",
+          "ঘ": "[math]\\frac{\\lambda}{6}[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে দশা-পার্থক্য [math]\\frac{\\pi}{2}[/math]। বিন্দুদ্বয়ের মধ্যে পথ-পার্থক্য হবে-",
+        "solution": "[math]\\delta=\\frac{2 \\pi}{\\lambda} x \\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{x}=\\frac{\\lambda}{2 \\pi} \\times \\delta[/math]\u003Cbr\u003E [math]=\\frac{\\lambda}{2 \\pi} \\times \\frac{\\pi}{2}=\\frac{\\lambda}{4}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 430275,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 430275,
+            "tag_id": 119,
+            "year": "23-24",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430274,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{n} \\lambda / 2[/math]",
+          "খ": "[math](2 n+1) \\lambda / 2[/math]",
+          "গ": "[math](\\mathrm{n}+1) \\lambda / 2[/math]",
+          "ঘ": "[math]\\mathrm{n} \\lambda[/math]"
+        },
+        "question": "ধ্বংসাত্মক ব্যতিচারের জন্য পথ পার্থক্য কত হবে?",
+        "solution": "গঠনমূলক ব্যতিচারের শর্ত [math]=\\mathrm{n} \\lambda[/math]\u003Cbr\u003Eধ্বংসাত্মক [math]~~~~~[/math]\u003Cbr\u003E\" [math]~~~~~~~~~[/math]\u003Cbr\u003E\" [math]~~[/math]\u003Cbr\u003E [math]=(2 \\mathrm{n}+1) \\frac{\\lambda}{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 430274,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 430274,
+            "tag_id": 119,
+            "year": "23-24",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430273,
+      "value": {
+        "options": {
+          "ক": "[math]\\pi[/math]",
+          "খ": "[math]2\\pi[/math]",
+          "গ": "[math]3\\pi /2[/math]",
+          "ঘ": "[math]\\pi/2[/math]"
+        },
+        "question": "[math]4000\\mathring{A}[/math] তরঙ্গ দৈর্ঘ্যের দুইটি একই বর্ণের আলোক তরঙ্গের মধ্যে পথ পার্থক্য [math]2 \\times 10^{-7} \\mathrm{~m}[/math] হলে, তাদের মধ্যে দশা পার্থক্য হবে [math]-[/math]",
+        "solution": "[math]\\delta=\\dfrac{2 \\pi}{4 \\times 10^{-7}} \\times 2 \\times 10^{-7}=\\pi[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 430273,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 430273,
+            "tag_id": 80,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430272,
+      "value": {
+        "options": {
+          "ক": "2λ",
+          "খ": "λ",
+          "গ": "λ/2",
+          "ঘ": "λ/4"
+        },
+        "question": "দুটি সুসঙ্গত উৎস থেকে λ দৈর্ঘ্যের দুটি তরঙ্গ সমদশায় বের হয় । একটি বিন্দুতে যেখানে তরঙ্গ দুটি মিলিত হয় সেখানে তাদের দশা পার্থক্য 90°। তরঙ্গ দুটির অতিক্রান্ত পথ পার্থক্য তখন কত?",
+        "solution": "পথ পার্থক্য [math]=\\frac{\\lambda}{2 \\pi} \\times[/math]\u003Cbr\u003E দশা পার্থক্য [math]=\\frac{\\lambda}{2 \\pi} \\times \\frac{\\pi}{2}=\\frac{\\lambda}{4}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 430272,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 430272,
+            "tag_id": 8,
+            "year": "22-23",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430271,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{\\pi}{2}[/math]",
+          "খ": "[math]\\dfrac{\\pi}{3}[/math]",
+          "গ": "[math]\\dfrac{\\pi}{4}[/math]",
+          "ঘ": "[math]\\dfrac{\\pi}{6}[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর পথ পার্থক্য [math]\\dfrac{5 \\lambda}{4}[/math]। এদের দশা পার্থক্য হল—",
+        "solution": "তরঙ্গের পথ পার্থক্য ( [math]\\Delta x[/math]\u003Cbr\u003E) এবং দশা পার্থক্য ( [math]\\Delta \\phi[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্কটি হলো [math]\\Delta \\phi = \\dfrac{2\\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E । এখানে, [math]\\Delta x = \\dfrac{5 \\lambda}{4}[/math]\u003Cbr\u003E ।সুতরাং, দশা পার্থক্য ( [math]\\Delta \\phi[/math]\u003Cbr\u003E) = [math]\\dfrac{2\\pi}{\\lambda} \\times \\dfrac{5 \\lambda}{4} = \\dfrac{10\\pi}{4} = \\dfrac{5\\pi}{2}[/math]\u003Cbr\u003E ।এখানে প্রশ্নে একটি ভুল রয়েছে বলে মনে হচ্ছে, কারণ প্রদত্ত বিকল্পগুলির সাথে এটি মেলে না। তবে, যদি দশা পার্থক্য [math]\\dfrac{5\\pi}{2}[/math]\u003Cbr\u003E হয়, তাহলে এটি [math]2\\pi + \\dfrac{\\pi}{2}[/math]\u003Cbr\u003E এর সমান, অর্থাৎ দশা পার্থক্য [math]\\dfrac{\\pi}{2}[/math]\u003Cbr\u003E এর সমান। তাই বিকল্প (A) সঠিক হওয়ার সম্ভাবনা রয়েছে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430271,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430271,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 430271,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 430271,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 430271,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430271,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430271,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430271,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430271,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430271,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430271,
+            "tag_id": 5,
+            "year": "2016",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 430271,
+            "tag_id": 3179,
+            "year": "2016",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430271,
+            "tag_id": 47,
+            "year": "2015",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430270,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{\\lambda}{2}[/math]",
+          "খ": "[math]\\lambda[/math]",
+          "গ": "[math]\\dfrac{3 \\lambda}{2}[/math]",
+          "ঘ": "[math]2 \\lambda[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যবর্তী দশা পার্থক্য হলে পথ পার্থক্য [math]3 \\pi[/math] হলে পথ পার্থক্য হবে—",
+        "solution": "তরঙ্গের দশা পার্থক্য ( [math]\\Delta \\phi[/math]\u003Cbr\u003E) এবং পথ পার্থক্য ( [math]\\Delta x[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হল [math]\\Delta \\phi = \\frac{2\\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E । এখানে, দশা পার্থক্য [math]\\Delta \\phi = 3\\pi[/math]\u003Cbr\u003E এবং পথ পার্থক্য [math]\\Delta x[/math]\u003Cbr\u003E নির্ণয় করতে হবে।অতএব, [math]3\\pi = \\frac{2\\pi}{\\lambda} \\Delta x[/math]\u003Cbr\u003E [math]\\Delta x = \\frac{3\\pi \\times \\lambda}{2\\pi}[/math]\u003Cbr\u003E [math]\\Delta x = \\frac{3\\lambda}{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 430270,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 430270,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 430270,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430270,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430270,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 430270,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430270,
+            "tag_id": 5,
+            "year": "2016",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430270,
+            "tag_id": 1,
+            "year": "2015",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430268,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{2 \\pi}{\\lambda}[/math]",
+          "খ": "[math]\\dfrac{\\lambda}{\\pi}[/math]",
+          "গ": "[math]\\dfrac{\\lambda}{2\\pi}[/math]",
+          "ঘ": "[math]\\dfrac{2\\lambda}{\\pi}[/math]"
+        },
+        "question": "দশা পার্থক্য ও পথ পার্থক্যের অনুপাত কত?",
+        "solution": "তরঙ্গস্থিত পাশাপাশি অবস্থিত দুটি বিন্দুর মাঝে [math]\\lambda[/math]\u003Cbr\u003E পরিমাণ পথ পার্থক্য থাকলে এদের মাঝে দশা পার্থক্য [math]2\\pi rad[/math]\u003Cbr\u003E.[math]2\\pi,\\ 4\\pi,\\ 6\\pi[/math]\u003Cbr\u003E....... এ সকল দশা পার্থক্যের সমতুল্য দশা পার্থক্য হলো [math]0\\ rad[/math]\u003Cbr\u003E। অর্থাৎ এ সকল বিন্দু একই দশায় বিদ্যমান।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 430268,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 430268,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 430268,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430268,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430268,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430268,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430268,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430268,
+            "tag_id": 7,
+            "year": "2016",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430268,
+            "tag_id": 7,
+            "year": "2015",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430281,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\lambda}{4}[/math]",
+          "খ": "[math]\\frac{\\lambda}{5}[/math]",
+          "গ": "[math]\\frac{\\lambda}{3}[/math]",
+          "ঘ": "[math]\\frac{\\lambda}{6}[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে দশা-পার্থক্য [math]\\frac{\\pi}{2}[/math]। বিন্দুদ্বয়ের মধ্যে পথ-পার্থক্য 2 হবে-",
+        "solution": "[math]\\delta=\\frac{2 \\pi}{\\lambda} x \\Rightarrow x=\\frac{\\lambda}{2 \\pi} \\times \\delta=\\frac{\\lambda}{2 \\pi} \\times \\frac{\\pi}{2}=\\frac{\\lambda}{4}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 430281,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 49,
+          "full_name": "University of Chittagong (Unit A)",
+          "short_name": "CU-A",
+          "slug": "cu-a",
+          "pivot": {
+            "question_bank_id": 430281,
+            "tag_id": 49,
+            "year": "22-23",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430282,
+      "value": {
+        "options": {
+          "ক": "[math]\\delta =\\dfrac{2\\pi }{\\lambda }x[/math]",
+          "খ": "[math]\\delta =\\dfrac{2\\pi }{\\lambda x}[/math]",
+          "গ": "[math]\\delta =\\dfrac{\\pi x}{\\lambda }[/math]",
+          "ঘ": "[math]\\delta =\\dfrac{\\pi }{\\lambda x}[/math]"
+        },
+        "question": "দশা পার্থক্য ও পথ পার্থক্যের সম্পর্ক কোনটি?",
+        "solution": "তরঙ্গ courants এর ক্ষেত্রে দশা পার্থক্য ( [math]\\delta[/math]\u003Cbr\u003E) এবং পথ পার্থক্য ( [math]x[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হল [math]\\delta = \\frac{2\\pi}{\\lambda}x[/math]\u003Cbr\u003E, যেখানে [math]\\lambda[/math]\u003Cbr\u003E হল তরঙ্গ দৈর্ঘ্য। এই সম্পর্কটি একটি পূর্ণ তরঙ্গ দৈর্ঘ্য ( [math]\\lambda[/math]\u003Cbr\u003E) [math]2\\pi[/math]\u003Cbr\u003E রেডিয়ানের দশা পার্থক্যের সাথে সম্পর্কিত, তাই পথ পার্থক্যের প্রতিটি একক দৈর্ঘ্যের জন্য দশা পার্থক্য [math]\\frac{2\\pi}{\\lambda}[/math]\u003Cbr\u003E হারে বৃদ্ধি পায়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 430282,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 49,
+          "full_name": "University of Chittagong (Unit A)",
+          "short_name": "CU-A",
+          "slug": "cu-a",
+          "pivot": {
+            "question_bank_id": 430282,
+            "tag_id": 49,
+            "year": "20-21",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430283,
+      "value": {
+        "options": {
+          "ক": "[math]2\\pi[/math]",
+          "খ": "[math]\\pi /2[/math]",
+          "গ": "[math]\\pi[/math]",
+          "ঘ": "[math]3\\pi /2[/math]",
+          "ঙ": "[math]\\pi /3[/math]"
+        },
+        "question": "[math]6000\\mathring{A}[/math] তরঙ্গ দৈর্ঘ্যের দুটি আলোক তরঙ্গের মধ্যে পথপার্থক্য [math]\\Delta x=3 \\times 10^{-7} \\mathrm{~m}[/math] হলে তাদের দশাপার্থক্য [math]\\delta[/math] হবে [math]-[/math]",
+        "solution": "[math]S =\\dfrac{2 \\pi \\Delta x}{\\lambda}=\\dfrac{2 \\pi \\times 3 \\times 10^{-7}}{6000 \\times 10^{-10}}=\\pi[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 430283,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 430283,
+            "tag_id": 73,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430284,
+      "value": {
+        "options": {
+          "ক": "[math]n\\lambda[/math]",
+          "খ": "[math](2n+1)\\dfrac{\\lambda }{2}[/math]",
+          "গ": "[math](n+1)\\dfrac{\\lambda }{2}[/math]",
+          "ঘ": "[math]\\dfrac{n\\lambda }{2}[/math]"
+        },
+        "question": "গঠনমূলক ব্যাতিচার [math]\\text{(constructive interference)}[/math] এর জন্য পথ পার্থক্য কত?",
+        "solution": "গঠনমূলক ব্যতিচারের জন্য পথ পার্থক্য [math]\\text{n}\\lambda[/math]\u003Cbr\u003E যেখানে [math]\\text{n}[/math]\u003Cbr\u003E একটি পূর্ণ সংখ্যা (0, 1, 2, ...)। এই অবস্থায়, তরঙ্গ দুটি একই দশায় মিলিত হয়, ফলে বিস্তার সর্বোচ্চ হয়। বিকল্প B এবং D বিজোড় গুণিতক বা বিজোড় গুণিতকের অর্ধেক পথ পার্থক্য নির্দেশ করে, যা ধ্বংসাত্মক ব্যতিচারের জন্য প্রযোজ্য। বিকল্প C কোনও নির্দিষ্ট নিয়মের সাথে সঙ্গতিপূর্ণ নয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 430284,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 430284,
+            "tag_id": 502,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430285,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{n}\\lambda[/math]",
+          "খ": "[math]\\mathrm{n}(\\lambda +1)[/math]",
+          "গ": "[math](\\text{n}+1)\\dfrac{\\lambda }{2}[/math]",
+          "ঘ": "[math](2\\text{n}+1)\\dfrac{\\lambda }{2}[/math]"
+        },
+        "question": "ধ্বংসাত্মক ব্যতিচারের জন্য পথ পার্থক্য সমান–",
+        "solution": "ধ্বংসাত্মক ব্যতিচারের শর্ত হলো দুটি তরঙ্গের পথ পার্থক্য [math](2n+1)\\frac{\\lambda }{2}[/math]\u003Cbr\u003E আকারের হতে হবে, যেখানে [math]n[/math]\u003Cbr\u003E একটি পূর্ণসংখ্যা (0, 1, 2, ...)। এই শর্ত পূরণ হলে তরঙ্গের শিখর ও পাদ একে অপরের উপর আপতিত হয়ে একে অপরকে প্রশমিত করে। বিকল্প A তে [math]n\\lambda[/math]\u003Cbr\u003E হলো গঠনমূলক ব্যতিচারের শর্ত। বিকল্প C তে [math](\\text{n}+1)\\dfrac{\\lambda }{2}[/math]\u003Cbr\u003E পদটি ধ্বংসাত্মক ব্যতিচারের শর্তের একটি ভিন্ন রূপ হলেও এটি সবসময় প্রযোজ্য নয়। অপশন D সরাসরি ধ্বংসাত্মক ব্যতিচারের শর্ত নির্দেশ করে।",
+        "explanation": "",
+        "correct_answer": "D. [math](2\\text{n}+1)\\dfrac{\\lambda }{2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 430285,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 430285,
+            "tag_id": 3,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430286,
+      "value": {
+        "options": {
+          "ক": "[math]n\\lambda[/math]",
+          "খ": "[math]\\dfrac{n\\lambda }{2}[/math]",
+          "গ": "[math](2n+1)\\dfrac{\\lambda }{2}[/math]",
+          "ঘ": "[math](n+1)\\dfrac{\\lambda }{2}[/math]"
+        },
+        "question": "ধ্বংসাত্মক ব্যতিচারের জন্য পথ পার্থক্য কি হবে?",
+        "solution": "atwhereis an integer and is the wavelength. Option C, [math](2n+1)\\dfrac{\\lambda }{2}[/math], is the correct form for destructive interference, as it represents an odd multiple of half the wavelength, which is the condition for destructive interference. Option A represents constructive interference. Options B and D are not standard forms for either constructive or destructive interference.",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430286,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 49,
+          "full_name": "University of Chittagong (Unit A)",
+          "short_name": "CU-A",
+          "slug": "cu-a",
+          "pivot": {
+            "question_bank_id": 430286,
+            "tag_id": 49,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430287,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{\\lambda }{4}[/math]",
+          "খ": "[math]\\dfrac{\\lambda }{2}[/math]",
+          "গ": "[math]\\dfrac{\\lambda }{8}[/math]",
+          "ঘ": "[math]\\lambda[/math]"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে দশা পার্থক্য [math]\\dfrac{\\pi }{4}[/math] হলে পথ পার্থক্য কত হবে?",
+        "solution": "[math]\\Delta \\mathbf{x}=\\dfrac{\\lambda}{2 \\pi} \\times \\dfrac{\\pi}{4}=\\dfrac{\\lambda}{8}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430287,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 430287,
+            "tag_id": 84,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430288,
+      "value": {
+        "options": {
+          "ক": "[math]\\lambda /4[/math]",
+          "খ": "[math]\\lambda /2[/math]",
+          "গ": "[math]\\lambda /8[/math]",
+          "ঘ": "[math]\\lambda[/math]"
+        },
+        "question": "একটি তরঙ্গের দুইটি বিন্দুর মধ্যে দশা পার্থক্য [math]\\pi /2[/math] হলে বিন্দু দুইটির পথ পার্থক্য কত?",
+        "solution": "পথ পার্থক্য [math]=\\dfrac{\\lambda}{2 \\pi} \\times[/math] দশা পার্থক্য",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430288,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 430288,
+            "tag_id": 502,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430289,
+      "value": {
+        "options": {
+          "ক": "[math]\\text{n}\\lambda[/math]",
+          "খ": "[math]\\dfrac{(\\text{n}+1)\\lambda }{2}[/math]",
+          "গ": "[math]\\dfrac{(2\\text{n}+1)\\lambda }{2}[/math]",
+          "ঘ": "[math]\\dfrac{(2\\text{n}-1)\\lambda }{2}[/math]"
+        },
+        "question": "ধ্বংসাত্মক ব্যাতিচার এর জন্য পথ পার্থক্য কত?",
+        "solution": "ধ্বংসাত্মক ব্যতিচারের জন্য পথ পার্থক্য হয় [math](2n-1)\\frac{\\lambda}{2}[/math]\u003Cbr\u003E যেখানে [math]n[/math]\u003Cbr\u003E হল একটি পূর্ণসংখ্যা। এই শর্তে দুটি তরঙ্গের মধ্যে দশা পার্থক্য [math]\\pi[/math]\u003Cbr\u003E বা এর বিজোড় গুণিতক হয়, ফলে তারা একে অপরের প্রভাবকে নষ্ট করে দেয়। বিকল্প A) গঠনমূলক ব্যতিচারের শর্ত এবং বিকল্প B) ও C) কোনো নির্দিষ্ট ব্যতিচারের সাধারণ শর্ত নয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430289,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 430289,
+            "tag_id": 502,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430290,
+      "value": {
+        "options": {
+          "A": "[math]125^{\\circ }[/math]",
+          "B": "[math]120^{\\circ }[/math]",
+          "C": "[math]130^{\\circ }[/math]",
+          "D": "[math]100^\\circ[/math]"
+        },
+        "question": "How much phase difference is created when an electromagnetic wave of frequency [math]1000\\ MHz[/math] travels a distance of [math]10cm[/math]?",
+        "solution": "[math]\\lambda=\\dfrac{c}{f}=\\dfrac{3 \\times 10^{8}}{1000 \\times 10^{6}}=0.3 \\mathrm{~m} \\therefore \\Delta \\varphi=\\dfrac{2 \\pi}{\\lambda} \\times \\Delta x=\\dfrac{2 \\pi}{0.3} \\times 0.1=\\dfrac{2 \\pi^{c}}{3}=120^{\\circ}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 430290,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 430290,
+            "tag_id": 55,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430291,
+      "value": {
+        "options": {
+          "ক": "27°",
+          "খ": "72°",
+          "গ": "90°",
+          "ঘ": "180°"
+        },
+        "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য [math]\\lambda / 5[/math] হলে বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য কত?",
+        "solution": "দশা পার্থক্য [math]=\\frac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য[math]=\\frac{2 \\pi}{\\lambda} \\times \\frac{\\lambda}{5}[/math]\u003Cbr\u003E [math]=\\frac{2 \\pi}{5}[/math]\u003Cbr\u003E [math]=\\frac{2 \\pi}{5} \\times \\frac{180^{\\circ}}{\\pi}[/math]\u003Cbr\u003E [math]=72^{\\circ}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 430291,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 471,
+          "full_name": "Sylhet Agricultural University",
+          "short_name": "SAU",
+          "slug": "sau",
+          "pivot": {
+            "question_bank_id": 430291,
+            "tag_id": 471,
+            "year": "10-11",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430292,
+      "value": {
+        "options": {
+          "ক": "[math]\\Delta=\\frac{\\lambda}{2 \\pi} \\times \\delta[/math]",
+          "খ": "[math]\\Delta=\\frac{\\lambda}{ \\pi} \\times \\delta[/math]",
+          "গ": "[math]\\Delta=\\frac{2 \\pi}{\\lambda} \\times \\delta[/math]",
+          "ঘ": "[math]\\Delta=\\frac{\\pi}{\\lambda } \\times \\delta[/math]"
+        },
+        "question": "দুটি তরঙ্গের পথ পার্থক্য [math]\\Delta[/math] এবং দশা পার্থক্য [math]\\delta[/math] এর মধ্যে সম্পর্ক কী?",
+        "solution": "Hints: কণার রৈখিক সরণ পথ পার্থক্য এবং কৌণিক সরণ দশা পার্থক্য।Solve : দশা পার্থক্য [math]=\\frac{2 \\pi}{\\lambda} \\times[/math]\u003Cbr\u003E পথ পার্থক্য[math]\\Rightarrow \\delta=\\frac{2 \\pi}{\\lambda} \\times \\Delta \\Rightarrow \\Delta=\\frac{\\lambda}{2 \\pi} \\times \\delta[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 430292,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 430292,
+            "tag_id": 73,
+            "year": "09-10",
+            "created_at": "2025-08-19T07:45:45.000000Z",
+            "updated_at": "2025-08-19T07:45:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6692&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6692&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6692&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 67,
+  "total": 67
+}

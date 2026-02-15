@@ -1,0 +1,3596 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 429744,
+      "value": {
+        "options": [],
+        "question": "পরম প্রতিসারাংক কাকে বলে?",
+        "solution": "আলোক রশ্মি শূন্য মাধ্যম থেকে অন্য কোনো মাধ্যমে তির্যকভাবে প্রবেশ করলে নির্দিষ্ট বর্ণের আলোর জন্য আপতন কোণের সাইন এবং প্রতিসরণ কোণের সাইনের অনুপাত হলো শূন্য মাধ্যমের সাপেক্ষে দ্বিতীয় মাধ্যমের পরম প্রতিসারাংক।",
+        "explanation": "পরম প্রতিসারাংক হলো একাধিক সংখ্যার সকল সাধারণ বিভাজকের মধ্যে সবচেয়ে বড় বিভাজক। অর্থাৎ এমন একটি বৃহৎ ধনাত্মক সংখ্যা যা দিয়ে ঐ সব সংখ্যাকে পুরোপুরি ভাগ করা যায়; এটাকেই HCF বা GCD বলা হয়। সাধারণত সংখ্যাগুলোকে মৌলগুণে ভেঙে তাদের সাধারণ মৌলগুলোর সর্বোচ্চ শক্তিগুলো গুণ করে পরম প্রতিসারাংক পাওয়া হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 429744,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 429744,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 429744,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T07:44:59.000000Z",
+            "updated_at": "2025-08-19T07:44:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429743,
+      "value": {
+        "options": {
+          "গ": "পানির প্রতিসরাঙ্ক হলে ফলকটির উপাদানের প্রতিসরাঙ্ক কত?"
+        },
+        "question": "প্রকৃত গভীরতা [math]= 4\\ cm[/math] কাচ ফলকের [math]AB[/math] তলে লম্বভাবে তাকালে এর পুরত্ব [math]2.5\\ cm[/math] এবং [math]C[/math] বিন্দুতে তাকালে [math]2.9\\ cm[/math] মনে হয়।\n\u003Cbr/\u003E\u003Cimg src=\"https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20PHY%2026%20TP%20CQ-'_12-.png?alt=media&token=f2abc2b6-35f1-4671-9588-fb407f1f659e\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,প্রকৃত গভীরতা, u = 4 cmআপাত গভীরতা, v = 2.9 cm4 পানির প্রতিসরাঙ্ক, [math]\\mu_w = \\frac {4}{3}[/math]\u003Cbr\u003E [math]\\mu_g = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned}{ }_{w} \\mu_{g} & =\\frac{u}{v} \\\\\\Rightarrow \\frac{\\mu_{g}}{\\mu_{w}} & =\\frac{4}{2.9} \\\\\\Rightarrow \\quad \\mu_{g} & =\\frac{4}{2.9} \\times \\mu_{w}=\\frac{4}{2.9} \\times \\frac{4}{3} \\\\\\therefore \\quad \\mu_{g} & =1.83\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: লম্বভাবে দেখা হলে আপারেন্ট গভীরতা = বাস্তব গভীরতা × (উপরে থাকা মাধ্যমের প্রতিসরাঙ্ক / ফলকের প্রতিসরাঙ্ক)। AB অঞ্চলে উপরের মাধ্যম ধরা হয় বায়ু (প্রতিসরাঙ্ক [math]1[/math]) তাই [math]2.5 = 4\\times\\frac{1}{\\mu}[/math], এখান থেকে [math]\\mu=\\frac{4}{2.5}=1.6[/math]; তাই ফলকের উপাদানের প্রতিসরাঙ্ক [math]1.6[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 429743,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3405,
+          "full_name": "Govt. Majid Mammorial City College. Khulna",
+          "short_name": "GMMCCK",
+          "slug": "gmmcck",
+          "pivot": {
+            "question_bank_id": 429743,
+            "tag_id": 3405,
+            "year": "2020",
+            "created_at": "2025-08-19T07:44:59.000000Z",
+            "updated_at": "2025-08-19T07:44:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429742,
+      "value": {
+        "options": [],
+        "question": "পানির প্রতিসরাঙ্ক [math]\\frac{4}{3}[/math]। কাচের প্রতিসরাঙ্ক [math]\\frac{3}{2}[/math]। পানির সাপেক্ষে কাচের প্রতিসরাঙ্ক কত?",
+        "solution": "[math]\\frac{9}{8}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,কাচের পরম প্রতিসরাঙ্ক, [math]\\mu_{g}=\\frac{3}{2}[/math]\u003Cbr\u003Eপানির পরম প্রতিসরাঙ্ক, [math]\\mu_{w}=\\frac{4}{3}[/math]\u003Cbr\u003Eপানির সাপেক্ষে কাচের প্রতিসরাঙ্ক, [math]{}_w\\mu_g=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned} {}_w \\mu_{s} & =\\frac{\\mu_{2}}{\\mu_{w}} \\\\ & =\\frac{\\frac{3}{2}}{\\frac{4}{3}} \\\\ & =\\frac{9}{8} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: কাচের সাপেক্ষে (relative) প্রতিসরাঙ্ক পাওয়া হয় কাচের আপেক্ষিক সূচককে পানির আপেক্ষিক সূচকে ভাগ করে, তাই [math]\\frac{n_{\\text{glass}}}{n_{\\text{water}}}=\\frac{\\frac{3}{2}}{\\frac{4}{3}}=\\frac{3}{2}\\times\\frac{3}{4}=\\frac{9}{8}=1.125[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429742,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:59.000000Z",
+            "updated_at": "2025-08-19T07:44:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429741,
+      "value": {
+        "options": [],
+        "question": "একটি পুকুর [math]2.4 \\ m[/math] গভীর। উপর থেকে দেখলে পুকুরটিকে [math]1.8m[/math] গভীর মনে হয়। পানির প্রতিসরাঙ্ক কত?",
+        "solution": "[math]1.33[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,প্রকৃত গভীরতা, [math]u=2.4m[/math]\u003Cbr\u003Eআপাত গভীরতা, [math]v=1.8m[/math]\u003Cbr\u003Eপানির প্রতিসরাঙ্ক, [math]{}_a \\mu_{w}=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math]{}_a \\mu_w =[/math]\u003Cbr\u003E প্রকৃত গভীরতা/আপাত গভীরতা [math]=\\frac{u}{v}[/math]\u003Cbr\u003E [math]\\begin{array}{l} =\\frac{2.4 \\mathrm{~m}}{1.8 \\mathrm{~m}} \\\\ =1.33 \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "পানির মুখে থেকে আলো ভাঁজ হয়ে নিচের বস্তুগুলো সত্যিকারের গভীরতার চেয়ে কম গভীরে দেখায়, তাই প্রতিসরাঙ্ক = বাস্তব গভীরতা / আপারেন্ট গভীরতা। এখানে [math]μ=\\frac{2.4}{1.8}=\\frac{4}{3}\\approx1.33[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429741,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:59.000000Z",
+            "updated_at": "2025-08-19T07:44:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429740,
+      "value": {
+        "options": [],
+        "question": "পানি অপেক্ষা কাচ ঘনতর। কাচ অপেক্ষা ধারক ঘনতর। কার | সাপেক্ষে পানির প্রতিসরাঙ্ক [math]0.887[/math] । কাচ সাপেক্ষে হীরকের প্রতি সরার [math]1.6[/math]। পানি সাপেক্ষে হীরকের প্রতিসরাঙ্ক কত?",
+        "solution": "[math]1.8[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,কাচ সাপেক্ষে পানির প্রতিসরঙ্ক, [math]{}_g \\mu_{w}=0.887[/math]\u003Cbr\u003Eকাচ সাপেক্ষে হীরকের প্রতিসরাঙ্ক, [math]{}_g \\mu_{d}=1.6[/math]\u003Cbr\u003Eপানি সাপেক্ষে ধীরকের প্রতিসরাঙ্ক, [math]{}_w \\mu_{d}=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned} {}_w \\mu_{d} & =\\frac{{}_g \\mu_{d}}{{}_g\\mu_{\\omega}} \\\\ & =\\frac{1.6}{0.887} \\\\ & =1.8 \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: আপেক্ষিক সূচকগুলো অনুপাত হিসেবে কাজ করে, সুতরাং হীরকের পানি সাপেক্ষ সূচক হবে [math]\\dfrac{n_{\\text{হীরক}}/n_{\\text{কাচ}}}{n_{\\text{পানি}}/n_{\\text{কাচ}}}[/math]। তাই [math]\\dfrac{1.6}{0.887}=1.804\\approx 1.80[/math], অর্থাৎ পানি সাপেক্ষে হীরকের প্রতিসরাঙ্ক প্রায় [math]1.80[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429740,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:59.000000Z",
+            "updated_at": "2025-08-19T07:44:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429739,
+      "value": {
+        "options": [],
+        "question": "পানি সাপেক্ষে কাচের প্রতিসরাঙ্ক [math]1.127[/math] কাচ সাপেক্ষে পানির প্রতিসরাঙ্ক কত?",
+        "solution": "[math]0.8873[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে, পানি সাপেক্ষে কাচের প্রতিসরনাঙ্ক, [math]{ }_w{ \\mu_{g}}=1.127[/math]\u003Cbr\u003Eকাচ সাপেক্ষে পানির প্রতিসরনাঙ্ক, [math]{ }_{\\mathrm{a}} \\mu_{w}=\\text { ? }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned} {}_g \\mu_{w} & =\\frac{1}{{}_w \\mu_{g}} \\\\ & =\\frac{1}{1.127} \\\\ & =0.8873 \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "কারণ দুই মাধ্যমের প্রত্যেকটির একে অপরের প্রতি প্রতিসরাঙ্ক পরস্পরবিপরীত হয়, তাই পানির কাচ‑সাপেক্ষ প্রতিসরাঙ্ক হলো এর উল্টো। [math]n_{\\text{water/glass}}=\\frac{1}{n_{\\text{glass/water}}}=\\frac{1}{1.127}\\approx0.887[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429739,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:59.000000Z",
+            "updated_at": "2025-08-19T07:44:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429738,
+      "value": {
+        "options": [],
+        "question": "আলো বায়ু হতে কাচে প্রবেশের সময়, আপতন কোণ [math]50°[/math] হলে প্রতিসরণ কোণ [math]30°[/math] হয়। বায়ু সাপেক্ষে কাচের প্রতিসরাঙ্ক ক ত?",
+        "solution": "[math]1.53[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,আপতন কোণ, [math]i=50^{\\circ}[/math]\u003Cbr\u003Eপ্রতিসরণ কোণ, [math]r=30^{\\circ}[/math]\u003Cbr\u003Eবায়ু সাপেক্ষে কাচের প্রতিসরাঙ্ক, [math]{}_a \\mu_{g}=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned} {}_a\\mu_{g} & =\\frac{\\sin i}{\\sin r} \\\\& =\\frac{\\sin 50^{\\circ}}{\\sin 30^{\\circ}} \\\\ & =1.53 \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "আলো প্রতিসরণে স্নেলের সূত্র ব্যবহার করা হয়: [math]n_1\\sin i=n_2\\sin r[/math]; বায়ুর জন্য [math]n_1\\approx1[/math] হলে কাচের প্রতিসরাঙ্ক [math]n=\\dfrac{\\sin50^\\circ}{\\sin30^\\circ}[/math]। এখানে [math]\\sin50^\\circ\\approx0.7660[/math] এবং [math]\\sin30^\\circ=0.5[/math], তাই [math]n\\approx\\dfrac{0.7660}{0.5}\\approx1.53[/math] — এভাবে উত্তর পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429738,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:59.000000Z",
+            "updated_at": "2025-08-19T07:44:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429737,
+      "value": {
+        "options": {
+          "ঘ": "প্রতিসরণাঙ্ক কি সর্বক্ষেত্রে সর্বদা একটি ধ্রুব সংখ্যা? উত্তরের সপক্ষে যুক্তি দাও।"
+        },
+        "question": "অসীম একজন ভালো ছাত্র। কোনো স্বচ্ছ মাধ্যমের প্রতিসরণাঙ্ক সম্বন্ধে তার ভালো ধারণা ছিল। শিক্ষকের পরামর্শ নিয়ে একদিন পরীক্ষাগারে আয়তকার কাচ ফলকের প্রতিসরণাঙ্ক নির্ণয় করতে আগ্রহী হলো। পিন পদ্ধতিতে কাচের প্রতিসরাঙ্ক নির্ণয় করতে গিয়ে আপতন কোণ ও প্রতিসরণ কোণের মান পেল [math]45°[/math] ও [math]30°[/math] ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএক জোড়া নির্দিষ্ট মাধ্যম এবং একটি নির্দিষ্ট বর্ণের তির্যকভাবে আপতিত আলোক রশ্মির জন্য আপতন কোণের সাইন এবং প্রতিসরণ কোণের সাইনের অনুপাত সর্বদা একটি ধ্রুব রাশি হয়। এই ধ্রুব রাশিকে ঐ বর্ণের জন্য প্রথম মাধ্যম সাপেক্ষে দ্বিতীয় মাধ্যমের প্রতিসরণাঙ্ক বলে। এই ধ্রুবকের মান মাধ্যম দুটির প্রকৃতি ও ব্যবহৃত আলোর বর্ণের প্রকৃতির ওপর নির্ভর করে। প্রতিসরণাঙ্ক সর্বক্ষেত্রে ব নয়। শুধু নির্দিষ্ট একজোড়া মাধ্যম ও নির্দিষ্ট বর্ণের জন্য খুব ।কোনো মাধ্যমের প্রতিসরণাঙ্ক নির্ণয় করার সময় দেখা যায় যে, প্রতিসরণাঙ্ক ব্যবহৃত আলোর বর্ণ তথা তরঙ্গ দৈর্ঘ্যের ওপর নির্ভরশীল প্রতিসরণাঙ্কের তরঙ্গদৈর্ঘ্য নির্ভরতা কচির সমীকরণ হতে পাওয়া যায় ।[math]\\mu=A+\\frac{B}{\\lambda^{2}}+\\frac{C}{\\lambda^{4}}[/math]\u003Cbr\u003Eযেখানে,[math]\\mu[/math]\u003Cbr\u003E = পরীক্ষাধীন মাধ্যমের প্রতিসরণাঙ্ক[math]\\lambda[/math]\u003Cbr\u003E = ব্যবহৃত আলোর তরঙ্গ দৈর্ঘ্যA, B, C কচির ধ্রুবক । এ সমীকরণ হতে দেখা যায় যে, তরঙ্গদৈর্ঘ্য বাড়লে প্রতিসরণাঙ্ক কমে যায়। যেমন, লাল আলোর তরঙ্গদৈর্ঘ্য বেগুনী আলোর তুলনায় বেশি। তাই লাল বর্ণের আলোর জন্য কোনো মাধ্যমের প্রতিসরণাঙ্ক যত হয়, বেগুনি বর্ণের আলোর জন্য প্রতিসরণাঙ্ক তার চেয়ে বেশি মানের হয়। সুতরাং দেখা যায় যে, প্রতিসরণাঙ্ক একজোড়া নির্দিষ্ট মাধ্যম ও একটি নির্দিষ্ট বর্ণের জন্য ধ্রুব কিন্তু বর্ণ এবং মাধ্যমের প্রকৃতি পরিবর্তন হলে প্রতিসরণাঙ্ক ধ্রুব নয়।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E না — প্রতিসরণাঙ্ক সবক্ষেত্রে ধ্রুব নয়; একটি নির্দিষ্ট দম্পত‍্য মাধ্যম ও নির্দিষ্ট তরঙ্গদৈর্ঘ্যের (রঙের) আলোর জন্য তা ধ্রুব হবে। উদাহরণস্বরূপ এখানে [math]n=\\frac{\\sin45°}{\\sin30°}=\\frac{\\sqrt2/2}{1/2}=\\sqrt2[/math]। তবু প্রতিসরণাঙ্ক সাধারণত তরঙ্গদৈর্ঘ্য (বর্ণ), তাপমাত্রা ও চাপ অনুযায়ী পরিবর্তিত হয় (বিক্ষেপ/Dispersion), তাই সার্বজনীন ধ্রুব নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429737,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:59.000000Z",
+            "updated_at": "2025-08-19T07:44:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429736,
+      "value": {
+        "options": {
+          "গ": "অসীমের পরীক্ষায় ব্যবহৃত কাচ ফলকের প্রতিসরণাঙ্ক কতছিল?"
+        },
+        "question": "অসীম একজন ভালো ছাত্র। কোনো স্বচ্ছ মাধ্যমের প্রতিসরণাঙ্ক সম্বন্ধে তার ভালো ধারণা ছিল। শিক্ষকের পরামর্শ নিয়ে একদিন পরীক্ষাগারে আয়তকার কাচ ফলকের প্রতিসরণাঙ্ক নির্ণয় করতে আগ্রহী হলো। পিন পদ্ধতিতে কাচের প্রতিসরাঙ্ক নির্ণয় করতে গিয়ে আপতন কোণ ও প্রতিসরণ কোণের মান পেল [math]45°[/math] ও [math]30°[/math] ।",
+        "solution": "",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কাচের প্রতিসরণাঙ্ক Snell-এর সূত্র অনুযায়ী [math]n=\\dfrac{\\sin i}{\\sin r}[/math] হলে [math]n=\\dfrac{\\sin45°}{\\sin30°}=\\dfrac{\\frac{\\sqrt{2}}{2}}{\\frac{1}{2}}=\\sqrt{2}\\approx1.414[/math]। এখানে বায়ুর প্রতিসরণাঙ্ক [math]1[/math] ধরা হয়েছে, তাই ফলাফল সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429736,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:59.000000Z",
+            "updated_at": "2025-08-19T07:44:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429735,
+      "value": {
+        "options": {
+          "গ": "উল্লিখিত প্রিজমটির উপাদানের প্রতিসরাংক কত?"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-2205-6_1755589499_d9Hn5fK8.png\" alt=\"\"\u003E\u003Cbr/\u003E\n\nউপরের চিত্রে একটি সমবাহু প্রিজমের ভিন্ন ভিন্ন আপতন কোণের জন্য বিচ্যুতি কোণ বনাম আপতন কোণ এর লেখচিত্র দেখানো হয়েছে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,প্রিজম কোণ, A = 60°ন্যূনতম বিচ্যুতি কোণ, [math]\\delta_{\\mathrm{m}}[/math]\u003Cbr\u003E = 30°প্রিজমের উপাদানের প্রতিসরণাঙ্ক, [math]\\mu[/math]\u003Cbr\u003E= ?আমরা জানি,[math]\\mu=\\frac{\\sin \\frac{A+\\delta_{m}}{2}}{\\sin \\frac{A}{2}}[/math]\u003Cbr\u003E [math]=\\frac{\\sin \\frac{60^{\\circ}+30^{\\circ}}{2}}{\\sin \\frac{60^{\\circ}}{2}}=\\frac{\\sin 45^{\\circ}}{\\sin 30^{\\circ}}=1.414 \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বক্ররেখার ন্যূনতম বিচ্যুতি গ্রাফ থেকে [math]\\delta_{\\min}=30^\\circ[/math] হিসাবে নেওয়া যায়; সমবাহু প্রিজমে কোণ [math]A=60^\\circ[/math] হলে প্রতিসরাংকটি সূত্র থেকে পাওয়া যায় [math]n=\\dfrac{\\sin\\frac{A+\\delta_{\\min}}{2}}{\\sin\\frac{A}{2}}=\\dfrac{\\sin\\frac{60^\\circ+30^\\circ}{2}}{\\sin30^\\circ}=\\dfrac{\\sin45^\\circ}{\\tfrac{1}{2}}= \\sqrt{2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 429735,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:44:59.000000Z",
+            "updated_at": "2025-08-19T07:44:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429734,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্রিজমের প্রতিসরণাঙ্ক নির্ভর করে—-\n\n[math]\\hspace{1.2 cm}[/math]i. প্রিজমের উপাদানের উপর\n\n[math]\\hspace{1.2 cm}[/math]ii. আলোর তরঙ্গদৈর্ঘের উপর\n\n[math]\\hspace{1.2 cm}[/math]iii. প্রিজমের কোণের উপর\n\nনিচের কোনটি সঠিক?",
+        "solution": "প্রিজমের প্রতিসরণাঙ্ক প্রিজমের উপাদানের উপর নির্ভর করে কারণ বিভিন্ন উপাদানের আলোর প্রতিসরণের ক্ষমতা ভিন্ন ভিন্ন হয়। এছাড়াও, আলোর তরঙ্গদৈর্ঘ্যের উপরও প্রতিসরণাঙ্ক নির্ভর করে, যা আলোর বিচ্ছুরণের জন্য দায়ী। প্রিজমের কোণ প্রতিসরণাঙ্কের উপর সরাসরি নির্ভর করে না, বরং প্রতিসরণের ফলে আলোর বিচ্যুতি কোণকে প্রভাবিত করে। সুতরাং, বিকল্প A সঠিক।অতিরিক্ত তথ্য: প্রিজমের উপাদানের প্রতিসরণাঙ্ক সাধারণত আলোর তরঙ্গদৈর্ঘ্যের সাথে পরিবর্তিত হয়। যেমন, কাঁচের প্রতিসরণাঙ্ক নীল আলোর জন্য লাল আলোর চেয়ে বেশি। একে পদার্থের বিচ্ছুরণ ক্ষমতা বলা হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 429734,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3536,
+          "full_name": "PAMC",
+          "short_name": "PAMC",
+          "slug": "pamc",
+          "pivot": {
+            "question_bank_id": 429734,
+            "tag_id": 3536,
+            "year": "2022",
+            "created_at": "2025-08-19T07:44:58.000000Z",
+            "updated_at": "2025-08-19T07:44:58.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429733,
+      "value": {
+        "options": {
+          "A": "[math]\\mu^2 = \\mu_1 \\mu_2[/math]",
+          "B": "[math]\\mu = \\mu_1 + \\mu_2[/math]",
+          "C": "[math]\\mu = \\mu_1 - \\mu_2[/math]",
+          "D": "[math]\\mu = \\frac{\\mu_1 + \\mu_2}{2}[/math]"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-620teste20mcq-2-3201_1755589498_K1K6SQkr.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রানুযায়ী [math]\\mu[/math] প্রতিসরাঙ্ক দ্বয়ের মধ্যে সম্পর্ক কি হবে ?",
+        "solution": "আলোর ঘনত্বের পার্থক্যের উপর ভিত্তি করে আলোক রশ্মি থেকে হালকা মাধ্যমের মধ্য দিয়ে যাওয়ার সময় বেঁকে যায়। ঘনত একই থাকলে সো প্রতিসরণাঙ্ক সমান হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 429733,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 237,
+          "full_name": "Holy Cross College, Dhaka",
+          "short_name": "HCCD",
+          "slug": "hccd",
+          "pivot": {
+            "question_bank_id": 429733,
+            "tag_id": 237,
+            "year": "2022",
+            "created_at": "2025-08-19T07:44:58.000000Z",
+            "updated_at": "2025-08-19T07:44:58.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429732,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{8}{9}[/math]",
+          "খ": "[math]\\dfrac{3}{2}[/math]",
+          "গ": "[math]2[/math]",
+          "ঘ": "[math]\\dfrac{9}{8}[/math]"
+        },
+        "question": "বায়ুর সাপেক্ষে পানি এবং কাচের প্রতিসরণাংকে যথাক্রমে [math]\\dfrac{4}{3}[/math] এবং [math]\\dfrac{3}{2}[/math] হলে,কাচ সাপেক্ষে পানির প্রতিসরণাংক হবে [math]-[/math]",
+        "solution": "[math]{}_g \\mu_w =\\dfrac{\\mu_w}{\\mu_g}=\\dfrac{4/_3}{3/_2} =\\dfrac{8}{9}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 429732,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3483,
+          "full_name": "DR. KAZI MOTAHER HOSSIAN COLLAGE",
+          "short_name": "DKMHCC",
+          "slug": "dkmhcc",
+          "pivot": {
+            "question_bank_id": 429732,
+            "tag_id": 3483,
+            "year": "2022",
+            "created_at": "2025-08-19T07:44:57.000000Z",
+            "updated_at": "2025-08-19T07:44:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429729,
+      "value": {
+        "options": {
+          "ক": "9.98 ft",
+          "খ": "4.10 ft",
+          "গ": "0.22 ft",
+          "ঘ": "4.5 ft"
+        },
+        "question": "একটি পুকুর [math]6[/math] ফুট গভীর। পানির প্রতিসরাঙ্ক [math]1.33[/math] হলে গভীরতা কত?",
+        "solution": "পুকুরের আপাত গভীরতা নির্ণয়ের জন্য আমরা প্রতিসরণের সূত্র ব্যবহার করি। যখন আমরা পানির উপর থেকে একটি বস্তু দেখি, তখন বস্তুটি আসলে যেখানে আছে তার চেয়ে কিছুটা উপরে দেখা যায়। এই ঘটনাকে প্রতিসরণ বলে।গভীরতা = প্রকৃত গভীরতা / প্রতিসরাঙ্কএখানে, প্রকৃত গভীরতা = 6 ফুট এবং পানির প্রতিসরাঙ্ক = 1.33সুতরাং, আপাত গভীরতা = [math]6 \\text{ ফুট} / 1.33 \\approx 4.51 \\text{ ফুট}[/math]এই হিসেবে, বিকল্প D (4.5 ft) সবচেয়ে কাছাকাছি এবং সঠিক উত্তর।এই ধরণের সমস্যাগুলো সাধারণত পদার্থবিজ্ঞানের আলোকবিজ্ঞান অংশে আলোচনা করা হয় এবং এটি প্রতিসরণের একটি বাস্তব প্রয়োগ। প্রকৃত গভীরতা এবং আপাত গভীরতার মধ্যে পার্থক্য বোঝার জন্য এই গণনা গুরুত্বপূর্ণ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 429729,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:44:57.000000Z",
+            "updated_at": "2025-08-19T07:44:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429730,
+      "value": {
+        "options": {
+          "ক": "i,ii",
+          "খ": "ii,iii",
+          "গ": "i,iii",
+          "ঘ": "i,ii,iii"
+        },
+        "question": "আলোকরশ্মি শূন্য মাধ্যম থেকে কোনো মাধ্যমে প্রবেশ করলে প্রতিসরণাঙ্ককে বলা হয়–\n\ni. আপেক্ষিক প্রতিসরণাঙ্ক\n\nii. নিরপেক্ষ প্রতিসরণাঙ্ক\n\niii. পরম প্রতিসরণাঙ্ক\n\nনিচের কোনটি সঠিক?",
+        "solution": "আলোকরশ্মি যখন শূন্য মাধ্যম (অর্থাৎ বায়ু বা শূন্যস্থান) থেকে কোনো স্বচ্ছ মাধ্যমে প্রবেশ করে, তখন সেই মাধ্যমের প্রতিসরণাঙ্ককে পরম প্রতিসরণাঙ্ক বা নিরপে঩ প্রতিসরণাঙ্ক বলা হয়। আপেক্ষিক প্রতিসরণাঙ্ক দুই মাধ্যমের প্রতিসরণাঙ্কের অনুপাত বোঝায়। তাই এখানে ii এবং iii উভয়ই সঠিক।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 429730,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:44:57.000000Z",
+            "updated_at": "2025-08-19T07:44:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429731,
+      "value": {
+        "options": {
+          "ক": "লাল",
+          "খ": "বেগুনি",
+          "গ": "নীল",
+          "ঘ": "সবুজ"
+        },
+        "question": "কোন আলোতে প্রতিসরণাঙ্ক বেশি?",
+        "solution": "আলোর প্রতিসরণাঙ্ক নির্ভর করে আলোর তরঙ্গদৈর্ঘ্যের উপর। আমরা জানি:\n\nছোট তরঙ্গদৈর্ঘ্য = বেশি প্রতিসরণাঙ্ক\n\nবড় তরঙ্গদৈর্ঘ্য = কম প্রতিসরণাঙ্ক\n\nবেগুনী রঙের আলোর তরঙ্গদৈর্ঘ্য সবচেয়ে কম, ফলে এটি যেকোনো মাধ্যমে সবচেয়ে বেশি প্রতিসরণ করে। তাই বেগুনী আলোর প্রতিসরণাঙ্ক সর্বাধিক।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 429731,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:44:57.000000Z",
+            "updated_at": "2025-08-19T07:44:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429728,
+      "value": {
+        "options": {
+          "ক": "[math]\\mu_{r}\u003E\\mu_{v}[/math]",
+          "খ": "[math]\\mu_{r}\u003C\\mu_{v}[/math]",
+          "গ": "[math]\\mu_{r}=\\mu_{v}[/math]",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "লাল ও বেগুনি বর্ণের আলোর সাপেক্ষে কোনো মাধ্যমের প্রতিসরাঙ্ক যথাক্রমে [math]\\mu_r[/math] এবং [math]\\mu_v[/math] হলে",
+        "solution": "আলোর তরঙ্গদৈর্ঘ্যের উপর প্রতিসরাঙ্ক নির্ভর করে। লাল আলোর তরঙ্গদৈর্ঘ্য বেগুনি আলোর তরঙ্গদৈর্ঘ্যের চেয়ে বেশি। সাধারণত, আলোর তরঙ্গদৈর্ঘ্য বাড়ার সাথে সাথে মাধ্যমের প্রতিসরাঙ্ক কমে যায়। তাই, লাল আলোর জন্য প্রতিসরাঙ্ক ( [math]\\mu_r[/math]\u003Cbr\u003E) বেগুনি আলোর জন্য প্রতিসরাঙ্কের ( [math]\\mu_v[/math]\u003Cbr\u003E) চেয়ে কম হবে। এই ঘটনাকে আলোর বিচ্ছুরণ (dispersion) বলা হয়। প্রিজমের মাধ্যমে যখন সাদা আলোকরশ্মি যায়, তখন আলোকরশ্মি তার উপাদান বর্ণালীতে বিভক্ত হয়ে যায়, যেখানে বেগুনি আলোকরশ্মি সবচেয়ে বেশি এবং লাল আলোকরশ্মি সবচেয়ে কম বেঁকে যায়। এটিই প্রতিসরাঙ্কের পার্থক্যের কারণে ঘটে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 429728,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:44:56.000000Z",
+            "updated_at": "2025-08-19T07:44:56.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429727,
+      "value": {
+        "options": {
+          "ক": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-22041-6_1755589493_0RWytnwU.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "খ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-22042-6_1755589494_Kcb3L9Bn.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "গ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-22043-6_1755589494_HpTJza2m.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "ঘ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-22044-6_1755589495_GBgSfCtu.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+        },
+        "question": "আলোর তরঙ্গদৈর্ঘ্যের সাথে প্রতিসরাঙ্কের লেখচিত্র নিচের কোনটি?",
+        "solution": "আলোর প্রতিসরাঙ্ক সাধারণত আলোর তরঙ্গদৈর্ঘ্যের সাথে ব্যস্তানুপাতিকভাবে পরিবর্তিত হয়। অর্থাৎ, আলোর তরঙ্গদৈর্ঘ্য যত বাড়ে, প্রতিসরাঙ্ক তত কমে। এটি কোশি সমীকরণ (Cauchy's equation) দ্বারা ব্যাখ্যা করা যায়, যা বলে [math]n(\\lambda) = A + \\frac{B}{\\lambda^2} + \\dots[/math]\u003Cbr\u003E, যেখানে [math]n[/math]\u003Cbr\u003E হলো প্রতিসরাঙ্ক এবং [math]\\lambda[/math]\u003Cbr\u003E হলো তরঙ্গদৈর্ঘ্য। এই সমীকরণ থেকে বোঝা যায় যে তরঙ্গদৈর্ঘ্য [math]\\lambda[/math]\u003Cbr\u003E বৃদ্ধির সাথে সাথে প্রতিসরাঙ্ক [math]n[/math]\u003Cbr\u003E হ্রাস পায়। সুতরাং, লেখচিত্রটি একটি ক্রমহ্রাসমান ফাংশন হবে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 429727,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:44:56.000000Z",
+            "updated_at": "2025-08-19T07:44:56.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429726,
+      "value": {
+        "options": {
+          "ক": "i,ii",
+          "খ": "ii,iii",
+          "গ": "i,iii",
+          "ঘ": "i,ii,iii"
+        },
+        "question": "প্রতিসরাঙ্ক নির্ণয়ের জন্য এক বর্ণী আলো ব্যবহার করতে হয়, কারণ-প্রতিসরাঙ্ক-\n\ni. আলোর বর্ণের উপর নির্ভরশীল\n\nii. আলোর তরঙ্গ দৈর্ঘ্যের উপর নির্ভরশীল\n\niii. আলোর তরঙ্গের কম্পাঙ্কের উপর নির্ভরশীল\n\nনিচের কোনটি সঠিক?",
+        "solution": "প্রতিসরাঙ্ক আলোর বর্ণের উপর নির্ভর করে, যা আলোর তরঙ্গদৈর্ঘ্যের সাথে সম্পর্কিত। বিভিন্ন তরঙ্গদৈর্ঘ্যের আলোর জন্য কাঁচের প্রতিসরাঙ্ক ভিন্ন ভিন্ন হয়, তাই আলোকরশ্মি কাঁচের মধ্যে দিয়ে যাওয়ার সময় বর্ণালীতে বিভক্ত হয়ে যায় (যেমন প্রিজমের ক্ষেত্রে)। কম্পাঙ্কও তরঙ্গদৈর্ঘ্যের সাথে সম্পর্কিত কারণ আলোর বেগ ( [math]v = f\\lambda[/math]\u003Cbr\u003E), যেখানে [math]f[/math]\u003Cbr\u003E কম্পাঙ্ক এবং [math]\\lambda[/math]\u003Cbr\u003E তরঙ্গদৈর্ঘ্য। যেহেতু প্রতিসরাঙ্ক আলোর তরঙ্গদৈর্ঘ্যের উপর নির্ভরশীল, তাই এক বর্ণী আলো ব্যবহার করলে এই বিচ্ছুরণ এড়ানো যায় এবং প্রতিসরাঙ্কের একটি নির্দিষ্ট মান পাওয়া যায়। এটি বিচ্ছুরণ (dispersion) নামে পরিচিত একটি ঘটনা।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429726,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:52.000000Z",
+            "updated_at": "2025-08-19T07:44:52.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429717,
+      "value": {
+        "options": {
+          "ক": "1.33",
+          "খ": "1.41",
+          "গ": "1.51",
+          "ঘ": "1.62"
+        },
+        "question": "কাচের বস্তু দিয়ে তৈরি ফাইবার অপটিক ক্যাবল দিয়ে পৃথিবীর অপর পৃষ্ঠে আলোর সংকেত পাঠাতে 0.1s সময় লাগে। কাচের প্রতিসরণাঙ্ক কত? [আলোর বেগ [math]3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}[/math] পৃথিবীর ব্যাসার্ধ 600km]",
+        "solution": "[math]\\begin{array}{l}\\text{Hints: } S=\\pi R ; C_{g}=\\frac{s}{t} ; \\mu=\\frac{C_{a}}{C_{g}}\\\\\\text { Solve: } \\mathrm{S}=\\pi \\mathrm{R}=3.1416 \\times 6400 \\times 10^{3}=2.011 \\times 10^{7} \\\\\\qquad \\mathrm{C}_{\\mathrm{g}}=\\frac{2.011 \\times 10^{7}}{0.1}=2.011 \\times 10^{8} \\therefore \\mu_{\\mathrm{g}}=\\frac{\\mathrm{C}_{\\mathrm{a}}}{\\mathrm{C}_{\\mathrm{g}}}=\\frac{3 \\times 10^{8}}{2.011 \\times 10^{8}}=1.49\\end{array}[/math]",
+        "explanation": "ব্যাখ্যা: পৃথিবীর অপর পৃষ্ঠে আলোর সংকেত পাঠানে অর্থ হচ্ছে পৃথিবী পৃষ্ঠে আলোর গতিপথকে বৃত্তাকার ধরলে বৃত্তের পরিধির অর্ধেক দূরত্বে সংকেত পাঠানেবৃত্তের পরিধি [math]=2 \\pi R[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 429717,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 429717,
+            "tag_id": 73,
+            "year": "09-10",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429725,
+      "value": {
+        "options": {
+          "ক": "i,ii",
+          "খ": "i,iii",
+          "গ": "i,iii",
+          "ঘ": "i,ii,iii"
+        },
+        "question": "বায়ুর তুলনায় কাচের প্রতিসরাঙ্ক বেশি তাই—\n\ni. বায়ু হতে কাচে প্রবেশের সময় আলোক রশ্মি অভিলম্বের দিকেবেঁকে যায়\n\nii. কাচ হতে বায়ুতে প্রবেশের সময় রশ্মি অভিলম্ব থেকে দূরে সরে যায়\n\niii. বায়ু অপেক্ষা কাচে আলোর বেগ বেশি\n\nনিচের কোনটি সঠিক?",
+        "solution": "কাচের প্রতিসরাঙ্ক বায়ুর চেয়ে বেশি হওয়ার অর্থ হলো কাচে আলোর বেগ বায়ুর তুলনায় কম। যখন আলো ঘন মাধ্যম (যেমন কাচ) থেকে লঘু মাধ্যমে (যেমন বায়ু) প্রবেশ করে, তখন এটি অভিলম্ব থেকে দূরে সরে যায়। বিপরীতভাবে, লঘু মাধ্যম থেকে ঘন মাধ্যমে প্রবেশের সময় আলো অভিলম্বের দিকে বেঁকে যায়। তাই, বায়ু হতে কাচে প্রবেশের সময় আলোক রশ্মি অভিলম্বের দিকে বেঁকে যাবে এবং কাচ হতে বায়ুতে প্রবেশের সময় রশ্মি অভিলম্ব থেকে দূরে সরে যাবে। বায়ু অপেক্ষা কাচে আলোর বেগ কম হবে। এই দুটি কারণ সঠিক।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429725,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429724,
+      "value": {
+        "options": {
+          "ক": "1.24",
+          "খ": "1.86",
+          "গ": "0.67",
+          "ঘ": "1.5"
+        },
+        "question": "[math]'a'[/math] মাধ্যমের প্রতিসরাঙ্ক [math]1.24[/math]; [math]'b'[/math] মাধ্যমের প্রতিসরাঙ্ক [math]1.86[/math]; [math]'a'[/math] সাপেক্ষে [math]'b'[/math] এর প্রতিসরাঙ্ক কত?",
+        "solution": "একটি মাধ্যম সাপেক্ষে অন্য মাধ্যমের প্রতিসরাঙ্ক বের করার জন্য, দ্বিতীয় মাধ্যমটির প্রতিসরাঙ্ককে প্রথম মাধ্যমটির প্রতিসরাঙ্ক দিয়ে ভাগ করতে হয়। এখানে, [math]'a'[/math]\u003Cbr\u003E সাপেক্ষে [math]'b'[/math]\u003Cbr\u003E এর প্রতিসরাঙ্ক = [math]\\frac{'b' \\text{ মাধ্যমের প্রতিসরাঙ্ক}}{\\text{'a' মাধ্যমের প্রতিসরাঙ্ক}}[/math]\u003Cbr\u003E = [math]\\frac{1.86}{1.24} \\approx 1.5[/math]\u003Cbr\u003E ।সাধারণভাবে, কোনো মাধ্যমের প্রতিসরাঙ্ক যত বেশি হয়, আলোর বেগ সেই মাধ্যমে তত কম হয়। এখানে [math]b[/math]\u003Cbr\u003E মাধ্যমের প্রতিসরাঙ্ক [math]a[/math]\u003Cbr\u003E মাধ্যমের চেয়ে বেশি, তাই [math]b[/math]\u003Cbr\u003E মাধ্যমে আলোর বেগ [math]a[/math]\u003Cbr\u003E মাধ্যমের চেয়ে কম হবে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429724,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429723,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{7}{9}[/math]",
+          "খ": "[math]\\frac{9}{7}[/math]",
+          "গ": "[math]1.33[/math]",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "পানি সাপেক্ষে কোন মাধ্যমের প্রতিসরাঙ্ক ; উক্ত মাধ্যম সাপেক্ষ পানির প্রতিসরভর কত?",
+        "solution": "কোনো মাধ্যমের সাপেক্ষে অন্য মাধ্যমের প্রতিসরাঙ্ক হলো তাদের আপেক্ষিক প্রতিসরাঙ্ক। যদি [math]n_{12}[/math]\u003Cbr\u003E দ্বারা মাধ্যম 1 এর সাপেক্ষে মাধ্যম 2 এর প্রতিসরাঙ্ক বোঝানো হয়, তবে [math]n_{12} = \\frac{n_2}{n_1}[/math]\u003Cbr\u003E যেখানে [math]n_1[/math]\u003Cbr\u003E এবং [math]n_2[/math]\u003Cbr\u003E হলো যথাক্রমে মাধ্যম 1 এবং মাধ্যম 2 এর পরম প্রতিসরাঙ্ক। প্রশ্নানুযায়ী, পানি সাপেক্ষে অন্য মাধ্যমের প্রতিসরাঙ্ক দেওয়া আছে, যা [math]\\frac{7}{9}[/math]\u003Cbr\u003E। ধরা যাক, পানি হলো মাধ্যম 1 এবং অন্য মাধ্যমটি হলো মাধ্যম 2। তাহলে, [math]n_{12} = \\frac{n_2}{n_1} = \\frac{7}{9}[/math]\u003Cbr\u003E। এখন, উক্ত মাধ্যম সাপেক্ষ পানির প্রতিসরাঙ্ক বের করতে হবে, অর্থাৎ মাধ্যম 2 সাপেক্ষে মাধ্যম 1 এর প্রতিসরাঙ্ক, [math]n_{21}[/math]\u003Cbr\u003E। আমরা জানি যে [math]n_{21} = \\frac{n_1}{n_2}[/math]\u003Cbr\u003E। সুতরাং, [math]n_{21} = \\frac{1}{n_{12}} = \\frac{1}{\\frac{7}{9}} = \\frac{9}{7}[/math]\u003Cbr\u003E। পানির প্রতিসরাঙ্ক প্রায় [math]1.33[/math]\u003Cbr\u003E, যা [math]1/0.75[/math]\u003Cbr\u003E এর সমান। এখানে প্রশ্নে আপেক্ষিক প্রতিসরাঙ্কের বিপরীত সম্পর্ক ব্যবহার করা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429723,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429722,
+      "value": {
+        "options": {
+          "ক": "প্রিজমের আকার",
+          "খ": "আলোর তীব্রতা",
+          "গ": "প্রিজম কোণ",
+          "ঘ": "আলোর বর্ণ"
+        },
+        "question": "প্রিজম উপাদানের প্রতিসরাঙ্ক কিসের উপর নির্ভর করে ?",
+        "solution": "প্রিজমের প্রতিসরাঙ্ক আলোর বর্ণের উপর নির্ভর করে, কারণ বিভিন্ন বর্ণের আলোর জন্য প্রিজমের উপাদানের প্রতিসরণ কোণ ভিন্ন হয়। এই ঘটনাকে আলোর বিচ্ছুরণ বলা হয় এবং এটি প্রিজমের প্রতিসরাঙ্কের তরঙ্গদৈর্ঘ্য-নির্ভরতার কারণে ঘটে। প্রিজমের আকার বা প্রিজম কোণ প্রতিসরাঙ্ককে প্রভাবিত করে না, যদিও তারা আলোর বিচ্যুতি কোণকে প্রভাবিত করতে পারে। আলোর তীব্রতা সাধারণত প্রতিসরাঙ্কের উপর কোনো উল্লেখযোগ্য প্রভাব ফেলে না।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429722,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429721,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{9}{8}[/math]",
+          "খ": "[math]\\frac{8}{9}[/math]",
+          "গ": "[math]2[/math]",
+          "ঘ": "[math]\\frac{3}{2}[/math]"
+        },
+        "question": "বায়ু সাপেক্ষে পানি ও কাচের প্রতিসরাঙ্ক যথাক্রমে [math]\\frac{4}{3}[/math]এবং [math]\\frac{3}{2}[/math] হলে কাচ সাপেক্ষে পানির প্রতিসরাঙ্ক কত হবে?",
+        "solution": "এখানে, বায়ু সাপেক্ষে পানির প্রতিসরাঙ্ক দেওয়া আছে [math]\\mu_{wa} = \\frac{4}{3}[/math]\u003Cbr\u003E এবং বায়ু সাপেক্ষে কাচের প্রতিসরাঙ্ক দেওয়া আছে [math]\\mu_{ga} = \\frac{3}{2}[/math]\u003Cbr\u003E। আমাদের কাচ সাপেক্ষে পানির প্রতিসরাঙ্ক ( [math]\\mu_{wg}[/math]\u003Cbr\u003E) বের করতে হবে।আমরা জানি যে, একটি মাধ্যমের সাপেক্ষে অন্য মাধ্যমের প্রতিসরাঙ্ক নির্ণয়ের সূত্র হলো:[math]\\mu_{wg} = \\frac{\\mu_{wa}}{\\mu_{ga}}[/math]\u003Cbr\u003Eমানগুলো বসালে আমরা পাই:[math]\\mu_{wg} = \\frac{\\frac{4}{3}}{\\frac{3}{2}}[/math]\u003Cbr\u003Eএখন ভাগ করলে:[math]\\mu_{wg} = \\frac{4}{3} \\times \\frac{2}{3}[/math]\u003Cbr\u003E [math]\\mu_{wg} = \\frac{8}{9}[/math]\u003Cbr\u003Eসুতরাং, কাচ সাপেক্ষে পানির প্রতিসরাঙ্ক [math]\\frac{8}{9}[/math]\u003Cbr\u003E।প্রতিসরাঙ্কের ধারণাটি আলোর তীর্যকভাবে এক মাধ্যম থেকে অন্য মাধ্যমে প্রবেশ করার সময় ঘটে। আলোর গতিপথের পরিবর্তনকে প্রতিসরণ বলে, এবং এই পরিবর্তনের পরিমাপকেই প্রতিসরাঙ্ক দ্বারা বোঝানো হয়। বিভিন্ন মাধ্যমে আলোর গতির ভিন্নতার জন্য প্রতিসরাঙ্কের মান ভিন্ন ভিন্ন হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 429721,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429719,
+      "value": {
+        "options": {
+          "ক": "1.13",
+          "খ": "2.75",
+          "গ": "1.55",
+          "ঘ": "1.82"
+        },
+        "question": "পানির সাপেক্ষে গ্লিসারিনের প্রতিসারঙ্ক 1.1, গ্লিসারিনের সাপেক্ষে হীরকের প্রতিসারঙ্ক 1.65। পানির সাপেক্ষে হীরকের প্রতিসারঙ্ক কতো?",
+        "solution": "[math]w^{\\mu_{d}}=w^{\\mu_{g}} \\times g^{\\mu_{d}}=1.1 \\times 1.65=1.82[/math]",
+        "explanation": "আমরা জানি, [math]\\mathrm{a}^{\\mu_{\\mathrm{b}}} \\times \\mathrm{b}^{\\mu_{c}} \\times \\mathrm{c}^{\\mu_{\\mathrm{a}}}=1[/math]\u003Cbr\u003Eএখানে, [math]w^{\\mu_{\\mathrm{g}}} \\times \\mathrm{g}^{\\mu_{\\mathrm{d}}} \\times \\mathrm{d}^{\\mu_{\\mathrm{w}}}=1 \\Rightarrow w^{\\mu_{\\mathrm{g}}} \\times \\mathrm{g}^{\\mu_{\\mathrm{d}}}=\\frac{1}{\\mathrm{~d}^{\\mu_{w}}}[/math]\u003Cbr\u003E [math]\\Rightarrow \\mathrm{w}^{\\mu_{\\mathrm{g}}} \\times \\mathrm{g}^{\\mu_{\\mathrm{d}}}=\\mathrm{w}^{\\mu_{\\mathrm{d}}}\\left[\\because \\mathrm{a}^{\\mu_{\\mathrm{b}}}=\\frac{1}{\\mathrm{~b}^{\\mu_{\\mathrm{a}}}}\\right][/math]\u003Cbr\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 27,
+          "year": "2007-2008",
+          "pivot": {
+            "question_bank_id": 429719,
+            "year_id": 27
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 429719,
+            "tag_id": 73,
+            "year": "07-08",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429718,
+      "value": {
+        "options": {
+          "ক": "লাল",
+          "খ": "সবুজ",
+          "গ": "হলুদ",
+          "ঘ": "বেগুনী"
+        },
+        "question": "একটি মাধ্যমের প্রতিসরণাঙ্ক কোন রঙের আলোর জন্য বেশি হবে?",
+        "solution": "[math]\\text { Hints: } \\mu \\propto \\frac{1}{\\lambda}[/math]Solve : বেগুনী আলোর তরঙ্গদৈর্ঘ্য কম তাই এর প্রতিসরাঙ্ক বেশি হবে।",
+        "explanation": "ব্যাখ্যা: আলোর তরঙ্গ দৈর্ঘ্য মাধ্যমের প্রতিসরাঙ্কের ব্যস্তানুপাতিক, [math]\\lambda \\propto \\frac{1}{\\mu}[/math] অর্থাৎ যেই রঙের আলোর তরঙ্গদৈর্ঘ্য কম ঐ রঙের আলোর জন্য মধ্যমের প্রতিসরান্ত বেশি। সুতরাং বেগুনি রঙের আলোর তরঙ্গদৈর্ঘ্য যেহেতু কম তাই এই রঙের আলোর জন্য মাধ্যমের প্রতিসরাঙ্ক বেশি।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 24,
+          "year": "2008-2009",
+          "pivot": {
+            "question_bank_id": 429718,
+            "year_id": 24
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 429718,
+            "tag_id": 73,
+            "year": "08-09",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429704,
+      "value": {
+        "options": {
+          "ক": "[math]7200\\mathring{\\rm{A}}[/math]",
+          "খ": "[math]3200\\mathring{\\rm{A}}[/math]",
+          "গ": "[math]2400\\mathring{\\rm{A}}[/math]",
+          "ঘ": "[math]5400\\mathring{\\rm{A}}[/math]"
+        },
+        "question": "বায়ু সাপেক্ষে কাঁচের প্রতিসরাংক [math]\\dfrac{3}{2}[/math]। বায়ুতে আলোক তরঙ্গ দৈর্ঘ্য [math]4800\\mathring{\\rm{A}}[/math] হলে কাঁচে কত হবে?",
+        "solution": "[math]\\text { Given, }{ }_{a} \\mu_{b}=\\dfrac{3}{2}[/math]\u003Cbr\u003E [math]\\text { We know, }{ }_{a} \\mu_{\\mathrm{g}}=\\dfrac{\\mu_{\\mathrm{g}}}{\\mu_{\\mathrm{a}}}=\\dfrac{\\mathrm{C}_{\\mathrm{a}}}{C_{\\mathrm{g}}}=\\dfrac{\\lambda_{\\mathrm{a}}}{\\lambda_{\\mathrm{g}}} \\therefore \\lambda_{\\mathrm{g}}=\\dfrac{\\lambda_{\\mathrm{a}}}{{}_a{\\mu_{\\mathrm{g}}}}=\\dfrac{4800}{3 / 2}=3200 \\mathring{\\rm{A}}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 429704,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 429704,
+            "tag_id": 57,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429691,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{3}{2}[/math]",
+          "খ": "[math]2[/math]",
+          "গ": "[math]\\dfrac{8}{9}[/math]",
+          "ঘ": "[math]\\dfrac{9}{8}[/math]"
+        },
+        "question": "বায়ু সাপেক্ষে পানি এবং কাচের প্রতিসরাংক যথাক্রমে [math]\\dfrac{4}{3}[/math] এবং [math]\\dfrac{3}{2}[/math] হলে কাচ সাপেক্ষে পানির প্রতিসরাংক কত হবে?",
+        "solution": "যখন আলো একটি মাধ্যম থেকে অন্য মাধ্যমে প্রবেশ করে তখন আলোর পথের পরিবর্তনকে প্রতিসরণ বলে। প্রতিসরাঙ্ক হলো কোনো মাধ্যমের আলোর প্রতিসরণের ক্ষমতা। প্রশ্নটিতে বায়ু সাপেক্ষে পানি ও কাচের প্রতিসরাঙ্ক দেওয়া আছে এবং কাচ সাপেক্ষে পানির প্রতিসরাঙ্ক জানতে চাওয়া হয়েছে।প্রথমে আমাদের বায়ু সাপেক্ষে পানি ও কাচের প্রতিসরাঙ্কগুলো চিহ্নিত করতে হবে।বায়ু সাপেক্ষে পানির প্রতিসরাঙ্ক, [math]n_{wp} = \\dfrac{4}{3}[/math]\u003Cbr\u003Eবায়ু সাপেক্ষে কাচের প্রতিসরাঙ্ক, [math]n_{wg} = \\dfrac{3}{2}[/math]\u003Cbr\u003Eআমাদের কাচ সাপেক্ষে পানির প্রতিসরাঙ্ক বের করতে হবে, যাকে [math]n_{gp}[/math]\u003Cbr\u003E দ্বারা প্রকাশ করা হয়। দুটি ভিন্ন মাধ্যমের প্রতিসরাঙ্কের মধ্যে সম্পর্ক হলো:[math]n_{gp} = \\dfrac{n_{wp}}{n_{wg}}[/math]\u003Cbr\u003Eমানগুলো বসিয়ে পাই:[math]n_{gp} = \\dfrac{\\dfrac{4}{3}}{\\dfrac{3}{2}}[/math]\u003Cbr\u003Eভাগ করার জন্য ভগ্নাংশটিকে উল্টে গুণ করতে হবে:[math]n_{gp} = \\dfrac{4}{3} \\times \\dfrac{2}{3}[/math]\u003Cbr\u003E [math]n_{gp} = \\dfrac{4 \\times 2}{3 \\times 3}[/math]\u003Cbr\u003E [math]n_{gp} = \\dfrac{8}{9}[/math]\u003Cbr\u003Eএইভাবে, কাচ সাপেক্ষে পানির প্রতিসরাঙ্ক হলো [math]\\dfrac{8}{9}[/math]\u003Cbr\u003E।অতিরিক্ত তথ্য:প্রতিসরাঙ্ক হলো শূন্যস্থানে আলোর বেগের সাথে কোনো নির্দিষ্ট মাধ্যমে আলোর বেগের অনুপাত। অর্থাৎ, [math]n = \\dfrac{c}{v}[/math]\u003Cbr\u003E, যেখানে [math]c[/math]\u003Cbr\u003E হলো শূন্যস্থানে আলোর বেগ এবং [math]v[/math]\u003Cbr\u003E হলো মাধ্যমে আলোর বেগ।যখন আলো মাধ্যম ১ থেকে মাধ্যম ২ এ প্রবেশ করে, তখন মাধ্যম ২ সাপেক্ষে মাধ্যম ১ এর প্রতিসরাঙ্ক লেখা হয় [math]n_{21} = \\dfrac{n_2}{n_1}[/math]\u003Cbr\u003E (যদি উভয় প্রতিসরাঙ্ক শূন্যস্থানের সাপেক্ষে মাপা হয়)।এই ক্ষেত্রে, আমাদের বায়ু (শূন্যস্থান) সাপেক্ষে পানির প্রতিসরাঙ্ক [math]n_{wa} = \\dfrac{4}{3}[/math]\u003Cbr\u003E এবং কাচের প্রতিসরাঙ্ক [math]n_{wg} = \\dfrac{3}{2}[/math]\u003Cbr\u003E দেওয়া ছিল। আমরা কাচের সাপেক্ষে পানির প্রতিসরাঙ্ক ( [math]n_{gw}[/math]\u003Cbr\u003E) বের করতে চেয়েছি। সূত্রটি হলো [math]n_{gw} = \\dfrac{n_w}{n_g}[/math]\u003Cbr\u003E যখন প্রতিসরাঙ্কগুলি বায়ুর সাপেক্ষে মাপা হয়।এখানে [math]n_w[/math]\u003Cbr\u003E হলো বায়ু সাপেক্ষে পানির প্রতিসরাঙ্ক এবং [math]n_g[/math]\u003Cbr\u003E হলো বায়ু সাপেক্ষে কাচের প্রতিসরাঙ্ক।সুতরাং, [math]n_{gw} = \\dfrac{4/3}{3/2} = \\dfrac{4}{3} \\times \\dfrac{2}{3} = \\dfrac{8}{9}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 429691,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 429691,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 429691,
+            "tag_id": 4,
+            "year": "2016",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429692,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্রিজমের প্রতিসরাংক নির্ভর করে —\n\n[math]\\hspace{1.2 cm}[/math]i. প্রিজমের উপাদান\n\n[math]\\hspace{1.2 cm}[/math]ii. আলোর তরঙ্গ দৈর্ঘ্য\n\n[math]\\hspace{1.2 cm}[/math]iii. প্রিজম কোণ\n\nনিচের কোনটি সঠিক?",
+        "solution": "প্রিজমের প্রতিসরাংক প্রিজমের উপাদানের উপর নির্ভর করে কারণ বিভিন্ন উপাদানের আলোর প্রতিসরণের ক্ষমতা ভিন্ন হয়। এটি আলোর তরঙ্গ দৈর্ঘ্যের উপরও নির্ভর করে, কারণ আলোর বিচ্ছুরণ ঘটে, যার ফলে বিভিন্ন রঙের আলোর প্রতিসরাংক ভিন্ন হয় (যেমন - বেগুনী আলোর প্রতিসরাংক লাল আলোর চেয়ে বেশি)। তবে প্রিজম কোণের উপর প্রতিসরাংক সরাসরি নির্ভর করে না। এটি প্রতিষ্ঠিত যে, প্রিজমের প্রতিসরাংক একটি নির্দিষ্ট উপাদানের জন্য আলোর তরঙ্গ দৈর্ঘ্যের উপর নির্ভরশীল এবং এটিই আলোর বর্ণালীতে বিভক্ত হওয়ার মূল কারণ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 429692,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 429692,
+            "tag_id": 47,
+            "year": "2016",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429693,
+      "value": {
+        "options": {
+          "ক": "2.566",
+          "খ": "2.366",
+          "গ": "2.666",
+          "ঘ": "2.444"
+        },
+        "question": "হীরকের মধ্যকার সংকট রোগ [math]25^\\circ[/math] হীরকের প্রতিসরাঙ্ক কত?",
+        "solution": "[math]{ }_{\\mathrm{a}} \\mu_{\\mathrm{d}}=\\dfrac{1}{\\sin \\theta_{\\mathrm{c}}}=\\dfrac{\\mu_{d}}{\\mu_{\\mathrm{a}}} \\Rightarrow \\dfrac{1}{\\sin 25^{\\circ}}=\\dfrac{\\mu_{d}}{1} \\therefore \\mu_{d}=2.366[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 27,
+          "year": "2007-2008",
+          "pivot": {
+            "question_bank_id": 429693,
+            "year_id": 27
+          }
+        },
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 429693,
+            "year_id": 12
+          }
+        },
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 429693,
+            "year_id": 16
+          }
+        },
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 429693,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 429693,
+            "tag_id": 8,
+            "year": "07-08",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 429693,
+            "tag_id": 84,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 429693,
+            "tag_id": 77,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 429693,
+            "tag_id": 57,
+            "year": "10-11",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429694,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{4}{3}[/math]",
+          "খ": "[math]\\frac{1}{3}[/math]",
+          "গ": "[math]\\frac{2}{3}[/math]",
+          "ঘ": "[math]\\frac{3}{4}[/math]"
+        },
+        "question": "পানি সাপেক্ষে কাঁচের প্রতিসরাঙ্ক [math]\\frac{9}{8}[/math]। বায়ু সাপেক্ষে কাঁচের প্রতিসরাঙ্ক [math]\\frac{3}{2}[/math]। বায়ু সাপেক্ষে পানির প্রতিসরাঙ্ক কত?",
+        "solution": "আমরা জানি,[math]a_{\\mu} w \\times w_{\\mu} g \\times g_{\\mu} a[/math]\u003Cbr\u003E [math]=1[/math]\u003Cbr\u003E [math]\\Rightarrow \\mathrm{a}_{\\mu} \\mathrm{w}[/math]\u003Cbr\u003E [math]=\\frac{1}{w_{\\mu} g \\times g_{\\mu} a}[/math]\u003Cbr\u003E [math]=\\frac{1}{\\frac{9}{8} \\times \\frac{2}{3}}[/math]\u003Cbr\u003E [math]=\\frac{1}{\\frac{3}{4}}[/math]\u003Cbr\u003E [math]=\\frac{4}{3}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math]a_{\\mu} g=\\frac{1}{g_{\\mu} a}[/math]\u003Cbr\u003E [math]=\\frac{3}{2}[/math]\u003Cbr\u003E [math]\\Rightarrow g_{\\mu} a=\\frac{2}{3}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 429694,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 429694,
+            "tag_id": 18,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429695,
+      "value": {
+        "options": {
+          "ক": "একটি নির্দিষ্ট রশ্মির আলোক রশ্মির জন্য পরম প্রতিসরাংক কেবল মাধ্যমের প্রকৃতির উপর নির্ভর করে",
+          "খ": "কোন মাধ্যমের পরম প্রতিসরাঙ্কের মান এক অপেক্ষা কম হয়",
+          "গ": "ইহাকে 0µm দ্বারা ব্যক্ত করা হয়",
+          "ঘ": "A ও C সঠিক"
+        },
+        "question": "পরম প্রতিসরাঙ্ক-এর বেলায় কোন উক্তিটি সঠিক নয়?",
+        "solution": "কোন মাধ্যমের পরম প্রতিসরাঙ্কের মান । অপেক্ষা বড় হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 40,
+          "year": "1999-2000",
+          "pivot": {
+            "question_bank_id": 429695,
+            "year_id": 40
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 429695,
+            "tag_id": 18,
+            "year": "99-00",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429696,
+      "value": {
+        "options": {
+          "ক": "1.49 ft",
+          "খ": "5 ft",
+          "গ": "4.51 ft",
+          "ঘ": "5.51 ft"
+        },
+        "question": "একটি পুকুর 6 ফুট গভীর। পানির প্রতিসরাঙ্ক 1.33 হলে পুকুরের আপাত গভীরতা-",
+        "solution": "আমরা জানি,প্রতিসরাংক = প্রকৃত গভীরতা + আপাত গভীরতা[math]\\therefore[/math] আপাত গভীরতা = 6÷1.33 = 4.51 ft",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 37,
+          "year": "1997-1998",
+          "pivot": {
+            "question_bank_id": 429696,
+            "year_id": 37
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 429696,
+            "tag_id": 18,
+            "year": "97-98",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429697,
+      "value": {
+        "options": {
+          "ক": "কাঁচ",
+          "খ": "পানি",
+          "গ": "কঠিন শিলা",
+          "ঘ": "হীরক"
+        },
+        "question": "কোন মাধ্যমের প্রতিসরাঙ্ক সবচাইতে বেশি?",
+        "solution": "পদার্থ প্রতিসরাঙ্ক কাঁচ 1.5, স্থির পানি 1.33, কঠিন শিলা 1.45, হীরক 2.419। সুতরাং হীরকের প্রতিসরাঙ্ক সবচেয়ে বেশি।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 60,
+          "year": "1994-1995",
+          "pivot": {
+            "question_bank_id": 429697,
+            "year_id": 60
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 429697,
+            "tag_id": 18,
+            "year": "94-95",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429698,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{2}{3}[/math]",
+          "খ": "[math]\\frac{5}{7}[/math]",
+          "গ": "[math]\\frac{9}{8}[/math]",
+          "ঘ": "1"
+        },
+        "question": "পানি ও কাঁচের পরম প্রতিসরাঙ্ক যথাক্রমে [math]\\frac{4}{3}[/math] ও [math]\\frac{3}{2}[/math] হলে পানির সাপেক্ষে কাঁচের আপেক্ষিক প্রতিসরাঙ্ক কত?",
+        "solution": "[math]\\mu_{w} \\mu_{g}=\\frac{\\mu_{g}}{\\mu_{w}}=\\frac{\\frac{3}{2}}{\\frac{4}{3}}=\\frac{9}{8}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 429698,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 429698,
+            "tag_id": 11,
+            "year": "22-23",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429699,
+      "value": {
+        "options": {
+          "ক": "7.98 ft",
+          "খ": "4.10 ft",
+          "গ": "0.22 ft",
+          "ঘ": "4.51 ft"
+        },
+        "question": "একটি পুকুর [math]6[/math] ফুট গভীর। পানির প্রতিসরাঙ্ক [math]1.33[/math] হলে পুকুরের আপাত গভীরতা কত?",
+        "solution": "[math]\\mu=[/math]\u003Cbr\u003E (প্রকৃত গভীরতা) [math]\\div[/math]\u003Cbr\u003E (আপাত গভীরতা) [math]\\ \\therefore[/math]\u003Cbr\u003E আপাত গভীরতা [math]=\\dfrac{6}{1.33}=4.51 \\mathrm{ft}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 429699,
+            "year_id": 14
+          }
+        },
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 429699,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 148,
+          "full_name": "Agriculture Cluster Admission System",
+          "short_name": "ACAS",
+          "slug": "acas",
+          "pivot": {
+            "question_bank_id": 429699,
+            "tag_id": 148,
+            "year": "20-21",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 429699,
+            "tag_id": 16,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429700,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{4}{3}[/math]",
+          "খ": "[math]\\dfrac{3}{4}[/math]",
+          "গ": "[math]\\dfrac{8}{3}[/math]",
+          "ঘ": "[math]\\frac{3}{8}[/math]"
+        },
+        "question": "পানির ও বায়ুর সাপেক্ষে কাঁচের প্রতিসরণাঙ্ক যথাক্রমে [math]\\dfrac{9}{8}[/math] এবং [math]\\dfrac{3}{2}[/math]। পানির সাপেক্ষে বায়ুর প্রতিসরণাঙ্ক কত?",
+        "solution": "[math]{}_w\\eta_{\\mathrm{a}} \\times{ }_{\\mathrm{a}} \\eta_{g} \\times {}_{\\mathrm{g}} \\eta_{w}=1[/math]\u003Cbr\u003E [math]\\Rightarrow {}_w\\eta_{\\mathrm{a}} \\times \\dfrac{3}{2} \\times \\dfrac{8}{9}[/math]\u003Cbr\u003E [math]=1[/math]\u003Cbr\u003E [math]\\Rightarrow {}_w\\eta_{\\mathrm{a}}[/math]\u003Cbr\u003E [math]=\\dfrac{3}{4}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 429700,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 471,
+          "full_name": "Sylhet Agricultural University",
+          "short_name": "SAU",
+          "slug": "sau",
+          "pivot": {
+            "question_bank_id": 429700,
+            "tag_id": 471,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429701,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{4}{3}[/math]",
+          "খ": "[math]\\frac{8}{9}[/math]",
+          "গ": "[math]2[/math]",
+          "ঘ": "[math]\\frac{3}{2}[/math]"
+        },
+        "question": "বায়ু সাপেক্ষে পানি ও কাচের প্রতিসরাঙ্ক যথাক্রমে [math]\\frac{4}{3}[/math] এবং [math]\\frac{3}{2}[/math] হলে, কাচ সাপেক্ষে পানির প্রতিসরাঙ্ক কত?",
+        "solution": "কাচের সাপেক্ষে পানির প্রতিসারাঙ্ক, [math]{ }_{g} \\mu_{w}[/math]\u003Cbr\u003E [math]=\\frac{{ }_{o} \\mu_{w}}{{ }_{o} \\mu_{g}}[/math]\u003Cbr\u003E [math]=\\frac{4}{3} \\times \\frac{2}{3}[/math]\u003Cbr\u003E [math]=\\frac{8}{9}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 429701,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 471,
+          "full_name": "Sylhet Agricultural University",
+          "short_name": "SAU",
+          "slug": "sau",
+          "pivot": {
+            "question_bank_id": 429701,
+            "tag_id": 471,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429702,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{1}{4}[/math]",
+          "খ": "[math]\\dfrac{2}{3}[/math]",
+          "গ": "[math]\\dfrac{3}{4}[/math]",
+          "ঘ": "[math]\\dfrac{4}{3}[/math]"
+        },
+        "question": "পানি সাপেক্ষে কাঁচের প্রতিসরাঙ্ক [math]\\dfrac{9}{8}[/math] এবং বায়ু সাপেক্ষে কাঁচের প্রতিসরাঙ্ক [math]\\dfrac{3}{2}[/math]। বায়ু সাপেক্ষে পানির প্রতিসরাঙ্ক কত?",
+        "solution": "[math]{ }_{a} \\mu_{w}=\\dfrac{g^{\\mu} w}{g^{\\mu} a}[/math]\u003Cbr\u003E [math]=\\dfrac{a^{\\mu} g}{w^{\\mu} g}[/math]\u003Cbr\u003E [math]=\\dfrac{\\frac{3}{2}}{\\frac{9}{8}}[/math]\u003Cbr\u003E [math]=\\dfrac{4}{3}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 429702,
+            "year_id": 13
+          }
+        },
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 429702,
+            "year_id": 16
+          }
+        },
+        {
+          "id": 27,
+          "year": "2007-2008",
+          "pivot": {
+            "question_bank_id": 429702,
+            "year_id": 27
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 429702,
+            "tag_id": 16,
+            "year": "16-17",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 429702,
+            "tag_id": 16,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 429702,
+            "tag_id": 16,
+            "year": "07-08",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429703,
+      "value": {
+        "options": {
+          "A": "1.9",
+          "B": "1.53",
+          "C": "1.43",
+          "D": "1.25"
+        },
+        "question": "The speed of light in a particular type of glass is [math]1.6 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]. What is the refractive index of the glass?",
+        "solution": "[math]\\mu=\\dfrac{3 \\times 10^{8}}{1.6 \\times 10^{8}}=1.875 \\approx 1.9[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 429703,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 429703,
+            "tag_id": 55,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429690,
+      "value": {
+        "options": {
+          "ক": "মাধ্যমদ্বয়ের প্রকৃতি",
+          "খ": "মাধ্যমের আলোকীয়",
+          "গ": "আলোর বর্ণ",
+          "ঘ": "আপতন কোণ"
+        },
+        "question": "কোনো মাধ্যমের প্রতিসরাংক কীসের উপর নির্ভর করে না?",
+        "solution": "প্রতিসরাংক দু'প্রকার : পরম ও আপেক্ষিক। এখানে উভয় প্রকার প্রতিসরাংক বিবেচ্য।\nপরম প্রতিসরাংক মাধ্যমের আলোকীয় ঘনত্ব এবং আলোর বর্ণের ওপর নির্ভর করে।\nকিন্তু পরম ও আপেক্ষিত উত্তর প্রতিসরাংক বিবেচ্য মাধ্যমদ্বয়ের প্রকৃতির ওপর নির্ভর করে।\nপ্রতিসরাংক কখনো আপতন কোণের ওপর নির্ভর করে না।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 429690,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 429690,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 429690,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429705,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{1}{\\sin 21^{\\circ}}[/math]",
+          "খ": "[math]\\dfrac{1}{\\sin 19^{\\circ}}[/math]",
+          "গ": "[math]\\dfrac{1}{\\sin 16^{\\circ}}[/math]",
+          "ঘ": "[math]-\\dfrac{1}{\\sin 19^{\\circ}}[/math]"
+        },
+        "question": "হীরকের বরফ প্রতিসরাঙ্ক কত?",
+        "solution": "দৃশ্যমান তরঙ্গদৈর্ঘ্যে বরফের প্রতিসরণ সূচক প্রায় 1.31, যেখানে হীরার প্রতিসরণ সূচক প্রায় 2.42। একটি উপাদানের প্রতিসরণকারী সূচক হল একটি পরিমাপ যেটি পদার্থের মধ্য দিয়ে যাওয়ার সময় কতটা আলো প্রতিসৃত হয় বা বাঁকানো হয় এবং এটি বাতাসে আলোর গতির তুলনায় উপাদানের আলোর গতির উপর নির্ভর করে। হীরার বরফের তুলনায় অনেক বেশি প্রতিসরাঙ্ক সূচক রয়েছে, এটি একটি রত্ন পাথর হিসাবে এত মূল্যবান হওয়ার একটি কারণ। আলো যখন হীরাতে প্রবেশ করে, তখন হীরা এবং পার্শ্ববর্তী বায়ুর মধ্যে প্রতিসরাঙ্ক সূচকের পার্থক্যের কারণে এটি একটি উচ্চ কোণে প্রতিসৃত হয়, যা পাথরের বৈশিষ্ট্যযুক্ত ঝকঝকে এবং উজ্জ্বলতা তৈরি করে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 429705,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 429705,
+            "tag_id": 16,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429706,
+      "value": {
+        "options": {
+          "ক": "1.33",
+          "খ": "1.50",
+          "গ": "1.42",
+          "ঘ": "2.42"
+        },
+        "question": "হীরক হতে [math]67^\\circ 32^\\prime[/math] কোণে প্রতিফলিত আলোক রশ্মি সম্পূর্ণভাবে সমতলে সমবর্তিত হলে হীরকের প্রতিসরাঙ্ক কত হবে?",
+        "solution": "[math]\\mu=\\tan \\theta_{1}=\\tan \\left(67+\\dfrac{32}{60}\\right)=2.42[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 429706,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 429706,
+            "tag_id": 460,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429707,
+      "value": {
+        "options": {
+          "ক": "2/3",
+          "খ": "3/4",
+          "গ": "1/4",
+          "ঘ": "4/3"
+        },
+        "question": "পানি সাপেক্ষে কাচের প্রতিসরাঙ্ক [math]9/8[/math], বায়ু সাপেক্ষে কাঁচের প্রতিসরাঙ্ক [math]3/2[/math], বায়ু সাপেক্ষে পানির প্রতিসরাঙ্ক কত?",
+        "solution": "[math]{ }_{\\mathrm{a}} \\mu_{\\mathrm{w}}=\\dfrac{{ }_{\\mathrm{a}} \\mu_{\\mathrm{g}}}{{ }_{\\mathrm{a}} \\mu_{\\mathrm{w}}}=\\dfrac{3}{2} \\times \\dfrac{8}{9}=\\dfrac{4}{3}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 429707,
+            "year_id": 31
+          }
+        },
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 429707,
+            "year_id": 17
+          }
+        },
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 429707,
+            "year_id": 17
+          }
+        },
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 429707,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 429707,
+            "tag_id": 480,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 429707,
+            "tag_id": 460,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 429707,
+            "tag_id": 480,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 904,
+          "full_name": "Patuakhali Science And Technology University (A Unit)",
+          "short_name": "PSTU-A",
+          "slug": "pstu-a",
+          "pivot": {
+            "question_bank_id": 429707,
+            "tag_id": 904,
+            "year": "10-11",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429708,
+      "value": {
+        "options": {
+          "ক": "পানি",
+          "খ": "কেরোসিন",
+          "গ": "বেনজিন",
+          "ঘ": "হিরক"
+        },
+        "question": "কোন পদার্থটির প্রতিসরাংক সবচাইতে বেশি?",
+        "solution": "হিরকের প্রতিসরাংক (প্রায় ২.৪২) অন্যান্য পদার্থ যেমন পানি (প্রায় ১.৩৩), কেরোসিন (প্রায় ১.৪৪) এবং বেনজিন (প্রায় ১.৫০) এর তুলনায় উল্লেখযোগ্যভাবে বেশি। প্রতিসরাংক যত বেশি হয়, আলোকরশ্মি তত বেশি বেঁকে যায়। এই উচ্চ প্রতিসরাংকের কারণেই হিরক থেকে আলোকরশ্মি বের হওয়ার সময় অভ্যন্তরীণ প্রতিফলনের মাধ্যমে বেশি পরিমাণে আটকে থাকে, যা হিরকের উজ্জ্বলতার প্রধান কারণ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 429708,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 14,
+          "full_name": "Hajee Mohammad Danesh Science & Technology University (A Unit)",
+          "short_name": "HSTU-A",
+          "slug": "hstu-a",
+          "pivot": {
+            "question_bank_id": 429708,
+            "tag_id": 14,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429709,
+      "value": {
+        "options": {
+          "ক": "0.888",
+          "খ": "1.125",
+          "গ": "0.125",
+          "ঘ": "1.888"
+        },
+        "question": "বায়ু সাপেক্ষে পানি ও কাঁচের প্রতিসরাংক যথাক্রমে [math]4/3[/math] এবং [math]3/2[/math], কাঁচ সাপেক্ষে পানির প্রতিসরাংক কত?",
+        "solution": "[math]{ }^{\\mathrm{g}} \\mu_{\\mathrm{w}}=\\dfrac{4}{3} \\times \\dfrac{3}{3}=\\dfrac{8}{9}=0.888[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 429709,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 429709,
+            "tag_id": 480,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429710,
+      "value": {
+        "options": {
+          "ক": "লাল",
+          "খ": "নীল",
+          "গ": "হলুদ",
+          "ঘ": "বেগুনী"
+        },
+        "question": "কোন রঙের আলোর জন্য নির্দিষ্ট মাধ্যমে প্রতিসরাঙ্কের মান সবচেয়ে বেশি?",
+        "solution": "একটি নির্দিষ্ট মাধ্যমের প্রতিসরাঙ্কের মান আলোর তরঙ্গদৈর্ঘ্যের সাথে ব্যস্তানুপাতিক। অর্থাৎ, তরঙ্গদৈর্ঘ্য কম হলে প্রতিসরাঙ্কের মান বেশি হয়। দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্য 400 থেকে 700 ন্যানোমিটার। এই তরঙ্গদৈর্ঘ্যের সীমার মধ্যে, বেগুনী আলোর তরঙ্গদৈর্ঘ্য সবচেয়ে কম। সুতরাং, বেগুনী আলোর জন্য নির্দিষ্ট মাধ্যমের প্রতিসরাঙ্কের মান সবচেয়ে বেশি।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 429710,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 429710,
+            "tag_id": 16,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429711,
+      "value": {
+        "options": {
+          "ক": "2.566",
+          "খ": "2.366",
+          "গ": "2.666",
+          "ঘ": "2.444"
+        },
+        "question": "হীরকের মধ্যকার সংকট রোগ [math]25^\\circ[/math] হীরকের প্রতিসরাঙ্ক কত?",
+        "solution": "[math]{ }_{\\mathrm{a}} \\mu_{\\mathrm{d}}=\\dfrac{1}{\\sin \\theta_{\\mathrm{c}}}=\\dfrac{\\mu_{d}}{\\mu_{\\mathrm{a}}} \\Rightarrow \\dfrac{1}{\\sin 25^{\\circ}}=\\dfrac{\\mu_{d}}{1} \\therefore \\mu_{d}=2.366[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 27,
+          "year": "2007-2008",
+          "pivot": {
+            "question_bank_id": 429711,
+            "year_id": 27
+          }
+        },
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 429711,
+            "year_id": 12
+          }
+        },
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 429711,
+            "year_id": 16
+          }
+        },
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 429711,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 429711,
+            "tag_id": 8,
+            "year": "07-08",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 429711,
+            "tag_id": 84,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 429711,
+            "tag_id": 77,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 429711,
+            "tag_id": 57,
+            "year": "10-11",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429712,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{1}{4}[/math]",
+          "খ": "[math]\\dfrac{2}{3}[/math]",
+          "গ": "[math]\\dfrac{3}{4}[/math]",
+          "ঘ": "[math]\\dfrac{4}{3}[/math]"
+        },
+        "question": "পানি সাপেক্ষে কাঁচের প্রতিসরাঙ্ক [math]\\dfrac{9}{8}[/math] এবং বায়ু সাপেক্ষে কাঁচের প্রতিসরাঙ্ক [math]\\dfrac{3}{2}[/math]। বায়ু সাপেক্ষে পানির প্রতিসরাঙ্ক কত?",
+        "solution": "[math]{ }_{a} \\mu_{w}=\\dfrac{g^{\\mu} w}{g^{\\mu} a}[/math]\u003Cbr\u003E [math]=\\dfrac{a^{\\mu} g}{w^{\\mu} g}[/math]\u003Cbr\u003E [math]=\\dfrac{\\frac{3}{2}}{\\frac{9}{8}}[/math]\u003Cbr\u003E [math]=\\dfrac{4}{3}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 429712,
+            "year_id": 13
+          }
+        },
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 429712,
+            "year_id": 16
+          }
+        },
+        {
+          "id": 27,
+          "year": "2007-2008",
+          "pivot": {
+            "question_bank_id": 429712,
+            "year_id": 27
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 429712,
+            "tag_id": 16,
+            "year": "16-17",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 429712,
+            "tag_id": 16,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 429712,
+            "tag_id": 16,
+            "year": "07-08",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429713,
+      "value": {
+        "options": {
+          "ক": "2/3",
+          "খ": "3/4",
+          "গ": "1/4",
+          "ঘ": "4/3"
+        },
+        "question": "পানি সাপেক্ষে কাচের প্রতিসরাঙ্ক [math]9/8[/math], বায়ু সাপেক্ষে কাঁচের প্রতিসরাঙ্ক [math]3/2[/math], বায়ু সাপেক্ষে পানির প্রতিসরাঙ্ক কত?",
+        "solution": "[math]{ }_{\\mathrm{a}} \\mu_{\\mathrm{w}}=\\dfrac{{ }_{\\mathrm{a}} \\mu_{\\mathrm{g}}}{{ }_{\\mathrm{a}} \\mu_{\\mathrm{w}}}=\\dfrac{3}{2} \\times \\dfrac{8}{9}=\\dfrac{4}{3}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 429713,
+            "year_id": 31
+          }
+        },
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 429713,
+            "year_id": 17
+          }
+        },
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 429713,
+            "year_id": 17
+          }
+        },
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 429713,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 429713,
+            "tag_id": 480,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 429713,
+            "tag_id": 480,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 429713,
+            "tag_id": 460,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        },
+        {
+          "id": 904,
+          "full_name": "Patuakhali Science And Technology University (A Unit)",
+          "short_name": "PSTU-A",
+          "slug": "pstu-a",
+          "pivot": {
+            "question_bank_id": 429713,
+            "tag_id": 904,
+            "year": "10-11",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429714,
+      "value": {
+        "options": {
+          "ক": "3.307",
+          "খ": "1.705",
+          "গ": "2.366",
+          "ঘ": "1.566"
+        },
+        "question": "বায়ু ও হীরকের সঙ্কট কোণ [math]25^\\circ[/math] হীরকের প্রতিসরাঙ্ক কত?",
+        "solution": "[math]\\mu_{d}=\\dfrac{1}{\\sin \\theta_{c}}=\\dfrac{1}{\\sin 25^{\\circ}}=2.366[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 429714,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 14,
+          "full_name": "Hajee Mohammad Danesh Science & Technology University (A Unit)",
+          "short_name": "HSTU-A",
+          "slug": "hstu-a",
+          "pivot": {
+            "question_bank_id": 429714,
+            "tag_id": 14,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429715,
+      "value": {
+        "options": {
+          "ক": "[math]211 \\mathrm{~ms}^{-1}[/math]",
+          "খ": "[math]2.11 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]",
+          "গ": "[math]211 \\times 10^{9} \\mathrm{~ms}^{-1}[/math]",
+          "ঘ": "[math]4 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]"
+        },
+        "question": "কোন তরল পদার্থের প্রতিসরাঙ্ক [math]1.423[/math]। শূন্যস্থানে আলোকের বেগ [math]3 \\times 10^{8} \\mathrm{~ms}^{-1}[/math] হলে ঐ তরল পদার্থে আলোকের বেগ কত?",
+        "solution": "[math]\\mathrm{v}=\\dfrac{3 \\times 108}{1.42}=2.11 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 429715,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 429715,
+            "tag_id": 480,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429716,
+      "value": {
+        "options": {
+          "ক": "[math]13.5^{\\circ }[/math]",
+          "খ": "[math]76.5^{\\circ }[/math]",
+          "গ": "[math]4.16^{\\circ }[/math]",
+          "ঘ": "[math]\\text{None of these}[/math]"
+        },
+        "question": "হীরকের প্রতিফলক তলে একটি আলোক রশ্মি [math]60^\\circ[/math] কোণে আপতিত হলো এবং রকের মধ্যে প্রতিসরণ কোণ [math]12^\\circ[/math] পাওয়া গেল হীরকের সমবর্তন কোণ নির্ণয় কর।",
+        "solution": "[math]\\tan \\theta=\\dfrac{\\sin \\mathrm{i}}{\\sin \\mathrm{r}}=\\dfrac{\\sin 60}{\\sin 12} \\therefore \\theta=76.5^{\\circ}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 429716,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 501,
+          "full_name": "Chittagong University of Engineering & Technology",
+          "short_name": "CUET",
+          "slug": "cuet",
+          "pivot": {
+            "question_bank_id": 429716,
+            "tag_id": 501,
+            "year": "10-11",
+            "created_at": "2025-08-19T07:44:51.000000Z",
+            "updated_at": "2025-08-19T07:44:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 429720,
+      "value": {
+        "options": {
+          "ক": "1.5",
+          "খ": "1.33",
+          "গ": "1.61",
+          "ঘ": "1.18"
+        },
+        "question": "বায়ু থেকে অন্য কোন মাধ্যমের ভিতর একটি আলোকরশ্মি প্রবেশ করার পর তার গতি [math]15\\%[/math] হ্রাস পায়। ঐ মাধ্যমের প্রতিসরাংক হল–",
+        "solution": "[math]\\mu_{b}=\\dfrac{C_{a}}{C_{b}}=\\dfrac{3 \\times 10^{8}}{(1-0.15) \\times 3 \\times 10^{8}}=1.18[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6332,
+      "created_at": "2025-08-19T07:44:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6332&grade=1&lesson=6685&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6332&grade=1&lesson=6685&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6332&grade=1&lesson=6685&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 55,
+  "total": 55
+}

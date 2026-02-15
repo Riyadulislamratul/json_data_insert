@@ -1,0 +1,750 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 413251,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে বর্ণিত কণাটির X অক্ষ বরাবর গতির অন্তরক সমীকরণটি প্রতিপাদন কর।"
+        },
+        "question": "একটি কণা O বিন্দুকে কেন্দ্র করে 0.02m ব্যাসার্ধের ABCD বৃত্তাকার পথে ঘড়ির কাটার গতির দিকে। [math]1 \\mathrm{\\ rads}^{-1}[/math] কৌণিক বেগে ঘুরছে এবং 10 সেকেণ্ডে সময়ে A বিন্দু থেকে P বিন্দুতে আসে।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-18-panjeri2-16-01_1755586318_cDyuNzQU.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E [math]\\frac{d^{2} x}{d t^{2}}+x=0[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমাধান: বৃত্তীয় গতিতে X-অক্ষের স্থানাংক দেয় [math]x=r\\cos\\theta[/math]. A-এ [math]\\theta(0)=0[/math] ধরে এবং ঘড়ির কাটার দিকে ঘূর্ণনের ফলে [math]\\theta(t)=\\theta_0-\\omega t=-t[/math] (কারণ [math]\\omega=1\\ \\mathrm{rad/s}[/math]), তাই [math]x(t)=0.02\\cos(-t)=0.02\\cos t\\ \\text{মি}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 413251,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:51:58.000000Z",
+            "updated_at": "2025-08-19T06:51:58.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413252,
+      "value": {
+        "options": {
+          "ঘ": "সমীকরণটির একটি সমাধান বের কর এবং দেখাও যে, সমাধানটি sine বা cosine অপেক্ষক হবে।"
+        },
+        "question": "পদার্থবিজ্ঞানের শিক্ষক ড. ইমতিয়াজ ক্লাসে এসে বোর্ডে লিখলেন : [math]25 \\frac{d^{2} x}{d^{2}}+400 x=0[/math] এবং বললেন এটি সরল ছন্দিত স্পন্দনে গতিশীল কোনো একটি কণার ব্যবকলনীয় সমীকরণ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপ্রদত্ত সমীকরণ,[math]\\begin{array}{l}25 \\frac{\\mathrm{d}^{2} \\mathrm{x}}{\\mathrm{dt}^{2}}+400 \\mathrm{x}=0 \\\\\\Rightarrow \\frac{\\mathrm{d}^{2} \\mathrm{x}}{\\mathrm{dt}^{2}}+4^{2} \\mathrm{x}=0 \\\\\\Rightarrow \\frac{\\mathrm{d}^{2} \\mathrm{x}}{\\mathrm{dt}^{2}}=-4^{2} \\mathrm{x}\\end{array}[/math]\u003Cbr\u003Eএই ধরণের সমীকরণের সমাধান সাধারণত sin বা cosine এর অপেক্ষক হয়। এখন ধরি,[math]\\mathrm{x}=\\mathrm{A} \\sin \\omega \\mathrm{t}[/math]\u003Cbr\u003Eতাহলে,[math]\\frac{\\mathrm{dx}}{\\mathrm{dt}}=\\mathrm{A} \\omega \\cos \\omega \\mathrm{t}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{d}^{2} \\mathrm{x}}{\\mathrm{dt}^{2}}=\\mathrm{A} \\omega^{2} \\cdot \\sin \\omega \\mathrm{t}[/math]\u003Cbr\u003Eএখন, [math]\\omega=4[/math]\u003Cbr\u003E হলে,[math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{d^{2} x}{d t^{2}}=-4^{2} x[/math]\u003Cbr\u003Eএই মান নিলে, [math]x=A \\sin 4 t[/math]\u003Cbr\u003Eএটাই প্রদত্ত ব্যবকলনীয় সমীকরণটির সমাধান।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সমাধান: একটি সহজ পরীক্ষা হল [math]x=\\sin4t[/math] ধরে নেওয়া; তখন [math]\\frac{d^{2}x}{dt^{2}}=-16\\sin4t[/math]। সমীকরণে বসালে [math]25(-16\\sin4t)+400\\sin4t=0[/math] হয়, তাই এটি সমীকরণটি সন্তুষ্ট করে। সাধারণ সমাধান হবে [math]x=A\\cos4t+B\\sin4t[/math], অর্থাৎ সমাধানগুলো sine বা cosine রুপেই থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 413252,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:51:58.000000Z",
+            "updated_at": "2025-08-19T06:51:58.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413241,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i , ii ও iii"
+        },
+        "question": "[math]5 \\frac{d^{2} x}{d t^{2}}+125 x=0[/math] সমীকরণ অনুযায়ী সংশ্লিষ্ট কণাটির ক্ষেত্রে প্রযোজ্য রাশিসমূহ হলো-\n\ni. কম্পাংক 5 একক\n\nii. কৌণিক বেগ 5 একক\n\niii. কৌণিক কম্পাংক 5 একক\n\nনিচের কোনটি সঠিক?",
+        "solution": "• [math]5 \\frac{\\mathrm{~d}^{2} \\mathrm{x}}{\\mathrm{dt}^{2}}+125 \\mathrm{x}=0[/math]\u003Cbr\u003E বা, [math]\\frac{d^{2} x}{d t^{2}}+25 x=0[/math]\u003Cbr\u003E একে [math]\\frac{d^{2} x}{d t^{2}}+\\omega^{2} x[/math]\u003Cbr\u003E= [math]0[/math]\u003Cbr\u003E এর সাথে তুলনা করে, [math]\\omega^{2}=25[/math]\u003Cbr\u003E বা, [math]\\omega=5[/math]\u003Cbr\u003E∴ কৌণিক বেগ = কৌণিক কম্পাঙ্ক [math]\\omega=5[/math]\u003Cbr\u003E একক",
+        "explanation": "",
+        "correct_answer": "C.ii ও iii"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 413241,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 413241,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 413241,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-08-19T06:51:57.000000Z",
+            "updated_at": "2025-08-19T06:51:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413242,
+      "value": {
+        "options": {
+          "ক": "[math]5\\mathrm{rads}^{-1}[/math]",
+          "খ": "[math]8\\mathrm{rads}^{-1}[/math]",
+          "গ": "[math]25\\mathrm{rads}^{-1}[/math]",
+          "ঘ": "[math]200\\mathrm{rads}^{-1}[/math]"
+        },
+        "question": "[math]\\rm{8 \\dfrac{d^{2} x}{d t^{2}}+200 x=0}[/math] সমীকরণ দ্বারা বর্ণিত সরলছন্দিত গতির কৌণিক কম্পাংক কত?",
+        "solution": "সরলছন্দিত কণার সমীকরণ, [math]\\dfrac{\\mathrm{d}^{2} \\mathrm{x}}{\\mathrm{dt}^{2}}+\\omega^{2} \\mathrm{x}=0[/math]\u003Cbr\u003E [math]\\rm{8 \\dfrac{d^{2} x}{d t^{2}}+200 x=0}\\Rightarrow \\rm{\\dfrac{d^{2} x}{{dt}^{2}}+25 \\dot{x}=0}\\Rightarrow \\omega^{2}=25 \\Rightarrow \\omega=5 \\mathrm{rad} / \\mathrm{s}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]5\\mathrm{rads}^{-1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 413242,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 413242,
+            "tag_id": 47,
+            "year": "2021",
+            "created_at": "2025-08-19T06:51:57.000000Z",
+            "updated_at": "2025-08-19T06:51:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413243,
+      "value": {
+        "options": {
+          "ক": "[math]2\\operatorname{rad~} \\mathrm{s}^{-1}[/math]",
+          "খ": "[math]4\\operatorname{rad~} \\mathrm{s}^{-1}[/math]",
+          "গ": "[math]5\\operatorname{rad~} \\mathrm{s}^{-1}[/math]",
+          "ঘ": "[math]100\\operatorname{rad~} \\mathrm{s}^{-1}[/math]"
+        },
+        "question": "[math]4 \\dfrac{d^{2} x}{d t^{2}}+100 x=0[/math] সমীকরণ অনুসারে সরল ছন্দিত স্পন্দনরত কণার কৌণিক কম্পাংক—",
+        "solution": "[math]4 \\dfrac{d^{2} x}{d t^{2}}+100 x=0\\\\\\Rightarrow \\frac{d^2x}{dt^2}+25x = 0 \\\\\\Rightarrow \\frac{d^2x}{dt^2}+\\omega^2x = 0\\\\\\Rightarrow\\omega^2 = 25\\\\\\therefore \\omega = 5[/math]",
+        "explanation": "",
+        "correct_answer": "C.[math]5\\operatorname{rad~} \\mathrm{s}^{-1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 413243,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 413243,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 413243,
+            "tag_id": 4,
+            "year": "2016",
+            "created_at": "2025-08-19T06:51:57.000000Z",
+            "updated_at": "2025-08-19T06:51:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413244,
+      "value": {
+        "options": {
+          "ক": "180",
+          "খ": "36",
+          "গ": "6",
+          "ঘ": "5"
+        },
+        "question": "[math]5 \\dfrac{d^{2} x}{d t^{2}}+180 x=0[/math] সমীকরণে কৌণিক কম্পাঙ্ক কত একক?",
+        "solution": "[math]5 \\dfrac{d^{2} x}{d t^{2}}+180 x=0\\\\\\Rightarrow \\frac{d^2x}{dt^2}+36x = 0 \\\\\\Rightarrow \\frac{d^2x}{dt^2}+\\omega^2x = 0\\\\\\Rightarrow\\omega^2 = 36 \\\\\\therefore \\omega = 6[/math]",
+        "explanation": "",
+        "correct_answer": "C.6"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 413244,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 413244,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 413244,
+            "tag_id": 6,
+            "year": "2016",
+            "created_at": "2025-08-19T06:51:57.000000Z",
+            "updated_at": "2025-08-19T06:51:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413245,
+      "value": {
+        "options": {
+          "ক": "[math]4\\text{ rad }s^{-1}[/math]",
+          "খ": "[math]16\\text{ rad }s^{-1}[/math]",
+          "গ": "[math]2\\text{ rad }s^{-1}[/math]",
+          "ঘ": "[math]\\dfrac{1}{2}\\text{ rad }s^{-1}[/math]"
+        },
+        "question": "[math]4 \\dfrac{d^{2} y}{d x^{2}}+16 x=0[/math] সমীকরণটি একটি সরল ছন্দিত স্পন্দন বর্ণনা করে। এই স্পন্দনের কৌণিক কম্পাঙ্ক কত?",
+        "solution": "[math]\\dfrac{\\mathrm{d}^{2} y}{d x^{2}}+4 x=0 \\therefore \\omega^{2}=4 \\therefore \\omega=2 \\mathrm{rads}^{-1}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 413245,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 413245,
+            "tag_id": 11,
+            "year": "20-21",
+            "created_at": "2025-08-19T06:51:57.000000Z",
+            "updated_at": "2025-08-19T06:51:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413246,
+      "value": {
+        "options": {
+          "ক": "[math]2 \\mathrm{rad} s^{-1}[/math]",
+          "খ": "[math]4 \\mathrm{rad} s^{-1}[/math]",
+          "গ": "[math]5 \\mathrm{rad} s^{-1}[/math]",
+          "ঘ": "[math]100\\mathrm{rad}s^{-1}[/math]"
+        },
+        "question": "সরল ছপিত গতি সম্পন্ন কোন কণার ব্যবকলনী সমীকরণ [math]4 \\dfrac{d^{2} x}{d t^{2}}+100 x=0[/math] হলে এর কৌণিক কম্পাংক কত হবে?",
+        "solution": "[math]4 \\dfrac{d^{2} x}{d t^{2}}+100 x=0 \\Rightarrow \\dfrac{d^{2} x}{d t^{2}}+25 x=0 \\therefore w^{2}=25 \\Rightarrow w=5 r a d s^{-1}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 413246,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 413246,
+            "tag_id": 474,
+            "year": "16-17",
+            "created_at": "2025-08-19T06:51:57.000000Z",
+            "updated_at": "2025-08-19T06:51:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413247,
+      "value": {
+        "options": {
+          "ক": "[math]32 \\mathrm{\\ rad} \\mathrm{s}^{-1}[/math]",
+          "খ": "[math]16 \\mathrm{\\ rad} \\mathrm{s}^{-1}[/math]",
+          "গ": "[math]8 \\mathrm{\\ rad} \\mathrm{s}^{-1}[/math]",
+          "ঘ": "[math]4 \\mathrm{\\ rad} \\mathrm{s}^{-1}[/math]"
+        },
+        "question": "[math]2 \\frac{d^{2} x}{d t^{2}}+32 x=0[/math] সমীকরণ দ্বারা বর্ণিত সরল দোলন গতির কৌণিক কম্পাঙ্ক কত?",
+        "solution": "[math]2 \\frac{\\partial^{2} x}{\\partial t^{2}}+32 x=0[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{\\partial^{2} x}{\\partial t^{2}}+16 x=0[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\omega^{2}=16 \\\\\\therefore \\omega=4 \\mathrm{rad} / \\mathrm{s}^{.}\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.[math]4 \\mathrm{\\ rad} \\mathrm{s}^{-1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 413247,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:51:57.000000Z",
+            "updated_at": "2025-08-19T06:51:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413248,
+      "value": {
+        "options": {
+          "ক": "[math]400 s^{-1}[/math]",
+          "খ": "[math]2 s^{-1}[/math]",
+          "গ": "[math]16 \\mathrm{~s}^{-1}[/math]",
+          "ঘ": "[math]5 \\mathrm{~s}^{-1}[/math]"
+        },
+        "question": "[math]16 \\frac{d^{2} x}{d x}+400 x=0[/math] সমীকরণ দ্বারা বর্ণিত সরল ছন্দিত কণার একের ভেতর সব কম্পাঙ্ক কত হবে?",
+        "solution": "প্রদত্ত সমীকরণটি সরল ছন্দিত স্পন্দনের (Simple Harmonic Motion) সাধারণ সমীকরণ [math]m \\frac{d^{2} x}{d t^{2}}+kx=0[/math]\u003Cbr\u003E-এর অনুরূপ। এখানে [math]m[/math]\u003Cbr\u003E হল ভর এবং [math]k[/math]\u003Cbr\u003E হল স্প্রিং ধ্রুবক।প্রদত্ত সমীকরণ: [math]16 \\frac{d^{2} x}{d t^{2}}+400 x=0[/math]\u003Cbr\u003Eএই সমীকরণকে সরল ছন্দিত স্পন্দনের সাধারণ সমীকরণের রূপে আনার জন্য [math]16[/math]\u003Cbr\u003E দ্বারা ভাগ করি:[math]\\frac{d^{2} x}{d t^{2}} + \\frac{400}{16} x = 0[/math]\u003Cbr\u003E [math]\\frac{d^{2} x}{d t^{2}} + 25 x = 0[/math]\u003Cbr\u003Eসাধারণ সমীকরণ [math]\\frac{d^{2} x}{d t^{2}}+\\omega^{2} x=0[/math]\u003Cbr\u003E-এর সাথে তুলনা করে পাই,[math]\\omega^{2} = 25[/math]\u003Cbr\u003E [math]\\omega = \\sqrt{25} = 5 \\mathrm{~rad/s}[/math]\u003Cbr\u003Eযেহেতু প্রশ্নটি কম্পাঙ্ক (frequency) জানতে চেয়েছে, কম্পাঙ্কের একক [math]s^{-1}[/math]\u003Cbr\u003E বা Hz। কৌণিক কম্পাঙ্ক (angular frequency) [math]\\omega[/math]\u003Cbr\u003E এবং কম্পাঙ্ক [math]f[/math]\u003Cbr\u003E এর মধ্যে সম্পর্ক হল:[math]\\omega = 2 \\pi f[/math]\u003Cbr\u003Eসুতরাং, [math]f = \\frac{\\omega}{2 \\pi}[/math]\u003Cbr\u003Eএখানে, কৌণিক কম্পাঙ্ক [math]\\omega=5 \\mathrm{~rad/s}[/math]\u003Cbr\u003E।এই সমীকরণে, [math]16 \\frac{d^{2} x}{d t^{2}}[/math]\u003Cbr\u003E অংশটি [math]m\\frac{d^2x}{dt^2}[/math]\u003Cbr\u003E এর সাথে এবং [math]400x[/math]\u003Cbr\u003E অংশটি [math]kx[/math]\u003Cbr\u003E এর সাথে তুলনা করা যেতে পারে।সুতরাং, [math]m=16[/math]\u003Cbr\u003E এবং [math]k=400[/math]\u003Cbr\u003E.সরল ছন্দিত গতির কৌণিক কম্পাঙ্ক [math]\\omega = \\sqrt{\\frac{k}{m}}[/math]\u003Cbr\u003E [math]\\omega = \\sqrt{\\frac{400}{16}} = \\sqrt{25} = 5 \\mathrm{~rad/s}[/math]\u003Cbr\u003Eতবে, প্রশ্নটিতে \"একের ভেতর সব কম্পাঙ্ক\" বলতে সম্ভবত কৌণিক কম্পাঙ্ককেই বোঝানো হয়েছে, যার একক rad/s। যদি এটি কম্পাঙ্ক (frequency) হত, তবে উত্তরটি [math]\\frac{5}{2\\pi}[/math]\u003Cbr\u003E হত, যা বিকল্পগুলিতে নেই। যদি [math]16[/math]\u003Cbr\u003E কে [math]m[/math]\u003Cbr\u003E (mass) ধরা হয়, তাহলে [math]\\omega = \\sqrt{k/m} = \\sqrt{400/16} = \\sqrt{25} = 5 \\mathrm{~rad/s}[/math]\u003Cbr\u003E।কিন্তু প্রশ্নানুযায়ী [math]16[/math]\u003Cbr\u003E [math]d^2x/dt^2[/math]\u003Cbr\u003E এর সাথে গুণিতক হিসেবে আছে, যা [math]m[/math]\u003Cbr\u003E এর সমান। [math]400x[/math]\u003Cbr\u003E এর সাথে [math]k[/math]\u003Cbr\u003E রয়েছে।যদি সমীকরণটি [math]\\frac{d^{2} x}{d t^{2}}+\\omega^{2} x=0[/math]\u003Cbr\u003E আকারে লেখা হয়, তবে [math]\\omega^2 = 25[/math]\u003Cbr\u003E, সুতরাং [math]\\omega = 5 \\mathrm{~rad/s}[/math]\u003Cbr\u003E।অনেক সময় সরল ছন্দিত গতির ক্ষেত্রে [math]\\omega[/math]\u003Cbr\u003E কেও কম্পাঙ্ক হিসেবে উল্লেখ করা হয়, যার একক rad/s।এই প্রশ্নের বিকল্পগুলি দেখে মনে হচ্ছে, তারা কৌণিক কম্পাঙ্ক (angular frequency) জানতে চেয়েছে।[math]16 \\frac{d^{2} x}{d t^{2}}+400 x=0[/math]\u003Cbr\u003E [math]\\frac{d^{2} x}{d t^{2}}+\\frac{400}{16} x=0[/math]\u003Cbr\u003E [math]\\frac{d^{2} x}{d t^{2}}+25 x=0[/math]\u003Cbr\u003Eসাধারণ সমীকরণ [math]\\frac{d^{2} x}{d t^{2}}+\\omega^{2} x=0[/math]\u003Cbr\u003E এর সাথে তুলনা করলে, [math]\\omega^2 = 25[/math]\u003Cbr\u003E, সুতরাং [math]\\omega = 5 \\mathrm{~rad/s}[/math]\u003Cbr\u003E।যদি প্রশ্নটি কম্পাঙ্ক (frequency) [math]f[/math]\u003Cbr\u003E জানতে চাইত, তবে [math]f = \\frac{\\omega}{2\\pi} = \\frac{5}{2\\pi} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E, যা বিকল্পে নেই।সুতরাং, এখানে \"কম্পাঙ্ক\" বলতে কৌণিক কম্পাঙ্ককেই বোঝানো হয়েছে।",
+        "explanation": "",
+        "correct_answer": "D.[math]5 \\mathrm{~s}^{-1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 413248,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:51:57.000000Z",
+            "updated_at": "2025-08-19T06:51:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413249,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{d^{2} x}{d t^{2}}+9 x=0[/math] সমীকরণ থেকে কৌণিক কম্পাঙ্কের মান নির্ণয় কর।",
+        "solution": "(Answer : [math]3 \\mathrm{rds}^{-1}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : [math]\\dfrac{d x}{d t}=v, \\dfrac{d^{2} x}{d t^{2}}=a[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}[/math]\u003Cbr\u003E [math]\\text {(a) } \\dfrac{d^{2} x}{d t^{2}}+9 x=0 \\Rightarrow a=-3^{2} x[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\ \\ a=-\\omega^{2} x[/math]\u003Cbr\u003E এর সাথে তুলনা করে পাই, [math]\\omega=3 \\rm{rds}^{-1} \\text { [Ans.] }[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: সাধারণ সরল হারমোনিক অস্থিরতার সমীকরণ হল [math]\\dfrac{d^{2}x}{dt^{2}}+\\omega^{2}x=0[/math]; প্রদত্ত সমীকরণের সঙ্গে তুলনা করলে [math]\\omega^{2}=9[/math] হয়, তাই কোণিক কম্পাঙ্কটি [math]\\omega=3[/math] (ধনাত্মক মান)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 413249,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 413249,
+            "tag_id": 474,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:51:57.000000Z",
+            "updated_at": "2025-08-19T06:51:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413250,
+      "value": {
+        "options": {
+          "ঘ": "গাণিতিক বিশ্লেষণের মাধ্যমে শামীম ও রিমঝিমের সমাধান যথার্থ কি না যাচাই কর।"
+        },
+        "question": "[math]\\frac{d^{2} x}{d t^{2}}+\\omega^{2} x=0[/math] সরল দোলন গতির অন্তরক সমীকরণ। এর = সমাধান- লিখতে বলায় শামীম লিখলো [math]x=B \\cos (\\omega t+\\alpha)[/math] এবং রিমঝিম লিখলো [math]x=C \\tan (\\omega t+\\varphi)[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eশামীমের সমাধান,[math]\\begin{array}{l}\\mathrm{x}=\\mathrm{B} \\cos (\\omega \\mathrm{t}+\\alpha) \\\\\\therefore \\frac{\\mathrm{dx}}{\\mathrm{dt}}=-\\mathrm{B} \\omega \\sin (\\omega \\mathrm{t}+\\alpha)\\end{array}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{d}^{2} \\mathrm{x}}{\\mathrm{dt}^{2}}=-\\mathrm{B} \\omega^{2} \\cos (\\omega \\mathrm{t}+\\alpha)[/math]\u003Cbr\u003E [math]=-\\omega^{2}[\\mathrm{~B} \\cos (\\omega \\mathrm{t}+\\alpha)]=-\\omega^{2} \\mathrm{x}[/math]\u003Cbr\u003E [math]\\therefore \\frac{\\mathrm{d}^{2} \\mathrm{x}}{\\mathrm{dt}^{2}}+\\omega^{2} \\mathrm{x}=0[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{x}=\\mathrm{B} \\cos (\\omega \\mathrm{t}+\\alpha)[/math]\u003Cbr\u003E সরল দোলন গতির একটি সমাধান।আবার, রিমঝিমের সমাধান,[math]\\begin{array}{l}\\mathrm{x}=\\mathrm{C} \\tan (\\omega \\mathrm{t}+\\varphi) \\\\\\therefore \\frac{\\mathrm{dx}}{\\mathrm{dt}}=\\mathrm{C} \\omega \\sec ^{2}(\\omega \\mathrm{t}+\\varphi) \\\\\\therefore \\frac{\\mathrm{d}^{2} \\mathrm{x}}{\\mathrm{dt}^{2}}=\\frac{\\mathrm{d}}{\\mathrm{dt}}\\left[\\mathrm{C} \\omega \\sec ^{2}(\\omega \\mathrm{t}+\\varphi)\\right]\\end{array}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=C \\omega \\cdot 2 \\omega \\sec (\\omega t+\\varphi) \\sec (\\omega t+\\varphi) \\cdot \\tan (\\omega t+\\varphi) \\\\=2 C \\omega^{2} \\sec ^{2}(\\omega t+\\varphi) \\tan (\\omega t+\\varphi)\\end{array}[/math]\u003Cbr\u003Eএখন,[math]\\frac{d^{2} x}{d t^{2}}+\\omega^{2} x=2 C \\omega^{2} \\sec ^{2}(\\omega t+\\varphi) \\tan (\\omega t+\\varphi)+C \\omega^{2} \\sec (\\omega t+\\varphi) \\neq 0[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{x}=\\mathrm{C} \\tan (\\omega \\mathrm{t}+\\varphi)[/math]\u003Cbr\u003E সরল দোলন গতির সমাধান নয়।",
+        "explanation": "ব্যাখ্যা: শামীমের ক্ষেত্রে, যদি [math]x=B\\cos(\\omega t+\\alpha)[/math] হয় তাহলে [math]x'=-B\\omega\\sin(\\omega t+\\alpha)[/math] ও [math]x''=-B\\omega^2\\cos(\\omega t+\\alpha)=-\\omega^2 x[/math], তাই সমীকরণটি পূরণ করে। রিমঝিমের ক্ষেত্রে, যদি [math]x=C\\tan(\\omega t+\\varphi)[/math] হয় তাহলে [math]x'=C\\omega\\sec^2(\\omega t+\\varphi)[/math] এবং [math]x''=2C\\omega^2\\sec^2(\\omega t+\\varphi)\\tan(\\omega t+\\varphi)[/math], ফলে সাধারণভাবে [math]x''+\\omega^2 x=C\\omega^2\\tan(\\omega t+\\varphi)\\big(2\\sec^2(\\omega t+\\varphi)+1\\big)\\neq0[/math] এবং [math]\\tan[/math] এর অসীমতা থাকায় এটি সমাধান নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6324,
+      "created_at": "2025-08-19T06:51:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 413250,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:51:57.000000Z",
+            "updated_at": "2025-08-19T06:51:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6324&grade=1&lesson=6585&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6324&grade=1&lesson=6585&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6324&grade=1&lesson=6585&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 12
+}

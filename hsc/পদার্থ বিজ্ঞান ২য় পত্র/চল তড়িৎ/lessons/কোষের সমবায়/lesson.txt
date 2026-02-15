@@ -1,0 +1,2906 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 424193,
+      "value": {
+        "options": [],
+        "question": "উচ্চ অভ্যন্তরীণ রোধবিশিষ্ট একাধিক ব্যাটারীর কোন ধরনের সংযোগে বেশি বিদ্যুৎ পাওয়া যাবে ব্যাখ্যা করো।",
+        "solution": "উচ্চ অভ্যন্তরীণ রোধবিশিষ্ট একাধিক ব্যাটারীর সমান্তরাল সংযোগে শ্রেণি সংযোগের তুলনায় বেশি বিদ্যুৎপ্রবাহ পাওয়া যাবে।r অভ্যন্তরীণ রোধযুক্ত n সংখ্যক ব্যাটারি শ্রেণিতে সংযুক্ত করে, R মানের একটি রোধের সাথে যুক্ত করা হলে বর্তনীর প্রবাহমাত্রা,[math]\\hspace{1.5 cm} I=\\frac{n E}{n r+R}[/math]\u003Cbr\u003Er উচ্চমানের রোধ হওয়ায়, [math]n r \\gg R[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{I} \\approx \\frac{\\mathrm{nE}}{\\mathrm{nr}}=\\frac{\\mathrm{E}}{\\mathrm{r}}=[/math]\u003Cbr\u003E একটি ব্যাটারি হতে প্রাপ্ত প্রবাহমাত্রা।আবার, r অভ্যন্তরীণ রোধবিশিষ্ট n সংখ্যক ব্যাটারিকে সমান্তরালে যুক্ত করে, R মানের একটি রোধের সাথে যুক্ত করা হলে বর্তনীর প্রবাহমাত্রা,[math]\\hspace{1.5 cm}\\mathrm{I}=\\frac{\\mathrm{nE}}{r+n R}[/math]\u003Cbr\u003EI= r+nR আবার,r উচ্চমানের রোধ হওয়ায়, [math]r \\gg n R[/math]\u003Cbr\u003E [math]\\therefore I \\approx \\frac{n E}{r}=n \\times \\frac{E}{r}=n \\times[/math]\u003Cbr\u003E একটি ব্যাটারি হতে প্রাপ্ত প্রবাহমাত্রা।অর্থাৎ প্রবাহমাত্রা n গুণ বৃদ্ধি পায়।সুতরাং উচ্চ অভ্যন্তরীণ রোধবিশিষ্ট ব্যাটারির সমান্তরাল সংযোগে বেশি বিদ্যুপ্রবাহ পাওয়া যাবে।",
+        "explanation": "সমান্তরাল সংযোগে বেশি বিদ্যুৎ পাওয়া যায় কারণ এতে মোট অভ্যন্তরীণ রোধ কমে যায়; সিরিজে সব রোধ যোগ হয় [math]R_{int,series}=\\sum r_i[/math] কিন্তু সমান্তরালে [math]\\tfrac{1}{R_{int,parallel}}=\\sum \\tfrac{1}{r_i}[/math], ফলে সমান্তরালে লোডে বেশি কারেন্ট ও শক্তি সরবরাহ করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 424193,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424193,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 424193,
+            "tag_id": 1,
+            "year": "2021",
+            "created_at": "2025-08-19T07:29:37.000000Z",
+            "updated_at": "2025-08-19T07:29:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424192,
+      "value": {
+        "options": [],
+        "question": "একই মানের কোষের সমান্তরাল সমবায়ে সর্বোচ্চ প রিমাণ তড়িৎপ্রবাহ পাওয়ার ক্ষেত্রে অভ্যন্তরীণ রোধ কীরূপ হওয়া প্রয়োজন? ব্যাখ্যা কর।",
+        "solution": "E তড়িচ্চালক বল, R বহিঃস্থ রোধ এবং অভ্যন্তরীণ রোধ হলে n সংখ্যক কোষ সমান্তরাল সমবায়ে থাকলে প্রবাহ, [math]I=\\frac{E}{R+\\frac{r}{n}}[/math]\u003Cbr\u003Eএখন, [math]r \\gg R[/math]\u003Cbr\u003E হলে [math]I_{\\max }[/math]\u003Cbr\u003E [math]=\\frac{E}{\\frac{r}{n}}[/math]\u003Cbr\u003E [math]=\\frac{n E}{r}[/math]\u003Cbr\u003E [R উপেক্ষা করে]সুতরাং, একই মানের কোষের সমান্তরাল সমবায়ে সর্বোচ্চ পরিমাণ তড়িৎ প্রবাহ পাওয়ার জন্য অভ্যন্তরীণ রোধের মান বহিঃস্থ রোধের মানের চেয়ে অনেক বেশি হতে হবে।",
+        "explanation": "ব্যাখ্যা: সমান্তরালভাবে pটি একই মানের কোষের সমষ্টিগত অভ্যন্তরীণ রোধ হবে [math]r_{\\text{eq}}=\\dfrac{r}{p}[/math], তাই বাহ্যিক স্রোতকে সীমাবদ্ধ করা কমবে যত কম হবে [math]r[/math]। সর্বোচ্চ তড়িৎপ্রবাহ পেতে অভ্যন্তরীণ রোধ যতটা সম্ভব শূন্য হওয়া উচিত, আদর্শ ক্ষেত্রে [math]r=0[/math] হলে [math]r_{\\text{eq}}=0[/math] এবং স্রোত সর্বাধিক হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 424192,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424192,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 424192,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T07:29:37.000000Z",
+            "updated_at": "2025-08-19T07:29:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424191,
+      "value": {
+        "options": {
+          "ঘ": "চিত্রের কোষ দুটিকে কীরূপে যুক্ত করে হিটারে সংযোগ দেওয়া অধিক যুক্তিযুক্ত— গাণিতিক যুক্তিসহ ব্যাখ্যা কর।"
+        },
+        "question": "দুটি কোষকে চিত্রানুসারে সংযুক্ত করে হিটারে ব্যবহার হলো :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a69ae0a6b220e0a6a4e0a6a1e0a6bce0a6bfe0a78e20e0a6ace0a6b0e0a78de0a6a4e0a6a8e0a780-39-202_1755588577_Wbvb2SCi.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcamscanner-08-31-2023-1323-4-removebg-preview20copy_1755588577_10IGtrJF.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, বর্তমান অবস্থায় [math]\\mathrm{I}=\\mathrm{I}_{1}+\\mathrm{I}_{2}=0.67 \\mathrm{~A}[/math]\u003Cbr\u003E [‘গ’ নং থেকে][math]\\therefore[/math]\u003Cbr\u003E ব্যয়িত তড়িৎ শক্তি, [math]\\mathrm{W}_{1}=\\mathrm{I}^{2} \\mathrm{R}=\\left(\\frac{2}{3}\\right)^{2} \\times 12=5.33 \\mathrm{~J}[/math]\u003Cbr\u003Eকোষ দুটোকে শ্রেণি সমবায়ে যুক্ত করলেবর্তনীর মোট বিভব, E = ( 12 + 8) = 20 Vবর্তনীর কোষের অভ্যন্তরীণ রোধ, [math]r = (6 + 6) = 12\\Omega[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E বর্তনীর প্রবাহ, [math]I^{\\prime}=\\frac{E}{R+r}=\\frac{20}{12+12}=\\frac{5}{6} A[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ব্যয়িত তড়িৎ শক্তি,[math]\\begin{aligned}\\mathrm{W}_{2} & =\\mathrm{I}^{\\prime} \\mathrm{R} \\\\& =\\left(\\frac{5}{6}\\right)^{2} \\times 12 \\\\& =8.33 \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003Eযেহেতু [math]W_2 \u003E W_1[/math]\u003Cbr\u003Eসুতরাং কোষদ্বয় হিটারের সাথে শ্রেণিতে যুক্ত করলে বেশি লাভবান হওয়া যাবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সিরিজে সংযুক্ত করা যুক্তিযুক্ত। কারণ দুই সমান কোষ (ইএমএফ [math]E[/math], অভ্যন্তরীণ প্রতিরোধ [math]r[/math]) সিরিজে হলে হিটার প্রতিরোধ [math]R[/math]-এ পাওয়ার হবে [math]P_s=\\dfrac{(2E)^2R}{(R+2r)^2}[/math], আর সমান্তরালে হলে [math]P_p=\\dfrac{E^2R}{(R+\\tfrac{r}{2})^2}[/math]. তাদের অনুপাত [math]\\dfrac{P_s}{P_p}=\\left(\\dfrac{2R+r}{R+2r}\\right)^2[/math], এবং সাধারণত হিটারটির [math]R\\gg r[/math] হওয়ায় অনুপাত ≈[math]4[/math], তাই সিরিজে সংযোগ করলে হিটারে বেশি শক্তি পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 424191,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3503,
+          "full_name": "NGDCR",
+          "short_name": "NGDCR",
+          "slug": "ngdcr",
+          "pivot": {
+            "question_bank_id": 424191,
+            "tag_id": 3503,
+            "year": "2020",
+            "created_at": "2025-08-19T07:29:37.000000Z",
+            "updated_at": "2025-08-19T07:29:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424182,
+      "value": {
+        "options": [],
+        "question": "শ্রেণি সমবায়ে যুক্ত দুটি তড়িৎ কোষ দিয়ে [math]0.5A[/math] তড়িৎ প্রবাহিত করে একটি বৈদ্যুতিক ঘণ্টা চালা নো যায়। যদি প্রতিটি কোষের অভ্যন্তরীণ রোধ [math]0.8 \\Omega[/math] এবং তড়িৎচালক বল [math]0.5A[/math] হয় তবে ঘণ্টার রোধ নির্ণয় কর।",
+        "solution": "[math](0.4 \\Omega)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,প্রবাহমাত্রা, [math]I=0.5 \\ A[/math]\u003Cbr\u003Eঅভ্যন্তরীণ রোধ, [math]r=0.8 \\Omega[/math]\u003Cbr\u003Eতড়িৎচালক বল, [math]E=0.5 \\ V[/math]\u003Cbr\u003Eকোষ সংখ্যা, [math]n=2[/math]\u003Cbr\u003Eঘন্টার রোধ, [math]R=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} I=\\frac{n E}{R+n r} \\\\ \\Rightarrow \\mathrm{R}+\\mathrm{nr}=\\frac{\\mathrm{nE}}{\\mathrm{l}} \\\\ \\Rightarrow R=\\frac{n E}{I}-n r \\\\ =\\frac{2 \\times 0.5 \\mathrm{~V}}{0.5 \\mathrm{~A}}-(0.8 \\times 2) \\\\ \\end{array}[/math]\u003Cbr\u003E [math]=2-1.6 \\Omega=0.4 \\Omega \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দুটি কোষ সিরিজে হলে মোট তড়িৎচালক বল [math]E=0.5+0.5=1.0\\ \\text{V}[/math] এবং মোট অভ্যন্তরীণ রোধ [math]r=0.8+0.8=1.6\\ \\Omega[/math]. ধারা [math]I=0.5\\ \\text{A}[/math] হওয়ায় বাইরের ঘণ্টার রোধ হবে [math]R=\\dfrac{E}{I}-r=\\dfrac{1.0}{0.5}-1.6=2-1.6=0.4\\ \\Omega[/math]. তাই ঘণ্টার রোধ [math]0.4\\ \\Omega[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 424182,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424176,
+      "value": {
+        "options": [],
+        "question": "প্রত্যেকটি [math]5\\ ohms[/math] রোধের [math]30[/math] টি বিদ্যুৎ কোষকে কিভাবে সাজালে [math]6\\ ohms[/math] রোধের একটি বহিঃরোধের মধ্য দিয়ে সর্বাধিক বিদ্যুৎ প্রবাহিত হবে? প্রত্যেকটি কোষের বিদ্যুচ্চালক বল [math]2\\ volts[/math] হলে, ঐ বিদ্যুৎপ্রবাহ মাত্রার মান কত?\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a685e0a6a7e0a78de0a6afe0a6bee0a6afe0a6bc20e0a7a920e0a69ae0a6b220e0a6a4e0a6a1e0a6bce0a6bfe0a78e20important20mcq-21_1755588575_bSNoTIw7.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "(Answer : [math]1 \\mathrm{~A}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : ধরি, কোষগুলোকে প্রতিসারিতে [math]n[/math]\u003Cbr\u003E টি করে [math]m[/math]\u003Cbr\u003E সংখ্যক সারিতে সাজাতে হবে।[math]\\therefore mn=30\\quad\\therefore m=\\dfrac{30}{n};\\ mR=nr\\ \\Rightarrow\\dfrac{30}{n}\\times6=n\\times5\\quad\\Rightarrow n^2=36[/math]\u003Cbr\u003E [math]\\therefore n=6 \\quad \\therefore m=\\dfrac{30}{6}=5;[/math]\u003Cbr\u003E বিদ্যুৎ প্রবাহের মান, [math]I=\\dfrac{m E}{2 r}=\\dfrac{5 \\times 2}{2 \\times 5}=1 \\mathrm{~A}[/math]\u003Cbr\u003E",
+        "explanation": "সাজানো হবে: 6টি করে সিরিজ করে একটি শাখা করে এবং মোট 5টি শাখা প্যারালেলে সংযুক্ত (6×5=30)। কারণ প্রতিটি শাখার ইএমএ [math]E=2n[/math] ও অভ্যন্তরীণ রোধ [math]r_{\\text{eq}}=5n^2/30=n^2/6[/math] হলে মোট প্রবাহ [math]I=\\dfrac{2n}{6+n^2/6}=\\dfrac{12n}{36+n^2}[/math] সর্বাধিক হয় যখন [math]n^2=36\\Rightarrow n=6[/math] (অর্থাৎ অভ্যন্তরীণ রোধ বাইরের রোধের সমান হয়)। তখন [math]E=2\\times6=12\\ V,[\\ r_{\\text{eq}}=6\\ \\Omega,\\ R=6\\ \\Omega][/math] তাই [math]I=\\dfrac{12}{6+6}=1\\ A[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 32,
+          "year": "2003-2004",
+          "pivot": {
+            "question_bank_id": 424176,
+            "year_id": 32
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 501,
+          "full_name": "Chittagong University of Engineering & Technology",
+          "short_name": "CUET",
+          "slug": "cuet",
+          "pivot": {
+            "question_bank_id": 424176,
+            "tag_id": 501,
+            "year": "03-04",
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424177,
+      "value": {
+        "options": {
+          "গ": "এক সারির ইলেকট্রো প্লাকগুলোর তড়িচ্চালক বল ও অভ্যন্তরীণ রোধ নির্ণয় কর ।"
+        },
+        "question": "ইল মাছের দেহে জৈব তড়িৎ কোষ আছে, ফলে এরা তড়িৎ। উৎপন্ন করতে পারে। এ ধরনের জৈব তড়িৎ কোষকে ইলেকট্রোয়াক বলে। ইলের দেহে দৈর্ঘ্য বরাবর ইলেকট্রো প্লাকগুলো [math]140[/math] টি সারিতে। বিভক্ত এবং প্রতিটি সারিতে 5000 ইলেকট্রো প্লাক আছে। ইলেকট্রোপ্পাকের তড়িচ্চালক বল [math]0.15 V[/math] এবং অভ্যন্তরীণ রোধ [math]0.25 \\Omega[/math] । সম্মিলিত ইলেকট্রোমারগুলোর এক প্রাপ্ত মাথার নিকট এবং প্রতিটি অপর প্রান্ত লেজের কাছে থাকে। এর চারপাশের পানি বহিঃসংযোগ হিসেবে কাজ করে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, প্রতিটি ইলেকট্রো প্লাকের তড়িচ্চালক বল, E = 0.15 Vএবং অভ্যন্তরীণ রোধ, r = 0.25 [math]\\Omega[/math]\u003Cbr\u003Eএক সারির ইলেকট্রেIপ্লাকের মোট তড়িচ্চালক বল, [math]E_s[/math]\u003Cbr\u003E = ?এবং মোট অভ্যন্তরীণ রোধ, [math]R_s[/math]\u003Cbr\u003E = ?প্রতি সারিতে 5000 টি ইলেকট্রোপ্পাক থাকায় এক সারির মোট তড়িচ্চালক বল,[math]\\begin{array}{l}E_{s}=5000 \\times E \\\\\\text { } E_{s}=5000 \\times 0.15 \\\\\\therefore E_{s}=750 V \\text {(Ans.) }\\end{array}[/math]\u003Cbr\u003Eএক সারির মোট অভ্যন্তরীণ রোধ,[math]\\begin{array}{l}R_{s}=5000 \\times r \\\\R_{s}=5000 \\times 0.25 \\\\R_{s}=1250\\Omega \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E একটি সারির ইলেকট্রো প্লাকগুলো সিরিজে যুক্ত থাকায় তাদের তড়িচ্চালক বল ও অভ্যন্তরীণ প্রতিরোধ যোগ হয়ে যায়, তাই [math]E=5000\\times0.15= [math]750[/math] V[/math] এবং [math]r=5000\\times0.25=[math]1250[/math]\\ \\Omega[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 424177,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424178,
+      "value": {
+        "options": {
+          "ঘ": "চারপাশের পানির রোধ [math]800 \\Omega[/math] হলে এর মধ্য দিয়ে কী পরিমাণ তড়িৎ প্রবাহ চলে নির্ণয় কর।"
+        },
+        "question": "ইল মাছের দেহে জৈব তড়িৎ কোষ আছে, ফলে এরা তড়িৎ। উৎপন্ন করতে পারে। এ ধরনের জৈব তড়িৎ কোষকে ইলেকট্রোয়াক বলে। ইলের দেহে দৈর্ঘ্য বরাবর ইলেকট্রো প্লাকগুলো [math]140[/math] টি সারিতে। বিভক্ত এবং প্রতিটি সারিতে 5000 ইলেকট্রো প্লাক আছে। ইলেকট্রোপ্পাকের তড়িচ্চালক বল [math]0.15 V[/math] এবং অভ্যন্তরীণ রোধ [math]0.25 \\Omega[/math] । সম্মিলিত ইলেকট্রোমারগুলোর এক প্রাপ্ত মাথার নিকট এবং প্রতিটি অপর প্রান্ত লেজের কাছে থাকে। এর চারপাশের পানি বহিঃসংযোগ হিসেবে কাজ করে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,(গ) হতে প্রাপ্ত,এক সারির মোট তড়িচ্চালক বল, [math]E_s = 720V[/math]\u003Cbr\u003Eএক সারির অভ্যন্তরীণ রোধ, [math]R_s = 1250 \\Omega[/math]\u003Cbr\u003Eবর্তনীর তুল্য তড়িচ্চালক বল, [math]E_eq[/math]\u003Cbr\u003E = ?বর্তনীর অভ্যন্তরীণ তুল্য রোধ, [math]R_eq[/math]\u003Cbr\u003E = ?তড়িৎ প্রবাহ, I = ?সমমানের তড়িচ্চালক কোষ সমান্তরালে থাকলে তাদের তুল্য তড়িচ্চালক বল একটি কোষের তড়িচ্চালক বলের সমান হয়।বর্তনীর তুল্য তড়িচ্চালক বল, [math]E_eq = E_s = 750V[/math]\u003Cbr\u003E [math]R_s[/math]\u003Cbr\u003E মানের 140টি রোধ সমান্তরালে থাকায় বর্তনীর অভ্যন্তরীণ রোধ,[math]\\begin{aligned}R_{\\text {eq }} & =\\frac{R_{s}}{140} \\\\& =\\frac{1250}{140}=8.93 \\Omega\\end{aligned}[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ,[math]\\begin{aligned}I & =\\frac{E_{e q}}{R_{e q}+R} \\\\& =\\frac{750}{8.93+800} \\\\& =0.927 \\mathrm{~A}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, পানির মধ্য দিয়ে তড়িৎ প্রবাহ 0.927 A",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রতিটি সারিতে 5000 প্লাক সিরিজে যুক্ত থাকায় প্রতিটি সারির emf হলো [math]5000\\times0.15=750\\ \\text{V}[/math] এবং অভ্যন্তরীণ রোধ [math]5000\\times0.25=1250\\ \\Omega[/math]; 140টি সারি প্যারালেলে থাকায় মোট অভ্যন্তরীণ রোধ [math]1250/140\\approx8.93\\ \\Omega[/math]. মোট প্রতিরোধ হবে [math]8.93+800\\approx808.93\\ \\Omega[/math], তাই প্রবাহ [math]I=\\dfrac{750}{808.93}\\approx0.927\\ \\text{A}\\ (\\approx0.93\\ \\text{A})[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 424178,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424179,
+      "value": {
+        "options": [],
+        "question": "[math]1.5 \\ V[/math] তড়িচ্চালক বল ও [math]0.2 \\Omega[/math] অভ্যন্তরীণ রোগের [math]4[/math]টি কোষকে শ্রেণিতে যুক্ত ক রে এর দুই প্রান্ত একটি রোধক দিয়ে যুক্ত করায় [math]0.4 A[/math]তড়িৎ প্রবাহ পাওয়া গেল। রোধের মান ও এর দুই প্রান্তের বিভব পার্থক্য নির্ণয় কর।",
+        "solution": "[math](5.68 \\ V)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,তড়িৎ চালক শক্তি, [math]E=1.5 \\ V[/math]\u003Cbr\u003Eঅভ্যন্তরীণ রোধ, [math]r=0.2 \\ \\Omega[/math]\u003Cbr\u003Eকষের সংখ্যা, [math]n=4[/math]\u003Cbr\u003Eপ্রবাহমাত্রা, [math]I_s =0.4 \\ A[/math]\u003Cbr\u003Eরোধকের রোধ, [math]R=?[/math]\u003Cbr\u003Eবিভব পার্থক্য, [math]V=?[/math]\u003Cbr\u003Eআমরা জানি,[math]I_{s}=\\frac{n \\mathrm{~E}}{\\mathrm{R}+\\mathrm{nr}}[/math]\u003Cbr\u003E [math]\\Rightarrow 0.4=\\frac{4 \\times 1.5}{R+4 \\times 0.2}[/math]\u003Cbr\u003E [math]\\Rightarrow R+4 \\times 0.2=\\frac{4 \\times 1.5}{0.4}[/math]\u003Cbr\u003E [math]\\begin{aligned} \\therefore \\quad \\mathrm{R} & =15-0.8 \\\\ & =14.2 \\Omega \\text { (Ans) } \\end{aligned}[/math]\u003Cbr\u003Eএখন,[math]V=1_s \\times R=0.4 \\mathrm{~A} \\times 14.2 \\Omega=5.68 \\mathrm{~V} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: সারিতে যুক্ত হলে মোট তড়িচ্চালক বল [math]E_{\\rm tot}=4\\times1.5=6.0\\ \\text{V}[/math] এবং মোট অভ্যন্তরীণ প্রতিরোধ [math]r_{\\rm tot}=4\\times0.2=0.8\\ \\Omega[/math]. ধারার সূত্র থেকে [math]I=\\dfrac{E_{\\rm tot}}{R+r_{\\rm tot}}[/math], ফলে [math]R=\\dfrac{E_{\\rm tot}}{I}-r_{\\rm tot}=\\dfrac{6.0}{0.4}-0.8=14.2\\ \\Omega[/math]. রোধকের উপর বিভব পার্থক্য [math]V=IR=0.4\\times14.2=5.68\\ \\text{V}[/math] (যা সরাসরি টার্মিনাল ভোল্টেজ [math]E_{\\rm tot}-Ir_{\\rm tot}=6-0.32=5.68\\ \\text{V}[/math] সমান)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 424179,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424180,
+      "value": {
+        "options": [],
+        "question": "[math]1.5 \\ V[/math] তড়িচ্চালক বল ও [math]1 \\ \\Omega[/math] অভ্যন্তরীণ রোধের [math]10[/math] টি কোষকে সমান্তরালে যু ক্ত করে [math]10 \\Omega[/math] রোধের একটি রোধকের সাথে যুক্ত করা হলো। তড়িৎ প্রবাহ ও রোধের দুই প্রান্তে বিভব পার্থক্য নির্ণয় কর।",
+        "solution": "[math](1.48 \\ V)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,কষের তড়িচ্চালক বল, [math]E=1.5 \\ V[/math]\u003Cbr\u003Eঅভ্যন্তরীণ রোধ, [math]r=1 \\Omega[/math]\u003Cbr\u003Eকোষের সংখ্যা, [math]m=10[/math]\u003Cbr\u003Eবাইরের রোধ, [math]R=10 \\Omega[/math]\u003Cbr\u003Eবিভব পার্থক্য, [math]V=?[/math]\u003Cbr\u003Eআমরা জানি,কোষের সমান্তরাল সমবায়ের জন্য,[math]\\begin{array}{l} \\mathrm{I}=\\frac{\\mathrm{mE}}{\\mathrm{mR}+\\mathrm{r}} \\\\ \\Rightarrow \\mathrm{I}=\\frac{10 \\times 1.5 \\mathrm{~V}}{10 \\times 10 \\Omega+1 \\Omega} \\\\ \\therefore \\mathrm{I}=0.148 \\mathrm{~A} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003Eআবার, রোধের দুই প্রান্তের বিভব পার্থক্য [math]V[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned} V & =I R \\\\ & =0.148 \\mathrm{~A} \\times .10 \\Omega \\\\ & =1.48 \\mathrm{~V} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "সামঞ্জস্য রোধকে একসঙ্গে যোগ করার কারণে প্রতিটি [math]1\\ \\Omega[/math] অভ্যন্তরীণ রোধের সমতুল্য হচ্ছে [math]r_{\\text{eq}}=\\dfrac{1\\ \\Omega}{10}=0.1\\ \\Omega[/math]। মোট প্রবাহ হচ্ছে [math]I=\\dfrac{1.5}{10+0.1}=\\dfrac{1.5}{10.1}\\approx0.1485\\ \\text{A}[/math] এবং রোধকের দুই প্রান্তের বিভব পার্থক্য [math]V=I\\times10\\approx1.485\\ \\text{V}[/math] (সমানভাবে [math]V=1.5-I\\times0.1[/math] হিসাবেও পাওয়া যায়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 424180,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424181,
+      "value": {
+        "options": [],
+        "question": "তিনটি তড়িৎ কোষের প্রত্যেকটির তড়িচালক শক্তি [math]2V[/math] এবং অভ্যন্তরীণ রোধ [math]2.5\\Omega[/math]। সমান্তরাল সমবায়ে যুক্ত কোষগুলোর প্রান্তদ্বয় [math]100 \\Omega[/math] রোধের একটি তার দিয়ে যুক্ত করলে তারে তড়িৎ প্রবাহের মান বের কর।",
+        "solution": "[math](0.02 \\ A)[/math]",
+        "explanation": "ব্যাখ্যা: সমান্তরালে যুক্ত অভিন্ন তিনটি কোষের তড়িচালক শক্তি অপরিবর্তিত থাকে [math]2\\ \\text{V}[/math] এবং তাদের সম্মিলিত অভ্যন্তরীণ রোধ হয় [math]\\dfrac{2.5}{3}\\ \\Omega \\approx 0.8333\\ \\Omega[/math]. বাহ্যিক রোধসহ মোট রোধ [math]100+0.8333=100.8333\\ \\Omega[/math], তাই প্রবাহ [math]I=\\dfrac{2}{100.8333}\\approx0.0198\\ \\text{A}\\approx19.8\\ \\text{mA}[/math] (Ohm-এর সূত্র ব্যবহার করে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 424181,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424183,
+      "value": {
+        "options": [],
+        "question": "[math]15[/math]টি কোষের প্রতিটির তড়িচ্চালক বল [math]2V[/math] এবং অভ্যন্তরীণ রোধ [math]0.1\\Omega[/math]। কোষগুলিকে [math]3[/math]টি সারিতে সমান্তরাল সমবায়ে রাখা হলো যাতে প্রতি সারিতে [math]5[/math]টি করে কোষ শ্রেণি সমবায়ে থাকে। সমগ্র কোষ সমবায়ের তড়িচ্চালক বল ও অভ্যন্তরীণ রোধ কত?",
+        "solution": "[math](0.167 \\Omega)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eকোষের সমস্যায়ের তুল্য তড়িচ্চালক বল,[math]E=5 \\times 2V=10V \\ (Ans.)[/math]\u003Cbr\u003Eপ্রতিটি কোষের অভ্যন্তরীণ রোধ [math]=0.1 \\Omega[/math]\u003Cbr\u003Eসমগ্র কোষ সমবায়ের তুল্যরোধ [math]r[/math]\u003Cbr\u003E হলে,[math]\\begin{array}{l} \\frac{1}{r}=\\frac{1}{5 \\times 0.1 \\Omega}+\\frac{1}{5 \\times 0.1 \\Omega}+\\frac{1}{5 \\times 0.1 \\Omega}=\\frac{3}{5 \\times 0.1 \\Omega} \\\\ \\therefore \\quad r=\\frac{0.5 \\Omega}{3}=0.167 \\Omega \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রত্যেক সিরিজশ্রেণিতে ৫টি কোষের মোট তড়িচ্চালক বল [math]5\\times2=10\\ \\text{V}[/math] এবং অভ্যন্তরীণ রোধ [math]5\\times0.1=0.5\\ \\Omega[/math] হবে, আর যে তিনটি একইধরনের শাখা সমান্তরালভাবে আছে তাদের সমতুল্য তড়িচ্চালক বল শাখার সমান তাই [math]10\\ \\text{V}[/math] এবং সমতুল্য অভ্যন্তরীণ রোধ শাখা রোধের পারলেল সমতুল্য [math]r_{\\text{eq}}=\\dfrac{0.5}{3}=\\dfrac{1}{6}\\ \\Omega\\approx0.1667\\ \\Omega[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 424183,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424184,
+      "value": {
+        "options": [],
+        "question": "কোনো কোষের তড়িচ্চালক শক্তি [math]1.5V[/math] এবং অভ্যন্তরীণ রোধ [math]0.2\\Omega[/math]। এরূপ [math]4[/math]টি কো ষের শ্রেণি সংযোগে গঠিত একটি ব্যাটারির বাইরের কোনো রোধকের মধ্যদিয়ে [math]0.4A[/math] প্রবাহ চালাতে পারে। বাইরের রোধকের রোধ এবং রোধকের প্রান্তদ্বয়ের বিভব পার্থক্য নির্ণয় কর।",
+        "solution": "[math](5.68 \\ V)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে, তড়িৎ চালক শক্তি, [math]E=1.5 \\ V[/math]\u003Cbr\u003Eঅভ্যন্তরীণ রোধ, [math]r=0.2 \\ \\Omega[/math]\u003Cbr\u003Eকোষের সংখ্যা, [math]n=4[/math]\u003Cbr\u003Eপ্রবাহমাত্রা, [math]I_{s}=0.4 \\ A[/math]\u003Cbr\u003Eরোধকের রোধ, [math]R=?[/math]\u003Cbr\u003Eবিভব পার্থক্য [math]V=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\mathrm{I}_{\\mathrm{s}}=\\frac{\\mathrm{nE}}{\\mathrm{R}+\\mathrm{nr}}[/math]\u003Cbr\u003E [math]\\Rightarrow 0.4=\\frac{4 \\times 1.5}{R+4 \\times 0.2}[/math]\u003Cbr\u003E [math]R+4 \\times 0.2=\\frac{4 \\times 1.5}{0.4}[/math]\u003Cbr\u003E [math]\\begin{aligned} \\therefore \\quad R & =15-0.8 \\\\ & =14.2 \\Omega(\\mathrm{Ans}) \\end{aligned}[/math]\u003Cbr\u003Eএখন, [math]\\mathrm{V}=1_{s} \\times \\mathrm{R}=0.4 \\mathrm{~A} \\times 14.2 \\Omega=5.68 \\mathrm{~V} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "শ্রেণিবদ্ধভাবে ধরলে মোট তড়িচ্চালক শক্তি [math]E_{\\text{total}}=4\\times1.5=6.0\\ \\text{V}[/math] এবং মোট অভ্যন্তরীণ রোধ [math]r_{\\text{total}}=4\\times0.2=0.8\\ \\Omega[/math]; সার্কিটে [math]E_{\\text{total}}=I(R+r_{\\text{total}})[/math] लागू হলে বাইরের রোধ পাওয়া যায়: [math]R=\\frac{E_{\\text{total}}}{I}-r_{\\text{total}}=\\frac{6.0}{0.4}-0.8=14.2\\ \\Omega[/math]। বাইরের রোধের প্রান্তদ্বয় হল [math]V_R=I\\,R=0.4\\times14.2=5.68\\ \\text{V}[/math] (অথবা [math]6.0-0.4\\times0.8=5.68\\ \\text{V}[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 424184,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424185,
+      "value": {
+        "options": [],
+        "question": "[math]1.5V[/math] তড়িচ্চালক শক্তি এবং [math]0.1\\Omega[/math] অভ্যন্তরীণ রোধবিশিষ্ট [math]10[/math]টি কোষকে সমান্তরালে সাজিয়ে [math]10\\Omega[/math] রোধের সাথে যুক্ত করা হলো । বর্তনীর প্রবাহ নির্ণয় কর।",
+        "solution": "[math](1.48 \\ V)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,কষের তড়িচ্চালক বল, [math]E=1.5 \\ V[/math]\u003Cbr\u003Eঅভ্যন্তরীণ রোধ, [math]r=1 \\Omega[/math]\u003Cbr\u003Eকোষের সংখ্যা, [math]m=10[/math]\u003Cbr\u003Eবাইরের রোধ, [math]R=10 \\Omega[/math]\u003Cbr\u003E বিভব পার্থক্য, [math]V=?[/math]\u003Cbr\u003Eআমরা জানি,কোষের সমান্তরাল সমবায়ের জন্য,[math]\\begin{array}{l} \\mathrm{I}=\\frac{\\mathrm{mE}}{\\mathrm{mR}+\\mathrm{r}} \\\\ \\Rightarrow \\mathrm{I}=\\frac{10 \\times 1.5 \\mathrm{~V}}{10 \\times 10 \\Omega+1 \\Omega} \\\\ \\therefore \\mathrm{I}=0.148 \\mathrm{~A} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003Eআবার, রোধের দুই প্রান্তের বিভব পার্থক্য [math]V[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned} V & =I R \\\\ & =0.148 \\mathrm{~A} \\times .10 \\Omega \\\\ & =1.48 \\mathrm{~V} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমান ইএমএফবিশিষ্ট কোষসমূহ সমান্তরালে যুক্ত করলে সমগ্র ইএমএফ একই থাকে, এবং অভ্যন্তরীণ প্রতিরোধসমূহ বিশ্রেণীকৃতভাবে কমে; তাই [math]r_{\\text{eq}}=\\dfrac{0.1}{10}=0.01\\ \\Omega[/math] এবং মোট প্রতিরোধ [math]10+0.01=10.01\\ \\Omega[/math]. সুতরাং প্রবাহ [math]I=\\dfrac{1.5}{10.01}\\approx0.15\\ \\text{A}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 424185,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424186,
+      "value": {
+        "options": [],
+        "question": "একই ধরনের [math]10[/math] টি বিদ্যুৎ কোষের একটি ব্যাটারি হতে [math]10 \\ \\Omega[/math] এর একটি বহিঃস্থ রো ধের মধ্য দিয়ে [math]1A[/math] এবং [math]20 \\ \\Omega[/math] এর একটি বহিঃস্থ রোধের মধ্য দিয়ে [math]0.6 \\ A[/math] বিদ্যুৎ প্রবাহ পাওয়া যায়। বিদ্যুৎ কোষের বিদ্যুৎচ্চালক বল ও অভ্যন্তরীণ রোধ নির্ণয় করো।",
+        "solution": "[math](1.5V,0.5 \\Omega)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003E [math]10[/math]\u003Cbr\u003Eটি কোষের প্রতিটির বল [math]E[/math]\u003Cbr\u003E এবং অভ্যন্তরীণ রোধ [math]r[/math]\u003Cbr\u003Eএখানে,১ম ক্ষেত্রে, বহিঃস্থ রোধ, [math]R_{1}=10 \\Omega[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, [math]I_{1}=1_{A}[/math]\u003Cbr\u003E২য় ক্ষেত্রে, বহিঃস্থ রোধ, [math]R_{2}=20 \\ \\Omega[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, [math]I_{2}=0.6 \\ A[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[E=I(R+nr) [math]\\because \\ n[/math]\u003Cbr\u003E সংখ্যাক কোষের জন্য][math]\\begin{array}{l} \\Rightarrow E=I_{1}\\left(R_{1}+10 r\\right)=I_{2}\\left(R_{2}+10 r\\right) \\\\ \\Rightarrow 1 \\times(10+10 r)=0.6(20+10 r) \\\\ \\Rightarrow 10+10 r=12+6 r \\\\ \\Rightarrow 10 r-6 r=12-10 \\\\ \\therefore r=\\frac{2}{4}=0.5 \\Omega \\end{array}[/math]\u003Cbr\u003Eআবার,[math]\\begin{aligned} E & =I_{1}\\left(R_{1}+10 \\mathrm{r}\\right) \\\\ & =1 \\times(10+10 \\times 0.5) \\\\ & =15 \\mathrm{~V} \\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E প্রতিটি কোষের তড়িচ্চালক বল [math]=\\frac{15 \\mathrm{~V}}{10}=1.5 \\mathrm{~A}[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিটি কোষের ইএমএফ [math]\\varepsilon[/math] ও অভ্যন্তরীণ রোধ [math]r[/math] ধরে মোট ব্যাটারি হবে [math]10\\varepsilon[/math] এবং [math]10r[/math]। [math]R=10,\\ I=1[/math] হলে [math]10\\varepsilon=1(10+10r)=10+10r[/math] এবং [math]R=20,\\ I=0.6[/math] হলে [math]10\\varepsilon=0.6(20+10r)=12+6r[/math]; এসব থেকে [math]10+10r=12+6r\\Rightarrow r=0.5\\ \\Omega[/math] এবং [math]\\varepsilon=1+r=1.5\\ \\text{V}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 424186,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424187,
+      "value": {
+        "options": [],
+        "question": "প্রত্যেকটি [math]5\\Omega[/math] রোধের [math]30[/math] টি বিদ্যুৎ কোষকে কীভাবে সাজালে [math]6\\Omega[/math] রোধের এ কটি বহিঃরোধের মধ্য দিয়ে সর্বাধিক বিদ্যুৎ প্রবাহিত হবে? প্রত্যেকটি কোষের বিদ্যুচ্চালক বল [math]2V[/math] হলে, ঐ বিদ্যুৎ প্রবাহমাত্রার মান কত ?",
+        "solution": "[math][/math]\u003Cbr\u003Eসমান্তরাল সারির সংখ্যা [math]5[/math]\u003Cbr\u003E; প্রত্যেক সারিতে কোষের সংখ্যা [math]6[/math]\u003Cbr\u003E এবং তড়িৎ প্রবাহ [math]1 \\ A[/math]\u003Cbr\u003E ।[math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eমনে করি,সারির সংখ্যা [math]m[/math]\u003Cbr\u003E এবং প্রত্যেক সারিতে কোষের সংখ্যা [math]n[/math]\u003Cbr\u003E।[math]\\therefore \\ m \\times n=30 ------------------(i)[/math]\u003Cbr\u003Eএখানে,প্রতিটি কোষের তড়িচ্চালক শক্তি, [math]E=2V[/math]\u003Cbr\u003Eঅভ্যন্তরীণ রোধ, [math]r=5 \\Omega[/math]\u003Cbr\u003Eবহিঃস্থ রোধ, [math]R= 6 \\Omega[/math]\u003Cbr\u003Eসর্বাধিক তড়িৎ প্রবাহের শর্ত,[math]\\begin{array}{l} \\mathrm{nr}=\\mathrm{mR} \\\\ \\therefore \\mathrm{n}=\\frac{\\mathrm{mR}}{\\mathrm{r}} \\\\ \\quad=\\frac{\\mathrm{m} \\times 6}{5}=\\frac{6 \\mathrm{~m}}{5} \\\\ \\therefore \\mathrm{m} \\times \\mathrm{n}=30 \\\\ \\Rightarrow \\mathrm{m} \\times \\frac{6 \\mathrm{~m}}{5}=30 \\\\ \\Rightarrow \\mathrm{m}^{2}=\\frac{30 \\times 5}{6} \\\\ \\Rightarrow \\mathrm{m}^{2}=25 \\\\ \\therefore \\mathrm{m}=5 \\end{array}[/math]\u003Cbr\u003E [math](i)[/math]\u003Cbr\u003E নং হতে,[math]\\begin{array}{l} m \\times n=30 \\\\ \\Rightarrow n=\\frac{30}{5}=6 \\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E সর্বাধিক তড়িৎ প্রবাহ,[math]\\begin{aligned} I_{\\max } & =\\frac{m n E}{n r+m R} \\\\ & =\\frac{m n E}{m R+m R}[\\because n r=m R] \\\\ & =\\frac{m n E}{2 m R} \\\\ & =\\frac{n E}{2 R}=\\frac{6 \\times 2}{2 \\times 6}=1 \\mathrm{~A} \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্যারালাল শাখার সংখ্যা [math]p[/math] হলে সমতুল্য অভ্যন্তরীণ রোধ হবে [math]r_{\\rm eq}=nr/p^2[/math] এবং প্রবাহ [math]I=\\dfrac{nEp}{nr+Rp^2}[/math]; সর্বোচ্চ করতে ধীরে বিশ্লেষণে পাওয়া যায় [math]p=\\sqrt{\\dfrac{nr}{R}}[/math], অর্থাৎ সমতুল্য অভ্যন্তরীণ রোধটি বহিঃরোধের সমান হয়। এখানে [math]p=\\sqrt{\\dfrac{30\\times5}{6}}=5[/math], তাই 5টি প্যারালাল শাখায় প্রত্যেকটিতে 6টি সিরিজে রাখা উচিত। প্রতিটি শাখার ই এম এফ [math]=6\\times2=12\\text{ V}[/math], সমতুল্য অভ্যন্তরীণ রোধ [math]=6\\Omega[/math], সুতরাং প্রবাহ [math]I=\\dfrac{12}{6+6}=1\\text{ A}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 424187,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424188,
+      "value": {
+        "options": [],
+        "question": "[math]1.5 \\ V[/math] তড়িচ্চালক বল ও [math]0.2\\Omega[/math] অভ্যন্তরীণ রোধের [math]4[/math] টি কোষকে শ্রেণিতে যুক্ত ক রে এর দুই প্রান্ত একটি রোধক দিয়ে যুক্ত করায় [math]0.4 \\ A[/math] তড়িৎ প্রবাহ পাওয়া গেল। রোধের মান ও এর দুই প্রান্তের বিভব পার্থক্য নির্ণয় করো ।",
+        "solution": "[math](5.68 \\ V)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,তড়িৎ চালক শক্তি, [math]E=1.5 \\ V[/math]\u003Cbr\u003Eঅভ্যন্তরীণ রোধ, [math]r=0.2 \\ \\Omega[/math]\u003Cbr\u003Eকোষের সংখ্যা, [math]n=4[/math]\u003Cbr\u003Eপ্রবাহমাত্রা, [math]I_{s}=0.4 \\ A[/math]\u003Cbr\u003Eরোধকের রোধ, [math]R=?[/math]\u003Cbr\u003Eবিভব পার্থক্য [math]V=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} \\mathrm{I},=\\frac{\\mathrm{nE}}{\\mathrm{R}+\\mathrm{nr}} \\\\ \\Rightarrow 0.4=\\frac{4 \\times 1.5}{\\mathrm{R}+4 \\times 0.2} \\\\ \\Rightarrow \\mathrm{R}+4 \\times 0.2=\\frac{4 \\times 1.5}{0.4} \\\\ \\therefore \\quad \\begin{array}{l} \\mathrm{R}=15-0.8 \\\\ =14.2 \\Omega \\text { (Ans) } \\end{array} \\end{array}[/math]\u003Cbr\u003Eএখন,[math]V=1_{s} \\times R=0.4 \\mathrm{~A} \\times 14.2 \\Omega=5.68 \\mathrm{~V} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সিরিজে ৪টি কোষের মোট তড়িচ্চালক বল [math]E_{total}=4\\times1.5=6\\ \\text{V}[/math] এবং মোট অভ্যন্তরীণ রোধ [math]r_{total}=4\\times0.2=0.8\\ \\Omega[/math]; বাহ্যিক রোধে প্রবাহ [math]I=0.4\\ \\text{A}[/math] হওয়ায় লুপ সমীকরণ থেকে রোধের মান পাওয়া যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E রোধ: [math]R=\\frac{E_{total}}{I}-r_{total}=\\frac{6}{0.4}-0.8=15-0.8=14.2\\ \\Omega[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দুই প্রান্তের বিভব পার্থক্য: বাৎটি বরাবর ভোল্টেজ বিশ্লেষণ করলে [math]V=IR=0.4\\times14.2=5.68\\ \\text{V}[/math] (অথবা [math]V=E_{total}-I r_{total}=6-0.4\\times0.8=5.68\\ \\text{V}[/math])",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 424188,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424189,
+      "value": {
+        "options": [],
+        "question": "[math]1.5 \\ V[/math] তড়িচ্চালক বল ও [math]1 \\ \\Omega[/math] অভ্যন্তরীণ রোধের [math]10[/math] টি কোষকে সমান্তরালে যু ক্ত করে [math]10 \\Omega[/math] রোধের একটি রোধকের সাথে যুক্ত করা হলো। তড়িৎ প্রবাহ ও রোধের দুই প্রান্তে বিভব পার্থক্য নির্ণয় করো।",
+        "solution": "[math](1.48 \\ V)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,কষের তড়িচ্চালক বল, [math]E=1.5 \\ V[/math]\u003Cbr\u003Eঅভ্যন্তরীণ রোধ, [math]r=1 \\Omega[/math]\u003Cbr\u003Eকোষের সংখ্যা, [math]m=10[/math]\u003Cbr\u003Eবাইরের রোধ, [math]R=10 \\Omega[/math]\u003Cbr\u003E বিভব পার্থক্য, [math]V=?[/math]\u003Cbr\u003Eআমরা জানি,কোষের সমান্তরাল সমবায়ের জন্য,[math]\\begin{array}{l} \\mathrm{I}=\\frac{\\mathrm{mE}}{\\mathrm{mR}+\\mathrm{r}} \\\\ \\Rightarrow \\mathrm{I}=\\frac{10 \\times 1.5 \\mathrm{~V}}{10 \\times 10 \\Omega+1 \\Omega} \\\\ \\therefore \\mathrm{I}=0.148 \\mathrm{~A} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003Eআবার, রোধের দুই প্রান্তের বিভব পার্থক্য [math]V[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned} V & =I R \\\\ & =0.148 \\mathrm{~A} \\times .10 \\Omega \\\\ & =1.48 \\mathrm{~V} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "সমান্তরালে ১০ টি সমান কোষের সমতুল্য ই এম এফ একই থাকে তাই [math]E=1.5\\ V[/math] এবং অভ্যন্তরীণ রোধ [math]r_{eq}=1\\ \\Omega/10=0.1\\ \\Omega[/math]. মোট প্রবাহ [math]I=\\dfrac{E}{R+r_{eq}}=\\dfrac{1.5}{10+0.1}=\\dfrac{1.5}{10.1}\\approx0.1485\\ A[/math]. রোধকের দুই প্রান্তে বিভব পার্থক্য [math]V=IR\\approx0.1485\\times10\\approx1.485\\ V[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 424189,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424190,
+      "value": {
+        "options": [],
+        "question": "[math]4\\Omega[/math] অন্তঃরোধযুক্ত [math]30[/math]টি কোষকে কিভাবে যুক্ত করলে [math]6\\Omega[/math] এর বাইরের রোধে র মধ্যদিয়ে সর্বোচ্চ প্রবাহ পাওয়া যাবে?",
+        "solution": "[math][/math]\u003Cbr\u003Eসারির সংখ্যা [math]5[/math]\u003Cbr\u003E এবং প্রতিটি সারিতে কোষের সংখ্যা [math]6[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eসারির সংখ্যা [math]m[/math]\u003Cbr\u003E এবং প্রত্যেক সারিতে কোষের সংখ্যা [math]n[/math]\u003Cbr\u003E।[math]\\therefore \\ m \\times n = 30---------------(i)[/math]\u003Cbr\u003Eএখানে,অভ্যন্তরীণ রোধ, [math]r=4\\Omega[/math]\u003Cbr\u003Eবহিঃস্থ রোধ, [math]R=6\\Omega[/math]\u003Cbr\u003Eসর্বাধিক তড়িৎ প্রবাহের শর্ত,[math]\\begin{aligned} \\mathrm{mR} & =\\mathrm{nr} \\\\ \\therefore \\mathrm{m} & =\\frac{\\mathrm{nr}}{\\mathrm{R}} \\\\ & =\\frac{\\mathrm{n} \\times 4}{6}=\\frac{4 \\mathrm{n}}{6} \\end{aligned}[/math]\u003Cbr\u003E [math](i)[/math]\u003Cbr\u003E নং হতে পাই,[math]\\begin{array}{l}\\mathrm{m} \\times \\mathrm{n}=30\\\\\\Rightarrow \\frac{4 n}{6} \\times n=30\\\\\\Rightarrow r^{2}=\\frac{30 \\times 6}{4}\\\\\\Rightarrow r^{2}=45\\\\\\therefore n=6.7=6 \\text{ or, 7}\\end{array}[/math]\u003Cbr\u003Eযখন, [math]n=6[/math]\u003Cbr\u003E [math]\\begin{array}{l} m \\times n=30 \\\\ \\therefore m=\\frac{30}{n}=\\frac{30}{6}=5 \\end{array}[/math]\u003Cbr\u003Eআবার, যখন [math]n=7[/math]\u003Cbr\u003E [math]\\therefore m=\\frac{30}{n}=\\frac{30}{7}=4.286[/math]\u003Cbr\u003Eপূর্ণ সংখ্যা না হওয়ায় গ্রহনযোগ্য নহে।",
+        "explanation": "সবগুলো কোষকে সমান্তরালভাবে যুক্ত করতে হবে যাতে ভেতরের রোধ সর্বনিম্ন হয়। কারণ সমান্তরালে সমতুল্য ভেতরের রোধ হবে [math]r_{eq}=4/30=\\tfrac{2}{15}\\ \\Omega[/math], ফলে মোট مقاومت হবে [math]6+\\tfrac{2}{15}\\ \\Omega[/math] এবং প্রবাহ সর্বাধিক হবে [math]I=\\dfrac{E}{6+\\tfrac{2}{15}}[/math]. সিরিজে যুক্ত করলে ভেতরের রোধ [math]30\\times4=120\\ \\Omega[/math] হয়ে মোট রোধ বেশি হয়ে প্রবাহ অনেক ছোট হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 424190,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:29:35.000000Z",
+            "updated_at": "2025-08-19T07:29:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424175,
+      "value": {
+        "options": [],
+        "question": "[math]6V[/math]-এর একটি ব্যাটারীর অভ্যন্তরীণ রোধ [math]0.25\\Omega[/math]। অন্য একটি [math]0.5\\Omega[/math] অভ্যন্তরী ণ রোধবিশিষ্ট [math]3V[/math] ব্যাটারীর সাথে সমান্তরালে সংযোগ করলে উক্ত সমবায়ের প্রান্তদ্বয়ের বিভব পার্থক্য নির্ণয় কর।",
+        "solution": "( Answer : [math]5\\mathrm{~V}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : প্রান্তদ্বয়ের বিভব পার্থক্য,\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a685e0a6a7e0a78de0a6afe0a6bee0a6afe0a6bc20e0a7a920e0a69ae0a6b220e0a6a4e0a6a1e0a6bce0a6bfe0a78e20important20mcq-7_1755588574_jiKACHCd.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]=\\dfrac{\\dfrac{\\mathrm{E}_{1}}{\\mathrm{R}_{1}}+\\dfrac{\\mathrm{E}_{2}}{\\mathrm{R}_{2}}}{\\dfrac{1}{\\mathrm{R}_{1}}+\\dfrac{1}{\\mathrm{R}_{2}}}=\\dfrac{\\dfrac{6}{0.25}+\\dfrac{3}{0.5}}{\\dfrac{1}{0.25}+\\dfrac{1}{0.5}}=5 \\mathrm{~V}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমবায়ে টার্মিনাল ভোল্টেজ এমন হবে যে অভ্যন্তরীণ প্রতিরোধ দিয়ে দুই ব্যাটারির ধারা যোগফল শূন্য থাকে, তাই এটি ওম রীতি অনুযায়ী ওজনযুক্ত গড় হবে। [math]V=\\frac{E_1/r_1+E_2/r_2}{1/r_1+1/r_2}=\\frac{6/0.25+3/0.5}{1/0.25+1/0.5}=\\frac{24+6}{4+2}=\\frac{30}{6}=5\\ \\text{V}[/math]. সুতরাং প্রান্তদ্বয়ের বিভব পার্থক্য [math]5\\ \\text{V}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 424175,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 424175,
+            "tag_id": 80,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:29:34.000000Z",
+            "updated_at": "2025-08-19T07:29:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424174,
+      "value": {
+        "options": {
+          "ঘ": "২ ও ৩ নং চিত্রে সুইচ অন করার পর বাতির অবস্থা কীরূপ হবে গাণিতিক যুক্তিসহ ব্যাখ্যা কর।"
+        },
+        "question": "নিচের চিত্র তিনটি লক্ষ কর :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a69ae0a6b220e0a6a4e0a6a1e0a6bce0a6bfe0a78e20e0a6ace0a6b0e0a78de0a6a4e0a6a8e0a780-6-202_1755588573_e10NGVon.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nপরীক্ষাগারে ফারিয়া তিনটি একই মানের কোষ ও একটি বৈদ্যুতিক বাতি নিয়ে চিত্রানুযায়ী বিভিন্নভাবে তিনটি বর্তনী তৈরি করল। [কোষের অভ্যন্তরীণ রোধ [math]0.1\\ \\Omega[/math] ও বাতির রোধ নগণ্য]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eআমরা দেখতে পাই ২ ও ৩নং চিত্রে রোধ ও কোষগুলোর বিন্যাস অনুরূপধরি, প্রতিটি কোষের তড়িচ্চালক শক্তি [math]\\rm{E}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ২নং চিত্র হতে,[math]\\hspace{1.35 cm}\\begin{aligned} \\rm{I_{B}} & =\\rm{\\frac{E+E}{R+r+\\frac{r}{2}}} \\\\ & =\\rm{\\frac{2 E}{r+\\frac{r}{2}} \\qquad[R \\approx 0]} \\\\ & =\\rm{\\frac{2 E}{\\frac{3 r}{2}}} \\\\ \\therefore ~\\rm{I_{B}} & =\\rm{\\frac{4 E}{3 r}} \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\rm{(1)} \\end{aligned}[/math]\u003Cbr\u003Eআবার, ২নং চিত্রানুসারে,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{I}_{\\rm{C}} & =\\frac{\\mathrm{E}+\\mathrm{E}}{\\mathrm{R}+\\frac{\\mathrm{r}}{2}+\\mathrm{r}} \\\\ & =\\frac{2 \\mathrm{E}}{\\frac{\\mathrm{r}}{2}+\\mathrm{r}}[\\mathrm{R} \\approx 0] \\\\ \\mathrm{I}_{\\rm{C}} & =\\frac{4 \\mathrm{E}}{3 \\mathrm{r}} \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\rm{(2)} \\end{aligned}[/math]\u003Cbr\u003Eসমীকরণ [math](1)[/math]\u003Cbr\u003E ও [math](2)[/math]\u003Cbr\u003E থেকে দেখা যায়,[math]\\qquad ~\\mathrm{I}_{\\mathrm{B}}=\\mathrm{I}_{\\mathrm{C}}[/math]\u003Cbr\u003Eঅতএব, ২ ও ৩নং চিত্রে সুইচ অন করলে উভয় বর্তনীতে বাতি সমান ঐজ্জ্বল্য নিয়ে জ্বলবে।",
+        "explanation": "ব্যাখ্যা: ২ ও ৩ নম্বর চিত্রে সুইচ অন করলে সুইচটি বাতির দুই প্রান্তকে সরাসরি সংযুক্ত করে ফলে বাতির ওপরে কোনো বিভবান্তর থাকে না, তাই বাতি জ্বলে না। গাণিতিকভাবে বাতির উপর ভোল্টেজ [math]V_b=0[/math], তাই শক্তি উৎপাদন [math]P=\\dfrac{V_b^2}{R}=0[/math]। (এই অবস্থায় ব্যাটারির অভ্যন্তরীণ প্রতিরোধে বড় শর্ট-সার্কিট প্রবাহ হতে পারে, কিন্তু তা বাতির মাধ্যমে নয়।)",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 424174,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 424174,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 424174,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424174,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424174,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424174,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 424174,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T07:29:33.000000Z",
+            "updated_at": "2025-08-19T07:29:33.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 424174,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T07:29:33.000000Z",
+            "updated_at": "2025-08-19T07:29:33.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 424174,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T07:29:33.000000Z",
+            "updated_at": "2025-08-19T07:29:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424173,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের সকল তড়িৎ কোষগুলোকে সমান্তরালে সাজিয়ে একইভাবে যুক্ত করলে প্রবাহের পরিবর্তন কীরূপ হবে? গাণিতিকভাবে বিশ্লেষণ করো।"
+        },
+        "question": "2 V তড়িচ্চালক শক্তি ও 1 [math]\\Omega[/math] অন্তঃরোধবিশিষ্ট 5 টি তড়িৎ কোষকে শ্রেণিতে সাজিয়ে 25°C তাপমাত্রার 60 [math]\\Omega[/math] রোধবিশিষ্ট একটি পরিবাহী তারের সাথে যুক্ত করা হলো। পরিবাহী তারে রোধের উষ্ণতার গুণাঙ্ক 4.2 x 10 [math]^{-1}[/math]/°C।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রতিটি কোষের তড়িচ্চালক শক্তি, E = 2 V[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রতিটি কোষের অন্তঃরোধ [math]r=1 \\Omega[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকোষের সংখ্যা n = 5[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবহিঃস্থ রোধ, [math]R= 60 \\Omega[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশ্রেণি সংযোগে তড়িৎ প্রবাহের মান, [math]I_s = ?[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসমান্তরাল সহযোগে তড়িৎপ্রবাহের মান, [math]I_p = ?[/math]\u003Cbr\u003Eআমরা জানি, কোষের শ্রেণি সংযোগে তড়িৎপ্রবাহের মান,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~ I_{s}=\\frac{n E}{n r+R} \\\\ \\Rightarrow I_{s}=\\frac{5 \\times 2}{5 \\times 1+60} \\\\ \\therefore ~ I_{s}=0.154 \\mathrm{~A} \\end{array}[/math]\u003Cbr\u003Eঅধানে, প্রতিটি কোষের সমান্তরাল সংযোগে তড়িৎপ্রবাহের মান,[math]\\hspace{1.5 cm}\\begin{aligned} I_{p} & =\\frac{n E}{n R+r} \\\\ \\Rightarrow I_{p} & =\\frac{5 \\times 2}{5 \\times 60+1} \\\\ \\therefore ~ I_{p} & =0.033 \\mathrm{~A} \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের সকল তড়িৎকোষগুলোকে সমান্তরালে সাজিয়ে একইভাবে যুক্ত করা হলে তড়িৎপ্রবাহ [math]I_{s}-I_{p}=(0.154-0.033) \\mathrm{A}= 0.121 \\mathrm{~A}[/math]\u003Cbr\u003E হ্রাস পাবে।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সিরিজে মোট তড়িচ্চালক শক্তি [math]E_s=5\\times2=10\\ \\text{V}[/math] এবং অর্ন্তরোধ [math]r_s=5\\times1=5\\ \\Omega[/math], তাই প্রবাহ [math]I_s=\\dfrac{10}{5+60}=\\dfrac{10}{65}\\approx0.154\\ \\text{A}[/math]. সমান্তরালে দিলে মোট ইএমএফ [math]E_p=2\\ \\text{V}[/math] এবং অর্ন্তরোধ [math]r_p=\\dfrac{1}{5}=0.2\\ \\Omega[/math], তাই [math]I_p=\\dfrac{2}{0.2+60}=\\dfrac{2}{60.2}\\approx0.0332\\ \\text{A}[/math]. অতএব প্রবাহ কমে প্রায় [math]0.0332/0.154\\approx0.216[/math] গুণ (প্রায় 21.6%, বা প্রায় 4.63 গুণ হ্রাস) হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 424173,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424173,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 424173,
+            "tag_id": 236,
+            "year": "2021",
+            "created_at": "2025-08-19T07:29:32.000000Z",
+            "updated_at": "2025-08-19T07:29:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424172,
+      "value": {
+        "options": {
+          "ঘ": "কোষের সমবায়ের ধরন পরিবর্তনের ফলে বহিঃরোধ R এর দুই প্রান্তের বিভব পার্থক্যের পরিবর্তন হয় বর্তনী-১ ও বর্তনী-২ এর আলোকে গাণিতিকভাবে বিশ্লেষণ করো।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture_1755588571_SWsYtWO2.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eবর্তনী-১ এ, তুল্য তড়িচ্চালক বল, E = (6+ 3) = 9 V[math]\\therefore[/math]\u003Cbr\u003E R এর দুই প্রান্তের বিভব পার্থক্য,[math]\\begin{aligned}V_{1} & =\\frac{10}{0.2+0.3+10} \\times 9 \\\\& =8.57 \\mathrm{~V}\\end{aligned}[/math]\u003Cbr\u003Eবর্তনী-২ এ তড়িৎপ্রবাহ দিলে বর্তনীটি দেখতে নিম্নরূপ হবে—\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture_1755588572_NMeVcMAk.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003Eকার্শফের প্রথম সূত্র অনুযায়ী,[math]\\begin{array}{l}\\mathrm{I}=\\mathrm{I}_{1}+\\mathrm{I}_{2} \\\\\\Rightarrow\\text { } \\mathrm{I}-\\mathrm{I}_{1}-\\mathrm{I}_{2}=0 ... ... (i)\\end{array}[/math]\u003Cbr\u003EABCDEH লুপের ক্ষেত্রে,[math]\\begin{array}{l}10 \\mathrm{I}-6+0.3 \\mathrm{I}_{2}=0\\\\\\Rightarrow\\text{ } 10 \\mathrm{I}+0.3 \\mathrm{I}_{2}=\\dot{6} ... ... (ii)\\text{.}\\end{array}[/math]\u003Cbr\u003EABCFGH লুপের ক্ষেত্রে,[math]\\begin{array}{l}10 \\mathrm{I}-3+0.2 \\mathrm{I}_{1}=0 \\\\\\Rightarrow\\text { } 10 \\mathrm{I}+0.2 \\mathrm{I}_{1}=3\\end{array}[/math]\u003Cbr\u003E(i), (ii) এবং (iii) সমাধান করে পাই,[math]\\begin{array}{l}\\mathrm{I}=0.415 \\mathrm{~A} \\\\\\mathrm{I}_{1}=-5.75 \\mathrm{~A} \\\\\\mathrm{I}_{2}=6.166 \\mathrm{~A}\\end{array}[/math]\u003Cbr\u003Eবহিঃরোধ R এর দুইপ্রান্তের বিভব,[math]\\begin{aligned}\\mathrm{V}_{2}=\\mathrm{IR} & =(0.415 \\times 10) \\mathrm{V} \\\\& =4.15 \\mathrm{~V}\\end{aligned}[/math]\u003Cbr\u003Eদেখা যাচ্ছে, [math]V_{1} \\neq V_{2}[/math]\u003Cbr\u003E.:. কোষের সমবায়ের ধরন পরিবর্তনের ফলে বহিঃরোধ R এর দুই প্রান্তের বিভব পার্থক্যের পরিবর্তন হয় ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সিরিজে nটি অভিন্ন কোষ থাকলে মোট ই এম এফ [math]E_s=nE[/math] এবং মোট অভ্যন্তরীণ প্রতিরোধ [math]r_s=nr[/math], তাই বহিঃরোধ R‑এর উপর বিভব পার্থক্য হচ্ছে [math]V_{R,s}=\\dfrac{nER}{R+nr}[/math]। সমান্তরালে একই n কোষ হলে মোট ই এম এফ [math]E_p=E[/math], অভ্যন্তরীণ প্রতিরোধ [math]r_p=\\dfrac{r}{n}\u003C/math\u003E এবং [math]V_{R,p}=\\dfrac{ER}{R+r/n}=\\dfrac{nER}{nR+r}[/math]। তুলনা করলে দেখা যায় [math]V_{R,s}\u003EV_{R,p}\u003C/math\u003E হবে যদি [math]R\u003Er\u003C/math], আর [math]V_{R,p}\u003EV_{R,s}\u003C/math\u003E হবে যদি [math]r\u003ER\u003C/math\u003E; অর্থাৎ কোন সমবায় অধিক সুবিধাজনক তা R ও কোষের অভ্যন্তরীণ প্রতিরোধের আপেক্ষিক মানের ওপর নির্ভর করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 424172,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424172,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 424172,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T07:29:32.000000Z",
+            "updated_at": "2025-08-19T07:29:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424171,
+      "value": {
+        "options": {
+          "ক": "কার্শফের ২য় সূত্রটি বিবৃত কর।",
+          "খ": "তাপমাত্রা বাড়লে পরিবাহীর রোধ বাড়ে কেন? ব্যাখ্যা কর।",
+          "গ": "বর্তনী-ক এর ক্ষেত্রে [math]I_S[/math]-এর মান কত?",
+          "ঘ": "বর্তনী ক ও খ এর মধ্যে কোনটির বহিঃরোধ বেশি উত্তপ্ত হবে? বিশ্লেষণ কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a69ae0a6b220e0a6a4e0a6a1e0a6bce0a6bfe0a78e20e0a6ace0a6b0e0a78de0a6a4e0a6a8e0a780-1_1755588570_PF2AksPn.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকার্শফের দ্বিতীয় সূত্রটি হলো— কোনো আবদ্ধ তড়িৎ বর্তনীর বিভিন্ন অংশগুলোর রোধ এবং তাদের আনুসঙ্গিক প্রবাহের গুণফলের বীজগাণিতিক সমষ্টি ঐ বর্তনীর মোট তড়িচ্চালক বলের সমান হবে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eমুক্ত ইলেকট্রন প্রবাহের সময় পরিবাহকের অণু পরমাণুর সাথে সংঘর্ষে লিপ্ত হয়। এ কারণে পরিবাহকের রোধের উদ্ভব ঘটে। তাপমাত্রা বাড়লে পরিবাহকের অণু পরমাণু অতিরিক্ত শক্তি পায় । এতে তাদের কম্পনের পরিমাণ বেড়ে যায়। ফলে মুক্ত ইলেকট্রনের সাথে এদের সংঘর্ষ বৃদ্ধি পায় এবং প্রবাহ চলার পথে বেশি বাধার সৃষ্টি হয়। এতে করে পরিবাহকের রোধ বৃদ্ধি পায়। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}\\mathrm{E}_{1}=1.5 \\mathrm{~V} ; \\mathrm{E}_{2}=1.5 \\mathrm{~V}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}\\rm{r_{1}=0.5 \\Omega ; r_{2}=0.5 \\Omega ; R_{1}=10 \\Omega}[/math]\u003Cbr\u003Eএখন,[math]\\hspace{1.5 cm}\\begin{aligned} \\quad \\rm{~I_s} & =\\rm{\\dfrac{E_{1}+E_{2}}{r_{1}+r_{2}+R_{1}}}=\\dfrac{1.5+1.5}{0.5+0.5+10} \\mathrm{~A}=\\dfrac{3}{11} \\mathrm{~A}\\\\ \\therefore ~ \\rm{I_s} & =0.27\\rm{~A} \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, বর্তনী-ক এর ক্ষেত্রে, [math]\\rm{I_s}[/math]\u003Cbr\u003E এর মান [math]0.27 \\mathrm{~A}[/math]\u003Cbr\u003E।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই, বর্তনী 'ক'-তে, [math]\\rm{I_{s}}=\\dfrac{3}{11} \\mathrm{~A}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E বর্তনী-তে বহিঃরোধে উৎপন্ন তাপের হার,[math]\\hspace{1.5 cm}\\begin{aligned} \\rm{P} & =\\rm{I_{s}^{2} R_{1}} \\\\ \\Rightarrow \\rm{P} & =\\rm{\\left(\\frac{3}{11}\\right)^{2} \\times 10 W} \\\\ \\therefore \\rm{P} & =\\rm{0.744 ~W} \\end{aligned}[/math]\u003Cbr\u003Eএখানে,[math]\\hspace{1.5 cm}\\begin{array}{l} \\rm{r_{1}=r_{2}=r_{3}=0.3 \\Omega} \\\\ \\rm{E_{1}=E_{2}=E_{3}}=1.5 \\mathrm{~V} \\\\ \\rm{R_{1}=10 \\Omega}\\end{array}[/math]\u003Cbr\u003Eএখন, বর্তনী-খ তে :[math]\\hspace{1.5 cm}\\begin{array}{l} \\rm{I}_{s}^{\\prime}=\\dfrac{\\rm{E}_{1}}{\\frac{\\mathrm{r}_{1}}{3}+\\rm{R}_{1}}=\\dfrac{1.5}{\\frac{0.3}{3}+10} \\mathrm{~A} \\\\ \\therefore \\rm{I}_{s}^{\\prime}=\\dfrac{15}{101} \\mathrm{~A}=0.15 \\mathrm{~A} \\end{array}[/math]\u003Cbr\u003Eবর্তনী খ-তে বহিঃরোধে উৎপন্ন তাপের হার,[math]\\hspace{1.5 cm}\\begin{aligned} \\rm{P}^{\\prime} & =\\rm{I_{s}{ }^{\\prime 2} R_{1} }\\\\ \\Rightarrow \\rm{P}^{\\prime} & =\\left(\\frac{15}{101}\\right)^{2} \\times 10 \\mathrm{~W}=0.221 \\mathrm{~W} \\end{aligned}[/math]\u003Cbr\u003Eউপরোক্ত গাণিতিক বিশ্লেষণে দেখা যাচ্ছে, [math]\\mathrm{P}\u003E\\mathrm{P}^{\\prime}[/math]\u003Cbr\u003Eঅতএব, বর্তনী-ক এর বহিঃরোধ বেশি উত্তপ্ত হবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কার্শফের ২য় সূত্র (ভোল্টেজ লুপ কনজার্ভেশন): একটি বন্ধ লুপে সব ই এম এফ ও সার্কিট উপাদানগুলোর ভোল্টেজ ড্রপের বর্ণানুক্রমিক যোগফল শূন্য হয় — অর্থাৎ লুপ ধরে সকল ই এম এফ ও [math]IR[/math] যোগ করলে [math]\\sum E - \\sum IR = 0[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E তাপমাত্রা বাড়লে পরিবাহীর রোধ বাড়ে কারণ ধাতুর ক্ষেত্রে তাপ বৃদ্ধিতে অণুমূলক কণার কাঁপুনি বৃদ্ধি পায়, ফলে গতিশীল ইলেকট্রনগুলোকে অধিক বল বিঘ্নিত করে এবং প্রতিরোধকতার মান বাড়ে; প্রায়শই [math]R = R_0[1+α(T-T_0)][/math] ব্যবহার করা হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বর্তনী-\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E-এ যদি সুইচ S রোধকে শর্ট করে দেয় (শর্ট-সার্কিট), তাহলে কেভিএল থেকে [math]E - I_S r = 0[/math] তাই শর্ট-কারেন্ট হবে [math]I_S=\\dfrac{E}{r}[/math] (এখানে [math]E[/math] ব্যাটারির ই এম এফ এবং [math]r[/math] অভ্যন্তরীণ রোধ)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কোনটির বহিঃরোধ বেশি উত্তপ্ত হবে তা পাওয়ার সূত্র দিয়ে নির্ণয় করা যায়: [math]P=I^2R[/math] বা [math]P=V^2/R[/math]। যদি \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E-এ রোধটি S দ্বারা শর্ট হয়ে যায় তবে সেখানে রোধে শক্তি শূন্য হবে, তাই গতিতে ও তাপে বেশি উত্তপ্ত হবে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E-এর রোধ; অন্যথায় বেশি তাপ হবে যে সার্কিটে রোধে বেশি কারেন্ট পড়ে (অর্থাৎ যেখানেই [math]I[/math] বড়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 424171,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424171,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 424171,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T07:29:30.000000Z",
+            "updated_at": "2025-08-19T07:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424170,
+      "value": {
+        "options": {
+          "ক": "A ও B উভয়ই সঠিক",
+          "খ": "A সঠিক, B ভুল",
+          "গ": "B সঠিক, A ভুল",
+          "ঘ": "A ও B উভয়ই ভুল"
+        },
+        "question": "দুটি সাধারণ ব্যাটারিকে সমান্তরালে যুক্ত করা হলো, নিচের উক্তিদ্বয় পড়ো —\n\nA. সমতুল্য emf উভয়ের যেকোনো একটির চেয়ে ছোট\n\nB. তুল্য অভ্যন্তরীণ রোধ উভয়ের যেকোনো একটির চেয়ে ছোট",
+        "solution": "সমান্তরালে ব্যাটারি যুক্ত করলে তুল্য emf ব্যাটারিগুলোর emf এর মানের চেয়ে কম হয় না, বরং এটি সবচেয়ে কম emf এর সমান হয়। তাই A ভুল। সমান্তরালে যুক্ত করলে তুল্য অভ্যন্তরীণ রোধ প্রতিটি ব্যাটারির অভ্যন্তরীণ রোধের চেয়ে কম হয়, কারণ রোধের সমান্তরাল সমবায়ে তুল্য রোধ [math]1/R_{total} = 1/R_1 + 1/R_2[/math] সূত্রানুসারে কমে যায়। তাই B সঠিক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 424170,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 341,
+          "full_name": "Rajshahi Cadet College",
+          "short_name": "RCC",
+          "slug": "rcc",
+          "pivot": {
+            "question_bank_id": 424170,
+            "tag_id": 341,
+            "year": "2022",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424169,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{1}{3} A[/math]",
+          "খ": "[math]\\dfrac{1}{4} A[/math]",
+          "গ": "[math]\\dfrac{1}{2} A[/math]",
+          "ঘ": "[math]1 A[/math]"
+        },
+        "question": "[math]1.5 V[/math] তড়িচ্চালক বল ও [math]2\\Omega[/math] অভ্যন্তরীণ রোধের দুট কোষকে পরস্পর সমান্তরাল সমবায়ে যুক্ত করে [math]2\\Omega[/math] মানের একটি বহিঃরোধের সাথে সংযুক্ত করা হলো। বর্তনীর মূল প্রবাহ কত ?",
+        "solution": "[math]\\mathrm{I}=\\dfrac{\\mathrm{E}}{\\mathrm{R}+\\frac{\\mathrm{r}}{2}}=\\dfrac{1.5}{2+\\frac{2}{2}}=\\dfrac{1}{2} \\mathrm{~A}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 424169,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3452,
+          "full_name": "Dinajpur Govt. College",
+          "short_name": "DGC",
+          "slug": "dgc",
+          "pivot": {
+            "question_bank_id": 424169,
+            "tag_id": 3452,
+            "year": "2022",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424148,
+      "value": {
+        "options": {
+          "A": "[math]1\\Omega[/math]",
+          "B": "[math]2\\Omega[/math]",
+          "C": "[math]4\\Omega[/math]",
+          "D": "[math]14\\Omega[/math]"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202nd20-part-3-7_1755588568_1OcwKHdH.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nবর্তনীর কোষদ্বয় সমান্তরাল যুক্ত করলে কোষের মোট অভ্যন্তরীণ রোধ কত পাওয়া যায়?",
+        "solution": "তুল্য অভ্যন্তরীণ রোধ [math]r_p[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned}\\frac{1}{r_{p}} & =\\frac{1}{2}+\\frac{1}{2} \\\\\\Rightarrow r_{p} & =\\frac{2 \\times 2}{2+2}\\\\\\therefore r_p = 1 \\Omega\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]1\\Omega[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 424148,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424148,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 424148,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424149,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{E}{R}[/math]",
+          "খ": "[math]\\dfrac{nE}{R}[/math]",
+          "গ": "[math]\\dfrac{E}{nR}[/math]",
+          "ঘ": "[math]n\\left(\\dfrac{E}{r}\\right)[/math]"
+        },
+        "question": "তড়িৎ কোষের সমান্তরাল সমবায়ে [math]nR\\gg r[/math] হলে বর্তনীর প্রবাহ, $I_p=? $",
+        "solution": "শ্রেণি সমন্বয়ে কোষগুলো পরস্পরের সাথে এমনভাবে যুক্ত থাকে যেন একটির ধনাত্মক প্রাপ্ত অপরটির ঋণাত্মক প্রান্তের সাথে লাগানো থাকে।শ্রেণি সমন্বয়ে বর্তনীর প্রবাহ, [math]I_{s}=\\dfrac{n E}{R+n r}[/math]\u003Cbr\u003E [math]\\mathrm{R} \\gg \\mathrm{r}[/math]\u003Cbr\u003E হলে, [math]\\mathrm{I}_{\\mathrm{s}}=\\dfrac{\\mathrm{nE}}{\\mathrm{R}}[/math]\u003Cbr\u003E অর্থাৎ প্রবাহ যে কোনো একটি কোষের প্রবাহের [math]n[/math]\u003Cbr\u003E গুণ। [math]\\mathrm{R} \\ll \\mathrm{r}[/math]\u003Cbr\u003E হলে, [math]I_{s}=\\dfrac{n E}{n r}=\\dfrac{E}{r}[/math]\u003Cbr\u003E অর্থাৎ প্রবাহ যে কোনো একটি কোষের প্রবাহের সমান।সমান্তরাল সমন্বয়ে কোষগুলোর ধনাত্মক পাতগুলো একটি সাধারণ বিন্দুতে এবং ঋণাত্মক পাতগুলো অপর বিন্দুতে যুক্ত থাকে।সমান্তরাল সমন্বয়ে বর্তনীর প্রবাহ, [math]I_{p}=\\dfrac{m E}{m R+r}[/math]\u003Cbr\u003E।[math]R\\ll r[/math]\u003Cbr\u003E হয় তবে, [math]\\mathrm{I}_{\\mathrm{p}}=\\dfrac{\\mathrm{mE}}{\\mathrm{r}}[/math]\u003Cbr\u003E।[math]R\\gg r[/math]\u003Cbr\u003E হয় তবে, [math]\\mathrm{I}_{\\mathrm{p}}=\\dfrac{\\mathrm{mE}}{\\mathrm{mR}} \\Rightarrow \\mathrm{I}_{\\mathrm{p}}=\\dfrac{\\mathrm{E}}{\\mathrm{R}}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "A.[math]\\dfrac{E}{R}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 424149,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424149,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 424149,
+            "tag_id": 1,
+            "year": "2021",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424150,
+      "value": {
+        "options": {
+          "ক": "[math]i=\\dfrac{nE}{R+nr}[/math]",
+          "খ": "$ i=\\dfrac{nE}{nR+r} $",
+          "গ": "$ i=\\dfrac{nE}{nR+nr} $",
+          "ঘ": "$ i=\\dfrac{nE}{R+\\dfrac{r}{n}} $"
+        },
+        "question": "[math]n[/math] সংখ্যক [math]E[/math] তড়িচ্চালক বলের কোষকে শ্রেণিতে যুক্ত করলে প্রবাহ i হবে (কোষের আভ্যন্তরীণ রোধ ও বহিঃবর্তনীর রোধ [math]R[/math])",
+        "solution": "শ্রেণিতে যুক্ত n সংখ্যক কোষের মোট তড়িচ্চালক বল হয় [math]nE[/math]\u003Cbr\u003E এবং মোট আভ্যন্তরীণ রোধ হয় [math]nr[/math]\u003Cbr\u003E । ওহমের সূত্রানুসারে, মোট তড়িচ্চালক বলকে মোট রোধ (বহিঃবর্তনী রোধ [math]R[/math]\u003Cbr\u003E এবং মোট আভ্যন্তরীণ রোধ [math]nr[/math]\u003Cbr\u003E) দিয়ে ভাগ করলে প্রবাহের মান পাওয়া যায়। সুতরাং, [math]i = \\dfrac{nE}{R+nr}[/math]\u003Cbr\u003E ।",
+        "explanation": "",
+        "correct_answer": "A.[math]i=\\dfrac{nE}{R+nr}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 424150,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424150,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 424150,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424151,
+      "value": {
+        "options": {
+          "ক": "[math]I_s=\\dfrac{2E}{2r+R}[/math]",
+          "খ": "[math]I_s=\\dfrac{2E}{r+2R}[/math]",
+          "গ": "[math]I_p=\\dfrac{2E}{2r+R}[/math]",
+          "ঘ": "[math]I_p=\\dfrac{2E}{r+2R}[/math]"
+        },
+        "question": "দুইটি কোষের শ্রেণি সমবায়ের ক্ষেত্রে প্রবাহমাত্রার সূত্র কোনটি?",
+        "solution": "যখন দুইটি অভিন্ন কোষকে শ্রেণি সমবায়ে যুক্ত করা হয়, তখন মোট তড়িৎচালক বল হয় [math]2E[/math]\u003Cbr\u003E এবং মোট অভ্যন্তরীণ রোধ হয় [math]2r[/math]\u003Cbr\u003E । বাহ্যিক রোধ যদি [math]R[/math]\u003Cbr\u003E হয়, তবে বর্তনীর মোট রোধ হবে [math]2r+R[/math]\u003Cbr\u003E । ওহমের সূত্রানুসারে, প্রবাহমাত্রা [math]I = \\dfrac{\\text{মোট তড়িৎচালক বল}}{\\text{মোট রোধ}}[/math]\u003Cbr\u003E । সুতরাং, প্রবাহমাত্রার সূত্রটি হলো [math]I_s=\\dfrac{2E}{2r+R}[/math]\u003Cbr\u003E । এখানে [math]I_s[/math]\u003Cbr\u003E শ্রেণি সমবায়ের প্রবাহ নির্দেশ করে। বিকল্প C এবং D তে [math]I_p[/math]\u003Cbr\u003E ব্যবহার করা হয়েছে যা সমান্তরাল সমবায়ের জন্য প্রযোজ্য, এবং বিকল্প B তে অভ্যন্তরীণ রোধ ও বাহ্যিক রোধের অনুপাত ভুলভাবে লেখা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "A.[math]I_s=\\dfrac{2E}{2r+R}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 424151,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424151,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 424151,
+            "tag_id": 5,
+            "year": "2016",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424152,
+      "value": {
+        "options": {
+          "ক": "মিশ্র সমবায়",
+          "খ": "সমান্তরাল সমবায়",
+          "গ": "শ্রেণী সমবায়",
+          "ঘ": "দ্বি-মুখী সমবায়"
+        },
+        "question": "কোনটি বিদ্যুৎ কোষের সমবায় নয়?",
+        "solution": "কোষের সমবায় ও প্রকার-\n\nক) শ্রেণী সমবায়, খ) সমান্তরাল সমবায়, গ) মিশ্র সমবায়।",
+        "explanation": "",
+        "correct_answer": "D.দ্বি-মুখী সমবায়"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 32,
+          "year": "2003-2004",
+          "pivot": {
+            "question_bank_id": 424152,
+            "year_id": 32
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 424152,
+            "tag_id": 18,
+            "year": "03-04",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424153,
+      "value": {
+        "options": {
+          "ক": "বিদ্যুৎ কোষের পাত দুটি আকারে বড় এবং কাছাকাছি হলে অভ্যন্তরীণ রোধ বেড়ে যায়.",
+          "খ": "বিদ্যুৎ কোষের পাত দুটি আকারে বড় এবং কাছাকাছি হলে বিদ্যুৎ প্রবাহ মাত্রা বেড়ে যায়",
+          "গ": "বিদ্যুৎ কোষের বিদ্যুৎ কোষের বিদ্যুৎচালক বল কোষের আকারের উপর নির্ভর করে না",
+          "ঘ": "কোন কোষের ক্ষমতা উহাদের উপাদানের পরিমাণের উপর নির্ভর করে"
+        },
+        "question": "বিদ্যুৎ কোষের বেলায় কোন উক্তিটি সঠিক নয়?",
+        "solution": "বিদ্যুৎ কোষের পাত দুটি আকারে বড় এবং কাছাকাছি হলে অভ্যন্তরীণ রোধ কমে যায়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 39,
+          "year": "2001-2002",
+          "pivot": {
+            "question_bank_id": 424153,
+            "year_id": 39
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 424153,
+            "tag_id": 18,
+            "year": "01-02",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424154,
+      "value": {
+        "options": {
+          "ক": "2.00 ভোল্ট",
+          "খ": "0.50 ভোল্ট",
+          "গ": "0.75 ভোল্ট",
+          "ঘ": "1.25 ভোল্ট"
+        },
+        "question": "[math]1.25[/math] ভোল্ট এবং [math]0.75[/math] ভোল্ট এর দুটি বিদ্যুৎ কোষকে সমান্তরাল সংযোগ করা হলো উহার কার্যকর ভোল্টেজ হবে [math]-[/math]",
+        "solution": "আমরা জানি, সমান্তরাল সংযোগের ক্ষেত্রে,[math]\\begin{array}{l} \\dfrac{1}{R_{P}}=\\dfrac{1}{R_{1}}+\\dfrac{1}{R_{2}}=\\dfrac{1}{1.25}+\\dfrac{1}{0.75}=\\dfrac{0.75+1.25}{1.25+75} \\\\ =\\dfrac{2}{0.937} \\therefore R_{P}=\\dfrac{0.937}{2}=0.46877 \\approx 0.50 \\end{array}[/math]\u003Cbr\u003E [math]=[/math]\u003Cbr\u003E(এখানে যেহেতু সমান্তরাল সংযোগ আছে তাই রোধের সূত্র ব্যাবহার করা যাবে।)",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 35,
+          "year": "2000-2001",
+          "pivot": {
+            "question_bank_id": 424154,
+            "year_id": 35
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 424154,
+            "tag_id": 18,
+            "year": "00-01",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424155,
+      "value": {
+        "options": {
+          "ক": "মিশ্র সমবায়",
+          "খ": "সমান্তরাল সমবায়",
+          "গ": "শ্রেণি সমবায়",
+          "ঘ": "দ্বি-মুখী সমবায়"
+        },
+        "question": "কোনটি বিদ্যুৎ কোষের সমবায় নয়?",
+        "solution": "কোষের সমবায় ৩ প্রকার [math]-[/math]ক) শ্রেণি সমবায়খ) সমান্তরাল সমবায়গ) মিশ্র সমবায়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 32,
+          "year": "2003-2004",
+          "pivot": {
+            "question_bank_id": 424155,
+            "year_id": 32
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 424155,
+            "tag_id": 3225,
+            "year": "03-04",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424156,
+      "value": {
+        "options": {
+          "ক": "যদি কতগুলো বিদ্যুৎ কোষকে এমনভাবে যুক্ত করা হয় তাহাতে প্রথমটির ঋণপাতের সহিত দ্বিতীয়টির ধনপাত, দ্বিতীয় ঋণপাতের সহিত তৃতীয়টির ধনপাত ইত্যাদিতে পরপর যুক্ত থাকে তবে বিদ্যুৎ কোষগুলির এই সমবায়কে সমান্তরাল সমবায় বলে",
+          "খ": "কতগুলি কোষ শ্রেণী সমবায়ে যুক্ত করে একটি সারি গঠন করে এরূপ কতগুলি সারিকে সমান্তরাল যুক্ত করলে বিদ্যুৎ কোষের সমবায়কে সমান্তরাল সমবায় বলে",
+          "গ": "যদি কতগুলো বিদ্যুৎ কোষের ধনপাতগুলি এক বিন্দুতে এবং ঋণপাতগুলি অপর এক বিন্দুতে যুক্ত থাকে তবে বিদ্যুৎ কোষগুলির এই সমবায়কে সমান্তরাল সমবায় বলে",
+          "ঘ": "উপরের কোনোটিই নয়"
+        },
+        "question": "নিম্নের কোনটি বিদ্যুৎ কোষের সমান্তরাল সমবায়?",
+        "solution": "বিদ্যুৎ কোষের সমান্তরাল সমবায়ে, সমস্ত কোষের ধনাত্মক প্রান্তগুলি একটি সাধারণ বিন্দুতে এবং সমস্ত ঋণাত্মক প্রান্তগুলি অন্য একটি সাধারণ বিন্দুতে সংযুক্ত থাকে। বিকল্প C এই শর্তটি পূরণ করে। বিকল্প A শ্রেণী সমবায়ের বর্ণনা দেয়, যেখানে একটি কোষের ঋণাত্মক প্রান্ত অন্যটির ধনাত্মক প্রান্তের সাথে সংযুক্ত থাকে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 38,
+          "year": "1996-1997",
+          "pivot": {
+            "question_bank_id": 424156,
+            "year_id": 38
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 424156,
+            "tag_id": 3225,
+            "year": "96-97",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424157,
+      "value": {
+        "options": {
+          "ক": "1/3 Ω",
+          "খ": "1/2 Ω",
+          "গ": "0.1 Ω",
+          "ঘ": "2/3 Ω",
+          "ঙ": "1 Ω"
+        },
+        "question": "সিরিজে সংযুক্ত একটি অ্যামিটার এবং একটি অজানা রোধ দুটি একই রকম 1.5 V ব্যাটারীর দুই প্রান্তে সংযুক্ত আছে। যখন ব্যাটারী দুটি সিরিজে সংযুক্ত থাকে তখন অ্যামিটার 1 amp রিভিং প্রদর্শন করে। আবার ব্যাটারী দুটি সমান্তরালে সংযুক্ত করলে 0.6 amp রিডিং, প্রদর্শন করে। ব্যাটারীর অভ্যন্তরীণ রোধ কত?",
+        "solution": "[math]\\mathrm{I}_{\\mathrm{s}}=\\frac{\\mathrm{nE}}{\\mathrm{R}+\\mathrm{nr}}=\\frac{2 \\times 1.5}{\\mathrm{R}+2 \\mathrm{r}} \\Rightarrow \\mathrm{R}+2 \\mathrm{r}=\\frac{3}{1}=3 \\ldots \\ldots (i)[/math]\u003Cbr\u003E [math]\\mathrm{I}_{\\mathrm{p}}=\\frac{\\mathrm{nE}}{\\mathrm{nR}+\\mathrm{r}}=\\frac{2 \\times 1.5}{2 \\mathrm{R}+\\mathrm{r}} \\Rightarrow 2 \\mathrm{R}+\\mathrm{r}=\\frac{2 \\times 1.5}{0.6}=5 \\ldots \\ldots (ii)[/math]\u003Cbr\u003E(i) এবং (ii) থেকে পাই, [math]R=\\frac{7}{3}, r=\\frac{1}{3}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 424157,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 114,
+          "full_name": "Engg Guccho (Ka Unit – Without Architecture)",
+          "short_name": "CKRUET-Ka",
+          "slug": "ckruet-ka",
+          "pivot": {
+            "question_bank_id": 424157,
+            "tag_id": 114,
+            "year": "22-23",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424158,
+      "value": {
+        "options": {
+          "ক": "5/2",
+          "খ": "2/5",
+          "গ": "7.5/5",
+          "ঘ": "1.5/3",
+          "ঙ": "Blank"
+        },
+        "question": "পাঁচটি অভিন্ন কোষের প্রতিটির তড়িৎচালক বল [math]1.5V[/math] এবং অভ্যন্তরীণ রোধ [math]0.05[/math] ওহম। যখন এরা সমান্তরাল সমবায়ে থাকে তখন [math]0.5[/math] ওহম এর বহিরোধের মধ্যদিয়ে প্রবাহিত তড়িতের মান অ্যাম্পিয়ারে—",
+        "solution": "[math]I=\\dfrac{n E}{n R+r}=\\dfrac{5 \\times 1.5}{5 \\times 0.5+0.05}=\\dfrac{50}{17} \\mathrm{~A}[/math]",
+        "explanation": "",
+        "correct_answer": "."
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 424158,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 424158,
+            "tag_id": 57,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424159,
+      "value": {
+        "options": {
+          "ক": "১মটি কম গতিতে চলবে কিন্তু বেশী দূরত্ব অতিক্রম করবে",
+          "খ": "২য়টি কম গতিতে চলবে এবং কম দূরত্ব অতিক্রম করবে",
+          "গ": "১ম ও ২য়টি একই গতিতে চলবে এবং একই দূরত্ব অতিক্রম করবে",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "দুটি একই ধরনের খেলনা মোটর গাড়ি [math]3.0\\ V[/math] ব্যাটারি দ্বারা চালিত হয়, ১মটিকে দুটি [math]1.5\\ V[/math] -এর ব্যাটারি শ্রেণী সংযোগে এবং ২য় টিকে দুটি [math]1.5\\ V-[/math] এর ব্যাটারি সমান্তরালে সংযোগ করা হলে, মোটর গাড়িষয়ের গতিবেগ [math]3.0\\ m/min[/math] হলে, নিচের কোনটি সত্য?",
+        "solution": "একাধিক বিদ্যুৎ কোষের শ্রেণি সমবায়ের তড়িৎ প্রবাহ, সমান্তরাল সমবায়ের তড়িৎ প্রবাহ অপেক্ষা বেশি হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 424159,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 424159,
+            "tag_id": 480,
+            "year": "15-16",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424160,
+      "value": {
+        "options": {
+          "ক": "0.1A",
+          "খ": "1.0A",
+          "গ": "10A",
+          "ঘ": "100A"
+        },
+        "question": "প্রতিটি [math]5V[/math] এবং অভ্যন্তরীণ রোধ [math]2.5\\Omega[/math] এর দুটি বিদ্যুৎ কোষ শ্রেণী সমবায়ে সাজিয়ে এদের প্রান্তগুলোকে [math]95\\Omega[/math] রোধের পরিবাহী দ্বারা যুক্ত করলে বিদ্যুৎ প্রবাহের মাত্রা কত হবে?",
+        "solution": "শ্রেণী সমবায়ের ক্ষেত্রে, [math]\\rm{I}[/math]\u003Cbr\u003E [math]=\\dfrac{\\mathrm{nE}}{\\mathrm{R}+\\mathrm{nr}}[/math]\u003Cbr\u003E [math]=\\dfrac{2.5}{95+2 \\times 2.5}[/math]\u003Cbr\u003E [math]=0.1 \\mathrm{~A}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 24,
+          "year": "2008-2009",
+          "pivot": {
+            "question_bank_id": 424160,
+            "year_id": 24
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 424160,
+            "tag_id": 16,
+            "year": "08-09",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424161,
+      "value": {
+        "options": {
+          "ক": "0",
+          "খ": "i/3",
+          "গ": "i",
+          "ঘ": "3 i"
+        },
+        "question": "[math]1[/math] টি কোষের সাথে অভ্যন্তরীণ রোধের তুলনায় বেশি মানের রোধ যুক্ত করা হলে i প্রবাহ পাওয়া যায়। একটির স্থলে এরূপ [math]3[/math] টি কোষের সমান্তরাল সমবায় যুক্ত করা হলে প্রবাহ হবে—",
+        "solution": "এখানে কোষগুলির অভ্যন্তরীণ রোধ বাহ্যিক রোধের তুলনায় কম। যখন একটি কোষ ব্যবহার করা হয়, তখন মোট রোধ হল [math]R_{বাহ্যিক} + r_{অভ্যন্তরীণ}[/math]\u003Cbr\u003E, যেখানে [math]r_{অভ্যন্তরীণ}[/math]\u003Cbr\u003E হল কোষের অভ্যন্তরীণ রোধ। প্রবাহ [math]i = \\frac{V}{R_{বাহ্যিক} + r_{অভ্যন্তরীণ}}[/math]\u003Cbr\u003E, যেখানে [math]V[/math]\u003Cbr\u003E হল কোষের বিভব পার্থক্য।যখন ৩টি একই কোষ সমান্তরালে যুক্ত করা হয়, তখন তুল্য বিভব পার্থক্য [math]V[/math]\u003Cbr\u003E থাকে এবং তুল্য অভ্যন্তরীণ রোধ [math]\\frac{r_{অভ্যন্তরীণ}}{3}[/math]\u003Cbr\u003E হয়। মোট রোধ হয় [math]R_{বাহ্যিক} + \\frac{r_{অভ্যন্তরীণ}}{3}[/math]\u003Cbr\u003E। যেহেতু [math]R_{বাহ্যিক} \\gg r_{অভ্যন্তরীণ}[/math]\u003Cbr\u003E, তাই তুল্য অভ্যন্তরীণ রোধ [math]\\frac{r_{অভ্যন্তরীণ}}{3}[/math]\u003Cbr\u003E বাহ্যিক রোধের তুলনায় নগণ্য।সুতরাং, ৩টি কোষের সমান্তরাল সমবায়ে প্রবাহ প্রায় [math]\\frac{V}{R_{বাহ্যিক}}[/math]\u003Cbr\u003E হয়। যেহেতু প্রাথমিক প্রবাহ [math]i = \\frac{V}{R_{বাহ্যিক} + r_{অভ্যন্তরীণ}}[/math]\u003Cbr\u003E এবং [math]R_{বাহ্যিক} \\gg r_{অভ্যন্তরীণ}[/math]\u003Cbr\u003E, তাই [math]i \\approx \\frac{V}{R_{বাহ্যিক}}[/math]\u003Cbr\u003E। অর্থাৎ, ৩টি কোষের সমান্তরাল সমবায়েও প্রবাহ প্রায় [math]i[/math]\u003Cbr\u003E থাকবে। বিকল্পভাবে, যদি আমরা মনে করি যে [math]R_{বাহ্যিক}[/math]\u003Cbr\u003E অনেক বড়, তবে [math]i \\approx V/R_{বাহ্যিক}[/math]\u003Cbr\u003E। যখন 3টি কোষ সমান্তরালে যুক্ত করা হয়, তখন মোট বিভব [math]V[/math]\u003Cbr\u003E এবং মোট অভ্যন্তরীণ রোধ [math]r/3[/math]\u003Cbr\u003E হয়। সুতরাং, প্রবাহ হবে [math]I = V / (R_{বাহ্যিক} + r/3)[/math]\u003Cbr\u003E। যেহেতু [math]R_{বাহ্যিক} \\gg r/3[/math]\u003Cbr\u003E, তাই [math]I \\approx V / R_{বাহ্যিক}[/math]\u003Cbr\u003E। অর্থাৎ, প্রবাহের মানে পরিবর্তন হবে না, যা প্রায় [math]i[/math]\u003Cbr\u003E এর সমান।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 424161,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424162,
+      "value": {
+        "options": {
+          "ক": "[math]i_{s}=\\frac{3 E}{3 R+r}[/math]",
+          "খ": "[math]i_{s}=\\frac{3 E}{3 R+R}[/math]",
+          "গ": "[math]i_{s}=\\frac{3 r+R}{3 E}[/math]",
+          "ঘ": "[math]i_{s}=\\frac{E}{3 R+3 r}[/math]"
+        },
+        "question": "তিনটি কোষের শ্রেণি সমবায়ের সূত্র কোনটি?",
+        "solution": "তিনটি অভিন্ন কোষ যাদের প্রতিটির তড়িৎচালক বল [math]E[/math]\u003Cbr\u003E এবং অভ্যন্তরীণ রোধ [math]r[/math]\u003Cbr\u003E, শ্রেণি সমবায়ে যুক্ত করলে মোট তড়িৎচালক বল হয় [math]3E[/math]\u003Cbr\u003E এবং মোট অভ্যন্তরীণ রোধ হয় [math]3r[/math]\u003Cbr\u003E. যদি এই সমবায়ের সাথে একটি বাহ্যিক রোধ [math]R[/math]\u003Cbr\u003E যুক্ত করা হয়, তবে বর্তনীর মোট রোধ হবে [math]R+3r[/math]\u003Cbr\u003E. অতএব, বর্তনীর তড়িৎপ্রবাহ হবে [math]i_{s}=\\frac{3 E}{R+3 r}[/math]\u003Cbr\u003E.",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 424162,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424163,
+      "value": {
+        "options": {
+          "ক": "[math]4E[/math]",
+          "খ": "[math]\\frac{E}{4}[/math]",
+          "গ": "[math]E[/math]",
+          "ঘ": "শূন্য"
+        },
+        "question": "একটি ব্যাটারীতে E e.m.f বিশিষ্ট চারটি কোষ সমান্তরালে যুক্ত করা হল। ব্যাটারীর তুল্য e.m.f. কত?",
+        "solution": "সমান্তরালে যুক্ত থাকা কোষগুলির মোট তড়িৎচালক বল (e.m.f.) প্রতিটি কোষের তড়িৎচালক বলের সমান হয়। এখানে চারটি কোষ সমান্তরালে যুক্ত আছে এবং প্রত্যেকটির তড়িৎচালক বল [math]E[/math]\u003Cbr\u003E, তাই ব্যাটারীর তুল্য তড়িৎচালক বল হবে [math]E[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 424163,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424164,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{1}{3} A[/math]",
+          "খ": "[math]\\frac{1}{4} A[/math]",
+          "গ": "[math]\\frac{1}{2} A[/math]",
+          "ঘ": "[math]1A[/math]"
+        },
+        "question": "[math]1.5V.[/math] তড়িচ্চালক বল ও [math]2 \\Omega[/math] অভ্যন্তরীণ রোধের দুটি কোষকে সমান্তরালে রেখে বর্হিবর্তনীর [math]2 \\ \\Omega[/math] রোধের সঙ্গে যুক্ত করা হলো । বহিবৰ্তনীতে প্রবাহ কত ?",
+        "solution": "অভ্যন্তরীণ রোধ দুইটি 2 ওহম সমান্তরালে থাকলে, এদের তুল্যরোধ=1ওহম। শ্রেণীতে আছে 2ওহম।মোট তুল্যরোধ=3ওহম। E=I(R+r) R+r=3ওহম I=1.5/3=1/2amp",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 424164,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424165,
+      "value": {
+        "options": {
+          "ক": "[math]i_{s}=\\frac{E}{r+n R}[/math]",
+          "খ": "[math]i_{s}=\\frac{n E}{n r+R}[/math]",
+          "গ": "[math]i_{s}=\\frac{n E}{r+n R}[/math]",
+          "ঘ": "[math]i_{s}=\\frac{n E}{r+R}[/math]"
+        },
+        "question": "[math]n[/math] সংখ্যক কোষের শ্রেণি সমবায় সূত্র হলো—",
+        "solution": "শ্রেণী সমবায়ে যুক্ত [math]n[/math]\u003Cbr\u003E সংখ্যক কোষের প্রত্যেকটির তড়িচ্চালক বল [math]E[/math]\u003Cbr\u003E এবং অভ্যন্তরীণ রোধ [math]r[/math]\u003Cbr\u003E হলে, বর্তনীর মোট তড়িচ্চালক বল হবে [math]nE[/math]\u003Cbr\u003E এবং মোট অভ্যন্তরীণ রোধ হবে [math]nr[/math]\u003Cbr\u003E । যদি বাহ্যিক রোধ [math]R[/math]\u003Cbr\u003E হয়, তবে বর্তনীর মোট রোধ হবে [math]nr + R[/math]\u003Cbr\u003E । ওহমের সূত্রানুসারে, বর্তনীর তড়িৎ প্রবাহ [math]i_s = \\frac{\\text{মোট তড়িচ্চালক বল}}{\\text{মোট রোধ}} = \\frac{nE}{nr+R}[/math]\u003Cbr\u003E ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 424165,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424166,
+      "value": {
+        "options": {
+          "ক": "[math]R=nr[/math]",
+          "খ": "[math]r=nR[/math]",
+          "গ": "[math]r=R[/math]",
+          "ঘ": "[math]R=\\sqrt{nr}[/math]"
+        },
+        "question": "প্রতিটি তড়িচ্চালক বল এবং অভ্যন্তরীণ রোধসম্পন্ন n সংখ্যক (গ) শক্তি কোষকে প্রথমে শ্রেণিতে, তারপর সমান্তরালে যুক্ত করে একটি বহিঃস্থ R রোধের মধ্য দিয়ে তড়িৎ প্রবাহ পাঠালে উভয় ক্ষেত্রে তড়িৎ প্রবাহমাত্রা সমান হয়। সেক্ষেত্রে—",
+        "solution": "শ্রেণিতে যুক্ত করলে মোট তড়িচ্চালক বল হয় [math]n \\mathcal{E}[/math]\u003Cbr\u003E এবং মোট অভ্যন্তরীণ রোধ হয় [math]nr[/math]\u003Cbr\u003E । সুতরাং, তড়িৎ প্রবাহমাত্রা [math]I_1 = \\frac{n \\mathcal{E}}{R+nr}[/math]\u003Cbr\u003E ।সমান্তরালে যুক্ত করলে মোট তড়িচ্চালক বল [math]\\mathcal{E}[/math]\u003Cbr\u003E এবং মোট অভ্যন্তরীণ রোধ [math]\\frac{r}{n}[/math]\u003Cbr\u003E । সুতরাং, তড়িৎ প্রবাহমাত্রা [math]I_2 = \\frac{\\mathcal{E}}{R+\\frac{r}{n}} = \\frac{n \\mathcal{E}}{nR+r}[/math]\u003Cbr\u003E ।প্রশ্নানুসারে, [math]I_1 = I_2[/math]\u003Cbr\u003E ।[math]\\frac{n \\mathcal{E}}{R+nr} = \\frac{n \\mathcal{E}}{nR+r}[/math]\u003Cbr\u003E [math]R+nr = nR+r[/math]\u003Cbr\u003E [math]nr-r = nR-R[/math]\u003Cbr\u003E [math]r(n-1) = R(n-1)[/math]\u003Cbr\u003Eযেহেতু [math]n \\neq 1[/math]\u003Cbr\u003E , তাই [math]r=R[/math]\u003Cbr\u003E ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 424166,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424167,
+      "value": {
+        "options": {
+          "ক": "3 V",
+          "খ": "6 V",
+          "গ": "9 V",
+          "ঘ": "1 V"
+        },
+        "question": "3V মানের তিনটি তড়িৎ কোষ শ্রেণিতে যুক্ত থাকলে তুল্য তড়িচ্চালক শক্তি কত হবে?",
+        "solution": "শ্রেণিতে যুক্ত থাকলে মোট তড়িচ্চালক শক্তি প্রতিটি কোষের তড়িচ্চালক শক্তির যোগফলের সমান হয়। যেহেতু তিনটি কোষের প্রত্যেকটির তড়িচ্চালক শক্তি [math]3V[/math]\u003Cbr\u003E, তাই তুল্য তড়িচ্চালক শক্তি হবে [math]3V + 3V + 3V = 9V[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 424167,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424168,
+      "value": {
+        "options": {
+          "ক": "[math]I=\\dfrac{m E}{r+m R} \\therefore I=\\dfrac{3 E}{r+3 R}[/math]",
+          "খ": "[math]I=\\dfrac{m E}{r+m R} \\therefore I=\\dfrac{2 E}{r+3 R}[/math]",
+          "গ": "[math]I=\\dfrac{m E}{r+m R} \\therefore I=\\dfrac{ E}{r+3 R}[/math]",
+          "ঘ": "[math]I=\\dfrac{m E}{r+m R} \\therefore I=\\dfrac{4 E}{r+3 R}[/math]"
+        },
+        "question": "[math]r[/math] অন্তঃরোধ ও [math]E[/math] তড়িচ্চালক বল বিশিষ্ট তিনটি কোষকে সমান্তরালে যুক্ত করে [math]R[/math] বহিঃরোধের সাথে সংযুক্ত করা হলে প্রবাহমাত্রা হবে—",
+        "solution": "[math]I=\\dfrac{m E}{r+m R} \\therefore I=\\dfrac{3 E}{r+3 R}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 424168,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3498,
+          "full_name": "Nilphamari Govt. College, Nilphamari",
+          "short_name": "NGCC",
+          "slug": "ngcc",
+          "pivot": {
+            "question_bank_id": 424168,
+            "tag_id": 3498,
+            "year": "2022",
+            "created_at": "2025-08-19T07:29:28.000000Z",
+            "updated_at": "2025-08-19T07:29:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424147,
+      "value": {
+        "options": {
+          "A": "বাড়বে",
+          "B": "কমবে",
+          "C": "অপরিবর্তিত থাকবে",
+          "D": "শূন্য হবে"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202nd-part-3-4-2023_1755588567_CG39GLzm.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nযদি বর্তনীর ‘A’ কোষটিকে ‘B’ কোষের সাথে বিপরীতক্রমে সংযোগ দেয়া হয় তাহলে কোন বক্তব্যটি সঠিক হবে?\n\nবর্তনীর মোট তড়িচ্চালক বল -",
+        "solution": "বিপরীতক্রমে সংযুক্ত করলে, v=4-4=0V",
+        "explanation": "",
+        "correct_answer": "D.শূন্য হবে"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 424147,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424147,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 424147,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T07:29:27.000000Z",
+            "updated_at": "2025-08-19T07:29:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 424146,
+      "value": {
+        "options": {
+          "ক": "[math]I=\\frac{E}{R+2 r}[/math]",
+          "খ": "[math]I=\\frac{2 E}{2 R+r}[/math]",
+          "গ": "[math]I=\\frac{2 E}{R+\\frac{r}{2}}[/math]",
+          "ঘ": "[math]I=\\frac{2 E}{\\frac{R}{2}+r}[/math]"
+        },
+        "question": "একই রকম দুটি কোষের সমান্তরাল সমবায়ের ক্ষেত্রে বর্তনীতে প্রবাহমাত্রার সূত্র কোনটি?",
+        "solution": "• কোষের সমান্তরাল সমবায়ে, [math]I=\\frac{n E}{n R+r}[/math]\u003Cbr\u003E [math]\\therefore I=\\frac{2 E}{2 R+r}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.[math]I=\\frac{2 E}{2 R+r}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:29:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 424146,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 424146,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 424146,
+            "tag_id": 236,
+            "year": "2024",
+            "created_at": "2025-08-19T07:29:26.000000Z",
+            "updated_at": "2025-08-19T07:29:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6329&grade=1&lesson=6638&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6329&grade=1&lesson=6638&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6329&grade=1&lesson=6638&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 48,
+  "total": 48
+}

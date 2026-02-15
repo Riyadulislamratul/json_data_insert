@@ -1,0 +1,638 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 410628,
+      "value": {
+        "options": {
+          "ক": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-16-board-mcq-01_1755585799_wUJ1mnAp.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "খ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-16-board-mcq-01201_1755585800_UyzA1XVB.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "গ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-16-board-mcq-01202_1755585801_jCUM3Nrh.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "ঘ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-16-board-mcq-01203_1755585802_yoN1LBAg.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+        },
+        "question": "একটি বস্তুকে খাড়াভাবে উপরের দিকে ছুঁড়ে দেওয়া হলো। কোন গ্রাফটি ভূমি হতে উচ্চতা ' [math]h[/math]' এর সাপেক্ষে বস্তুটির বিভবশক্তি [math]E_p[/math] এর পরিবর্তন নির্দেশ করে?",
+        "solution": "বস্তুটির বিভবশক্তি ( [math]E_p[/math]\u003Cbr\u003E) তার উচ্চতার ( [math]h[/math]\u003Cbr\u003E) সাথে সরাসরি সমানুপাতিক। কারণ, [math]E_p = mgh[/math]\u003Cbr\u003E, যেখানে [math]m[/math]\u003Cbr\u003E হলো বস্তুর ভর, [math]g[/math]\u003Cbr\u003E হলো অভিকর্ষজ ত্বরণ এবং [math]h[/math]\u003Cbr\u003E হলো উচ্চতা। যেহেতু [math]m[/math]\u003Cbr\u003E এবং [math]g[/math]\u003Cbr\u003E ধ্রুবক, তাই [math]E_p \\propto h[/math]\u003Cbr\u003E । অর্থাৎ, উচ্চতা বাড়লে বিভবশক্তিও সরলরেখায় বাড়ে, যা একটি ঊর্ধ্বমুখী সরলরেখার গ্রাফ দ্বারা প্রকাশ করা হয়। গ্রাফটিতে ভূমি থেকে উচ্চতা বাড়ার সাথে সাথে বিভবশক্তি বৃদ্ধি পাচ্ছে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6322,
+      "created_at": "2025-08-19T06:43:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 410628,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 410628,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 410628,
+            "tag_id": 1,
+            "year": "2015",
+            "created_at": "2025-08-19T06:43:23.000000Z",
+            "updated_at": "2025-08-19T06:43:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410629,
+      "value": {
+        "options": {
+          "ক": "g",
+          "খ": "[math]\\frac{\\mathrm{g}(\\mathrm{R}+5 \\mathrm{~km})^{2}}{\\mathrm{R}^{2}}[/math]",
+          "গ": "0",
+          "ঘ": "[math]\\frac{g R^{2}}{(R+5 k m)^{2}}[/math]"
+        },
+        "question": "প্যারাশুট দিয়ে এক বিমানসেনা 5 km উচ্চতা থেকে নেমে এলো। ভূমি স্পর্শের সময় তার ত্বরণ হলো-",
+        "solution": "প্যারাশুট দিয়ে নিচে নামার পূর্বে প্রান্তবেগ অর্জন করে, তাই ত্বরণ শূন্য।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6322,
+      "created_at": "2025-08-19T06:43:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 32,
+          "year": "2003-2004",
+          "pivot": {
+            "question_bank_id": 410629,
+            "year_id": 32
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 410629,
+            "tag_id": 8,
+            "year": "03-04",
+            "created_at": "2025-08-19T06:43:23.000000Z",
+            "updated_at": "2025-08-19T06:43:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410630,
+      "value": {
+        "options": {
+          "ক": "সীসার বলের চেয়ে বেশী",
+          "খ": "সীসার বলের সমান",
+          "গ": "সীসার বলের চেয়ে কম",
+          "ঘ": "[math]98ms^{-2}[/math]"
+        },
+        "question": "চাঁদের বায়ুশূন্য স্থানে স্থিরবস্থা থেকে একটি পালক ও একটি সীসার বলকে ফেলা হল। পালকের ত্বরণে হবে-",
+        "solution": "বায়ুশূন্য স্থানে সব পড়ন্ত বস্তুর ত্বরণ সমান।",
+        "explanation": "",
+        "correct_answer": "B. সীসার বলের সমান"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6322,
+      "created_at": "2025-08-19T06:43:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 410630,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 410630,
+            "tag_id": 80,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:43:23.000000Z",
+            "updated_at": "2025-08-19T06:43:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410631,
+      "value": {
+        "options": {
+          "ক": "9.8 মি/সে",
+          "খ": "33 ফুট/ সে",
+          "গ": "[math]10[/math]মি/সে [math]^2[/math]",
+          "ঘ": "[math]36[/math] ফুট/সে [math]^2[/math]"
+        },
+        "question": "প্রায় 1200 ফুট উচ্চতায় অবস্থিত বিমান হতে 1 কেজি ওজনের একটি বস্তুকে ছেড়ে দেয়া হল। প্রতি সেকেণ্ডে কত গতিবেগে পৃথিবী পৃষ্ঠের দিকে ধাবিত হবে?",
+        "solution": "বস্তুটি অভিকর্ষজ ত্বরণের প্রভাবে পৃথিবী পৃষ্ঠের দিকে পড়বে। অভিকর্ষজ ত্বরণের মান প্রায় [math]9.8[/math]\u003Cbr\u003E মি/সে [math]^2[/math]\u003Cbr\u003E, যা বোঝায় যে প্রতি সেকেণ্ডে বস্তুর বেগ [math]9.8[/math]\u003Cbr\u003E মি/সে বৃদ্ধি পাবে। অন্য বিকল্পগুলি সরাসরি বেগ বা ত্বরণের সঠিক মান নির্দেশ করে না। [math]33[/math]\u003Cbr\u003E ফুট/সে একটি নির্দিষ্ট সময়ে বস্তুর বেগ হতে পারে, কিন্তু প্রতি সেকেণ্ডে বেগ বৃদ্ধির হার হল ত্বরণ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6322,
+      "created_at": "2025-08-19T06:43:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 410631,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 410631,
+            "tag_id": 3,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:43:23.000000Z",
+            "updated_at": "2025-08-19T06:43:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410632,
+      "value": {
+        "options": {
+          "ক": "(অতিক্রান্ত দূরত্ব) [math]^2[/math] [math]\\propto[/math] (পতনকাল) [math]^2[/math]",
+          "খ": "(অতিক্রান্ত দূরত্ব) [math]^2[/math] [math]\\propto[/math](পতনকাল)",
+          "গ": "(অতিক্রান্ত দূরত্ব) [math]\\propto[/math](পতনকাল) [math]^2[/math]",
+          "ঘ": "(অতিক্রান্ত দূরত্ব) [math]\\propto[/math] (পতনকাল) [math]^2[/math]"
+        },
+        "question": "পড়ন্ত বস্তুর ক্ষেত্রে নিম্নের কোন সুত্রটি প্রযোজ্য?",
+        "solution": "পড়ন্ত বস্তুর ক্ষেত্রে, স্থির অবস্থা থেকে যাত্রা শুরু করলে, অতিক্রান্ত দূরত্ব (s) পতনকালের (t) বর্গের সমানুপাতিক হয়। এটি গতির দ্বিতীয় সমীকরণ [math]s = ut + \\frac{1}{2}at^2[/math]\u003Cbr\u003E থেকে আসে, যেখানে প্রাথমিক বেগ ( [math]u[/math]\u003Cbr\u003E) শূন্য এবং ত্বরণ (a) অভিকর্ষজ ত্বরণ (g)। তাই, [math]s = \\frac{1}{2}gt^2[/math]\u003Cbr\u003E, অর্থাৎ [math]s \\propto t^2[/math]\u003Cbr\u003E. এটি নিউটনের গতির সূত্রগুলোর একটি সাধারণ প্রয়োগ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6322,
+      "created_at": "2025-08-19T06:43:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 410632,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 410632,
+            "tag_id": 3,
+            "year": "13-14",
+            "created_at": "2025-08-19T06:43:23.000000Z",
+            "updated_at": "2025-08-19T06:43:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410633,
+      "value": {
+        "options": {
+          "ক": "প্রযোজ্য",
+          "খ": "প্রযোজ্য নয়",
+          "গ": "যে কোনো ক্ষেত্রে প্রযোজ্য",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "পড়ন্ত বস্তুর ক্ষেত্রে যান্ত্রিক শক্তির সংরক্ষণশীলতার নীতি-",
+        "solution": "পড়ন্ত বস্তুর ক্ষেত্রে যান্ত্রিক শক্তির সংরক্ষণশীলতার নীতি প্রযোজ্য, কারণ বায়ুর বাধা উপেক্ষা করলে শুধুমাত্র অভিকর্ষ বল (যা একটি সংরক্ষণশীল বল) বস্তুর উপর কাজ করে। এই অবস্থায়, বস্তুর বিভব শক্তি গতিশক্তিতে এবং গতিশক্তি বিভব শক্তিতে রূপান্তরিত হয়, কিন্তু মোট যান্ত্রিক শক্তি (গতিশক্তি + বিভব শক্তি) সর্বদা স্থির থাকে। যদি বায়ুর বাধা বা অন্য কোনো অসংরক্ষণশীল বল উপস্থিত থাকে, তবে যান্ত্রিক শক্তি সংরক্ষিত হয় না।",
+        "explanation": "",
+        "correct_answer": "A. প্রযোজ্য"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6322,
+      "created_at": "2025-08-19T06:43:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 410633,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 94,
+          "full_name": "Islamic University, Bangladesh (A Unit)",
+          "short_name": "IU-A",
+          "slug": "iu-a",
+          "pivot": {
+            "question_bank_id": 410633,
+            "tag_id": 94,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:43:23.000000Z",
+            "updated_at": "2025-08-19T06:43:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410634,
+      "value": {
+        "options": {
+          "ক": "16 ft",
+          "খ": "32 ft",
+          "গ": "64 ft",
+          "ঘ": "128 ft"
+        },
+        "question": "[math]64\\ ft/sec[/math] বেগে উপরের দিকে নিক্ষিপ্ত একটি বস্তু সর্বোচ্চ কত ফুট উপরে উঠবে?",
+        "solution": "একটি বস্তুকে উপরের দিকে নিক্ষেপ করলে, বস্তুটির গতিবেগ ধীরে ধীরে কমতে থাকে এবং এক পর্যায়ে শূন্যে চলে আসে। এই অবস্থায় বস্তুটি সর্বোচ্চ উচ্চতায় থাকে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6322,
+      "created_at": "2025-08-19T06:43:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 410634,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 788,
+          "full_name": "Chattogram Veterinary and Animal Sciences University",
+          "short_name": "CVASU",
+          "slug": "cvasu",
+          "pivot": {
+            "question_bank_id": 410634,
+            "tag_id": 788,
+            "year": "10-11",
+            "created_at": "2025-08-19T06:43:23.000000Z",
+            "updated_at": "2025-08-19T06:43:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410635,
+      "value": {
+        "options": {
+          "ক": "[math]4 \\mathrm{~km} / \\mathrm{s}[/math]",
+          "খ": "[math]8 \\mathrm{~km} / \\mathrm{s}[/math]",
+          "গ": "[math]4 / 2 \\mathrm{~km} / \\mathrm{s}[/math]",
+          "ঘ": "[math]8 \\sqrt{2} \\mathrm{~km} / \\mathrm{s}[/math]"
+        },
+        "question": "পৃথিবীর ব্যাসার্ধের সমান উচ্চতা থেকে পড়ন্ত বস্তুর গতিবেগ–",
+        "solution": "পৃথিবীর ব্যাসার্ধের (R) সমান উচ্চতা (h = R) থেকে পড়ন্ত বস্তুর মুক্তিবেগ (escape velocity) নির্ণয় করা হয় [math]v_e = \\sqrt{\\frac{2GM}{R}}[/math]\u003Cbr\u003E সূত্র ব্যবহার করে। এখানে G মহাকর্ষীয় ধ্রুবক এবং M পৃথিবীর ভর।আমরা জানি, পৃথিবীর পৃষ্ঠে অভিকর্ষজ ত্বরণ [math]g = \\frac{GM}{R^2}[/math]\u003Cbr\u003E। তাই [math]GM = gR^2[/math]\u003Cbr\u003E।এই মানটি মুক্তিবেগের সূত্রে বসালে পাই:[math]v_e = \\sqrt{\\frac{2(gR^2)}{R}} = \\sqrt{2gR}[/math]\u003Cbr\u003Eপৃথিবীর গড় ব্যাসার্ধ [math]R \\approx 6.4 \\times 10^6[/math]\u003Cbr\u003E মিটার এবং [math]g \\approx 9.8 \\, m/s^2[/math]\u003Cbr\u003E ।তাহলে, [math]v_e = \\sqrt{2 \\times 9.8 \\times 6.4 \\times 10^6} \\, m/s[/math]\u003Cbr\u003E [math]v_e = \\sqrt{125.44 \\times 10^6} \\, m/s[/math]\u003Cbr\u003E [math]v_e \\approx 11.2 \\times 10^3 \\, m/s[/math]\u003Cbr\u003E [math]v_e \\approx 11.2 \\, km/s[/math]\u003Cbr\u003Eপ্রশ্নে উল্লিখিত বিকল্পগুলির মধ্যে [math]8 \\mathrm{~km} / \\mathrm{s}[/math]\u003Cbr\u003E মুক্তিবেগের মানের কাছাকাছি। যদিও সঠিক মুক্তিবেগ প্রায় [math]11.2 \\, km/s[/math]\u003Cbr\u003E, এই ধরনের প্রশ্নে নিকটতম মানটি সঠিক উত্তর হিসেবে বিবেচিত হয়। এই মানটি মূলত মুক্তিবেগ বোঝার জন্য ব্যবহৃত হয়, যা একটি বস্তুকে পৃথিবীর মহাকর্ষীয় ক্ষেত্র থেকে সম্পূর্ণরূপে বেরিয়ে যাওয়ার জন্য প্রয়োজনীয় ন্যূনতম বেগ।",
+        "explanation": "",
+        "correct_answer": "D.[math]8 \\sqrt{2} \\mathrm{~km} / \\mathrm{s}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6322,
+      "created_at": "2025-08-19T06:43:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 410635,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:43:23.000000Z",
+            "updated_at": "2025-08-19T06:43:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410636,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি ইট কোনো ভবনের ছাদ হতে ভূমিতে পড়ে গেল। ভূমিতে পড়ার ঠিক পূর্ব-মুহূর্তে ইটের গতিশক্তি K এবং ছাদে এর বিভবশক্তি [math]U_{\\text {grav }}[/math] হলে –\n\n[math]\\text { i. } K=U_{\\text {grav }}[/math] [math]\\text { ii. } K\u003EU_{\\text {grav }}[/math] [math]\\text { iii. } K\n\nনিচের কোনটি সঠিক?",
+        "solution": "শক্তি সংরক্ষণ সূত্র অনুসারে, যখন ইটটি ছাদ থেকে ভূমিতে পড়ে, তখন এর বিভবশক্তি গতিশক্তিতে রূপান্তরিত হয়। যদি আমরা বায়ুর বাধাকে উপেক্ষা করি, তাহলে মোট যান্ত্রিক শক্তি (গতিশক্তি + বিভবশক্তি) সংরক্ষিত থাকবে।ভূমিতে পড়ার ঠিক পূর্ব-মুহূর্তে, ইটের উচ্চতা প্রায় শূন্য হওয়ায় এর বিভবশক্তি প্রায় শূন্য ( [math]U_{\\text {grav }} \\approx 0[/math]\u003Cbr\u003E)। এই সময় ইটটি সর্বোচ্চ গতিতে থাকবে, তাই এর গতিশক্তি সর্বোচ্চ হবে।অর্থাৎ, শুরুতে ছাদে ইটের যে বিভবশক্তি ছিল, তা প্রায় সম্পূর্ণভাবে ভূমিতে পড়ার ঠিক পূর্ব-মুহূর্তে গতিশক্তিতে রূপান্তরিত হয়েছে। তাই, ভূমিতে পড়ার ঠিক পূর্ব-মুহূর্তে গতিশক্তি ( [math]K[/math]\u003Cbr\u003E) প্রায় ছাদের বিভবশক্তির ( [math]U_{\\text {grav }}[/math]\u003Cbr\u003E) সমান হবে।সুতরাং, [math]K \\approx U_{\\text {grav }}[/math]\u003Cbr\u003E।তবে, প্রশ্নে 'ঠিক পূর্ব-মুহূর্তে' বলা হয়েছে, যা একটি আদর্শ পরিস্থিতি নির্দেশ করে যেখানে বিভবশক্তি পুরোপুরি গতিশক্তিতে রূপান্তরিত হয়েছে। বাস্তবে, সামান্য পরিমাণ শক্তি বায়ুর ঘর্ষণের কারণে নষ্ট হতে পারে, যা গতিশক্তিকে বিভবশক্তির চেয়ে সামান্য কম করে দিতে পারে। কিন্তু আদর্শ অবস্থায়, বিভবশক্তি সম্পূর্ণরূপে গতিশক্তিতে পরিবর্তিত হয়।সুতরাং, আদর্শ অবস্থায় [math]K=U_{\\text {grav }}[/math]\u003Cbr\u003E।অতিরিক্ত তথ্য:শক্তি সংরক্ষণ নীতি (Law of Conservation of Energy) বলে যে, একটি বিচ্ছিন্ন সিস্টেমে মোট শক্তি সর্বদা সংরক্ষিত থাকে, যদিও এটি বিভিন্ন রূপে পরিবর্তিত হতে পারে (যেমন বিভবশক্তি থেকে গতিশক্তি)। এই প্রশ্নে, ইট এবং পৃথিবীর মধ্যে মহাকর্ষ বল কাজ করছে এবং আমরা বায়ুর বাধাকে উপেক্ষা করছি।যখন ইটটি উচ্চতায় ছিল, তখন এটি বিভবশক্তি সঞ্চয় করেছিল। যখন এটি পড়তে শুরু করে, তখন উচ্চতা কমে যাওয়ার সাথে সাথে বিভবশক্তি কমতে থাকে এবং বেগ বাড়ার সাথে সাথে গতিশক্তি বাড়তে থাকে। এই রূপান্তরটি এমনভাবে ঘটে যেন মোট শক্তি (গতিশক্তি + বিভবশক্তি) ধ্রুবক থাকে।ভূমিতে পড়ার ঠিক পূর্ব-মুহূর্তে, ইটের উচ্চতা প্রায় শূন্য, তাই এর বিভবশক্তি প্রায় শূন্য ( [math]U_{\\text {grav }} \\approx 0[/math]\u003Cbr\u003E)। এই মুহূর্তে, ইটের বেগ সর্বোচ্চ, তাই এর গতিশক্তিও সর্বোচ্চ। এই সর্বোচ্চ গতিশক্তি আসলে ছাদে থাকা অবস্থায় ইটের মোট বিভবশক্তির সমান (যদি বায়ুর বাধা উপেক্ষা করা হয়)।সুতরাং, [math]K = U_{\\text {grav }}[/math]\u003Cbr\u003E (আদর্শ অবস্থায়)।বিকল্পগুলির বিবেচনা:i. [math]K=U_{\\text {grav }}[/math]\u003Cbr\u003E: এটি আদর্শ অবস্থার জন্য সঠিক।ii. [math]K\u003EU_{\\text {grav }}[/math]\u003Cbr\u003E: এটি তখনই সম্ভব যদি অতিরিক্ত শক্তি অন্য কোনো উৎস থেকে আসে, যা এখানে নেই।iii. [math]Kতাই, আদর্শ অবস্থায় সবচেয়ে উপযুক্ত উত্তর হল i.",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6322,
+      "created_at": "2025-08-19T06:43:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 410636,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:43:23.000000Z",
+            "updated_at": "2025-08-19T06:43:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410637,
+      "value": {
+        "options": {
+          "ক": "দ্বিগুণ",
+          "খ": "তিনগুণ",
+          "গ": "চারগুণ",
+          "ঘ": "আটগুণ"
+        },
+        "question": "মুক্তভাবে অভিকর্ষের প্রভাবে পড়ন্ত বস্তুর সময় দ্বিগুণ হলে অতিক্রান্ত দূরত্ব হবে–",
+        "solution": "অভিকর্ষের প্রভাবে মুক্তভাবে পড়ন্ত বস্তুর অতিক্রান্ত দূরত্ব সরণের বর্গের সমানুপাতিক, অর্থাৎ [math]s \\propto t^2[/math]\u003Cbr\u003E। যখন সময় দ্বিগুণ হয় ( [math]t \\rightarrow 2t[/math]\u003Cbr\u003E), তখন অতিক্রান্ত দূরত্ব [math]s' \\propto (2t)^2 = 4t^2[/math]\u003Cbr\u003E, যা আগের দূরত্বের চারগুণ। তাই, সময় দ্বিগুণ হলে অতিক্রান্ত দূরত্ব চারগুণ হবে। এটি অভিকর্ষজ ত্বরণের ( [math]g[/math]\u003Cbr\u003E) প্রভাবে একটি বস্তুর গতির একটি মৌলিক নীতি।",
+        "explanation": "",
+        "correct_answer": "C. চারগুণ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6322,
+      "created_at": "2025-08-19T06:43:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 410637,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:43:23.000000Z",
+            "updated_at": "2025-08-19T06:43:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6322&grade=1&lesson=6561&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6322&grade=1&lesson=6561&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6322&grade=1&lesson=6561&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 10,
+  "total": 10
+}

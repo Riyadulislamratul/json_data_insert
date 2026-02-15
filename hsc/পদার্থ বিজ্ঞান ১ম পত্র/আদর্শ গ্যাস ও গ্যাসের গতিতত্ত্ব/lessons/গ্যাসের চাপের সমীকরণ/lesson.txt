@@ -1,0 +1,1507 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 416219,
+      "value": {
+        "options": [],
+        "question": "প্ৰমাণ চাপ নির্ণয়ে বিশুদ্ধ পারদ স্তম্ভের প্রয়োজনীয়তা ব্যাখ্যা কর।",
+        "solution": "প্ৰমাণ চাপ নির্ণয়ে বিশুদ্ধ পারদ স্তম্ভের প্রয়োজনীয়তা হলো : পারদের বাষ্পচাপ কম হওয়ায় বায়ুমণ্ডলীয় চাপের খুব সামান্য পরিবর্তন হলেও সঠিক পাঠ নির্ণয় করা যায়। এছাড়া [math]273 \\rm{~K}[/math] তাপমাত্রার নিচেও বায়ুমণ্ডলীয় চাপ পরিমাপ করা যায়।",
+        "explanation": "ব্যাখ্যা: বিশুদ্ধ পারদ ব্যবহারের কারণ হল চাপ নির্ণয়ে ব্যবহার করা সমীকরণ [math]p=\\rho g h[/math]‑তে পারদের ঘনত্ব [math]\\rho[/math] স্থির ও নির্ভরযোগ্য হতে হয়; অশুদ্ধতা ঘনত্ব বদলে উচ্চতায় ত্রুটি আনবে। পারদের উচ্চ ঘনত্বের ফলে কাঙ্খিত চাপের জন্য স্তম্ভের উচ্চতা কম থাকে এবং কম বাষ্পচাপ ও কাচের সাথে অ-ভেজা স্বভাব পড়ার মাপ সঠিক ও স্পষ্ট মেনিস্কাস দেয়, ফলে দূষণ বা বাষ্পবুদ্দি পড়ার ফলাফলকে প্ররোচিত করে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 416219,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416219,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 416219,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T06:58:42.000000Z",
+            "updated_at": "2025-08-19T06:58:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416218,
+      "value": {
+        "options": {
+          "গ": "১ম সিলিন্ডারের গ্যাসের চাপ নির্ণয় কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-13_1755586722_hB2KixbH.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nকর্ণফুলী নদীর তলদেশে নির্মাণাধীন টিউব টানেল, সড়ক যোগাযোগের এক নতুন দিগন্ত। সেখানে ঝালাই কাজে ব্যবহৃত দুই ধরনের গ্যাস সিলিন্ডারের গায়ে লেখা তথ্য দেখে ইঞ্জিনিয়ার নিধি বললো, ১ম সিলিন্ডারের গ্যাসীয় কণাগুলো ২য়টির তুলনায় বেশি বেগে ছুটাছুটি করছে। প্রত্যেক সিলিন্ডারের আয়তন [math]10 \\times 10^3\\ m^3[/math] এবং তাপমাত্রা [math]27^\\circ C[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক অনুসারে,প্রথম সিলিন্ডারের ক্ষেত্রে, m = 10 kg [মোট Ar-এর ভর]Ar-এর আণবিক ভর, [math]\\mathrm{M} =40 \\mathrm{gm} / \\mathrm{mol} =0.04 \\mathrm{~kg} / \\mathrm{mol}[/math]\u003Cbr\u003Eসিলিন্ডারের আয়তন, [math]\\mathrm{V}=10 \\times 10^{-3} \\mathrm{~m}^{3}[/math]\u003Cbr\u003Eতাপমাত্রা, [math]\\mathrm{T} = 27^{\\circ} \\mathrm{C}=300 \\mathrm{~K}[/math]\u003Cbr\u003Eমোলার গ্যাস ধ্রুবক, [math]\\mathrm{R}=8.31 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1cm}\\begin{array}{l}\\ \\ \\mathrm{PV}=\\mathrm{nRT}\\\\\\Rightarrow\\mathrm{P}=\\frac{\\text{ nRT }}{\\mathrm{V}}\\\\\\Rightarrow\\mathrm{P}=\\frac{\\mathrm{mRT}}{\\mathrm{Mv}}\\\\\\Rightarrow\\mathrm{P}=\\frac{10\\times8.31\\times300}{0.04\\times10\\times10^{-3}}\\\\\\Rightarrow\\mathrm{P}=6.23\\times10^7\\mathrm{~N}\\mathrm{~m}^{-2}\\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ ১ম সিলিন্ডারের গ্যাসের চাপ [math]=6.23 \\times 10^{7} \\mathrm{~N} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ১ম সিলিন্ডারের চাপ আদর্শ গ্যাস সূত্র থেকে নির্ণয় করা হয়: [math]P=\\dfrac{nRT}{V}[/math]. এখানে [math]T=27^\\circ C=300\\ K[/math], [math]V=10\\times10^3\\ m^3[/math], [math]R=8.314\\ J\\,mol^{-1}K^{-1}[/math], ফলে [math]P=\\dfrac{n\\times8.314\\times300}{1.0\\times10^4}=n\\times0.2494\\ Pa[/math]. সুতরাং সিলিন্ডারে থাকা মোল সংখ্যা [math]n[/math] জানা থাকলে এতে বসিয়ে চাপে সংখ্যাত্মক মান পাওয়া যাবে; যদি দুই সিলিন্ডারে একই সংখ্যক মোল থাকে তবে উভয়ের চাপ সমান হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 416218,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3318,
+          "full_name": "Milestone College, Dhaka",
+          "short_name": "MCD",
+          "slug": "mcd",
+          "pivot": {
+            "question_bank_id": 416218,
+            "tag_id": 3318,
+            "year": "2020",
+            "created_at": "2025-08-19T06:58:42.000000Z",
+            "updated_at": "2025-08-19T06:58:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416209,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i ,i ii ও iii"
+        },
+        "question": "আদর্শ গ্যাসের ক্ষেত্রে চাপের সমীকরণ কোনটি?\n\n[math]\\begin{array}{l}\\mathrm{i.}_{\\mathrm{ }} \\quad \\mathrm{PV}=\\frac{1}{3} \\mathrm{mN} \\overline{\\mathrm{C}}^{2}\\\\\\text{ii. } \\mathrm{P}=\\frac{1}{3} \\rho \\overline{\\mathrm{C}^{2}}\\\\\\text{iii. } P=\\frac{2}{3} R T\\end{array}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "আদর্শ গ্যাসতত্ত্ব অনুযায়ী চাপ, [math]P = \\frac{1}{3}\\rho{c}^2 = \\frac{1}{3}\\frac{mnc^2}{v}=\\frac{2}{3}E[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 416209,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416209,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 416209,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T06:58:40.000000Z",
+            "updated_at": "2025-08-19T06:58:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416217,
+      "value": {
+        "options": {
+          "ক": "[math]76 \\mathrm{~Pa}[/math]",
+          "খ": "[math]760 \\mathrm{~Pa}[/math]",
+          "গ": "[math]1.013 \\times 10^{5} \\mathrm{~Pa}[/math]",
+          "ঘ": "[math]273 \\mathrm{~Pa}[/math]"
+        },
+        "question": "এক বায়ুমণ্ডলীয় চাপ হচ্ছে—",
+        "solution": "এক বায়ুমণ্ডলীয় চাপ হলো [math]1.013 \\times 10^5[/math] প্যাসকেল (Pa)। এটি সমুদ্রপৃষ্ঠে বায়ুমণ্ডলের গড় চাপ। 1 বায়ুমণ্ডলীয় চাপকে 76 সেন্টিমিটার পারদ স্তম্ভের চাপ বা 760 মিলিমিটার পারদ স্তম্ভের চাপ হিসাবেও প্রকাশ করা হয়। 1 প্যাসকেল হলো 1 বর্গমিটার ক্ষেত্রফলের উপর প্রযুক্ত 1 নিউটন বলের চাপ।",
+        "explanation": "",
+        "correct_answer": "C.[math]1.013 \\times 10^{5} \\mathrm{~Pa}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 416217,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:58:40.000000Z",
+            "updated_at": "2025-08-19T06:58:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416216,
+      "value": {
+        "options": {
+          "ক": "[math]c=\\sqrt{\\frac{3 p}{\\rho}}[/math]",
+          "খ": "[math]c=\\sqrt{\\frac{3 \\rho}{p}}[/math]",
+          "গ": "[math]c=\\sqrt{\\frac{p}{3 \\rho^{-}}}[/math]",
+          "ঘ": "[math]c=\\sqrt{\\frac{\\rho}{3 p}}[/math]"
+        },
+        "question": "আদর্শ গ্যাসের চাপ p এবং মূল গড় বর্গবেগ c এর মধ্যে সম্পর্ক হলো—",
+        "solution": "আদর্শ গ্যাসের মূল গড় বর্গবেগ ( [math]c[/math]\u003Cbr\u003E) এবং চাপ ( [math]p[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্কটি হলো [math]p = \\frac{1}{3} \\rho c^2[/math]\u003Cbr\u003E, যেখানে [math]\\rho[/math]\u003Cbr\u003E হলো গ্যাসের ঘনত্ব।এই সম্পর্ক থেকে আমরা পাই, [math]c^2 = \\frac{3p}{\\rho}[/math]\u003Cbr\u003E, সুতরাং [math]c = \\sqrt{\\frac{3p}{\\rho}}[/math]\u003Cbr\u003E।এটি গ্যাসের গতীয় তত্ত্ব থেকে উদ্ভূত একটি সম্পর্ক। মূল গড় বর্গবেগ গ্যাসের অণুগুলির গড় গতিশক্তির সাথে সম্পর্কিত, যা গ্যাসের চাপ সৃষ্টিতে ভূমিকা রাখে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 416216,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:58:40.000000Z",
+            "updated_at": "2025-08-19T06:58:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416215,
+      "value": {
+        "options": {
+          "ক": "[math]10^{7} \\mathrm{Nm}^{-2}[/math]",
+          "খ": "[math]76 \\times 10^{5} \\mathrm{Nm}^{-2}[/math]",
+          "গ": "[math]760Nm^{-2}[/math]",
+          "ঘ": "[math]1.013 \\times 10^{5} \\mathrm{Nm}^{-2}[/math]"
+        },
+        "question": "এক বায়ুমন্ডলীয় চাপ কত?",
+        "solution": "এক বায়ুমন্ডলীয় চাপ [math]1.013 \\times 10^{5} \\mathrm{Nm}^{-2}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 416215,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 14,
+          "full_name": "Hajee Mohammad Danesh Science & Technology University (A Unit)",
+          "short_name": "HSTU-A",
+          "slug": "hstu-a",
+          "pivot": {
+            "question_bank_id": 416215,
+            "tag_id": 14,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:58:40.000000Z",
+            "updated_at": "2025-08-19T06:58:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416214,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "0.5",
+          "গ": "0.25",
+          "ঘ": "4"
+        },
+        "question": "স্থির আয়তনে একটি আদর্শ গ্যাসের প্রত্যেকটি অণুর ভর অর্ধেক এবং বেগ দ্বিগুণ করা হলে আদি ও শেষ চাপের অনুপাত হবে–",
+        "solution": "[math]\\mathrm{PV}=\\frac{1}{3} \\mathrm{mnc}^{2} \\therefore \\mathrm{P} \\propto \\mathrm{mc}^{2}[/math]\u003Cbr\u003E [math]\\therefore \\frac{\\mathrm{P}_{2}}{\\mathrm{P}_{1}}=\\frac{\\mathrm{m}_{2} \\mathrm{c}_{2}^{2}}{\\mathrm{~m}_{1} \\mathrm{c}_{1}^{2}}=\\frac{\\mathrm{m}_{1} \\times 4 \\mathrm{c}_{2}^{2}}{2 \\mathrm{~m}_{1} \\mathrm{c}_{1}^{2}}=2 \\therefore \\frac{\\mathrm{P}_{1}}{\\mathrm{P}_{2}}=0.5[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B. 0.5"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 416214,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 416214,
+            "tag_id": 460,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:58:40.000000Z",
+            "updated_at": "2025-08-19T06:58:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416213,
+      "value": {
+        "options": {
+          "ক": "P ও T",
+          "খ": "P ও F",
+          "গ": "V ও T",
+          "ঘ": "P. V ও T"
+        },
+        "question": "ভ্যানডার ওয়ালসের সমীকরণে কোন রাশির সংশোধন বিদ্যামান?",
+        "solution": "আদর্শ গ্যাস সমীকরণ, PV=nRTভ্যানডার ওয়ালস সমীকরণ, [math]\\left(P+\\frac{n^{2} a}{v^{2}}\\right)(V-n b)=n R T[/math]যেখানে P এবং V সংশোধিত হয়েছে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 416213,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 416213,
+            "tag_id": 11,
+            "year": "22-23",
+            "created_at": "2025-08-19T06:58:40.000000Z",
+            "updated_at": "2025-08-19T06:58:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416212,
+      "value": {
+        "options": {
+          "ক": "[math]\\rm{E=\\dfrac{3}{2} P}[/math]",
+          "খ": "[math]\\rm{E=\\dfrac{2}{3} P}[/math]",
+          "গ": "[math]\\rm{E=\\dfrac{1}{2} \\times \\dfrac{3}{2} P}[/math]",
+          "ঘ": "[math]\\rm{E=\\dfrac{1}{2} \\times \\dfrac{2}{3} P}[/math]"
+        },
+        "question": "একক আয়তনের অণুগুলোর গতিশক্তি [math]\\rm{E}[/math] এবং গ্যাসের চাপের সম্পর্ক স্থাপনকারী সমীকরণ কোনটি?",
+        "solution": "গ্যাসের চাপ ও গতিশক্তির সম্পর্ক, [math]PV = \\frac{2}{3}E[/math]\u003Cbr\u003EV= 1 হলে [math]E = \\frac{3}{2}P[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 416212,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416212,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 416212,
+            "tag_id": 7,
+            "year": "2016",
+            "created_at": "2025-08-19T06:58:40.000000Z",
+            "updated_at": "2025-08-19T06:58:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416211,
+      "value": {
+        "options": {
+          "A": "গড় বেগ",
+          "B": "গড় বৰ্গবেগ",
+          "C": "মূল গড় বৰ্গবেগ",
+          "D": "আলোর বেগের বর্গ"
+        },
+        "question": "[math]P V=\\frac{1}{3} \\mathrm{mN}c^{-2}[/math] সমীকরণে [math]c^{-2}[/math] -",
+        "solution": "[math]PV = \\frac{1}{3}mC^{-2}[/math]\u003Cbr\u003E সমীকরণে [math]C^{-2}[/math]\u003Cbr\u003E হল গড় বর্গবেগ।আদর্শ গ্যাসের ক্ষেত্রে,আমরা জানি,[math]PV = \\frac{1}{3}mC^{-2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 416211,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416211,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 416211,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T06:58:40.000000Z",
+            "updated_at": "2025-08-19T06:58:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 416210,
+      "value": {
+        "options": {
+          "ক": "[math]c=\\sqrt{\\frac{3 P}{\\rho}}[/math]",
+          "খ": "[math]c=\\sqrt{\\frac{3 \\rho}{P}}[/math]",
+          "গ": "[math]c=\\sqrt{\\frac{P}{3 \\rho}}[/math]",
+          "ঘ": "[math]c=\\sqrt{\\frac{\\rho}{3 P}}[/math]"
+        },
+        "question": "মূল গড় বর্গবেগ c এবং চাপ P এর মধ্যে সম্পর্ক হল—",
+        "solution": "[math]PV = \\frac{1}{3}mNC^{-2}\\\\\\Rightarrow P = \\frac{1}{3}.\\frac{Nm}{V}{C^-2}\\\\\\Rightarrow P = \\frac{1}{3} \\rho C^{-2} \\\\\\Rightarrow C^{-2} = \\frac{3P}{\\rho} \\\\\\therefore \\sqrt{C^{-2}} = \\sqrt{\\frac{3P}{\\rho}}\\\\\\therefore C_{rms} = \\sqrt{\\frac{3P}{\\rho}}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:58:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 416210,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 416210,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416210,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 416210,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 416210,
+            "tag_id": 236,
+            "year": "2022",
+            "created_at": "2025-08-19T06:58:40.000000Z",
+            "updated_at": "2025-08-19T06:58:40.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 416210,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T06:58:40.000000Z",
+            "updated_at": "2025-08-19T06:58:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 415017,
+      "value": {
+        "options": [],
+        "question": "প্ৰমাণ চাপ নির্ণয়ে বিশুদ্ধ পারদ স্তম্ভের প্রয়োজনীয়তা ব্যাখ্যা কর।",
+        "solution": "প্ৰমাণ চাপ নির্ণয়ে বিশুদ্ধ পারদ স্তম্ভের প্রয়োজনীয়তা হলো : পারদের বাষ্পচাপ কম হওয়ায় বায়ুমণ্ডলীয় চাপের খুব সামান্য পরিবর্তন হলেও সঠিক পাঠ নির্ণয় করা যায়। এছাড়া [math]273 \\rm{~K}[/math] তাপমাত্রার নিচেও বায়ুমণ্ডলীয় চাপ পরিমাপ করা যায়।",
+        "explanation": "ব্যাখ্যা: বিশুদ্ধ পারদের ঘনত্ব স্থায়ী ও সঠিকভাবে জানা থাকে, তাই হাইড্রোস্টাটিক সূত্র [math]p=ρgh[/math] প্রয়োগ করে চাপ নির্ভুলভাবে নির্ণয় করা যায়। পারদের বাষ্পচাপ খুব কম এবং জল ও অন্যান্য পদার্থের সাথে অমিশ্র হওয়ার কারণে স্তম্ভে বায়ু বা ভাপ ভর্তি হয়ে ত্রুটি সৃষ্টি করে না। ফলে স্থিতিশীল, ধারাবাহিক এবং নির্ভুল চাপমাপনের জন্য বিশুদ্ধ পারদস্তম্ভ প্রয়োজন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:55:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 415017,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 415017,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 415017,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T06:55:12.000000Z",
+            "updated_at": "2025-08-19T06:55:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 415016,
+      "value": {
+        "options": {
+          "গ": "১ম সিলিন্ডারের গ্যাসের চাপ নির্ণয় কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-110-tp-cq-13_1755586512_br8QHkfl.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nকর্ণফুলী নদীর তলদেশে নির্মাণাধীন টিউব টানেল, সড়ক যোগাযোগের এক নতুন দিগন্ত। সেখানে ঝালাই কাজে ব্যবহৃত দুই ধরনের গ্যাস সিলিন্ডারের গায়ে লেখা তথ্য দেখে ইঞ্জিনিয়ার নিধি বললো, ১ম সিলিন্ডারের গ্যাসীয় কণাগুলো ২য়টির তুলনায় বেশি বেগে ছুটাছুটি করছে। প্রত্যেক সিলিন্ডারের আয়তন [math]10 \\times 10^3\\ m^3[/math] এবং তাপমাত্রা [math]27^\\circ C[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক অনুসারে,প্রথম সিলিন্ডারের ক্ষেত্রে, m = 10 kg [মোট Ar-এর ভর]Ar-এর আণবিক ভর, [math]\\mathrm{M} =40 \\mathrm{gm} / \\mathrm{mol} =0.04 \\mathrm{~kg} / \\mathrm{mol}[/math]\u003Cbr\u003Eসিলিন্ডারের আয়তন, [math]\\mathrm{V}=10 \\times 10^{-3} \\mathrm{~m}^{3}[/math]\u003Cbr\u003Eতাপমাত্রা, [math]\\mathrm{T} = 27^{\\circ} \\mathrm{C}=300 \\mathrm{~K}[/math]\u003Cbr\u003Eমোলার গ্যাস ধ্রুবক, [math]\\mathrm{R}=8.31 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1cm}\\begin{array}{l}\\ \\ \\mathrm{PV}=\\mathrm{nRT}\\\\\\Rightarrow\\mathrm{P}=\\frac{\\text{ nRT }}{\\mathrm{V}}\\\\\\Rightarrow\\mathrm{P}=\\frac{\\mathrm{mRT}}{\\mathrm{Mv}}\\\\\\Rightarrow\\mathrm{P}=\\frac{10\\times8.31\\times300}{0.04\\times10\\times10^{-3}}\\\\\\Rightarrow\\mathrm{P}=6.23\\times10^7\\mathrm{~N}\\mathrm{~m}^{-2}\\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ ১ম সিলিন্ডারের গ্যাসের চাপ [math]=6.23 \\times 10^{7} \\mathrm{~N} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E রোগটি হচ্ছে যে কণার গড় বেগ বেশি হওয়া শুধু মোলার ভর কম হওয়া নির্দেশ করে, কারণ [math]v_{\\rm rms}=\\sqrt{\\dfrac{3RT}{M}}[/math]। চাপ নির্ণয়ের জন্য প্রয়োজন পরিমাষ (মোল বা কণার সংখ্যা) কারণ আইডিয়াল গ্যাস সূত্রটি হলো [math]p=\\dfrac{nRT}{V}[/math]; এখানে [math]n[/math] জানা ছাড়া সংখ্যাত্মক চাপ পাওয়া যাবে না, তাই দাওয়া তথ্যে ১ম সিলিন্ডারের চাপ নির্ধারণ করা সম্ভব নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:55:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 415016,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3318,
+          "full_name": "Milestone College, Dhaka",
+          "short_name": "MCD",
+          "slug": "mcd",
+          "pivot": {
+            "question_bank_id": 415016,
+            "tag_id": 3318,
+            "year": "2020",
+            "created_at": "2025-08-19T06:55:12.000000Z",
+            "updated_at": "2025-08-19T06:55:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 415015,
+      "value": {
+        "options": {
+          "ক": "[math]76 \\mathrm{~Pa}[/math]",
+          "খ": "[math]760 \\mathrm{~Pa}[/math]",
+          "গ": "[math]1.013 \\times 10^{5} \\mathrm{~Pa}[/math]",
+          "ঘ": "[math]273 \\mathrm{~Pa}[/math]"
+        },
+        "question": "এক বায়ুমণ্ডলীয় চাপ হচ্ছে—",
+        "solution": "এক বায়ুমণ্ডলীয় চাপ হলো [math]1.013 \\times 10^5[/math] প্যাসকেল (Pa)। এটি সমুদ্রপৃষ্ঠে বায়ুমণ্ডলের গড় চাপ। 1 বায়ুমণ্ডলীয় চাপকে 76 সেন্টিমিটার পারদ স্তম্ভের চাপ বা 760 মিলিমিটার পারদ স্তম্ভের চাপ হিসাবেও প্রকাশ করা হয়। 1 প্যাসকেল হলো 1 বর্গমিটার ক্ষেত্রফলের উপর প্রযুক্ত 1 নিউটন বলের চাপ।",
+        "explanation": "",
+        "correct_answer": "C.[math]1.013 \\times 10^{5} \\mathrm{~Pa}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:55:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 415015,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:55:11.000000Z",
+            "updated_at": "2025-08-19T06:55:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 415014,
+      "value": {
+        "options": {
+          "ক": "[math]c=\\sqrt{\\frac{3 p}{\\rho}}[/math]",
+          "খ": "[math]c=\\sqrt{\\frac{3 \\rho}{p}}[/math]",
+          "গ": "[math]c=\\sqrt{\\frac{p}{3 \\rho^{-}}}[/math]",
+          "ঘ": "[math]c=\\sqrt{\\frac{\\rho}{3 p}}[/math]"
+        },
+        "question": "আদর্শ গ্যাসের চাপ p এবং মূল গড় বর্গবেগ c এর মধ্যে সম্পর্ক হলো—",
+        "solution": "আদর্শ গ্যাসের মূল গড় বর্গবেগ ( [math]c[/math]\u003Cbr\u003E) এবং চাপ ( [math]p[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্কটি হলো [math]p = \\frac{1}{3} \\rho c^2[/math]\u003Cbr\u003E, যেখানে [math]\\rho[/math]\u003Cbr\u003E হলো গ্যাসের ঘনত্ব।এই সম্পর্ক থেকে আমরা পাই, [math]c^2 = \\frac{3p}{\\rho}[/math]\u003Cbr\u003E, সুতরাং [math]c = \\sqrt{\\frac{3p}{\\rho}}[/math]\u003Cbr\u003E।এটি গ্যাসের গতীয় তত্ত্ব থেকে উদ্ভূত একটি সম্পর্ক। মূল গড় বর্গবেগ গ্যাসের অণুগুলির গড় গতিশক্তির সাথে সম্পর্কিত, যা গ্যাসের চাপ সৃষ্টিতে ভূমিকা রাখে।",
+        "explanation": "",
+        "correct_answer": "A.[math]c=\\sqrt{\\frac{3 p}{\\rho}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:55:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 415014,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:55:11.000000Z",
+            "updated_at": "2025-08-19T06:55:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 415013,
+      "value": {
+        "options": {
+          "ক": "[math]10^{7} \\mathrm{Nm}^{-2}[/math]",
+          "খ": "[math]76 \\times 10^{5} \\mathrm{Nm}^{-2}[/math]",
+          "গ": "[math]760Nm^{-2}[/math]",
+          "ঘ": "[math]1.013 \\times 10^{5} \\mathrm{Nm}^{-2}[/math]"
+        },
+        "question": "এক বায়ুমন্ডলীয় চাপ কত?",
+        "solution": "এক বায়ুমন্ডলীয় চাপ [math]1.013 \\times 10^{5} \\mathrm{Nm}^{-2}[/math]",
+        "explanation": "",
+        "correct_answer": "D.[math]1.013 \\times 10^{5} \\mathrm{Nm}^{-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:55:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 415013,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 14,
+          "full_name": "Hajee Mohammad Danesh Science & Technology University (A Unit)",
+          "short_name": "HSTU-A",
+          "slug": "hstu-a",
+          "pivot": {
+            "question_bank_id": 415013,
+            "tag_id": 14,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:55:11.000000Z",
+            "updated_at": "2025-08-19T06:55:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 415012,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "0.5",
+          "গ": "0.25",
+          "ঘ": "4"
+        },
+        "question": "স্থির আয়তনে একটি আদর্শ গ্যাসের প্রত্যেকটি অণুর ভর অর্ধেক এবং বেগ দ্বিগুণ করা হলে আদি ও শেষ চাপের অনুপাত হবে–",
+        "solution": "[math]\\mathrm{PV}=\\frac{1}{3} \\mathrm{mnc}^{2} \\therefore \\mathrm{P} \\propto \\mathrm{mc}^{2}[/math]\u003Cbr\u003E [math]\\therefore \\frac{\\mathrm{P}_{2}}{\\mathrm{P}_{1}}=\\frac{\\mathrm{m}_{2} \\mathrm{c}_{2}^{2}}{\\mathrm{~m}_{1} \\mathrm{c}_{1}^{2}}=\\frac{\\mathrm{m}_{1} \\times 4 \\mathrm{c}_{2}^{2}}{2 \\mathrm{~m}_{1} \\mathrm{c}_{1}^{2}}=2 \\therefore \\frac{\\mathrm{P}_{1}}{\\mathrm{P}_{2}}=0.5[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B. 0.5"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:55:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 415012,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 415012,
+            "tag_id": 460,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:55:11.000000Z",
+            "updated_at": "2025-08-19T06:55:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 415007,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i ,i ii ও iii"
+        },
+        "question": "আদর্শ গ্যাসের ক্ষেত্রে চাপের সমীকরণ কোনটি?\n\n[math]\\begin{array}{l}\\mathrm{i.}_{\\mathrm{ }} \\quad \\mathrm{PV}=\\frac{1}{3} \\mathrm{mN} \\overline{\\mathrm{C}}^{2}\\\\\\text{ii. } \\mathrm{P}=\\frac{1}{3} \\rho \\overline{\\mathrm{C}^{2}}\\\\\\text{iii. } P=\\frac{2}{3} R T\\end{array}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "আদর্শ গ্যাসতত্ত্ব অনুযায়ী চাপ, [math]P = \\frac{1}{3}\\rho{c}^2 = \\frac{1}{3}\\frac{mnc^2}{v}=\\frac{2}{3}E[/math]",
+        "explanation": "",
+        "correct_answer": "A.i ও ii"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:55:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 415007,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 415007,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 415007,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T06:55:10.000000Z",
+            "updated_at": "2025-08-19T06:55:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 415011,
+      "value": {
+        "options": {
+          "ক": "P ও T",
+          "খ": "P ও F",
+          "গ": "V ও T",
+          "ঘ": "P. V ও T"
+        },
+        "question": "ভ্যানডার ওয়ালসের সমীকরণে কোন রাশির সংশোধন বিদ্যামান?",
+        "solution": "আদর্শ গ্যাস সমীকরণ, PV=nRTভ্যানডার ওয়ালস সমীকরণ, [math]\\left(P+\\frac{n^{2} a}{v^{2}}\\right)(V-n b)=n R T[/math]যেখানে P এবং V সংশোধিত হয়েছে।",
+        "explanation": "",
+        "correct_answer": "B.P ও F"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:55:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 415011,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 415011,
+            "tag_id": 11,
+            "year": "22-23",
+            "created_at": "2025-08-19T06:55:10.000000Z",
+            "updated_at": "2025-08-19T06:55:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 415010,
+      "value": {
+        "options": {
+          "ক": "[math]\\rm{E=\\dfrac{3}{2} P}[/math]",
+          "খ": "[math]\\rm{E=\\dfrac{2}{3} P}[/math]",
+          "গ": "[math]\\rm{E=\\dfrac{1}{2} \\times \\dfrac{3}{2} P}[/math]",
+          "ঘ": "[math]\\rm{E=\\dfrac{1}{2} \\times \\dfrac{2}{3} P}[/math]"
+        },
+        "question": "একক আয়তনের অণুগুলোর গতিশক্তি [math]\\rm{E}[/math] এবং গ্যাসের চাপের সম্পর্ক স্থাপনকারী সমীকরণ কোনটি?",
+        "solution": "গ্যাসের চাপ ও গতিশক্তির সম্পর্ক, [math]PV = \\frac{2}{3}E[/math]\u003Cbr\u003EV= 1 হলে [math]E = \\frac{3}{2}P[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\rm{E=\\dfrac{3}{2} P}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:55:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 415010,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 415010,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 415010,
+            "tag_id": 7,
+            "year": "2016",
+            "created_at": "2025-08-19T06:55:10.000000Z",
+            "updated_at": "2025-08-19T06:55:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 415009,
+      "value": {
+        "options": {
+          "A": "গড় বেগ",
+          "B": "গড় বৰ্গবেগ",
+          "C": "মূল গড় বৰ্গবেগ",
+          "D": "আলোর বেগের বর্গ"
+        },
+        "question": "[math]P V=\\frac{1}{3} \\mathrm{mN}c^{-2}[/math] সমীকরণে [math]c^{-2}[/math] -",
+        "solution": "[math]PV = \\frac{1}{3}mC^{-2}[/math]\u003Cbr\u003E সমীকরণে [math]C^{-2}[/math]\u003Cbr\u003E হল গড় বর্গবেগ।আদর্শ গ্যাসের ক্ষেত্রে,আমরা জানি,[math]PV = \\frac{1}{3}mC^{-2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.গড় বৰ্গবেগ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:55:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 415009,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 415009,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 415009,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T06:55:10.000000Z",
+            "updated_at": "2025-08-19T06:55:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 415008,
+      "value": {
+        "options": {
+          "ক": "[math]c=\\sqrt{\\frac{3 P}{\\rho}}[/math]",
+          "খ": "[math]c=\\sqrt{\\frac{3 \\rho}{P}}[/math]",
+          "গ": "[math]c=\\sqrt{\\frac{P}{3 \\rho}}[/math]",
+          "ঘ": "[math]c=\\sqrt{\\frac{\\rho}{3 P}}[/math]"
+        },
+        "question": "মূল গড় বর্গবেগ c এবং চাপ P এর মধ্যে সম্পর্ক হল—",
+        "solution": "[math]PV = \\frac{1}{3}mNC^{-2}\\\\\\Rightarrow P = \\frac{1}{3}.\\frac{Nm}{V}{C^-2}\\\\\\Rightarrow P = \\frac{1}{3} \\rho C^{-2} \\\\\\Rightarrow C^{-2} = \\frac{3P}{\\rho} \\\\\\therefore \\sqrt{C^{-2}} = \\sqrt{\\frac{3P}{\\rho}}\\\\\\therefore C_{rms} = \\sqrt{\\frac{3P}{\\rho}}[/math]",
+        "explanation": "",
+        "correct_answer": "A.[math]c=\\sqrt{\\frac{3 P}{\\rho}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:55:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 415008,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 415008,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 415008,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 415008,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 415008,
+            "tag_id": 236,
+            "year": "2022",
+            "created_at": "2025-08-19T06:55:10.000000Z",
+            "updated_at": "2025-08-19T06:55:10.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 415008,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T06:55:10.000000Z",
+            "updated_at": "2025-08-19T06:55:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6607&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6607&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6607&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 22,
+  "total": 22
+}

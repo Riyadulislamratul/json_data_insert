@@ -1,0 +1,596 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 400712,
+      "value": {
+        "options": [],
+        "question": "নিচের চিত্রে চলচ্চিত্রের একজন স্টান্টম্যান একটি উঁচু ভবনের ছাদে অনুভূমিকভাবে দৌড়িয়ে পার্শ্ববর্তী একটি অপেক্ষাকৃত কম উঁচু ভবনের ছাদে লাফ দেবে। এই কাজটি করার পূর্বে সে বুদ্ধিমানের মত তোমাকে প্রশ্ন করলো যে, এটি করা তার পক্ষে সম্ভব হবে কি না। ছাদে তার দৌড়ের সর্বোচ্চ গতিবেগ 4.5m/s হলে সে এটা করতে পারবে কি? সেক্ষেত্রে তোমার উপদেশ কী হবে? \"ঝাপ দাও\"! অথবা \"ঝাপ দিও না”!\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fsuggesion20work20by20minhaz20000000053_1755582989_hxUqW5MS.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "অনুভূমিকভাবে নিক্ষিপ্ত গ্রাসের ক্ষেত্রে, [math]x^{2}=\\frac{2 u^{2}}{g} y[/math]\u003Cbr\u003E [math]y=4.8 \\mathrm{~m}, u=4.5 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E হলে [math]x=\\sqrt{\\frac{2 u^{2}}{g}} y=4.454[/math]\u003Cbr\u003E যা 6.2 m অপেক্ষা কম।∴ আমার উপদেশ \"ঝাঁপ দিও না।\"",
+        "explanation": "ব্যাখ্যা: অনুভূমিক লাফে বস্তুতে লম্বালম্বি গড়তি শুধু মুক্ত পতন দ্বারা নির্ধারিত, তাই পতনের সময় [math]t=\\sqrt{\\dfrac{2h}{g}}[/math]। অনুভূমিক রেঞ্জ হবে [math]R=v\\,t[/math], ফলে সফল হওয়ার শর্ত হচ্ছে [math]v\\ge \\dfrac{d}{\\sqrt{2h/g}}=\\dfrac{d\\sqrt{g}}{\\sqrt{2h}}[/math] (এখানে [math]g\\approx9.8\\ \\text{m/s}^2[/math])। তাই তোমাকে ছবিতে থাকা ছাদগুলোর গ্যাপ [math]d[/math] ও উচ্চতার পার্থক্য [math]h[/math] দিয়ে এই সূত্রে পরীক্ষা করতে হবে — যদি [math]4.5\\ \\text{m/s}[/math] বড় বা সমান আসে, তাহলে \"ঝাপ দাও\", নতুবা \"ঝাপ দিও না\"।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 400712,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 400712,
+            "tag_id": 80,
+            "year": "16-17",
+            "created_at": "2025-08-19T05:56:29.000000Z",
+            "updated_at": "2025-08-19T05:56:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400713,
+      "value": {
+        "options": {
+          "গ": "ক্যাপ্টেন হেলালের ছোঁড়া রকেট লান্সারের গোলার বেগ কত ছিল?"
+        },
+        "question": "আমাদের মুক্তিযুদ্ধে ছাতকের টেংরাটিলার ঐতিহাসিক যুদ্ধে বাঁশতলা সাব সেক্টর কমান্ডার ক্যাপ্টেন হেলাল হানাদার পাক বাহিনীর বিরুদ্ধে যে রকেট লান্সার ব্যবহার করেন তার গোলার সর্বাধিক অনুভূমিক পাল্লা ছিল 2 km ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,সর্বাধিক অনুভূমিক পাল্লা, [math]\\mathrm{R}_{\\max }=2 \\mathrm{~km}=2000 \\mathrm{~m}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eনিক্ষেপন বেগ, [math]\\mathrm{v}_{0}=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned}\\mathrm{R}_{\\max } & =\\frac{\\mathrm{v}_{0}^{2}}{\\mathrm{~g}} \\\\\\therefore \\mathrm{v}_{0} & =\\sqrt{\\mathrm{R}_{\\max } \\mathrm{g}} \\\\& =\\sqrt{2000 \\times 9.8} \\\\& =140 \\mathrm{~ms}^{-1} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সর্বাধিক পাল্লায় উৎক্ষেপণ কোণ [math]45^\\circ[/math] হলে [math]\\sin2\\theta=1[/math] এবং [math]R_{\\max}=\\dfrac{v^2}{g}[/math]. এখানে [math]R=2000\\ \\text{m}[/math] ও [math]g\\approx9.8\\ \\text{m/s}^2[/math], তাই [math]v=\\sqrt{Rg}=\\sqrt{2000\\times9.8}\\approx140\\ \\text{m/s}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 400713,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:56:29.000000Z",
+            "updated_at": "2025-08-19T05:56:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400714,
+      "value": {
+        "options": {
+          "গ": "বুলেট কর্তৃক অতিক্রান্ত অনুভূমিক দূরত্ব নির্ণয় করো।"
+        },
+        "question": "30 m উঁচু একটি গাছের ডালে বসে পাখি শিকারের জন্য একজন শিকারি [math]20 \\mathrm{~ms}^{-1}[/math] অনুভূমিক বেগে একটি বুলেট ছুড়ে দিল। একই সময় একই উচ্চতা হতে শিকারির পকেটে রাখা একটি বুলেট মাটিতে পড়ে গেল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,নিক্ষেপণ বেগ, [math]\\mathrm{v}_{\\mathrm{o}}=20 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eউচ্চতা, [math]\\mathrm{y}=30 \\mathrm{~m}[/math]\u003Cbr\u003Eনিক্ষেপণ কোণ, [math]\\theta=0^{\\circ}[/math]\u003Cbr\u003Eসময় = tআমরা জানি,[math]\\therefore \\mathrm{y}=\\mathrm{v}_{\\mathrm{o}} \\sin \\theta \\mathrm{t}+\\frac{1}{2} \\mathrm{gt}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]30 \\mathrm{~m}=\\left(20 \\mathrm{~ms}^{-1}\\right) \\sin 0^{\\circ} \\times\\mathrm{t}+\\frac{1}{2} \\times 9.8 \\mathrm{~ms}^{-2} \\times \\mathrm{t}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]30 \\mathrm{~m}=4.9 \\mathrm{~ms}^{-2} \\times \\mathrm{t}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{t}=2.474 \\mathrm{~s}[/math]\u003Cbr\u003Eআনুভূমিক দূরত্ব, x হলে,[math]\\begin{aligned}\\mathrm{x} & =\\mathrm{v}_{\\mathrm{o}} \\cos \\theta \\mathrm{t} \\\\& =\\left(20 \\mathrm{~ms}^{-1}\\right) \\cos 0^{\\circ} \\times 2.474 \\mathrm{~s} \\\\& =49.48 \\mathrm{~m}(\\text { Ans. })\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বুলেটের অনুভূমিক দূরত্ব নির্ণয় করতে জানো যে অনুভূমিক বেগ স্থির থাকে এবং উল্লম্ব গতি মুক্ত পতন; তাই সময় [math]t=\\sqrt{\\dfrac{2h}{g}}=\\sqrt{\\dfrac{2\\times30}{10}}=\\sqrt{6}\\ \\text{সেকেন্ড}[/math] এবং দূরত্ব [math]x=v_xt=20\\sqrt{6}\\ \\text{m}\\approx49\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 400714,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:56:29.000000Z",
+            "updated_at": "2025-08-19T05:56:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400715,
+      "value": {
+        "options": {
+          "গ": "১ম বুলেট কর্তৃক অতিক্রান্ত অনুভূমিক দূরত্ব নির্ণয় করো।"
+        },
+        "question": "20 m উঁচু একটি দালানের ছাদ থেকে একটি লোক [math]40 \\mathrm{~ms}^{-1}[/math] বেগে অনুভূমিকভাবে বুলেট ছুঁড়ল। একই সময়ে অপর একটি লোক একই উচ্চতা হতে একটি বুলেট স্থির অবস্থা হতে নিচে ফেলে দিল। [বাতাসের বাধা অনুপস্থিত।]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003EAnswer : [math]80.8 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দিকটি—অনুভূমিক এবং উল্লম্ব গতি আলাদা; পড়ে যাওয়ার সময় নির্ধারিত হয় মাত্র উল্লম্ব গতি দ্বারা, তাই [math]t=\\sqrt{2h/g}[/math]. এখানে [math]t=\\sqrt{2\\times 20/9.8}\\approx 2.02\\ \\mathrm{s}[/math] হওয়ায় অনুভূমিক অতিক্রান্ত দূরত্ব [math]x=v_x t=40\\times 2.02\\approx 80.8\\ \\mathrm{m}\\ (\\approx 81\\ \\mathrm{m}).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 400715,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:56:29.000000Z",
+            "updated_at": "2025-08-19T05:56:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400706,
+      "value": {
+        "options": {
+          "ক": "যেহেতু g একটি ধ্রুব রাশি অতএব [math]\\mathrm{t}_{\\mathrm{m}} \\propto \\mathrm{v}_{0} \\cos 0^{\\circ}[/math]",
+          "খ": "অনুভূমিক পাল্লা [math]\\mathrm{R}=\\frac{\\mathrm{v}^{\\circ} 2 \\sin ^{2} \\theta^{\\circ}}{\\mathrm{g}}[/math]",
+          "গ": "বাতাসে তীর্যকভাবে নিক্ষিপ্ত বস্তুর গতি দ্বিমাত্রিক",
+          "ঘ": "বেগ [math]\\vec{v}=v_{x} \\hat{i}+v_{y} \\hat{j}[/math]"
+        },
+        "question": "নিম্নের কোন তথ্যটি দ্বিমাত্রিক গতির জন্য সঠিক নয়?",
+        "solution": "[math]\\mathrm{t}_{\\mathrm{m}}=\\frac{\\mathrm{v}_{0} \\sin \\theta_{0}}{\\mathrm{~g}}, \\mathrm{t} \\propto \\mathrm{v}_{\\mathrm{o}} \\sin \\theta_{0}[/math]",
+        "explanation": "",
+        "correct_answer": "B.অনুভূমিক পাল্লা [math]\\mathrm{R}=\\frac{\\mathrm{v}^{\\circ} 2 \\sin ^{2} \\theta^{\\circ}}{\\mathrm{g}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 25,
+          "year": "2006-2007",
+          "pivot": {
+            "question_bank_id": 400706,
+            "year_id": 25
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 400706,
+            "tag_id": 3225,
+            "year": "06-07",
+            "created_at": "2025-08-19T05:56:28.000000Z",
+            "updated_at": "2025-08-19T05:56:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400707,
+      "value": {
+        "options": {
+          "ক": "সরলরেখা",
+          "খ": "পরাবৃত্ত",
+          "গ": "অধিবৃত্ত",
+          "ঘ": "উপবৃত্ত"
+        },
+        "question": "অনুভূমিকভাবে একটি নিক্ষিপ্ত বস্তুর গতিপথ একটি-",
+        "solution": "অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর গতিপথ Parabola বা পরাবৃত্ত।",
+        "explanation": "",
+        "correct_answer": "B. পরাবৃত্ত"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 400707,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 49,
+          "full_name": "University of Chittagong (Unit A)",
+          "short_name": "CU-A",
+          "slug": "cu-a",
+          "pivot": {
+            "question_bank_id": 400707,
+            "tag_id": 49,
+            "year": "18-19",
+            "created_at": "2025-08-19T05:56:28.000000Z",
+            "updated_at": "2025-08-19T05:56:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400708,
+      "value": {
+        "options": {
+          "ক": "0",
+          "খ": "g",
+          "গ": "-g",
+          "ঘ": "[math]-\\frac{g}{2}[/math]"
+        },
+        "question": "অনুভূমিক রেখা বরাবর প্রাসের ত্বরণ কত ?",
+        "solution": "প্রাসের গতির ক্ষেত্রে, অনুভূমিক রেখা বরাবর কেবলমাত্র বাতাসের বাধা না থাকলে কোনো ত্বরণ থাকে না। প্রাসের গতি দুটি স্বাধীন গতির উপাংশ নিয়ে গঠিত: অনুভূমিক এবং উল্লম্ব। অনুভূমিক গতির ক্ষেত্রে, প্রাসের বেগ অপরিবর্তিত থাকে কারণ এই দিকে কোনো বল কাজ করে না (যদি বাতাসের বাধা উপেক্ষা করা হয়)। উল্লম্ব গতির উপর শুধুমাত্র অভিকর্ষজ ত্বরণ [math]g[/math]\u003Cbr\u003E কাজ করে। তাই, অনুভূমিক রেখা বরাবর প্রাসের ত্বরণ শূন্য ( [math]0[/math]\u003Cbr\u003E)।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 400708,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 14,
+          "full_name": "Hajee Mohammad Danesh Science & Technology University (A Unit)",
+          "short_name": "HSTU-A",
+          "slug": "hstu-a",
+          "pivot": {
+            "question_bank_id": 400708,
+            "tag_id": 14,
+            "year": "17-18",
+            "created_at": "2025-08-19T05:56:28.000000Z",
+            "updated_at": "2025-08-19T05:56:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400709,
+      "value": {
+        "options": {
+          "ক": "নিক্ষেপণ বেগের উপর নির্ভর করে না",
+          "খ": "নিক্ষেপণ কোণ এর উপর নির্ভর করেনা।",
+          "গ": "g-এর উপর নির্ভর করে না",
+          "ঘ": "বিশ্বজনীন ধ্রুবক"
+        },
+        "question": "প্রাসের বেগের অনুভূমিক উপাংশ–",
+        "solution": "প্রাসের বেগের অনুভূমিক উপাংশ নির্ভর করে নিক্ষেপণ বেগের উপর। প্রক্ষেপণ বেগ [math]v_0[/math]\u003Cbr\u003E এবং নিক্ষেপণ কোণ [math]\\theta[/math]\u003Cbr\u003E হলে অনুভূমিক উপাংশ [math]v_x = v_0 \\cos \\theta[/math]\u003Cbr\u003E. এটি মহাকর্ষজ ত্বরণ ( [math]g[/math]\u003Cbr\u003E) বা অন্য কোনো বিষয়ের উপর নির্ভর করে না। এছাড়াও, এটি বিশ্বজনীন ধ্রুবক নয় কারণ এটি নিক্ষেপণ বেগের উপর নির্ভরশীল।",
+        "explanation": "",
+        "correct_answer": "C. g-এর উপর নির্ভর করে না"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 400709,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 400709,
+            "tag_id": 3,
+            "year": "12-13",
+            "created_at": "2025-08-19T05:56:28.000000Z",
+            "updated_at": "2025-08-19T05:56:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400710,
+      "value": {
+        "options": {
+          "ক": "একটি সোজা সড়কে কোনো একটি গাড়ির গতি",
+          "খ": "দেওয়ালে একটি পিঁপড়ার গতি",
+          "গ": "টেবিলের উপর একটি পিঁপড়ার গতি",
+          "ঘ": "উড়ে বেড়ানো একটি প্রজাপতির গতি"
+        },
+        "question": "কোনটি ত্রিমাত্রিক গতির উদাহরণ?",
+        "solution": "এখানে সঠিক উত্তর হল D. উড়ে বেড়ানো একটি প্রজাপতির গতি। ত্রিমাত্রিক গতি বলতে বোঝায় এমন গতি যেখানে বস্তুটির দৈর্ঘ্য, প্রস্থ এবং উচ্চতা – এই তিনটি মাত্রাই পরিবর্তিত হয়। একটি প্রজাপতি বাতাসে উড়ে বেড়ানোর সময় তার অবস্থান আনুভূমিকভাবে (দৈর্ঘ্য ও প্রস্থ) এবং উল্লম্বভাবে (উচ্চতা) উভয় দিকেই পরিবর্তন করতে পারে।\n\nঅন্যান্য বিকল্পগুলি ত্রিমাত্রিক গতির উদাহরণ নয়। একটি সোজা সড়কে গাড়ির গতি মূলত একমাত্রিক গতি, কারণ এটি একটি সরলরেখায় চলে। দেওয়ালে একটি পিঁপড়ার গতি দ্বিমাত্রিক হতে পারে (দৈর্ঘ্য ও উচ্চতা), এবং টেবিলের উপর একটি পিঁপড়ার গতিও মূলত দ্বিমাত্রিক (দৈর্ঘ্য ও প্রস্থ) কারণ এটি একটি সমতলে সীমাবদ্ধ থাকে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 400710,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T05:56:28.000000Z",
+            "updated_at": "2025-08-19T05:56:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400711,
+      "value": {
+        "options": {
+          "ক": "[math]\\vec{a}=g \\hat{i}[/math]",
+          "খ": "[math]\\vec{a}=-g \\hat{i}[/math]",
+          "গ": "[math]\\vec{a}=-g \\hat{j}[/math]",
+          "ঘ": "[math]\\vec{a}=g \\hat{k}[/math]"
+        },
+        "question": "প্রাসের ত্বরণকে কোনটি দ্বারা প্রকাশ করা হয়?",
+        "solution": "প্রাসের গতির ক্ষেত্রে, ত্বরণ কেবল অভিকর্ষজ ত্বরণ দ্বারা প্রভাবিত হয় এবং এটি উল্লম্বভাবে নিচের দিকে কাজ করে। এখানে [math]\\vec{g}[/math]\u003Cbr\u003E হল অভিকর্ষজ ত্বরণ, যার মান প্রায় [math]9.8 \\, m/s^2[/math]\u003Cbr\u003E এবং এর দিক পৃথিবীর কেন্দ্রের দিকে, অর্থাৎ উল্লম্বভাবে নিচের দিকে। যদি আমরা y-অক্ষকে উল্লম্বভাবে উপরের দিকে ধরি, তাহলে অভিকর্ষজ ত্বরণ y-অক্ষের ঋণাত্মক দিকে কাজ করবে। তাই, ত্বরণকে [math]\\vec{a} = -g \\hat{j}[/math]\u003Cbr\u003E দ্বারা প্রকাশ করা হয়, যেখানে [math]\\hat{j}[/math]\u003Cbr\u003E হল y-অক্ষের একক ভেক্টর।প্রাস একটি অভিকর্ষের অধীনে মুক্তভাবে পতনশীল বস্তু, তাই এর ত্বরণ ধ্রুবক এবং কেবল অভিকর্ষজ ত্বরণ। এই ত্বরণ উল্লম্বভাবে নিচের দিকে ক্রিয়া করে। অন্যান্য বিকল্পগুলি ভুল কারণ তারা ত্বরণকে অনুভূমিকভাবে বা ভুল দিকে নির্দেশ করে। [math]\\hat{i}[/math]\u003Cbr\u003E সাধারণত অনুভূমিক x-অক্ষের একক ভেক্টর এবং [math]\\hat{k}[/math]\u003Cbr\u003E সাধারণত z-অক্ষের একক ভেক্টর নির্দেশ করে।",
+        "explanation": "",
+        "correct_answer": "C.[math]\\vec{a}=-g \\hat{j}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 400711,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T05:56:28.000000Z",
+            "updated_at": "2025-08-19T05:56:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6516&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6516&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6516&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 10,
+  "total": 10
+}

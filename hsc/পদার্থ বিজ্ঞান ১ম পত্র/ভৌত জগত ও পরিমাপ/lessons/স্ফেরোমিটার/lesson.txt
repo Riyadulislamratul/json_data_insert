@@ -1,0 +1,2337 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 394494,
+      "value": {
+        "options": [],
+        "question": "স্ফোরোমিটারের লঘিষ্ঠ ধ্রুবক 0.01 mm বলতে কি বুঝ?",
+        "solution": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy201-11-20giyan20onudhabon-202_1755580784_iW6sw5or.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nসুতরাং, কোনো স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক 0.01 mm বলতে বোঝায়, সেই স্ফেরোমিটারের বৃত্তাকার স্কেলে সাধারণত 100 ভাগ থাকে এবং পিচ থাকে 1 mm।",
+        "explanation": "এতে বোঝায় স্ফোরোমিটারটি সবচেয়ে ছোট যে উচ্চতার পরিবর্তনটি নির্ণয় করতে পারে তা হলো [math]0.01\\ \\text{mm}[/math]; অর্থাৎ এর পরিমাপের সূক্ষ্মতা দুই দশমিক সংখ্যার পর্যন্ত এবং এর চেয়ে ছোট পরিবর্তন দৃশ্যমান হবে না। প্রযুক্তিগতভাবে এটি স্ক্রু–পিচকে ভরাট স্কেলের বিভাজনসংখ্যায় ভাগ করলে পাওয়া মান, অর্থাৎ [math]LC=\\frac{pitch}{N}[/math], এখানে [math]LC=0.01\\ \\text{mm}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 394494,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 394494,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T05:19:44.000000Z",
+            "updated_at": "2025-08-19T05:19:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394493,
+      "value": {
+        "options": [],
+        "question": "সাধারণত স্ফেরোমিটারের সাহায্যে পাতের পুরুত্ব নির্ণয়কালে এর যান্ত্রিক ত্রুটি থাকা সত্ত্বেও নির্ণয়ের প্রয়োজন হয় না কেন- ব্যাখ্যা ক র।",
+        "solution": "স্ফেরোমিটার হচ্ছে তিন পা-বিশিষ্ট ইস্পাতের তৈরি একটি শক্ত ফ্রেম। এর পাগুলো (0, 0, 0) সমদূরত্বে অবস্থিত এবং পায়ের অগ্রভাগসমূহ একই সমতলে অবস্থিত যেকোনো একটি পায়ের সাথে একটি রৈখিক স্কেল খাড়াভাবে সংযুক্ত থাকে। খাড়া রৈখিক স্কেল মিলি মিটারে দাগ কাটা থাকে। ফ্রেমের মাঝখানে একটি নাট থাকে যার মধ্যদিয়ে জুটি চলাচল করতে পারে বলে এটি চতুর্থ পা হিসেবে গণ্য করা হয়। এটিকে কোনো সমতলে স্থাপন করে যদি জুটিকে ঘুরিয়ে স্তুর সূঁচালো অগ্রভাগ ঐ সমতলকে স্পর্শ করে তখন বৃত্তাকার স্কেলের শূন্য (0) দাগ রৈখিক স্কেলের শূন্য (0) দাগ বরাবর থাকে, যদি না থাকে তবে যন্ত্রটি ত্রুটিপূর্ণ। যন্ত্রে ত্রুটি থাকলেও এ ত্রুটি হিসেব করার প্রয়োজন হয় না। এক্ষেত্রে পাঠ বা ফলাফলের উপর কোনো প্রভাব পড়ে না বিধায় ত্রুটি নির্ণয়ের প্রয়োজন হয় না।",
+        "explanation": "ব্যাখ্যা: স্ফেরোমিটার দিয়ে পাতের পুরুত্ব সাধারণত দুইটি পরিমাপের পার্থক্য (পাত না রেখে ও রেখে) হিসেবে নেওয়া হয়, তাই যান্ত্রিক বা জিরো ত্রুটি যা স্থায়ীভাবে থাকে দুইটি পরিমাপে একই থাকে এবং বিয়োগ করলে বাতিল হয়ে যায়; তাই সেই ধরনের ত্রুটি ফলনে প্রভাব ফেলে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 394493,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394493,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 394493,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T05:19:43.000000Z",
+            "updated_at": "2025-08-19T05:19:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394492,
+      "value": {
+        "options": [],
+        "question": "স্ফেরোমিটারের সাহায্যে একটি গোলীয় তলের বক্রতা ব্যাসার্ধ নির্ণয় করার সময় h ও d এর মান পাওয়া গেল যথাক্রমে [math](0.140 \\ pm[/math] [math]0.001) \\mathrm{cm}[/math] এবং [math](3.4 \\pm 0.1) \\mathrm{cm}[/math]। গোলীয় তলের ব্যাসার্ধ নির্ণয় করো এবং ব্যাসার্ধ নির্ণয়ে সর্বোচ্চ ত্রুটি কত?",
+        "solution": "(Answer : 6.567%, 13.83 cm)এখানে,[math]\\begin{array}{l}D=(3.4 \\pm 0.1) \\mathrm{cm} \\\\h=(0.14 \\pm 0.001) \\mathrm{cm}\\end{array}[/math]\u003Cbr\u003Eগোলীয় তলের ব্যাসার্ধ = Rআমরা জানি,[math]R=\\frac{D^{2}}{6 h}+\\frac{h}{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]R=R_{1}+R_{2}\\left[R_{1}=\\frac{D^{2}}{6 h}\\right.[/math]\u003Cbr\u003E এবং [math]\\left.R_{2}=\\frac{h}{2}\\right][/math]\u003Cbr\u003Eএখন,[math]\\frac{d R_{1}}{R_{1}}=2 \\frac{d D}{D}+\\frac{d h}{h}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]d R_{1}=\\left(2 \\frac{d D}{D}+\\frac{d h}{h}\\right) R_{1}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]d_{R_{1}}=\\left(2 \\frac{d D}{D}+\\frac{d h}{h}\\right) \\frac{D^{2}}{6 h} \\ldots \\text { (i) }[/math]\u003Cbr\u003Eআবার,[math]\\mathrm{R}_{2}=\\frac{\\mathrm{h}}{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{dR}_{2}=\\frac{\\mathrm{dh}}{\\mathrm{h}} \\mathrm{R}_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{dR}_{2}=\\frac{\\mathrm{dh}}{\\mathrm{h}}\\left(\\frac{\\mathrm{h}}{2}\\right) \\ldots \\text { (ii) }[/math]\u003Cbr\u003E(i) ও (ii) যোগ করে,[math]\\begin{aligned}& d R_{1}+d R_{2}=d\\left(R_{1}+R_{2}\\right) \\\\\\Rightarrow & d R=\\left(2 \\frac{d D}{D}+\\frac{d h}{h}\\right) \\frac{D^{2}}{6 h}+\\frac{d h}{h}\\left(\\frac{h}{2}\\right)\\end{aligned}[/math]\u003Cbr\u003E [math]\\begin{aligned}\\therefore \\frac{\\mathrm{dR}}{\\mathrm{R}} & =\\frac{1}{\\frac{\\mathrm{D}^{2}}{6 h}+\\frac{\\mathrm{h}}{2}}\\left[\\left(2 \\frac{\\mathrm{dD}}{\\mathrm{D}}+\\frac{\\mathrm{dh}}{\\mathrm{h}}\\right) \\frac{\\mathrm{D}^{2}}{6 \\mathrm{~h}}+\\frac{\\mathrm{dh}}{\\mathrm{h}}\\left(\\frac{\\mathrm{h}}{2}\\right)\\right] \\\\& =0.06567=6.567 \\% \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003Eআবার,[math]\\mathrm{R}=\\frac{\\mathrm{D}^{2}}{6 \\mathrm{~h}}+\\frac{\\mathrm{h}}{2}=\\left(\\frac{(3.4)^{2}}{6 \\times 0.14}+\\frac{0.14}{2}\\right) \\mathrm{cm}=13.83 \\mathrm{~cm} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "গোলীয় তলের জন্য [math]R = \\dfrac{h}{2}+\\dfrac{r^2}{2h}[/math] এবং তিন ভাজের অন্তর্গত বৃত্তের ব্যাসার্ধ [math]r = d/\\sqrt{3}[/math] হওয়ায় [math]R = \\dfrac{h}{2}+\\dfrac{d^2}{6h}[/math]। তাই [math]R = \\dfrac{0.140}{2}+\\dfrac{3.4^2}{6\\times0.140}\\approx 13.83\\ \\mathrm{cm}[/math]। ত্রুটি জন্য রৈখিক প্রোপাগেশন ব্যবহার করলে [math]\\partial R/\\partial h=1/2-\\dfrac{d^2}{6h^2}\\approx -97.8,\\quad \\partial R/\\partial d=\\dfrac{d}{3h}\\approx 8.10[/math] এবং সর্বোচ্চ ত্রুটি [math]\\Delta R\\approx |{-97.8}|\\times0.001+8.10\\times0.1\\approx0.91\\ \\mathrm{cm}[/math]। অতএব ফলাফল [math]R=(13.8\\pm0.9)\\ \\mathrm{cm}[/math] (সর্বোচ্চ ত্রুটি)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 394492,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:19:43.000000Z",
+            "updated_at": "2025-08-19T05:19:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394491,
+      "value": {
+        "options": {
+          "ঘ": "মারুফ স্ফেরোমিটার দ্বারা বক্রতার ব্যাসার্ধ নির্ণয়ে কী কী সতর্কতা অবলম্বন করেছিল- আলোচনা কর।"
+        },
+        "question": "1 mm পিচবিশিষ্ট একটি স্ফেরোমিটারের বৃত্তাকার স্কেলের ভাগ সংখ্যা 100। মারুফ স্ফেরোমিটারটির সাহায্যে একটি অবতল লেন্সের উচ্চতা পরিমাপ করে গড় উচ্চতা পেল 5.32 cm এবং একটি সমতল কাচ প্লেটের উচ্চতা পেল 0.25cm। স্ফেরোমিটারটির তিন পায়ের মধ্যবর্তী দূরত্ব যথাক্রমে 6.3 cm, 6.4 cm ও 6.2 cm ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eমারুফের অবলম্বনকৃত সতর্কতাসমূহ নিচে আলোচনা করা হলো—১. যন্ত্রে যান্ত্রিক ত্রুটি আছে কি-না তা পরীক্ষা করেছে।২. স্কুর শীর্ষ একই দিকে ঘুরিয়ে পিছট ত্রুটি পরিহার করা হয়েছে।৩. পাঠ নেওয়ার সময় লম্বন ত্রুটি যেন না হয় সেদিকে লক্ষ রাখা হয়েছে।৪. রৈখিক স্কেলের ক্ষুদ্রতম ঘরের মান, যন্ত্রের পিচ এবং লঘিষ্ঠ গণন সতর্কতার সাথে নির্ণয় করা হয়েছে।৫. রৈখিক স্কেল ও বৃত্তাকার স্কেলের পাঠ সতর্কতার সাথে নির্ণয় করা হয়েছে।৬. যন্ত্রের দুটি স্কুর প্রান্তবিন্দু ও তিনটি পা বক্রতলে এবং কাচপাত্রের তল আলতোভাবে স্পর্শ করেছে কি-না তা সতর্কতার সাথে লক্ষ করা হয়েছে।৭. যন্ত্রের দুটি পায়ের দূরত্ব কাঁটা কম্পাস ও স্কেলের সাহায্যে সূক্ষ্মভাবে মাপা হয়েছে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E স্ফেরোমিটার দিয়ে বক্রতার ব্যাসার্ধ মাপার সময় প্রথমে শূন্যপদ ঠিক করা (সমতল কাচ প্লেটে স্কেল শূন্য করা), তিন পা সমতলে মজবুতভাবে বসানো এবং স্ফেরোমিটারটি লেন্সের ওপর লম্বভাবে রাখার ব্যবস্থা নিতে হবে যাতে টিল্ট না থাকে। পরিমাপের সময় প্যারাল্যাক্স এড়াতে চোখ স্তরের সাথে স্কেল মিলিয়ে একাধিক নথি নিয়ে গড় নিতে হবে এবং পায়ের মধ্যবর্তী দূরত্ব ও স্কেল ক্যালিব্রেশন সঠিক আছে কি না যাচাই করতে হবে। তাপমাত্রা পরিবর্তন ও যন্ত্রের ঢিলা অংশ থাকলে ভুল বেশি হয়, তাই নিয়ন্ত্রিত পরিবেশে এবং ভাল কন্ডিশনের যন্ত্র ব্যবহার করা উচিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 394491,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:19:43.000000Z",
+            "updated_at": "2025-08-19T05:19:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394490,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের অবতল লেন্সটির বক্রতার ব্যাসার্ধ নির্ণয় কর।"
+        },
+        "question": "1 mm পিচবিশিষ্ট একটি স্ফেরোমিটারের বৃত্তাকার স্কেলের ভাগ সংখ্যা 100। মারুফ স্ফেরোমিটারটির সাহায্যে একটি অবতল লেন্সের উচ্চতা পরিমাপ করে গড় উচ্চতা পেল 5.32 cm এবং একটি সমতল কাচ প্লেটের উচ্চতা পেল 0.25cm। স্ফেরোমিটারটির তিন পায়ের মধ্যবর্তী দূরত্ব যথাক্রমে 6.3 cm, 6.4 cm ও 6.2 cm ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক অনুসারে, স্ফেরোমিটারের তিন পায়ের মধ্যবর্তী দূরত্ব,[math]=6.3 \\mathrm{~cm}, \\mathrm{~d}_{2}=6.4 \\mathrm{~cm}[/math]\u003Cbr\u003E এবং [math]\\mathrm{d}_{3}=6.2 \\mathrm{~cm}[/math]\u003Cbr\u003E।লেন্সের গড় উচ্চতা পাঠ, H = 5.32 cmস্ফেরোমিটারটিতে ত্রুটি, e = 0.25 cm[math]\\therefore[/math]\u003Cbr\u003E লেন্সের বক্রতলের উচ্চতা,[math]\\begin{aligned}\\mathrm{h}=\\mathrm{H}-\\mathrm{e} & =(5.32-0.25) \\mathrm{cm} \\\\& =5.07 \\mathrm{~cm}\\end{aligned}[/math]\u003Cbr\u003Eস্ফোরোমিটারের তিন পায়ের মধ্যবর্তী গড় দূরত্ব,[math]\\begin{aligned}\\mathrm{d} & =\\frac{\\mathrm{d}_{1}+\\mathrm{d}_{2}+\\mathrm{d}_{2}}{2} \\\\& =\\frac{6.3+6.4+6.2}{3} \\mathrm{~cm} \\\\& =6.3 \\mathrm{~cm}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E লেন্সটির বক্রতার ব্যাসার্ধ ,[math]\\begin{aligned}\\mathrm{R}=\\frac{\\mathrm{d}^{2}}{6 \\mathrm{~h}}+\\frac{\\mathrm{h}}{2}= & \\left(\\frac{6.3^{2}}{6 \\times 5.07}+\\frac{5.07}{2}\\right) \\mathrm{cm} \\\\& =3.84 \\mathrm{~cm}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের অবতল লেন্সটির বক্রতার ব্যাসার্ধ 3.84 cm (Ans.)",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমাধান: তিন পায়ের ত্রিভুজের পার্শ্বগুলোর জন্য সেমিপেরিমিটার [math]s=9.45\\ \\text{cm}[/math], এলাকা Δ≈[math]17.1785\\ \\text{cm}^2[/math] থেকে পায়ের বৃত্তের কৌণিক ব্যাসার্ধ পাওয়া যায় [math]a=\\dfrac{6.3\\times6.4\\times6.2}{4\\Delta}\\approx3.639\\ \\text{cm}[/math]. স্ফেরোমিটারের মাধ্যমে কনকেভ লেন্সের সাগিটা (height) হলো [math]h=5.32-0.25=5.07\\ \\text{cm}[/math], এবং বক্রতার ব্যাসার্ধ সূত্রটি হচ্ছে [math]R=\\dfrac{a^2}{6h}+\\dfrac{h}{2}[/math]; তাই [math]R=\\dfrac{(3.639)^2}{6\\times5.07}+\\dfrac{5.07}{2}\\approx2.97\\ \\text{cm}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 394490,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:19:43.000000Z",
+            "updated_at": "2025-08-19T05:19:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394489,
+      "value": {
+        "options": {
+          "ঘ": "অতিরিক্ত 10 g ভরের জন্য সূচক কাঁটার স্থিতিবিন্দুর পরিবর্তন 8 হলে বস্তুর প্রকৃত ভর নির্ণয় কর।"
+        },
+        "question": "পদার্থবিজ্ঞান ব্যবহারিক ক্লাসে শিক্ষক তোমাকে একটি ধাতব গোলকের খণ্ডাংশ দিলেন এবং স্ফেরোমিটার ব্যবহার করে এর বক্রতার ব্যাসার্ধ নির্ণয় করতে বললেন। তুমি যে স্ফেরোমিটার ব্যবহার করলে তার দুটি পায়ের মধ্যবর্তী দূরত্ব 8 cm দোলন পদ্ধতিতে ভর নির্ণয়ের সময় ডান পাল্লায় 100 g রেখে স্থির বিন্দুর অবস্থানের পার্থক্য 30 পেলে, নিম্নলিখিত প্রশ্নের উত্তর দাও।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপ্ৰশ্নমতে,অতিরিক্ত 10g ভরের জন্য সূচক কাঁটার স্থিতিবিন্দুর পরিবর্তন ৪অর্থাৎ স্থিতিবিন্দুর একভাগ সংখ্যা পরিবর্তনের জন্য ওজনের পরিবর্তনহবে [math]=\\frac{10 \\mathrm{~g}}{8}=1.25 \\mathrm{~g}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E স্থিতিবিন্দুর 30 ভাগ সংখ্যা পরিবর্তনের জন্য ওজনের পরিবর্তনহবে [math]=1.25 \\mathrm{~g} \\times 30=37.5 \\mathrm{~g}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E বস্তুর প্রকৃত ভর [math]=100 \\mathrm{~g}+37.5 \\mathrm{~g}=137.5 \\mathrm{~g}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E  \nব্যাখ্যা: অতিরিক্ত [math]10\\ \\text{g}[/math] এ সূচক কাঁটার পরিবর্তন [math]8[/math] পেলে এক পেলের মান হচ্ছে [math]\\dfrac{10}{8}=1.25\\ \\text{g}[/math]; তাই [math]30[/math] পেলের পরিবর্তন entsprechen করে [math]30\\times1.25=37.5\\ \\text{g}[/math]. সুতরাং বস্তুর প্রকৃত ভর = [math]100+37.5=137.5\\ \\text{g}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 394489,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:19:43.000000Z",
+            "updated_at": "2025-08-19T05:19:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394488,
+      "value": {
+        "options": {
+          "গ": "স্ফেরোমিটারের পা তিনটির সমতল থেকে বক্রতলের উচ্চতা 1.1 cm হলে গোলকের খণ্ডাংশের বক্রতার ব্যাসার্ধ কত?"
+        },
+        "question": "পদার্থবিজ্ঞান ব্যবহারিক ক্লাসে শিক্ষক তোমাকে একটি ধাতব গোলকের খণ্ডাংশ দিলেন এবং স্ফেরোমিটার ব্যবহার করে এর বক্রতার ব্যাসার্ধ নির্ণয় করতে বললেন। তুমি যে স্ফেরোমিটার ব্যবহার করলে তার দুটি পায়ের মধ্যবর্তী দূরত্ব 8 cm দোলন পদ্ধতিতে ভর নির্ণয়ের সময় ডান পাল্লায় 100 g রেখে স্থির বিন্দুর অবস্থানের পার্থক্য 30 পেলে, নিম্নলিখিত প্রশ্নের উত্তর দাও।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,ব্যবহৃত স্ফেরোমিটারের যেকোনোদুটি পায়ের গড় দূরত্ব d = 8 cmপা তিনটির সমতল থেকে বক্রতলের উচ্চতা, h =1.1 cmবের করতে হবে, গোলকের খণ্ডাংশের বক্রতার ব্যসার্ধ, R = ?আমরা জানি,[math]\\begin{aligned}\\mathrm{R} & =\\frac{\\mathrm{d}^{2}}{6 \\mathrm{~h}}+\\frac{\\mathrm{h}}{2} \\\\& =\\frac{(8 \\mathrm{~cm})^{2}}{6 \\times 1.1 \\mathrm{~cm}}+\\frac{1.1 \\mathrm{~cm}}{2} \\\\& =10.247 \\mathrm{~cm} \\text { (Ans.) }\\end{aligned}[/math]",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E তিন পায়ের মধ্যবর্তী দূরত্ব [math]a=8\\ \\text{cm}[/math] হলে কেন্দ্র থেকে প্রতিটি পায়ের দূরত্ব [math]l=\\dfrac{a}{\\sqrt{3}}=\\dfrac{8}{\\sqrt{3}}\\ \\text{cm}[/math] এবং গোলকের ব্যাসার্ধের সূত্রটি [math]R=\\dfrac{l^2+h^2}{2h}[/math]. এখানে [math]h=1.1\\ \\text{cm}[/math], তাই [math]l^2=\\dfrac{64}{3}[/math] এবং [math]R=\\dfrac{64/3+1.21}{2\\times1.1}\\approx10.25\\ \\text{cm}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 394488,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:19:43.000000Z",
+            "updated_at": "2025-08-19T05:19:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394487,
+      "value": {
+        "options": [],
+        "question": "একটি স্ফেরোমিটারে চক্রাকার স্কেলের ভাগ সংখ্যা 250টি এবং চক্রাকার স্কেলের একবার পূর্ণ ঘূর্ণনে এটি রৈখিক স্কেল বরাবর 0.62 5cm অতিক্রম করে। স্ফেরোমিটারটির লঘিষ্ঠ গণন নির্ণয় করো।",
+        "solution": "(Answer : [math]2.5 \\times 10^{-3} \\mathrm{~cm}[/math]\u003Cbr\u003E)দেওয়া আছে,চক্রাকার স্কেলের ভাগসংখ্যা = 250পিচ = 0.625 cmলঘিষ্ঠ গণন = ?আমরা জানি,\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-11-panjeri-2-014_1755580783_cOftnWLv.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\begin{array}{l}=\\frac{0.625}{250} \\mathrm{~cm} \\\\=2.5 \\times 10^{-3} \\mathrm{~cm} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: স্ফেরোমিটারের লঘিষ্ঠ গণন = [math]\\dfrac{\\text{pitch}}{\\text{চক্রাকার স্কেলের ভাগ সংখ্যা}}[/math] এবং এখানে pitch = [math]0.625\\ \\text{cm}[/math], ভাগ সংখ্যা = 250, সুতরাং লঘিষ্ঠ গণন = [math]\\dfrac{0.625}{250}=0.0025\\ \\text{cm}=0.025\\ \\text{mm}=25\\ \\mu\\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 394487,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:19:43.000000Z",
+            "updated_at": "2025-08-19T05:19:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394477,
+      "value": {
+        "options": {
+          "ক": "0.2 cm",
+          "খ": "0.02 cm",
+          "গ": "0.002 cm",
+          "ঘ": "0.0002 cm"
+        },
+        "question": "একটি স্ফেরোমিটারের বৃত্তাকার স্কেলের ভাগ সংখ্যা 50। বৃত্তাকার স্কেলটি একবার ঘুরালে এটি রেখিক স্কেল বরাবর 1 mm দূরত্ব অতিক্রম করে। স্ফেরোমিটারটির লঘিষ্ঠ গণন হবে—",
+        "solution": "স্ফেরোমিটারের লঘিষ্ঠ গণন নির্ণয়ের সূত্র হলো: লঘিষ্ঠ গণন = (পিচ) / (বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা)। এখানে পিচ হলো 1 mm বা 0.1 cm, এবং বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা হলো 50। সুতরাং, লঘিষ্ঠ গণন = 0.1 cm / 50 = 0.002 cm। লঘিষ্ঠ গণন হলো একটি যন্ত্রের ক্ষুদ্রতম পরিমাপ যা দিয়ে নির্ভুলভাবে মাপা যায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 394477,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394476,
+      "value": {
+        "options": {
+          "ক": "0.005 mm",
+          "খ": "0.001 mm",
+          "গ": "0.01 mm",
+          "ঘ": "0.03 mm"
+        },
+        "question": "স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবকের মান 0.02 mm হলে নিচের কোন বেধটি নির্ভুলভাবে মাপা যাবে?",
+        "solution": "স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক হলো যন্ত্রটির সাহায্যে সর্বনিম্ন যে দূরত্ব নির্ভুলভাবে মাপা যায়। এখানে লঘিষ্ঠ ধ্রুবকের মান 0.02 mm দেওয়া আছে। তাই যে বেধটি এই মানের সমান বা তার বেশি, সেটিই নির্ভুলভাবে মাপা যাবে। বিকল্পগুলির মধ্যে 0.03 mm হলো লঘিষ্ঠ ধ্রুবকের চেয়ে বড়, তাই এটি নির্ভুলভাবে মাপা যাবে। অন্যান্য বিকল্পগুলির মান লঘিষ্ঠ ধ্রুবকের চেয়ে কম হওয়ায় সেগুলি নির্ভুলভাবে মাপা সম্ভব নয়। স্ফেরোমিটার সাধারণত খুব ছোট বক্রতার ব্যাসার্ধ বা বস্তুর পুরুত্ব মাপতে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 394476,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394478,
+      "value": {
+        "options": {
+          "ক": "[math]R=\\frac{d}{h}+\\frac{h}{2}[/math]",
+          "খ": "[math]R=\\frac{d^{2}}{2}+\\frac{h}{2}[/math]",
+          "গ": "[math]R=\\frac{d^{2}}{6 h}+\\frac{h}{2}[/math]",
+          "ঘ": "[math]R=\\frac{d^{2}}{12}+\\frac{h^{2}}{d}[/math]"
+        },
+        "question": "কোনো গোলীয় তলের বক্রতার ব্যাসার্ধ নির্ণয় করার জন্য কোন সমীকরণটি ব্যবহৃত হয়?",
+        "solution": "এই সমীকরণটি গোলীয় তলের বক্রতার ব্যাসার্ধ (R) নির্ণয় করতে ব্যবহৃত হয়, যেখানে 'd' হলো তলের দৈর্ঘ্যের একটি অংশ এবং 'h' হলো সেই অংশের মধ্যবিন্দু থেকে তলের পৃষ্ঠের সর্বোচ্চ উচ্চতা। এই সমীকরণটি একটি বৃত্তের জ্যা (chord) এবং তার থেকে উৎপন্ন বৃত্তাংশ (segment) এর উচ্চতার সম্পর্ক থেকে উদ্ভূত হয়েছে। এখানে, ব্যাসার্ধ নির্ণয়ের জন্য তলের জ্যা এর দৈর্ঘ্য এবং বৃত্তাংশটির উচ্চতা ব্যবহার করা হয়। এটি অপটিক্সে লেন্স এবং দর্পণের বক্রতা নির্ণয়ে কাজে লাগে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 394478,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394479,
+      "value": {
+        "options": {
+          "ক": "0.005 mm",
+          "খ": "0.001 mm",
+          "গ": "0.01 mm",
+          "ঘ": "0.03 mm"
+        },
+        "question": "স্ফেরোমিটারের লঘিষ্ঠ গণনের মান 0.02 mm হলে নিচের কোন বেধটি নির্ভুলভাবে মাপা যাবে?",
+        "solution": "স্ফেরোমিটারের লঘিষ্ঠ গণন (least count) হলো একটি যন্ত্রের সাহায্যে নির্ভুলভাবে যে ক্ষুদ্রতম পরিমাপ নেওয়া সম্ভব। এখানে লঘিষ্ঠ গণন 0.02 mm দেওয়া আছে। এর অর্থ হলো, স্ফেরোমিটারের সাহায্যে 0.02 mm বা তার চেয়ে বড় কোনো বেধ নির্ভুলভাবে মাপা যাবে। বিকল্পগুলির মধ্যে শুধুমাত্র 0.03 mm এই শর্ত পূরণ করে। 0.005 mm, 0.001 mm, এবং 0.01 mm এই তিনটি মানই 0.02 mm-এর চেয়ে ছোট, তাই স্ফেরোমিটার দিয়ে এগুলোকে নির্ভুলভাবে মাপা সম্ভব নয়। স্ফেরোমিটার সাধারণত গোলাকার বা বক্রতলের ব্যাসার্ধ নির্ণয়ে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 394479,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394480,
+      "value": {
+        "options": {
+          "ক": "লঘিষ্ঠ গণন",
+          "খ": "ভার্নিয়ার ধ্রুবক",
+          "গ": "পিচ",
+          "ঘ": "খণ্ডাংশ"
+        },
+        "question": "একটি স্ফেরোমিটারের বৃত্তাকার স্কেলটি সম্পূর্ণ একবার ঘুরালে এটি রৈখিক স্কেল বরাবর যে দূরত্ব অতিক্রম করে তাকে কী বলে?",
+        "solution": "স্ফেরোমিটারের বৃত্তাকার স্কেলটি সম্পূর্ণ একবার ঘুরালে রৈখিক স্কেল বরাবর যে দূরত্ব অতিক্রম করে তাকে পিচ (Pitch) বলে। স্ফেরোমিটারের পিচ হলো এর যন্ত্রাংশের প্রধান বৈশিষ্ট্য যা যন্ত্রটির সূক্ষ্মতা নির্ধারণ করে। লঘিষ্ঠ গণন (Least Count) হলো স্ফেরোমিটারের সাহায্যে পরিমাপ করা ক্ষুদ্রতম মান, যা পিচ এবং বৃত্তাকার স্কেলের ভাগের সংখ্যার উপর নির্ভর করে। ভার্নিয়ার ধ্রুবক (Vernier Constant) সাধারণত ভার্নিয়ার স্কেলের ক্ষেত্রে প্রযোজ্য, যা এই যন্ত্রে ব্যবহৃত হয় না। খণ্ডাংশ (Fraction) একটি সাধারণ শব্দ এবং যন্ত্রাংশের পরিমাপের ক্ষেত্রে এর নির্দিষ্ট কোনো সংজ্ঞা নেই।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 394480,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394481,
+      "value": {
+        "options": {
+          "ক": "[math]2.5 \\times 10^{-2} \\mathrm{~cm}[/math]",
+          "খ": "[math]2.5 \\times 10^{-3} \\mathrm{~cm}[/math]",
+          "গ": "[math]4 \\times 10^{-1} \\mathrm{~cm}[/math]",
+          "ঘ": "[math]2.5 \\times 10^{-4} \\mathrm{~cm}[/math]"
+        },
+        "question": "একটি স্ফেরোমিটারে চক্রাকার স্কেলের ভাগ সংখ্যা 250টি এবং চক্রাকার স্কেলের একবার পূর্ণ ঘূর্ণনে একটি রৈখিক স্কেল বরাবর 0.625cm অতিক্রম করে। স্ফেরোমিটারটির লঘিষ্ঠ গণন হবে:",
+        "solution": "স্ফেরোমিটারের লঘিষ্ঠ গণন নির্ণয়ের জন্য, চক্রাকার স্কেলের একটি ভাগের মান জানতে হবে। এটি বের করতে, রৈখিক স্কেল বরাবর একবার পূর্ণ ঘূর্ণনে অতিক্রান্ত দূরত্বকে চক্রাকার স্কেলের মোট ভাগ সংখ্যা দিয়ে ভাগ করতে হবে।ধাপ 1: একবার পূর্ণ ঘূর্ণনে রৈখিক স্কেল বরাবর অতিক্রান্ত দূরত্ব = 0.625 cmধাপ 2: চক্রাকার স্কেলের মোট ভাগ সংখ্যা = 250লঘিষ্ঠ গণন = (রৈখিক স্কেল বরাবর অতিক্রান্ত দূরত্ব) / (চক্রাকার স্কেলের মোট ভাগ সংখ্যা)লঘিষ্ঠ গণন = [math]0.625 \\mathrm{~cm} / 250[/math]\u003Cbr\u003Eগণনা:[math]0.625 / 250 = 0.0025 \\mathrm{~cm}[/math]\u003Cbr\u003Eএখন, এটিকে বৈজ্ঞানিক পদ্ধতিতে প্রকাশ করলে হয়:[math]0.0025 \\mathrm{~cm} = 2.5 \\times 10^{-3} \\mathrm{~cm}[/math]\u003Cbr\u003Eস্ফেরোমিটারের লঘিষ্ঠ গণন হলো যন্ত্রটি দিয়ে মাপা সম্ভব ক্ষুদ্রতম দূরত্ব। এই মানটি যন্ত্রটির নির্ভুলতা নির্দেশ করে। এটি সাধারণত পisać বা স্ক্রু-গজের মতো যন্ত্রগুলিতেও ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 394481,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394482,
+      "value": {
+        "options": {
+          "ক": "[math]2.5 \\times 10^{-2} \\mathrm{~cm}[/math]",
+          "খ": "[math]2.5 \\times 10^{-3} \\mathrm{~cm}[/math]",
+          "গ": "[math]2.5 \\times 10^{-4} \\mathrm{~cm}[/math]",
+          "ঘ": "[math]4 \\times 10^{-4} \\mathrm{~cm}[/math]"
+        },
+        "question": "একটি স্ফেরোমিটারের চাকতির পরিধি বরাবর 250টি সমান ভাগ দাগাঙ্কিত আছে। চাকতিটির একটি পূর্ণ ঘূর্ণনে প্রধান স্কেল বরাবর এটি 0.0625cm অগ্রসর হয়। স্ফেরোমিটারটির লঘিষ্ঠ গণন–",
+        "solution": "স্ফেরোমিটারের লঘিষ্ঠ গণন নির্ণয়ের জন্য সূত্রটি হলো:লঘিষ্ঠ গণন = পিচ / চাকতির দাগ সংখ্যাএখানে,পিচ (প্রধান স্কেল বরাবর একটি পূর্ণ ঘূর্ণনে অগ্রসর হওয়া দূরত্ব) = 0.0625 cmচাকতির দাগ সংখ্যা = 250সুতরাং,লঘিষ্ঠ গণন = 0.0625 cm / 250লঘিষ্ঠ গণন = 0.00025 cmলঘিষ্ঠ গণন = [math]2.5 \\times 10^{-4}[/math]\u003Cbr\u003E cmএইভাবে, স্ফেরোমিটারটির লঘিষ্ঠ গণন হলো [math]2.5 \\times 10^{-4}[/math]\u003Cbr\u003E cm। লঘিষ্ঠ গণন হলো একটি যন্ত্রের সাহায্যে পরিমাপ করা সর্বনিম্ন যে মানটি নির্ভুলভাবে নির্ণয় করা যায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 394482,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394483,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি বক্রতলের ব্যাসার্ধ নির্ণয়ের জন্য ব্যবহার করা হয় –\n\ni. স্ক্রুগজ-গজ\n\nii. স্ফেরোমিটার\n\niii. স্লাইড ক্যালিপার্স\n\nনিচের কোনটি সঠিক?",
+        "solution": "একটি বক্রতলের ব্যাসার্ধ নির্ণয়ের জন্য স্ফেরোমিটার ব্যবহার করা হয়। স্ক্রুগজ-গজ প্রধানত ক্ষুদ্র দৈর্ঘ্য বা পুরুত্ব নির্ভুলভাবে মাপার জন্য ব্যবহৃত হয় এবং স্লাইড ক্যালিপার্সও সাধারণ দৈর্ঘ্য মাপার জন্য ব্যবহৃত হয়। স্ফেরোমিটার একটি বিশেষ যন্ত্র যা বক্রতলের বক্রতা পরিমাপ করে এবং সেখান থেকে বক্রতলের ব্যাসার্ধ নির্ণয় করা যায়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 394483,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394484,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বক্রতলের ব্যাসার্ধ নির্ণয়ের জন্য ব্যবহৃত হয়—\n\n[math]\\hspace{1.2 cm}[/math]i. গজ\n\n[math]\\hspace{1.2 cm}[/math]ii. স্ফেরোমিটার\n\n[math]\\hspace{1.2 cm}[/math]iii. স্লাইড ক্যালিপার্স\n\nনিচের কোনটি সঠিক?",
+        "solution": "বক্রতলের ব্যাসার্ধ নির্ণয়ের জন্য সাধারণত স্ফেরোমিটার ব্যবহার করা হয়। এটি একটি নির্ভুল যন্ত্র যা পৃষ্ঠের বক্রতা পরিমাপ করতে পারে। গজ বা স্লাইড ক্যালিপার্স মূলত সরলরেখিক দূরত্ব বা ব্যাস পরিমাপের জন্য ব্যবহৃত হয়।স্ফেরোমিটারের কার্যপ্রণালী বেশ সরল। এর কেন্দ্রে একটি স্ক্রু থাকে যা একটি স্কেল এবং একটি ভার্নিয়ার স্কেল দ্বারা পরিবেষ্টিত। স্ক্রুটিকে বক্রতলের উপর রেখে ধীরে ধীরে ঘোরানো হয় যতক্ষণ না স্ক্রুর ডগা পৃষ্ঠকে স্পর্শ করে। এই স্পর্শবিন্দুতে স্ক্রুর পাঠ নেওয়া হয়। এরপর স্ক্রুটিকে এমনভাবে ঘোরানো হয় যেন এর তিনটি পায়া বক্রতলের উপর সমানভাবে বসে এবং কেন্দ্রীয় স্ক্রুটির ডগা আবার পৃষ্ঠকে স্পর্শ করে। তখন স্ক্রুটির নতুন পাঠ নেওয়া হয়। দুটি পাঠের পার্থক্য থেকে পৃষ্ঠের বক্রতার গভীরতা নির্ণয় করা যায়, যা থেকে বক্রতলের ব্যাসার্ধ গণনা করা সম্ভব।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 394484,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3511,
+          "full_name": "Patuakhali Government Mahila College",
+          "short_name": "PGMC",
+          "slug": "pgmc",
+          "pivot": {
+            "question_bank_id": 394484,
+            "tag_id": 3511,
+            "year": "2022",
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394485,
+      "value": {
+        "options": [],
+        "question": "কোনো স্ফেরোমিটারের দুটি পায়ের মধ্যবর্তী গড় দূরত্ব 4 cm । যন্ত্রের পীচ 1 mm ও বৃত্তাকার স্কেলের ভাগসংখ্যা 100। সমতলে পা ঠ নির্ণয়ে রৈখিক স্কেল ও বৃত্তাকার স্কেলের গড় মান পাওয়া যায় 1 ও 47। আবার বক্রতলে গড় মানগুলো হয় যথাক্রমে 0 ও 62। পরিমাপ্য তলের বক্রতার ব্যাসার্ধ নির্ণয় করো।",
+        "solution": "(Answer : 39.834 cm)এখানে ,স্ফেরোমিটারের যে কোনো দুটি পায়ের মধ্যবর্তী গড় দূরত্ব d= 4 cmযন্ত্রের পীচ s = 1 mm = 0.1 cmবৃত্তাকার স্কেলের ভাগসংখ্যা, n = 100[math]\\therefore[/math]\u003Cbr\u003E লঘিষ্ঠ গণন, [math]\\text { L.C }=\\frac{s}{n}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{1}{100} \\cdot \\mathrm{mm} \\\\=0.01 \\mathrm{~mm} \\\\=0.001 \\mathrm{~cm}\\end{array}[/math]\u003Cbr\u003Eসমতলে পাঠ নির্ণয় :রৈখিক স্কেল পাঠ = – 1বৃত্তাকার স্কেল পাঠ = 47[math]\\therefore[/math]\u003Cbr\u003E সমতলে পাঠ, [math]\\begin{aligned}\\mathrm{H}_{1} & =-1 \\times \\mathrm{s}+47 \\times \\mathrm{L} . \\mathrm{C} \\\\& =(-1 \\times 0.1+47 \\times 0.001) \\mathrm{cm}=-0.053 \\mathrm{~cm}\\end{aligned}[/math]\u003Cbr\u003Eবক্রতলে পাঠ নির্ণয় :রৈখিক স্কেল পাঠ = 0বৃত্তাকার স্কেল পাঠ = 62[math]\\therefore[/math]\u003Cbr\u003E বক্রতলে পাঠ, [math]\\begin{aligned}\\mathrm{H}_{2} & =0 \\times \\mathrm{s}+62 \\times \\mathrm{L} . \\mathrm{C} \\\\& =(0 \\times 0.1+62 \\times 0.001) \\mathrm{cm}=0.062 \\mathrm{~cm}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{h}=\\left|\\mathrm{H}_{2}-\\mathrm{H}_{1}\\right|=|0.062-(-0.053)| \\mathrm{cm}=0.115 \\mathrm{~cm}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পরিমাপ্য তলের বক্রতার ব্যাসার্ধ, [math]\\begin{aligned}\\mathrm{R} & =\\frac{\\mathrm{d}^{2}}{6 \\mathrm{~h}}+\\frac{\\mathrm{h}}{2} \\\\& =\\left(\\frac{4^{2}}{6 \\times 0.115}+\\frac{0.115}{2}\\right)^{-} \\mathrm{cm} \\\\& =39.834 \\mathrm{~cm} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে লিস্ট কণ্ঠন (least count) [math]=\\dfrac{1\\ \\text{mm}}{100}=0.01\\ \\text{mm}[/math], সমতলে পড়া = [math]1+47\\times0.01=1.47\\ \\text{mm}[/math], বক্রতলে পড়া = [math]0+62\\times0.01=0.62\\ \\text{mm}[/math] থেকে সাগিটা (খাড়া উচ্চতা) [math]h=1.47-0.62=0.85\\ \\text{mm}=0.085\\ \\text{cm}[/math]. স্ফেরোমিটারের সূত্র হলো [math]R=\\dfrac{a^2}{6h}+\\dfrac{h}{2}[/math] যেখানে [math]a=4\\ \\text{cm}[/math], তাই [math]R=\\dfrac{4^2}{6\\times0.085}+\\dfrac{0.085}{2}\\approx31.42\\ \\text{cm}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 394485,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394486,
+      "value": {
+        "options": [],
+        "question": "একটি স্ফেরোমিটারের বৃত্তাকার স্কেলের মোট ভাগসংখ্যা 100 এবং বৃত্তাকার স্কেলকে সম্পূর্ণ একবার ঘুরালে রৈখিক স্কেল বরাবর 1 mm দূরত্ব অতিক্রম করে। স্ফেরোমিটারের যেকোনো দুই পায়ের মধ্যবর্তী দূরত্ব 52 mm স্ফেরোমিটারের সাহায্যে একটি উত্তল লেন্সের বক্রতলের উচ্চতা পাওয়া গেল 3.82mm । স্ফেরোমিটারের লঘিষ্ঠ গণন এবং উত্তল লেন্সের বক্রতার ব্যাসার্ধ নির্ণয় কর।",
+        "solution": "(Answer : 11.99 cm)এখানে,স্ক্রুর পিচ s= 1 mm= 0.001 mবৃত্তাকার স্কেলে ভাগসংখ্যা, n= 100স্ফেরোমিটারের যেকোনো দুই পায়ের দূরত্ব,[math]\\begin{aligned}\\mathrm{d} & =52 \\mathrm{~mm} \\\\& =52 \\times 10^{-3} \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eবক্রতলের উচ্চতা,[math]\\begin{aligned}\\mathrm{h} & =3.82 \\mathrm{~mm} \\\\& =3.82 \\times 10^{-3} \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eলঘিষ্ঠ গণন, L. C = ?লেন্সের বক্রতার ব্যাসার্ধ, R = ?আমরা জানি,লঘিষ্ঠ গণন,[math]\\begin{aligned}\\text { L.C. } & =\\frac{S}{\\eta} \\\\& =\\frac{1 \\mathrm{~mm}}{100}=0.01 \\mathrm{~mm} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003Eআবার ,[math]\\begin{aligned}\\mathrm{R} & =\\frac{\\mathrm{d}^{2}}{6 \\mathrm{~h}}+\\frac{\\mathrm{h}}{2} \\\\& =\\frac{(52 \\mathrm{~mm})^{2}}{6 \\times 3.82 \\mathrm{~mm}}+\\frac{3.82 \\mathrm{~mm}}{2} \\\\& =119.9 \\mathrm{~mm}=11.99 \\mathrm{~cm} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: স্ফেরোমিটারের লঘিষ্ঠ গণন হল একটি পুরো ঘূর্ণনে অতিক্রান্ত দৈর্ঘ্যকে মোট ভাগসংখ্যায় ভাগ করা, তাই [math]LC=\\dfrac{1\\ \\text{mm}}{100}=0.01\\ \\text{mm}[/math]। তিন পায়ের সমবাহু ত্রিভুজের পাশে [math]a=52\\ \\text{mm}[/math] হলে কেন্দ্র থেকে পায়ের দূরত্ব [math]r_0=\\dfrac{a}{\\sqrt{3}}[/math] এবং ব্যাসার্ধের সূত্রটি হচ্ছে [math]R=\\dfrac{h^2+r_0^2}{2h}=\\dfrac{h}{2}+\\dfrac{a^2}{6h}[/math]; এখানে [math]h=3.82\\ \\text{mm}[/math], ফলে [math]R=\\dfrac{3.82^2+52^2/3}{2\\times3.82}\\approx119.9\\ \\text{mm}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 394486,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394475,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "স্ফেরোমিটারের সাহায্যে–\n\ni. তারের ব্যাসার্ধ নির্ণয় করা যায়\n\nii. গোলীয় তলের বক্রতার ব্যাসার্ধ নির্ণয় করা যায়\n\niii. কোনো পাতলা পাতের পুরুত্ব নির্ণয় করা যায়\n\nনিচের কোনটি সঠিক?",
+        "solution": "স্ফেরোমিটারের সাহায্যে গোলীয় তলের বক্রতার ব্যাসার্ধ এবং পাতলা পাতের পুরুত্ব নির্ণয় করা যায়। এটি একটি অত্যন্ত সূক্ষ্ম যন্ত্র যা এই পরিমাপগুলিতে নির্ভুলতা প্রদান করে। যদিও এর নাম \"স্ফেরোমিটার\" (sphere meter) গোলকের সাথে সম্পর্কযুক্ত, এটি শুধুমাত্র গোলীয় তল নয়, যেকোনো ছোট বস্তুর পুরুত্ব মাপতেও ব্যবহার করা যেতে পারে, যেমন কাঁচের প্লেট বা ধাতব শীট। তবে, কোনো তারের ব্যাসার্ধ সরাসরি স্ফেরোমিটার দিয়ে নির্ণয় করা যায় না। তারের ব্যাসার্ধ মাপার জন্য স্ক্রু গেজ বা ভার্নিয়ার ক্যালিপারস বেশি উপযুক্ত।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 394475,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394474,
+      "value": {
+        "options": {
+          "ক": "স্ক্রু পিচ",
+          "খ": "লঘিষ্ঠ গণন",
+          "গ": "ভার্নিয়ার ধ্রুবক",
+          "ঘ": "খন্ডাংশ"
+        },
+        "question": "স্ফেরোমিটারের স্ক্রুকে এক পাক ঘুরানো হলে স্ক্রুটি রৈখিক স্কেল বরাবর যতটুকু দূরত্ব অতিক্রম করে তাকে কী বলে?",
+        "solution": "স্ফেরোমিটারের স্ক্রুকে একবার পূর্ণ আবর্তনে যে উল্লম্ব দূরত্ব অতিক্রম করে, তাকে স্ক্রু পিচ বলে। এটি স্ফেরোমিটারের নির্ভুলতা পরিমাপে ব্যবহৃত একটি গুরুত্বপূর্ণ বৈশিষ্ট্য। লঘিষ্ঠ গণন হল যন্ত্রটির ক্ষুদ্রতম পরিমাপযোগ্য মান, যা স্ক্রু পিচ এবং বৃত্তাকার স্কেলের ভাগের সংখ্যার উপর নির্ভর করে। ভার্নিয়ার ধ্রুবক সাধারণত ভার্নিয়ার ক্যালিপারে ব্যবহৃত হয়। খন্ডাংশ একটি সাধারণ শব্দ যা কোনো সম্পূর্ণ অংশের একটি অংশকে বোঝায়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 394474,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 394474,
+            "tag_id": 3506,
+            "year": "2022",
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394473,
+      "value": {
+        "options": {
+          "ক": "স্ফেরোমিটার",
+          "খ": "স্লাইড ক্যালিপার্স",
+          "গ": "স্ক্রু গেজ",
+          "ঘ": "ভার্নিয়ার স্কেল"
+        },
+        "question": "পাতলা পাতের পুরুত্ব এবং বক্রতলের ব্যাসার্ধ পরিমাপ করার যন্ত্রের নাম কী?",
+        "solution": "এই যন্ত্রটি পাতলা পাতের পুরুত্ব এবং বক্রতলের ব্যাসার্ধ নির্ভুলভাবে পরিমাপ করতে ব্যবহৃত হয়। স্ক্রু গেজ বা মাইক্রোমিটার দ্বারাও পাতলা বস্তুর পুরুত্ব মাপা যায়, তবে বিশেষভাবে বক্রতলের ব্যাসার্ধ পরিমাপের জন্য স্ফেরোমিটার অধিক উপযোগী। ভার্নিয়ার স্কেল বা স্লাইড ক্যালিপার্স সাধারণত বৃহত্তর দৈর্ঘ্য বা গভীরতা পরিমাপের জন্য ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 394473,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 58,
+          "full_name": "University of Rajshahi (A Unit)",
+          "short_name": "RU-A",
+          "slug": "ru-a",
+          "pivot": {
+            "question_bank_id": 394473,
+            "tag_id": 58,
+            "year": "17-18",
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394472,
+      "value": {
+        "options": {
+          "ক": "0.1 mm",
+          "খ": "0.01 mm",
+          "গ": "1.0 mm",
+          "ঘ": "0.05 mm"
+        },
+        "question": "একটি স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবকের মান 0.01mm হলে এর দ্বারা ক্ষুদ্রতম যে বেধ মাপা সম্ভব তা হল?",
+        "solution": "স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক হল এর দ্বারা মাপা সম্ভব ক্ষুদ্রতম পরিমাপ। যেহেতু লঘিষ্ঠ ধ্রুবকের মান 0.01mm দেওয়া আছে, তাই এর দ্বারা ক্ষুদ্রতম 0.01mm বেধ মাপা সম্ভব। এটি একটি যান্ত্রিক যন্ত্র যা গোলকের বক্রতা বা পাতলা বস্তুর পুরুত্ব পরিমাপ করতে ব্যবহৃত হয়। এর সূক্ষ্মতা নির্ভর করে এর প্রধান স্কেল, ভার্নিয়ার স্কেল এবং স্ক্রু-এর পিচের উপর।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 394472,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 60,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (A Unit",
+          "short_name": "BSMRSTU-A",
+          "slug": "bsmrstu-a",
+          "pivot": {
+            "question_bank_id": 394472,
+            "tag_id": 60,
+            "year": "19-20",
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394471,
+      "value": {
+        "options": {
+          "ক": "0.001 cm",
+          "খ": "0.01 cm",
+          "গ": "0.0001 cm",
+          "ঘ": "0.1 cm"
+        },
+        "question": "একটি স্ফেরোমিটারের পরিধি 100 টি সমান দাগে চিহ্নিত করা হয়েছে এবং গোলাকৃতি ক্ষেলের একটি পূর্ণ আবর্তনে প্রধান স্কেল 1 mm এগিয়ে যায়। স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক কত?",
+        "solution": "স্ফোরোমিটারের লঘিষ্ঠ ধ্রুবক,k=\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fpodartho20bicitra20hsc20admission20chap20120qs20120jua2021-22_1755580782_hxHtXnYs.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]=\\frac{0.01}{100} \\mathrm{~cm}=0.0001 \\mathrm{~cm}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 394471,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 394471,
+            "tag_id": 57,
+            "year": "21-22",
+            "created_at": "2025-08-19T05:19:42.000000Z",
+            "updated_at": "2025-08-19T05:19:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394458,
+      "value": {
+        "options": {
+          "ক": "0.01 mm",
+          "খ": "0.002 mm",
+          "গ": "0.003 mm",
+          "ঘ": "0.02 mm"
+        },
+        "question": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও।\n\nএকটি স্ফেরোমিটারের বৃত্তাকার স্কেলের ভাগ সংখ্যা [math]100[/math] এবং পীচ [math]1mm[/math]। স্ফেরোমিটারের তিন পায়ের মধ্যবর্তী গড় দূরত্ব [math]70.33 mm[/math]। যন্ত্রটির সাহায্যে একটি গোলীয় উত্তল তলের উচ্চতা পাওয়া গেল [math]8 mm[/math]।\n\nউক্ত স্ফেরোমিটারটি দিয়ে সর্বনিম্ন কত দূরত্ব মাপা যাবে?",
+        "solution": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20board2c20physics201st20paper2c20chapter-12c20riyel20roy2c20date-15-11-202420cq2c20serial20no-1_1755580781_mWfwzkGF.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{1 \\mathrm{~mm}}{100}=0.01 \\mathrm{~mm}[/math]\u003Cbr\u003Eতাই, সর্বনিম্ন [math]0.01 mm[/math]\u003Cbr\u003E পর্যন্ত মাপা যাবে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 394458,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394458,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 394458,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394459,
+      "value": {
+        "options": {
+          "ক": "[math]R=\\frac{d^{2}}{6 h}+\\frac{h}{2}[/math]",
+          "খ": "[math]R=\\frac{d^{2}}{6 h}-\\frac{h}{2}[/math]",
+          "গ": "[math]R=\\frac{d^{2}}{2 h}+\\frac{h}{6}[/math]",
+          "ঘ": "[math]R=\\frac{d^{2}}{2 h}-\\frac{h}{6}[/math]"
+        },
+        "question": "স্ফেরোমিটারের সাহায্যে কোনো গোলীয় তলের বক্রতার ব্যাসার্ধ নির্ণয়ের সমীকরণ কোনটি? (যেখানে রাশিগুলো প্রচলিত অর্থ বহন করে)",
+        "solution": "• স্ফেরোমিটারের সাহায্যে গোলীয় তলের বক্রতার ব্যাসার্ধ নির্ণয় করা হয়।• স্ফেরোমিটারের তিন পায়ায় মধ্যবর্তী গড় দূরত্ব, [math]d=[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{d}_{1}+\\mathrm{d}_{2}+\\mathrm{d}_{3}}{3}[/math]\u003Cbr\u003E• স্ফেরোমিটারের সাহায্যে নির্ণীত গোলীয় তলের বক্রতার ব্যাসার্ধ, [math]R=\\frac{d^{2}}{6 h}+\\frac{h}{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 394459,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394459,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 394459,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394460,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক হলো-\n\ni. স্ফেরোমিটারের ক্ষুদ্রতম যে দৈর্ঘ্য সঠিকভাবে পরিমাপ করতে পারে ।  \n\nii. বৃত্তাকার স্কেলকে একবার ঘুরালে রৈখিক স্কেল বরাবর যে সরণ হয়।\n\niii. স্ফেরোমিটারের পিচ এবং বৃত্তাকার স্কেলের ভাগসংখ্যার অনুপাত ।\n\nনিচের কোনটি সঠিক?",
+        "solution": "• স্ফেরোমিটার লঘিষ্ঠ গণনের সমপরিমাণ ক্ষুদ্রতম দৈর্ঘ্য সঠিকভাবে পরিমাপ করতে পারে।\n\n• বৃত্তাকার স্কেলকে একবার ঘুরালে রৈখিক স্কেল বরাবর যে দূরত্ব অতিক্রম করে তাকে পিচ বলে।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20board2c20physics201st20paper2c20chapter-12c20riyel20roy2c20date-15-11-202420cq2c20serial20no-2_1755580781_sYL7pZg7.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 394460,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394460,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 394460,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394461,
+      "value": {
+        "options": {
+          "ক": "75.276 mm",
+          "খ": "75.276 cm",
+          "গ": "71.645 mm",
+          "ঘ": "73.46 cm"
+        },
+        "question": "ব্যবহারিক ক্লাসে একজন ছাত্র অবতল তলের একতার ব্যাসার্ধ নির্ণয় কালে স্ফেরোমিটারের সাহায্যে সমতল ও অতল তলের রৈখিক স্কেলের পাঠ যথাক্রমে 9 mm ও 6 mm এবং বৃত্তাকার স্কেলের পাঠ যথাক্রমে 96 ও 33 পেল। বৃত্তাকার স্কেলের দাগ সংখ্যা 100 এবং তিন পায়ের মধ্যবর্তী গড় দূরত্ব 40 mm. অবতল তলের বক্রতার ব্যাসার্ধ কত? স্ফেরোমিটারের পীচ = 1 mm",
+        "solution": "[math]\\begin{array}{l}h=(9-6)+(96-33) \\times \\frac{1}{100}=3.63 \\mathrm{~mm}\\\\\\mathrm{R}=\\frac{\\mathrm{d}^{2}}{6 \\mathrm{~h}}+\\frac{\\mathrm{h}}{2}=\\frac{40^{2}}{6 \\times 3.63}+\\frac{3.63}{2}=75.276 \\mathrm{~mm}\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 394461,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394461,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 394461,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394462,
+      "value": {
+        "options": {
+          "ক": "0.005 mm",
+          "খ": "0.001 mm",
+          "গ": "0.02 mm",
+          "ঘ": "0.002 mm"
+        },
+        "question": "স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবকের মান 0.01 mm হলে, নিচের কোন বেধটি নির্ভুলভাবে মাপা যাবে?",
+        "solution": "স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবকের মান 0.01mm অর্থ হলো গোলাকার স্কেলের একঘর ঘুরালে রৈখিক স্কেলের 0.01mm অতিক্রম করে। অর্থাৎ স্ফেরোমিটারের সাহায্যে সর্বনিম্ন 0.01mm পর্যন্ত নির্ভুলভাবে পরিমাপ করা যাবে। উল্লিখিত অপশনসমূহের মধ্যে শুধুমাত্র 0.02mm লঘিষ্ঠ ধ্রুবক 0.01mm অপেক্ষা বৃহত্তর এবং এর মানের সরল গুণিতক। সুতরাং স্ফেরোমিটারটির সাহায্যে 0.02mm নির্ভুলভাবে মাপা যাবে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 394462,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394462,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 394462,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394463,
+      "value": {
+        "options": {
+          "ক": "50",
+          "খ": "100",
+          "গ": "150",
+          "ঘ": "200"
+        },
+        "question": "একটি স্ফেরোমিটার দ্বারা একটি কাঁচ পাতের পুরুত্ব পরিমাপকালে রৈখিক স্কেলের পাঠ 2 mm, বৃত্তাকার স্কেলের পাঠ 25, লঘিষ্ঠ গণন 0.01 mm এবং পিচ 0.5 mm.\n\nএ উদ্দীপক থেকে নিচের প্রশ্নের উত্তর দাও:\n\nস্ফেরোমিটারের বৃত্তাকার স্কেলের দাগ সংখ্যা কত হবে ?",
+        "solution": "এখানেপীচ = 0.5 mmল্যাবরেটরিতে ব্যবহৃত স্ফেরমিটারের লঘিষ্ঠ গণন সাধারণত 0.01mm হয়আমরা জানি,লঘিষ্ঠ গণন = পীচ/ বৃত্তাকার স্কেলের দাগ সংখ্যা[math]\\therefore[/math]\u003Cbr\u003E বৃত্তাকার স্কেলের দাগ সংখ্যা = পীচ/ লঘিষ্ঠ গণন[math]=\\frac{0.5}{0.01} \\\\ =50[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 394463,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394463,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 394463,
+            "tag_id": 236,
+            "year": "2022",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394464,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{h}=\\mathrm{M}+\\mathrm{L}_{\\mathrm{c}}[/math]",
+          "খ": "[math]\\mathrm{h}=\\mathrm{M} \\times \\mathrm{N}+\\mathrm{L}_{\\mathrm{c}}[/math]",
+          "গ": "[math]\\mathrm{h}=\\mathrm{M} \\times[/math] পিচ [math]+\\mathrm{L}_{c}[/math]",
+          "ঘ": "[math]\\rm{h}=\\mathrm{M} \\times[/math] পিচ [math]+\\mathrm{N} \\times \\rm{L_{c}}[/math]"
+        },
+        "question": "বৃত্তাকার স্কেলের পূর্ণ ঘূর্ণন সংখ্যা [math]M[/math] বৃত্তাকার স্কেলের অতিরিক্ত ভাগ সংখ্যা [math]N[/math] এবং লঘিষ্ঠ গণন [math]L_c[/math] হলে স্ফেরোমিটারের সাহায্যে [math]h[/math] নির্ণয়ের সূত্র কোনটি?",
+        "solution": "বৃত্তাকার স্কেল পুরোপুরি একবার ঘুরালে যে দূরত্ব অতিক্রম করে তাকে পিচ বলে। পিচ সাধারণত [math]1mm[/math]\u003Cbr\u003E হয়।'পূর্ণ ঘূর্ণন সংখ্যা [math](M) \\times[/math]\u003Cbr\u003E পিচ' দ্বারা রৈখিক স্কেল পাঠ বুঝায় । বৃত্তাকার বা সহকারী স্কেল ব্যবহার করা না হলে এটিই হতো নির্ণীত পাঠ।[math]\\rm{L_c}[/math]\u003Cbr\u003E কে লঘিষ্ঠ গণন বা ন্যূনাঙ্ক বলে। বৃত্তাকার স্কেলের মাত্র একভাগ ঘুরালে এটি রৈখিক স্কেল বরাবর যে দূরত্ব অতিক্রম করে, তাকে লঘিষ্ঠ গণন বলে।লঘিষ্ঠ গণন [math](L_c)[/math]\u003Cbr\u003E কে বৃত্তাকার স্কেলের অতিরিক্ত ভাগ সংখ্যা দ্বারা গুণ করলে বৃত্তাকার স্কেলের পাঠের মান পাওয়া যায় ।রৈখিক স্কেলের পাঠ ( [math]M \\times[/math]\u003Cbr\u003E পিচ) এবং বৃত্তাকার স্কেলের পাঠ [math]\\left(\\mathrm{N} \\times \\mathrm{L}_{c}\\right)[/math]\u003Cbr\u003E যোগ করলে মোট পাঠ তথা স্ফেরোমিটারের সাহায্যে নির্ণীত বক্রতলের উচ্চতা পাওয়া যায়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 394464,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394464,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 394464,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394465,
+      "value": {
+        "options": {
+          "ক": "0.005 mm",
+          "খ": "0.001 mm",
+          "গ": "0.01 mm",
+          "ঘ": "0.03 mm",
+          "ঙ": "None"
+        },
+        "question": "ফেরোমিটারের লঘিষ্ঠ ধ্রুবকের মান [math]0.02 ~mm[/math] হলে, নিচের কোন বেধটি নির্ভুলভাবে মাপা যাবে?",
+        "solution": "বি:দ্র: যেহেতু কোনোটিই লঘিষ্ঠ ধ্রুবকের সরল গুণিতক নয়, সেহেতু কোনোটিই নির্ভুলভাবে মাপা যাবে না।",
+        "explanation": "",
+        "correct_answer": "."
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 394465,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 394465,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394466,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{R}=\\dfrac{\\mathrm{d}^{2}}{6}+\\dfrac{\\mathrm{h}}{2}[/math]",
+          "খ": "[math]\\mathrm{R}=\\dfrac{\\mathrm{d}^{2}}{2}+\\dfrac{\\mathrm{h}}{6}[/math]",
+          "গ": "[math]\\mathrm{R}=\\dfrac{\\mathrm{d}^{2}}{6 \\mathrm{~h}}+\\dfrac{\\mathrm{h}}{2}[/math]",
+          "ঘ": "[math]\\mathrm{R}=\\dfrac{\\mathrm{d}^{2}}{12}+\\dfrac{\\mathrm{h}}{2}[/math]"
+        },
+        "question": "কোনো গোলীয় তলের বক্রতার ব্যাসার্ধ নির্ণয় করার জন্য কোন সমীকরণটি ব্যবহৃত হয়?",
+        "solution": "এই সমীকরণটি একটি গোলীয় তলের বক্রতার ব্যাসার্ধ (R) নির্ণয় করতে ব্যবহৃত হয়, যেখানে 'd' হলো তলের একটি জ্যা (chord) এর দৈর্ঘ্য এবং 'h' হলো সেই জ্যা থেকে তলের শীর্ষবিন্দু পর্যন্ত লম্ব দূরত্ব। এটি মূলত জ্যামিতিক উপায়ে বক্রতার ব্যাসার্ধ নির্ণয়ের একটি সূত্র। বিকল্প D সঠিক কারণ এটি পরীক্ষামূলকভাবে প্রমাণিত এবং গোলীয় তলের এই পরিমাপগুলির মধ্যে সম্পর্ক স্থাপন করে। অন্য বিকল্পগুলিতে সাংখ্যিক মান বা তাদের অবস্থান ভুলভাবে বিন্যস্ত করা হয়েছে। এই সূত্রটি লেন্স তৈরি বা গোলীয় পৃষ্ঠের নির্ভুল পরিমাপের মতো কাজে গুরুত্বপূর্ণ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 394466,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 394466,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394466,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394466,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 394466,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 394466,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394467,
+      "value": {
+        "options": {
+          "ক": "0.01 mm",
+          "খ": "0.01 cm",
+          "গ": "0.25 mm",
+          "ঘ": "0.50 mm"
+        },
+        "question": "স্ফেরোমিটারের বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা [math]50[/math]। স্কেলটিকে এক পাক ঘুরালে রৈখিক স্কেলে সরণ হয় [math]0.5~mm[/math]। লঘিষ্ঠ গণন কত?",
+        "solution": "স্ফেরোমিটারের লঘিষ্ঠ গণন হলো রৈখিক স্কেলের এক ভাগের মান। এটি নির্ণয় করার জন্য, বৃত্তাকার স্কেলের এক পাকের সরণকে বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা দিয়ে ভাগ করতে হবে।এখানে, রৈখিক স্কেলে সরণ = [math]0.5~mm[/math]\u003Cbr\u003Eএবং বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা = [math]50[/math]\u003Cbr\u003Eলঘিষ্ঠ গণন = (রৈখিক স্কেলে সরণ) / (বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা)লঘিষ্ঠ গণন = [math]0.5~mm / 50[/math]\u003Cbr\u003Eলঘিষ্ঠ গণন = [math]0.01~mm[/math]\u003Cbr\u003Eএই লঘিষ্ঠ গণন দ্বারা স্ফেরোমিটার ব্যবহার করে কোনো বস্তুর পৃষ্ঠের বক্রতা খুব সূক্ষ্মভাবে পরিমাপ করা যায়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 394467,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394467,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 394467,
+            "tag_id": 6,
+            "year": "2016",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394468,
+      "value": {
+        "options": {
+          "ক": "3.65 cm",
+          "খ": "3.68 cm",
+          "গ": "3.86 cm",
+          "ঘ": "3.58 cm"
+        },
+        "question": "স্ফেরোমিটারের সাহায্যে একটি উত্তল লেন্সের উচ্চতা পরিমাপ করে গড় উচ্চতা 5.21 cm, এবং সমতল কাচ প্লেটের উচ্চতা 0.25 cm, পাওয়া গেল। স্ফেরোমিটারের তিন পায়ের মধ্যবর্তী দূরত্ব যথাক্রমে 6.3 cm, 6.5 cm, 3 6.4 cm। উত্তল লেন্সটির গভীরতা ও কাচ প্লেটের উচ্চতা একই হলে উত্তল লেন্সটির বক্রতার ব্যাসার্ধ নির্ণয় কর।",
+        "solution": "এখানে, h = (5.21 -0.25) cm[math]~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E= 4.96 cm[math]\\mathrm{d}_{\\mathrm{avg}}=\\frac{6.3+6.4+6.5}{3}[/math]\u003Cbr\u003E [math]=6.4 \\mathrm{~cm}[/math]\u003Cbr\u003E∴ উত্তল লেন্সটির বক্রতার ব্যাসার্ধ, [math]\\mathrm{R}=\\frac{\\mathrm{d}^{2}{ }_{\\text {avg }}}{6 \\mathrm{~h}}+\\frac{\\mathrm{h}}{2}[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=\\frac{(6.4)^{2}}{6 \\times 4.96}[/math]\u003Cbr\u003E [math]+\\frac{4.96}{2}=3.86 \\mathrm{~cm}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 394468,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 394468,
+            "tag_id": 119,
+            "year": "22-23",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394469,
+      "value": {
+        "options": {
+          "ক": "স্লাইড ক্যালিপার্স",
+          "খ": "স্ক্র-গেজ",
+          "গ": "স্ফোরোমিটার",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "একটি গোলীয় তলের ব্যাসার্ধ ক্ষেত্রফলের সাহায্যে পরিমাপ করা যায় কোনটি দ্বারা?",
+        "solution": "স্ফেরোমিটারের সাহায্যে কাচের বা অন্যান্য পাতলা পাতের পুরুত্ব এবং গোলীয় তলের বক্রতার ব্যাসার্ধ মাপা হয় ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 394469,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 394469,
+            "tag_id": 11,
+            "year": "22-23",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394470,
+      "value": {
+        "options": {
+          "ক": "স্লাইড ক্যালিপার্স",
+          "খ": "স্ক্রু-গেজ",
+          "গ": "স্ফোরোমিটার",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "একটি গোলীয় তলের ব্যাসার্ধ ক্ষেত্রফলের সাহায্যে পরিমাপ করা যায় কোনটি দ্বারা?",
+        "solution": "স্ফেরোমিটারের সাহায্যে কাচের বা অন্যান্য পাতলা পাতের পুরুত্ব এবং গোলীয় তলের বক্রতার ব্যাসার্ধ মাপা হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 394470,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 394470,
+            "tag_id": 11,
+            "year": "22-23",
+            "created_at": "2025-08-19T05:19:41.000000Z",
+            "updated_at": "2025-08-19T05:19:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394457,
+      "value": {
+        "options": {
+          "ক": "1.07048 mm",
+          "খ": "10.7048 mm",
+          "গ": "107.048 mm",
+          "ঘ": "1070.48 mm"
+        },
+        "question": "উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও।\n\nএকটি স্ফেরোমিটারের বৃত্তাকার স্কেলের ভাগ সংখ্যা [math]100[/math] এবং পীচ [math]1mm[/math]। ফেরোমিটারের তিন পায়ের মধ্যবর্তী গড় দূরত্ব [math]70.33 mm[/math]। যন্ত্রটির সাহায্যে একটি গোলীয় উত্তল তলের উচ্চতা পাওয়া গেল [math]8 mm[/math]।\n\nগোলীয় তলের বক্রতার ব্যাসার্ধ নির্ণয় কর।",
+        "solution": "• বক্রতার ব্যাসার্ধ [math]R=\\frac{d^{2}}{6 h}+\\frac{h}{2}[/math]\u003Cbr\u003E [math]=\\frac{(70.33)^{2}}{6 \\times 8}+\\frac{8}{2}[/math]\u003Cbr\u003E [math]=107.048 \\mathrm{~mm}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 394457,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 394457,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 394457,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-08-19T05:19:40.000000Z",
+            "updated_at": "2025-08-19T05:19:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6317&grade=1&lesson=6491&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6317&grade=1&lesson=6491&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6317&grade=1&lesson=6491&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 38,
+  "total": 38
+}

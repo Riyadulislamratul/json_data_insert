@@ -1,0 +1,4019 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 430585,
+      "value": {
+        "options": [],
+        "question": "গ্রেটিং ধ্রুবক কাকে বলে?",
+        "solution": "গ্রেটিংয়ের একটি চির ও একটি অস্বচ্ছ অংশের প্রস্থের যোগফলকে উক্ত গ্রেটিংয়ের গ্রেটিং ধ্রুবক বলে ।",
+        "explanation": "গ্রেটিং ধ্রুবক হলো প্রতিবেশী দুটো সুচ বা ফাঁকের মধ্যকার সমতল দূরত্ব, সাধারণত [math]d[/math] দিয়ে প্রকাশ করা হয়। এটি বিচরণ গ্রেটিং-এর ডিফ্র্যাকশন কোণ নির্ধারণ করে এবং যদি লাইন ঘনত্ব [math]N[/math] হয় তবে [math]d=1/N[/math] দ্বারা পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430585,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430585,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 430585,
+            "tag_id": 6,
+            "year": "2024",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430593,
+      "value": {
+        "options": {
+          "A": "[math]5556 Å[/math]",
+          "B": "[math]6556 Å[/math]",
+          "C": "[math]6655 Å[/math]",
+          "D": "[math]7557Å[/math]"
+        },
+        "question": "The third spectral line is produced by a plane diffraction grating subtends an angle of diffraction of [math]30°[/math]. If there are [math]3000 \\times 10^{2}[/math] lines per meter length, find the wavelength of light.",
+        "solution": "[math]\\frac{1}{\\mathrm{~N}} \\sin \\theta=3 \\lambda \\Rightarrow \\frac{1}{3 \\times 10^{5}} \\sin 30^{\\circ}=3 \\lambda \\Rightarrow \\lambda=5556 Å[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 430593,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 430593,
+            "tag_id": 55,
+            "year": "21-22",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430592,
+      "value": {
+        "options": {
+          "ক": "[math]\\sin ^{-1} 0.2[/math]",
+          "খ": "[math]2 \\sin ^{-1} 0.2[/math]",
+          "গ": "[math]\\sin ^{-1} 0.5[/math]",
+          "ঘ": "[math]2 \\sin ^{-1} 0.5[/math]"
+        },
+        "question": "কোনো চিরের প্রন্থ [math]3 \\times 10^{-4} \\mathrm{~cm}[/math]। যে আলো দিয়ে তাকে আলোকিত করা হচ্ছে তার তরঙ্গ দৈর্ঘ্য 6000 Å। কেন্দ্রীয় চরমের উভয় পাশে প্রথম ক্রম অবমগুলোর মধ্যবর্তী কৌণিক দূরত্ব কত?",
+        "solution": "একক চিড়ের অবমের ক্ষেত্রে আমরা জানি,[math]\\text { a } \\sin \\theta=n \\lambda[/math]\u003Cbr\u003E [math]\\Rightarrow a \\sin \\theta=\\lambda[/math]\u003Cbr\u003Ev [math]~~~~~~~~~[/math]\u003Cbr\u003E [math][\\mathrm{n}=1][/math]\u003Cbr\u003E [math]\\Rightarrow \\sin \\theta=\\frac{\\lambda}{a} \\Rightarrow[/math]\u003Cbr\u003E [math]\\theta=\\sin ^{-1}\\left(\\frac{\\lambda}{a}\\right)[/math]\u003Cbr\u003Eকেন্দ্রীয় চরমের উভয়পাশে প্রথমক্রম অবমগুলোরমধ্যবর্তী কৌণিক দূরত্ব [math]=2 \\theta=2 \\sin ^{-1}\\left(\\frac{\\lambda}{a}\\right)[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=2 \\sin ^{-1}\\left(\\frac{6 \\times 10^{-7}}{3 \\times 10^{-6}}\\right)[/math]\u003Cbr\u003E [math]=2 \\sin ^{-1}(0.2)[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 430592,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 430592,
+            "tag_id": 119,
+            "year": "23-24",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430591,
+      "value": {
+        "options": {
+          "ক": "[math]11.48^{\\circ}[/math]",
+          "খ": "[math]17^{\\circ} 15.6^{\\prime}[/math]",
+          "গ": "[math]16^{\\circ} 57^{\\prime}[/math]",
+          "ঘ": "[math]8.63^{\\circ}[/math]"
+        },
+        "question": "কোন চিরের প্রন্থ [math]4 \\times 10^{-4} \\mathrm{~cm}[/math]. যে আলো দিয়ে একে আলোকিত করা হচ্ছে তার তরঙ্গদৈর্ঘ্য 5896 Å. কেন্দ্রীয় চরমের উভয় পার্শ্বে প্রথমক্রম অবক্ষগুলোর মধ্যবর্তী কৌণিক দূরত্ব নির্ণয় কর।",
+        "solution": "[math]\\theta=\\sin ^{-1}\\left(\\frac{\\mathrm{n} \\lambda}{\\mathrm{a}}\\right)=\\sin \\left(\\frac{1 \\times 5896 \\times 10^{-10}}{4 \\times 10^{-6}}\\right)=8.48[/math]\u003Cbr\u003Eপ্রথম ক্রম অবমের মধ্যবর্তী কৌণিক দূরত্ব, [math]\\begin{aligned}2 \\theta & =2 \\times 8.48 \\\\& =16.95=16^{\\circ} 57^{\\prime}\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 430591,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 114,
+          "full_name": "Engg Guccho (Ka Unit – Without Architecture)",
+          "short_name": "CKRUET-Ka",
+          "slug": "ckruet-ka",
+          "pivot": {
+            "question_bank_id": 430591,
+            "tag_id": 114,
+            "year": "22-23",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430590,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "অপবর্তন গ্রেটিং —\n\n[math]\\hspace{1 cm}[/math]i. আলোর প্রকৃতি নির্ণয় করতে পারে\n\n[math]\\hspace{1 cm}[/math]ii. নির্দিষ্ট দিকে আপতিত রশ্মিকে একত্রিত করতে পারে\n\n[math]\\hspace{1 cm}[/math]iii. তীক্ষ্ণ বর্ণালী সৃষ্টি করতে পারে\n\nনিচের কোনটি সঠিক?",
+        "solution": "অপবর্তন গ্রেটিং আলোর প্রকৃতি নির্ণয় করতে পারে কারণ এটি আলোর ব্যতিচার ও অপবর্তনের নীতির উপর ভিত্তি করে কাজ করে। এছাড়া, এটি নির্দিষ্ট দিকে আপতিত রশ্মিকে (একই তরঙ্গদৈর্ঘ্যের আলো) অপবর্তনের মাধ্যমে একত্রিত করে একটি তীক্ষ্ণ বর্ণালী সৃষ্টি করতে পারে। তাই তিনটি বক্তব্যই সঠিক।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430590,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 430590,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430589,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "অপবর্তন গ্রেটিং এ চরমের শর্ত হলো—\n\n[math]\\begin{array}{l}\\text{i. } d \\sin \\theta_{n}=n \\lambda\\\\\\text{ii. } d \\sin \\theta_{n}=(2 n+1) \\frac{\\lambda}{2}\\\\\\text{iii. } (a+b) \\sin \\theta_{n}=n \\lambda\\end{array}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "এখানে,n = 0, 1, 2, 3, ...d = a + b = গ্রেটিং ধ্রুবকa = চিড়ের প্রস্থb = দাগের প্রস্থ[math]\\theta[/math]\u003Cbr\u003E অপবর্তন কোণচরমের শর্ত :[math]d sin \\theta = n\\lambda (a + b) sin \\theta = n\\lambda[/math]\u003Cbr\u003Eঅবমের শর্ত :[math]d sin \\theta (a + b) sin \\theta = (2n + 1) \\frac{\\lambda}{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 430589,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430589,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430588,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "অপবর্তন গ্রেটিং এর সাহায্যে-\n\ni . তরঙ্গ দৈর্ঘ্যের সাপেক্ষে অপবর্তন কোণের পরিবর্তনের হার নির্ণয় করা যায়।\n\nii. তীক্ষ্ম বর্ণালী সৃষ্টি করা যায়।\n\niii. নির্দিষ্ট দিকে আপতিত আলোক রশ্মিকে একত্রিত করা যায়।\n\nনিচের কোনটি সঠিক?",
+        "solution": "• গ্রেটিং এর সাহায্যে-\n\nক. আলোকের তরঙ্গদৈর্ঘ্য নির্ণয় করা যায়।\n\nখ. একই তরঙ্গদৈর্ঘ্যের দুটি বর্ণালি রেখা পৃথক করা যায়।\n\nগ. তরঙ্গদৈর্ঘ্যের সাপেক্ষে অপবর্তন কোণের পরিবর্তনের হার নির্ণয় করা যায়।\n\nঘ. তীক্ষ্ণ বর্ণালী সৃষ্টি করা যায়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430588,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430588,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430588,
+            "tag_id": 7,
+            "year": "2024",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430587,
+      "value": {
+        "options": {
+          "ক": "[math]N=\\frac{1}{d}[/math]",
+          "খ": "[math]N=d[/math]",
+          "গ": "[math]\\mathrm{N}=\\frac{1}{\\mathrm{~d}^{2}}[/math]",
+          "ঘ": "[math]N=\\frac{1}{\\sqrt{d}}[/math]"
+        },
+        "question": "একটি গ্রেটিং এর প্রতি একক দৈর্ঘ্যে রেখার সংখ্যা N এবং গ্রেটিং ধুবক d-এর মধ্যে সম্পর্ক নিচের কোনটি?",
+        "solution": "• গ্রেটিং ধ্রুবক, [math]d=a+b[/math]\u003Cbr\u003E• একক দৈর্ঘ্যে রেখার সংখ্যা, [math]N=\\frac{1}{d}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430587,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430587,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430587,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430586,
+      "value": {
+        "options": [],
+        "question": "গ্রেটিং ধ্রুবক কাকে বলে?",
+        "solution": "অপবর্তন গ্রেটিং-এ যে কোনো একটি চিরের শুরু থেকে পরবর্তী চিরের শুরু পর্যন্ত দূরত্বকে গ্রেটিং ধ্রুবক বলে।",
+        "explanation": "গ্রেটিং ধ্রুবক হল একই গ্রেটিংয়ের প্রতিবেশী দুই স্লিট বা রেখার মধ্যে স্থির দূরত্ব, সাধারণত [math]d[/math] দ্বারা চিহ্নিত। এটি গ্রেটিং-এর বিচ্ছুরণ ও অভিক্ষেপ কোণ নির্ধারণ করে এবং যদি লাইন সংখ্যা প্রতি এককে [math]N[/math] থাকে তবে [math]d=1/N[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 430586,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 430586,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 430586,
+            "tag_id": 3179,
+            "year": "2023",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 430586,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430594,
+      "value": {
+        "options": {
+          "ক": "[math]0^\\circ[/math]",
+          "খ": "[math]30^\\circ[/math]",
+          "গ": "[math]45^\\circ[/math]",
+          "ঘ": "[math]60^\\circ[/math]"
+        },
+        "question": "একটি সমতল অপবর্তন গ্রেটিং এ প্রতি সেন্টিমিটারে [math]3000[/math] টি রেখা আছে। এ গ্রেটিংকে [math]5.556 \\times 10^{-7} \\mathrm{~m}[/math] তরঙ্গ দৈর্ঘ্য বিশিষ্ট একবর্ণী আলোক রশ্মি দিয়ে আলোকিত করা হলো। তৃতীয় ক্রমের অপবর্তন কোণ কত হবে?",
+        "solution": "[math]\\sin \\theta[/math]\u003Cbr\u003E [math]=n \\lambda N[/math]\u003Cbr\u003E [math]=3 \\times 5.556 \\times 10^{-7} \\times 3000 \\times 100[/math]\u003Cbr\u003E [math]=0.5[/math]\u003Cbr\u003E [math]\\therefore \\theta=30^{\\circ}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 430594,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 430594,
+            "tag_id": 16,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430584,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের আলোকে চতুর্থ ক্রমের অপবর্তন সম্ভব কি না— গাণিতিকভাবে যাচাই কর।"
+        },
+        "question": "প্রতি মিটারে [math]5 \\times 10^{5}[/math] সংখ্যক রেখাসম্পন্ন কোনো অপবর্তন গ্রেটিং এর মধ্য দিয়ে [math]460\\ nm[/math] তরঙ্গ দৈর্ঘ্যের আলো লম্বভাবে আপতিত করা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, চতুর্থ ক্রমের জন্য, n = 4তরঙ্গ দৈর্ঘ্য, [math]\\lambda=460 \\mathrm{~nm}=460 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003Eপ্রতিমিটারে রেখার সংখ্যা, [math]\\mathrm{N}=5 \\times 10^{5}[/math]\u003Cbr\u003Eঅপবর্তন কোণ [math]=\\theta[/math]\u003Cbr\u003Eআমরা জানি, [math]\\sin \\theta=\\mathrm{nN} \\lambda[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{array}{l}\\Rightarrow \\sin \\theta=4 \\times 5 \\times 10^{5} \\times 460 \\times 10^{-9}\\\\\\Rightarrow \\sin \\theta=0.92\\\\\\Rightarrow \\theta=\\sin ^{-1}(0.92)=66.92^{\\circ}\\end{array}[/math]\u003Cbr\u003Eঅতএব, চতুর্থ ক্রমের অপবর্তন সম্ভব।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গ্রেটিংের ফাঁক [math]d=1/(5\\times10^{5})=2\\times10^{-6}\\,\\text{m}[/math] এবং অপবর্তন শর্ত [math]d\\sin\\theta=m\\lambda[/math] থেকে সর্বোচ্চ ক্রম হবে এমন যে [math]\\sin\\theta\\le1\\Rightarrow m\\le d/\\lambda[/math]. এখানে [math]d/\\lambda=2\\times10^{-6}/(460\\times10^{-9})\\approx4.35[/math], অতএব চার নম্বর ক্রম ([math]m=4[/math]) সম্ভব (কিন্তু [math]m=5[/math] সম্ভব নয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 430584,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3415,
+          "full_name": "Border Guard Public School & College",
+          "short_name": "BGPSC",
+          "slug": "bgpsc",
+          "pivot": {
+            "question_bank_id": 430584,
+            "tag_id": 3415,
+            "year": "2020",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430583,
+      "value": {
+        "options": {
+          "গ": "আপতিত আলোর প্রথম ক্রমের অপবর্তন কোণ কত?"
+        },
+        "question": "প্রতি মিটারে [math]5 \\times 10^{5}[/math] সংখ্যক রেখাসম্পন্ন কোনো অপবর্তন গ্রেটিং এর মধ্য দিয়ে [math]460\\ nm[/math] তরঙ্গ দৈর্ঘ্যের আলো লম্বভাবে আপতিত করা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, অপবর্তন কোণ, [math]\\theta[/math]\u003Cbr\u003Eউদ্দীপক থেকে পাই,তরঙ্গদৈর্ঘ্য, [math]\\lambda=460 \\mathrm{~nm}=460 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003E; ক্রম, n = 1প্রতিমিটারে রেখার সংখ্যা, [math]\\mathrm{N}=5 \\times 10^{5}[/math]\u003Cbr\u003Eআমরা জানি, [math]\\mathrm{d} \\sin \\theta=\\mathrm{n} \\lambda[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{array}{l}\\Rightarrow \\sin \\theta=\\frac{\\mathrm{n} \\lambda}{\\mathrm{d}}=\\mathrm{Nn} \\lambda=5 \\times 10^{5} \\times 1 \\times 460 \\times 10^{-9} \\\\\\Rightarrow \\sin \\theta=0.23 \\\\\\Rightarrow \\theta=\\sin ^{-1}(0.23)=13.3^{\\circ}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E প্রথম ক্রমের অপবর্তন কোণ 13.3° [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গ্রেটিং সূত্র ব্যবহার করে: [math]d\\sin\\theta=m\\lambda[/math] (প্রথম ক্রমে [math]m=1[/math]). লাইন ঘনত্ব [math]N=5\\times10^5\\ \\mathrm{m^{-1}}[/math] হলে [math]d=1/N=2\\times10^{-6}\\ \\mathrm{m}[/math], ফলে [math]\\sin\\theta=\\lambda/d=460\\times10^{-9}/2\\times10^{-6}=0.23[/math] এবং [math]\\theta\\approx\\arcsin(0.23)\\approx13.3^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 430583,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3415,
+          "full_name": "Border Guard Public School & College",
+          "short_name": "BGPSC",
+          "slug": "bgpsc",
+          "pivot": {
+            "question_bank_id": 430583,
+            "tag_id": 3415,
+            "year": "2020",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430582,
+      "value": {
+        "options": {
+          "গ": "দৃশ্যকল্প-১-এর দ্বিতীয় ক্রমের চরমের জন্য অপবর্তন কোণ কত?"
+        },
+        "question": "দৃশ্যকল্প-১ সেন্টিমিটারে [math]5000[/math] রেখা বিশিষ্ট একটি অপবর্তন গ্রেটিং এর উপর [math]5896\\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আলো আপতির্ত করা হলো।\n\nদৃশ্যকল্প-২ : ফ্রনহফার শ্রেণীর একক চিরের পরীক্ষায় [math]5000\\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আলো ব্যবহার করা হয়। [চিরের প্রস্থ [math]0.2\\ mm[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক অনুসারে, দৃশ্যকল্প-১ এর-প্রতি সেন্টিমিটারে রেখার সংখ্যা, [math]\\mathrm{N}=5000 \\mathrm{~cm}^{-1} =5 \\times 10^{5} \\mathrm{~m}^{-1}[/math]\u003Cbr\u003Eআপতিত আলোর তরঙ্গদৈর্ঘ্য, [math]\\lambda=5896 \\mathring{A} =5869 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003Eএখানে ২য় ক্রমের চরমের ক্ষেত্রে, n = 2আমরা জানি,[math]\\hspace{2cm}\\begin{array}{l} \\sin \\theta=(2 \\mathrm{n}+1) \\mathrm{N} \\frac{\\lambda}{2} \\\\\\Rightarrow \\sin \\theta=\\frac{(2 \\times 2+1) \\times 5 \\times 10^{5} \\times 5896 \\times 10^{-10}}{2} \\\\\\Rightarrow \\sin \\theta=0.737 \\\\\\Rightarrow \\theta=47.47^{\\circ}\\end{array}[/math]\u003Cbr\u003Eসুতরাং দ্বিতীয় ক্রম চরমের জন্য, অপবর্তন কোণ 47.47° [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: গ্রেটিং স্পেসিং [math]d=1/(5000\\ \\text{lines/cm})=1/(500000\\ \\text{lines/m})=2\\times10^{-6}\\ \\text{m}[/math] এবং সূত্র [math]d\\sin\\theta=m\\lambda[/math]. তাই [math]\\sin\\theta=\\dfrac{2\\times5.896\\times10^{-7}}{2\\times10^{-6}}=0.5896[/math], ফলে [math]\\theta\\approx36.2^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 430582,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 341,
+          "full_name": "Rajshahi Cadet College",
+          "short_name": "RCC",
+          "slug": "rcc",
+          "pivot": {
+            "question_bank_id": 430582,
+            "tag_id": 341,
+            "year": "2020",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430581,
+      "value": {
+        "options": {
+          "ঘ": "স্মৃতির পরীক্ষায় তরঙ্গদৈর্ঘ্যের কীরূপ পরিবর্তন আনলে দ্বিতীয় চরমের জন্য ইতি ও স্মৃতি উভয়ের ক্ষেত্রে আপতন কোণ একই পাওয়া যাবে? উত্তরের সপক্ষে গাণিতিক বিশ্লেষণ দাও।"
+        },
+        "question": "ইতি প্রতি সেন্টিমিটারে [math]6000[/math] দাগ বিশিষ্ট অপবর্তন গ্রেটিং এর [math]5890\\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আলো ফেলল। অপর দিকে স্মৃতি প্রতি সেন্টিমিটারে [math]1.25 \\times 10^{5}[/math] সংখ্যক দাগ বিশিষ্ট অপবর্তন গ্রেটিং এ [math]2200\\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আলো ফেলল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eইতি ক্ষেত্রে, দাগসংখ্যা, [math]\\mathrm{N}_{\\mathrm{s}}=6000 \\mathrm{~cm}^{-1}=600000 \\mathrm{~m}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}[/math]\u003Cbr\u003E ক্রমসংখ্যা, n = 2[math]\\hspace{1.5cm}[/math]\u003Cbr\u003E তরঙ্গদৈর্ঘ্য, [math]\\lambda_{\\mathrm{s}}=5890\\mathring{A}=5890 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}[/math]\u003Cbr\u003E অপবর্তন কোণ, [math]\\theta = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1cm}\\begin{array}{l}\\sin \\theta=\\mathrm{n} \\mathrm{N}_{\\mathrm{s}} \\lambda_{\\mathrm{s}} \\\\\\Rightarrow \\theta=\\sin ^{-1}\\left(\\mathrm{n} \\mathrm{N}_{\\mathrm{s}} \\lambda_{\\mathrm{s}}\\right) \\\\=\\sin ^{-1}\\left(2 \\times 6 \\times 10^{5} \\mathrm{~m}^{-1} \\times 5890 \\times 10^{-10} \\mathrm{~m}\\right) \\\\=44.98^{\\circ} \\\\\\end{array}[/math]\u003Cbr\u003Eআবার, স্মৃতির ক্ষেত্রে,দাগ সংখ্যা, [math]\\mathrm{N}_{\\mathrm{R}}=1.25 \\times 10^{5} \\mathrm{~cm}^{-1}=1.25 \\times 10^{7} \\mathrm{~m}^{-1}[/math]\u003Cbr\u003Eক্রমসংখ্যা, n = 2অপবর্তন কোণ, [math]\\theta=44.98^{\\circ}[/math]\u003Cbr\u003Eপ্রাথমিক তরঙ্গদৈর্ঘ্য, [math]\\lambda_{\\mathrm{R}}=2200 \\mathring{A}[/math]\u003Cbr\u003Eপরিবর্তিত তরঙ্গদৈর্ঘ্য, [math]\\lambda = ?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\sin \\theta=\\mathbf{n} N_{R} \\lambda[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\Rightarrow \\begin{aligned}\\lambda=\\frac{\\sin \\theta}{n N_{R}} & =\\frac{\\sin 44.98^{\\circ}}{2 \\times 1.25 \\times 10^{7} \\mathrm{~m}^{-1}} \\\\& =282.7 \\times 10^{-10} \\mathrm{~m}=282.7 \\mathring{A}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E তরঙ্গদৈর্ঘ্যের পরিবর্তন [math]=(2200 \\mathring{A}-282.7 \\mathring{A})=1917.3 \\mathring{A}[/math]\u003Cbr\u003Eঅর্থাৎ স্মৃতি তরঙ্গদৈর্ঘ্য [math]1917.3 \\mathring{A}[/math]\u003Cbr\u003E হ্রাস করলে দ্বিতীয় চরমের জন্য উভয়ের পরীক্ষায় একই অপবর্তন কোণ পাওয়া যাবে ৷",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গ্রেটিং সমীকরণ থেকে [math]d\\sin\\theta=m\\lambda[/math]; একই আপতন কোণ ও দ্বিতীয় চরমে ([math]m=2[/math]) হওয়ার জন্য [math]\\lambda'_2/\\lambda_1=d_2/d_1= N_1/N_2[/math] (কারণ [math]d=1/N[/math])। তাই\n[math]\\lambda'_2=\\frac{6000}{1.25\\times10^5}\\times5890\\ \\mathring{\\rm A}=282.72\\ \\mathring{\\rm A}।\u003C/math\u003E\nমূল্যের তুলনায় পরিবর্তন [math]\\Delta\\lambda=282.72-2200=-1917.28\\ \\mathring{\\rm A}\u003C/math], অর্থাৎ স্মৃতির তরঙ্গদৈর্ঘ্য প্রায় [math]2.83\\times10^2\\ \\mathring{\\rm A}\u003C/math\u003E-এ নামাতে হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 430581,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430581,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 430581,
+            "tag_id": 4,
+            "year": "2020",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430580,
+      "value": {
+        "options": {
+          "গ": "ইতির পরীক্ষার প্রথম চরমের জন্য অপবর্তন কোণ নির্ণয় কর।"
+        },
+        "question": "ইতি প্রতি সেন্টিমিটারে [math]6000[/math] দাগ বিশিষ্ট অপবর্তন গ্রেটিং এর [math]5890\\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আলো ফেলল। অপর দিকে স্মৃতি প্রতি সেন্টিমিটারে [math]1.25 \\times 10^{5}[/math] সংখ্যক দাগ বিশিষ্ট অপবর্তন গ্রেটিং এ [math]2200\\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আলো ফেলল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, দাগ সংখ্যা, [math]\\mathrm{N}_{\\mathrm{s}}=6000 \\mathrm{~cm}^{-1}=600000 \\mathrm{~m}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]\\lambda_{\\mathrm{s}}=5890 \\mathring{A}=5890 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}[/math]\u003Cbr\u003Eক্রমসংখ্যা, n = 1[math]\\hspace{1.5cm}[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta_s = ?[/math]\u003Cbr\u003Eআমরা জানি, [math]\\mathrm{d} \\sin \\theta_{\\mathrm{s}}=\\mathrm{n} \\lambda_{\\mathrm{s}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow \\frac{1}{N_{s}} \\sin \\theta_{s}=n \\lambda_{s} \\\\\\Rightarrow \\sin \\theta_{s}=\\mathrm{n} \\mathrm{N}_{s} \\lambda_{s} \\\\\\Rightarrow \\theta_{s}=\\sin ^{-1}\\left(\\mathrm{nN}_{\\mathrm{s}} \\lambda_{\\mathrm{s}}\\right) \\\\\\quad=\\sin ^{-1}\\left(1 \\times 600000 \\mathrm{~m}^{-1} \\times 5890 \\times 10^{-10} \\mathrm{~m}\\right) \\\\\\quad=20.7^{\\circ}\\end{array}[/math]\u003Cbr\u003Eসুতরাং, ইতির পরীক্ষণে প্রথম চরমের জন্য অপবর্তন কোণের মান 20.7° [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথম চরমের জন্য গ্রেটিং সূত্র [math]d\\sin\\theta=m\\lambda[/math] প্রয়োগ করলে, লাইনের ক্ষুদ্রতম আলাদা স্থান [math]d=1/(6000\\ \\text{lines/cm})=10^{-2}/6000=1.6667\\times10^{-6}\\ \\text{m}[/math] হয়।  \nঅতএব [math]\\sin\\theta=\\lambda/d=5.89\\times10^{-7}/1.6667\\times10^{-6}=0.3534[/math], ফলে [math]\\theta\\approx20.7^\\circ[/math] — এ কারণে এই কোণই সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 430580,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430580,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 430580,
+            "tag_id": 4,
+            "year": "2020",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430579,
+      "value": {
+        "options": [],
+        "question": "একটি সমতল নিঃসরণ গ্রেটিং এর দ্বারা সৃষ্ট বর্ণালী রেখার দ্বিতীয় ক্রম [math]30^{\\circ}[/math] অপবর্তন কোন উৎপন্ন করে। যদি আলোর তরঙ্গদৈর্ঘ্য [math]5890[/math] Å হয় তবে গ্রেটিং এর প্রতি ঘনমিটারে রেখার সংখ্যা নির্ণয় কর।",
+        "solution": "[math]424448 \\ times \\ per \\ meter[/math]",
+        "explanation": "ব্যাখ্যা: উৎপন্ন গ্রেটিং সূত্রটি হল [math]d\\sin\\theta=n\\lambda[/math] যেখানে [math]n=2[/math], [math]\\theta=30^\\circ[/math] এবং [math]\\lambda=5890\\ \\text{Å}=5.89\\times10^{-7}\\ \\text{m}[/math]. তাই [math]d=\\dfrac{2\\times5.89\\times10^{-7}}{\\sin30^\\circ}=2.356\\times10^{-6}\\ \\text{m}[/math] এবং রেখার সংখ্যা [math]N=\\dfrac{1}{d}=4.24\\times10^{5}\\ \\text{lines/m}[/math] (প্রায় [math]424\\ \\text{lines/mm}[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430579,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430578,
+      "value": {
+        "options": [],
+        "question": "একটি নিঃসরণ সমতল গ্রেটিং [math]8 \\times 10^{-7} \\ cm[/math] তরঙ্গদৈর্ঘ্য বিশিষ্ট আলোর প্রথম ক্রমে [math]30^{\\circ}[/math] অপবর্তন কোণ উৎপন্ন করে। গ্রেটিং এর প্রতি মিটারে রেখার সংখ্যা কত?",
+        "solution": "[math]6.25 \\times 10^{7}[/math]",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সূত্র [math]d\\sin\\theta=m\\lambda[/math] প্রয়োগ করলে প্রথম ক্রমে [math]m=1, \\sin30^\\circ=1/2[/math] তাই [math]d=\\lambda/\\sin30^\\circ=[8\\times10^{-7}\\,\\text{cm}]/(1/2)=1.6\\times10^{-6}\\,\\text{cm}=1.6\\times10^{-8}\\,\\text{m}[/math]। প্রতি মিটার রেখার সংখ্যা [math]N=1/d=1/(1.6\\times10^{-8}\\,\\text{m})=6.25\\times10^{7}\\ \\text{lines/m}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430578,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430577,
+      "value": {
+        "options": [],
+        "question": "প্রতি সেন্টিমিটারে [math]1000 \\ lines[/math] বিশিষ্ট কোনো একটি সমতল অপবর্তন গ্রেটিং এর উপর [math]6.0 \\ times 10^{-7}m[/math] তরঙ্গদৈর্ঘ্যের আলো আপতিত হলে এতে কয়টি অপবর্তন ক্রমের সৃষ্টি হবে।",
+        "solution": "[math]16[/math] টি",
+        "explanation": "দুইটি ধাপেই সমাধান করা যায়: প্রথমে রেখার ফাঁক [math]d[/math] পাই—1000 লাইন/সেন্টিমিটার হলে [math]d=1/1000\\ \\text{cm}=10^{-5}\\ \\text{m}[/math]. সর্বোচ্চ ক্রমটির জন্য [math]m\\lambda\\le d[/math] হওয়া লাগবে, তাই [math]m_{\\max}=\\left\\lfloor\\frac{d}{\\lambda}\\right\\rfloor=\\left\\lfloor\\frac{10^{-5}}{6.0\\times10^{-7}}\\right\\rfloor=16[/math]; মোট দৃশ্যমান ক্রম (দুই পাশসহ কেন্দ্রীয় শূন্যক্রম) হবে [math]2m_{\\max}+1=33[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430577,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430602,
+      "value": {
+        "options": {
+          "ক": "[math]46^{\\circ }[/math]",
+          "খ": "[math]16.2^{\\circ }[/math]",
+          "গ": "[math]45.99^{\\circ }[/math]",
+          "ঘ": "[math]45.03^{\\circ }[/math]",
+          "ঙ": "[math]44.01^{\\circ }[/math]"
+        },
+        "question": "কোন অপবর্তন গ্রেটিংয়ের প্রতি সেন্টিমিটারে [math]6000[/math] রেখা রয়েছে। এর ভিতর দিয়ে [math]5896\\mathring{\\rm{A}}[/math] তরঙ্গ দৈর্ঘ্যের আলো ফেললে দ্বিতীয় চরমের জন্য অপবর্তন কোণ কত?",
+        "solution": "[math]1m[/math]\u003Cbr\u003E এ রেখা আছে [math]= 6000 \\times 100[/math]\u003Cbr\u003Eটি[math]\\therefore \\mathrm{G}=\\dfrac{1}{6000 \\times 100}=1.667 \\times 10^{-6} \\mathrm{~m}^{-1} \\\\ \\lambda=5896 \\times 10^{-10} \\mathrm{~m} ; \\theta=?[/math]\u003Cbr\u003Eএখানে, [math]d \\sin \\theta=2 \\lambda \\Rightarrow \\sin \\theta=\\dfrac{2 \\times 5896 \\times 10^{-10}}{1.667 \\times 10^{-6}} \\Rightarrow \\theta \\equiv 45.03^{\\circ}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 430602,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 430602,
+            "tag_id": 88,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430610,
+      "value": {
+        "options": {
+          "ক": "গ্রেটিং",
+          "খ": "ঝালর",
+          "গ": "ব্যতিচার ডোরা",
+          "ঘ": "কোনটি নয়"
+        },
+        "question": "পাশাপাশি স্থাপিত সমগ্রন্থের সূক্ষ্ম চির বিশিষ্ট পাতকে কী বলা হয়?",
+        "solution": "পাশাপাশি স্থাপিত সমগ্রন্থের সূক্ষ্ম চির বিশিষ্ট পাতকে গ্রেটিং বলা হয়। এটি আলোর ব্যতিচার ও অপবর্তন ধর্মের প্রদর্শনের জন্য ব্যবহৃত হয়। ঝালর এবং ব্যতিচার ডোরা হলো অপটিক্যাল ঘটনার ফলাফল, কোনো যন্ত্রাংশ নয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430610,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430609,
+      "value": {
+        "options": {
+          "ক": "[math]N=\\frac{1}{d}[/math]",
+          "খ": "[math]N=d[/math]",
+          "গ": "[math]N=\\frac{1}{d^{2}}[/math]",
+          "ঘ": "[math]N=\\frac{1}{\\sqrt{d}}[/math]"
+        },
+        "question": "একটি গ্রেটিং -এর প্রতি একক দৈর্ঘ্যে রেখার সংখ্যা এবং গ্রেটিং ধ্রুবক [math]d[/math]- এর মধ্যে সম্পর্ক হলো–",
+        "solution": "গ্রেটিং-এর প্রতি একক দৈর্ঘ্যে রেখার সংখ্যা ( [math]N[/math]\u003Cbr\u003E) এবং গ্রেটিং ধ্রুবক ( [math]d[/math]\u003Cbr\u003E) হলো পরস্পরের অন্যোন্যক। অর্থাৎ, [math]d[/math]\u003Cbr\u003E হলো দুটি পরপর রেখার মধ্যবর্তী দূরত্ব, যা প্রতি একক দৈর্ঘ্যে রেখার সংখ্যার বিপরীত রাশি। তাই, [math]N = \\frac{1}{d}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430609,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430608,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "iv",
+          "গ": "iii",
+          "ঘ": "i,ii,iv"
+        },
+        "question": "গ্রেটিং-এর ক্ষেত্রে [math]'a + b'[/math] হচ্ছে—-\n\ni. গ্রেটিং ধ্রুবক\n\nii. গ্রেটিং উপাদান\n\niii. একক দৈর্ঘ্যে চিরের সংখ্যা\n\niv. চিরের প্রস্থ ও দাগের প্রন্থের যোগফল\n\nনিচের কোনটি সঠিক",
+        "solution": "গ্রেটিং ধ্রুবক হলো দুটি পরপর চিরের মধ্যবর্তী দূরত্ব, যা [math]'a+b'[/math]\u003Cbr\u003E দ্বারা প্রকাশিত হয়, যেখানে [math]'a'[/math]\u003Cbr\u003E হলো চিরের প্রস্থ এবং [math]'b'[/math]\u003Cbr\u003E হলো দাগের প্রস্থ। তাই বিকল্প (i) সঠিক। বিকল্প (ii) ভুল কারণ গ্রেটিং উপাদান বলতে চি্রর প্রস্থ বা দাগের প্রস্থকে বোঝাতে পারে, কিন্তু [math]'a+b'[/math]\u003Cbr\u003E কে নির্দিষ্টভাবে গ্রেটিং উপাদান বলা যায় না। বিকল্প (iii) ভুল কারণ [math]'a+b'[/math]\u003Cbr\u003E একক দৈর্ঘ্যে চিরের সংখ্যা নয়, বরং চির এবং দাগের মোট প্রস্থ। বিকল্প (iv) সঠিক হলেও গ্রেটিং ধ্রুবকই এর সুনির্দিষ্ট সংজ্ঞা। তবে প্রশ্নানুসারে [math]'a+b'[/math]\u003Cbr\u003E কে গ্রেটিং ধ্রুবক হিসেবেই সংজ্ঞায়িত করা হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430608,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430607,
+      "value": {
+        "options": {
+          "ক": "চিরের সংখ্যা",
+          "খ": "একক দৈর্ঘ্যের চিরের সংখ্যা",
+          "গ": "গ্রেটিং ধ্রুবক",
+          "ঘ": "দাগের সংখ্যা"
+        },
+        "question": "গ্রেটিং-এর ক্ষেত্রে, [math]a + b = \\frac{1}{N};[/math] এখানে [math]N[/math] কী?",
+        "solution": "গ্রেটিং-এর ক্ষেত্রে, [math]a+b[/math] হল গ্রেটিং ধ্রুবক, যা একক দৈর্ঘ্যে চিরের সংখ্যার (N) অনন্য মানের সমান। অন্য বিকল্পগুলি গ্রেটিং ধ্রুবকের সাথে সরাসরি সম্পর্কিত নয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430607,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430606,
+      "value": {
+        "options": {
+          "ক": "চিরের সংখ্যা",
+          "খ": "একক দৈর্ঘ্যে চিরের সংখ্যা",
+          "গ": "গ্রেটিং ধ্রুবক",
+          "ঘ": "দাগের সংখ্যা"
+        },
+        "question": "গ্রেটিং-এর ক্ষেত্রে, [math]a+b= \\frac{1}{N}[/math]; এখানে, [math]'a + b'[/math] কী?",
+        "solution": "গ্রেটিং-এর ক্ষেত্রে, [math]a+b[/math]\u003Cbr\u003E হলো গ্রেটিং ধ্রুবক। এটি একক দৈর্ঘ্যে থাকা চিরের সংখ্যার (N) অন্যোন্যক, অর্থাৎ [math]a+b = \\frac{1}{N}[/math]\u003Cbr\u003E। বিকল্প A এবং D কেবল চিরের সংখ্যা বা দাগের সংখ্যা বোঝায়, যা নির্দিষ্টভাবে এই সমীকরণে ব্যবহৃত হয় না। বিকল্প B একক দৈর্ঘ্যে চিরের সংখ্যা বোঝায়, কিন্তু [math]a+b[/math]\u003Cbr\u003E সরাসরি সেই সংখ্যা নয়, বরং তার অন্যোন্যক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430606,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430605,
+      "value": {
+        "options": {
+          "ক": "i,ii",
+          "খ": "ii,iii",
+          "গ": "i,iii",
+          "ঘ": "i,ii,iii"
+        },
+        "question": "গ্রেটিং ব্যবহৃত হয়—\n\ni. আলোর তরঙ্গদৈর্ঘ্য নির্ণয়ে\n\nii. একই তরঙ্গ দৈর্ঘ্যের দুটি বর্ণালী রেখা একই রাখতে\n\niii. তরঙ্গ দৈর্ঘ্যের সাপেক্ষে অপবর্তন কোণের পরিবর্তনের হার নির্ণয়ে\n\nনিচের কোনটি সঠিক?",
+        "solution": "গ্রেটিং ব্যবহার করে আলোর তরঙ্গদৈর্ঘ্য নির্ণয় করা যায়। এটি একই তরঙ্গদৈর্ঘ্যের দুটি বর্ণালী রেখাকে একই অবস্থানে রাখতে সাহায্য করে। এছাড়াও, তরঙ্গদৈর্ঘ্যের সাপেক্ষে অপবর্তন কোণের পরিবর্তনের হার নির্ণয়েও গ্রেটিং ব্যবহৃত হয়। তাই, সবগুলোই সঠিক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430605,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430604,
+      "value": {
+        "options": {
+          "ক": "5780",
+          "খ": "7380",
+          "গ": "8333",
+          "ঘ": "6532"
+        },
+        "question": "একটি সমতল গ্রেটিং এ [math]6\\times 10^{-7}\\rm{m}[/math] তরঙ্গ দৈর্ঘ্যের আলোক রশ্মি প্রথম পর্যায়ে [math]30^\\circ[/math] কোণে আপতিত হয়। গ্রেটিং এর প্রতি রেখার সংখ্যা কত?",
+        "solution": "[math]\\mathrm{d}=\\dfrac{1 \\times 6 \\times 10^{-7}}{\\sin 30^{\\circ}}=1.2 \\times 10^{-6} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{n}=\\dfrac{1}{\\mathrm{~d}}=833333 \\mathrm{~m}^{-1}=8333 \\mathrm{~cm}^{-1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 430604,
+            "year_id": 16
+          }
+        },
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 430604,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 196,
+          "full_name": "Pabna University of Science and Technology (A Unit)",
+          "short_name": "PUST-A",
+          "slug": "pust-a",
+          "pivot": {
+            "question_bank_id": 430604,
+            "tag_id": 196,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        },
+        {
+          "id": 196,
+          "full_name": "Pabna University of Science and Technology (A Unit)",
+          "short_name": "PUST-A",
+          "slug": "pust-a",
+          "pivot": {
+            "question_bank_id": 430604,
+            "tag_id": 196,
+            "year": "10-11",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430603,
+      "value": {
+        "options": {
+          "ক": "[math]\\sin ^{-1}(0.07)[/math]",
+          "খ": "[math]\\sin ^{-1}(0.1)[/math]",
+          "গ": "[math]\\sin ^{-1}(0.3)[/math]",
+          "ঘ": "[math]\\sin ^{-1}(0.7)[/math]",
+          "ঙ": "[math]\\sin ^{-1}(0.9)[/math]"
+        },
+        "question": "একটি সমতল গ্রেটিং-এর প্রতি মিলিমিটারে [math]600[/math] দাগ আছে। এর উপর সোডিয়াম আলো [math](\\lambda = 5896 \\mathring{\\rm{A}})[/math] আপতিত হলে দ্বিতীয় ক্রমের অবমগুলোর জন্য অপবর্তন কোণের মান কত এর কাছাকাছি হবে?",
+        "solution": "একক মিটারে দাগসংখ্যা, [math]\\mathrm{N}=600 \\times 1000 ; \\mathrm{n}=2 . \\quad \\lambda=5896 =5896 \\mathring{\\rm{A}} \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003Eআমরা জানি, [math]\\dfrac{\\sin \\theta}{\\mathrm{N}}=\\mathrm{n \\lambda} \\quad \\therefore \\sin \\theta=600 \\times 1000 \\times 2 \\times 5896 \\times 10^{-10} \\quad \\therefore \\theta=\\sin ^{-1}(0.7)[/math]\u003Cbr\u003E [প্রায়]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 430603,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 430603,
+            "tag_id": 73,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430576,
+      "value": {
+        "options": [],
+        "question": "কোন অপবর্তন গ্রেটিং এর প্রতি সেন্টিমিটারে [math]500[/math] রেখা রয়েছে। এর ভিতর দিয়ে [math]5896[/math] Å তর ঙ্গদৈর্ঘ্যের আলো ফেললে দ্বিতীয় চরমের জন্য অপবর্তন কোণ বের কর।",
+        "solution": "[math]36.13^{\\circ}[/math]",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সূত্র [math]m\\lambda=d\\sin\\theta[/math] প্রয়োগ করলে দ্বিতীয় চরমে ([math]m=2[/math]) [math]\\sin\\theta=\\dfrac{2\\lambda}{d}[/math]. এখানে [math]d=1/(500\\ \\text{lines/cm})=2\\times10^{-5}\\ \\text{m}[/math] এবং [math]\\lambda=5896\\ \\text{Å}=5.896\\times10^{-7}\\ \\text{m}[/math], তাই [math]\\sin\\theta=0.05896[/math]। ফলে [math]\\theta=\\arcsin(0.05896)\\approx3.38^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430576,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430601,
+      "value": {
+        "options": {
+          "ক": "6000",
+          "খ": "5000",
+          "গ": "4000",
+          "ঘ": "2500",
+          "ঙ": "1000"
+        },
+        "question": "কোন অপবর্তন গ্রেটিং এর ভিতর দিয়ে [math]5 \\times 10^{-5} \\mathrm{~cm}[/math] তরঙ্গ দৈর্ঘ্যের আলো ফেললে দ্বিতীয় চরমের জন্য অপবর্তন দেখে 30°। অপবর্তন গ্রেটিং এর প্রতি সেন্টিমিটারে কতগুলো রেখা আছে তা নির্ণয় কর।",
+        "solution": "[math]\\sin \\theta=\\mathrm{Nn} \\lambda \\Rightarrow \\mathrm{N}=\\dfrac{\\sin 30^{\\circ}}{2 \\times 5 \\times 10^{-7}} \\text { Line } / \\mathrm{m}=500000 \\text { Line } / \\mathrm{m}=5000 \\text { Line } / \\mathrm{cm}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 430601,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 501,
+          "full_name": "Chittagong University of Engineering & Technology",
+          "short_name": "CUET",
+          "slug": "cuet",
+          "pivot": {
+            "question_bank_id": 430601,
+            "tag_id": 501,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430600,
+      "value": {
+        "options": {
+          "ক": "1500",
+          "খ": "3000",
+          "গ": "6000",
+          "ঘ": "9000"
+        },
+        "question": "একটি অপবর্তন গ্রেটিংয়ে দুটি ভিন্ন তরঙ্গ দৈর্ঘ্যের আলো [math]\\lambda_1[/math] এবং [math]\\lambda_2[/math] ফেলে দেখা গেল [math]\\lambda_1[/math] এ প্রথম চরম এবং [math]\\lambda_2[/math] এ দ্বিতীয় চরম একই অপবর্তন কোণে। [math]\\lambda_1[/math] এর মান [math]6000\\mathring{\\rm{A}}[/math] হলে [math]\\lambda_2[/math] কত [math]\\mathring{\\rm{A}}[/math]?",
+        "solution": "[math]\\begin{array}{l}\\text{Hints: } N_{1} \\lambda_{1}=N_{2} \\lambda_{2}\\\\\\text{Solve: } N_{1} \\lambda_{1}=N_{2} \\lambda_{2}\\end{array}[/math]\u003Cbr\u003E [math]\\\\ \\ \\[/math]\u003Cbr\u003E [math]\\Rightarrow \\lambda_{2}=\\frac{6000}{2}\\left[\\mathrm{~N}_{1}=1, \\mathrm{~N}_{2}=2, \\lambda_{1}=6000 A\\right] \\therefore \\lambda_{2}=3000 A[/math]\u003Cbr\u003E",
+        "explanation": "আমরা জানি [math]\\mathrm{x}=\\frac{\\mathrm{n} \\lambda \\mathrm{D}}{\\mathrm{a}}[/math]\u003Cbr\u003E [math]\\Rightarrow \\mathrm{x}=\\frac{\\mathrm{nD}}{\\mathrm{a}} \\lambda \\Rightarrow \\mathrm{x} \\propto \\lambda \\ldots \\ldots \\ldots[/math]\u003Cbr\u003E (i) [ নির্দিষ্ট পরীক্ষণে [math]\\frac{\\mathrm{nD}}{\\mathrm{a}}[/math]\u003Cbr\u003E স্থির]আবার, xN = মোট গ্রন্থ [x = একটির গ্রন্থ, N = গ্রন্থ সংখ্যা]⇒ x = মোট প্রন্থ [math]\\times \\frac{1}{N} \\Rightarrow x \\propto \\frac{1}{N} \\ldots \\ldots \\ldots . . .(\\text { ii) }[\\because[/math]\u003Cbr\u003E মোট গ্রন্থ স্থির](i) ও (ii) হতে,[math]\\begin{array}{l}\\lambda \\propto \\frac{1}{N} \\therefore \\lambda_{1}=K \\frac{1}{N_{1}}\\\\\\text{(iii); } \\lambda_{2}=\\mathrm{K} \\frac{1}{\\mathrm{~N}_{2}}\\\\\\text{(iii) & (iv) , }\\\\ \\frac{\\lambda_{1}}{\\lambda_{2}}=\\frac{N_{2}}{N_{1}} \\Rightarrow \\lambda_{1} N_{1}=\\lambda_{2} N_{2}\\end{array}[/math]\u003Cbr\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 430600,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 430600,
+            "tag_id": 73,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430599,
+      "value": {
+        "options": {
+          "A": "[math]48^{\\circ }[/math]",
+          "B": "[math]55^{\\circ }[/math]",
+          "C": "[math]43^{\\circ}[/math]",
+          "D": "[math]45^{\\circ}[/math]"
+        },
+        "question": "A diffraction grating has [math]6000\\ lines/cm[/math]. If light of wavelength [math]5896\\mathring{A}[/math] is incident on the grating, what is the diffraction angle for the second maximum?",
+        "solution": "[math]d \\sin \\theta=n \\lambda \\Rightarrow \\theta=\\sin ^{-1}(n \\lambda N)=\\sin ^{-1}\\left(2 \\times 5896 \\times 10^{-10} \\times 6000 \\times 100\\right)=45^{\\circ}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 430599,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 430599,
+            "tag_id": 55,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430598,
+      "value": {
+        "options": {
+          "ক": "[math]36.13^{\\circ }[/math]",
+          "খ": "[math]36^{\\circ }[/math]",
+          "গ": "[math]35^{\\circ }22^{\\prime}[/math]",
+          "ঘ": "[math]36^{\\circ }5^{\\prime}[/math]",
+          "ঙ": "[math]35.98^{\\circ }[/math]"
+        },
+        "question": "কোন অপবর্তন গ্রেটিং এর প্রতি সেন্টিমিটারে [math]5000[/math] রেখা রয়েছে। এর ভিতর দিয়ে [math]5890\\mathring{A}[/math] তরঙ্গ দৈর্ঘ্যের আলো ফেললে দ্বিতীয় চরমের জন্য অপবর্তন কোণ কত?",
+        "solution": "[math]\\sin \\theta_{n}=N n \\lambda \\Rightarrow \\sin \\theta_{2}=5000 \\times 10^{2} \\times 2 \\times 5890 \\times 10^{-10}=.589 \\Rightarrow \\theta_{2}=36^{\\circ} 5^{\\prime}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 430598,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 430598,
+            "tag_id": 88,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430597,
+      "value": {
+        "options": {
+          "ক": "[math]1.93 \\times 10^{5}/[/math]মি",
+          "খ": "[math]6.25 \\times 10^{5}/[/math]মি",
+          "গ": "[math]4.31 \\times 10^{6}/[/math]মি",
+          "ঘ": "এক লক্ষ [math]/[/math]মি"
+        },
+        "question": "একটি নিঃসরণ সমতল গ্রেটিং-এ [math]8 \\times 10^{-7}[/math] মি তরঙ্গ দৈর্ঘ্য বিশিষ্ট আলোর প্রথম ক্রমে [math]30^\\circ[/math] অপবর্তন কোণ উৎপন্ন হয়। গ্রেটিং-এ প্রতি মিটারে রেখার সংখ্যা কত?",
+        "solution": "[math]\\rm{d} \\sin \\theta=n \\lambda \\Rightarrow \\dfrac{1}{d}=\\dfrac{\\sin \\theta}{n \\lambda}=\\dfrac{\\sin 30^{\\circ}}{1 \\times 8 \\times 10^{-7}}=6.25 \\times 10^{5} \\mathrm{~m}^{-1}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 430597,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 430597,
+            "tag_id": 3,
+            "year": "15-16",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430596,
+      "value": {
+        "options": {
+          "ক": "[math]17.46^{\\circ }[/math]",
+          "খ": "[math]64.16^{\\circ }[/math]",
+          "গ": "[math]46.7^{\\circ }[/math]",
+          "ঘ": "[math]51^{\\circ }[/math]",
+          "ঙ": "[math]63^{\\circ }58^{\\prime}[/math]"
+        },
+        "question": "গ্রেটিং এর ভিতর দিয়ে [math]5000\\mathring{\\text{A}}[/math] তরঙ্গদৈর্ঘ্যের আলো ফেলা হলে ১ম ও ৩য় চরমের জন্য অপবর্তন কোণের পার্থক্য কত? [অপবর্তন গ্রেটিংয়ের প্রতি সেন্টিমিটারে [math]6000[/math] রেখা আছে।]",
+        "solution": "[math]d \\sin \\theta=n \\lambda \\Rightarrow \\frac{1}{N} \\sin \\theta=n \\lambda \\Rightarrow \\sin \\theta=N n \\lambda \\Rightarrow \\theta=\\sin ^{-1}(N n \\lambda)\\\\ \\therefore \\theta_{1}=\\sin ^{-1}(N \\times 1 \\times \\lambda)=17.458^{\\circ}\\\\ \\quad \\theta_{3}=\\sin ^{-1}(\\mathrm{~N} \\times 3 \\times \\lambda) = 64.158^{\\circ}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পার্থক্য [math]=\\theta_{3}-\\theta_{1}=46.7^{\\circ}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 430596,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 430596,
+            "tag_id": 88,
+            "year": "15-16",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430595,
+      "value": {
+        "options": {
+          "ক": "[math]0^\\circ[/math]",
+          "খ": "[math]30^\\circ[/math]",
+          "গ": "[math]45^\\circ[/math]",
+          "ঘ": "[math]60^\\circ[/math]"
+        },
+        "question": "একটি সমতল অপবর্তন গ্রেটিং এ প্রতি সেন্টিমিটারে [math]3000[/math] টি রেখা আছে। এ গ্রেটিংকে [math]5.556 \\times 10^{-7} \\mathrm{~m}[/math] তরঙ্গ দৈর্ঘ্য বিশিষ্ট একবর্ণী আলোক রশ্মি দিয়ে আলোকিত করা হলো। তৃতীয় ক্রমের অপবর্তন কোণ কত হবে?",
+        "solution": "[math]\\sin \\theta[/math]\u003Cbr\u003E [math]=n \\lambda N[/math]\u003Cbr\u003E [math]=3 \\times 5.556 \\times 10^{-7} \\times 3000 \\times 100[/math]\u003Cbr\u003E [math]=0.5[/math]\u003Cbr\u003E [math]\\therefore \\theta=30^{\\circ}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 430595,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 430595,
+            "tag_id": 16,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430575,
+      "value": {
+        "options": [],
+        "question": "প্রতি সেন্টিমিটারে [math]4000 \\ lines[/math] বিশিষ্ট একটি সমতল অপবর্তন গ্রেটিং-এ দ্বিতীয় ক্রমের অপবর্ত ন কোণ [math]30^{\\circ}[/math] হলে ব্যবহৃত আলোর তরঙ্গদৈর্ঘ্য কত?",
+        "solution": "[math]6.25 \\times 10^{-7}ms[/math]",
+        "explanation": "গ্রেটিং সমীকরণ অনুযায়ী [math]d\\sin\\theta = m\\lambda[/math], যেখানে [math]d=1/\\text{(লাইন সংখ্যা প্রতি মিটার)}=1/(4\\times10^5\\ \\text{m}^{-1})=2.5\\times10^{-6}\\ \\text{m}[/math]. তাই [math]\\lambda=\\dfrac{d\\sin30^\\circ}{2}=\\dfrac{2.5\\times10^{-6}\\times0.5}{2}=6.25\\times10^{-7}\\ \\text{m}=625\\ \\text{nm}[/math], সুতরাং তরঙ্গদৈর্ঘ্য [math]625\\ \\text{nm}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430575,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430559,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকে উল্লিখিত অপবর্তনের পরিবর্তে গ্রেটিং দ্বারা অপবর্তন সৃষ্টি হলো। যেখানে চিড়ের ও পর্দার দাগের বেধ যথাক্রমে [math]0.0004 \\ cm[/math] এবং [math]0.00015cm[/math]। এতে [math]7000[/math]Å এর সোডিয়াম আলো ব্যবহার করা হলে একক চিড়ের অপবর্তনের সাথে উল্লিখিত অপবর্তন একই কিনা? - গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও ।"
+        },
+        "question": "নিচের চিত্রে একক চিড়ের জন্য অপবর্তন দেখানো হয়েছে।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22007-7_1755589584_vOIQc0SW.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,গ্রেটিং ধ্রুবক, d = a + b= 0.0004 cm + 0.00015 cm= 0.00055 cm= 0.00055 × 10 [math]^{- 2}[/math]\u003Cbr\u003Emআলোর তরঙ্গদৈর্ঘ্য, [math]\\lambda = 7000A^{\\circ} = 7000 × 10^{-10}[/math]\u003Cbr\u003E mক্রমসংখ্যা, n = 1অপবর্তন কোণ, [math]\\theta[/math]\u003Cbr\u003E = ?আমরা জানি,অপবর্তন গ্রেটিং অবমের জন্য,[math]\\begin{array}{c}\\mathrm{d} \\sin \\theta=(2 \\mathrm{n}-1) \\frac{\\lambda}{2} \\\\\\Rightarrow\\text { } \\sin \\theta=\\frac{1}{d}(2 \\mathrm{n}-1) \\frac{\\lambda}{2} \\\\=\\frac{(2 \\times 1-1) \\times 7000 \\times 10^{-10}}{0.00055 \\times 10^{-2} \\times 2} \\\\=0.0636\\end{array}[/math]\u003Cbr\u003E [math]\\theta=\\sin ^{-1}(0.0636)=3.65^{\\circ} \\neq 0.17^{\\circ}[/math]\u003Cbr\u003Eসুতরাং একক চিরের অপবর্তনের সাথে উল্লিখিত অপবর্তন একই নয় ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E  \nব্যাখ্যা: গ্রেটিং–এ স্লিটের প্রস্থই এ্যনভেলপ ডিফ্র্যাকশনের মিনিমা নির্ধারণ করে; এখানে স্লিটের প্রস্থ [math]a=0.0004\\ \\text{cm}=4\\times10^{-6}\\ \\text{m}[/math] এবং তরঙ্গদৈর্ঘ্য [math]\\lambda=7000\\ \\text{Å}=7\\times10^{-7}\\ \\text{m}[/math], তাই প্রথম মিনিমার শর্ত [math]a\\sin\\theta=\\lambda[/math] থেকে [math]\\sin\\theta=\\frac{\\lambda}{a}=\\frac{7\\times10^{-7}}{4\\times10^{-6}}=0.175\\Rightarrow\\theta\\approx10.06^\\circ[/math], যা একক চিড়ের জন্যինը একই। তবে গ্রেটিং-এ মোট প্যাটার্নে অতিরিক্ত তীক্ষ্ণ ইন্টারফেরেন্স শীর্ষগুলো থাকবে কারণ গ্রেটিং সপেসিং [math]d=0.00055\\ \\text{cm}=5.5\\times10^{-6}\\ \\text{m}[/math] অনুযায়ী [math]d\\sin\\theta=m\\lambda[/math] শর্তে সতর্ক শীর্ষ উপস্থিত হয়—অতএব envelope একই হলেও সামগ্রিক তীব্রতা বিতরণ একেবারেই এক নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430559,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430560,
+      "value": {
+        "options": {
+          "গ": "[math]450 \\ nm[/math] তরঙ্গদৈর্ঘ্যের আলোর প্রথম ক্রমের অপবর্তন কোণ কত?"
+        },
+        "question": "প্রতি মিটারে [math]6 \\times 10^{5}[/math] সংখ্যক রেখাসম্পন্ন কোনো অপবর্তনগ্রেটিং এর মধ্য দিয়ে 450nm তরঙ্গদৈর্ঘ্যের আলো কোনো ফিল্টারের সাহায্যে লম্বভাবে আপতিত করা হল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে,গ্রেটিং উপাদান, [math]\\mathrm{d}=\\frac{1}{\\mathrm{~N}}=\\frac{1}{6 \\times 10^{5} \\mathrm{~m}^{-1}}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]\\lambda =450 \\mathrm{~nm}=450 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003Eক্ৰমসংখ্যা, n = 1বের করতে হবে, অপবর্তন কোণ, [math]\\theta[/math]\u003Cbr\u003E = ?আমরা জানি,[math]\\mathrm{d} \\sin \\theta=\\mathrm{n} \\lambda[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\therefore \\quad \\sin \\theta=\\frac{\\mathrm{n} \\lambda}{\\mathrm{d}}=1 \\times, 450 \\times 10^{-9} \\mathrm{~m} \\times 6 \\times 10^{5} \\mathrm{~m}^{-1}=0.27 \\\\\\therefore \\theta=\\sin ^{-1}(0.27)=15.66^{\\circ} \\text {. (Ans.) }\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথম ক্রম (m=1) জন্য গ্রেটিং সূত্র [math]d\\sin\\theta=m\\lambda[/math] প্রযোজ্য। রেখা ঘনত্ব [math]6\\times10^{5}\\ \\text{m}^{-1}[/math] হলে [math]d=1/(6\\times10^{5})=1.6667\\times10^{-6}\\ \\text{m}[/math], তাই [math]\\sin\\theta=\\lambda/d=(4.5\\times10^{-7})/(1.6667\\times10^{-6})=0.27[/math], ফলে [math]\\theta=\\arcsin(0.27)\\approx15.7^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430560,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430561,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের আলোকে চতুর্থ রুমের অপবর্তন সম্ভব কিনা বিশ্লেষণ কর।"
+        },
+        "question": "প্রতি মিটারে [math]6 \\times 10^{5}[/math] সংখ্যক রেখাসম্পন্ন কোনো অপবর্তনগ্রেটিং এর মধ্য দিয়ে 450nm তরঙ্গদৈর্ঘ্যের আলো কোনো ফিল্টারের সাহায্যে লম্বভাবে আপতিত করা হল।",
+        "solution": "",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গ্রেটিং স্পেসিং [math]d=\\frac{1}{N}=\\frac{1}{6\\times10^{5}}=1.67\\times10^{-6}\\text{ m}[/math] এবং সর্বোচ্চ পর্যায়ের শর্ত [math]m\\le\\frac{d}{\\lambda}[/math]। এখানে [math]\\frac{d}{\\lambda}=\\frac{1.67\\times10^{-6}}{450\\times10^{-9}}\\approx3.7[/math], সুতরাং পূর্ণসংখ্যা পর্যায়গুলো মাত্র [math]m=0,1,2,3[/math] সম্ভব এবং চতুর্থ পর্যায় সম্ভব নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430561,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430562,
+      "value": {
+        "options": [],
+        "question": "একটি সমতল নিঃসরণ গ্রেটিং এর দ্বারা সৃষ্ট বর্ণালী রেখার ৩য় ক্রম [math]30^{\\circ}[/math] অপবর্তন কোণ তৈরি করে। গ্রেটিং এর প্রতিমিটার দৈর্ঘ্য [math]3000 \\times 10^{2}[/math]সংখ্যক রেখা থাকলে আলোকের তরঙ্গদৈর্ঘ্য নির্ণয় কর।",
+        "solution": "[math]5556[/math] Å",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সমীকরণ (সাধারণত স্বাভাবিক প্রবেশের জন্য) হলো [math]m\\lambda = d\\sin\\theta[/math], যেখানে এখানে [math]m=3[/math] এবং [math]\\theta=30^\\circ[/math]. প্রতি মিটার রেখার সংখ্যা [math]3000\\times10^2=3\\times10^5[/math] তাই চূর্ণবিচ্ছেদ দূরত্ব [math]d=1/(3\\times10^5)=3.33\\times10^{-6}\\,\\text{m}[/math]. ফলে [math]\\lambda=\\dfrac{d\\sin30^\\circ}{3}=\\dfrac{3.33\\times10^{-6}\\times0.5}{3}=5.56\\times10^{-7}\\,\\text{m}=556\\,\\text{nm}[/math], যা সঠিক কারণ এটি গ্রেটিং সমীকরণ থেকে সরাসরি পাওয়া ফল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430562,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430563,
+      "value": {
+        "options": [],
+        "question": "[math]6438[/math] Å তরংগদৈর্ঘ্যের একবর্ণী আলোকের ক্ষেত্রে একটি গ্রেটিং দ্বিতীয় ক্রমের বা পর্যায়ের বর্ণালী রেখার ক্ষেত্রে [math]15^{\\circ}8^{\\prime}[/math]উৎপন্ন করে। গ্রেটিং এর প্রতিমিটার দৈর্ঘ্যের রেখার সংখ্যা নির্ণয় কর।",
+        "solution": "[math]2028 \\times 10^{2}[/math]",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সূত্র [math]d\\sin\\theta=m\\lambda[/math] থেকে রেখার ঘনত্ব [math]N=1/d=\\dfrac{\\sin\\theta}{m\\lambda}[/math] লেখা যায়। এখানে [math]\\theta=15^\\circ8'=15.1333^\\circ,\\ \\sin\\theta\\approx0.26107,\\ \\lambda=6438\\ \\text{Å}=6.438\\times10^{-7}\\ \\text{m},\\ m=2[/math] তাই\n[math]N=\\dfrac{0.26107}{2\\times6.438\\times10^{-7}}\\approx2.03\\times10^{5}\\ \\text{রেখা/মি}[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430563,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430564,
+      "value": {
+        "options": [],
+        "question": "একটি সমতল গ্রেটিং-এ [math]6 \\times 10^{-7}m[/math] তরঙ্গ দৈর্ঘ্যের আলোক রশ্মি প্রথম ক্রমে [math]30^{\\c irc}[/math] অপবর্তন কোণ উৎপন্ন করে। গ্রেটিং এর প্রতিমিটার দৈর্ঘ্যের রেখার সংখ্যা ও গ্রেটিং ধ্রুবক নির্ণয় কর।",
+        "solution": "[math]12 \\times 10^{-7}m[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,আলোর তরঙ্গদৈর্ঘ্য, [math]\\lambda = 6 \\times 10^{-7}m[/math]\u003Cbr\u003Eক্রমসংখ্যা, [math]n=1[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta = 30^{\\circ}[/math]\u003Cbr\u003Eপ্রতি মিটার দৈর্ঘ্যে রেখার সংখ্যা, [math]N=?[/math]\u003Cbr\u003Eএবং গ্রেটিং ধ্রুবক, [math]d=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} \\frac{\\sin \\theta}{\\mathrm{N}}=\\mathrm{n} \\lambda \\\\ \\therefore N=\\frac{\\sin \\theta}{n \\lambda}=\\frac{\\sin 30^{\\circ}}{1 \\times 6 \\times 10^{-7} \\mathrm{~m}} \\\\ =833333 \\mathrm{~m}^{-1} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003Eএখন, গ্রেটিং ধ্রুবক, [math]\\mathrm{d}=\\frac{1}{\\mathrm{~N}}=\\frac{1}{833333 \\mathrm{~m}^{-1}}=12 \\times 10^{-7} \\mathrm{~m} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: গ্রেটিংয়ের শর্ত [math]d\\sin\\theta = m\\lambda[/math] প্রয়োগ করলে প্রথম ক্রমে (m=1) পাওয়া যায় [math]d=\\frac{\\lambda}{\\sin\\theta}=\\frac{6\\times10^{-7}}{\\sin30^\\circ}=\\frac{6\\times10^{-7}}{0.5}=1.2\\times10^{-6}\\ \\text{m}[/math].  \n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রতিমিটারের রেখার সংখ্যা: [math]N=\\frac{1}{d}=\\frac{1}{1.2\\times10^{-6}}=8.33\\times10^{5}\\ \\text{রেখা/মি}[/math].  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E গ্রেটিং ধ্রুবক: [math]d=1.2\\times10^{-6}\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430564,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430565,
+      "value": {
+        "options": [],
+        "question": "একটি সমতল গ্রেটিং এর প্রতি সেন্টিমিটারে দাগের সংখ্যা [math]6000[/math] । [math]5000[/math] Å তরঙ্গদৈর্ঘ্যের আলো লম্বভাবে গ্রেটিং তলের ওপর আপতিত হচ্ছে। প্রথম ক্রমের উজ্জ্বল রেখার জন্য অপবর্তন কোণ নির্ণয় কর।",
+        "solution": "[math]17.46^{\\circ}[/math]",
+        "explanation": "তফাৎাকার দূরত্বটি লাইনগুলো প্রতি সেন্টিমিটারে 6000 দাগ থাকলে [math]d=\\frac{1}{6000}\\,\\text{cm}=\\frac{1}{6000}\\times10^{-2}\\,\\text{m}=1.6667\\times10^{-6}\\,\\text{m}[/math]. প্রথম ক্রমে (ম = 1) গ্রেটিং সমীকরণ প্রযোজ্য [math]m\\lambda=d\\sin\\theta[/math], তাই [math]\\sin\\theta=\\frac{\\lambda}{d}=\\frac{5\\times10^{-7}}{1.6667\\times10^{-6}}=0.3\\Rightarrow\\theta=\\arcsin(0.3)\\approx17.46^\\circ[/math], তাই অপবর্তন কোণ প্রায় [math]17.5^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430565,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430566,
+      "value": {
+        "options": [],
+        "question": "কোনো অপবর্তন গ্রেটিং এ প্রতি সেন্টিমিটারে [math]5000[/math] রেখা রয়েছে। এর ভেতর দিয়ে [math]5896[/math] Å ত রঙ্গদৈর্ঘ্যের আলো ফেললে দ্বিতীয় চরমের জন্য অপবর্তন কোণ বের কর।",
+        "solution": "[math]36^{\\circ}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,তরঙ্গ দৈর্ঘ্য, [math]\\lambda = 5896[/math]\u003Cbr\u003EÅ[math]=5896 \\times 10^{-10}m[/math]\u003Cbr\u003Eক্রমসংখ্যা, [math]n=2[/math]\u003Cbr\u003Eপ্রতি মিটার দৈর্ঘ্যে রেখার সংখ্যা,[math]\\begin{array}{l} \\mathrm{N}=5000 \\times 100 \\mathrm{~m}^{-1} \\\\ =5 \\times 10^{5} \\mathrm{~m}^{-1} \\end{array}[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta = ?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} \\frac{\\sin \\theta}{N}=n \\lambda \\\\ \\therefore \\sin \\theta=N n \\lambda \\\\ =5 \\times 10^{5} \\times 2 \\times 5896 \\times 10^{-10} \\\\ =0.590 \\\\ \\therefore 0=36^{\\circ} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: গ্রেটিং স্পেসিং [math]d[/math] আছে [math]5000\\ \\text{রেখা/সে.মি.} = 5\\times10^{5}\\ \\text{রেখা/মি.}[/math], তাই [math]d=\\frac{1}{5\\times10^{5}}=2.0\\times10^{-6}\\ \\text{m}[/math]; তরঙ্গদৈর্ঘ্য [math]\\lambda=5896\\ \\text{Å}=5.896\\times10^{-7}\\ \\text{m}[/math]. চরমের শর্ত [math]d\\sin\\theta=m\\lambda[/math] (এখানে দ্বিতীয় চরমের জন্য [math]m=2[/math]) ব্যবহারে [math]\\sin\\theta=\\frac{2\\lambda}{d}=\\frac{2\\times5.896\\times10^{-7}}{2.0\\times10^{-6}}=0.5896[/math], থেকে [math]\\theta\\approx36.2^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430566,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430568,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে বর্ণিত আলোর ক্ষেত্রে প্রথম চরমের জন্য অপবর্তন কোণ নির্ণয় করো।"
+        },
+        "question": "কোনো অপবর্তন গ্রেটিং-এর প্রতি সেন্টিমিটারে [math]5000[/math] রেখা আছে। এর ভেতর দিয়ে [math]5896[/math] Å তরঙ্গদৈর্ঘ্যের আলো ফেলা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর: 17.14°[math]\\\\[/math]",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথম চরমের জন্য গ্রেটিং সমীকরণ [math]d\\sin\\theta=m\\lambda[/math] যেখানে [math]m=1[/math]। 5000 রেখা প্রতি সেমি হলে [math]d=1/5000\\ \\text{cm}=2\\times10^{-6}\\ \\text{m}[/math] এবং [math]\\lambda=5896\\ \\text{Å}=5.896\\times10^{-7}\\ \\text{m}[/math], ফলে [math]\\sin\\theta=\\lambda/d=0.2948[/math] এবং [math]\\theta=\\arcsin(0.2948)\\approx17.1^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430568,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430567,
+      "value": {
+        "options": [],
+        "question": "একটি নিঃসরণ সমতল গ্রেটিং এ [math]8 \\times 10^{-7}m[/math] তরঙ্গদৈর্ঘ্য বিশিষ্ট আলোর প্রথম ক্রমে [math]3 0^{\\circ}[/math] অপবর্তন কোণ উৎপন্ন করে। গ্রেটিং এ প্রতি মিটারে রেখার সংখ্যা কত?",
+        "solution": "[math]6.25 \\times 10^{5} / m[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,তরঙ্গদৈর্ঘ্য, [math]\\lambda = 8 \\times 10^{-7} \\ m[/math]\u003Cbr\u003Eক্রসংখ্যা, [math]n=1[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta = 30^{\\circ}[/math]\u003Cbr\u003Eপ্রতি মিটার দৈর্ঘ্য রেখার সংখ্যা, [math]N=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} \\mathrm{d} \\sin \\theta=n \\lambda \\\\ \\Rightarrow \\frac{\\sin \\theta}{N}=n \\lambda\\left[\\because \\mathrm{d}=\\frac{1}{\\mathrm{~N}}\\right] \\\\ \\begin{aligned} \\therefore \\mathrm{N} & =\\frac{\\sin 30^{\\circ}}{1 \\times 8 \\times 10^{-7}} \\\\ & =\\frac{0.5}{8 \\times 10^{-7}} \\\\ & =6.25 \\times 10^{5} / \\mathrm{m} \\text { (Ans.) } \\end{aligned} \\begin{array}{l} \\text { } \\end{array} \\\\ \\text { } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সমীকরণ [math]d\\sin\\theta=m\\lambda[/math] প্রয়োগ করলে প্রথম ক্রমে ([math]m=1[/math]) [math]d=\\dfrac{\\lambda}{\\sin30^\\circ}=\\dfrac{8\\times10^{-7}}{0.5}=1.6\\times10^{-6}\\ \\text{m}[/math] পাওয়া যায়। তাই প্রতি মিটারে রেখার সংখ্যা [math]N=\\dfrac{1}{d}=\\dfrac{1}{1.6\\times10^{-6}}=6.25\\times10^{5}\\ \\text{lines/m}[/math], যা সঠিক কারণ গ্রেটিং সমীকরণ থেকে এই মান প্রতিস্পন্দিত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430567,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430574,
+      "value": {
+        "options": [],
+        "question": "একটি সমতল অপবর্তন গ্রেটিং-এ প্রতি সেন্টিমিটার [math]3000 \\ Lines[/math] আছে। এ গ্রেটিংকে [math]5.556 \\times 10^{-7}m[/math] তরঙ্গ দৈর্ঘ্য বিশিষ্ট একবর্ণী আলোর রশ্মি দ্বারা আলোকিত করা হল। তৃতীয় ক্রমের অপবর্তন কোণ কত হবে?",
+        "solution": "[math]30^{\\circ}[/math]",
+        "explanation": "ব্যাখ্যা: গ্রেটিংয়ের ফাঁক [math]d=\\frac{1}{3000\\ \\text{lines/cm}}=\\frac{1}{3\\times10^{5}\\ \\text{lines/m}}=3.333\\times10^{-6}\\ \\text{m}[/math] এবং গ্রেটিং সমীকরণ [math]d\\sin\\theta=m\\lambda[/math] প্রয়োগ করলে তৃতীয় ক্রমে [math]\\sin\\theta=\\frac{3\\times5.556\\times10^{-7}}{3.333\\times10^{-6}}=0.5[/math], সুতরাং [math]\\theta=30^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430574,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430573,
+      "value": {
+        "options": [],
+        "question": "কোনো অপবর্তন গ্রেটিং-এ প্রতি সেন্টিমিটারে [math]4200[/math] রেখা রয়েছে। এর উপর সোডিয়াম আলোর সমান্তরাল রশ্মিগুচ্ছ অভিলম্বভাবে আপতিত হলে বর্ণালি রেখার দ্বিতীয় ক্রম [math]30^{\\circ}[/math] অপবর্তন কোণ উৎপন্ন করে। সোডিয়াম আলোর তরঙ্গদৈর্ঘ্য নির্ণয় কর।",
+        "solution": "[math]5962[/math] Å",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সূত্র হলো [math]d\\sin\\theta=m\\lambda[/math] যেখানে [math]m=2[/math] ও [math]\\theta=30^\\circ[/math]. গ্রেটিং স্পেসিং [math]d=1/(4200\\ \\text{lines/cm})=1/(4200\\times100)\\ \\text{m}=[/math][math]2.381\\times10^{-6}\\ \\text{m}[/math]. তাই [math]\\lambda=\\dfrac{d\\sin30^\\circ}{2}=\\dfrac{2.381\\times10^{-6}\\times0.5}{2}=5.95\\times10^{-7}\\ \\text{m}=595\\ \\text{nm}[/math]; অতএব তরঙ্গদৈর্ঘ্য ≈ [math]595\\ \\text{nm}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430573,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430572,
+      "value": {
+        "options": [],
+        "question": "একটি নিঃসরণ সমতল গ্রেটিং [math]8 \\times 10^{-7}cm[/math] তরঙ্গদৈর্ঘ্য বিশিষ্ট আলোর প্রথম ক্রমে [math]30 ^{\\circ}[/math] অপবর্তন কোণ উৎপন্ন করে। গ্রেটিং-এর প্রতি মিটারে রেখার সংখ্যা কত?",
+        "solution": "[math]6.25 \\times 10^{5} / m[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,তরঙ্গদৈর্ঘ্য, [math]\\lambda = 8 \\times 10^{-7} \\ m[/math]\u003Cbr\u003Eক্রসংখ্যা, [math]n=1[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta = 30^{\\circ}[/math]\u003Cbr\u003Eপ্রতি মিটার দৈর্ঘ্য রেখার সংখ্যা, [math]N=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} \\mathrm{d} \\sin \\theta=n \\lambda \\\\ \\Rightarrow \\frac{\\sin \\theta}{N}=n \\lambda\\left[\\because \\mathrm{d}=\\frac{1}{\\mathrm{~N}}\\right] \\\\ \\begin{aligned} \\therefore \\mathrm{N} & =\\frac{\\sin 30^{\\circ}}{1 \\times 8 \\times 10^{-7}} \\\\ & =\\frac{0.5}{8 \\times 10^{-7}} \\\\ & =6.25 \\times 10^{5} / \\mathrm{m} \\text { (Ans.) } \\end{aligned} \\begin{array}{l} \\text { } \\end{array} \\\\ \\text { } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিসরণ সূত্র [math]d\\sin\\theta=m\\lambda[/math] প্রয়োগ করলে প্রথম ক্রমে [math]m=1[/math], [math]\\sin30^\\circ=1/2[/math] এবং [math]\\lambda=8\\times10^{-7}\\,\\text{cm}=8\\times10^{-9}\\,\\text{m}[/math], অতএব [math]d=\\lambda/\\sin30^\\circ=2\\lambda=1.6\\times10^{-8}\\,\\text{m}[/math]. তাই প্রতি মিটারের রেখার সংখ্যা হচ্ছে [math]1/d=1/(1.6\\times10^{-8})=6.25\\times10^{7}\\,\\text{lines/m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430572,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430571,
+      "value": {
+        "options": [],
+        "question": "একটি সমতল নিঃসরণ গ্রেটিং এর দ্বারা সৃষ্ট বর্ণালী রেখার দ্বিতীয় ক্রম [math]30^{\\circ}[/math] অপবর্তন কোণ উৎপন্ন করে। যদি আলোর তরঙ্গদৈর্ঘ্য [math]5890[/math] Å হয় তবে গ্রেটিং এর প্রতি মিটারে রেখার সংখ্যা নির্ণয় কর।",
+        "solution": "[math]4.2 \\times 10^{5}[/math]",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সমীকরণ [math]d\\sin\\theta=m\\lambda[/math] প্রয়োগ করলে যেখানে [math]m=2[/math], [math]\\theta=30^{\\circ}[/math] এবং [math]\\lambda=5890\\ \\text{Å}=5.89\\times10^{-7}\\ \\text{m}[/math]. তাই [math]d=\\dfrac{2\\times5.89\\times10^{-7}}{\\sin30^{\\circ}}=\\dfrac{1.178\\times10^{-6}}{0.5}=2.356\\times10^{-6}\\ \\text{m}[/math]. গ্রেটিংয়ের প্রতি মিটারের রেখার সংখ্যা [math]N=\\dfrac{1}{d}\\approx4.24\\times10^{5}\\ \\text{রেখা/মি}[/math], যা সঠিক উত্তর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430571,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430570,
+      "value": {
+        "options": [],
+        "question": "কোনো অপবর্তন গ্রেটিং-এর প্রতি সেন্টিমিটারে [math]5000[/math] রেখা রয়েছে। এর ভিতর দিয়ে [math]5896[/math] Å ত রঙ্গদৈর্ঘ্যের আলো ফেললে দ্বিতীয় চরমের জন্য অপবর্তন কোণ বের কর।",
+        "solution": "[math]36.13^{\\circ}[/math]",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সমীকরণ [math]d\\sin\\theta=m\\lambda[/math] ব্যবহারে, রেখার সংখ্যা অনুযায়ী বিভাজক দূরত্ব [math]d=\\dfrac{1}{5000\\ \\text{per cm}}=2\\times10^{-6}\\,\\text{m}[/math] এবং তরঙ্গদৈর্ঘ্য [math]\\lambda=5896\\ \\text{Å}=5.896\\times10^{-7}\\,\\text{m}[/math]. দ্বিতীয় চরমের জন্য [math]m=2[/math] দিলে [math]\\sin\\theta=\\dfrac{2\\lambda}{d}=0.5896[/math], তাই [math]\\theta\\approx36.2^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430570,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430569,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকে বর্ণিত আলোর ক্ষেত্রে চতুর্থ চরমের জন্য অপবর্তন সম্ভব কি না গাণিতিক বিশ্লেষণের সা হায্যে ব্যাখ্যা করো।"
+        },
+        "question": "কোনো অপবর্তন গ্রেটিং-এর প্রতি সেন্টিমিটারে [math]5000[/math] রেখা আছে। এর ভেতর দিয়ে [math]5896[/math] Å তরঙ্গদৈর্ঘ্যের আলো ফেলা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,ক্রমসংখ্যা, n = 4তরঙ্গদৈর্ঘ্য, [math]\\lambda = 5896 A^{\\circ} = 5896 × 10^{-10}[/math]\u003Cbr\u003E mরেখার সংখ্যা, N = 5000 lines cm [math]^{-1} = 5000 × 10^{-2} lines m^{-1}[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta[/math]\u003Cbr\u003E = ?আমরা জানি,[math]\\begin{array}{l}d \\sin \\theta=n \\lambda \\\\\\Rightarrow\\text { } \\frac{\\sin \\theta}{N}=n \\lambda\\left[\\because d=\\frac{1}{N}\\right] \\\\\\Rightarrow\\text { } \\sin \\theta=n N \\lambda \\\\\\Rightarrow\\text { } \\sin \\theta=4 \\times 5000 \\times 10^{2} \\times 5896 \\times 10^{-10}\\end{array}[/math]\u003Cbr\u003E. [math]\\therefore sin\\theta[/math]\u003Cbr\u003E= 1.1792, যা অসম্ভব ।কারণ [math]sin\\theta[/math]\u003Cbr\u003E এর সর্বোচ্চ মান ।সুতরাং উপরোক্ত গাণিতিক বিশ্লেষণ হতে দেখা যায়, উদ্দীপকের আলোকে চতুর্থ ক্রমের অপবর্তন সম্ভব নয় ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E উপযুক্ত ব্যাখ্যা: গ্রেটিং সূত্র [math]d\\sin\\theta=n\\lambda[/math] এবং সর্বোচ্চ ক্রম তখন যখন [math]\\sin\\theta=1[/math], তাই [math]n_{\\max}=\\dfrac{d}{\\lambda}[/math]. এখানে [math]d=\\dfrac{1}{5000\\ \\text{lines/cm}}=2\\times10^{-6}\\ \\text{m}[/math] এবং [math]\\lambda=5896\\ \\text{Å}=5.896\\times10^{-7}\\ \\text{m}[/math], ফলে [math]n_{\\max}=\\dfrac{2\\times10^{-6}}{5.896\\times10^{-7}}\\approx3.39[/math]. অতএব চতুর্থ (n=4) চরমটি সম্ভব না, কারণ সর্বোচ্চ পূর্ণ ক্রম হলো 3।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430569,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:46:24.000000Z",
+            "updated_at": "2025-08-19T07:46:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430542,
+      "value": {
+        "options": {
+          "গ": "সুমির পরীক্ষণে প্রথম চরমের জন্য অপবর্তন কোণ নির্ণয় কর।"
+        },
+        "question": "সুমি প্রতি সেন্টিমিটারে [math]6000[/math] দাগবিশিষ্ট অপবর্তন গ্রেটিং এর [math]5890\\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আলো ফেলল। অপরদিকে রুমি প্রতি সেন্টিমিটারে [math]1.25 \\times 10^{5}[/math] সংখ্যক দাগবিশিষ্ট অপবর্তন গ্রেটিং-এ [math]2200\\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আলো ফেলল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eদাগ সংখ্যা, [math]\\mathrm{N}_{\\mathrm{s}}=6000 \\mathrm{~cm}^{-1}=600000 \\mathrm{~m}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]\\lambda_{\\mathrm{s}}=5890 \\mathring{A}=5890 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eক্রমসংখ্যা, n = 1[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta_{\\mathrm{s}}=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~ \\mathrm{d} \\sin \\theta_{s}=\\mathrm{n} \\lambda_{s}\\\\ \\Rightarrow \\frac{1}{N_{s}} \\sin \\theta_{s}=n \\lambda_{s} \\\\ \\Rightarrow \\sin \\theta_{s}=n N_{s} \\lambda_{s} \\\\ \\Rightarrow \\theta_{s}=\\sin ^{-1}\\left(n N_{s} \\lambda_{s}\\right) \\\\ \\qquad=\\sin ^{-1}\\left(1 \\times 600000 \\mathrm{~m}^{-1} \\times 5890 \\times 10^{-10} \\mathrm{~m}\\right) \\\\ \\qquad=20.7^{\\circ} \\end{array}[/math]\u003Cbr\u003Eসুতরাং, সুমির পরীক্ষণে প্রথম চরমের জন্য অপবর্তন কোণের মান [math]20.7^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গ্রেটিং সমীকরণ [math]d\\sin\\theta=n\\lambda[/math] থেকে, [math]d=1/(6000\\times100)=1.667\\times10^{-6}\\ \\rm m[/math] এবং [math]\\lambda=5890\\ \\mathring{\\rm A}=5.89\\times10^{-7}\\ \\rm m[/math]. প্রথম ক্রমের জন্য [math]n=1[/math] হলে [math]\\sin\\theta=\\lambda/d=0.3534[/math], ফলে [math]\\theta\\approx20.7^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 430542,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430542,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430543,
+      "value": {
+        "options": {
+          "ঘ": "রুমির পরীক্ষণে তরঙ্গদৈর্ঘ্যের কিরূপ পরিবর্তন আনলে দ্বিতীয় চরমের জন্য সুমি ও রুমি উভয়ের ক্ষেত্রে অপবর্তন কোণ একই পাওয়া যাবে? গাণিতিক বিশ্লেষণ কর।"
+        },
+        "question": "সুমি প্রতি সেন্টিমিটারে [math]6000[/math] দাগবিশিষ্ট অপবর্তন গ্রেটিং এর [math]5890\\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আলো ফেলল। অপরদিকে রুমি প্রতি সেন্টিমিটারে [math]1.25 \\times 10^{5}[/math] সংখ্যক দাগবিশিষ্ট অপবর্তন গ্রেটিং-এ [math]2200\\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আলো ফেলল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eসুমির ক্ষেত্রে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eদাগসংখ্যা, [math]\\mathrm{N}_{\\mathrm{s}}=6000 \\mathrm{~cm}^{-1}=6 \\times 10^{5} \\mathrm{~m}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eক্রমসংখ্যা, n = 2[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]\\lambda=5890 \\mathring{A}=5890 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta =?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\sin \\theta & =n N_{s} \\lambda_{s}\\\\ \\therefore ~~\\theta & =\\sin ^{-1}\\left(\\mathrm{n} \\mathrm{N}_{s} \\lambda_{s}\\right) \\\\ & =\\sin ^{-1}\\left(2 \\times 6 \\times 10^{5} \\mathrm{~m}^{-1} \\times 5890 \\times 10^{-10} \\mathrm{~m}\\right) \\\\ & =44.98^{\\circ} \\end{aligned}[/math]\u003Cbr\u003Eআবার, রুমির ক্ষেত্রে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eদাগ সংখ্যা, [math]\\mathrm{N}_{\\mathrm{R}}=1.25 \\times 10^{5} \\mathrm{~cm}^{-1}=1.25 \\times 10^{7} \\mathrm{~m}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eক্রমসংখ্যা, n = 2[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta=44.98^{\\circ}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রাথমিক তরঙ্গদৈর্ঘ্য, [math]\\lambda_{R}=2200 \\mathring{A}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপরিবর্তিত তরঙ্গদৈর্ঘ্য, [math]\\lambda=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\sin \\theta & =\\mathrm{n} \\mathrm{N}_{\\mathrm{R}} \\lambda\\\\ \\Rightarrow ~\\lambda & =\\frac{\\sin \\theta}{n N_{R}} \\\\ & =\\frac{\\sin 44.98^{\\circ}}{2 \\times 1.25 \\times 10^{7} \\mathrm{~m}^{-1}} \\\\ & =282.7 \\times 10^{-10} \\mathrm{~m}=282.7 \\mathring{A} \\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E তরঙ্গদৈর্ঘ্যের পরিবর্তন [math]=(2200 \\mathring{A}-282.7 \\mathring{A})=1917.3 \\mathring{A}[/math]\u003Cbr\u003Eঅর্থাৎ রুমি তরঙ্গদৈর্ঘ্য [math]1917.3 \\mathring{A}[/math]\u003Cbr\u003E হ্রাস করলে দ্বিতীয় চরমের জন্য উভয়ের পরীক্ষায় একই অপবর্তন কোণ পাওয়া যাবে।",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সমীকরণ [math]d\\sin\\theta=m\\lambda[/math]; দ্বিতীয় চরমে ([math]m=2[/math]) সমান কোণের শর্তে [math]\\frac{2\\lambda_1}{d_1}=\\frac{2\\lambda_2'}{d_2}\\Rightarrow \\lambda_2'=\\lambda_1\\frac{d_2}{d_1}=\\lambda_1\\frac{N_1}{N_2}[/math]. হিসাব করলে [math]\\lambda_2'=5890\\ \\mathring{\\rm A}\\times\\frac{6000}{1.25\\times10^5}=5890\\times0.048\\approx282.7\\ \\mathring{\\rm A}[/math]. অতএব রুমি-কে তরঙ্গদৈর্ঘ্যকে প্রায় [math]283\\ \\mathring{\\rm A}[/math] এ নামাতে হবে (বর্তমান [math]2200\\ \\mathring{\\rm A}[/math] থেকে হ্রাস).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 430543,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430543,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430544,
+      "value": {
+        "options": {
+          "গ": "১ম ক্রম চরমগুলোর মধ্যবর্তী কৌণিক দূরত্ব কত?"
+        },
+        "question": "রায়হান অপটিকস ল্যাবে [math]600\\ nm[/math] তরঙ্গ দৈর্ঘ্যবিশিষ্ট একবর্ণী আলো [math]2\\ \\mu m[/math] প্রস্থের চিড়বিশিষ্ট একটি অপবর্তন গ্রেটিং-এর উপর লম্বভাবে আপতিত করল। সে ধারণা করেছিল যে সে নয়টি চরম বিন্দু দেখতে পারবে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআলোর তরঙ্গদৈর্ঘ্য, [math]\\lambda=600 \\mathrm{~nm}=600 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eক্রম সংখ্যা, n =1[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচিরের বেধ, [math]\\mathrm{a}=2 \\mu \\mathrm{m}=2 \\times 10^{-6} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eমধ্যবর্তী কৌণিক দূরত্ব, [math]2 \\theta_{n}{ }^{\\prime}=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~\\mathrm{a} \\sin \\theta_{n}^{\\prime}=(2 n+1) \\frac{\\lambda}{2} \\\\ \\Rightarrow \\sin \\theta_{n}^{\\prime}=(2 n+1) \\frac{\\lambda}{2 a} \\\\ \\Rightarrow \\sin \\theta_{n}^{\\prime}=(2 n+1) \\times \\frac{600 \\times 10^{-9} \\mathrm{~m}}{2 \\times 2 \\times 10^{-6} \\mathrm{~m}}=0.45 \\\\ \\Rightarrow \\theta_{n}^{\\prime}=\\sin ^{-1}(0.45)=26.74^{\\circ}\\\\ \\therefore \\quad 2 \\theta_{n}{ }^{\\prime}=2 \\times 26.74=53.48^{\\circ} \\end{array}[/math]\u003Cbr\u003Eঅতএব, ১ম ক্রম চরমগুলোর মধ্যবর্তী কৌণিক দূরত্ব 53.48°।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গ্রেটিং সমীকরণ অনুযায়ী [math]d\\sin\\theta=m\\lambda[/math]; এখানে [math]m=1,[/math] [math]d=2\\times10^{-6}\\,\\text{m},[/math] [math]\\lambda=600\\times10^{-9}\\,\\text{m}[/math] হলে [math]\\sin\\theta_1=0.3[/math] এবং [math]\\theta_1\\approx17.46^\\circ[/math]. তাই প্রথম ক্রমের দুই পাশের চরমগুলোর মধ্যবর্তী কৌণিক দূরত্ব [math]2\\theta_1\\approx34.9^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430544,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430544,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 430544,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430545,
+      "value": {
+        "options": {
+          "ঘ": "রায়হানের ধারণা কি সঠিক ছিল? গাণিতিক বিশ্লেষণের সাহায্যে ব্যাখ্যা কর।"
+        },
+        "question": "রায়হান অপটিকস ল্যাবে [math]600\\ nm[/math] তরঙ্গ দৈর্ঘ্যবিশিষ্ট একবর্ণী আলো [math]2\\ \\mu m[/math] প্রস্থের চিড়বিশিষ্ট একটি অপবর্তন গ্রেটিং-এর উপর লম্বভাবে আপতিত করল। সে ধারণা করেছিল যে সে নয়টি চরম বিন্দু দেখতে পারবে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক হতে পাই,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআলোর তরঙ্গদৈর্ঘ্য, [math]\\lambda=600 \\mathrm{~nm}=600 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচিরের বেধ, [math]\\mathrm{a}=2 \\mu \\mathrm{m}=2 \\times 10^{-6} \\mathrm{~m}[/math]\u003Cbr\u003Eঅপবর্তন কোণ সর্বোচ্চ [math]\\theta=90^{\\circ}[/math]\u003Cbr\u003E হতে পারে। এক্ষেত্রে যে কোনো এক পাশে সর্বোচ্চ ক্রমের চরম বিন্দু সৃষ্ট হলে,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad a \\sin 90^{\\circ}=(2 n+1) \\frac{\\lambda}{2}: n=0,1,2,3, \\ldots\\\\ \\Rightarrow 2 \\mathrm{n}+1=\\frac{2 a}{\\lambda}\\\\ \\Rightarrow 2 \\mathrm{n}=\\frac{2 \\mathrm{a}}{\\lambda}-1\\\\ \\Rightarrow n=\\frac{a}{\\lambda}-\\frac{1}{2}=\\frac{2 \\times 10^{-6}}{600 \\times 10^{-9}}-\\frac{1}{2}\\end{array}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\Rightarrow \\rm{n}=2.83 \\approx 2[/math]\u003Cbr\u003E যেহেতু n এর মান ভগ্নাংশ হতে পারে না।রায়হান কেন্দ্রীয় চরম ও এর উভয় পাশে দুটি করে, চরম দেখতে পাবে।অর্থাৎ রায়হান মোট [math]2+2+1 = 5[/math]\u003Cbr\u003E টি চরম বিন্দু দেখতে পাবে।অতএব, রায়হানের ধারণা সঠিক ছিল না।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E না — রায়হানের ধারণা সঠিক না। কারণ সিঙ্গল-স্লিট মিনিমার শর্ত [math]a\\sin\\theta=m\\lambda[/math] এবং সর্বোচ্চ যোগ্য পূর্ণসংখ্যা হবে [math]m_{\\max}=\\lfloor a/\\lambda\\rfloor=\\lfloor2000/600\\rfloor=3[/math]; অতএব দৃশ্যমান চরম বিন্দু সংখ্যা হবে [math]2m_{\\max}+1=2\\times3+1=7[/math], নয়টি নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430545,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430545,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 430545,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430546,
+      "value": {
+        "options": {
+          "গ": "[math]450\\ n m[/math] তরঙ্গদৈর্ঘ্যের আলোর প্রথম ক্রমের অপবর্তন কোণ কত?"
+        },
+        "question": "প্রতি মিটারে [math]6 \\times 10^{5}[/math] সংখ্যক রেখাসম্পন্ন কোনো অপবর্তন গ্রেটিং এর মধ্য দিয়ে [math]450\\ nm[/math] তরঙ্গদৈর্ঘ্যের আলো কোনো ফিল্টারের সাহায্যে লম্বভাবে আপতিত করা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, অপবর্তন কোণ,উদ্দীপক থেকে পাই,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]\\lambda=450 \\mathrm{~nm}=450 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eক্রম, n=1[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রতিমিটারে রেখার সংখ্যা, [math]N=6 \\times 10^{5}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~ d \\sin \\theta=n \\lambda\\\\ \\Rightarrow \\sin \\theta=\\frac{n \\lambda}{d}=\\operatorname{Nn} \\lambda=6 \\times 10^{5} \\times 1 \\times 450 \\times 10^{-9} \\\\ \\Rightarrow \\sin \\theta=0.27 \\\\ \\Rightarrow \\theta=\\sin ^{-1}(0,27) \\\\ \\therefore ~\\theta=15.66^{\\circ} \\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E প্রথম ক্রমের অপবর্তন কোণ 15.66°।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গ্রেটিং স্পেসিং [math]d=\\dfrac{1}{6\\times10^{5}}\\ \\text{m}=1.6667\\times10^{-6}\\ \\text{m}[/math] এবং গ্রেটিং সূত্র [math]d\\sin\\theta=m\\lambda[/math]; প্রথম ক্রমে [math]m=1[/math] হলে [math]\\sin\\theta=\\dfrac{\\lambda}{d}=\\dfrac{450\\times10^{-9}}{1.6667\\times10^{-6}}=0.27[/math]. তাই [math]\\theta=\\arcsin(0.27)\\approx15.7^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 430546,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430546,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 430546,
+            "tag_id": 46,
+            "year": "2015",
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430547,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের আলোকে চতুর্থ ক্রমের অপবর্তন সম্ভব কি-না বিশ্লেষণ কর।"
+        },
+        "question": "প্রতি মিটারে [math]6 \\times 10^{5}[/math] সংখ্যক রেখাসম্পন্ন কোনো অপবর্তন গ্রেটিং এর মধ্য দিয়ে [math]450\\ nm[/math] তরঙ্গদৈর্ঘ্যের আলো কোনো ফিল্টারের সাহায্যে লম্বভাবে আপতিত করা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচতুর্থ ক্রমের জন্য, n = 4[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতরঙ্গ দৈর্ঘ্য, [math]\\lambda=450 \\mathrm{~nm}=450 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রতিমিটারে রেখার সংখ্যা, [math]N=6 \\times 10^{5}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅপবর্তন কোণ [math]=\\theta[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~\\sin \\theta=n N \\lambda \\\\ \\Rightarrow \\sin \\theta=4 \\times 6 \\times 10^{5} \\times 450 \\times 10^{-9} \\\\ \\Rightarrow \\sin \\theta=1.08 \\end{array}[/math]\u003Cbr\u003Eআমরা জানি, [math]\\sin \\theta[/math]\u003Cbr\u003E এর সর্বোচ্চ মান [math]= 1[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\therefore \\quad \\sin \\theta \\neq 1.08[/math]\u003Cbr\u003Eঅতএব, চতুর্থ ক্রমের অপবর্তন সম্ভব নয়।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গ্রেটিং এর রৈখিক ঘনত্ব [math]N=6×10^{5}\\ \\text{m}^{-1}[/math] হওয়ায় কেন্দ্রীকবিন্দুর দূরত্ব [math]d=1/N=1/(6×10^{5})≈1.667×10^{-6}\\ \\text{m}[/math] এবং তরঙ্গদৈর্ঘ্য [math]λ=450\\ \\text{nm}=4.5×10^{-7}\\ \\text{m}[/math]. ডিফ্র্যাকশন শর্ত হচ্ছে [math]d\\sinθ=mλ[/math] এবং সম্ভাব্য সর্বোচ্চ ক্রম [math]m_{\\max}=\\lfloor d/λ\\rfloor≈\\lfloor 1.667×10^{-6}/4.5×10^{-7}\\rfloor≈\\lfloor3.70\\rfloor=3[/math]. অতএব চতুর্থ ক্রম ([math]m=4[/math]) সম্ভব নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 430547,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430547,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 430547,
+            "tag_id": 46,
+            "year": "2015",
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430548,
+      "value": {
+        "options": [],
+        "question": "নীল [math]LED[/math] হতে নিসৃত আলো একটি অপবর্তন গ্রেটিং এর উপর লম্বভাবে আপতিত হয়। এই অপব র্তন গ্রেটিং এ [math]25.4\\ mm[/math] প্রস্থে সমব্যবধানে [math]1.26 \\times 10^{4}[/math] টি রেখা টানা আছে। কেন্দ্রীয় অঙ্ক হতে কত ডিগ্রী কোণে দ্বিতীয় চরম [math]\\text{(second-order maxima)}[/math] উৎপন্ন হবে? [নীল আলোর তরঙ্গ দৈর্ঘ্য, [math]\\lambda=450 \\times 10^{-9} \\mathrm{~m}[/math]]",
+        "solution": "Solution : প্রতিটি রেখার প্রস্থ [math]=\\dfrac{25.4 \\times 10^{-3}}{1.26 \\times 10^{4}} \\mathrm{~m}=2.01587 \\times 10^{-6} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm} \\text { Now, dsin }(\\alpha)=n \\lambda \\Rightarrow 2.01587 \\times 10^{-6} \\times \\sin (\\alpha)=2 \\times 450 \\times 10^{-9} \\therefore \\alpha=26.51^{\\circ} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে গ্রেটিং-র রেখা-অন্তরাল পাওয়া যাবে: [math]d=\\dfrac{0.0254\\ \\mathrm{m}}{1.26\\times10^4}=2.016\\times10^{-6}\\ \\mathrm{m}[/math]। অপবর্তন গ্রেটিং সূত্র [math]d\\sin\\theta=m\\lambda[/math] প্রয়োগ করলে দ্বিতীয় ক্রমের জন্য [math]m=2[/math] এবং [math]\\sin\\theta=\\dfrac{2\\lambda}{d}=\\dfrac{2\\times450\\times10^{-9}}{2.016\\times10^{-6}}=0.4466[/math] পাওয়া যায়। তাই কোণটি হবে [math]\\theta=\\sin^{-1}(0.4466)\\approx26.5^\\circ[/math], অর্থাৎ কেন্দ্রীয় অঙ্ক হতে প্রায় [math]26.5^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 430548,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 430548,
+            "tag_id": 80,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430549,
+      "value": {
+        "options": [],
+        "question": "একটি অপবর্তন গ্রেটিং এর প্রতি সেন্টিমিটারে [math]6000[/math] রেখা আছে, যাহার মাধ্যমে সোডিয়াম আলোর দ্বিতীয় চরমের বর্ণালী পাওয়া যায়। [math]2[/math] টি সোডিয়াম আলোর তরঙ্গ দৈর্ঘ্য [math]5890\\mathring{A}[/math] এবং [math]5896\\mathring{A}[/math] হলে এদের মধ্যে কৌণিক দূরত্ব কত?",
+        "solution": "( Answer : [math]0.058^{\\circ}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : [math]\\mathrm{N}=6000 \\mathrm{~cm}^{-1}, \\mathrm{n}=2, \\lambda_{1}=5890 \\mathring{A}[/math]\u003Cbr\u003Eচরমের জন্য [math]\\frac{1}{N} \\sin \\theta=n \\lambda \\Rightarrow \\theta=\\sin ^{-1}(n N \\lambda)[/math]\u003Cbr\u003E [math]\\lambda_1[/math]\u003Cbr\u003E এর জন্য, [math]\\theta_{1}=\\sin ^{-1}\\left(2 \\times 6000 \\times 5890 \\times 10^{-8}\\right)=44.975^{\\circ}[/math]\u003Cbr\u003E [math]\\lambda_2[/math]\u003Cbr\u003E এর জন্য, [math]\\theta_{2}=\\sin ^{-1}\\left(2 \\times 6000 \\times 5896 \\times 10^{-8}\\right)=45.033^{\\circ}[/math]\u003Cbr\u003E [math]\\therefore\\[/math]\u003Cbr\u003Eকৌণিক দূরত্ব = [math]=\\theta_{2}-\\theta_{1}=45.033^{\\circ}-44.975^{\\circ}=0.058^{\\circ} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সমীকরণ [math]d\\sin\\theta=m\\lambda[/math]; এখানে রেখার বিভব [math]d=1/(6000\\ \\text{lines/cm})=1/(6000\\times10^2)\\ \\text{m}=1.6667\\times10^{-6}\\ \\text{m}[/math] এবং দ্বিতীয় ক্রমের জন্য [math]m=2[/math]। ছোট তরঙ্গদৈর্ঘ্য পার্থক্যের ক্ষেত্রে কোণের পার্থক্য আনুমানিকভাবে [math]\\Delta\\theta\\approx\\dfrac{m\\,\\Delta\\lambda}{d\\cos\\theta}[/math] এবং এখানে [math]\\bar\\lambda\\approx5893\\mathring{A}[/math] দিলে [math]\\cos\\theta\\approx0.70708[/math] পাওয়া যায়। ফলে [math]\\Delta\\theta\\approx\\dfrac{2\\times6\\times10^{-10}}{1.6667\\times10^{-6}\\times0.70708}\\approx1.018\\times10^{-3}\\ \\text{rad}\\approx0.0584^\\circ\\ ( \\approx3.50')[/math], যা দুই লাইনের কৌণিক দূরত্ব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 430549,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 430549,
+            "tag_id": 88,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430550,
+      "value": {
+        "options": [],
+        "question": "কোন অপবর্তন গ্রেটিংয়ের প্রতি সেন্টিমিটারে [math]6000[/math] রেখা আছে। এর ভিতর দিয়ে [math]5896\\ \\mat hring{A}[/math] তরঙ্গদৈর্ঘ্যের আলো ফেললে দ্বিতীয় চরমের জন্য অপবর্তন কোণ বের কর।",
+        "solution": "(Answer : [math]45.03^{\\circ}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : [math]\\mathrm{N}=6000 \\mathrm{~cm}^{-1}=6 \\times 10^{5} \\mathrm{~m}^{-1}\\\\ n=2 ; \\lambda=5896 \\mathring{A}=5.896 \\times 10^{-7} \\mathrm{~m}[/math]\u003Cbr\u003Eএখন [math]\\dfrac{\\sin \\theta}{N}=n \\lambda \\Rightarrow \\sin \\theta=n N \\lambda \\Rightarrow \\theta=\\sin ^{-1}\\left(2 \\times 6 \\times 10^{5} \\times 5.896 \\times 10^{-7}\\right)=45.03^{\\circ} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: গ্রেটিংয়ের রেখার ঘনত্ব [math]6000\\ \\text{line/cm}=600000\\ \\text{line/m}[/math] হওয়ায় ফাঁক [math]d=1/600000=1.6667\\times10^{-6}\\ \\text{m}[/math]। দ্বিতীয় ক্রমে (m=2) গ্রেটিং সমীকরণ [math]d\\sin\\theta=m\\lambda[/math] প্রয়োগ করলে, [math]\\lambda=5896\\ \\AA=5.896\\times10^{-7}\\ \\text{m}[/math] থেকে [math]\\sin\\theta=2\\lambda/d\\approx0.70752[/math], ফলে [math]\\theta\\approx45^\\circ[/math] — অর্থাৎ দ্বিতীয় চরমটি [math]45^\\circ[/math] এ হয় কারণ সেই কোণে পথে পার্থক্য ঠিক গুণিতকভাবে [math]\\lambda[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430550,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 430550,
+            "tag_id": 109,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430551,
+      "value": {
+        "options": {
+          "গ": "দ্বিতীয় ক্রমের বর্ণালির ক্ষেত্রে লাল ও বেগুনি রশ্মির কৌণিক ব্যবধান নির্ণয় কর।"
+        },
+        "question": "হাইড্রোজেন বর্ণালির লাল ও বেগুনি বর্ণের তরঙ্গদৈর্ঘ্য যথাক্রমে [math]6500 \\ Å[/math] ও [math]4500 \\ Å[/math] প্রতি মিলিমিটারে [math]500[/math] টি দাগ কাটা একটি প্রেটিংকে হাইড্রোজেন আলো দ্বারা আলোকিত করা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eআমরা জানি, গ্রেটিংয়ের ক্ষেত্রে উজ্জ্বল বিন্দুর শর্ত হচ্ছে, [math]sin\\theta = Nn\\lambda[/math]\u003Cbr\u003Eএখানে,ক্রমসংখ্যা, n = 2লাল আলোর তরঙ্গদৈর্ঘ্য, [math]\\lambda = 6500 A^\\circ = 6.5 × 10^{-7}[/math]\u003Cbr\u003E mবেগুনী আলোর তরঙ্গদৈর্ঘ্য, [math]\\lambda = 4500 A^\\circ = 4.5 \\times 10^{-7}[/math]\u003Cbr\u003E mগ্রেটিং এ প্রতি মিটারে রেখার সংখ্যা, N = 500000লাল আলোর অপবর্তন কোণ, [math]\\theta_r[/math]\u003Cbr\u003E = ?বেগুনী আলোর অপবর্তন কোণ, [math]\\theta_v[/math]\u003Cbr\u003E = ?এখন লাল আলোর দ্বিতীয় ক্রমের জন্য অপবর্তন কোণ [math]\\theta_r[/math]\u003Cbr\u003E, হলে,[math]\\begin{aligned}\\sin \\theta_{\\mathrm{r}} & =\\mathrm{Nn} \\lambda \\\\& =500000 \\times 2 \\times 6.5 \\times 10^{-7} \\mathrm{~m} \\\\& =0.65 \\\\\\therefore \\theta_{\\mathrm{r}} & =40.54^{\\circ}\\end{aligned}[/math]\u003Cbr\u003Eএবং বেগুনী আলোর দ্বিতীয় ক্রমের জন্য অপবর্তন কোণ [math]\\theta[/math]\u003Cbr\u003E_v হলে,[math]\\begin{aligned}\\sin \\theta_{v} & =\\mathrm{Nn} \\lambda \\\\& =500000 \\times 2 \\times 4.5 \\times 10^{-7} \\mathrm{~m} \\\\& =0.45 \\\\\\therefore \\theta_{v} & =26.74^{\\circ}\\end{aligned}[/math]\u003Cbr\u003Eদ্বিতীয় ক্রমের বর্ণালীর ক্ষেত্রে লাল ও বেগুনি রশ্মি কৌণিক ব্যবধান, [math]\\Delta\\theta[/math]\u003Cbr\u003E [math]=\\theta_{\\mathrm{r}}-\\theta_{\\mathrm{v}}=40.54^{\\circ}-26.74^{\\circ}=13.8^{\\circ}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: গ্রেটিং সূত্র [math]d\\sin\\theta=m\\lambda[/math] প্রয়োগ করলে, [math]d=1/500\\ \\text{mm}=2\\times10^{-3}\\ \\text{mm}[/math], [math]\\lambda_{red}=6500Å=6.5\\times10^{-4}\\ \\text{mm}[/math], [math]\\lambda_{violet}=4500Å=4.5\\times10^{-4}\\ \\text{mm}[/math].  \n[math]\\sin\\theta_{red}=2\\lambda_{red}/d=2(6.5\\times10^{-4})/(2\\times10^{-3})=0.65\\Rightarrow\\theta_{red}\\approx40.5^\\circ[/math], [math]\\sin\\theta_{violet}=2(4.5\\times10^{-4})/(2\\times10^{-3})=0.45\\Rightarrow\\theta_{violet}\\approx26.7^\\circ[/math].  \nঅতএব কৌণিক ব্যবধান [math]\\Delta\\theta=\\theta_{red}-\\theta_{violet}\\approx13.8^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430551,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430552,
+      "value": {
+        "options": {
+          "ঘ": "তৃতীয় ক্রম অপেক্ষা অধিক রুমের বর্ণালি পাওয়া সম্ভব কি না গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "হাইড্রোজেন বর্ণালির লাল ও বেগুনি বর্ণের তরঙ্গদৈর্ঘ্য যথাক্রমে [math]6500 \\ Å[/math] ও [math]4500 \\ Å[/math] প্রতি মিলিমিটারে [math]500[/math] টি দাগ কাটা একটি প্রেটিংকে হাইড্রোজেন আলো দ্বারা আলোকিত করা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eআমরা জানি, গ্রেটিংয়ের ক্ষেত্রে উজ্জ্বল বিন্দুর শর্ত হচ্ছে,[math]sin\\theta = Nn\\lambda[/math]\u003Cbr\u003E [math]\\theta[/math]\u003Cbr\u003E এর সর্বোচ্চ মান 90° হতে পারে। সুতরাং [math]Nn\\lambda[/math]\u003Cbr\u003E এর সর্বোচ্চ মান হতে পারে 1 । অর্থাৎ[math]\\begin{array}{l}N n \\lambda \\leq 1 \\\\\\therefore n \\leq \\frac{1}{N \\lambda}\\end{array}[/math]\u003Cbr\u003Eলাল আলোর ক্ষেত্রে,[math]\\begin{array}{l}\\mathrm{n} \\leqslant \\frac{1}{500000 \\times 6.5 \\times 10^{-7} \\mathrm{~m}} \\\\\\therefore \\mathrm{n} \\leqq 3.077\\end{array}[/math]\u003Cbr\u003Eবেগুনি আলোর ক্ষেত্রে,[math]\\begin{array}{l}\\mathrm{n} \\leq \\frac{1}{500000 \\times 4.5 \\times 10^{-2} \\mathrm{~m}} \\\\\\therefore \\mathrm{n} \\leq 4.44\\end{array}[/math]\u003Cbr\u003Eকিন্তু n এর মান ভগ্নাংশ হতে পারে না। সুতরাং লাল আলোর ক্ষেত্রে সর্বোচ্চ তৃতীয় ক্রমের এবং বেগুনি বর্ণের ক্ষেত্রে সর্বোচ্চ চতুর্থ ক্রমের বর্ণালি পাওয়া সম্ভব।",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সমীকরণ [math]d\\sin\\theta=m\\lambda[/math] এবং [math]\\sin\\theta\\le1[/math] থেকে সর্বোচ্চ আদেশের আনুমানিক মান [math]m_{\\max}\\approx d/\\lambda[/math]। গ্রেটিং স্পেসিং [math]d=1/(500\\ \\text{line/mm})=2.0\\times10^{-6}\\ \\text{m}=20000\\ \\AA[/math]। তাই লাল (6500 Å) জন্য [math]m_{\\max}\\approx20000/6500\\approx3.08\\Rightarrow3[/math], বেগুনি (4500 Å) জন্য [math]m_{\\max}\\approx20000/4500\\approx4.44\\Rightarrow4[/math]। ফলে \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অনুযায়ী লালের ক্ষেত্রে তৃতীয় ক্রমের চেয়ে উচ্চতর আদেশ নেবোনা, বেগুনির ক্ষেত্রে চতুর্থ আদেশ পর্যন্ত পাওয়া যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430552,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430553,
+      "value": {
+        "options": [],
+        "question": "একটি সমতল নিঃসরণ গ্রেটিং দ্বারা সৃষ্ট বর্ণালি রেখার দ্বিতীয় ক্রম [math]30^{\\circ}[/math] অপবর্তন কোণ উৎ পন্ন করে। যদি আলোর তরঙ্গদৈর্ঘ্য [math]589[/math] Å হয় তবে গ্রেটিং-এর প্রতি সেন্টিমিটারে রেখার সংখ্যা নির্ণয় কর।",
+        "solution": "[math]4244[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,অপবর্তন কোণ,ক্রম সংখ্যাতরঙ্গদৈর্ঘ্য,[math]\\lambda= \\mathrm{5890}[/math]\u003Cbr\u003EÅ[math]\\begin{array}{l} =5890 \\times 10^{-10} \\mathrm{~m} \\\\ =5.89 \\times 10^{-7} \\mathrm{~m} \\\\ =5.89 \\times 10^{-5} \\mathrm{~cm} \\end{array}[/math]\u003Cbr\u003Eপ্রতি সেন্টিমিটারে রেখার সংখ্যা, [math]N=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} d \\sin \\theta=n \\lambda \\\\ \\Rightarrow \\frac{1}{N} \\sin \\theta=n \\lambda \\\\ \\Rightarrow N=\\frac{\\sin \\theta}{n \\lambda} \\\\ =\\frac{\\sin 30^{\\circ}}{2 \\times 5.89 \\times 10^{-5} \\mathrm{~cm}} \\\\ =4244 \\mathrm{~cm}^{-1} \\text {. } \\\\ \\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E প্রতি সেন্টিমিটারে রেখার সংখ্যা [math]4244 \\ (Ans.)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: গ্রেটিং সমীকরণ ব্যবহার করলে [math]d\\sin\\theta=m\\lambda[/math], এখানে [math]m=2,\\ \\theta=30^\\circ,\\ \\lambda=589\\,Å[/math]. তাই [math]d=\\dfrac{2\\times589\\,Å}{\\sin30^\\circ}=\\dfrac{1178\\,Å}{0.5}=2356\\,Å=2356\\times10^{-8}\\,cm=2.356\\times10^{-5}\\,cm[/math]. প্রতি সেন্টিমিটারে রেখার সংখ্যা [math]N=1/d\\approx\\dfrac{1}{2.356\\times10^{-5}}\\approx4.24\\times10^{4}\\,{\\rm lines/cm}[/math], যা সঠিক উত্তর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430553,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430554,
+      "value": {
+        "options": [],
+        "question": "প্রতি সেন্টিমিটারে [math]6000[/math] দাগ বিশিষ্ট একটি সমতল গ্রেটিংয়ের ওপর আলো লম্বভাবে আপতিত হলে দ্বিতীয় ক্রমের অপবর্তনের জন্য অপবর্তন কোণ [math]45^{\\circ}[/math]পাওয়া গেল। আলোর তরঙ্গদৈর্ঘ্য নির্ণয় কর।",
+        "solution": "[math]5892[/math]\u003Cbr\u003EÅ[math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,একক দৈর্ঘ্যে চিরের সংখ্যা,[math]\\begin{aligned} \\mathrm{N} & =6000 \\mathrm{~cm}^{-1} \\\\ & =600000 \\mathrm{~m}^{-1} \\end{aligned}[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta = 45^{\\circ}[/math]\u003Cbr\u003Eক্রমসংখ্যা, [math]n=2[/math]\u003Cbr\u003Eতরঙ্গ দৈর্ঘ্য, [math]\\lambda = ?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,উজ্জ্বলতার শর্ত অনুযায়ী,[math]\\begin{array}{l} \\mathrm{d} \\sin \\theta=n \\lambda \\\\ \\Rightarrow \\frac{\\sin \\theta}{N}=n \\lambda\\left[\\because d=\\frac{1}{N}\\right] \\\\ \\Rightarrow \\lambda=\\frac{\\sin \\theta}{\\mathrm{nN}}=\\frac{\\sin 45^{\\circ}}{2 \\times 600000} \\\\ \\therefore \\lambda=5892 \\times 10^{-10} \\mathrm{~m} \\end{array}[/math]\u003Cbr\u003E [math]=5892[/math]\u003Cbr\u003EÅ [math](Ans.)[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে গ্রেটিং শিথিলতা নির্ণয় করি: [math]d=\\frac{1}{6000\\ \\text{lines/cm}}=\\frac{10^{-2}}{6000}\\ \\text{m}=1.6667\\times10^{-6}\\ \\text{m}[/math]. গ্রেটিং সূত্র অনুযায়ী [math]d\\sin\\theta=m\\lambda[/math], তাই [math]\\lambda=\\dfrac{d\\sin45^\\circ}{2}=\\dfrac{1.6667\\times10^{-6}\\times\\frac{\\sqrt2}{2}}{2}\\approx5.89\\times10^{-7}\\ \\text{m}=589\\ \\text{nm}[/math]; অতএব তরঙ্গদৈর্ঘ্য প্রায় [math]589\\ \\text{nm}[/math], যা সূত্র থেকে পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430554,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430555,
+      "value": {
+        "options": [],
+        "question": "একটি সমতল গ্রেটিং এ প্রতি সেন্টিমিটারে দাগ সংখ্যা [math]7000[/math] । [math]5000[/math] Å তরঙ্গদৈর্ঘ্যের সমতল আলোক তরঙ্গ লম্বভাবে তলের ওপর আপতিত হলে প্রথম ক্রমের উজ্জল রেখার জন্য অপবর্তন কোণ নির্ণয় কর।",
+        "solution": "[math]20.49^{\\circ}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,চিরের সংখ্যা,[math]N=7000 \\ cm^{-1}[/math]\u003Cbr\u003E [math]=700000m^{-1}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য,[math]\\lambda = 5000[/math]\u003Cbr\u003EÅ[math]=5000 \\times 10^{-10}m[/math]\u003Cbr\u003Eক্রমসংখ্যা [math]n=1[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,উজ্জ্বলতার শর্তয়ানুযায়ী,[math]\\begin{array}{l} d \\sin \\theta=n \\lambda \\\\ \\Rightarrow \\frac{\\sin \\theta}{\\mathrm{N}}=\\mathrm{n} \\lambda \\\\ \\Rightarrow \\sin \\theta=\\mathrm{Nn} \\lambda \\\\ =700000 \\mathrm{~m}^{-1} \\times 1 \\times 5000 \\times 10^{-10} \\mathrm{~m} \\end{array}[/math]\u003Cbr\u003E [math]\\therefore \\theta=\\sin ^{-1}(0.35)=20.49^{\\circ} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে গ্রেটিং পার্শ্ববিস্তার বের কর: [math]d=\\frac{1}{7000}\\ \\text{cm}=\\frac{1}{7000}\\times10^{-2}\\ \\text{m}\\approx1.4286\\times10^{-6}\\ \\text{m}[/math]. গ্রেটিং সূত্রে [math]d\\sin\\theta=m\\lambda[/math] নেওয়া হলে প্রথম ক্রমে (ম = 1) ও [math]\\lambda=5000\\ \\text{Å}=5\\times10^{-7}\\ \\text{m}[/math], তাই [math]\\sin\\theta=\\frac{\\lambda}{d}\\approx0.35[/math]. অতএব [math]\\theta=\\arcsin(0.35)\\approx20.5^\\circ[/math], যা উত্তর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430555,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430556,
+      "value": {
+        "options": [],
+        "question": "একটি গ্রেটিংয়ের [math]3 \\ cm[/math]-এ [math]15000[/math] সংখ্যক দাগ আছে। ঐ গ্রেটিংয়ের ওপর [math]6000[/math] Å তর ঙ্গদৈর্ঘ্যের আলো লম্বভাবে আপতিত হলে সর্বাধিক কৃত ক্রমের অপবর্তন দেখা যেতে পারে?",
+        "solution": "[math][/math]\u003Cbr\u003Eএখানে,দাগ সংখ্যা,[math]\\begin{aligned} \\mathrm{N} & =\\frac{15000}{3 \\mathrm{~cm}} \\\\ & =5000 \\mathrm{~cm}^{-1} \\end{aligned}[/math]\u003Cbr\u003Eতরংদৈর্ঘ্য,[math]\\begin{aligned} \\lambda_{.} & =6000 \\times 10^{-10} \\mathrm{~m} \\\\ & =6000 \\times 10^{-8} \\mathrm{~cm} \\\\ & =6 \\times 10^{-5} \\mathrm{~cm} \\end{aligned}[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta = 90^{\\circ}[/math]\u003Cbr\u003Eক্রমসংখ্যা, [math]n=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math]\\begin{array}{l} d \\sin \\theta=n \\lambda \\\\ \\Rightarrow \\frac{1}{N} \\sin \\theta=n \\lambda \\\\ \\begin{aligned} \\Rightarrow n & =\\frac{\\sin \\theta}{N . \\lambda} \\\\ & =\\frac{\\sin 90^{\\circ}}{5000 \\times 6 \\times 10^{-5}} \\\\ & =3.33 \\end{aligned} \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে গ্রেটিং স্পেসিং নির্ণয়: [math]d=\\frac{0.03\\ \\text{m}}{15000}=2\\times10^{-6}\\ \\text{m}[/math]. যেহেতু সক্রিয় জম্মাসূত্র [math]d\\sin\\theta=m\\lambda[/math] এবং [math]\\sin\\theta\\le1[/math], সর্বোচ্চ ক্রম [math]m_{\\max}=\\left\\lfloor\\frac{d}{\\lambda}\\right\\rfloor[/math]; এখানে [math]\\lambda=6000\\ \\text{Å}=6\\times10^{-7}\\ \\text{m}[/math], তাই [math]m_{\\max}=\\left\\lfloor\\frac{2\\times10^{-6}}{6\\times10^{-7}}\\right\\rfloor=\\lfloor3.33\\rfloor=3[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430556,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430557,
+      "value": {
+        "options": {
+          "গ": "[math]450 \\ nm[/math] তরঙ্গদৈর্ঘ্যের আলোর প্রথম ক্রমের অপবর্তন কোণ কত?"
+        },
+        "question": "প্রতি মিটারে [math]6 \\times 10^{5}[/math] সংখ্যক রেখাসম্পন্ন কোনো অপবর্তন গ্রেটিং এর মধ্য দিয়ে [math]450 \\ nm[/math] তরঙ্গদৈর্ঘ্যের আলো কোনো ফিল্টারের সাহায্যে লম্বভাবে আপতিত করা হল।",
+        "solution": "",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: গ্রেটিংয়ের ফাঁক [math]d=1/N=1/(6\\times10^{5})=1.6667\\times10^{-6}\\ \\text{m}[/math]. প্রথম ক্রমে [math]m=1[/math] হওয়ায় [math]\\sin\\theta=\\dfrac{m\\lambda}{d}=\\dfrac{4.5\\times10^{-7}}{1.6667\\times10^{-6}}=0.27[/math], ফলে [math]\\theta=\\arcsin(0.27)\\approx15.7^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430557,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430558,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের আলোকে চতুর্থ ক্রমের অপবর্তন সম্ভব কিনা বিশ্লেষণ কর।"
+        },
+        "question": "প্রতি মিটারে [math]6 \\times 10^{5}[/math] সংখ্যক রেখাসম্পন্ন কোনো অপবর্তন গ্রেটিং এর মধ্য দিয়ে [math]450 \\ nm[/math] তরঙ্গদৈর্ঘ্যের আলো কোনো ফিল্টারের সাহায্যে লম্বভাবে আপতিত করা হল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eচতুর্থ ক্রমের অপবর্তনের জন্য n = 4, এক্ষেত্র sin [math]\\theta[/math]\u003Cbr\u003E এর গ্রহণযোগ্য মান পাওয়া গেলে এই সিদ্ধান্তে উপনীত হওয়া যাবে যে, চতুর্থ ক্রমেরঅপবর্তন সম্ভব।পুনরায়, [math]dsin\\theta = n\\lambda[/math]\u003Cbr\u003E [math]\\sin \\theta=\\frac{\\mathrm{n} \\lambda}{\\mathrm{d}}=4 \\times 450 \\times 10^{-9} \\mathrm{~m} \\times 6 \\times 10^{5} \\mathrm{~m}^{-1}=1.08[/math]\u003Cbr\u003Eকিন্তু sin [math]\\theta[/math]\u003Cbr\u003E এর সর্বোচ্চ মান 1 হতে পারেসুতরাং এটি গ্রহণযোগ্য মান নয়। সুতরাং চতুর্থ ক্রমের অপবর্তন সম্ভব নয় ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রথমে গ্রেটিং নখসংখ্যা থেকে ফাঁকা দূরত্ব [math]d=1/(6\\times10^{5})=1.6667\\times10^{-6}\\,\\text{m}[/math] পাওয়া যায়; সর্বোচ্চ ক্রমের শর্ত [math]m\\lambda\\le d[/math]। তাই [math]m_{\\max}=\\lfloor d/\\lambda\\rfloor=\\lfloor(1.6667\\times10^{-6})/(450\\times10^{-9})\\rfloor=\\lfloor3.70\\rfloor=3[/math], ফলে চতুর্থ ক্রম (m=4) সম্ভব নয় (কারণ sinθ\u003E1 হবে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430558,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430541,
+      "value": {
+        "options": {
+          "ঘ": "রিয়ার উক্তি যথার্থ কিনা— হিসাব করো।"
+        },
+        "question": "রিয়া এবং রিপা দুটি অপবর্তন গ্রেটিং নিয়ে পরীক্ষা করছিল । রিয়ার গ্রেটিং এ প্রতি সেন্টিমিটারে দাগসংখ্যা 6000। এর ভিতরে কমলা রঙের আলো ফেলা হলো। অপরদিকে রিপার গ্রেটিং-এর গ্রেটিং ধ্রুবক [math]1.6 \\times 10^{-6} \\mathrm{~m}[/math]। সে সবুজ আলো নিয়ে পরীক্ষা করছিল। রিয়া বললো প্রথম উজ্জ্বল রেখার জন্য অপবর্তন কোণ আমার ক্ষেত্রে বেশি হবে। রিপা বললো, দেখা যাক।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-2720part201202023-2004-2_1755589582_mX2lMwXF.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,ক্রমসংখ্যা, n = 1কমলা তরঙ্গদৈর্ঘ্য,[math]\\begin{aligned}\\lambda & =6000 \\ \\mathring {A} \\\\& =6000 \\times 10^{-10} \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta_{1}=?[/math]\u003Cbr\u003Eরিয়ার ক্ষেত্রে,গ্রেটিং ধ্রুবক,[math]\\begin{array}{l}d=\\frac{1 \\mathrm{~cm}}{6000} \\\\=\\frac{1 \\times 10^{-2} \\mathrm{~m}}{6000}\\end{array}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\mathrm{d} \\sin \\theta_{1}=\\mathrm{n} \\lambda[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\sin \\theta_{1}=\\frac{\\mathrm{n} \\lambda}{\\mathrm{d}}[/math]\u003Cbr\u003E [math]=\\frac{1 \\times 6000 \\times 10^{-10}}{\\frac{1 \\times 10^{-2}}{6000}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\sin \\theta_{1}=0.36[/math]\u003Cbr\u003E [math]\\therefore \\theta_{1}=21.1^{\\circ} \\text { (Ans.) }[/math]\u003Cbr\u003Eএখানে,তরঙ্গদৈর্ঘ্য, [math]\\lambda=5000 \\ \\mathring {A} =5000 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003Eচরমের ক্রম, n = 1[math]\\therefore[/math]\u003Cbr\u003E গ্রেটিং ধ্রুবক, [math]\\mathrm{d}=1.6 \\times 10^{-6} \\mathrm{m}[/math]\u003Cbr\u003Eঅপবর্তন কোণ, [math]\\theta_{2}=?[/math]\u003Cbr\u003Eরিপার ক্ষেত্রেআমরা জানি,[math]\\mathrm{d} \\sin \\theta_{2}=\\mathrm{n} \\lambda[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\sin \\theta_{2}=\\frac{n \\lambda}{d}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\sin \\theta_{2}=\\frac{1 \\times 5000 \\times 10^{-10}}{1.6 \\times 10^{-6}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\sin \\theta_{2}=0.3125[/math]\u003Cbr\u003E [math]\\therefore \\theta_{2}=18.21^{\\circ} \\text { (Ans.) }[/math]\u003Cbr\u003Eদেখা যাচ্ছে [math]\\theta_{1}\u003E\\theta_{2}[/math]\u003Cbr\u003E।[math]\\therefore[/math]\u003Cbr\u003E রিয়ার উক্তি যথার্থ।",
+        "explanation": "হ্যাঁ — রিয়ার উক্তি যথার্থ। কারণ রিয়ার গ্রেটিং স্পেসিং [math]d_R=\\frac{1}{6000\\ \\text{per cm}}=\\frac{1}{600000\\ \\text{m}^{-1}}=[math]1.667\\times10^{-6}\\ \\text{m}[/math], রিপার গ্রেটিং [math]d_{R'}=1.6\\times10^{-6}\\ \\text{m}[/math]; প্রথম ধাপে [math]\\sin\\theta=\\lambda/d[/math] নিলে ধরা হলে কমলা লাম্বদা ≈ [math]6.0\\times10^{-7}\\ \\text{m}[/math] এবং সবুজ ≈ [math]5.5\\times10^{-7}\\ \\text{m}[/math], তাই [math]\\sin\\theta_R\\approx0.36\\ ( \\theta_R\\approx21^\\circ)[/math] এবং [math]\\sin\\theta_{R'}\\approx0.344\\ ( \\theta_{R'}\\approx20^\\circ)[/math], অতএব রিয়ার প্রথম উজ্জ্বল রেখার কোণ সামান্য বেশি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:46:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430541,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430541,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430541,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-08-19T07:46:23.000000Z",
+            "updated_at": "2025-08-19T07:46:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6696&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6696&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6696&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 70,
+  "total": 70
+}

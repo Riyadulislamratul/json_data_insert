@@ -1,0 +1,471 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 397905,
+      "value": {
+        "options": [],
+        "question": "একটি এরোপ্লেনের পাইলট 288 km/h বেগে অনুভূমিকভাবে ভ্রমনকালে বন্দুক থেকে গুলি করেন। 3 seconds পরে ভূমি থেকে তার প্রতিধ্বনি শোনা যায়। যদি শব্দের বেগ [math]350 \\ ms^{-1}[/math] হয়, তবে এরোপ্লেনের উচ্চতা নির্ণয় কর।",
+        "solution": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fsuggesion20work20by20minhaz20000000051_1755581810_wR74knkf.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eপাইলট A বিন্দুতে গুলি করে, B তে গিয়ে প্রতিধ্বনি শুনে। শব্দ ভূমির C বিন্দুতে প্রতিফলিত হয়। এক্ষেত্রে, AD = BD ; AC = BC[math]\\mathrm{AB}=\\mathrm{vt}=\\frac{288}{3.6} \\times 3=240 \\mathrm{~m} \\quad \\therefore \\mathrm{AD}=\\mathrm{BD}=120 \\mathrm{~m}[/math]\u003Cbr\u003E [math]A C=B C=v t=350 \\times \\frac{3}{2}=525 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{h}=\\sqrt{A C^{2}-A D^{2}}=\\sqrt{525^{2}-120^{2}}=511.1 \\mathrm{~m}[/math]\u003Cbr\u003E",
+        "explanation": "বুঝানো: শুটিং পয়েন্ট থেকে শব্দ মাটিতে পতিত হয়ে আবার বিমানে ফিরে আসে, সুতরাং মোট পথ [math]2h[/math] এবং তা কাটতে সময় [math]3\\ \\text{s}[/math] লাগে; শব্দের গতি [math]350\\ \\text{m/s}[/math]। সমীকরণ: [math]2h = v t \\Rightarrow h = \\dfrac{vt}{2} = \\dfrac{350\\times 3}{2} = 525\\ \\text{m}[/math]। বিমানের অনুভূমিক বেগ এখানে উচ্চতা নির্ণয়ে প্রভাব ফেলে না, তাই তা বিবেচ্য নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:36:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 397905,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 397905,
+            "tag_id": 109,
+            "year": "19-20",
+            "created_at": "2025-08-19T05:36:50.000000Z",
+            "updated_at": "2025-08-19T05:36:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 397906,
+      "value": {
+        "options": [],
+        "question": "যদি [math]\\vec{F}=(4 \\hat{i}-10 \\hat{\\mathrm{j}}) \\mathrm{N}[/math] এবং [math]\\vec{r}=(-5 \\hat{ \\mathbf{i}}-3 \\hat{\\mathrm{j}}) \\mathrm{m}[/math] হয় তবে [math]\\vec{r} \\times \\vec {F}[/math] -নির্ণয় কর এবং রাশিটি প্রকৃত পক্ষে কী প্রকাশ করে তা বর্ণনা কর।",
+        "solution": "( Answer : [math]62 \\hat{\\mathrm{k}}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে;[math]\\begin{array}{l}\\overrightarrow{\\mathrm{F}}=(4 \\hat{\\mathrm{i}}-10 \\hat{\\mathrm{j}}) \\mathrm{N} \\\\\\overrightarrow{\\mathrm{r}}=(-5 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}) \\mathrm{m} \\\\\\overrightarrow{\\mathrm{r}} \\times \\overrightarrow{\\mathrm{F}}=?\\end{array}[/math]\u003Cbr\u003E [math]\\begin{array}{l} \\vec{r} \\times \\vec{F}=\\left|\\begin{array}{ccc}\\hat{i} & \\hat{j} & \\hat{k} \\\\-5 & -3 & 0 \\\\4 & -10 & 0\\end{array}\\right| \\\\=(50+12) \\hat{k} \\\\\\therefore \\vec{r} \\times \\vec{F}=62 \\hat{k}\\end{array}[/math]\u003Cbr\u003Eকোনো কণার ব্যাসার্ধ ভেক্টর [math]\\vec{r}[/math]\u003Cbr\u003E এবং কণাটির উপর ক্রিয়াশীল বল [math]\\vec{F}[/math]\u003Cbr\u003E হলে, [math]\\vec{r} \\times \\vec{F}[/math]\u003Cbr\u003E ভেক্টরটি কণাটির উপর ক্রিয়াশীল টর্ক নির্দেশ করে।[math]\\therefore \\overrightarrow{\\mathrm{r}} \\times \\overrightarrow{\\mathrm{F}}=62 \\hat{\\mathrm{k}}[/math]\u003Cbr\u003E ভেক্টরটি মূলত টর্ক নির্দেশ করে।",
+        "explanation": "ব্যাখ্যা: প্লেনের ভেক্টরগুলোর ক্রস-প্রডাক্টের মাত্রা হল z-কম্পোনেন্ট [math](r_xF_y-r_yF_x)[/math], তাই [math]\\vec{r}\\times\\vec{F}=(0,0,(-5)(-10)-(-3)(4))=(0,0,62)[/math] বা [math]\\vec{r}\\times\\vec{F}=62\\hat{k}\\ \\mathrm{N\\cdot m}[/math]. এটি শক্তির রাশি নয়; বরং এটি মূলের চারপাশে ঘূর্ণনের মুহূর্ত (টর্ক) নির্দেশ করে যার পরিমাণ [math]62\\ \\mathrm{N\\cdot m}[/math] এবং দিক ঊর্ধ্বগামী z-অক্ষ (রাইট-হ্যান্ড রুল অনুযায়ী পৃষ্ঠের বাইরে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:36:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 397906,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:36:50.000000Z",
+            "updated_at": "2025-08-19T05:36:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 397901,
+      "value": {
+        "options": {
+          "ক": "স্পর্শী ত্বরণ কাকে বলে? -",
+          "খ": "গড়বেগ থেকে কীভাবে তাৎক্ষণিক বেগ পাওয়া যায়?",
+          "গ": "টানা অবস্থায় তারের টান নির্ণয় কর।",
+          "ঘ": "লক্ষ্যস্থলে তীরটি লাগানোর জন্য তীরন্দাজকে তুমি পরামর্শ দিবে? গাণিতিক বিশ্লেষণসহ আলোচনা কর।"
+        },
+        "question": "একজন তীরন্দাজ তীর ছোড়ার জন্য লক্ষ্যস্থলের দিকে তা তাক করেছে। তীরটি যখন 260 N বলে টানা হয় তখন তীর ও তারের মধ্যবর্তী কোণ 50° হয়। তীরটি যখন ধনুক থেকে মুক্ত হয় তখন 25 [math]m s^{-1}[/math] বেগ প্রাপ্ত হয়। বায়ুর বাধা উপেক্ষণীয়।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-13-panjeri2-31_1755581808_k1ynfxNE.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eঅসমদ্রুতিতে বৃত্তাকার পথে ঘূর্ণনরত বস্তুর ক্ষেত্রে সময়ের সাপেক্ষে দ্রুতির পরিবর্তনের হারকে স্পর্শী ত্বরণ বলে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E [math]\\Delta \\mathrm{t}[/math]\u003Cbr\u003E সময় ব্যবধানে কোনো বস্তুর সরণ As হলে ঐ সময় ব্যবধানে গড়বেগ, [math]\\overline{\\mathrm{v}}=\\frac{\\Delta \\mathrm{s}}{\\Delta \\mathrm{t}}[/math]\u003Cbr\u003E......(i)কিন্তু আমরা জানি, কোনো মুহূর্তেকে ঘিরে অতি অল্প সময় ব্যবধানে সময়ের সাপেক্ষে সরণের হারকে তাৎক্ষণিক বেগ বলে।অর্থাৎ, তাৎক্ষণিক বেগ, [math]v=\\lim _{\\Delta t \\rightarrow 0} \\frac{\\Delta s}{\\Delta t}[/math]\u003Cbr\u003E .......(ii)(i) ও (ii) হতে পাই,তাৎক্ষণিক বেগ, [math]\\mathrm{v}=\\lim _{\\Delta \\mathrm{t} \\rightarrow 0^{.}} \\overline{\\mathrm{v}}[/math]\u003Cbr\u003E ( [math]\\overline{\\mathrm{V}}=[/math]\u003Cbr\u003E গড়বেগ)সুতরাং কোনো মুহূর্তকে ঘিরে অত্যল্প সময় ব্যবধানে গড়বেগের সীমান্তিক মান নিলেই তাৎক্ষণিক বেগ পাওয়া যায় । [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-13-panjeri2-96_1755581809_sT4OCGZ1.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, [math]\\frac{T}{\\sin 130^{\\circ}}=\\frac{260^{\\circ}}{\\sin 100^{\\circ}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{T}=\\frac{260 \\times \\sin 130^{\\circ}}{\\sin 100^{\\circ}}=202.244 \\mathrm{~N}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l}\\mathrm{T}=\\mathrm{F} \\sin \\theta+\\mathrm{F} \\cos \\theta \\\\\\quad=260 \\times \\sin 50^{\\circ}+260 \\times \\cos 50^{\\circ} \\\\\\therefore \\mathrm{T}=366.3 \\mathrm{~N} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, তীরের বেগ, [math]\\mathrm{v}=25 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eঅনুভূমিক পাল্লা, [math]\\mathrm{R}=30 \\mathrm{~m}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eউদ্দীপকের চিত্রানুযায়ী, তীরটি যদি অনুভূমিক অক্ষ বরাবর ছোঁড়া হয় তাহলে তীরটি লক্ষ্যস্থলে না পৌছে নিচে গিয়ে পড়বে। কারণ এক্ষেত্রে তীরের গতিপথ পরাবৃত্তাকার হয়। কিন্তু যদি তীরটিকে অনুভূমিক অক্ষের সাথে নির্দিষ্ট কোণে ছোঁড়া হয় তাহলে তীরটি লক্ষ্যস্থলে পৌছাবে।ধরি, এক্ষেত্রে তীরটিকে অনুভূমিক অক্ষের সাথে ও কোণে ছোঁড়া হয়েছে।[math]\\therefore \\mathrm{R}=\\frac{\\mathrm{v}^{2}}{\\mathrm{~g}} \\sin 2 \\theta[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\sin 2 \\theta=\\frac{\\mathrm{Rg}}{\\mathrm{v}^{2}}=\\frac{30 \\times 9.4}{(25)^{2}}=0.4704[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]2 \\theta=\\sin ^{-1}(0.4704)=28.06^{\\circ}[/math]\u003Cbr\u003E [math]\\therefore \\theta=\\frac{28.06^{\\circ}}{2}=14.03^{\\circ}[/math]\u003Cbr\u003Eসুতরাং, তীরটিকে লক্ষ্যস্থলে পাঠানোর জন্য তীরন্দাজের উচিত অনুভূমিকের সাথে তীরটিকে 14.03° কোণে ছোঁড়া।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E স্পর্শী ত্বরণ হল বস্তুর বেগের পরিমাণের সময় অনুপাতে পরিবর্তনের হার যা গতিপথের স্পর্শক নির্দেশে থাকে; গণিতগতভাবে [math]a_t=\\dfrac{dv}{dt}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E গড় বেগ থেকে তাৎক্ষণিক বেগ পাওয়া যায় সময় অন্তর ভগ্নাংশ শূন্যের দিকে নিয়ে গেলে, অর্থাৎ [math]v(t)=\\lim_{\\Delta t\\to0}\\dfrac{\\Delta s}{\\Delta t}=\\dfrac{ds}{dt}[/math]; কোনো বেগের সময়নির্ভর সূত্র জানলে সেটির সময় অনুযায়ী ডেরিভেটিভ নেবেন।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ধরা হচ্ছে তারের দুপাশের টান সমান এবং তীর-পথের সাথে প্রতিটি টানের কোণ [math]50^\\circ[/math] (সিমেট্রিক), তাই তীরকে ধরে রাখার জন্য সামনে দিকে সম্মিলিত উপাদান হবে [math]2T\\cos50^\\circ=260[/math]; ফলে [math]T=\\dfrac{260}{2\\cos50^\\circ}\\approx202.3\\ \\text{N}\\ (\\approx202\\ \\text{N})[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E লক্ষ্য আসলে মারে বলে পরামর্শ—তীরন্দাজকে লক্ষ্যকেন্দ্রের নিচের দিকে নয়, উপরে লক্ষ্য করতে হবে কারণ ভূমিীয় মাধ্যাকর্ষণ তীরকে নিচে টেনে আনে; নির্দিষ্ট দূর্যত্ব [math]R[/math] জন্য প্রয়োজনীয় উৎক্ষেপণ কোণ [math]\\theta[/math] পাওয়া যায় [math]R=\\dfrac{v^2\\sin2\\theta}{g}\\Rightarrow \\theta=\\tfrac{1}{2}\\arcsin\\!\\big(\\dfrac{gR}{v^2}\\big)[/math] (এখানে [math]v=25\\ \\mathrm{m/s}[/math], [math]g\\approx9.8\\ \\mathrm{m/s^2}[/math]) — এই সূত্র ব্যবহার করে নির্দিষ্ট দূরত্বে কতটা উপরে লক্ষ্য করতে হবে তা গণনা করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:36:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 397901,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T05:36:49.000000Z",
+            "updated_at": "2025-08-19T05:36:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 397902,
+      "value": {
+        "options": {
+          "ক": "অনুভূমিক পাল্লা কী?",
+          "খ": "প্রাস গতির ক্ষেত্রে সর্বাধিক উচ্চতার সমীকরণটি লিখ ।",
+          "গ": "১ম বুলেট কর্তৃক অতিক্রান্ত অনুভূমিক দূরত্ব নির্ণয় করো।",
+          "ঘ": "কোন বুলেটটি আগে ভূমিতে আঘাত করবে? উত্তরের স্বপক্ষে যুক্তি দাও ।"
+        },
+        "question": "20 m উঁচু একটি দালানের ছাদ থেকে একটি লোক [math]40 \\mathrm{~ms}^{-1}[/math] বেগে অনুভূমিকভাবে বুলেট ছুঁড়ল। একই সময়ে অপর একটি লোক একই উচ্চতা হতে একটি বুলেট স্থির অবস্থা হতে নিচে ফেলে দিল। [বাতাসের বাধা অনুপস্থিত।]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eনিক্ষেপণের পর কোনো একটি প্রাস অনুভূমিক দিকে যে দূরত্ব অতিক্রম করে তাকে অনুভূমিক পাল্লা বলে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপ্রাসের গতির ক্ষেত্রে সর্বাধিক উচ্চতার সমীকরণটি হলো:[math]\\mathrm{H}=\\frac{\\mathrm{v}_{\\mathrm{o}}^{2} \\sin ^{2} \\theta_{0}}{2 \\mathrm{~g}}[/math]\u003Cbr\u003Eএখানে, [math]\\text{v}_{0}=[/math]\u003Cbr\u003E নিক্ষেপণ বেগ, [math]\\theta_{0}=[/math]\u003Cbr\u003E প্রাসের নিক্ষেপণ কোণ এবং g = পরীক্ষনীয় স্থানে অভিকর্ষজ ত্বরণ। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003EAnswer : [math]80.8 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\begin{array}{l}\\mathrm{v}_{\\mathrm{o}}=40 \\mathrm{~ms}^{-1} \\\\\\theta=0^{\\circ} \\mathrm{C} \\end{array}[/math]\u003Cbr\u003E১ম বুলেটের ক্ষেত্রে,[math]\\mathrm{h}=\\mathrm{v}_{\\mathrm{o}} \\sin \\theta_{\\mathrm{o}} \\mathrm{t}+\\frac{1}{2} \\mathrm{gt}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]20=40 \\times \\sin \\theta^{\\circ} \\times \\mathrm{t}+\\frac{1}{2} \\mathrm{gt}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{t}=\\sqrt{\\frac{20}{4.9}}=2.02 \\mathrm{~s}[/math]\u003Cbr\u003Eদ্বিতীয় বুলেটটি প্রাস নয়, এটি উলম্ব বরাবর মুক্তভাবে পতনশীল বস্তু।দ্বিতীয় বুলেটের আদিবেগ, [math]\\mathrm{v}_{\\mathrm{o}}=0 \\mathrm{~m} / \\mathrm{s}[/math]\u003Cbr\u003Eজানা আছে, অভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~m} / \\mathrm{s}[/math]\u003Cbr\u003Eদ্বিতীয় বুলেটটি ভূমিতে আঘাতের পূর্বে t সময়কাল ধরে পতিত হলে,[math]\\mathrm{h}=\\mathrm{v}_{\\mathrm{o}} \\mathrm{t}^{\\prime}+\\frac{1}{2} \\mathrm{gt}^{\\prime 2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]20=0 . \\mathrm{t}^{\\prime}+\\frac{1}{2} \\times 9.8 \\mathrm{t}^{\\prime 2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]4.9 t^{\\prime 2}=20[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{t}^{\\prime}=\\sqrt{\\frac{20}{4.9}}=2.02 \\mathrm{sec}[/math]\u003Cbr\u003Eলক্ষ্য করি, ১ম বুলেটটির বিচরণকালও 2.02 sec।সুতরাং, উভয় বুলেট একই সাথে ভূমিতে আঘাত করবে। এরূপ হওয়ার কারণ হলো ১ম বুলেটটি প্রাস হলেও উল্লম্ব বরাবর এর বেগের উপাংশ শূন্য। অর্থাৎ উল্লম্ব বরাবর এর গতি বিবেচনা করা হলে তা মুক্তভাবে পতনশীল বস্তুর সমতুল্য হবে।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E অনুভূমিক বেগ (অনুভূমিক পাল্লা হিসেবে বোঝালে) হল [math]40\\ \\mathrm{m/s}[/math] (প্রশ্নে দেওয়া মান)।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সাধারণ প্রজেক্টাইলের সর্বোচ্চ উচ্চতার সূত্র: [math]H=\\frac{u^2\\sin^2\\theta}{2g}[/math], যেখানে [math]u[/math] মূলগত বেগ, [math]\\theta[/math] প্রেরণের কোণ এবং [math]g[/math] প্রবণতার ত্বরণ।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উল্লম্ব পতনের সময় [math]t=\\sqrt{\\dfrac{2h}{g}}=\\sqrt{\\dfrac{2\\times20}{9.8}}\\approx2.02\\ \\mathrm{s}[/math]; তাই অনুভূমিক দূরত্ব [math]R=u_x t=40\\times2.02\\approx80.8\\ \\mathrm{m}[/math]।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দুই বুলেটের উল্লম্ব গতি একই (প্রাথমিক উল্লম্ব বেগ শূন্য এবং উচ্চতা সমান), তাই উভয়ে একই সময়ে মাটিতে পড়ে — একসাথে আঘাত করবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:36:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 397902,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:36:49.000000Z",
+            "updated_at": "2025-08-19T05:36:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 397903,
+      "value": {
+        "options": [],
+        "question": "50 m উঁচু কোন ভবনের শীর্ষ হতে একটি রকেট উপরের দিকে একটি নির্দিষ্ট কোণে নিক্ষেপ করা হল। রকেটটির যে কোন মুহূর্তের x ও y স্থানাঙ্ক যথাক্রমে [math]\\mathrm{x}(\\mathrm{t})=\\mathrm{A}+\\mathrm{B t}^{2}[/math] ও.y(t) = [math]C+D t^{3}[/math] যেখানে, A, B, C ও D ধ্রুবক। নিক্ষেপের 1s পর রকেটটির ত্বরণ, [math]\\overrightarrow{\\mathrm{a}}=[/math] [math](4 \\hat{i}+3 \\hat{j}) \\mathrm{m} / \\mathrm{s}^{2}[/math]পাওয়া যায়। ভরনের পাদদেশে মূলবিন্দু বিবেচনা করে নির্ণয় কর:\n\n(ক) A, B, C ও D ধ্রুবকের মান।\n\n(খ) নিক্ষেপের মুহূর্তে রকেটটির ত্বরণ ও বেগ ভেক্টর।\n\n(গ) নিক্ষেপের 10 s পর রকেটের বেগের x ও y উপাংশ এবং বেগের মান।\n\n(ঘ) নিক্ষেপের 10 s পর রকেটের অবস্থান ভেক্টর ।",
+        "solution": "( Answer : (ক) [math]=\\frac{1}{2} \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003E (খ) [math]\\left(4 \\mathrm{~ms}^{-2}\\right) \\hat{\\mathrm{i}}[/math]\u003Cbr\u003E (গ) [math]155.24 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E (ঘ) [math](200 \\mathrm{~m}) \\hat{\\mathrm{i}}+(550 \\mathrm{~m}) \\hat{\\mathrm{j}}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,[math]\\begin{array}{l}\\mathrm{x}(\\mathrm{t})=\\mathrm{A}+\\mathrm{B} \\mathrm{t}^{2} \\\\\\mathrm{y}(\\mathrm{t})=\\mathrm{C}+\\mathrm{D} \\mathrm{t}^{3}\\end{array}[/math]\u003Cbr\u003Eভবনের উচ্চতা, h = 50 m,t = 1s পর,ত্বরণ, [math]\\overrightarrow{\\mathrm{a}}=4 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\therefore \\quad a_{x}=4 \\mathrm{~ms}^{-2} \\\\\\mathrm{a}_{\\mathrm{y}}=3 \\mathrm{~ms}^{-2} \\\\\\end{array}[/math]\u003Cbr\u003E(ক) যেহেতু ভবনের পাদদেশ মূলবিন্দু বিবেচনা করতে হবে সেহেতু রকেটের আদি অবস্থান,[math]x(0)=0[/math]\u003Cbr\u003Eএবং y(0) = h = 50mএখন, A + B 0 = x (0)[math]\\Rightarrow[/math]\u003Cbr\u003E [math]A=0[/math]\u003Cbr\u003Eএবং y (0) = C + D. 0[math]\\Rightarrow[/math]\u003Cbr\u003E 50 = C[math]\\therefore[/math]\u003Cbr\u003E C = 50mআবার, [math]x(t)=A+B t^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{dx}}{\\mathrm{dt}}=2 \\mathrm{Bt}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{d}^{2} \\mathrm{x}}{\\mathrm{dt}^{2}}=2 \\mathrm{~B}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]a_{x}=2 B[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{B}=\\frac{\\mathrm{a}_{\\mathrm{x}}}{2}=\\frac{4}{2}=2 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003E [math]\\mathrm{y}(\\mathrm{t}) =\\mathrm{C}+\\mathrm{Dt}^{3}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{d y}{d t}=3 \\mathrm{Dt}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{d}^{2} \\mathrm{y}}{\\mathrm{dt}^{2}}=6 \\mathrm{Dt}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]a_{y}=6 \\mathrm{Dt}[/math]\u003Cbr\u003Et= 1s হলে, 3 = 6 D.1সুতরাং [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{A}=0, \\mathrm{~B}=2 \\mathrm{~ms}^{-2}, \\mathrm{C}=50 \\mathrm{~m}, \\mathrm{D}=\\frac{1}{2} \\mathrm{~ms}^{-2} \\text { (Ans.) }[/math]\u003Cbr\u003E(খ) A, B, C, D এর মান বসিয়ে,[math]x(t)=2 t^{2}[/math]\u003Cbr\u003E এবং [math]y(t)=50+\\frac{1}{2} t^{3}[/math]\u003Cbr\u003E [math]\\therefore \\quad \\mathrm{v}_{\\mathrm{x}}(\\mathrm{t})=4 \\mathrm{t}[/math]\u003Cbr\u003E এবং [math]v_{y}(t)=\\frac{3}{2} t^{2}[/math]\u003Cbr\u003Eআবার ,[math]a_{x}(t)=4[/math]\u003Cbr\u003E এবং [math]a_{y}(t)=3 t[/math]\u003Cbr\u003Eনিক্ষেপের মুহূর্তে (t = 0 s)[math]\\begin{array}{l} \\mathrm{v}_{\\mathrm{x}}=0, \\mathrm{v}_{\\mathrm{y}}=0 \\\\\\mathrm{a}_{\\mathrm{x}}=4, \\mathrm{a}_{\\mathrm{y}}=0 \\\\\\therefore \\quad \\overrightarrow{\\mathrm{v}}=0 \\hat{\\mathrm{i}}+0 \\hat{\\mathrm{j}}=\\overrightarrow{0}\\end{array}[/math]\u003Cbr\u003Eএবং [math]\\overrightarrow{\\mathrm{a}}=4 \\hat{\\mathrm{i}}+0 . \\hat{\\mathrm{j}}=\\left(4 \\mathrm{~ms}^{-2}\\right) \\hat{\\mathrm{i}}[/math]\u003Cbr\u003E (Ans.)(গ) ‘খ’ হতে পাই,[math]v_{x}(t)=4 t[/math]\u003Cbr\u003E এবং [math]v_{y}(t)=\\frac{3}{2} t^{2}[/math]\u003Cbr\u003Eযখন t = 10 s,[math]\\begin{array}{l}\\mathrm{v}_{\\mathrm{x}}=4 \\times 10=40 \\mathrm{~ms}^{-1} \\\\\\mathrm{v}_{\\mathrm{y}}=\\frac{3}{2} \\times 10^{2}=150 \\mathrm{~ms}^{-1}\\end{array}[/math]\u003Cbr\u003Eএবং [math]\\mathrm{v}=\\sqrt{\\mathrm{v}_{\\mathrm{x}}^{2}+\\mathrm{v}_{\\mathrm{y}}^{2}}=\\sqrt{40^{2}+150^{2}}=155.24 \\mathrm{~ms}^{-1} \\text { (Ans.) }[/math]\u003Cbr\u003E(ঘ) ‘খ’ হতে পাই,[math]x(t)=2 t^{2}[/math]\u003Cbr\u003E এবং [math]y(t)=50+\\frac{1}{2} t^{3}[/math]\u003Cbr\u003Eযখন, t = 10 s,[math]\\begin{array}{l}x=2 \\times 10^{2}=200 \\mathrm{~m} \\\\\\mathrm{y}=50+\\frac{1}{2} \\times 10^{3}=550 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E রকেটের অবস্থান ভেক্টর,[math]\\begin{array}{l}\\overrightarrow{\\mathrm{s}}(\\mathrm{t})=\\hat{x i}+y \\hat{\\mathrm{j}}^{\\prime} \\\\\\overrightarrow{\\mathrm{s}}(\\mathrm{t})=(200 \\mathrm{~m}) \\hat{\\mathrm{i}}+(550 \\mathrm{~m}) \\hat{\\mathrm{j}} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: x ও y-এর সময়নির্ভর প্রকাশের প্রথম ও দ্বিতীয় ডেরিভেটিভ নিয়ে বেগ ও ত্বরণ পাওয়া যায়; শুরুতে সময় [math]t=0[/math]-এ অবস্থান ভবনের শীর্ষে (ভরের পাদদেশে মূলবিন্দু থেকে উচ্চতা [math]50\\ \\text{m}[/math]) হওয়ায় আনুমানিক [math]x(0)=0,\\ y(0)=50[/math] ধরা হয়েছে। ত্বরন থেকে ধ্রুবকগুলো নির্ণয় করা যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math]A=0,\\ B=2,\\ C=50,\\ D=\\tfrac{1}{2}[/math].  \nকারণ [math]x''(t)=2B=4\\Rightarrow B=2[/math], [math]y''(t)=6Dt=3\\text{ at }t=1\\Rightarrow D=\\tfrac{1}{2}[/math], এবং [math]x(0)=A=0,\\ y(0)=C=50[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E প্রারম্ভিক ত্বরণ [math]\\overrightarrow{a}(0)=(4\\hat{i}+0\\hat{j})\\ \\text{m/s}^2[/math]; প্রারম্ভিক বেগ [math]\\overrightarrow{v}(0)=\\mathbf{0}[/math].  \nকারণ [math]a_x=2B=4[/math] (ধ্রুবক), [math]a_y=6Dt=0[/math] যখন [math]t=0[/math], এবং [math]v_x=2Bt,\\ v_y=3Dt^2[/math] হওয়ায় শূন্য।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]t=10\\ \\text{s}:\\ v_x=2B t=4\\times10=40\\ \\text{m/s},\\ v_y=3D t^2=3\\times\\tfrac{1}{2}\\times100=150\\ \\text{m/s}[/math]; বেগের মান [math]|\\overrightarrow{v}|=\\sqrt{40^2+150^2}=\\sqrt{24100}\\approx155.3\\ \\text{m/s}[/math].  \nকারণ বেগ সংশ্লিষ্ট ডেরিভেটিভ দিয়ে পাওয়া যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E [math]t=10\\ \\text{s}:\\ \\overrightarrow{r}=(x,y)=(B t^2,\\ C+D t^3)=(2\\times100,\\ 50+\\tfrac{1}{2}\\times1000)=(200\\hat{i}+550\\hat{j})\\ \\text{m}[/math].  \nকারণ সরলভাবে প্রতিস্থাপন করে অবস্থান পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:36:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 397903,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:36:49.000000Z",
+            "updated_at": "2025-08-19T05:36:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 397904,
+      "value": {
+        "options": [],
+        "question": "একটি বুলেট একটি দেয়ালের মধ্যে 0.06m প্রবেশ করার পর এর আদিবেগের অর্ধেক হারায়। বুলেট টি দেয়ালের মধ্যে কতদূর প্রবেশ করতে পারবে?",
+        "solution": "( Answer : [math]0.02 \\mathrm{~m}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : [math]\\left(\\frac{v}{2}\\right)^{2}=v^{2}-2 f \\times 0.06 \\text { or, } 2 \\mathrm{f} \\times 0.06=\\mathrm{v}^{2}-\\frac{\\mathrm{v}^{2}}{4}=\\frac{3 \\mathrm{v}^{2}}{4} \\text { or, } 2 \\mathrm{f}=\\frac{3 \\mathrm{v}^{2}}{4 \\times 0.06}=12.5 \\mathrm{v}^{2}[/math]\u003Cbr\u003EAgain, [math]0=\\frac{v^{2}}{4}-2 \\mathrm{f} x=\\frac{v^{2}}{4}-12.5 \\mathrm{v}^{2} \\times x \\quad \\therefore x=\\frac{1}{4 \\times 12.5}=0.02 \\mathrm{~m}[/math]\u003Cbr\u003E",
+        "explanation": "বুলেটের গতিশক্তি প্রমাণ করে: গতি অর্ধেক হলে kinetic energy হবে [math]K/4[/math] (প্রাথমিক ছিল [math]K[/math]), অর্থাৎ প্রথম [math]0.06\\,m[/math]-এ [math]3K/4[/math] শক্তি নষ্ট হয়েছে; ধরা হলে বাধার প্রতিরোধ শক্তি সমানুপাতিক, বাকি শক্তি দ্বারা আরও যাওয়ার দূরত্ব হবে [math]\\frac{K/4}{3K/4}\\times0.06=0.02\\,m[/math], ফলে মোট প্রবেশ হবে [math]0.06+0.02=0.08\\,m[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:36:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 24,
+          "year": "2008-2009",
+          "pivot": {
+            "question_bank_id": 397904,
+            "year_id": 24
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 397904,
+            "tag_id": 80,
+            "year": "08-09",
+            "created_at": "2025-08-19T05:36:49.000000Z",
+            "updated_at": "2025-08-19T05:36:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 397900,
+      "value": {
+        "options": {
+          "ক": "3.69 cm",
+          "খ": "5.36 cm",
+          "গ": "2.967 cm",
+          "ঘ": "10.1 cm",
+          "ঙ": "4.69 cm"
+        },
+        "question": "যে সব বস্তু একটি বাজ পাখির চোখে ন্যূনতম [math]1.7 \\times 10^{-2}[/math] ডিগ্রী কোণ উৎপন্ন করে সেসব বস্তুর অস্তিত্ব পাখিটি দেখতে পায়। পাখিটি যখন 100m উপর দিয়ে উড়ে তখন ভূমির উপর কত ক্ষুদ্র বস্তুর অস্তিত্ব বুঝতে পারে?",
+        "solution": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview20-202022-11-30t011453734_1755581807_bEwoLqGw.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\alpha=1.7 \\times 10^{-2} \\text { degree } ; h=100 \\mathrm{~m} ; \\mathrm{d}=?[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{d}}{2}=h \\tan \\frac{\\alpha}{2}=0.014835 \\mathrm{~m}=\\mathrm{d}=0.02967 \\mathrm{~m}=2.967 \\mathrm{~cm}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:36:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 397900,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 54,
+          "full_name": "Jessore University of Science & Technology (A Unit)",
+          "short_name": "JUST-A",
+          "slug": "just-a",
+          "pivot": {
+            "question_bank_id": 397900,
+            "tag_id": 54,
+            "year": "14-15",
+            "created_at": "2025-08-19T05:36:47.000000Z",
+            "updated_at": "2025-08-19T05:36:47.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 397899,
+      "value": {
+        "options": [],
+        "question": "নিচের উদ্দীপকটি পড় এবং প্রশ্নের উত্তর দাও:\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview20-202022-12-01t011128972_1755581806_oPWU3rHH.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রানুযায়ী A ও B বিন্দু থেকে দুটি বস্তু নিক্ষেপ করা হল।\n\nযদি লক্ষ্যবস্তু T তে আঘাত করতে প্রাস দুটি একই সময় নেয় তবে—",
+        "solution": "",
+        "explanation": "ব্যাখ্যা: একই লক্ষ্যবিন্দুতে একই সময়ে পৌঁছালে উভয়ের প্রারম্ভিক বেগকে গতিবেগ সূত্রে লিখলে একই সময় [math]t[/math] ও একই ত্বরণ [math]\\vec g[/math] থাকা অবস্থায়\n[math]\\vec u=\\dfrac{\\vec r-\\tfrac{1}{2}\\vec g t^2}{t}[/math]\nমত থাকে। তাই প্রদত্ত অবস্থায় উভয় বস্তুদের প্রাথমিক বেগের মান একই হবে — সুতরাং উত্তর A সঠিক।",
+        "correct_answer": "A."
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 397899,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 397899,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T05:36:46.000000Z",
+            "updated_at": "2025-08-19T05:36:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6511&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6511&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6511&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

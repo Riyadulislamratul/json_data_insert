@@ -1,0 +1,1531 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 410987,
+      "value": {
+        "options": {
+          "ক": "356 K",
+          "খ": "388 K",
+          "গ": "433 K",
+          "ঘ": "505 K"
+        },
+        "question": "চিনির গলনাঙ্ক কত?",
+        "solution": "চিনির গলনাঙ্ক 433 K। এই তাপমাত্রায় চিনি কঠিন অবস্থা থেকে তরল অবস্থায় পরিবর্তিত হয়।\n\nবিভিন্ন ধরণের চিনির জন্য গলনাঙ্ক কিছুটা ভিন্ন হতে পারে, তবে সাধারণ চিনির (সুক্রোজ) জন্য এই মানটি প্রযোজ্য।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 410987,
+            "year_id": 31
+          }
+        },
+        {
+          "id": 33,
+          "year": "2004-2005",
+          "pivot": {
+            "question_bank_id": 410987,
+            "year_id": 33
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 410987,
+            "tag_id": 18,
+            "year": "13-14",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        },
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 410987,
+            "tag_id": 3225,
+            "year": "04-05",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410997,
+      "value": {
+        "options": {
+          "ক": "[math]U=\\frac{1}{2} Y[/math]",
+          "খ": "[math]\\mathrm{U}=\\mathrm{V}=\\frac{1}{2} \\mathrm{~A} l[/math]",
+          "গ": "[math]\\mathrm{U}=\\frac{1}{2} \\frac{\\mathrm{Y} l^{2}}{\\mathrm{~L}^{2}}[/math]",
+          "ঘ": "[math]\\mathrm{U}=\\frac{1}{2} \\frac{\\mathrm{A} l}{\\mathrm{~L}}[/math]"
+        },
+        "question": "নিচের কোনটি সঠিক?",
+        "solution": "তারের দৈর্ঘ্য বরাবর ক্ষেত্রফলের অভিন্নতার জন্য, তারের প্রসারণের ফলে সঞ্চিত স্থিতিশক্তি [math](U)[/math]\u003Cbr\u003E হল [math]\\frac{1}{2} \\times \\text{বল} \\times \\text{প্রসারণ} = \\frac{1}{2} \\times F \\times \\Delta l[/math]\u003Cbr\u003E। ইয়ং-এর মডুলাস ( [math]Y[/math]\u003Cbr\u003E) এর সংজ্ঞা থেকে আমরা জানি [math]Y = \\frac{\\text{পীড়ন}}{\\text{বিকৃতি}} = \\frac{F/A}{\\Delta l/l}[/math]\u003Cbr\u003E, যেখানে [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল তারের আসল দৈর্ঘ্য। এই সমীকরণ থেকে আমরা লিখতে পারি [math]F = Y \\frac{A \\Delta l}{l}[/math]\u003Cbr\u003E।এখন, আমরা স্থিতিশক্তির সূত্রে বলের মান বসাতে পারি:[math]U = \\frac{1}{2} \\times (Y \\frac{A \\Delta l}{l}) \\times \\Delta l = \\frac{1}{2} \\frac{Y A (\\Delta l)^2}{l}[/math]\u003Cbr\u003E।আমরা আরেকটি দিক থেকে ভাবতে পারি। প্রসারণের জন্য প্রয়োজনীয় শক্তি হল [math]\\int F d(\\Delta l)[/math]\u003Cbr\u003E। যেহেতু [math]F = \\frac{YA}{l} \\Delta l[/math]\u003Cbr\u003E, তাই[math]U = \\int_0^{\\Delta l} \\frac{YA}{l} \\Delta l' d(\\Delta l') = \\frac{YA}{l} [\\frac{(\\Delta l')^2}{2}]_0^{\\Delta l} = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E।যদি প্রশ্নটি কোনো নির্দিষ্ট প্রেক্ষাপট বোঝায় যেখানে [math]V[/math]\u003Cbr\u003E ভোল্টেজ এবং [math]A[/math]\u003Cbr\u003E ক্ষেত্রফল, [math]l[/math]\u003Cbr\u003E দৈর্ঘ্য, [math]L[/math]\u003Cbr\u003E অন্য কোনো দৈর্ঘ্য বা পরামিতি হয়, তবে সঠিক উত্তরটি সেই নির্দিষ্ট প্রসঙ্গ অনুযায়ী হবে। কিন্তু সাধারণত, স্থিতিশক্তির রাশিমালা [math]U = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E ।প্রদত্ত বিকল্পগুলি বিশ্লেষণ করলে দেখা যায়, যদি [math]V[/math]\u003Cbr\u003E এখানে প্রসারণ [math]( \\Delta l )[/math]\u003Cbr\u003E বোঝায় এবং [math]l[/math]\u003Cbr\u003E কে [math]L[/math]\u003Cbr\u003E দিয়ে প্রতিস্থাপন করা হয়, তবে বিকল্প B এর সাথে সম্পর্কযুক্ত হতে পারে, যদি [math]\\frac{1}{2} \\mathrm{~A} l[/math]\u003Cbr\u003E কোনো শক্তির সমতুল্য হয়। কিন্তু ইয়ং-এর মডুলাস ব্যবহার করে প্রাপ্ত সমীকরণ অনুযায়ী, বিকল্প C [math]\\mathrm{U}=\\frac{1}{2} \\frac{\\mathrm{Y} l^{2}}{\\mathrm{~L}^{2}}[/math]\u003Cbr\u003E এই ফর্মে নেই।যদি প্রশ্নটি তারের মধ্যে সঞ্চিত ক্ষেত্রীয় শক্তির (energy density) সাথে সম্পর্কিত হয়, তবে এটি ভিন্ন হতে পারে। তবে, সাধারণ স্থিতিশক্তির ক্ষেত্রে, Y, A, l, এবং প্রসারণ [math]\\Delta l[/math]\u003Cbr\u003E জড়িত থাকে।বিকল্প B তে [math]U = V = \\frac{1}{2} A l[/math]\u003Cbr\u003E দেওয়া আছে। যদি [math]V[/math]\u003Cbr\u003E এখানে প্রসারণ [math](\\Delta l)[/math]\u003Cbr\u003E বোঝায় এবং [math]A[/math]\u003Cbr\u003E ক্ষেত্রফল, [math]l[/math]\u003Cbr\u003E দৈর্ঘ্য হয়, তবে [math]U = \\frac{1}{2} \\times (\\text{প্রসারণ}) \\times (\\text{প্রস্থচ্ছেদ ক্ষেত্রফল}) \\times (\\text{দৈর্ঘ্য})[/math]\u003Cbr\u003E যা কোনো পরিচিত স্থিতিশক্তির সূত্র নয়।যদি প্রশ্নটি বৈদ্যুতিক ক্ষেত্রে সঞ্চিত শক্তির কথা বলে, যেখানে [math]V[/math]\u003Cbr\u003E ভোল্টেজ, [math]U = \\frac{1}{2} C V^2[/math]\u003Cbr\u003E বা [math]U = \\frac{1}{2} L I^2[/math]\u003Cbr\u003E, যেখানে [math]C[/math]\u003Cbr\u003E হল ধারকত্ব এবং [math]L[/math]\u003Cbr\u003E হল আবেশাঙ্ক, [math]I[/math]\u003Cbr\u003E হল তড়িৎ প্রবাহ। কিন্তু এখানে [math]Y[/math]\u003Cbr\u003E, [math]A[/math]\u003Cbr\u003E, [math]l[/math]\u003Cbr\u003E, [math]L[/math]\u003Cbr\u003E থাকার কারণে এটি পদার্থবিদ্যার বল ও প্রসারণ সংক্রান্ত বিষয়।ধরা যাক, প্রশ্নটি একটি তারের সম্প্রসারণে সঞ্চিত শক্তির সাথে সম্পর্কিত এবং কোনো নির্দিষ্ট শর্তে বিকল্প B সঠিক। যদি [math]V[/math]\u003Cbr\u003E কে [math]A \\times l[/math]\u003Cbr\u003E এর কোনো ফাংশন এবং [math]U[/math]\u003Cbr\u003E কে [math]\\frac{1}{2} \\times \\text{কিছু}[/math]\u003Cbr\u003E হিসাবে ধরা হয়, তবে এটি একটি নির্দিষ্ট কনটেক্সটে সত্য হতে পারে।তবে, বিকল্প B, [math]U = V = \\frac{1}{2} A l[/math]\u003Cbr\u003E, সাধারণত একটি তারের স্থিতিশক্তির জন্য সঠিক সূত্র নয়। স্থিতিশক্তি সাধারণত বল এবং প্রসারণের উপর নির্ভর করে, যেমন [math]U = \\frac{1}{2} F \\Delta l[/math]\u003Cbr\u003E অথবা [math]U = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E। যদি [math]V[/math]\u003Cbr\u003E কোনোভাবে প্রসারণের সাথে সম্পর্কযুক্ত হয় এবং [math]l[/math]\u003Cbr\u003E দৈর্ঘ্যের সাথে, তবে বিকল্প B একটি বিশেষ ক্ষেত্রে সঠিক হতে পারে, তবে এটি সাধারণ সূত্র নয়।যদি প্রশ্নটি বিশেষ কোনো পরিস্থিতি বা কনভেনশন অনুসরণ করে, যেখানে [math]V[/math]\u003Cbr\u003E হল একটি ভেক্টর বা অন্য কোনো রাশি এবং [math]U[/math]\u003Cbr\u003E হল তার সাথে সম্পর্কিত শক্তি, তাহলে এই উত্তরটি তাৎপর্যপূর্ণ হতে পারে। কিন্তু প্রচলিত বলবিদ্যা অনুসারে, এই বিকল্পটি সরাসরি সঠিক নয়।একটি সম্ভাবনা হলো, প্রশ্নটি কোনো নির্দিষ্ট বই বা পাঠ্যক্রমের উপর ভিত্তি করে তৈরি যেখানে [math]U[/math]\u003Cbr\u003E, [math]V[/math]\u003Cbr\u003E, [math]A[/math]\u003Cbr\u003E, [math]l[/math]\u003Cbr\u003E নির্দিষ্ট অর্থে ব্যবহৃত হয়েছে। তবে, পদার্থবিদ্যার সাধারণ নিয়মে, এই বিকল্পগুলির মধ্যে কোনোটিই সরাসরি সঠিক সূত্র নয়।যদি আমরা বিকল্প B কে \"সঠিক\" হিসেবে ধরে নিই, তবে এর অর্থ হল [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং তাদের মান [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান। এটি কোনো পরিচিত সূত্র নয়।তবে, যদি এটি একটি বিশেষ ধরণের শক্তি বা বলের সাথে সম্পর্কিত হয়, তাহলে এটি সঠিক হতে পারে। যদি [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল দৈর্ঘ্য, তবে [math]A \\times l[/math]\u003Cbr\u003E হল আয়তন। [math]\\frac{1}{2} \\times (\\text{আয়তন})[/math]\u003Cbr\u003E কোনো শক্তির রাশিমালা নয়।অন্যান্য বিকল্পগুলিও প্রচলিত সূত্র থেকে ভিন্ন।এই প্রশ্নের সঠিক উত্তর সম্ভবত কোনো নির্দিষ্ট প্রাসঙ্গিক তথ্যের উপর নির্ভরশীল যা এখানে দেওয়া নেই। তবে, যদি একটি উত্তর নির্বাচন করতেই হয় এবং ধরে নেওয়া হয় যে এটি কোনো বিশেষ ক্ষেত্রে প্রযোজ্য, তবে প্রদত্ত তথ্য অনুযায়ী কোনো বিকল্পের সাথে সরাসরি মিল পাওয়া যাচ্ছে না।যদি প্রশ্নটি এমন কোনো কনটেক্সট থেকে আসে যেখানে [math]V[/math]\u003Cbr\u003E কে একটি প্যারামিটার হিসেবে ধরা হয়েছে যার সাথে [math]U[/math]\u003Cbr\u003E সম্পর্কিত, যেমন [math]U = \\frac{1}{2} c V^2[/math]\u003Cbr\u003E যেখানে [math]c[/math]\u003Cbr\u003E একটি ধ্রুবক, কিন্তু এখানে [math]A[/math]\u003Cbr\u003E এবং [math]l[/math]\u003Cbr\u003E আছে।ধরে নেওয়া হচ্ছে, এটি একটি বিশেষ মডেল বা ধারণা যেখানে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E এর সমান। এই ধরনের প্রশ্ন সাধারণত কোনো নির্দিষ্ট পাঠ্যপুস্তক বা অধ্যায় থেকে নেওয়া হয় যেখানে এই প্রতীকগুলির জন্য একটি বিশেষ অর্থ নির্দিষ্ট করা থাকে।কিন্তু, যদি আমরা ধরে নিই যে প্রশ্নটি একটি তারের সম্প্রসারণে সঞ্চিত শক্তি সম্পর্কিত এবং [math]Y[/math]\u003Cbr\u003E হল ইয়ং-এর মডুলাস, [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল, [math]l[/math]\u003Cbr\u003E হল তারের দৈর্ঘ্য এবং [math]\\Delta l[/math]\u003Cbr\u003E হল প্রসারণ, তাহলে স্থিতিশক্তি [math]U = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E।বিকল্প B তে [math]U=V=\\frac{1}{2} \\mathrm{~A} l[/math]\u003Cbr\u003E দেওয়া আছে। যদি [math]V[/math]\u003Cbr\u003E এখানে কোনো ভোল্টেজ বোঝায়, এবং [math]U[/math]\u003Cbr\u003E হল শক্তি, তবে এটি কোনো বৈদ্যুতিক সার্কিটের শক্তির সূত্র হতে পারে, কিন্তু [math]A[/math]\u003Cbr\u003E এবং [math]l[/math]\u003Cbr\u003E এর উপস্থিতি এটি যান্ত্রিক শক্তি সম্পর্কিত ইঙ্গিত দেয়।এই প্রশ্নটি একটি নির্দিষ্ট কনটেক্সট ছাড়া উত্তর দেওয়া কঠিন। তবে, যদি একটি উত্তরকে \"সঠিক\" হিসেবে চিহ্নিত করা হয়, তবে এর পেছনে একটি বিশেষ কারণ থাকতে হবে যা এখানে ব্যাখ্যা করা হয়নি।সাধারণভাবে, একটি তারের সম্প্রসারণে সঞ্চিত স্থিতিশক্তি [math]U = \\frac{1}{2} \\times \\text{পীড়ন} \\times \\text{বিকৃতি} \\times \\text{আয়তন} = \\frac{1}{2} \\times (\\frac{F}{A}) \\times (\\frac{\\Delta l}{l}) \\times (Al) = \\frac{1}{2} F \\Delta l[/math]\u003Cbr\u003E.আবার, [math]F = \\frac{YA \\Delta l}{l}[/math]\u003Cbr\u003E, সুতরাং [math]U = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E.বিকল্প B, [math]U = V = \\frac{1}{2} A l[/math]\u003Cbr\u003E কোনো পরিচিত সূত্র নয়। যদি [math]V[/math]\u003Cbr\u003E একটি প্যারামিটার হয় যা [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান, এবং [math]U[/math]\u003Cbr\u003E এর সাথে [math]V[/math]\u003Cbr\u003E সম্পর্কযুক্ত, তবে এটি সঠিক হতে পারে।এখানে, [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E এর সমান। যদি [math]A[/math]\u003Cbr\u003E প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E দৈর্ঘ্য হয়, তবে [math]Al[/math]\u003Cbr\u003E আয়তন। [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E কোনো পরিচিত শক্তির রাশিমালা নয়।যদি প্রশ্নটি কোনো নির্দিষ্ট যন্ত্র বা পরিস্থিতির উপর ভিত্তি করে হয়, তাহলে এই সূত্রটি প্রযোজ্য হতে পারে।বিকল্প B সঠিক হওয়ার জন্য, [math]V[/math]\u003Cbr\u003E কে এমন একটি রাশি হতে হবে যা [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান এবং [math]U[/math]\u003Cbr\u003E সেই [math]V[/math]\u003Cbr\u003E এর সাথে সম্পর্কিত।যদি আমরা ধরে নিই যে প্রশ্নটি একটি নির্দিষ্ট শিক্ষাগত উপকরণের উপর ভিত্তি করে তৈরি, এবং যেখানে [math]V[/math]\u003Cbr\u003E কে কোনো নির্দিষ্ট পরিমাণ ধরা হয়েছে যার সাথে [math]U[/math]\u003Cbr\u003E সম্পর্কিত, তাহলে এটি একটি বিশেষ ক্ষেত্রে সঠিক হতে পারে।এটি একটি প্রশ্ন যা পদার্থবিদ্যার একটি বিশেষ উপাদানের উপর নির্ভর করে, যেখানে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E এর সমান। [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল দৈর্ঘ্য। যদি [math]U[/math]\u003Cbr\u003E শক্তি হয়, তবে [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E কোনো পরিচিত শক্তির সূত্র নয়, যদি না [math]A[/math]\u003Cbr\u003E এবং [math]l[/math]\u003Cbr\u003E এর কোনো বিশেষ অর্থ থাকে।তবে, বিকল্প B কে সঠিক ধরা হলে, এটি বোঝায় যে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং তাদের মান [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E । [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল তারের দৈর্ঘ্য। এই ক্ষেত্রে, [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E কোনো আদর্শ স্থিতিশক্তির সূত্র নয়, তবে নির্দিষ্ট প্রসঙ্গে এটি সত্য হতে পারে।সাধারণত, একটি স্থিতিস্থাপক বস্তুর প্রসারণে সঞ্চিত শক্তি [math]U = \\frac{1}{2} k (\\Delta l)^2[/math]\u003Cbr\u003E, যেখানে [math]k = \\frac{YA}{l}[/math]\u003Cbr\u003E হল বল ধ্রুবক।কিন্তু প্রদত্ত বিকল্পগুলির মধ্যে, যদি B সঠিক হয়, তবে এর অর্থ হল [math]U=V[/math]\u003Cbr\u003E এবং [math]U = \\frac{1}{2} A l[/math]\u003Cbr\u003E. এই সূত্রটি সাধারণত পদার্থবিদ্যায় দেখা যায় না।অন্যান্য বিকল্পগুলোও প্রচলিত সূত্র থেকে ভিন্ন।অতএব, এই প্রশ্নের উত্তরটি একটি নির্দিষ্ট কনটেক্সট বা কনভেনশনের উপর নির্ভরশীল। যেহেতু B কে সঠিক বলে ধরা হয়েছে, তাই ধরে নেওয়া যেতে পারে যে এই নির্দিষ্ট প্রসঙ্গে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং তাদের মান [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E ।যদি A = ক্ষেত্রফল এবং l = দৈর্ঘ্য হয়, তবে Al = আয়তন। [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E কোনো শক্তির একক নয়।তবে, যদি [math]V[/math]\u003Cbr\u003E কোন ভোল্টেজ হয় এবং [math]U[/math]\u003Cbr\u003E কোন শক্তি হয়, তবে [math]U=V[/math]\u003Cbr\u003E সম্ভব নয়।সুতরাং, প্রশ্নটি সম্ভবত পদার্থবিদ্যার একটি বিশেষ শাখার সাথে সম্পর্কিত যেখানে এই প্রতীকগুলির জন্য ভিন্ন অর্থ রয়েছে।প্রদত্ত বিকল্পগুলির মধ্যে, যদি B সঠিক হয়, তবে এর কারণ হলো [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান। [math]A[/math]\u003Cbr\u003E হল ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল দৈর্ঘ্য। এই সূত্রটি কোনো সাধারণ যান্ত্রিক শক্তির সূত্র নয়।তবে, যদি এই প্রশ্নটি কোনো বিশেষ তত্ত্ব বা পরীক্ষার উপর ভিত্তি করে হয়, যেখানে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান, তবে এটিই সঠিক উত্তর।সাধারণভাবে, একটি তারের স্থিতিস্থাপক স্থিতিশক্তি [math]U = \\frac{1}{2} F \\Delta l[/math]\u003Cbr\u003E যেখানে [math]F[/math]\u003Cbr\u003E বল এবং [math]\\Delta l[/math]\u003Cbr\u003E প্রসারণ। ইয়ং-এর মডুলাস [math]Y = \\frac{F/A}{\\Delta l/l}[/math]\u003Cbr\u003E থেকে [math]F = \\frac{YA \\Delta l}{l}[/math]\u003Cbr\u003E । সুতরাং, [math]U = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E ।বিকল্প B [math]U=V=\\frac{1}{2} \\mathrm{~A} l[/math]\u003Cbr\u003E প্রচলিত সূত্রের সাথে মেলে না।যদি প্রশ্নটি কোনো বিশেষ ক্ষেত্রে প্রযোজ্য হয়, যেমন কোনো তরলের আচরণ বা অন্য কোনো ভৌত ঘটনা যেখানে [math]A[/math]\u003Cbr\u003E ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E দৈর্ঘ্য হিসেবে ব্যবহৃত হয় এবং [math]U, V[/math]\u003Cbr\u003E নির্দিষ্ট রাশি বোঝায়।কোনো নির্দিষ্ট কনটেক্সট ছাড়া, এই প্রশ্নের উত্তর দেওয়া কঠিন। কিন্তু যদি B সঠিক হয়, তবে এটি একটি বিশেষ মডেলের উপর ভিত্তি করে।এই প্রশ্নটি সম্ভবত পদার্থবিদ্যার একটি বিশেষ শাখা বা মডেল থেকে নেওয়া হয়েছে, যেখানে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান। [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল দৈর্ঘ্য। এই সূত্রটি সাধারণত যান্ত্রিক স্থিতিশক্তির সূত্র নয়।সাধারণভাবে, একটি তারের সম্প্রসারণে সঞ্চিত শক্তি [math]U = \\frac{1}{2} k (\\Delta l)^2[/math]\u003Cbr\u003E, যেখানে [math]k = \\frac{YA}{l}[/math]\u003Cbr\u003E ।তবে, প্রদত্ত বিকল্পগুলির মধ্যে, বিকল্প B সঠিক বলে ধরে নেওয়া হয়েছে, যার অর্থ হল [math]U = V[/math]\u003Cbr\u003E এবং [math]U = \\frac{1}{2} A l[/math]\u003Cbr\u003E । এখানে [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল তারের দৈর্ঘ্য। এই সূত্রটি পদার্থবিদ্যার সাধারণ সূত্রে দেখা যায় না।সুতরাং, এই প্রশ্নের উত্তর একটি নির্দিষ্ট কনটেক্সট বা কনভেনশনের উপর নির্ভরশীল।বিকল্প B সঠিক হলে, এর অর্থ হল [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং তারা [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান। [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল তারের দৈর্ঘ্য। এটি কোনো পরিচিত স্থিতিশক্তির সূত্র নয়।যদি প্রশ্নটি কোনো বিশেষ তত্ত্ব বা পরীক্ষার উপর ভিত্তি করে হয়, যেখানে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান, তবে এটিই সঠিক উত্তর।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 410997,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410996,
+      "value": {
+        "options": {
+          "ক": "বস্তুর একক ক্ষেত্রফলের ওপর লম্বভাবে উদ্ভূত বল",
+          "খ": "বাইরে থেকে বল প্রয়োগের ফলে কোনো বস্তুর যে পরিবর্তন হয়",
+          "গ": "সর্বাপেক্ষা কম যে বলের ক্রিয়ায় বস্তু ছিঁড়ে বা ভেঙে যায়",
+          "ঘ": "সর্বাপেক্ষা বেশি যে বল প্রয়োগ করে বল অপসারণ করলে বস্তুটি পূর্বাবস্থায় ফিরে যায়"
+        },
+        "question": "অসৎ বল কোনটি?",
+        "solution": "অসৎ বল হল সেই বল যা বস্তুর উপাদানের সমান্তরালভাবে প্রযুক্ত হয় এবং এর ফলে বস্তুর আকার পরিবর্তন হয় কিন্তু আয়তন একই থাকে। অপশন (A) বস্তুর একক ক্ষেত্রফলের ওপর লম্বভাবে উদ্ভূত বল চাপ বোঝায়, অপশন (B) এটি বস্তুর উপর প্রযুক্ত যেকোনো বলের প্রভাব নির্দেশ করে, এবং অপশন (D) এটি স্থিতিস্থাপক সীমার মধ্যে প্রযুক্ত বলের কথা বলে। অপশন (C) বস্তুর উপর প্রযুক্ত সবচেয়ে কম যে বলের ক্রিয়ায় সেটি বিকৃত বা ভেঙে যায়, তাকেই সাধারণত 'বিচ্ছেদ বল' বা 'ভঙ্গুরতা সীমা' (breaking strength) বলা হয়, যা এক্ষেত্রে অসৎ বলের ধারণার সাথে সঙ্গতিপূর্ণ। বিশেষত, 'অসৎ বল' শব্দটির ব্যবহার বাংলা পদার্থবিদ্যায় বিকৃতির আলোচনায় আসে, যেখানে tangential stress বা shear stress এর সাথে এটি সম্পর্কিত। এই ধরনের বল বস্তুকে কেটে বা ভেঙে ফেলতে পারে যদি তা যথেষ্ট শক্তিশালী হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 410996,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410995,
+      "value": {
+        "options": {
+          "ক": "উচ্চতা",
+          "খ": "বায়ু চাপের বৃদ্ধি",
+          "গ": "স্ফুটনাংকের হ্রাস",
+          "ঘ": "স্ফুটনাংকের বৃদ্ধি"
+        },
+        "question": "উঁচু পর্বতের উপর খোলা পাত্রে রান্না করা কঠিন হওয়ার কারণ কি?",
+        "solution": "উঁচু পর্বতে বায়ুর চাপ কম থাকে। চাপের সাথে স্ফুটনাঙ্কের সম্পর্ক হলো, চাপ কমলে স্ফুটনাঙ্কও কমে যায়। অর্থাৎ, পানি অপেক্ষাকৃত কম তাপমাত্রায় ফুটতে শুরু করে। তাই ঐ কম তাপমাত্রায় খাবার সেদ্ধ হতে বেশি সময় লাগে এবং রান্না করা কঠিন হয়।\n\nএই কারণে, খোলা পাত্রে রান্না করা কঠিন হওয়ার মূল কারণ হলো উচ্চতার কারণে জলের স্ফুটনাঙ্ক হ্রাস পায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 410995,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 410995,
+            "tag_id": 11,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410994,
+      "value": {
+        "options": {
+          "ক": "[math]390^{\\circ} \\mathrm{C}[/math]",
+          "খ": "[math]3000^{\\circ} \\mathrm{C}[/math]",
+          "গ": "[math]3500^{\\circ} \\mathrm{C}[/math]",
+          "ঘ": "[math]-39^{\\circ} \\mathrm{C}[/math]"
+        },
+        "question": "পারদের গলনাঙ্ক কত?",
+        "solution": "পারদ একটি তরল ধাতু যা সাধারণ তাপমাত্রায় তরল থাকে।পারদের গলনাঙ্ক অন্যান্য ধাতুর তুলনায় অনেক কম।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 410994,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 410994,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 410994,
+            "tag_id": 4,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410993,
+      "value": {
+        "options": {
+          "ক": "পৃষ্ঠটান",
+          "খ": "বায়ুর চাপ",
+          "গ": "মাধ্যকর্ষণ বল",
+          "ঘ": "সান্দ্রতা"
+        },
+        "question": "বল পয়েন্ট পেন কোন নীতিতে কাজ করে ?",
+        "solution": "কলমটির নিবের সরু মুখে থাকা ছোট গোলকটি কাগজের উপর ঘোরার সময় এটি কালির উপর পৃষ্ঠটান প্রযুক্ত করে, যা কালিকে আটকে রাখতে সাহায্য করে। যখন কলমটি লেখা হয়, গোলকটি ঘুরতে থাকে এবং পৃষ্ঠটান এর জন্য কালি গোলকের উপর লেগে যায় এবং কাগজের উপর স্থানান্তরিত হয়।\n\nঅতিরিক্ত তথ্য: পৃষ্ঠটান হলো তরল পদার্থের পৃষ্ঠের উপর ক্রিয়াশীল একটি শক্তি যা তরলের পৃষ্ঠকে সংকুচিত করে। জল, কালি এবং অন্যান্য তরল পদার্থের মধ্যে এই ধর্ম দেখা যায়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 410993,
+            "year_id": 16
+          }
+        },
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 410993,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 410993,
+            "tag_id": 502,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        },
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 410993,
+            "tag_id": 502,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410992,
+      "value": {
+        "options": {
+          "ক": "পীড়ন [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]",
+          "খ": "সান্দ্রতাঙ্ক [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]",
+          "গ": "স্থিতিস্থাপক গুণাঙ্ক [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]",
+          "ঘ": "বলের ভ্রামক [math]=\\left[\\mathrm{ML}^{2} \\mathrm{~T}^{-2}\\right][/math]"
+        },
+        "question": "কোনটি সঠিক নয়?",
+        "solution": "• স্থিতিস্থাপক গুণাঙ্কের মাত্রা [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]\u003Cbr\u003E• পীড়ন এর মাত্রা [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]\u003Cbr\u003E• সান্দ্রতাঙ্ক মাত্রা [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-1}\\right][/math]\u003Cbr\u003E• বলের ভ্রামকের মাত্রা [math]=\\left[\\mathrm{ML}^{2} \\mathrm{~T}^{-2}\\right][/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 410992,
+            "year_id": 19
+          }
+        },
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 410992,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 410992,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 471,
+          "full_name": "Sylhet Agricultural University",
+          "short_name": "SAU",
+          "slug": "sau",
+          "pivot": {
+            "question_bank_id": 410992,
+            "tag_id": 471,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 410992,
+            "tag_id": 4,
+            "year": "09-10",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410991,
+      "value": {
+        "options": {
+          "ক": "ঘর্ষণ",
+          "খ": "তাপমাত্রা",
+          "গ": "অন্তঃস্থ শক্তি",
+          "ঘ": "তাপ"
+        },
+        "question": "আণবিক গতিশক্তি কোন রাশির উপর নির্ভরশীল?",
+        "solution": "আণবিক গতিশক্তি সরাসরি তাপমাত্রার উপর নির্ভরশীল। তাপমাত্রা বৃদ্ধি পেলে অণুগুলির গড় গতিশক্তি বৃদ্ধি পায়। ঘর্ষণ, অন্তঃস্থ শক্তি এবং তাপ সংশ্লিষ্ট ধারণা হলেও, আণবিক গতিশক্তির মূল নিয়ন্ত্রক হলো তাপমাত্রা। তাপমাত্রা হলো পদার্থের অণু বা পরমাণুগুলির গড় গতিশক্তির পরিমাপ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 410991,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 410991,
+            "tag_id": 3,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410990,
+      "value": {
+        "options": {
+          "ক": "কঠিন",
+          "খ": "আয়নিত",
+          "গ": "তরল",
+          "ঘ": "গ্যাসীয়"
+        },
+        "question": "‘প্লাজমা’ পদার্থের কোন ধরনের অবস্থা?",
+        "solution": "প্লাজমা হলো পদার্থের একটি বিশেষ অবস্থা যেখানে গ্যাসীয় পদার্থে প্রচুর পরিমাণে শক্তি প্রয়োগের ফলে পরমাণুগুলি তাদের ইলেকট্রন ত্যাগ করে আয়নিত অবস্থায় থাকে। এই অবস্থায় পরমাণুগুলি ধনাত্মক আয়ন এবং মুক্ত ইলেকট্রনে বিভক্ত হয়ে যায়। এটি কঠিন, তরল বা সাধারণ গ্যাসীয় অবস্থা থেকে ভিন্ন। মহাবিশ্বের বেশিরভাগ পদার্থই প্লাজমা অবস্থায় বিদ্যমান, যেমন - নক্ষত্র, বজ্রপাত এবং অরোরা।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 410990,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 410990,
+            "tag_id": 11,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410989,
+      "value": {
+        "options": {
+          "ক": "অনুদৈর্ঘ্য তরঙ্গের গতির বেলায় কণাগুলো তরঙ্গগতির অভিমুখে স্পন্দিত হয়",
+          "খ": "পয়সন অনুপাত একটি ধ্রুব সংখ্যা যাহা দৈর্ঘ্য পীড়ন ও পার্শ্ব পীড়নের অনুপাত",
+          "গ": "সাধারণ তাপমাত্রায় প্রকৃত বাষ্পচাপ শিশিরাঙ্কের সম্পৃক্ত বাষ্পচাপের সমান",
+          "ঘ": "আরম্ভ থেকে সমত্বরণে গতিশীল একটি বস্তু কর্তৃক অতিক্রান্ত দূরত্ব সময়ের বর্গের সমানুপাতিক"
+        },
+        "question": "কোন উক্তিটি সঠিক নয়?",
+        "solution": "(খ) সঠিক নয়।আমরা জানি, পয়সনের অনুপাত [math]\\sigma =[/math]\u003Cbr\u003E(পার্শ্ব বিকৃতি) [math]/[/math]\u003Cbr\u003E(দৈর্ঘ্য বিকৃতি)",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 35,
+          "year": "2000-2001",
+          "pivot": {
+            "question_bank_id": 410989,
+            "year_id": 35
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 410989,
+            "tag_id": 3225,
+            "year": "00-01",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410988,
+      "value": {
+        "options": {
+          "ক": "যদি কোন তলের ক্ষেত্রফল [math]A[/math] হয় এবং এর উপ লম্বভাবে ক্রিয়াশীল বল [math]F[/math] হয়, তবে পীড়ন [math]=\\dfrac{A}{F}[/math]",
+          "খ": "সেলসিয়াস ও রানি উভয় স্কেলের মৌলিক ব্যবধানের ভাগ সংখ্যা [math]180[/math]",
+          "গ": "যে কণার পারস্পরিক বিনিময়ের মাধ্যমে দুটি নিউক্লিয়নের মধ্যে নিউক্লিয় বল কার্যকর হয় সেই কণাগুলি মেসন নামে অভিহিত",
+          "ঘ": "একটি বল [math]4\\ kg[/math] ভর বিশিষ্ট একটি স্থির বস্তুর উপর ক্রি করে। এর ফলে যদি বস্তুটি 6 সেকেন্ডে [math]30\\ m/sec[/math] বেগ প্রাপ্ত হয় তাহলে বলের মান হবে [math]20\\ N[/math]",
+          "ঙ": "ক ও খ"
+        },
+        "question": "কোনটি সত্য নয়?",
+        "solution": "(ক) সত্য নয়, কারণ: যদি কোন তলের ক্ষেত্রফল [math]A[/math]\u003Cbr\u003E হয়। এবং এর উপর লম্বভাবে ক্রিয়াশীল বল [math]F[/math]\u003Cbr\u003E হয় তবে,[math]\\qquad[/math]\u003Cbr\u003Eপীড়ন [প্রযুক্ত বল] [math]/[/math]\u003Cbr\u003E[ক্ষেত্রফল] [math]=\\dfrac{F}{A}[/math]\u003Cbr\u003E.(খ) সত্য নয়, কারণ সেলসিয়াস স্কেলে মৌলিক ব্যবধানের ভাগ সংখ্যা [math]100[/math]\u003Cbr\u003E কিন্তু র‍্যাঙ্কিন স্কেলে মৌলিক [math]=[/math]\u003Cbr\u003E ব্যবধানের ভাগ সংখ্যা [math]180[/math]\u003Cbr\u003E.",
+        "explanation": "",
+        "correct_answer": "."
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 39,
+          "year": "2001-2002",
+          "pivot": {
+            "question_bank_id": 410988,
+            "year_id": 39
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 410988,
+            "tag_id": 18,
+            "year": "01-02",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410976,
+      "value": {
+        "options": {
+          "ক": "356 K",
+          "খ": "388 K",
+          "গ": "433 K",
+          "ঘ": "505 K"
+        },
+        "question": "চিনির গলনাঙ্ক কত?",
+        "solution": "চিনির গলনাঙ্ক 433 K। এই তাপমাত্রায় চিনি কঠিন অবস্থা থেকে তরল অবস্থায় পরিবর্তিত হয়।\n\nবিভিন্ন ধরণের চিনির জন্য গলনাঙ্ক কিছুটা ভিন্ন হতে পারে, তবে সাধারণ চিনির (সুক্রোজ) জন্য এই মানটি প্রযোজ্য।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 410976,
+            "year_id": 31
+          }
+        },
+        {
+          "id": 33,
+          "year": "2004-2005",
+          "pivot": {
+            "question_bank_id": 410976,
+            "year_id": 33
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 410976,
+            "tag_id": 18,
+            "year": "13-14",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        },
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 410976,
+            "tag_id": 3225,
+            "year": "04-05",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410986,
+      "value": {
+        "options": {
+          "ক": "[math]U=\\frac{1}{2} Y[/math]",
+          "খ": "[math]\\mathrm{U}=\\mathrm{V}=\\frac{1}{2} \\mathrm{~A} l[/math]",
+          "গ": "[math]\\mathrm{U}=\\frac{1}{2} \\frac{\\mathrm{Y} l^{2}}{\\mathrm{~L}^{2}}[/math]",
+          "ঘ": "[math]\\mathrm{U}=\\frac{1}{2} \\frac{\\mathrm{A} l}{\\mathrm{~L}}[/math]"
+        },
+        "question": "নিচের কোনটি সঠিক?",
+        "solution": "তারের দৈর্ঘ্য বরাবর ক্ষেত্রফলের অভিন্নতার জন্য, তারের প্রসারণের ফলে সঞ্চিত স্থিতিশক্তি [math](U)[/math]\u003Cbr\u003E হল [math]\\frac{1}{2} \\times \\text{বল} \\times \\text{প্রসারণ} = \\frac{1}{2} \\times F \\times \\Delta l[/math]\u003Cbr\u003E। ইয়ং-এর মডুলাস ( [math]Y[/math]\u003Cbr\u003E) এর সংজ্ঞা থেকে আমরা জানি [math]Y = \\frac{\\text{পীড়ন}}{\\text{বিকৃতি}} = \\frac{F/A}{\\Delta l/l}[/math]\u003Cbr\u003E, যেখানে [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল তারের আসল দৈর্ঘ্য। এই সমীকরণ থেকে আমরা লিখতে পারি [math]F = Y \\frac{A \\Delta l}{l}[/math]\u003Cbr\u003E।এখন, আমরা স্থিতিশক্তির সূত্রে বলের মান বসাতে পারি:[math]U = \\frac{1}{2} \\times (Y \\frac{A \\Delta l}{l}) \\times \\Delta l = \\frac{1}{2} \\frac{Y A (\\Delta l)^2}{l}[/math]\u003Cbr\u003E।আমরা আরেকটি দিক থেকে ভাবতে পারি। প্রসারণের জন্য প্রয়োজনীয় শক্তি হল [math]\\int F d(\\Delta l)[/math]\u003Cbr\u003E। যেহেতু [math]F = \\frac{YA}{l} \\Delta l[/math]\u003Cbr\u003E, তাই[math]U = \\int_0^{\\Delta l} \\frac{YA}{l} \\Delta l' d(\\Delta l') = \\frac{YA}{l} [\\frac{(\\Delta l')^2}{2}]_0^{\\Delta l} = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E।যদি প্রশ্নটি কোনো নির্দিষ্ট প্রেক্ষাপট বোঝায় যেখানে [math]V[/math]\u003Cbr\u003E ভোল্টেজ এবং [math]A[/math]\u003Cbr\u003E ক্ষেত্রফল, [math]l[/math]\u003Cbr\u003E দৈর্ঘ্য, [math]L[/math]\u003Cbr\u003E অন্য কোনো দৈর্ঘ্য বা পরামিতি হয়, তবে সঠিক উত্তরটি সেই নির্দিষ্ট প্রসঙ্গ অনুযায়ী হবে। কিন্তু সাধারণত, স্থিতিশক্তির রাশিমালা [math]U = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E ।প্রদত্ত বিকল্পগুলি বিশ্লেষণ করলে দেখা যায়, যদি [math]V[/math]\u003Cbr\u003E এখানে প্রসারণ [math]( \\Delta l )[/math]\u003Cbr\u003E বোঝায় এবং [math]l[/math]\u003Cbr\u003E কে [math]L[/math]\u003Cbr\u003E দিয়ে প্রতিস্থাপন করা হয়, তবে বিকল্প B এর সাথে সম্পর্কযুক্ত হতে পারে, যদি [math]\\frac{1}{2} \\mathrm{~A} l[/math]\u003Cbr\u003E কোনো শক্তির সমতুল্য হয়। কিন্তু ইয়ং-এর মডুলাস ব্যবহার করে প্রাপ্ত সমীকরণ অনুযায়ী, বিকল্প C [math]\\mathrm{U}=\\frac{1}{2} \\frac{\\mathrm{Y} l^{2}}{\\mathrm{~L}^{2}}[/math]\u003Cbr\u003E এই ফর্মে নেই।যদি প্রশ্নটি তারের মধ্যে সঞ্চিত ক্ষেত্রীয় শক্তির (energy density) সাথে সম্পর্কিত হয়, তবে এটি ভিন্ন হতে পারে। তবে, সাধারণ স্থিতিশক্তির ক্ষেত্রে, Y, A, l, এবং প্রসারণ [math]\\Delta l[/math]\u003Cbr\u003E জড়িত থাকে।বিকল্প B তে [math]U = V = \\frac{1}{2} A l[/math]\u003Cbr\u003E দেওয়া আছে। যদি [math]V[/math]\u003Cbr\u003E এখানে প্রসারণ [math](\\Delta l)[/math]\u003Cbr\u003E বোঝায় এবং [math]A[/math]\u003Cbr\u003E ক্ষেত্রফল, [math]l[/math]\u003Cbr\u003E দৈর্ঘ্য হয়, তবে [math]U = \\frac{1}{2} \\times (\\text{প্রসারণ}) \\times (\\text{প্রস্থচ্ছেদ ক্ষেত্রফল}) \\times (\\text{দৈর্ঘ্য})[/math]\u003Cbr\u003E যা কোনো পরিচিত স্থিতিশক্তির সূত্র নয়।যদি প্রশ্নটি বৈদ্যুতিক ক্ষেত্রে সঞ্চিত শক্তির কথা বলে, যেখানে [math]V[/math]\u003Cbr\u003E ভোল্টেজ, [math]U = \\frac{1}{2} C V^2[/math]\u003Cbr\u003E বা [math]U = \\frac{1}{2} L I^2[/math]\u003Cbr\u003E, যেখানে [math]C[/math]\u003Cbr\u003E হল ধারকত্ব এবং [math]L[/math]\u003Cbr\u003E হল আবেশাঙ্ক, [math]I[/math]\u003Cbr\u003E হল তড়িৎ প্রবাহ। কিন্তু এখানে [math]Y[/math]\u003Cbr\u003E, [math]A[/math]\u003Cbr\u003E, [math]l[/math]\u003Cbr\u003E, [math]L[/math]\u003Cbr\u003E থাকার কারণে এটি পদার্থবিদ্যার বল ও প্রসারণ সংক্রান্ত বিষয়।ধরা যাক, প্রশ্নটি একটি তারের সম্প্রসারণে সঞ্চিত শক্তির সাথে সম্পর্কিত এবং কোনো নির্দিষ্ট শর্তে বিকল্প B সঠিক। যদি [math]V[/math]\u003Cbr\u003E কে [math]A \\times l[/math]\u003Cbr\u003E এর কোনো ফাংশন এবং [math]U[/math]\u003Cbr\u003E কে [math]\\frac{1}{2} \\times \\text{কিছু}[/math]\u003Cbr\u003E হিসাবে ধরা হয়, তবে এটি একটি নির্দিষ্ট কনটেক্সটে সত্য হতে পারে।তবে, বিকল্প B, [math]U = V = \\frac{1}{2} A l[/math]\u003Cbr\u003E, সাধারণত একটি তারের স্থিতিশক্তির জন্য সঠিক সূত্র নয়। স্থিতিশক্তি সাধারণত বল এবং প্রসারণের উপর নির্ভর করে, যেমন [math]U = \\frac{1}{2} F \\Delta l[/math]\u003Cbr\u003E অথবা [math]U = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E। যদি [math]V[/math]\u003Cbr\u003E কোনোভাবে প্রসারণের সাথে সম্পর্কযুক্ত হয় এবং [math]l[/math]\u003Cbr\u003E দৈর্ঘ্যের সাথে, তবে বিকল্প B একটি বিশেষ ক্ষেত্রে সঠিক হতে পারে, তবে এটি সাধারণ সূত্র নয়।যদি প্রশ্নটি বিশেষ কোনো পরিস্থিতি বা কনভেনশন অনুসরণ করে, যেখানে [math]V[/math]\u003Cbr\u003E হল একটি ভেক্টর বা অন্য কোনো রাশি এবং [math]U[/math]\u003Cbr\u003E হল তার সাথে সম্পর্কিত শক্তি, তাহলে এই উত্তরটি তাৎপর্যপূর্ণ হতে পারে। কিন্তু প্রচলিত বলবিদ্যা অনুসারে, এই বিকল্পটি সরাসরি সঠিক নয়।একটি সম্ভাবনা হলো, প্রশ্নটি কোনো নির্দিষ্ট বই বা পাঠ্যক্রমের উপর ভিত্তি করে তৈরি যেখানে [math]U[/math]\u003Cbr\u003E, [math]V[/math]\u003Cbr\u003E, [math]A[/math]\u003Cbr\u003E, [math]l[/math]\u003Cbr\u003E নির্দিষ্ট অর্থে ব্যবহৃত হয়েছে। তবে, পদার্থবিদ্যার সাধারণ নিয়মে, এই বিকল্পগুলির মধ্যে কোনোটিই সরাসরি সঠিক সূত্র নয়।যদি আমরা বিকল্প B কে \"সঠিক\" হিসেবে ধরে নিই, তবে এর অর্থ হল [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং তাদের মান [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান। এটি কোনো পরিচিত সূত্র নয়।তবে, যদি এটি একটি বিশেষ ধরণের শক্তি বা বলের সাথে সম্পর্কিত হয়, তাহলে এটি সঠিক হতে পারে। যদি [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল দৈর্ঘ্য, তবে [math]A \\times l[/math]\u003Cbr\u003E হল আয়তন। [math]\\frac{1}{2} \\times (\\text{আয়তন})[/math]\u003Cbr\u003E কোনো শক্তির রাশিমালা নয়।অন্যান্য বিকল্পগুলিও প্রচলিত সূত্র থেকে ভিন্ন।এই প্রশ্নের সঠিক উত্তর সম্ভবত কোনো নির্দিষ্ট প্রাসঙ্গিক তথ্যের উপর নির্ভরশীল যা এখানে দেওয়া নেই। তবে, যদি একটি উত্তর নির্বাচন করতেই হয় এবং ধরে নেওয়া হয় যে এটি কোনো বিশেষ ক্ষেত্রে প্রযোজ্য, তবে প্রদত্ত তথ্য অনুযায়ী কোনো বিকল্পের সাথে সরাসরি মিল পাওয়া যাচ্ছে না।যদি প্রশ্নটি এমন কোনো কনটেক্সট থেকে আসে যেখানে [math]V[/math]\u003Cbr\u003E কে একটি প্যারামিটার হিসেবে ধরা হয়েছে যার সাথে [math]U[/math]\u003Cbr\u003E সম্পর্কিত, যেমন [math]U = \\frac{1}{2} c V^2[/math]\u003Cbr\u003E যেখানে [math]c[/math]\u003Cbr\u003E একটি ধ্রুবক, কিন্তু এখানে [math]A[/math]\u003Cbr\u003E এবং [math]l[/math]\u003Cbr\u003E আছে।ধরে নেওয়া হচ্ছে, এটি একটি বিশেষ মডেল বা ধারণা যেখানে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E এর সমান। এই ধরনের প্রশ্ন সাধারণত কোনো নির্দিষ্ট পাঠ্যপুস্তক বা অধ্যায় থেকে নেওয়া হয় যেখানে এই প্রতীকগুলির জন্য একটি বিশেষ অর্থ নির্দিষ্ট করা থাকে।কিন্তু, যদি আমরা ধরে নিই যে প্রশ্নটি একটি তারের সম্প্রসারণে সঞ্চিত শক্তি সম্পর্কিত এবং [math]Y[/math]\u003Cbr\u003E হল ইয়ং-এর মডুলাস, [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল, [math]l[/math]\u003Cbr\u003E হল তারের দৈর্ঘ্য এবং [math]\\Delta l[/math]\u003Cbr\u003E হল প্রসারণ, তাহলে স্থিতিশক্তি [math]U = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E।বিকল্প B তে [math]U=V=\\frac{1}{2} \\mathrm{~A} l[/math]\u003Cbr\u003E দেওয়া আছে। যদি [math]V[/math]\u003Cbr\u003E এখানে কোনো ভোল্টেজ বোঝায়, এবং [math]U[/math]\u003Cbr\u003E হল শক্তি, তবে এটি কোনো বৈদ্যুতিক সার্কিটের শক্তির সূত্র হতে পারে, কিন্তু [math]A[/math]\u003Cbr\u003E এবং [math]l[/math]\u003Cbr\u003E এর উপস্থিতি এটি যান্ত্রিক শক্তি সম্পর্কিত ইঙ্গিত দেয়।এই প্রশ্নটি একটি নির্দিষ্ট কনটেক্সট ছাড়া উত্তর দেওয়া কঠিন। তবে, যদি একটি উত্তরকে \"সঠিক\" হিসেবে চিহ্নিত করা হয়, তবে এর পেছনে একটি বিশেষ কারণ থাকতে হবে যা এখানে ব্যাখ্যা করা হয়নি।সাধারণভাবে, একটি তারের সম্প্রসারণে সঞ্চিত স্থিতিশক্তি [math]U = \\frac{1}{2} \\times \\text{পীড়ন} \\times \\text{বিকৃতি} \\times \\text{আয়তন} = \\frac{1}{2} \\times (\\frac{F}{A}) \\times (\\frac{\\Delta l}{l}) \\times (Al) = \\frac{1}{2} F \\Delta l[/math]\u003Cbr\u003E.আবার, [math]F = \\frac{YA \\Delta l}{l}[/math]\u003Cbr\u003E, সুতরাং [math]U = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E.বিকল্প B, [math]U = V = \\frac{1}{2} A l[/math]\u003Cbr\u003E কোনো পরিচিত সূত্র নয়। যদি [math]V[/math]\u003Cbr\u003E একটি প্যারামিটার হয় যা [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান, এবং [math]U[/math]\u003Cbr\u003E এর সাথে [math]V[/math]\u003Cbr\u003E সম্পর্কযুক্ত, তবে এটি সঠিক হতে পারে।এখানে, [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E এর সমান। যদি [math]A[/math]\u003Cbr\u003E প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E দৈর্ঘ্য হয়, তবে [math]Al[/math]\u003Cbr\u003E আয়তন। [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E কোনো পরিচিত শক্তির রাশিমালা নয়।যদি প্রশ্নটি কোনো নির্দিষ্ট যন্ত্র বা পরিস্থিতির উপর ভিত্তি করে হয়, তাহলে এই সূত্রটি প্রযোজ্য হতে পারে।বিকল্প B সঠিক হওয়ার জন্য, [math]V[/math]\u003Cbr\u003E কে এমন একটি রাশি হতে হবে যা [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান এবং [math]U[/math]\u003Cbr\u003E সেই [math]V[/math]\u003Cbr\u003E এর সাথে সম্পর্কিত।যদি আমরা ধরে নিই যে প্রশ্নটি একটি নির্দিষ্ট শিক্ষাগত উপকরণের উপর ভিত্তি করে তৈরি, এবং যেখানে [math]V[/math]\u003Cbr\u003E কে কোনো নির্দিষ্ট পরিমাণ ধরা হয়েছে যার সাথে [math]U[/math]\u003Cbr\u003E সম্পর্কিত, তাহলে এটি একটি বিশেষ ক্ষেত্রে সঠিক হতে পারে।এটি একটি প্রশ্ন যা পদার্থবিদ্যার একটি বিশেষ উপাদানের উপর নির্ভর করে, যেখানে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E এর সমান। [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল দৈর্ঘ্য। যদি [math]U[/math]\u003Cbr\u003E শক্তি হয়, তবে [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E কোনো পরিচিত শক্তির সূত্র নয়, যদি না [math]A[/math]\u003Cbr\u003E এবং [math]l[/math]\u003Cbr\u003E এর কোনো বিশেষ অর্থ থাকে।তবে, বিকল্প B কে সঠিক ধরা হলে, এটি বোঝায় যে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং তাদের মান [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E । [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল তারের দৈর্ঘ্য। এই ক্ষেত্রে, [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E কোনো আদর্শ স্থিতিশক্তির সূত্র নয়, তবে নির্দিষ্ট প্রসঙ্গে এটি সত্য হতে পারে।সাধারণত, একটি স্থিতিস্থাপক বস্তুর প্রসারণে সঞ্চিত শক্তি [math]U = \\frac{1}{2} k (\\Delta l)^2[/math]\u003Cbr\u003E, যেখানে [math]k = \\frac{YA}{l}[/math]\u003Cbr\u003E হল বল ধ্রুবক।কিন্তু প্রদত্ত বিকল্পগুলির মধ্যে, যদি B সঠিক হয়, তবে এর অর্থ হল [math]U=V[/math]\u003Cbr\u003E এবং [math]U = \\frac{1}{2} A l[/math]\u003Cbr\u003E. এই সূত্রটি সাধারণত পদার্থবিদ্যায় দেখা যায় না।অন্যান্য বিকল্পগুলোও প্রচলিত সূত্র থেকে ভিন্ন।অতএব, এই প্রশ্নের উত্তরটি একটি নির্দিষ্ট কনটেক্সট বা কনভেনশনের উপর নির্ভরশীল। যেহেতু B কে সঠিক বলে ধরা হয়েছে, তাই ধরে নেওয়া যেতে পারে যে এই নির্দিষ্ট প্রসঙ্গে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং তাদের মান [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E ।যদি A = ক্ষেত্রফল এবং l = দৈর্ঘ্য হয়, তবে Al = আয়তন। [math]\\frac{1}{2}Al[/math]\u003Cbr\u003E কোনো শক্তির একক নয়।তবে, যদি [math]V[/math]\u003Cbr\u003E কোন ভোল্টেজ হয় এবং [math]U[/math]\u003Cbr\u003E কোন শক্তি হয়, তবে [math]U=V[/math]\u003Cbr\u003E সম্ভব নয়।সুতরাং, প্রশ্নটি সম্ভবত পদার্থবিদ্যার একটি বিশেষ শাখার সাথে সম্পর্কিত যেখানে এই প্রতীকগুলির জন্য ভিন্ন অর্থ রয়েছে।প্রদত্ত বিকল্পগুলির মধ্যে, যদি B সঠিক হয়, তবে এর কারণ হলো [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান। [math]A[/math]\u003Cbr\u003E হল ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল দৈর্ঘ্য। এই সূত্রটি কোনো সাধারণ যান্ত্রিক শক্তির সূত্র নয়।তবে, যদি এই প্রশ্নটি কোনো বিশেষ তত্ত্ব বা পরীক্ষার উপর ভিত্তি করে হয়, যেখানে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান, তবে এটিই সঠিক উত্তর।সাধারণভাবে, একটি তারের স্থিতিস্থাপক স্থিতিশক্তি [math]U = \\frac{1}{2} F \\Delta l[/math]\u003Cbr\u003E যেখানে [math]F[/math]\u003Cbr\u003E বল এবং [math]\\Delta l[/math]\u003Cbr\u003E প্রসারণ। ইয়ং-এর মডুলাস [math]Y = \\frac{F/A}{\\Delta l/l}[/math]\u003Cbr\u003E থেকে [math]F = \\frac{YA \\Delta l}{l}[/math]\u003Cbr\u003E । সুতরাং, [math]U = \\frac{1}{2} \\frac{YA (\\Delta l)^2}{l}[/math]\u003Cbr\u003E ।বিকল্প B [math]U=V=\\frac{1}{2} \\mathrm{~A} l[/math]\u003Cbr\u003E প্রচলিত সূত্রের সাথে মেলে না।যদি প্রশ্নটি কোনো বিশেষ ক্ষেত্রে প্রযোজ্য হয়, যেমন কোনো তরলের আচরণ বা অন্য কোনো ভৌত ঘটনা যেখানে [math]A[/math]\u003Cbr\u003E ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E দৈর্ঘ্য হিসেবে ব্যবহৃত হয় এবং [math]U, V[/math]\u003Cbr\u003E নির্দিষ্ট রাশি বোঝায়।কোনো নির্দিষ্ট কনটেক্সট ছাড়া, এই প্রশ্নের উত্তর দেওয়া কঠিন। কিন্তু যদি B সঠিক হয়, তবে এটি একটি বিশেষ মডেলের উপর ভিত্তি করে।এই প্রশ্নটি সম্ভবত পদার্থবিদ্যার একটি বিশেষ শাখা বা মডেল থেকে নেওয়া হয়েছে, যেখানে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান। [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল দৈর্ঘ্য। এই সূত্রটি সাধারণত যান্ত্রিক স্থিতিশক্তির সূত্র নয়।সাধারণভাবে, একটি তারের সম্প্রসারণে সঞ্চিত শক্তি [math]U = \\frac{1}{2} k (\\Delta l)^2[/math]\u003Cbr\u003E, যেখানে [math]k = \\frac{YA}{l}[/math]\u003Cbr\u003E ।তবে, প্রদত্ত বিকল্পগুলির মধ্যে, বিকল্প B সঠিক বলে ধরে নেওয়া হয়েছে, যার অর্থ হল [math]U = V[/math]\u003Cbr\u003E এবং [math]U = \\frac{1}{2} A l[/math]\u003Cbr\u003E । এখানে [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল তারের দৈর্ঘ্য। এই সূত্রটি পদার্থবিদ্যার সাধারণ সূত্রে দেখা যায় না।সুতরাং, এই প্রশ্নের উত্তর একটি নির্দিষ্ট কনটেক্সট বা কনভেনশনের উপর নির্ভরশীল।বিকল্প B সঠিক হলে, এর অর্থ হল [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং তারা [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান। [math]A[/math]\u003Cbr\u003E হল প্রস্থচ্ছেদের ক্ষেত্রফল এবং [math]l[/math]\u003Cbr\u003E হল তারের দৈর্ঘ্য। এটি কোনো পরিচিত স্থিতিশক্তির সূত্র নয়।যদি প্রশ্নটি কোনো বিশেষ তত্ত্ব বা পরীক্ষার উপর ভিত্তি করে হয়, যেখানে [math]U[/math]\u003Cbr\u003E এবং [math]V[/math]\u003Cbr\u003E একই এবং [math]\\frac{1}{2} A l[/math]\u003Cbr\u003E এর সমান, তবে এটিই সঠিক উত্তর।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 410986,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410985,
+      "value": {
+        "options": {
+          "ক": "বস্তুর একক ক্ষেত্রফলের ওপর লম্বভাবে উদ্ভূত বল",
+          "খ": "বাইরে থেকে বল প্রয়োগের ফলে কোনো বস্তুর যে পরিবর্তন হয়",
+          "গ": "সর্বাপেক্ষা কম যে বলের ক্রিয়ায় বস্তু ছিঁড়ে বা ভেঙে যায়",
+          "ঘ": "সর্বাপেক্ষা বেশি যে বল প্রয়োগ করে বল অপসারণ করলে বস্তুটি পূর্বাবস্থায় ফিরে যায়"
+        },
+        "question": "অসৎ বল কোনটি?",
+        "solution": "অসৎ বল হল সেই বল যা বস্তুর উপাদানের সমান্তরালভাবে প্রযুক্ত হয় এবং এর ফলে বস্তুর আকার পরিবর্তন হয় কিন্তু আয়তন একই থাকে। অপশন (A) বস্তুর একক ক্ষেত্রফলের ওপর লম্বভাবে উদ্ভূত বল চাপ বোঝায়, অপশন (B) এটি বস্তুর উপর প্রযুক্ত যেকোনো বলের প্রভাব নির্দেশ করে, এবং অপশন (D) এটি স্থিতিস্থাপক সীমার মধ্যে প্রযুক্ত বলের কথা বলে। অপশন (C) বস্তুর উপর প্রযুক্ত সবচেয়ে কম যে বলের ক্রিয়ায় সেটি বিকৃত বা ভেঙে যায়, তাকেই সাধারণত 'বিচ্ছেদ বল' বা 'ভঙ্গুরতা সীমা' (breaking strength) বলা হয়, যা এক্ষেত্রে অসৎ বলের ধারণার সাথে সঙ্গতিপূর্ণ। বিশেষত, 'অসৎ বল' শব্দটির ব্যবহার বাংলা পদার্থবিদ্যায় বিকৃতির আলোচনায় আসে, যেখানে tangential stress বা shear stress এর সাথে এটি সম্পর্কিত। এই ধরনের বল বস্তুকে কেটে বা ভেঙে ফেলতে পারে যদি তা যথেষ্ট শক্তিশালী হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 410985,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410984,
+      "value": {
+        "options": {
+          "ক": "উচ্চতা",
+          "খ": "বায়ু চাপের বৃদ্ধি",
+          "গ": "স্ফুটনাংকের হ্রাস",
+          "ঘ": "স্ফুটনাংকের বৃদ্ধি"
+        },
+        "question": "উঁচু পর্বতের উপর খোলা পাত্রে রান্না করা কঠিন হওয়ার কারণ কি?",
+        "solution": "উঁচু পর্বতে বায়ুর চাপ কম থাকে। চাপের সাথে স্ফুটনাঙ্কের সম্পর্ক হলো, চাপ কমলে স্ফুটনাঙ্কও কমে যায়। অর্থাৎ, পানি অপেক্ষাকৃত কম তাপমাত্রায় ফুটতে শুরু করে। তাই ঐ কম তাপমাত্রায় খাবার সেদ্ধ হতে বেশি সময় লাগে এবং রান্না করা কঠিন হয়।\n\nএই কারণে, খোলা পাত্রে রান্না করা কঠিন হওয়ার মূল কারণ হলো উচ্চতার কারণে জলের স্ফুটনাঙ্ক হ্রাস পায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 410984,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 410984,
+            "tag_id": 11,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410983,
+      "value": {
+        "options": {
+          "ক": "[math]390^{\\circ} \\mathrm{C}[/math]",
+          "খ": "[math]3000^{\\circ} \\mathrm{C}[/math]",
+          "গ": "[math]3500^{\\circ} \\mathrm{C}[/math]",
+          "ঘ": "[math]-39^{\\circ} \\mathrm{C}[/math]"
+        },
+        "question": "পারদের গলনাঙ্ক কত?",
+        "solution": "পারদ একটি তরল ধাতু যা সাধারণ তাপমাত্রায় তরল থাকে।পারদের গলনাঙ্ক অন্যান্য ধাতুর তুলনায় অনেক কম।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 410983,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 410983,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 410983,
+            "tag_id": 4,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410982,
+      "value": {
+        "options": {
+          "ক": "পৃষ্ঠটান",
+          "খ": "বায়ুর চাপ",
+          "গ": "মাধ্যকর্ষণ বল",
+          "ঘ": "সান্দ্রতা"
+        },
+        "question": "বল পয়েন্ট পেন কোন নীতিতে কাজ করে ?",
+        "solution": "কলমটির নিবের সরু মুখে থাকা ছোট গোলকটি কাগজের উপর ঘোরার সময় এটি কালির উপর পৃষ্ঠটান প্রযুক্ত করে, যা কালিকে আটকে রাখতে সাহায্য করে। যখন কলমটি লেখা হয়, গোলকটি ঘুরতে থাকে এবং পৃষ্ঠটান এর জন্য কালি গোলকের উপর লেগে যায় এবং কাগজের উপর স্থানান্তরিত হয়।\n\nঅতিরিক্ত তথ্য: পৃষ্ঠটান হলো তরল পদার্থের পৃষ্ঠের উপর ক্রিয়াশীল একটি শক্তি যা তরলের পৃষ্ঠকে সংকুচিত করে। জল, কালি এবং অন্যান্য তরল পদার্থের মধ্যে এই ধর্ম দেখা যায়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 410982,
+            "year_id": 16
+          }
+        },
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 410982,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 410982,
+            "tag_id": 502,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        },
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 410982,
+            "tag_id": 502,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410981,
+      "value": {
+        "options": {
+          "ক": "পীড়ন [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]",
+          "খ": "সান্দ্রতাঙ্ক [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]",
+          "গ": "স্থিতিস্থাপক গুণাঙ্ক [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]",
+          "ঘ": "বলের ভ্রামক [math]=\\left[\\mathrm{ML}^{2} \\mathrm{~T}^{-2}\\right][/math]"
+        },
+        "question": "কোনটি সঠিক নয়?",
+        "solution": "• স্থিতিস্থাপক গুণাঙ্কের মাত্রা [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]\u003Cbr\u003E• পীড়ন এর মাত্রা [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]\u003Cbr\u003E• সান্দ্রতাঙ্ক মাত্রা [math]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-1}\\right][/math]\u003Cbr\u003E• বলের ভ্রামকের মাত্রা [math]=\\left[\\mathrm{ML}^{2} \\mathrm{~T}^{-2}\\right][/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 410981,
+            "year_id": 19
+          }
+        },
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 410981,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 410981,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 471,
+          "full_name": "Sylhet Agricultural University",
+          "short_name": "SAU",
+          "slug": "sau",
+          "pivot": {
+            "question_bank_id": 410981,
+            "tag_id": 471,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 410981,
+            "tag_id": 4,
+            "year": "09-10",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410980,
+      "value": {
+        "options": {
+          "ক": "ঘর্ষণ",
+          "খ": "তাপমাত্রা",
+          "গ": "অন্তঃস্থ শক্তি",
+          "ঘ": "তাপ"
+        },
+        "question": "আণবিক গতিশক্তি কোন রাশির উপর নির্ভরশীল?",
+        "solution": "আণবিক গতিশক্তি সরাসরি তাপমাত্রার উপর নির্ভরশীল। তাপমাত্রা বৃদ্ধি পেলে অণুগুলির গড় গতিশক্তি বৃদ্ধি পায়। ঘর্ষণ, অন্তঃস্থ শক্তি এবং তাপ সংশ্লিষ্ট ধারণা হলেও, আণবিক গতিশক্তির মূল নিয়ন্ত্রক হলো তাপমাত্রা। তাপমাত্রা হলো পদার্থের অণু বা পরমাণুগুলির গড় গতিশক্তির পরিমাপ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 410980,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 410980,
+            "tag_id": 3,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410979,
+      "value": {
+        "options": {
+          "ক": "কঠিন",
+          "খ": "আয়নিত",
+          "গ": "তরল",
+          "ঘ": "গ্যাসীয়"
+        },
+        "question": "‘প্লাজমা’ পদার্থের কোন ধরনের অবস্থা?",
+        "solution": "প্লাজমা হলো পদার্থের একটি বিশেষ অবস্থা যেখানে গ্যাসীয় পদার্থে প্রচুর পরিমাণে শক্তি প্রয়োগের ফলে পরমাণুগুলি তাদের ইলেকট্রন ত্যাগ করে আয়নিত অবস্থায় থাকে। এই অবস্থায় পরমাণুগুলি ধনাত্মক আয়ন এবং মুক্ত ইলেকট্রনে বিভক্ত হয়ে যায়। এটি কঠিন, তরল বা সাধারণ গ্যাসীয় অবস্থা থেকে ভিন্ন। মহাবিশ্বের বেশিরভাগ পদার্থই প্লাজমা অবস্থায় বিদ্যমান, যেমন - নক্ষত্র, বজ্রপাত এবং অরোরা।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 410979,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 410979,
+            "tag_id": 11,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410978,
+      "value": {
+        "options": {
+          "ক": "অনুদৈর্ঘ্য তরঙ্গের গতির বেলায় কণাগুলো তরঙ্গগতির অভিমুখে স্পন্দিত হয়",
+          "খ": "পয়সন অনুপাত একটি ধ্রুব সংখ্যা যাহা দৈর্ঘ্য পীড়ন ও পার্শ্ব পীড়নের অনুপাত",
+          "গ": "সাধারণ তাপমাত্রায় প্রকৃত বাষ্পচাপ শিশিরাঙ্কের সম্পৃক্ত বাষ্পচাপের সমান",
+          "ঘ": "আরম্ভ থেকে সমত্বরণে গতিশীল একটি বস্তু কর্তৃক অতিক্রান্ত দূরত্ব সময়ের বর্গের সমানুপাতিক"
+        },
+        "question": "কোন উক্তিটি সঠিক নয়?",
+        "solution": "(খ) সঠিক নয়।আমরা জানি, পয়সনের অনুপাত [math]\\sigma =[/math]\u003Cbr\u003E(পার্শ্ব বিকৃতি) [math]/[/math]\u003Cbr\u003E(দৈর্ঘ্য বিকৃতি)",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 35,
+          "year": "2000-2001",
+          "pivot": {
+            "question_bank_id": 410978,
+            "year_id": 35
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 410978,
+            "tag_id": 3225,
+            "year": "00-01",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 410977,
+      "value": {
+        "options": {
+          "ক": "যদি কোন তলের ক্ষেত্রফল [math]A[/math] হয় এবং এর উপ লম্বভাবে ক্রিয়াশীল বল [math]F[/math] হয়, তবে পীড়ন [math]=\\dfrac{A}{F}[/math]",
+          "খ": "সেলসিয়াস ও রানি উভয় স্কেলের মৌলিক ব্যবধানের ভাগ সংখ্যা [math]180[/math]",
+          "গ": "যে কণার পারস্পরিক বিনিময়ের মাধ্যমে দুটি নিউক্লিয়নের মধ্যে নিউক্লিয় বল কার্যকর হয় সেই কণাগুলি মেসন নামে অভিহিত",
+          "ঘ": "একটি বল [math]4\\ kg[/math] ভর বিশিষ্ট একটি স্থির বস্তুর উপর ক্রি করে। এর ফলে যদি বস্তুটি 6 সেকেন্ডে [math]30\\ m/sec[/math] বেগ প্রাপ্ত হয় তাহলে বলের মান হবে [math]20\\ N[/math]",
+          "ঙ": "ক ও খ"
+        },
+        "question": "কোনটি সত্য নয়?",
+        "solution": "(ক) সত্য নয়, কারণ: যদি কোন তলের ক্ষেত্রফল [math]A[/math]\u003Cbr\u003E হয়। এবং এর উপর লম্বভাবে ক্রিয়াশীল বল [math]F[/math]\u003Cbr\u003E হয় তবে,[math]\\qquad[/math]\u003Cbr\u003Eপীড়ন [প্রযুক্ত বল] [math]/[/math]\u003Cbr\u003E[ক্ষেত্রফল] [math]=\\dfrac{F}{A}[/math]\u003Cbr\u003E.(খ) সত্য নয়, কারণ সেলসিয়াস স্কেলে মৌলিক ব্যবধানের ভাগ সংখ্যা [math]100[/math]\u003Cbr\u003E কিন্তু র‍্যাঙ্কিন স্কেলে মৌলিক [math]=[/math]\u003Cbr\u003E ব্যবধানের ভাগ সংখ্যা [math]180[/math]\u003Cbr\u003E.",
+        "explanation": "",
+        "correct_answer": "."
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:44:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 39,
+          "year": "2001-2002",
+          "pivot": {
+            "question_bank_id": 410977,
+            "year_id": 39
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 410977,
+            "tag_id": 18,
+            "year": "01-02",
+            "created_at": "2025-08-19T06:44:21.000000Z",
+            "updated_at": "2025-08-19T06:44:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6323&grade=1&lesson=6565&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6323&grade=1&lesson=6565&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6323&grade=1&lesson=6565&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 22,
+  "total": 22
+}

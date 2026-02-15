@@ -1,0 +1,2839 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 408272,
+      "value": {
+        "options": {
+          "গ": "১ম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ নির্ণয় কর।"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা 20 m ও ব্যাস 2 m। কুয়াটিকে পানিশূন্য করার জন্য 5 HP এর একটি পাম্প লাগানো হলো। অর্ধেক পানি তোলার পর পাম্পটি নষ্ট হয়ে গেল। বাকি পানি তোলার জন্য একই ক্ষমতার আরেকটি পাম্প লাগানো হল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, ১ম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ [math]\\mathrm{W}_{1}[/math]\u003Cbr\u003Eউদ্দীপক হতে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eকুয়ার গভীরতা, [math]\\mathrm{h}=20 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eঅর্ধেক গভীরতা, [math]\\mathrm{h}_{1}=\\dfrac{20 \\mathrm{~m}}{2}=10 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eব্যাস, [math]\\rm{d=2 ~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eগড় সরণ, [math]\\rm{h^{\\prime}=\\dfrac{10 m+0 m}{2}}=5 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\rm{g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}[/math]\u003Cbr\u003Eকুয়ার আয়তন,[math]\\hspace{1.6 cm}\\mathrm{V}=\\dfrac{1}{4} \\pi \\mathrm{d}^{2} \\mathrm{~h}=\\dfrac{1}{4} \\times 3.1416 \\times(2 \\mathrm{~m})^{2} \\times 20 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.6 cm}\\therefore \\rm{~V}=62.832 \\mathrm{~m}^{3}[/math]\u003Cbr\u003Eপানির ঘনত্ব,[math]\\hspace{1.6 cm}\\rho=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পানির ভর,[math]\\hspace{1.6 cm}\\begin{aligned} \\mathrm{m} & =\\rho \\mathrm{V} \\\\ & =1000 \\mathrm{~kg} \\mathrm{~m}^{-3} \\times 62.832 \\mathrm{~m}^{3}=62832 \\mathrm{~kg} \\end{aligned}[/math]\u003Cbr\u003Eঅর্ধেক পানির ভর,[math]\\hspace{1.6 cm}\\mathrm{m}^{\\prime}=\\dfrac{1}{2} \\mathrm{~m}=\\dfrac{1}{2} \\times 62832 \\mathrm{~kg}=31416 \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E কৃতকাজ,[math]\\hspace{1.6 cm}\\begin{aligned} \\mathrm{W}_{1} & =\\mathrm{m}^{\\prime} \\mathrm{gh}^{\\prime} \\\\ & =31416 \\times 9.8 \\mathrm{~m} \\mathrm{~s}^{-2} \\times 5 \\mathrm{~m}=1.54 \\times 10^{6} \\mathrm{~J} \\end{aligned}[/math]\u003Cbr\u003Eসুতরাং প্রথম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ [math]1.54 \\times 10^{6} \\mathrm{~J}[/math]\u003Cbr\u003E। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কুয়ার ক্ষেত্রফল [math]A=πr^2=π(1)^2=π\\ \\mathrm{m^2}[/math] এবং অর্ধেক পানির ভলিউম [math]V=\\tfrac{H}{2}A=10π\\ \\mathrm{m^3}[/math] হওয়ায় তার ভর [math]m=ρV=1000×10π=10000π\\ \\mathrm{kg}[/math]। ওই উপরের অর্ধেক কলামের গড় গভীরতা (টানার দূরত্ব) [math]\\tfrac{H}{4}=5\\ \\mathrm{m}[/math], তাই কাজ [math]W=mg×5=10000π×9.8×5=490000π\\ \\mathrm{J}\\approx1.54×10^6\\ \\mathrm{J}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 408272,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 408272,
+            "tag_id": 3179,
+            "year": "2020",
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408254,
+      "value": {
+        "options": [],
+        "question": "70 kg ভরের এক ব্যক্তি 20 kg ভরের এক বোঝা নিয়ে 6m দীর্ঘ একটি সিঁড়ি বেয়ে উপরে উঠলো। সিঁড়িটি আনুভূমিক তলের সাথে 30° কোণ করে থাকলে ঐ ব্যক্তি কত কাজ করলো নির্ণয় কর।",
+        "solution": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview20-202022-12-09t022305159_1755585220_3IOw1j8Z.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, [math]\\mathrm{m}=90 \\mathrm{~kg}, \\mathrm{~s}=6 \\mathrm{~m}, 0=30^{\\circ}, \\mathrm{w}=?[/math]\u003Cbr\u003Eআমরা জানি, [math]w=mgh[/math]\u003Cbr\u003E [math]=90 \\times 9.8 \\times 6 \\sin 30^{\\circ}[/math]\u003Cbr\u003E [math]=2646 \\text { Joule. (Ans) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সিঁড়ি বেয়ে ওঠায় কাজটি ওজনের বিরুদ্ধে সম্ভাব্য শক্তি বাড়ানোর সমান, এখানে উল্লম্ব উচ্চতা [math]h=6\\sin30^\\circ=3\\text{ m}[/math] এবং মোট ভর [math]m=70+20=90\\text{ kg}[/math]. তাই কাজ [math]W=mgh=90\\times9.8\\times3=2646\\text{ J}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 33,
+          "year": "2004-2005",
+          "pivot": {
+            "question_bank_id": 408254,
+            "year_id": 33
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 408254,
+            "tag_id": 109,
+            "year": "04-05",
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408255,
+      "value": {
+        "options": [],
+        "question": "একটি ইটের উচ্চতা 7.5 cm এবং ভর 2.5 kg । 10টি ইটকে পরপর সাজিয়ে একটি স্তম্ভ তৈরি কর তে কত শক্তি ব্যয় হবে?",
+        "solution": "( Answer : 82.69 J)[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,ইটের ভর, m = 2.5 kgঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eইটের সংখ্যা, n = 10মোট কাজ, w = ?ভূমিতে থাকা অবস্থায় প্রতিটি ইটের ভারকেন্দ্রের অবস্থান[math]\\begin{array}{l}=\\frac{7.5}{2} \\mathrm{~cm} \\\\=3.75 \\mathrm{~cm} \\\\=0.0375 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E 10 টি ইটের মোট উচ্চতা ,[math]\\begin{array}{l}=(10 \\times 7.5) \\mathrm{cm} \\\\=75 \\mathrm{~cm} \\\\=0.75 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003E0.75 m উচ্চতায় ভারকেন্দ্রের অবস্থান,[math]\\begin{array}{l}=\\frac{0.75}{2} \\mathrm{~m} \\\\=0.375 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ভারকেন্দ্রের সরণ [math]\\mathrm{h}=(0.375-0.0375) \\mathrm{m}=0.3375 \\mathrm{~m}[/math]\u003Cbr\u003Eআমরা জানি, [math]\\mathrm{W}=\\mathrm{mgh}=2.5 \\times 9.8 \\times 0.3375=8.26875 \\mathrm{~J}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E 10 টি ইটের জন্য কৃতকাজ ,[math]\\begin{array}{l}=(10 \\times 8.26875) \\mathrm{J} \\\\=82.69 \\mathrm{~J} \\text { (Ans. })\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিটি ইটকে তার চূড়ান্ত অবস্থানে তুলতে তার উচ্চতা অনুযায়ী বাড়তি উচ্চতায় তোলা লাগে, তাই উত্থানগুলোর সমষ্টি হচ্ছে [math]0+1+2+\\dots+9=45[/math] গুণিতক। কাজকে লেখলে [math]W=mg\\,h\\sum_{k=0}^{9}k=mg\\,h\\times45[/math], যেখানে [math]m=2.5\\ \\text{kg},\\ h=7.5\\ \\text{cm}=0.075\\ \\text{m},\\ g=9.8\\ \\text{m/s}^2[/math]. তাই [math]W=2.5\\times9.8\\times0.075\\times45\\approx82.7\\ \\text{J}\\ (\\approx83\\ \\text{J})[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 408255,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408256,
+      "value": {
+        "options": {
+          "ঘ": "এইরূপ 10 খানা বই একের উপর এক সাজিয়ে 40cm উঁচু স্তম্ভ তৈরি করতে মোট কত কাজ কর তে হবে গাণিতিক হিসেবের মাধ্যমে নির্ণয় করো।"
+        },
+        "question": "ভূমি থেকে 4cm উঁচু একখানা বইকে 40cm উচ্চতায় ওঠানো হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক অনুসারেএকটি বইয়ের উচ্চতা [math]=4 \\mathrm{~cm}=0.04 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E 10 টি বইয়ের উচ্চতা [math]=10 \\times 0.04 \\mathrm{~m}=0.4 \\mathrm{~m}[/math]\u003Cbr\u003E১ম বই উঠাতে কোনো দূরত্ব অতিক্রম করতে হয় না বলে, [math]h_{1}=0[/math]\u003Cbr\u003E১০ম বই উঠাতে কার্যকর উচ্চতা,[math]\\begin{aligned}\\mathrm{h}_{10} & =(0.4-0.04) \\mathrm{m} \\\\& =0.36 \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E গড় উচ্চতা, [math]\\mathrm{h}=\\frac{0+0.36}{2}=0.18 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E 1 টি বই সাজাতে কৃতকাজ,[math]\\begin{array}{l}=\\mathrm{mgh} \\\\=\\mathrm{m} \\times 9.8 \\times 0.18 \\\\=1.764 \\mathrm{~m} \\mathrm{~J}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E 10 টি বই সাজাতে কৃতকাজ,[math]\\begin{array}{l}=10 \\times 1.764 \\mathrm{~m} \\mathrm{~J} \\\\=17.64 \\mathrm{~m} \\mathrm{~J}\\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ, 10 টি বই সাজিয়ে উচু স্তম্ভ তৈরি করতে 17.64 m J কাজ করতে হবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রতিটি বইয়ের ওঠানো উচ্চতা হলো [math](j-1)\\times4\\text{ cm}[/math] (j = 1 থেকে 10), সুতরাং মোট উত্থিত দৈর্ঘ্য = [math]4(0+1+2+\\dots+9)=4\\times45=180\\text{ cm}=1.8\\text{ m}[/math]. তাই প্রতিটি বইয়ের ওজন [math]mg[/math] হলে মোট কাজ = [math]mg\\times1.8\\text{ m}[/math] (কেবল দূরত্ব হিসেবে হলে ফল [math]180\\text{ cm}[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 408256,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408257,
+      "value": {
+        "options": {
+          "ঘ": "মিতা বই তুলে নামানো পর্যন্ত অভিকর্ষ বলের জন্য মোট কত কাজ করলো গাণিতিক বিশ্লেষণের সাহায্যে নির্ণয় কর।"
+        },
+        "question": "মিতা 0.20 kg ভরের একখানা বইকে ঘরের মেঝে থেকে 1 m উঁচুতে তুলে হাত দিয়ে ধরে সমদ্রুতিতে ঘরের এক প্রান্ত থেকে 3 m দূরে অপর প্রান্তে নিয়ে গিয়ে ধীরে ধীরে মেঝেতে নামিয়ে দিলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eমনে করি, মিতার মোট কাজের পরিমাণ w। সমগতিতে বইটিকে ভূমি থেকে উঠাতে মিতাকে অভিকর্ষ বলের বিপরীতদিকে কাজ করতে হবে, কারণ অভিকর্ষ বল F এর দিক নিম্নমুখী অর্থাৎ পৃথিবীর কেন্দ্রের দিকে এবং বইটির সরণ s ঊর্ধ্বমুখী।ফলে [math]\\overrightarrow{\\mathrm{F}}[/math]\u003Cbr\u003E ও [math]\\overrightarrow{\\mathrm{S}}[/math]\u003Cbr\u003E এর মধ্যবর্তী কোণ হবে [math]\\theta=180^{\\circ}[/math]\u003Cbr\u003E।প্রদত্ত উপাত্ত অনুযায়ী, বইয়ের ভর, m = 0.20 kgবইয়ের সরণ, s = 1 mঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eসুতরাং অভিকর্ষ বলের দরুন কৃতকাজ,[math]\\begin{aligned}\\mathrm{W}_{1} & =\\mathrm{Fs} \\cos \\theta \\\\& =\\mathrm{mg} \\operatorname{s} \\cos 180^{\\circ} \\\\& =0.20 \\mathrm{~kg} \\times 9.8 \\mathrm{~ms}^{-2} \\times 1 \\mathrm{~m} \\times(-1)=-1.96 \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E বইটিকে উঠাতে অভিকর্ষ বলের দরুন কৃতকাজ [math]\\mathrm{W}_{1}=-1.96 \\mathrm{~J}[/math]\u003Cbr\u003E।আবার বইটিকে 1 m উঁচু থেকে নামাতে মিতাকে অভিকর্ষ বলের দিকে কাজ করতে হবে, কারণ অভিকর্ষ বলের দিক নিম্নমুখী এবং বইটির সরণের দিকও নিম্নমুখী।ফলে [math]\\overrightarrow{\\mathrm{F}}[/math]\u003Cbr\u003E ও [math]\\overrightarrow{\\mathrm{S}}[/math]\u003Cbr\u003E এর মধ্যবর্তী কোণ হবে, [math]\\theta=0^{\\circ}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E অভিকর্ষ বলের দরুন কৃতকাজ,[math]\\begin{aligned}\\mathrm{W}_{2} & =\\mathrm{Fs} \\cos \\theta=\\mathrm{mg} \\mathrm{s} \\cos 0^{\\circ} \\\\& =0.20 \\mathrm{~kg} \\times 9.8 \\mathrm{~ms}^{-2} \\times 1 \\mathrm{~m} \\times 1=1.96 \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E বইটিকে নামাতে অভিকর্ষ বলের দরুন কৃতকাজ, [math]\\mathrm{W}_{2}=1.96 \\mathrm{~J}[/math]\u003Cbr\u003Eসুতরাং, বই তুলে নামানো পর্যন্ত অভিকর্ষ বলের দরুন মোট কাজ,[math]\\mathrm{W}=\\mathrm{W}_{1}+\\mathrm{W}_{2}=-1.96 \\mathrm{~J}+1.96 \\mathrm{~J}=0[/math]\u003Cbr\u003Eসুতরাং, মিতা বই তুলে নামানো পর্যন্ত অভিকর্ষ বলের জন্য মোট কাজের পরিমাণ হবে শূন্য। এর কারণ হলো, অভিকর্ষ ক্ষেত্র একটি সংরক্ষণশীল ক্ষেত্র।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E উত্তরে মহাকর্ষীয় শক্তি বই তুললে নেগেটিভ কাজ করে [math]W_{উত্থান}=-mgh=-0.20\\times9.8\\times1=-1.96\\ \\text{J}[/math], সমদ্বিধামাত্রায় আনুভূমিক সরানোর সময় কাজ শূন্য, আর ধীরেই নামালে মহাকর্ষীয় শক্তি একই পরিমাণ ধনাত্মক কাজ করে [math]W_{অবতরণ}=+1.96\\ \\text{J}[/math]; সুতরাং মোট কাজ [math]W_{মোট}=-1.96+0+1.96=0\\ \\text{J}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 408257,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408258,
+      "value": {
+        "options": {
+          "গ": "কৃত্রিম উপগ্রহকে উদ্দীপকে উল্লিখিত উচ্চতায় প্রেরণ করতে অভিকর্ষ বলের বিরুদ্ধে কত কাজ ক রতে হয়েছে?"
+        },
+        "question": "ভূ-পৃষ্ঠ থেকে [math]3.6 \\times 10^{4} \\mathrm{~km}[/math] উচ্চতায় থেকে একটি কৃত্রিম উপগ্রহ [math]3 \\mathrm{\\ kms}^{-1}[/math] বেগে পৃথিবীকে আবর্তন করছে। পৃথিবীর ভর ও ব্যাসার্ধ যথাক্রমে [math]6 \\times 10^{24} \\mathrm{~kg}[/math] এবং [math]6400 \\mathrm{~km}[/math] । উপগ্রহটির ভর 1000 kg । [math]\\mathrm{G}=6.67 \\times 10^{-11} \\mathrm{~N} \\mathrm{~m}^{2} \\mathrm{~kg}^{-2}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E [math]3.53 \\times 10^{11} \\mathrm{~J}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কৃত্রিম উপগ্রহকে উচ্চতায় নিয়ে যেতে গ্রাভিটেশনাল পটেনশিয়াল এনার্জি বাড়ে এবং কাজটির মান হলো ঐ পার্থক্য, তাই\n[math]W=\\Delta U=GMm\\left(\\frac{1}{R}-\\frac{1}{R+h}\\right)[/math].\nসংখ্যাসূত্রে [math]GMm=6.67\\times10^{-11}\\times6\\times10^{24}\\times1000=4.002\\times10^{17}[/math] ও [math]\\frac{1}{R}-\\frac{1}{R+h}\\approx1.3267\\times10^{-7}[/math], ফলে [math]W\\approx5.31\\times10^{10}\\ \\mathrm{J}[/math]; তাই এই পটেনশিয়াল পরিবর্তনই কাজের মান নির্ধারণ করে (অন্য শক্তি লাভ/হার বাদ দিলে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 408258,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408259,
+      "value": {
+        "options": {
+          "গ": "m ভরের বস্তুকে h উচ্চতায় ওঠালে অভিকর্ষ বলের বিরুদ্ধে কত কাজ করতে হয় হিসাব কর।"
+        },
+        "question": "20 m উঁচু দালানের ছাদ থেকে m ভরের একটি টেনিস বল গড়িয়ে মাটিতে পড়ে। বলটি যখন ভূমি স্পর্শ করে, তখন এর বেগ [math]22 \\mathrm{~ms}^{-1}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, M = পৃথিবীর ভর, R = পৃথিবীর ব্যাসার্ধ, m = বস্তুটির ভর, r = বস্তুর ও পৃথিবীর কেন্দ্রের মধ্যবর্তী দূরত্ব।তাহলে বস্তুর ওপর পৃথিবীর অভিকর্ষ বল, [math]\\mathrm{F}_{\\mathrm{G}}=-\\frac{\\mathrm{GMm}}{\\mathrm{r}^{2}}[/math]\u003Cbr\u003Eএখানে ঋণাত্মক চিহ্ন আকর্ষণ বল নির্দেশ করছে। পৃথিবী এই বলে বস্তুটিকে কেন্দ্রের দিকে আকর্ষণ করে। বস্তুটিকে ভূপৃষ্ঠ থেকে h উচ্চতায় উঠালে বস্তুটি r = R থেকে r = R + h অবস্থানে যায়। তখন বস্তুটির ওপর পৃথিবী [math]\\mathrm{F}_{\\mathrm{G}}=-\\frac{\\mathrm{GMm}}{\\mathrm{r}^{2}}[/math]\u003Cbr\u003E বল প্রয়োগ করে। এ বলের বিপরীতে বস্তুটিকে h উচ্চতায় উঠাতে অর্থাৎ বস্তুটির h সরণ ঘটানোর জন্য অভিকর্ষ বলের সমান ও বিপরীত [math]\\mathrm{F}=-\\mathrm{F}_{\\mathrm{G}}=\\frac{\\mathrm{GMm}}{\\mathrm{r}^{2}}[/math]\u003Cbr\u003E বল প্রয়োগ করতে হয়। এই বলের জন্য কৃতকাজ,[math]\\begin{aligned}\\mathrm{W} & =\\int_{\\mathrm{r}=\\mathrm{R}}^{\\mathrm{r}}=\\mathrm{Rdr}=\\int_{-\\mathrm{h}}^{\\mathrm{R}+\\mathrm{h}} \\frac{\\mathrm{GM}}{\\mathrm{r}^{2}} \\mathrm{dr}=\\mathrm{GMm} \\int_{\\frac{\\mathrm{dr}}{\\mathrm{r}^{2}}}^{\\mathrm{R}+\\mathrm{h}} \\\\& =\\mathrm{GMm}\\left[-\\frac{1}{\\mathrm{r}}\\right]_{\\mathrm{R}}^{\\mathrm{R}+\\mathrm{h}}=\\mathrm{GMm}\\left(-\\frac{1}{\\mathrm{R}+\\mathrm{h}}+\\frac{1}{\\mathrm{R}}\\right) \\\\& =\\mathrm{GMm}\\left(\\frac{1}{\\mathrm{R}}-\\frac{1}{\\mathrm{R}+\\mathrm{h}}\\right)\\end{aligned}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{W}=\\mathrm{GMm} \\cdot \\frac{\\mathrm{R}+\\mathrm{h}-\\mathrm{R}}{\\mathrm{R}(\\mathrm{R}+\\mathrm{h})}=\\frac{\\mathrm{GMmh}}{\\mathrm{R}(\\mathrm{R}+\\mathrm{h})} \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কাজ = [math]mgh[/math]। কারণ অভিকর্ষ বলের বিপরীতে করা কাজ হল বলটির গ্রাভিটেশনাল পটেনশিয়াল এনার্জির বৃদ্ধি, এবং এটি শক্তি পরিবর্তন হিসেবে [math]\\Delta U=mg\\Delta h[/math] বা সরাসরি [math]mg\\times h[/math] দিয়ে পাওয়া যায় (পথনিরপেক্ষ)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 408259,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408260,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে উল্লেখিত কুয়াটিকে পানি শূন্য করতে হলে কত কিলোগ্রাম পানিকে কুয়া থেকে বের করে নিতে হবে?"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা এবং ব্যাস যথাক্রমে 10m এবং 4m।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,কুয়ার গভীরতা, [math]\\mathrm{L}=10 \\mathrm{~m}[/math]\u003Cbr\u003Eব্যাস, D = 4 mপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003Eসম্পূর্ণ কুয়ার পানির আয়তন,[math]\\begin{aligned}\\mathrm{V} & =\\frac{1}{4} \\pi \\mathrm{D}^{2} \\mathrm{~L} \\\\& =\\frac{1}{4} \\pi \\times(4)^{2} \\times 10=40 \\pi \\mathrm{m}^{3}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E উত্তলিত পানির ভর,[math]m=\\rho V=1000 \\times 40 \\pi=125664 \\mathrm{~kg} \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কুয়া সিলিন্ডারের আকারের, তাই পানির পরিমান হচ্ছে আয়তন [math]V=πr^2h[/math] যেখানে [math]r=2\\ \\text{m},\\ h=10\\ \\text{m}[/math], সুতরাং [math]V=π(2)^2(10)=40π\\ \\text{m}^3[/math]। পানির ঘনত্ব ধরা হলে [math]ρ=1000\\ \\text{kg/m}^3[/math], ফলে মাস [math]m=ρV=1000×40π=40000π\\ \\text{kg}≈1.2566×10^5\\ \\text{kg}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 408260,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408261,
+      "value": {
+        "options": {
+          "গ": "ছাদে ওঠার জন্য তিনি অভিকর্ষ বলের বিরুদ্ধে কত কাজ করলেন?"
+        },
+        "question": "একটি দালানের ছাদের সাথে লাগানো 5 m লম্বা একটি মই অনুভূমিকের সাথে 30° কোণ করে আছে। 60 kg ভরের এক ব্যক্তি 20 kg ভরের বোঝা নিয়ে ছাদে ওঠেন।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E [math]1960 \\mathrm{~J}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: গুরুত্বীয় শক্তির বিরুদ্ধে করা কাজ = ওজন × উল্লম্ব সূত্রলম্ব (উচ্চতা), এখানে উচ্চতা [math]h=5\\sin30^\\circ=2.5\\ \\text{m}[/math] এবং মোট ভর [math]m=60+20=80\\ \\text{kg}[/math]। তাই কাজ [math]W= mgh = 80\\times9.8\\times2.5 = 1960\\ \\text{J}[/math], অর্থাৎ তিনি 1960 জুল কাজ করেছেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 408261,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408262,
+      "value": {
+        "options": [],
+        "question": "একটি পাম্প দ্বারা 600 লিটার জ্বালানি তেলকে 20 m ওপরে অবস্থিত একটি ট্যাঙ্কে ওঠাতে অভিকর্ষের বিরুদ্ধে কত কাজ করতে হবে? এক ঘন সে.মি. জ্বালানি তেলের ভর 0.82g। এক লিটার = [math]1000 \\mathrm{cm}^{3}[/math]",
+        "solution": "( Answer : [math]9.64 \\times 10^{4} \\mathrm{~J}[/math])",
+        "explanation": "ব্যাখ্যা: প্রথমে এক লিটার তেলের ভর [math]0.82\\ \\mathrm{g/cm^3}\\times1000\\ \\mathrm{cm^3}=820\\ \\mathrm{g}=0.82\\ \\mathrm{kg}[/math], তাই মোট ভর [math]m=600\\times0.82=492\\ \\mathrm{kg}[/math]. কাজ = ভর × Gregorian × উচ্চতা, তাই [math]W=mgh=492\\times9.8\\times20=96432\\ \\mathrm{J}\\approx9.64\\times10^4\\ \\mathrm{J}[/math], অর্থাৎ প্রায় [math]9.64\\times10^4\\ \\mathrm{J}[/math] কাজ করতে হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 408262,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408263,
+      "value": {
+        "options": [],
+        "question": "250 N জনের একজন বালক খাড়া মই বেয়ে শীর্ষে উঠতে 2000 J কাজ সম্পন্ন করে। ম‍ইটির দৈর্ঘ্য নির্ণয় করো।",
+        "solution": "( Answer : 8 m)[math]\\\\[/math]\u003Cbr\u003ESolution :দেওয়া আছে,সম্পন্ন কাজ, W = 2000 Jওজন, mg = 250 Nমইটির দৈর্ঘ্য, h = ?আমরা জানি,[math]\\begin{aligned}\\mathrm{W} & =\\mathrm{mgh} \\\\\\therefore \\mathrm{h} & =\\frac{\\mathrm{W}}{\\mathrm{mg}} \\\\& =\\frac{2000 \\mathrm{~J}}{250 \\mathrm{~N}}=8 \\mathrm{~m} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ওজন হল বল (গুরুত্বের কারণে নিচের দিকে খরচ করা বল), তাই কাজের সূত্র [math]W=F\\,h[/math] প্রযোজ্য। ফলে [math]h=\\dfrac{W}{F}=\\dfrac{2000}{250}=8\\ \\text{m}[/math], অর্থাৎ মইটির দৈর্ঘ্য 8 মিটার।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 408263,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408264,
+      "value": {
+        "options": [],
+        "question": "একটি পাম্প দ্বারা 600 লিটার জ্বালানী তেলকে 20m উপরে অবস্থিত একটি ট্যাঙ্কে উঠাতে অভিকর্ষের বিরুদ্ধে কত কাজ করতে হবে? এক ঘন সেঃ মিঃ জ্বালানী তেলের ভর 0.82g। এক লিটার = [math]1000 \\mathrm{~cm}^{3}[/math]",
+        "solution": "( Answer : [math]9.64 \\times 10^{4} \\mathrm{~J}[/math] )",
+        "explanation": "ব্যাখ্যা: অভিকর্ষের বিরুদ্ধে কাজ = [math]W=mgh[/math] হওয়ায় প্রথমে ভর বের করি; [math]600\\ \\text{L}=600\\times1000\\ \\text{cm}^3=6\\times10^5\\ \\text{cm}^3[/math] এবং [math]m=6\\times10^5\\times0.82\\ \\text{g}=4.92\\times10^5\\ \\text{g}=492\\ \\text{kg}[/math]. তাই কাজ হল [math]W=492\\times9.8\\times20\\approx9.64\\times10^4\\ \\text{J}[/math], অর্থাৎ প্রায় [math]9.64\\times10^4[/math] জুল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 408264,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408265,
+      "value": {
+        "options": [],
+        "question": "ভূমি থেকে 1km উচ্চতায় উত্থীত মেঘ বৃষ্টিপাত ঘটায়। বৃষ্টির পানি [math]1.0 \\times 10^{-2} \\mathr m{~m}[/math] পুরু হয়ে [math]1 \\mathrm{~km}^{2}[/math] জায়গা ভিজালে মেঘের উচ্চতায় এই পানি তুলতে কী পরিমাণ কাজ সম্পাদন করতে হয়েছিল?",
+        "solution": "( Answer : [math]9.8 \\times 10^{10} \\mathrm{~J}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,উচ্চতা,[math]\\begin{aligned}\\mathrm{h} & =1 \\mathrm{~km} \\\\& =10^{3} \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eপানির আয়তন,[math]\\begin{aligned}V & =10^{6} \\times 10^{-2} \\mathrm{~m}^{3} \\\\& =10^{4} \\mathrm{~m}^{3}\\end{aligned}[/math]\u003Cbr\u003Eঘনত্ব, [math]\\rho=1000 \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003Eকাজ, W = ?আমরা জানি,কাজ, W = mgh[math]\\begin{array}{l}=\\rho \\mathrm{V} \\cdot \\mathrm{gh} \\\\=10^{3} \\mathrm{kgm}^{-3} \\times 10^{4} \\mathrm{~m}^{3} \\times \\\\\\quad \\quad 10^{3} \\mathrm{~m} \\times 9.8 \\mathrm{~ms}^{-2} \\\\=9.8 \\times 10^{10} \\mathrm{~J} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে ভলিউম = পুরুত্ব × ক্ষেত্রফল = [math]1.0\\times10^{-2}\\,\\mathrm{m}\\times(1\\,\\mathrm{km}^2)=1.0\\times10^{-2}\\times10^6=1.0\\times10^4\\,\\mathrm{m}^3[/math], তাই ভর = [math]1000\\,\\mathrm{kg/m^3}\\times1.0\\times10^4\\,\\mathrm{m}^3=1.0\\times10^7\\,\\mathrm{kg}[/math]. কাজ = গ্র্যাভিটেশনাল সম্ভাব্য শক্তি = [math]mgh=1.0\\times10^7\\times9.8\\times1000=9.8\\times10^{10}\\,\\mathrm{J}[/math]. ব্যাখ্যা: মেঘ থেকে ভূমিতে উঠাতে যে কাজটি করা হয়েছে তা পানির ভরের বিরুদ্ধে উচ্চতা [math]h[/math] এ কাজ করা এবং সেটাই [math]mgh[/math] দিয়ে মেলা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 408265,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408266,
+      "value": {
+        "options": [],
+        "question": "10 টি ইট একটির উপর আরেকটি রেখে স্তম্ভ সাজাতে কত কাজ করতে হবে। (প্রতিটি ইটের উচ্চতা 5cm এবং ভর 1kg)",
+        "solution": "( Answer : 22.05J )",
+        "explanation": "প্রতিটি ইটের কেন্দ্র শুরুতে মাটির উপর [math]2.5\\ \\text{cm}[/math]-এ এবং স্তম্ভে n-তম ইটের কেন্দ্র থাকে [math]2.5+(n-1)\\times5\\ \\text{cm}[/math]-এ, সুতরাং n-তম ইটের উত্থান = [math](n-1)\\times5\\ \\text{cm}[/math]। মোট কাজ = [math]\\sum_{k=0}^{9} 1\\cdot g\\cdot (5k\\ \\text{cm})=1\\cdot g\\cdot(5\\ \\text{cm})\\cdot45= g\\cdot225\\ \\text{cm}= g\\cdot2.25\\ \\text{m}\u003C/math], ফলে গড় ত্বরণ [math]g=9.8\\ \\text{m/s}^2[/math] হলে কাজ = [math]2.25\\times9.8=22.05\\ \\text{J}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 408266,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408267,
+      "value": {
+        "options": [],
+        "question": "4টি ঘনকাকৃতি পাথর খণ্ডের প্রতিটির আয়তন [math]0.125 \\mathrm{~m}^{3}[/math] ও ভর 250kg। এদে র একটি অপরটির উপর রেখে একটি স্তম্ভ প্রস্তুত করতে কৃত কাজের পরিমাণ নির্ণয় কর।",
+        "solution": "( Answer : 7350J )[math]\\\\[/math]\u003Cbr\u003ESolution :প্রতিটি ঘনকের ভর, m = 250 kg'আয়তন, [math]\\mathrm{a}^{3}=0.125 \\mathrm{~m}^{3}[\\mathrm{a}=[/math]\u003Cbr\u003E ঘনকের একটি ধারের দৈর্ঘ্য ][math]\\therefore a=0.5 \\mathrm{~m}[/math]\u003Cbr\u003Eবর্ণিত স্তম্ভ তৈরি করতে ঘনকগুলোর ভারকেন্দ্রের সরণ যথাক্রমে,[math]0 \\mathrm{~m}, 1 \\times 0.5 \\mathrm{~m}, 2 \\times 0.5 \\mathrm{~m}, 3 \\times 0.5 \\mathrm{~m}[/math]\u003Cbr\u003E ।অভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~m} \\cdot \\mathrm{s}^{-2}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ঘনকগুলো একটি আরেকটির ওপর সাজিয়ে স্তম্ভ তৈরি করতে মোট কৃতকাজ,[math]\\mathrm{W}=\\mathrm{mg} \\Sigma \\mathrm{h}=250 \\mathrm{~kg} \\times 9.8 \\mathrm{~m} . \\mathrm{s}^{-2} \\times 3=7350 \\mathrm{~J} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতিটি ঘনকের পাশ [math]V=0.125\\ \\mathrm{m}^3\\Rightarrow a=0.5\\ \\mathrm{m}[/math] হওয়ায় কেন্দ্রের প্রাথমিক উচ্চতা [math]0.25\\ \\mathrm{m}[/math] এবং স্তম্ভে কেন্দ্রগুলোর উচ্চতা হবে [math]0.25,\\ 0.75,\\ 1.25,\\ 1.75\\ \\mathrm{m}[/math]। তাই উচ্চতার বৃদ্ধির যোগফল [math]0+0.5+1.0+1.5=3.0\\ \\mathrm{m}[/math] এবং কাজ = মোট ভর × g × উচ্চতার বৃদ্ধি = [math]250\\times 9.8\\times 3=7350\\ \\mathrm{J}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 408267,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408268,
+      "value": {
+        "options": [],
+        "question": "একটি বেলনাকৃতি White Board Marker এর দৈর্ঘ্য 12cm এবং ব্যাস 1cm। Marker টিকে শায়ি ত অবস্থা হতে খাড়া অবস্থায় নিলে কৃতকাজ নির্ণয় কর। (ভর 250gm)।",
+        "solution": "( Answer : 0.13475 J )",
+        "explanation": "ব্যাখ্যা: কাজটি বস্তুর কেন্দ্রীয় ভরের উচ্চতা বৃদ্ধি করার বিরুদ্ধে করা হয়; শায়িত অবস্থায় কেন্দ্রীয় ভর = ব্যাস/2 = [math]0.5\\ \\text{cm}=0.005\\ \\text{m}[/math] এবং খাড়া অবস্থায় = অর্ধেক দৈর্ঘ্য = [math]6\\ \\text{cm}=0.06\\ \\text{m}[/math], তাই [math]\\Delta h=0.06-0.005=0.055\\ \\text{m}[/math]। কাজ = [math]W=mg\\Delta h=0.25\\times9.8\\times0.055\\approx0.135\\ \\text{J}[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 408268,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408269,
+      "value": {
+        "options": [],
+        "question": "একটি ইটের দৈর্ঘ্য 0.24m, প্রস্থ 0.12m, উচ্চতা 0.06m এবং ভর 2kg। ইটের দৈর্ঘ্যকে অনুভূমিক অ বস্থান হতে উল্লম্ব অবস্থানে রাখতে কী পরিমাণ কাজ করতে হবে?",
+        "solution": "( Answer : 1.764 J )",
+        "explanation": "ব্যাখ্যা: কাজটি ইটের গরুত্বীয় সম্ভাব্য শক্তির বৃদ্ধির সমান। প্রাথমিক কেন্দ্রীয় ভর অবস্থান [math]0.06/2=0.03\\ \\text{m}[/math], চূড়ান্ত অবস্থায় এটি হবে [math]0.24/2=0.12\\ \\text{m}[/math], সুতরাং উচ্চতা বৃদ্ধি [math]\\Delta h=0.12-0.03=0.09\\ \\text{m}[/math]. কাজ = [math]mg\\Delta h=2\\times 9.8\\times 0.09=1.764\\ \\text{J}\\ (\\approx 1.76\\ \\text{J}).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 408269,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408270,
+      "value": {
+        "options": {
+          "গ": "প্রথম পাম্পের কৃতকাজ নির্ণয় কর।"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা 10 m এবং ব্যাস 2m একটি পাম্প 20 মিনিটে কুয়াটিকে পানিশূন্য করতে পারে। কিন্তু কিছু সময় সাশ্রয়ের জন্য উক্ত পাম্পের সাথে 1 HP ক্ষমতাযুক্ত পাম্প লাগিয়ে কুয়াটিকে পানিশূন্য করে ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, m কুয়ার পানির ভর [math]=V \\rho[/math]\u003Cbr\u003E [math]V =[/math]\u003Cbr\u003E কুয়ার আয়তন [math]=\\pi r^{2} l[/math]\u003Cbr\u003E [math]l =[/math]\u003Cbr\u003E কুয়ার গভীরতা = 10 m[math]\\mathrm r =[/math]\u003Cbr\u003E কুয়ার ব্যাসার্ধ = কুয়ার ব্যাস / 2 [math]=\\frac{2}{2}=1 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\mathrm h =[/math]\u003Cbr\u003E পানি ওঠানোর গড় উচ্চতা [math]=\\frac{0+12}{2}=6 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\rho =[/math]\u003Cbr\u003E পানির ঘনত্ব [math]=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003E [math]W =[/math]\u003Cbr\u003E কৃতকাজ [math]= ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5cm}\\begin{aligned}\\mathrm{W} & =\\mathrm{F} \\times \\mathrm{h} \\\\& =\\mathrm{mgh} \\\\& =\\rho \\mathrm{Vgh} \\\\& =\\rho \\pi \\mathrm{r}^{2} \\mathrm{lgh} \\\\& =1000 \\times 3.1416 \\times 1^{2} \\times 10 \\times 9.8 \\times 6 \\\\& =1.847 \\times 10^{6} \\mathrm{J}\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: পাম্পের কৃতকাজ হলো পানি উত্থাপন করার জন্য করা কাজ, যা [math]W=ρVgh[/math] দ্বারা পাওয়া যায়। কুয়ার ভলিউম [math]V=πr^2h=π(1)^2(10)=10π\\ \\text{m}^3[/math], তাই [math]W=1000×10π×9.8×10=980000π\\ \\text{J}\\approx3.08×10^6\\ \\text{J}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 408270,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 2026,
+          "full_name": "Narail Govt. Victoria College",
+          "short_name": "NGVC",
+          "slug": "ngvc",
+          "pivot": {
+            "question_bank_id": 408270,
+            "tag_id": 2026,
+            "year": "2020",
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408271,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের ট্যাংক থেকে 10 kg পানি ভূপৃষ্ঠে কি পরিমাণ তুলতে কাজ করতে হবে?"
+        },
+        "question": "কামাল সাহেবের একটি ভূগর্ভস্থ পানির ট্যাংক এর দৈর্ঘ্য 12 m এবং ব্যাস 4 m। এটির এক তৃতীয়াংশ পানিপূর্ণ। সে 2 hp এর একটি পাম্প দ্বারা ট্যাংকটি 2 ঘণ্টায় পানিশূন্য করতে চায় ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,পানির গড় সরণ, [math]\\mathrm{h}=\\left(8+\\frac{4}{2}\\right) \\mathrm{m}=10 \\mathrm{~m}[/math]\u003Cbr\u003Eপানির ভর, m = 10 kgঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}[/math]\u003Cbr\u003Eকৃতকাজ, w = ?আমরা জানি, [math]\\mathrm{W}=\\mathrm{mgh}[/math]\u003Cbr\u003E [math]\\hspace{2.8cm}\\begin{array}{l}=10 \\mathrm{~kg} \\times 9.8 \\mathrm{~m} \\mathrm{~s}^{-2} \\times 10 \\mathrm{~m} \\\\=980 \\mathrm{~J}\\end{array}[/math]\u003Cbr\u003Eনির্ণেয় কাজ 980 J. [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পানির ভর [math]m=10\\ \\text{kg}[/math], জড়তা ত্বরণ [math]g\\approx9.8\\ \\text{m/s}^2[/math] এবং উত্থানের উচ্চতা ট্যাংকের ব্যাসার্ধ [math]h=2\\ \\text{m}[/math] (ব্যাস 4 m হলে)। তাই কাজ হবে [math]W=mg h=10\\times9.8\\times2=196\\ \\text{J}[/math] — এই কারণে উত্তর সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 408271,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 349,
+          "full_name": "Comilla Victoria Govt. College",
+          "short_name": "CVGC",
+          "slug": "cvgc",
+          "pivot": {
+            "question_bank_id": 408271,
+            "tag_id": 349,
+            "year": "2020",
+            "created_at": "2025-08-19T06:33:40.000000Z",
+            "updated_at": "2025-08-19T06:33:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408253,
+      "value": {
+        "options": [],
+        "question": "একটি মার্বেল পাথর খন্ডের উচ্চতা 4 ফুট এবং ভর 500 পাউন্ড। 22.500 ফুট পাউন্ড কাজ করতে ক তটি মার্বেল পাথর খন্ড একটির উপর একটি রেখে মোট কত ফুট উঁচু একটি স্তরে সাজাতে পারবে?",
+        "solution": "(Answer : [math]20 \\ ft[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview20-202022-12-09t021749718_1755585218_OlIxfaL6.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]1 \\mathrm{ft}-\\text { pound }=32 \\mathrm{ft}-\\text { poundal }[/math]\u003Cbr\u003E [math]\\therefore 22500 \\mathrm{ft}-\\text { pound }=22500 \\times 32=720000 \\mathrm{ft}-\\text { poundal }[/math]\u003Cbr\u003E [math]W=m g h \\times \\frac{n(n-1)}{2} \\Rightarrow 720000=500 \\times 32 \\times 4 \\times \\frac{n(n-1)}{2}[/math]\u003Cbr\u003E [math]\\Rightarrow n^{2}-n-22.5=0 \\therefore n=5.27 \\approx 5[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E স্তম্ভের উচ্চতা হবে [math]=5 \\times 4=20 \\mathrm{ft} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিটি পাথরকে একটির উপর রেখে স্তূপ করলে দ্বিতীয়টি [math]4\\ \\text{ft}[/math], তৃতীয়টি [math]8\\ \\text{ft}[/math] ইত্যাদি তুলে দিতে হয়, তাই মোট কাজ হবে [math]W=500\\times4\\times\\sum_{k=0}^{n-1}k=1000\\,n(n-1)[/math]. সমীকরণ দিলে [math]1000\\,n(n-1)=22500\\Rightarrow n(n-1)=22.5\\Rightarrow n\\approx5.27[/math], তাই সম্পূর্ণভাবে উঠানো যাবে মাত্র 5টি পাথর। ওই উচ্চতা হবে [math]5\\times4=20\\ \\text{ft}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 28,
+          "year": "2005-2006",
+          "pivot": {
+            "question_bank_id": 408253,
+            "year_id": 28
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 501,
+          "full_name": "Chittagong University of Engineering & Technology",
+          "short_name": "CUET",
+          "slug": "cuet",
+          "pivot": {
+            "question_bank_id": 408253,
+            "tag_id": 501,
+            "year": "05-06",
+            "created_at": "2025-08-19T06:33:38.000000Z",
+            "updated_at": "2025-08-19T06:33:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408252,
+      "value": {
+        "options": {
+          "গ": "2 kg ভরের একটি বস্তুকে ছেড়ে দিলে পানিশূন্য কুয়ার শীর্ষ হতে তলায় পৌঁছাতে কত সময় লাগবে?"
+        },
+        "question": "খালিদের বাড়িতে 12 m গভীর ও 1.8m ব্যাসবিশিষ্ট একটি পানিপূর্ণ কুয়া খালি করার জন্য একটি পাম্প চালু করা হলো। কিন্তু দেখা গেল, পানিশূন্য করতে পাম্পটির 21 মিনিট সময় লেগে গেল। খালিদ হিসাব কষে দেখল, যথাসময়ে কুয়াটি পানিশূন্য করতে 2 HP ক্ষমতার পাম্প দরকার।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, নির্ণেয় সময় [math]= \\rm{t}[/math]\u003Cbr\u003Eউদ্দীপক হতে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eকুয়ার গভীরতা, [math]\\rm{h}=12 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\rm{g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eবস্তুর আদিবেগ, [math]\\rm{u=0}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.6 cm}\\begin{array}{l}\\qquad\\mathrm{h}=\\rm{u t+\\dfrac{1}{2} g^{2}}\\\\ \\Rightarrow 12 \\mathrm{~m}=0 . \\mathrm{t}+\\dfrac{1}{2} \\times 9.8 \\mathrm{~m} \\mathrm{~s}^{-2} \\times \\mathrm{t}^{2}\\\\ \\Rightarrow 12 \\mathrm{~m}=4.9 \\mathrm{t}^{2} \\mathrm{~m} \\mathrm{~s}^{-2}\\\\ \\Rightarrow \\rm{t}^{2}=\\dfrac{12 \\mathrm{~m}}{4.9 \\mathrm{~m} \\mathrm{~s}^{-2}}\\\\ \\therefore \\quad \\mathrm{t}=1.565 \\mathrm{~s}\\end{array}[/math]\u003Cbr\u003Eঅতএব, [math]2 \\rm{~kg}[/math]\u003Cbr\u003E ভরের একটি বস্তুকে ছেড়ে দিলে পানি শূন্য কুয়ার শীর্ষ হতে তলায় পৌছাতে [math]1.565[/math]\u003Cbr\u003E\\rm{ ‍s}$ সময় লাগবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বস্তুর ভর পতনের সময়ে প্রভাব ফেলে না (বায়ুপ্রতিরোধ অগ্রাহ্য করা হলে); বিনা বাধায় সময় নির্ভর করে কেবল উচ্চতা ও মাধ্যাকর্ষণ ত্বরণের উপর। ব্যবহার করি [math]s=\\tfrac{1}{2}gt^2[/math], তাই [math]t=\\sqrt{\\tfrac{2s}{g}}=\\sqrt{\\tfrac{24}{9.8}}\\approx1.57\\ \\text{সেকেন্ড}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 408252,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408252,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 408252,
+            "tag_id": 5,
+            "year": "2016",
+            "created_at": "2025-08-19T06:33:37.000000Z",
+            "updated_at": "2025-08-19T06:33:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408251,
+      "value": {
+        "options": {
+          "ঘ": "স্তম্ভ তৈরির কোন উপায়টি অধিক গ্রহণযোগ্য? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।"
+        },
+        "question": "50 cm বাহুবিশিষ্ট কোনো ঘনকের ভর 25 kg। এরূপ পাঁচটি ঘনককে একটির উপর আরেকটি রেখে একটি স্তম্ভ তৈরি করা হলো। অন্যদিকে অনুরূপ আরও পাঁচটি ব্লককে ভূমিতে পাশাপাশি সংযুক্ত করে খাড়া করা স্তম্ভটিকে হলো।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview20-202022-12-12t023340983_1755585216_OsMGptwJ.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএকের উপর এক ঘনক স্থাপন করে স্তম্ভ তৈরি করে কৃতকাজ পাওয়া যায়,\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-1-5-cq-solve-4-r4_1755585217_9mu2vHeW.png\" alt=\"\"\u003E\u003Cbr/\u003E[math]\\hspace{1.6 cm}\\begin{aligned} \\mathrm{W}_{1} & =\\mathrm{mg}\\left(0+\\mathrm{h}_{1}+\\mathrm{h}_{2}+\\mathrm{h}_{3}+\\mathrm{h}_{4}\\right) \\\\ & =25 \\times 9.8(0+0.5+1+1.5+2) \\\\ & =25 \\times 9.8 \\times 5 \\\\ & =1225 \\mathrm{~J} \\end{aligned}[/math]\u003Cbr\u003Eদ্বিতীয় ক্ষেত্রে :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-1-5-cq-solve-4-r4201_1755585216_vtWskoFc.png\" alt=\"\"\u003E\u003Cbr/\u003Eভারকেন্দ্রের সরণ[math]\\hspace{1.6 cm}\\mathrm{AB}=\\mathrm{h}=\\frac{5 \\times .50}{2} \\mathrm{~m}-\\frac{.50}{2} \\mathrm{~m}=1 \\mathrm{~m}[/math]\u003Cbr\u003Eব্লকগুলো ভূমিতে পাশাপাশি সংযুক্ত করলে মোট ভর,[math]\\hspace{1.6 cm}\\mathrm{m}^{\\prime}=5 \\times 25 \\mathrm{~kg}=125 \\mathrm{~kg}[/math]\u003Cbr\u003Eকাজ,[math]\\hspace{1.6 cm}\\begin{aligned} \\mathrm{W}_{2} & =\\mathrm{mgh} \\\\ & =5 \\times 25 \\times 9.8 \\times 1 \\text { joule }=1225 \\text { joule } \\end{aligned}[/math]\u003Cbr\u003Eএখানে, [math]\\rm{W_1 = W_2 }[/math]\u003Cbr\u003Eঅর্থাৎ উভয় ক্ষেত্রে কৃতকাজের মান সমান। তবে প্রথম ক্ষেত্রে কাজটি ধাপে ধাপে করার কারণে পর্যায়ক্রমে শক্তি প্রয়োগ করতে হয়। কিন্তু দ্বিতীয় ক্ষেত্রে একসাথে বেশি শক্তি প্রয়োগ করতে হয়। তাই প্রথম উপায়টি বেশি গ্রহণযোগ্য।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গ্রহণযোগ্য উপায় হলো পাশাপাশি যুক্ত করে মাটিতে রাখলে; কারণ ভর [math]M=5\\times25=125\\ \\text{kg}[/math] সমান থাকলেও একক ঘনকের তল অংশের ক্ষেত্রফল [math](0.5\\ \\text{m})^2=0.25\\ \\text{m}^2[/math] হলে স্তূপের ক্ষেত্রে যোগাযোগ ক্ষেত্রফল [math]0.25\\ \\text{m}^2[/math] কিন্তু পাশাপাশি যুক্ত করলে [math]5\\times0.25=1.25\\ \\text{m}^2[/math], ফলে চাপে থাকবে [math]P_1=\\frac{125\\times9.8}{0.25}=4900\\ \\text{Pa}[/math] বনাম [math]P_2=\\frac{125\\times9.8}{1.25}=980\\ \\text{Pa}[/math] (৫ গুণ পার্থক্য)। উপরন্তু পাশাপাশি যুক্ত করলে ভরকেন্দ্র অনেক নিচু (উঁচু ≈ [math]2.5\\ \\text{m}[/math] বনাম নিচু ≈ [math]0.5\\ \\text{m}[/math]) হওয়ায় স্থিতিশীলতাও বেশি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 408251,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408251,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 408251,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T06:33:37.000000Z",
+            "updated_at": "2025-08-19T06:33:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408249,
+      "value": {
+        "options": {
+          "গ": "প্রথম পাম্পের কৃতকাজ নির্ণয় কর।"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা 10 m এবং ব্যাস 2 m। একটি পাম্প 20 মিনিটে কুয়াটিকে পানিশূন্য করতে পারে। উক্ত পাম্পের সাথে আরও একটি 1 HP ক্ষমতার পাম্প যুক্ত করে কুয়াটিকে পানিশূন্য করলে কিছু সময় সাশ্রয় হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eকুয়ার গভীরতা, [math]\\mathrm{h}=10 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eব্যাসার্ধ, [math]\\mathrm{r}=\\dfrac{2}{2} \\mathrm{~m}=1 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003Eকুয়ার পানির ভর,[math]\\hspace{1.6 cm}\\begin{aligned} \\mathrm{m} & =\\rho \\mathrm{V} \\\\ & =1000 \\times \\pi r^{2} \\mathrm{~h} \\\\ & =1000 \\times 3.1416 \\times 1^{2} \\times 10 \\mathrm{~kg}=31416 \\mathrm{~kg} \\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ১ম পাম্পের কৃতকাজ,[math]\\hspace{1.6 cm}\\mathrm{W}_{1}=\\mathrm{mg} \\dfrac{\\mathrm{h}}{2}=31416 \\times 9.8 \\times \\dfrac{10}{2} \\mathrm{~J}=1539384 \\mathrm{~J}[/math]\u003Cbr\u003Eঅতএব, প্রথম পাম্পের কাজ [math]1539384 \\mathrm{~J}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কৃতকাজ = ওজন × গড় উঠানোর দূরত্ব; এখানে [math]r=1\\ \\text{m},\\ h=10\\ \\text{m}[/math] হলে [math]V=πr^2h=10π\\ \\text{m}^3[/math], [math]m=1000V=10000π\\ \\text{kg}[/math].  \nঅতএব [math]W=mg\\cdot\\frac{h}{2}=10000π×9.8×5=490000π\\ \\text{J}\\approx1.54\\times10^6\\ \\text{J}[/math], যা প্রথম পাম্পের কৃতকাজ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 408249,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408249,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 408249,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T06:33:35.000000Z",
+            "updated_at": "2025-08-19T06:33:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408250,
+      "value": {
+        "options": {
+          "গ": "প্রথম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ নির্ণয় কর।"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা 20 m ও ব্যাস 2 m. কুয়াটিকে পানিশূন্য করার জন্য 5 HP-এর একটি পাম্প লাগানো হলো। অর্ধেক পানি তোলার পর পাম্পটি নষ্ট হয়ে গেল। বাকি পানি তোলার জন্য একই ক্ষমতাসম্পন্ন আর একটি পাম্প লাগানো হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, ১ম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ [math]\\mathrm{W}_{1}[/math]\u003Cbr\u003Eউদ্দীপক হতে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eকুয়ার গভীরতা, [math]\\mathrm{h}=20 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eঅর্ধেক গভীরতা, [math]\\mathrm{h}_{1}=\\dfrac{20 \\mathrm{~m}}{2}=10 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eব্যাস, [math]\\rm{d=2 ~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eগড় সরণ, [math]\\rm{h^{\\prime}=\\dfrac{10 m+0 m}{2}}=5 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\rm{g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}[/math]\u003Cbr\u003Eকুয়ার আয়তন,[math]\\hspace{1.6 cm}\\mathrm{V}=\\dfrac{1}{4} \\pi \\mathrm{d}^{2} \\mathrm{~h}=\\dfrac{1}{4} \\times 3.1416 \\times(2 \\mathrm{~m})^{2} \\times 20 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.6 cm}\\therefore \\rm{~V}=62.832 \\mathrm{~m}^{3}[/math]\u003Cbr\u003Eপানির ঘনত্ব,[math]\\hspace{1.6 cm}\\rho=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পানির ভর,[math]\\hspace{1.6 cm}\\begin{aligned} \\mathrm{m} & =\\rho \\mathrm{V} \\\\ & =1000 \\mathrm{~kg} \\mathrm{~m}^{-3} \\times 62.832 \\mathrm{~m}^{3}=62832 \\mathrm{~kg} \\end{aligned}[/math]\u003Cbr\u003Eঅর্ধেক পানির ভর,[math]\\hspace{1.6 cm}\\mathrm{m}^{\\prime}=\\dfrac{1}{2} \\mathrm{~m}=\\dfrac{1}{2} \\times 62832 \\mathrm{~kg}=31416 \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E কৃতকাজ,[math]\\hspace{1.6 cm}\\begin{aligned} \\mathrm{W}_{1} & =\\mathrm{m}^{\\prime} \\mathrm{gh}^{\\prime} \\\\ & =31416 \\times 9.8 \\mathrm{~m} \\mathrm{~s}^{-2} \\times 5 \\mathrm{~m}=1.54 \\times 10^{6} \\mathrm{~J} \\end{aligned}[/math]\u003Cbr\u003Eসুতরাং প্রথম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ [math]1.54 \\times 10^{6} \\mathrm{~J}[/math]\u003Cbr\u003E।",
+        "explanation": "ব্যাখ্যা: কুয়ার উচ্চতা 20 m হলে অর্ধেক পানি তোলার পরে পানি উচ্চতা 10 m-এ নেমে আসে, ফলে তোলা পরিমাণ পানি কুয়ার উপরের 10 m অংশ; প্রতিটি পাতলা স্তরের তুলতে লাগা দূরত্ব হলো [math](20-y)[/math] যেখানে [math]y[/math] নীচ থেকে মাত্রা। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথম পাম্পের কাজ:\n[math]W=\\rho g A\\int_{10}^{20}(20-y)\\,dy[/math] যেখানে [math]A=\\pi(1)^2=\\pi\\ \\text{m}^2[/math], তাই\n[math]W=1000\\times9.8\\times\\pi\\times50\\approx1.54\\times10^{6}\\ \\text{J}.[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 408250,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408250,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 408250,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T06:33:35.000000Z",
+            "updated_at": "2025-08-19T06:33:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408248,
+      "value": {
+        "options": {
+          "গ": "বালকটি ছাদে উঠতে অভিকর্ষ বলের বিরুদ্ধে কত কাজ করেছে?"
+        },
+        "question": "উদ্দীপকে 25 kg ভরের একজন বালক 3 kg ভরের একটি গোলক হাতে নিয়ে সিঁড়ি বেয়ে ছাদে উঠতে 2 m সময় নিল। ছাদ হতে গোলকটি ছেড়ে দেয়ায় তা সিঁড়ি বেয়ে গড়িয়ে মাটিতে পড়ল ।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview20-202022-12-12t014210571_1755585214_MgEhaFhD.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy201-520cq20solve20-20-1-9_1755585215_0BioYtXE.png\" alt=\"\"\u003E\u003Cbr/\u003E[math]\\qquad \\quad\\begin{aligned} \\sin 30^{\\circ} & =\\rm{\\frac{A B}{A C} }\\\\ \\Rightarrow \\frac{1}{2} & =\\frac{A B}{20 \\mathrm{~m}} \\\\ \\therefore ~\\rm{A B} & =10 \\mathrm{~m} \\end{aligned}[/math]\u003Cbr\u003Eধরি, অভিকর্ষ বলের বিরুদ্ধে কাজের পরিমাণ [math]\\rm{W}[/math]\u003Cbr\u003Eগোলকসহ বালকের ভর, [math]\\rm{m = (25 +3) ~kg = 28 ~kg}[/math]\u003Cbr\u003Eছাদের উচ্চতা, [math]\\rm{h = 10 ~m }[/math]\u003Cbr\u003Eআমরা জানি, [math]\\mathrm{W}=\\mathrm{mgh}=28 \\mathrm{~kg} \\times 9.8 \\mathrm{~m} \\mathrm{~s}^{-2} \\times 10 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.6 cm}\\therefore ~\\rm{W}=2744 \\mathrm{~J}[/math]\u003Cbr\u003Eসুতরাং, অভিকর্ষ বলের বিরুদ্ধে কাজের পরিমাণ [math]2744 \\mathrm{~J}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কাজটি অভিকর্ষের বিরুদ্ধে গুরত্বীয় সম্ভাব্য শক্তির বৃদ্ধি, তাই [math]W=(M+m)gh[/math] যেখানে [math]M=25\\ \\text{kg},\\ m=3\\ \\text{kg},\\ h=2\\ \\text{m},\\ g=9.8\\ \\text{m/s}^2[/math].  \nতাই [math]W=(25+3)\\times9.8\\times2=28\\times19.6=548.8\\ \\text{J}\\approx5.49\\times10^2\\ \\text{J}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 408248,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408248,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 408248,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T06:33:35.000000Z",
+            "updated_at": "2025-08-19T06:33:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408247,
+      "value": {
+        "options": {
+          "গ": "প্রথম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ নির্ণয় করো।"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা [math]20 \\mathrm{~m}[/math] এবং ব্যাস [math]2 \\mathrm{~m}[/math] কুয়াটিকে পানি শূন্য করার জন্য [math]5\\mathrm{~HP}[/math] ক্ষমতার একটি পাম্প লাগানো হলো। কুয়ার উপরের [math]\\dfrac{1}{4}[/math] অংশ পানি তোলার পর পাম্পটি বন্ধ হয়ে গেল। বাকি পানি তোলার জন্য একই ক্ষ মতাসম্পন্ন আর একটি পাম্প লাগানো হল",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকুয়ার পানির আয়তন,[math]\\hspace{2.5 cm}\\begin{aligned} \\mathrm{V} & =\\pi r^{2} h \\\\ & =\\pi \\times\\left(\\frac{2}{2}\\right)^{2} \\times 20=62.83 \\mathrm{~m}^{3} \\end{aligned}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}\\frac{1}{4}[/math]\u003Cbr\u003E অংশ পানির ভর,[math]\\hspace{2.5 cm}\\begin{aligned} \\mathrm{m} &=\\frac{1}{4} \\rho \\mathrm{V} \\\\ &=\\frac{1}{4} \\times 62.83 \\times 1000 \\\\ & =15707.5 \\mathrm{~kg} \\end{aligned}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির গড় সরণ, [math]\\mathrm{h}_{1}=\\frac{0+20 \\times \\frac{1}{4}}{2} \\mathrm{~m} =2.5 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকৃতকাজ, [math]W_1= ?[/math]\u003Cbr\u003E১ম পাম্পের কৃতকাজ,[math]\\hspace{1.8 cm}\\begin{aligned} \\mathrm{W}_{1} & =\\mathrm{mgh}_{1} \\\\ & =15707.5 \\times 9.8 \\times 2.5 \\\\ & =384.83 \\times 10^{3} \\mathrm{~J} \\textbf{(Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কারণ কুয়ার উপরিভাগের [math]\\dfrac{1}{4}[/math] অংশ (উঁচু [math]5\\ \\mathrm{m}[/math]) থেকে পানি তুললে কাজটি পানির ওজনকে তার কেন্দ্রবিন্দু থেকে শীর্ষ পর্যন্ত গড় উচ্চতা উত্তোলন করার সমান।  \n[math]V=πr^2h=π(1)^2(5)=5π\\ \\mathrm{m^3},\\quad W_{weight}=ρgV=1000×9.8×5π=49000π\\ \\mathrm{N},\\quad \\text{গড় উচ্চতা}=2.5\\ \\mathrm{m}[/math].  \nঅতএব কাজটি = [math]49000π×2.5=122500π\\ \\mathrm{J}\\approx3.85×10^5\\ \\mathrm{J}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 408247,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408247,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 408247,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T06:33:33.000000Z",
+            "updated_at": "2025-08-19T06:33:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408246,
+      "value": {
+        "options": {
+          "গ": "কূপের ক্ষেত্রে ইঞ্জিন দ্বারা সম্পাদিত কাজের হিসাব করো।"
+        },
+        "question": "একটি কূপের গভীরতা এবং ব্যাসার্ধ যথাক্রমে [math]10 \\mathrm{~m}[/math] এবং [math]3.44 \\mathrm{~m}[/math]। একটি ইঞ্জিন [math]3[/math] মিনিটে কূপটি পানিশূন্য করতে পারে। পরে ইঞ্জিনটিকে [math]1200 \\mathrm{~kg}[/math] ভরের একটি গাড়ির ইঞ্জিন হিসেবে ব্যবহার করা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-1-05-cq-letque-solve-50009_1755585213_pXO5ssQ7.png\" alt=\"\"\u003E\u003Cbr/\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকূপের গভীরতা, l = 10 m[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকূপের ব্যাসার্ধ, r = 3.44 m[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ভর, [math]\\mathrm{m}=\\mathrm{V} \\rho =\\pi r^{2} l \\rho[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির শূন্য করার ক্ষেত্রে, পানির গড় সরণ, [math]\\mathrm{h}=\\frac{0+l}{2}=\\frac{0+10}{2} \\mathrm{~m}=5 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঘনত্ব, [math]\\rho=1000 \\mathrm{~kgm}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইঞ্জিন দ্বারা কৃতকাজ, w =?আমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{w} &=\\mathrm{mgh} \\\\ &=\\pi \\mathrm{r}^{2} l \\rho \\mathrm{gh} \\\\ & =3.1416 \\times(3.44)^{2} \\times 10 \\times 1000 \\times 9.8 \\times 5 \\\\ & =18.21 \\times 10^{6} \\mathrm{~J} \\text {(Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কূপের ক্ষেত্রে তোলার কাজ = ∫0^h ρ g A x dx = [math]\\rho g A \\dfrac{h^2}{2}[/math], যেখানে [math]A=\\pi r^2=\\pi(3.44)^2\\approx37.17\\ \\mathrm{m^2}[/math]. তাই কাজ ≈ [math]1000\\times9.8\\times37.17\\times\\dfrac{10^2}{2}\\approx1.82\\times10^{7}\\ \\mathrm{J}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 408246,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 408246,
+            "tag_id": 3179,
+            "year": "2021",
+            "created_at": "2025-08-19T06:33:33.000000Z",
+            "updated_at": "2025-08-19T06:33:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408245,
+      "value": {
+        "options": {
+          "গ": "কুয়াটিকে পানিশূন্য করতে কৃতকাজের পরিমাণ নির্ণয় করো।"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা 12 m এবং ব্যাসার্ধ 1.2 m। একটি পাম্প 20 মিনিটে কুয়াটিকে পানিশূন্য করতে পারে। পাম্পটির ক্ষমতা 52% নষ্ট হলেও পাম্পচালক কুয়াটির সম্পূর্ণ পানি একই পাম্প দ্বারা দ্বিগুণ সময়ে খালি করা সম্ভব বলে মন্তব্য করেন।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,কুয়ার গভীরতা, h = 12 mকুয়ার ব্যাসার্ধ, r = 1.2 mকুয়ার পানির আয়তন,[math]\\begin{aligned} V & =\\pi r^{2} h \\\\ & =\\pi \\times(1.2)^{2} \\times 12=54.29 \\mathrm{~m}^{3} \\end{aligned}[/math]\u003Cbr\u003Eপানির ভর,[math]\\begin{aligned} \\mathrm{m} & =\\rho \\mathrm{V} \\\\ & =54.29 \\times 1000 \\\\ & =54290 \\mathrm{~kg} \\end{aligned}[/math]\u003Cbr\u003Eপানির গড় সরণ, [math]\\mathrm{h}_{1}=\\frac{0+12}{2} \\mathrm{~m}=6 \\mathrm{~m}[/math]\u003Cbr\u003Eকৃতকাজ, [math]\\mathrm{W}_{1}=\\text { ? }[/math]\u003Cbr\u003E১ম পাম্পের কৃতকাজ,[math]\\begin{aligned} \\mathrm{W}_{1} & =\\mathrm{mgh}_{1} \\\\ & =54290 \\times 9.8 \\times 6 \\\\ & =3192252 \\mathrm{~J}(\\text { Ans. }) \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কাজটি পানির ভরের গ্র্যাভিটেশনাল পোটেনশিয়াল এনার্জি বৃদ্ধি, তাই কাজ = ওজন × গড় উত্থান। তাই\n[math]W=ρg(π r^2 h)\\frac{h}{2}=\\frac{ρgπ r^2 h^2}{2}[/math]\nএখানে [math]ρ=1000\\ \\text{kg/m}^3,\\ g=9.8\\ \\text{m/s}^2,\\ r=1.2\\ \\text{m},\\ h=12\\ \\text{m}[/math], ফলে\n[math]W\\approx3.19\\times10^6\\ \\text{J}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 408245,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408245,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 408245,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T06:33:32.000000Z",
+            "updated_at": "2025-08-19T06:33:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408244,
+      "value": {
+        "options": {
+          "গ": "প্রথম পাম্পের দ্বারা কৃতকাজ নির্ণয় করো।"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা 15 m ও ব্যাসার্ধ । m। কুয়াটি পানিশূন্য | করার জন্য 6 HP একটি পাম্প লাগানো হলো। অর্ধেক পানি উঠানোর পর পাম্পটি নষ্ট হয়ে গেল। বাকি পানি তোলার জন্য একই ক্ষমতাসম্পন্ন আরো একটি পাম্প লাগানো হল ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture_1755585212_Fjf1UL91.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে,কুয়ার গভীরতা, l = 15 mব্যাসার্ধ, r = 1 mকুয়াটি অর্ধেক পানিশূন্য করার ক্ষেত্রে গড় সরণ, [math]\\mathrm{h}=\\frac{0+\\frac{l}{2}}{2}=\\frac{l}{4}=\\frac{15}{4} \\mathrm{~m}=3.75 \\mathrm{~m}[/math]\u003Cbr\u003Eঅর্ধেক পানির ভর, [math]\\mathrm{m}=\\mathrm{V} \\rho=\\frac{\\pi \\mathrm{r}^{2} l}{2} \\rho[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003E [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eকৃতকাজ, W = ?কুয়াটির অর্ধেক পানি শূন্য করার ক্ষেত্রে ·কৃতকাজ, W = mgh[math]\\begin{aligned}= & \\frac{\\pi \\mathrm{r}^{2} l}{2} \\rho \\times \\mathrm{g} \\times \\mathrm{h} \\\\= & \\frac{1}{2} \\times 3.1416 \\times(1)^{2} \\times 15 \\\\& \\times 1000 \\times 9.8 \\times 3.75 \\\\= & 865903.5 \\mathrm{~J}(\\text { Ans. })\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: কুয়ার উপরের অর্ধেক পানি তুলে নিলেই সেই পানির মোট ভলিউম [math]\\tfrac{1}{2}\\pi r^2\\times 15[/math] এবং সেই অর্ধেক পানির গড় উত্থানদূরত্ব হচ্ছে [math]3.75\\ \\text{m}[/math], তাই প্রথম পাম্পের কৃতকাজ হবে  \n[math]W=\\rho g\\;\\times\\;\\frac{1}{2}\\pi r^2\\times 15\\times 3.75=\\rho g\\pi r^2\\frac{225}{8}[/math]. এই ফলাফলটি কাজের হিসাবকে সহজ করে কারণ আমরা স্লাইস ইন্টিগ্রেশনের বদলে ভর×গড় উত্থানদূরত্ব ব্যবহার করেছি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 408244,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408244,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 408244,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T06:33:32.000000Z",
+            "updated_at": "2025-08-19T06:33:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408237,
+      "value": {
+        "options": {
+          "ক": "1.564 J",
+          "খ": "1.664 J",
+          "গ": "1.764 J",
+          "ঘ": "1.864 J"
+        },
+        "question": "একটি ইটের দৈর্ঘ্য 0.24 m, গ্রন্থ 0.12 m ও উচ্চতা 0.06 m এবং ভর 2 kg। ইটের দৈর্ঘ্যকে আনুভূমিক অবস্থান হতে উলম্ব অবস্থানে রাখলে কি পরিমাণ কাজ করতে হবে?",
+        "solution": "আনুভূমিক থেকে উলম্ব অবস্থানে নিলেসরণ [math]=\\frac{0.24}{2}-\\frac{0.06}{2}=0.09 \\mathrm{~m} \\therefore[/math]\u003Cbr\u003E কাজ [math]=\\mathrm{mgh}=2 \\times 9.8 \\times 0.09=1.764 \\mathrm{~J}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 408237,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 408237,
+            "tag_id": 77,
+            "year": "13-14",
+            "created_at": "2025-08-19T06:33:31.000000Z",
+            "updated_at": "2025-08-19T06:33:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408235,
+      "value": {
+        "options": {
+          "ক": "29400 J",
+          "খ": "30000 J",
+          "গ": "29600 J",
+          "ঘ": "3000 J"
+        },
+        "question": "60 kg ভরের একজন মানুষকে 50m উচ্চতায় উঠতে কত কাজ করতে হবে?",
+        "solution": "[math]W=m g h=60 \\times 9.8 \\times 50=29400 \\mathrm{~J}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 408235,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 408235,
+            "tag_id": 3,
+            "year": "14-15",
+            "created_at": "2025-08-19T06:33:31.000000Z",
+            "updated_at": "2025-08-19T06:33:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408236,
+      "value": {
+        "options": {
+          "ক": "1.564 J",
+          "খ": "1.664 J",
+          "গ": "1.764 J",
+          "ঘ": "1.864 J"
+        },
+        "question": "একটি ইটের দৈর্ঘ্য 0.24m ও প্রস্থ 0.12m ও উচ্চতা 0.06m এবং ভর 2kg।ইটের দৈর্ঘ্যকে অনুভূমিক অবস্থানে রাখতে কি পরিমাণ কাজ করতে হবে?",
+        "solution": "বস্তুটির ভারকেন্দ্রের সরণ [math]=\\frac{1}{2} \\times(0.24-0.06) \\mathrm{~m}=0.09 \\mathrm{~m}[/math]\u003Cbr\u003Eকৃতকাজ [math]=m g h=(2 \\times 9.8 \\times 0.09) \\mathrm{J}=1.764 \\mathrm{~m} J[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 408236,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 408236,
+            "tag_id": 77,
+            "year": "13-14",
+            "created_at": "2025-08-19T06:33:31.000000Z",
+            "updated_at": "2025-08-19T06:33:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408238,
+      "value": {
+        "options": {
+          "ক": "kgm",
+          "খ": "Nm",
+          "গ": "Nm²",
+          "ঘ": "kgm²"
+        },
+        "question": "কাজের অভিকর্ষীয় একক কী?",
+        "solution": "কাজ:সংজ্ঞা কাজ = বল × বলের দিকে সরণের উপাংশ[math]\\therefore \\mathrm{W}=\\mathrm{Fs} \\cos \\theta[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eকাজের একক• এস আই একক : জুল (J) বা Nm• সি জি এস একক : erg বা dyne × cm• এম কে এস একক : kgm[math]\\\\[/math]\u003Cbr\u003E কাজের অভিকর্ষীয় একক কিলোগ্রাম মিটারকে (kgm) কাজের অভিকর্ষীয় একক বলা হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 408238,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 408238,
+            "tag_id": 84,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:33:31.000000Z",
+            "updated_at": "2025-08-19T06:33:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408239,
+      "value": {
+        "options": {
+          "ক": "17600 J",
+          "খ": "17650 J",
+          "গ": "17640 J",
+          "ঘ": "17000 J"
+        },
+        "question": "5-টি ঘণাকৃতি পাথর খণ্ডের প্রতিটির আয়তন [math]0.216 \\mathrm{~m}^{3}[/math] ও ভর [math]300 kg[/math] । এদের একটি অপরটির উপর রেখে একটি গুস্ত প্রস্তুত করতে কৃত কাজের পরিমাণ কত? [math]\\left[\\mathrm{g}=9.8 \\mathrm{~ms}^{2}\\right][/math]",
+        "solution": "[math]W=m g h \\frac{n(n-1)}{2}[/math]\u003Cbr\u003E [math]=300 \\times 9.8 \\times \\sqrt[3]{0.216} \\times \\frac{5(5-1)}{2}=17640 \\mathrm{~J}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 408239,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 408239,
+            "tag_id": 57,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:33:31.000000Z",
+            "updated_at": "2025-08-19T06:33:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408240,
+      "value": {
+        "options": {
+          "ক": "500 J",
+          "খ": "98 J",
+          "গ": "9.8 J",
+          "ঘ": "0 J"
+        },
+        "question": "একজন কুলি 50 kg ভরের একটি বোঝা 10s মাথায় ধরে রাখলে কাজের পরিমাণ হবে—",
+        "solution": "এই ক্ষেত্রে, কুলি বস্তুটি মাথায় ধরে রেখেছে, অর্থাৎ বস্তুটি অনুভূমিকভাবে কোনো দূরত্ব অতিক্রম করেনি। পদার্থবিদ্যায়, কাজ (work) সংজ্ঞায়িত হয় বল (force) এবং বলের দিকে সরণের (displacement) গুণফল হিসেবে ( [math]W = F \\times d \\cos \\theta[/math]\u003Cbr\u003E)। যেহেতু এখানে সরণ শূন্য ( [math]d = 0[/math]\u003Cbr\u003E), তাই কৃত কাজের পরিমাণও শূন্য হবে। বস্তুটি ধরে রাখার জন্য পেশী শক্তি ব্যবহৃত হলেও, এটি পদার্থবিদ্যার সংজ্ঞায় \"কাজ\" হিসেবে গণ্য হবে না।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 408240,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:33:31.000000Z",
+            "updated_at": "2025-08-19T06:33:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408241,
+      "value": {
+        "options": {
+          "ক": "[math]1.05 \\mathrm{~m} / \\mathrm{s}^{2}[/math]",
+          "খ": "[math]1.5 \\mathrm{~m} / \\mathrm{s}^{2}[/math]",
+          "গ": "[math]3 \\mathrm{~m} / \\mathrm{s}^{2}[/math]",
+          "ঘ": "[math]11.5 \\mathrm{~m} / \\mathrm{s}^{2}[/math]"
+        },
+        "question": "10 kg ভরের একটি বস্তুকে 2m উচ্চতায় উপরে উঠাতে 230 J শক্তি লাগে ।\n\nযে ত্বরণে বস্তুটিকে উঠানো হয়েছিল তা হল— [math]\\left(g=10 \\mathrm{~m} / \\mathrm{s}^{2}\\right)[/math]",
+        "solution": "বস্তুটিকে উপরে উঠাতে প্রয়োজনীয় শক্তি হল কৃতকার্য। কৃতকার্য [math]W = F \\times d[/math]\u003Cbr\u003E, যেখানে [math]F[/math]\u003Cbr\u003E হল প্রযুক্ত বল এবং [math]d[/math]\u003Cbr\u003E হল সরণ। এখানে [math]d = 2[/math]\u003Cbr\u003Em।বস্তুটির উপর দুটি বল ক্রিয়া করছে: প্রযুক্ত বল ( [math]F_{app}[/math]\u003Cbr\u003E) এবং অভিকর্ষ বল ( [math]F_g = mg[/math]\u003Cbr\u003E)।বস্তুটিকে উপরে উঠাতে কৃতকার্য [math]W = 230[/math]\u003Cbr\u003E J।বস্তুটিকে একটি নির্দিষ্ট ত্বরণে ( [math]a[/math]\u003Cbr\u003E) উপরে উঠানো হচ্ছে, তাই প্রযুক্ত বল [math]F_{app} = mg + ma[/math]\u003Cbr\u003E।সুতরাং, [math]W = (mg + ma) \\times h[/math]\u003Cbr\u003E [math]230 = (10 \\times 10 + 10 \\times a) \\times 2[/math]\u003Cbr\u003E [math]230 = (100 + 10a) \\times 2[/math]\u003Cbr\u003E [math]230 = 200 + 20a[/math]\u003Cbr\u003E [math]20a = 230 - 200[/math]\u003Cbr\u003E [math]20a = 30[/math]\u003Cbr\u003E [math]a = \\frac{30}{20} = 1.5 \\mathrm{~m} / \\mathrm{s}^{2}[/math]\u003Cbr\u003E।এখানে [math]m[/math]\u003Cbr\u003E হল বস্তুর ভর, [math]g[/math]\u003Cbr\u003E হল অভিকর্ষজ ত্বরণ, [math]h[/math]\u003Cbr\u003E হল উচ্চতা এবং [math]a[/math]\u003Cbr\u003E হল প্রযুক্ত ত্বরণ। এই প্রশ্নটি কার্য-শক্তি উপপাদ্য (Work-Energy Theorem) এর উপর ভিত্তি করে তৈরি। কৃতকার্য হল বলের পরিবর্তন যা বস্তুর গতিশক্তি পরিবর্তন করে। এখানে, কৃতকার্য বস্তুটিকে অভিকর্ষ বলের বিরুদ্ধে উত্তোলন করতে এবং একটি নির্দিষ্ট ত্বরণে উপরে উঠাতে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "D.[math]11.5 \\mathrm{~m} / \\mathrm{s}^{2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 408241,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:33:31.000000Z",
+            "updated_at": "2025-08-19T06:33:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408242,
+      "value": {
+        "options": {
+          "A": "[math]30^{\\circ}[/math]",
+          "B": "[math]35^{\\circ}[/math]",
+          "C": "[math]45^{\\circ}[/math]",
+          "D": "[math]60^{\\circ}[/math]"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy20120part20120panjeri20guide20202320-0056_1755585211_C88WgLoF.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n3 kg বস্তু দুইটি সাম্যাবস্থায় থাকলে [math]\\theta=?\\left[g=10 \\mathrm{~ms}^{-2}\\right][/math] বল অনুভূমিকের সমান্তরালে প্রয়োগ করা হয়েছে।",
+        "solution": "[math]6 \\mathrm{~g} \\cos \\left(90^{\\circ}-\\theta\\right)=3 \\mathrm{~g} \\Rightarrow \\sin \\theta=\\frac{3}{6}=\\frac{1}{2} \\Rightarrow \\theta=30^{\\circ}[/math]",
+        "explanation": "",
+        "correct_answer": "A.[math]30^{\\circ}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 408242,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 347,
+          "full_name": "Notre Dame College, Dhaka",
+          "short_name": "NDC",
+          "slug": "ndc",
+          "pivot": {
+            "question_bank_id": 408242,
+            "tag_id": 347,
+            "year": "2022",
+            "created_at": "2025-08-19T06:33:31.000000Z",
+            "updated_at": "2025-08-19T06:33:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408243,
+      "value": {
+        "options": {
+          "ক": "72.59 J",
+          "খ": "83.59 J",
+          "গ": "82.69 J",
+          "ঘ": "100 J"
+        },
+        "question": "একটি ইটের উচ্চতা 7.5cm এবং ভর 2.5kg 10টি ইটকে পরপর সাজিয়ে একটি স্তম্ভ তৈরি করতে কত শক্তি ব্যয় হবে?",
+        "solution": "[math]\\mathrm{W}=\\mathrm{nmg}\\left(\\frac{\\mathrm{n}-1}{2}\\right) \\mathrm{h}=10 \\times 2.5 \\times 9.8\\left(\\frac{10-1}{2}\\right) \\times 0.075[/math]\u003Cbr\u003E [math]=82.69 \\mathrm{~J}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 408243,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3511,
+          "full_name": "Patuakhali Government Mahila College",
+          "short_name": "PGMC",
+          "slug": "pgmc",
+          "pivot": {
+            "question_bank_id": 408243,
+            "tag_id": 3511,
+            "year": "2020",
+            "created_at": "2025-08-19T06:33:31.000000Z",
+            "updated_at": "2025-08-19T06:33:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408225,
+      "value": {
+        "options": {
+          "ক": "জুল",
+          "খ": "আর্গ",
+          "গ": "কেজি-মিটার",
+          "ঘ": "ডাইন-সেন্টিমিটার"
+        },
+        "question": "কাজের অভিকর্ষীয় একক কী?",
+        "solution": "• এক নিউটন বল প্রয়োগের ফলে বলের ক্রিয়া রেখা বরাবর বস্তুর সরণ যদি এক মিটার হয়, তবে যে কাজ সম্পন্ন হয় তাকে এক জুল বলে।\n\n• গাণিতিকভাবে, 1 জুল = 1 নিউটন × 1 মিটার।",
+        "explanation": "",
+        "correct_answer": "C.কেজি-মিটার"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 408225,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 408225,
+            "tag_id": 3179,
+            "year": "2024",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408234,
+      "value": {
+        "options": {
+          "ক": "75W",
+          "খ": "100W",
+          "গ": "50W",
+          "ঘ": "25W"
+        },
+        "question": "10 kg ওজনের দুইটি ঘনক আকৃতির ব্লককে একটির উপর আরেকটি স্তূপ করতে কত শক্তি লাগবে? [math]\\left[\\mathrm{h}=0.5 \\mathrm{~m}, \\mathrm{~g}=10 \\mathrm{~ms}^{-2}\\right][/math]",
+        "solution": "[math]\\mathrm{mgh} \\times \\frac{\\mathrm{n}(\\mathrm{n}-1)}{2}=10 \\times 10 \\times 0.5 \\times \\frac{2}{2}=50 \\mathrm{~W}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 408234,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 408234,
+            "tag_id": 480,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:33:31.000000Z",
+            "updated_at": "2025-08-19T06:33:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408233,
+      "value": {
+        "options": {
+          "ক": "600 J",
+          "খ": "1200 J",
+          "গ": "980 J",
+          "ঘ": "0 J"
+        },
+        "question": "একজন কুলি 60 kg ভরের বোঝা 20 s মাথায় ধরে রাখলে কৃত কাজের পরিমাণ হবে-",
+        "solution": "বস্তুর সরণ না ঘটলে কাজ হবে না। এখানে বস্তুর সরণ না ঘটার কারণে কৃত কাজের পরিমান 0 J।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 408233,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 408233,
+            "tag_id": 57,
+            "year": "22-23",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408232,
+      "value": {
+        "options": {
+          "ক": "2646 j",
+          "খ": "1450 j",
+          "গ": "1764 j",
+          "ঘ": "2150 j"
+        },
+        "question": "50 kg ভরের ব্যক্তি 10 kg ভরের একটি বোঝা নিয়ে 6 m দীর্ঘ একটি সিঁড়ি। বেয়ে ওপরে উঠলো। সিঁড়িটি অনুভূমিকের সাথে 30° কোণ করে থাকলে, ওই ব্যক্তি কত পরিমাণ কাজ করলো?",
+        "solution": "[math]\\mathrm{W}=\\mathrm{Fs} \\cos \\theta[/math]\u003Cbr\u003E [math]=\\mathrm{mgs} \\cos \\theta[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]\\left[\\therefore \\theta=90^{\\circ}-30^{\\circ}=60^{\\circ}\\right][/math]\u003Cbr\u003E [math]=(50+10) \\times 9.8[/math]\u003Cbr\u003E [math]\\times 6 \\times \\cos 60^{\\circ}[/math]\u003Cbr\u003E [math]=1764 \\mathrm{~J}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.1764 j"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 408232,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 408232,
+            "tag_id": 11,
+            "year": "23-24",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408231,
+      "value": {
+        "options": {
+          "ক": "[math]2.54 \\times 10^{6} \\mathrm{~J}[/math]",
+          "খ": "[math]1.44 \\times 10^{6} \\mathrm{~J}[/math]",
+          "গ": "[math]2.34 \\times 10^{6} \\mathrm{~J}[/math]",
+          "ঘ": "[math]1.54 \\times 10^{6} \\mathrm{~J}[/math]"
+        },
+        "question": "একটি পানিপূর্ণ কুয়ার গভীরতা 20 m ও ব্যাস 2 m. কুয়াটিকে পানি শূন্য করার জন্য 5 HP এর একটি পাম্প লাগানো হল। অর্ধেক পানি তোলার পর পাম্পটি নষ্ট হয়ে গেল। বাকি পানি তোলার জন্য একই ক্ষমতা সম্পন্ন আর একটি পাম্প লাগানো হল। প্রথম পাম্প দ্বারা সম্পাদিত কাজের পরিমাণ নির্ণয় কর।",
+        "solution": "[math]\\mathrm{W}=\\mathrm{mg}\\left(\\frac{\\mathrm{h}}{2}\\right)=\\pi \\mathrm{r}^{2} \\mathrm{~h} \\rho \\mathrm{g}\\left(\\frac{\\mathrm{h}}{2}\\right)[/math]\u003Cbr\u003E [math]=\\pi \\times 5^{2} \\times 10 \\times 10^{3} \\times 9.8 \\times\\left(\\frac{10}{2}\\right)=1.54 \\times 10^{6} \\mathrm{~J}[/math]\u003Cbr\u003Eউল্লেখ্য, পাম্পাটি অর্ধেক পানি তোলার পর বন্ধ হওয়ার কারণে উচ্চতা, h = 10 m হবে।",
+        "explanation": "",
+        "correct_answer": "D.[math]1.54 \\times 10^{6} \\mathrm{~J}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 408231,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 114,
+          "full_name": "Engg Guccho (Ka Unit – Without Architecture)",
+          "short_name": "CKRUET-Ka",
+          "slug": "ckruet-ka",
+          "pivot": {
+            "question_bank_id": 408231,
+            "tag_id": 114,
+            "year": "22-23",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408230,
+      "value": {
+        "options": {
+          "ক": "500 kJ",
+          "খ": "250 kJ",
+          "গ": "200 kJ",
+          "ঘ": "245 kJ"
+        },
+        "question": "50 kg ভরের একজন মেয়ে 1000 বার 0.5m উচ্চতার লাফ দিলে মোট কৃতকাজ কত?",
+        "solution": "এক্ষেত্রে কৃতকাজ হবে মেয়েটির মোট বিভবশক্তির সমান।এখানে,মেয়েটির ভর, m = 50 kgলাফের সংখ্যা n = 1000উচ্চতা, h = 0.5 mঅভিকর্ষজ ত্বরণ, g = 9.8 [math]ms^{-2}[/math]\u003Cbr\u003Eকৃতকাজ, W = ?অর্থাৎ, [math]W = E_p[/math]\u003Cbr\u003Eআমরা জানি,বিভবশক্তি ,[math]\\begin{aligned}\\mathrm{E}_{\\mathrm{p}} & =\\mathrm{nmgh} \\\\& =1000 \\times 50 \\times 9.8 \\times 0.5 \\\\& =24500 \\mathrm{~J} \\\\& =245 \\mathrm{kI}\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.245 kJ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 408230,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 408230,
+            "tag_id": 80,
+            "year": "23-24",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408229,
+      "value": {
+        "options": {
+          "ক": "O J",
+          "খ": "180 J",
+          "গ": "40 J",
+          "ঘ": "120 J"
+        },
+        "question": "40 N ওজনের বস্তুকে মেঝে থেকে 2 মিটার উঁচুতে 2 সেকেন্ড ধরে রাখতে কাজের পরিমাণ হবে-",
+        "solution": "যেহেতু, সরণ নেই। তাই কাজের পরিমাণ 0 J",
+        "explanation": "",
+        "correct_answer": "A.O J"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 408229,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 408229,
+            "tag_id": 3225,
+            "year": "19-20",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408228,
+      "value": {
+        "options": {
+          "ক": "রাসায়নিক শক্তি (Chemical force)",
+          "খ": "মাধ্যাকর্ষণ শক্তি (Gravitational force)",
+          "গ": "ঘর্ষণমূলক শক্তি (Frictional force)",
+          "ঘ": "তড়িৎ চৌম্বকীয় শক্তি (Electromagnetic force)"
+        },
+        "question": "যদি কোন বস্তু ভূমির উপরে তোলা হয়, তবে কোন শক্তির বিপরীতে কাজটি করা হলো?",
+        "solution": "বস্তুকে যখন ভূমির উপরে তোলা হয়, তখন আমরা বস্তুর উপর অভিকর্ষ বলের (gravitational force) বিপরীতে কাজ করি। এই অভিকর্ষ বল বস্তুকে পৃথিবীর কেন্দ্রের দিকে আকর্ষণ করে। বস্তুকে উপরে তোলার জন্য এই আকর্ষণ বলকে অতিক্রম করতে হয়।\n\nঅন্যান্য বিকল্পগুলো প্রাসঙ্গিক নয় কারণ:\n\nরাসায়নিক শক্তি (Chemical force) পদার্থের অণুর মধ্যে বন্ধন সংক্রান্ত শক্তি, যা বস্তুকে তোলার কাজে সরাসরি বাধা দেয় না।\n\nঘর্ষণমূলক শক্তি (Frictional force) দুটি পৃষ্ঠতলের সংস্পর্শে প্রযুক্ত হয় এবং গতির বিপরীতে কাজ করে, কিন্তু বস্তুকে উল্লম্বভাবে তোলার ক্ষেত্রে এটি প্রধান প্রতিরোধকারী শক্তি নয়।\n\nতড়িৎ চৌম্বকীয় শক্তি (Electromagnetic force) চার্জযুক্ত কণার মধ্যে ক্রিয়া করে এবং বস্তুকে তোলার কাজে সরাসরি কোনো ভূমিকা রাখে না।",
+        "explanation": "",
+        "correct_answer": "B.মাধ্যাকর্ষণ শক্তি (Gravitational force)"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 408228,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 408228,
+            "tag_id": 18,
+            "year": "21-22",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408227,
+      "value": {
+        "options": {
+          "ক": "0 J",
+          "খ": "14.7 J",
+          "গ": "29.4 J",
+          "ঘ": "44.1 J"
+        },
+        "question": "2 kg ভরের 1.5 m লম্বা একটি রডকে শায়িত অবস্থা হতে খাড়া করতে কী পরিমাণ কাজ করতে হবে?",
+        "solution": "অভিকর্ষ বল দ্বারা কৃতকাজ [math]\\mathrm{W}=\\mathrm{mgh}[/math]\u003Cbr\u003E যেখানে [math]\\rm{h} =[/math]\u003Cbr\u003E ভারকেন্দ্রের সরণ।[math]1.5 \\rm{~m}[/math]\u003Cbr\u003E রডকে শায়িত অবস্থা থেকে খাড়া করলে ভারকেন্দ্রের সরণ [math]=\\dfrac{1.5}{2}=0.75 \\mathrm{~m}[/math]\u003Cbr\u003Eকৃতকাজ, [math]\\mathrm{W}=\\mathrm{mgh}=2 \\times 9.8 \\times 0.75=14.7 \\mathrm{~J}[/math]\u003Cbr\u003Eভরকেন্দ্রের সরণ না মানলে কৃতকাজ শূন্য হয়।",
+        "explanation": "",
+        "correct_answer": "B.14.7 J"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 408227,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 408227,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 408227,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 408226,
+      "value": {
+        "options": {
+          "ক": "[math]9.41 J[/math]",
+          "খ": "[math]9.8 J[/math]",
+          "গ": "[math]10.19 J[/math]",
+          "ঘ": "[math]20.38 J[/math]"
+        },
+        "question": "ভূমিতে অনুভূমিকভাবে থাকা [math]2 kg[/math] ভরের এবং [math]104 cm[/math] দৈর্ঘ্য, [math]4 cm[/math] প্রস্থ ও [math]4 cm[/math] পুরুত্বের আয়তাকার দণ্ডকে উলম্ব অবস্থায় আনতে কী পরিমাণ কাজ সম্পাদিত হবে?",
+        "solution": "• দন্ডের ভারকেন্দ্রের সরণ, [math]h=\\left(\\frac{104}{2},-\\frac{4}{2}\\right)[/math]\u003Cbr\u003E [math]\\mathrm{cm}=50 \\mathrm{~cm}[/math]\u003Cbr\u003E [math]=0.5 \\mathrm{~m}[/math]\u003Cbr\u003E• কাজ, [math]\\mathrm{W}=\\mathrm{mgh}[/math]\u003Cbr\u003E [math]=2 \\times 9.8 \\times 0.5=9.8 \\mathrm{~J}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.[math]9.8 J[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6321,
+      "created_at": "2025-08-19T06:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 408226,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 408226,
+            "tag_id": 3179,
+            "year": "2024",
+            "created_at": "2025-08-19T06:33:30.000000Z",
+            "updated_at": "2025-08-19T06:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6321&grade=1&lesson=6547&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6321&grade=1&lesson=6547&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6321&grade=1&lesson=6547&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 48,
+  "total": 48
+}

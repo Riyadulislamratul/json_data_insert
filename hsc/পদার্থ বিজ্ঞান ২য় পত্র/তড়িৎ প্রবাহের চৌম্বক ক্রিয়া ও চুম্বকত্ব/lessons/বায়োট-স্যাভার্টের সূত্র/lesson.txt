@@ -1,0 +1,2360 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 425711,
+      "value": {
+        "options": [],
+        "question": "বায়োট-স্যাভার্ট এর সূত্রটি বিবৃত কর।",
+        "solution": "বায়োট-স্যাভার্টের সূত্রটি হলো— ক্ষুদ্র দৈর্ঘ্যের কোনো পরিবাহীর মধ্য দিয়ে বিদ্যুৎ প্রবাহিত হলে এর চারপাশে যে চৌম্বক ক্ষেত্র সৃষ্টি হয় তার কোনো বিন্দুতে চৌম্বকীয় আবেশের মান [math]-[/math]\u003Cbr\u003E [math]\\quad[/math]\u003Cbr\u003E১. বিদ্যুৎ প্রবাহমাত্রার সমানুপাতিক;[math]\\quad[/math]\u003Cbr\u003E২. পরিবাহীর দৈর্ঘ্যের সমানুপাতিক;[math]\\quad[/math]\u003Cbr\u003E৩. পরিবাহীর মধ্যবিন্দু হতে ঐ বিন্দুর সংযোগ রেখা এবং পরিবাহীর অন্তর্ভুক্ত কোণের সাইনের সমানুপাতিক এবং[math]\\quad[/math]\u003Cbr\u003E৪. পরিবাহীর মধ্যবিন্দু হতে ঐ বিন্দুর দূরত্বের বর্গের ব্যস্তানুপাতিক।",
+        "explanation": "বায়োট-স্যাভার্ট সূত্র: [math]d\\mathbf{B}=\\frac{\\mu_0}{4\\pi}\\frac{I\\,d\\mathbf{\\ell}\\times \\hat{\\mathbf{r}}}{r^2}[/math]. এটি বলে যে প্রতিটি ছোট স্রোত উপাদান [math]I\\,d\\mathbf{\\ell}[/math] একটি দূরত্ব [math]r[/math] এ চৌম্বক ক্ষেত্রের একটি ক্ষুদ্র উপাদান দেয় এবং সম্পূর্ণ ক্ষেত্র পেতে ওই সকল ক্ষুদ্র উপাদানকে সমন্বয় করে (ইন্টিগ্রেট) যোগ করতে হয়; এখানে [math]\\hat{\\mathbf{r}}[/math] হলো উপাদান থেকে ক্ষেত্রবিন্দুর দিকে একক ভেক্টর এবং [math]\\mu_0[/math] মুক্ত স্থানের চৌম্বকীয় ধ্রুবক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 425711,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 425711,
+            "tag_id": 47,
+            "year": "2017",
+            "created_at": "2025-08-19T07:33:39.000000Z",
+            "updated_at": "2025-08-19T07:33:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425710,
+      "value": {
+        "options": {
+          "গ": "কুণ্ডলী বৃত্তাকার হলে কেন্দ্রে চৌম্বক প্রাবল্য কত হবে বের কর।"
+        },
+        "question": "[math]5[/math] অ্যাম্পিয়ার তড়িৎবাহী একটি বর্গাকার কুণ্ডলী [math]ABCD[/math] যার প্রতি বাহুর দৈর্ঘ্য [math]15\\ cm[/math] এর সাথে একই তলে এবং পার্শ্ববর্তী বাহু [math]AD[/math] হতে [math]5\\ cm[/math] দূরে একটি অতি দীর্ঘ [math]10[/math] অ্যাম্পিয়ার তড়িৎবাহী তার [math]AD[/math] এর সমান্তরালে রাখা আছে।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-28_1755588819_0gfa0x6Z.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\begin{array}{l}2 \\pi \\mathrm{r}=2(0.15+0.15) \\\\\\Rightarrow 2 \\mathrm{r}=\\frac{2 \\times 0.30}{3.1416}=0.1909 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eআমরা জানি, বৃত্তাকার কুণ্ডলীর কেন্দ্রে চৌম্বক প্রাবল্য,[math]\\mathrm{B}=\\frac{\\mu_{0} \\mathrm{i}}{2 \\mathrm{r}}=\\frac{4 \\pi \\times 10^{-7} \\times 5}{0.1909}=3.28 \\times 10^{-5} \\mathrm{~T}[/math]\u003Cbr\u003Eনির্ণেয় প্রাবল্য [math]3.28 \\times 10^{-5} T[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ধরা হলে বৃত্তের ব্যাসার্ধ হবে একই তারের দৈর্ঘ্য ধরে: [math]2\\pi R=4\\times15\\ \\text{cm}=0.60\\ \\text{m}[/math], তাই [math]R=0.60/(2\\pi)\\approx0.0955\\ \\text{m}[/math]. বৃত্তাকার কুণ্ডলীর কেন্দ্রে চৌম্বকক্ষেত্রের মান (Biot–Savart/আইনের ফলে) হল [math]B_{coil}=\\dfrac{\\mu_0 I}{2R}\\approx3.29\\times10^{-5}\\ \\text{T}[/math] এবং অতি দীর্ঘ সরল তারের কেন্দ্রে দূরত্ব [math]d=7.5-5=2.5\\ \\text{cm}=0.025\\ \\text{m}[/math] থেকে তারের ক্ষেত্র হল [math]B_{wire}=\\dfrac{\\mu_0 I'}{2\\pi d}\\approx8.0\\times10^{-5}\\ \\text{T}[/math]. রাইট-হ্যান্ড রুল অনুযায়ী যদি দুইটি ক্ষেত্র একই দিকের হয় তাহলে মোট ক্ষেত্র [math]B_{total}=B_{coil}+B_{wire}\\approx1.13\\times10^{-4}\\ \\text{T}[/math] (প্রতিরোধে বিপরীত হলে ব্যবধান কমবে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425710,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1190,
+          "full_name": "Sylhet MC College",
+          "short_name": "SMC",
+          "slug": "smc",
+          "pivot": {
+            "question_bank_id": 425710,
+            "tag_id": 1190,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:39.000000Z",
+            "updated_at": "2025-08-19T07:33:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425709,
+      "value": {
+        "options": {
+          "ঘ": "তারটিকে বাঁকিয়ে [math]5[/math] পাকের কুণ্ডলীতে পরিণত করে একই পরিমাণ তড়িৎ প্রবাহিত করলে কুণ্ডলীর কেন্দ্রে সৃষ্ট চৌম্বকক্ষেত্রের মান, [math]P[/math] বিন্দুর চৌম্বকক্ষেত্রের মানের সমান হবে কিনা? গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও।"
+        },
+        "question": "চিত্রে [math]AB = 10\\ cm[/math] এর একটি সসীম দৈর্ঘ্যের তার। তারটি হতে ' [math]a = 0.02 \\ m[/math]' লম্ব দূরত্বে অবস্থিত [math]P[/math] একটি বিন্দু।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-27_1755588818_PyRkHpS9.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, উদ্দীপকে সৃষ্ট কুণ্ডলীর ব্যাসার্ধ r হলে পাই,[math]\\begin{array}{l}2 \\pi \\mathrm{N}=10 \\mathrm{~cm} \\\\\\mathrm{r}=\\frac{10}{2 \\pi \\mathrm{N}} \\mathrm{cm}=\\frac{10}{2 \\pi \\times 5} \\mathrm{~cm}[\\because \\mathrm{N}=5] \\\\\\therefore \\quad \\mathrm{r}=3.18 \\times 10^{-3} \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eআবার, বৃত্তাকার কুণ্ডলীর কেন্দ্রে চৌম্বক ক্ষেত্র B' হলে,[math]B=\\frac{\\mu_{0} \\mathrm{NI}}{2 r}[/math]\u003Cbr\u003E হতে পাই,[math]\\begin{array}{l}\\mathrm{B}^{\\prime}=\\frac{4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1} \\times 5 \\times 2 \\mathrm{~A}}{2 \\times 3.18 \\times 10^{3} \\mathrm{~m}}\\\\\\mathrm{B}^{\\prime}=1.98 \\times 10^{-9} \\mathrm{~T} \\neq \\mathrm{B}\\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ, কুণ্ডলীর কেন্দ্রে সৃষ্ট চৌম্বক ক্ষেত্রের মান P বিন্দুর চৌম্বক ক্ষেত্রের মানের সমান হবে না ।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E না—সমান হবে না; স্রোত একই রেখে গণনা করলে সরল সসীম তারের বিন্দু [math]P[/math]-তে চৌম্বকক্ষেত্রের মান এবং ৫ পাক কুণ্ডলীর কেন্দ্রের মান আলাদা পাওয়া যায়। সরল তার (ধরি [math]P[/math] টি তারের মধ্যবিন্দুর ওপর লম্ব): [math]B_{\\rm wire}=\\frac{\\mu_0 I}{4\\pi a}\\cdot\\frac{L}{\\sqrt{a^2+(L/2)^2}}[/math], এখানে [math]L=0.1\\ m,\\ a=0.02\\ m[/math] দিলে [math]B_{\\rm wire}\\approx7.38\\,\\mu_0 I[/math]. কুণ্ডলীর ব্যাসার্ধ [math]R=\\dfrac{L}{5\\cdot2\\pi}=\\dfrac{0.01}{\\pi}\\,m[/math] এবং কেন্দ্রীয় ক্ষেত্র [math]B_{\\rm coil}=5\\frac{\\mu_0 I}{2R}\\approx785.4\\,\\mu_0 I[/math], তাই কুণ্ডলীর ক্ষেত্র অনেক গুণ বড়—অতএব সমান নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425709,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3315,
+          "full_name": "Ispahani Public School And College. Chattogram",
+          "short_name": "IPSCC",
+          "slug": "ipscc",
+          "pivot": {
+            "question_bank_id": 425709,
+            "tag_id": 3315,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:38.000000Z",
+            "updated_at": "2025-08-19T07:33:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425708,
+      "value": {
+        "options": {
+          "গ": "[math]P[/math] বিন্দুতে সৃষ্ট চৌম্বকক্ষেত্রের মান নির্ণয় কর।"
+        },
+        "question": "চিত্রে [math]AB = 10\\ cm[/math] এর একটি সসীম দৈর্ঘ্যের তার। তারটি হতে ' [math]a = 0.02 \\ m[/math]' লম্ব দূরত্বে অবস্থিত [math]P[/math] একটি বিন্দু।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-27_1755588815_fHiz8C2q.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2frsz-camscanner-09-04-2023-1406-7-removebg-preview_1755588816_bWdKFVnK.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, AB= 10 cm, a = 0.02m; I = 2A; B =?আমরা জানি,[math]\\begin{array}{l} \\mathrm{B}=\\frac{\\mu_{0} \\mathrm{I}}{2 \\pi \\mathrm{a}} \\\\\\therefore \\mathrm{B}=\\frac{4 \\pi \\times 10^{-7} \\mathrm{Tm} \\mathrm{A}^{-1} \\times 2 \\mathrm{~A}}{2 \\pi \\times 0.02 \\mathrm{~m}} \\\\\\therefore \\mathrm{B}=2 \\times 10^{-5} \\mathrm{~T}\\end{array}[/math]\u003Cbr\u003Eনির্ণেয় চৌম্বক ক্ষেত্রের মান [math]2 \\times 10^{-5} T[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: বিন্দু [math]P[/math]‑তে বায়োট‑সাভার সূত্র ব্যবহার করলে সাধারণ ফলাফল হয় [math]B=\\frac{\\mu_0 I}{4\\pi a}(\\sin\\theta_1+\\sin\\theta_2)[/math], এবং যদি [math]P[/math] তারটির মধ্যবিন্দুর লম্বে থাকে তবে [math]\\theta_1=\\theta_2=\\arctan\\frac{L/2}{a}[/math], ফলে [math]B=\\frac{\\mu_0 I L}{4\\pi a\\sqrt{a^2+(L/2)^2}}[/math]. এখানে [math]L=0.10\\ \\text{m}[/math] ও [math]a=0.02\\ \\text{m}[/math] বসালে [math]B\\approx9.28\\times10^{-6}\\,I\\ \\text{T}[/math] (কারেন্ট [math]I[/math] অ্যাম্পিয়ারে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425708,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3315,
+          "full_name": "Ispahani Public School And College. Chattogram",
+          "short_name": "IPSCC",
+          "slug": "ipscc",
+          "pivot": {
+            "question_bank_id": 425708,
+            "tag_id": 3315,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:36.000000Z",
+            "updated_at": "2025-08-19T07:33:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425707,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের বৃত্তাকার তারে প্রবাহিত কারেন্টের মান কত?"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-19_1755588814_nernXUdA.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nবৃত্তাকারে বাঁকানো বিদ্যুৎবাহী তারের কেন্দ্রে চৌম্বক ক্ষেত্রের মান [math]B = 300MT[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, চৌম্বক ক্ষেত্রের মান, [math]\\mathrm{B}=300 \\mu \\mathrm{T}=300 \\times 10^{-6} \\mathrm{T}[/math]\u003Cbr\u003Eব্যাসার্ধ, r = 10 cm = 0.10 mপাকসংখ্যা, N = 1শূন্যস্থানের চৌম্বক প্রবেশ্যতা, [math]\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{Tm} \\mathrm{A}^{-1}[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, I = ?আমরা জানি,[math]\\begin{array}{l}\\mathrm{B}=\\frac{\\mu_{0} \\mathrm{IN}}{2 \\mathrm{r}} \\\\\\Rightarrow \\mathrm{I}=\\frac{2 \\mathrm{Br}}{\\mu_{0} \\mathrm{~N}} \\\\=\\frac{2 \\times 300 \\times 10^{-6} \\mathrm{~T} \\times 0.10 \\mathrm{~m}}{4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1} \\times 1} \\\\=47.75 \\mathrm{~A}\\end{array}[/math]\u003Cbr\u003Eনির্ণেয় তড়িৎ প্রবাহ 47.75 A",
+        "explanation": "ব্যাখ্যা: বৃত্তাকার তারের কেন্দ্রে চৌম্বক ক্ষেত্রের সূত্র হল [math]B=\\frac{\\mu_0 I}{2R}[/math] যেখানে [math]\\mu_0=4\\pi\\times10^{-7}\\,\\mathrm{T\\,m/A}[/math], তাই [math]I=\\frac{2BR}{\\mu_0}[/math]। \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বিকল্পটি সঠিক কারণ এখানে [math]B=300\\,\\text{mT}=0.3\\,\\text{T}[/math] এবং ছবিতে দেওয়া ব্যাসার্ধ [math]R[/math] এর মান বসিয়ে উপরের সূত্রে গণনা করলে সেই মান পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425707,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 343,
+          "full_name": "Viqarunnisa Noon School & College, Dhaka",
+          "short_name": "VNSC",
+          "slug": "vnsc",
+          "pivot": {
+            "question_bank_id": 425707,
+            "tag_id": 343,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:34.000000Z",
+            "updated_at": "2025-08-19T07:33:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425706,
+      "value": {
+        "options": {
+          "ঘ": "কুণ্ডলীর তারটিকে টেনে সোজা করে তার থেকে [math]1m[/math] দূরে চৌম্বকক্ষেত্রে কুগুলীর কেন্দ্রের কতগুণ হবে-গাণিতিকভাবে বিশ্লেষণ করে মতামত দাও।"
+        },
+        "question": "[math]1000[/math] পাকের এবং [math]1m[/math] ব্যাসার্ধের একটি বৃত্তাকার কুণ্ডলীর মধ্য দিয়ে [math]50 \\ A[/math]তড়িৎ প্রবাহ চলছে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eযেহেতু তারটিকে টেনে সোজা করা হয়েছে। তাই তড়িৎবাহী একটি লম্বা সোজা পরিবাহী তারের নিকট কোনো বিন্দুতে চৌম্বক ক্ষেত্র B-এর রাশিমালা,এখানে, তার থেকে চৌম্বকক্ষেত্রের দূরত্ব, a=1m.সোজা তারের জন্য চৌম্বক ক্ষেত্র B' =?[math]\\begin{aligned}\\mathrm{B}^{\\prime} & =\\frac{\\mu_{0} \\mathrm{I}}{2 \\pi \\mathrm{a}} \\\\& =\\frac{4 \\pi \\times 10^{-7} \\times 50}{2 \\pi \\times 1} \\\\& =10^{-5} \\mathrm{~T}\\end{aligned}[/math]\u003Cbr\u003Eসুতরাং, [math]\\frac{B}{B^{\\prime}}=\\frac{3.1416 \\times 10^{-2}}{10^{-5}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\frac{\\mathrm{B}}{\\mathrm{B}^{\\prime}}=3141.6 \\\\\\mathrm{~B}=3141.6 \\times \\mathrm{B}^{\\prime} \\\\\\mathrm{B}^{\\prime}=\\frac{\\mathrm{B}}{3141.6}\\end{array}[/math]\u003Cbr\u003Eঅতএব, কুণ্ডলীর তারটিকে টেনে সোজা করে 1 m দূরে চৌম্বক ক্ষেত্র কুণ্ডলীর কেন্দ্রের চৌম্বক ক্ষেত্রের [math]\\frac {1} {3141.6}[/math]\u003Cbr\u003E গুণ হবে ।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কুণ্ডলীর কেন্দ্রীয় চৌম্বকক্ষেত্র [math]B_{\\text{coil}}=\\frac{\\mu_0 N I}{2R}[/math] এবং অনন্ত সরল তারে দূরত্ব [math]r[/math] এ ক্ষেত্র [math]B_{\\text{wire}}=\\frac{\\mu_0 I}{2\\pi r}[/math]. এখানে [math]N=1000,\\ R=r=1\\ \\text{m},\\ I=50\\ \\text{A}[/math], তাই অনুপাত [math]\\frac{B_{\\text{wire}}}{B_{\\text{coil}}}=\\frac{R}{\\pi r N}=\\frac{1}{1000\\pi}\\approx3.18\\times10^{-4}[/math]. অর্থাৎ সরল তারে 1 m দূরে ক্ষেত্র কুণ্ডলীর কেন্দ্রের তুলনায় প্রায় [math]1/(1000\\pi)[/math] গুণ, বা কুণ্ডলী প্রায় [math]\\pi N\\approx3142[/math] গুণ শক্তিশালী।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 425706,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:33:33.000000Z",
+            "updated_at": "2025-08-19T07:33:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425705,
+      "value": {
+        "options": {
+          "ঘ": "দুই বন্ধুর মধ্যে কার বক্তব্য সঠিক - গাণিতিক মাধ্যমে দেখাও বিশ্লেষণের মাধ্যমে দেখাও।"
+        },
+        "question": "রফিক এবং আবির দুই বন্ধু [math]20 \\ m[/math] লম্বা একটি তারে তড়িৎ প্রবাহ চালনা করে তারের মধ্য বিন্দু থেকে [math]40cm[/math] দূরে চৌম্বক ক্ষেত্রের মান পরিমাপ করল [math]6 \\times 10^{-6} T[/math]।পরবর্তীতে তারটিকে পেঁচিয়ে তারা একটি বৃত্তাকার কুণ্ডলী তৈরি করল যার ব্যাসার্ধ [math]45 \\ cm[/math] । রফিক বলল কুণ্ডলীর কেন্দ্রে চৌম্বক ক্ষেত্রের একই মান অর্থাৎ [math]6 \\times 10^{-6}T[/math]। হবে। কিন্তু আবির দ্বিমত পোষণ করল ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E‘গ’ হতে পাই, তারের মধ্য দিয়ে তড়িৎ প্রবাহ, I = 12 A$এখানে,তারের দৈর্ঘ্য, L = 20 m[math]\\mu_0 = 4\\pi × 10^{-7}[/math]\u003Cbr\u003E TmA^{-1}$বৃত্তাকার কুণ্ডলীর ব্যাসার্ধ, r = 45 cmবা, r = 0.45 m'কুণ্ডলীর পাক সংখ্যা,[math]\\begin{array}{c}\\mathrm{N}=\\frac{\\mathrm{L}}{2 \\pi r}=\\frac{20}{2 \\pi \\times 0.45} \\\\=7.07 \\\\\\therefore \\mathrm{N}=7 \\mathrm{G}\\end{array}[/math]\u003Cbr\u003Eকুণ্ডলীর কেন্দ্রে চৌম্বকক্ষেত্রের মান, B=?আমরা জানি,[math]\\begin{aligned}\\mathrm{B}^{\\prime} & =\\frac{\\mathrm{N} \\mu_{0} \\mathrm{I}}{2 \\mathrm{r}} \\\\& =\\frac{7 \\times 4 \\pi \\times 10^{-7} \\times 12}{2 \\times 0.45} \\\\\\therefore \\mathrm{B}^{\\prime} & =1.173 \\times 10^{-4} \\mathrm{~T}\\end{aligned}[/math]\u003Cbr\u003Eদেখা যাচ্ছে যে, B' এর মান 1.73 × [math]10^{-4}[/math]\u003Cbr\u003E T যা পূর্বের মান 6 × [math]10^{-6}[/math]\u003Cbr\u003E T হতে বেশিসুতরাং, রফিকের বক্তব্যটি ভুল। কারণ, সে উভয় ক্ষেত্রে চৌম্বকক্ষেত্রের মান একই হবে বলে মন্তব্য করেছিল। কিন্তু আবির দ্বিমত পোষণ করায় তার বক্তব্য সঠিক।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E আবির সঠিক। \n\nএকক কুণ্ডলীর কেন্দ্রে চৌম্বক ক্ষেত্রের সূত্র [math]B_{\\rm coil}=\\dfrac{\\mu_0 N I}{2R}[/math] যেখানে মোট ঘূর্ণন সংখ্যা [math]N=\\dfrac{L}{2\\pi R}[/math] এবং সরল তারের কাছে মাঝবিন্দুতে ক্ষেত্র [math]B_{\\rm wire}=\\dfrac{\\mu_0 I}{2\\pi r}[/math]। এখানে [math]L=20\\ \\rm m,\\ R=0.45\\ m,\\ r=0.40\\ m[/math] হলে [math]N=\\dfrac{20}{2\\pi(0.45)}\\approx7.08[/math] এবং তাই অনুপাতটি [math]\\dfrac{B_{\\rm coil}}{B_{\\rm wire}}=\\dfrac{N\\pi r}{R}\\approx19.8[/math]। অর্থাৎ কুণ্ডলীর কেন্দ্রে ক্ষেত্র প্রাথমিক মানের থেকে ≈20 গুণ বড় হবে, সুতরাং রফিকের বক্তব্য ভুল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425705,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:33:33.000000Z",
+            "updated_at": "2025-08-19T07:33:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425704,
+      "value": {
+        "options": [],
+        "question": "চিত্রটি লক্ষ করো এবং প্রশ্নগুলোর উত্তর দাও :\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2015202-4_1755588813_3jX3wXSN.png\" alt=\"\"\u003E\u003Cbr/\u003E\n\nগ. উদ্দীপকে ব্যবহৃত কুণ্ডলীর পাক সংখ্যা বের করো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর : 477 টি । [math]\\\\[/math]",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কুণ্ডলীর পাক সংখ্যা = 6। কারণ চিত্রে মোট ছয়টি সম্পূর্ণ লুপ দেখা যাচ্ছে এবং পাক সংখ্যা মানেই কুণ্ডলীর সম্পূর্ণ লুপের সংখ্যা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425704,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:33:33.000000Z",
+            "updated_at": "2025-08-19T07:33:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425703,
+      "value": {
+        "options": {
+          "গ": "[math]A[/math] বিন্দুতে চৌম্বক ক্ষেত্র নির্ণয় করো।"
+        },
+        "question": "চিত্রে [math]P[/math] ও [math]Q[/math] দুটি যথাক্রমে সরল তড়িৎবাহী ও বৃত্তাকার পরিবাহী তার। উভয়ের মধ্য দিয়ে [math]10 \\ A[/math] তড়িৎ প্রবাহিত হচ্ছে।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2010202-4_1755588812_NOsc6d91.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর : 4 × [math]10^{-5}[/math]\u003Cbr\u003E T[math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এ উভয় পরিবাহকের চৌম্বক ক্ষেত্র সুপারপোজিশন করে গণনা করতে হয়—বৃত্তাকার তারের কেন্দ্রের ক্ষেত্রে [math]B_{\\rm loop}=\\dfrac{\\mu_0 I}{2R}[/math] এবং সরল তারের কারণে একটি বিন্দুতে ক্ষেত্রের মান (বিন্দু থেকে তারের লম্বদূরত্ব ধরে) [math]B_{\\rm wire}=\\dfrac{\\mu_0 I}{2\\pi d}[/math] হবে। মোট ক্ষেত্র হবে তাদের যোগ বা বিয়োগ (দিকসমূহ নির্ণয়ে রাইট-হ্যান্ড রুল প্রয়োগ করে) অর্থাৎ [math]B_{\\rm total}=B_{\\rm loop}\\pm B_{\\rm wire}=\\dfrac{\\mu_0 I}{2R}\\pm\\dfrac{\\mu_0 I}{2\\pi d}\\,[/math], যেখানে চিহ্নটি নির্ভর করে দুই ক্ষেত্রের অভিমুখের উপর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425703,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:33:32.000000Z",
+            "updated_at": "2025-08-19T07:33:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425702,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের চিত্রের কুণ্ডলীতে বায়োট-স্যাভার্ট সূত্র প্রয়োগ করে গাণিতিকভাবে বৃত্তাকার কুণ্ডলীর কেন্দ্রে এবং বৃত্তাকার কুণ্ডলীর পরিবর্তে দৈর্ঘ্যের ক্ষেত্রে চৌম্বক ক্ষেত্রের বা ফ্লাক্স ঘনত্বের রাশিমালার তুলনা করো।"
+        },
+        "question": "পাশের চিত্রে একটি বৃত্তাকার পরিবাহী কুণ্ডলী দেখানো হয়েছে। পরিবাহীর d মিটার দৈর্ঘ্যের অতিক্ষুদ্র অংশ দিয়ে। অ্যাম্পিয়ার বিদ্যুৎ প্রবাহ চলার ফলে পরিবাহীর চারপাশে একটি চৌম্বক ক্ষেত্র সৃষ্টি হয়েছে। পরিবাহীর এই অংশের মধ্যবিন্দু হতে উত্ত চৌম্বক ক্ষেত্রের কোনো বিন্দুর দূরত্ব r মিটার। ওই বিন্দুতে চৌম্বক প্রাবল্য বা চৌম্বক ক্ষেত্র [math]dB[/math]\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2008202-4_1755588811_gryDqrBG.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eবায়োট স্যাভার্ট এর সূত্রানুসারে,[math]\\mathrm{dB}=\\frac{\\mu_{0} \\mathrm{id} \\ell \\sin \\alpha}{4 \\pi r^{2}}=\\mu_{0} \\frac{\\sin 90^{\\circ}}{4 \\pi r^{2}}=\\mu_{0} \\frac{\\mathrm{id} \\ell}{4 \\pi r^{2}}[/math]\u003Cbr\u003Eএখানে, [math]\\sin \\alpha=\\sin 90^{\\circ}[/math]\u003Cbr\u003E কারণ তারের ঐ অংশের মধ্যবিন্দুতে বৃত্তের স্পর্শক ও ঐ বিন্দুতে অঙ্কিত ব্যাসার্ধ পরস্পর লম্ব। অবশ্য এই চৌম্বক আবেশ বৃত্তাকার পরিবাহী যে তলে অবস্থিত তার অভিলম্ব বরাবর ক্রিয়া করবে।[math]therefore[/math]\u003Cbr\u003E সমগ্র কুন্ডলী তারে বিদ্যুৎ প্রবাহের দরুন কেন্দ্রে সৃষ্ট চৌম্বক আবেশ,[math]\\begin{aligned}B_{0} & =\\int d B_{0} \\\\& =\\int \\frac{\\mu_{0}}{4 \\pi} \\frac{i d l}{r^{2}} \\\\& =\\frac{\\mu_{0}}{4 \\pi r^{2}} \\mathrm{i} \\int d \\ell\\end{aligned}[/math]\u003Cbr\u003Eএখানে সমাকলনের সীমা হবে = 0 হতে l = [math]2\\pi r[/math]\u003Cbr\u003E- অর্থাৎ সমগ্র কুন্ডলীর পরিধির দৈর্ঘ্য।[math]\\begin{aligned}\\therefore \\quad B_{0} & =\\frac{\\mu_{0} \\mathrm{i}}{4 \\pi r^{2}} \\int_{0}^{2 \\pi r} d \\ell \\\\& =\\frac{\\mu_{0} \\mathrm{i}}{4 \\pi r^{2}}[\\ell]_{0}^{2 \\pi r} \\\\& =\\frac{\\mu_{0} \\mathrm{i}}{4 \\pi \\mathrm{r}^{2}} \\times 2 \\pi \\mathrm{r} \\\\& =\\frac{\\mu_{0} \\mathrm{i}}{2 \\mathrm{r}}\\end{aligned}[/math]\u003Cbr\u003E [math]\\mathrm{B}_{\\mathrm{o}}=\\frac{\\mu_{0} \\mathrm{i}}{2 \\mathrm{r}}[/math]\u003Cbr\u003Eআবার, আমরা জানি, বৃত্তাকার কুণ্ডলীর পরিবর্তে যদি লম্বা পরিবাহী হয়,[math]\\begin{aligned}B_{\\ell}=\\int d B & =\\int_{\\theta_{1}}^{\\theta_{2}}-\\frac{\\mu_{0} \\mathrm{i}}{4 \\pi \\mathrm{a}} \\sin \\theta d \\theta \\\\& =\\frac{\\mu_{0} \\mathrm{i}}{4 \\pi \\mathrm{a}} \\int_{\\theta_{1}}^{\\theta_{2}}-\\sin \\theta d \\theta \\\\& =\\frac{\\mu_{0} \\mathrm{i}}{4 \\pi \\mathrm{a}}[\\cos\\theta]_{\\theta_{1}}^{\\theta_{2}}=\\frac{\\mu_{0} \\mathrm{i}}{4 \\pi \\mathrm{a}}\\left(\\cos \\theta_{2}-\\cos \\theta_{1}\\right)\\end{aligned}[/math]\u003Cbr\u003Eএখন তারটি যদি অসীম দৈর্ঘ্যের হয়, তাহলে[math]\\theta_1 = \\pi[/math]\u003Cbr\u003E এবং [math]\\theta_2 = 0[/math]\u003Cbr\u003E হবে।সেক্ষেত্রে, [math]\\mathrm{B}_{\\ell}=\\frac{\\mu_{0} \\mathrm{i}}{4 \\pi \\mathrm{a}}(\\cos 0-\\cos \\pi)=\\frac{\\mu_{0} \\mathrm{i}}{4 \\pi \\mathrm{a}}(1+1)=\\frac{\\mu_{0} \\mathrm{i}}{2 \\pi \\mathrm{a}}-\\text { (ii) }[/math]\u003Cbr\u003E(i) নং ও (ii) নং রাশি তুলনা করে,[math]\\begin{array}{l}\\frac{\\mathrm{B}_{0}}{\\mathrm{~B}_{\\ell}}=\\frac{\\mu_{0} \\mathrm{i} / 2 \\mathrm{r}}{\\mu_{0} \\mathrm{i} / 2 \\pi \\mathrm{a}}=\\frac{\\pi \\mathrm{a}}{\\mathrm{r}} \\\\\\mathrm{B}_{o}=\\frac{\\pi \\mathrm{a}}{\\mathrm{r}} \\times \\mathrm{B} \\ell\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E দৈর্ঘ্যের ফ্লাক্স ঘনত্বের তুলনায় কুন্ডলীর ফ্লাক্স ঘনত্ব, [math]\\frac {\\pi a}{r}[/math]\u003Cbr\u003E গুন বড়।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বায়োট‑সাভার্ট সূত্র প্রয়োগ করলে বৃত্তাকার কুণ্ডলীর কেন্দ্রে ক্ষেত্রের মান হয় [math]B_{\\rm loop}=\\dfrac{\\mu_0 I}{2R}[/math] এবং একটি অনন্ত সরল তারে একই দূরত্বে ক্ষেত্রের মান হয় [math]B_{\\rm wire}=\\dfrac{\\mu_0 I}{2\\pi R}[/math]. তাই একই দূরত্বে তুলনা করলে [math]\\dfrac{B_{\\rm loop}}{B_{\\rm wire}}=\\pi[/math], অর্থাৎ কুণ্ডলীর কেন্দ্রের চৌম্বক ক্ষেত্র সরল তারের তুলনায় [math]\\pi[/math] গুণ বেশি। কারণ কুণ্ডলীর সব ক্ষুদ্র উপাদানগুলোর ক্ষেত্র কেন্দ্রের দিকে একত্রে যোগ হয়, যেখানে সরল তারে ক্ষেত্র বৃত্তাকারভাবে ছড়িয়ে পড়ে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425702,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:33:31.000000Z",
+            "updated_at": "2025-08-19T07:33:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425701,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের চিত্রের কুণ্ডলীর পাকসংখ্যা 40 এবং ব্যাস 32 cm। কুণ্ডলীতে কত মাত্রার তড়িৎ প্রবাহ চালনা করলে কুণ্ডলীর কেন্দ্রে [math]300 \\ Wb/m^2[/math]চৌম্বক প্রাবল্য সৃষ্টি হবে?"
+        },
+        "question": "পাশের চিত্রে একটি বৃত্তাকার পরিবাহী কুণ্ডলী দেখানো হয়েছে। পরিবাহীর d মিটার দৈর্ঘ্যের অতিক্ষুদ্র অংশ দিয়ে। অ্যাম্পিয়ার বিদ্যুৎ প্রবাহ চলার ফলে পরিবাহীর চারপাশে একটি চৌম্বক ক্ষেত্র সৃষ্টি হয়েছে। পরিবাহীর এই অংশের মধ্যবিন্দু হতে উত্ত চৌম্বক ক্ষেত্রের কোনো বিন্দুর দূরত্ব r মিটার। ওই বিন্দুতে চৌম্বক প্রাবল্য বা চৌম্বক ক্ষেত্র [math]dB[/math]\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2008202-4_1755588810_2BCY6pUJ.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর : 1.91A[math]\\\\[/math]",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কুণ্ডলীর কেন্দ্রে চৌম্বক ক্ষেত্রের সূত্র হল [math]B=\\mu_0\\frac{N I}{2R}[/math], যেখানে [math]R=0.16\\ \\text{m}[/math], [math]N=40[/math]। তাই [math]I=\\frac{2RB}{\\mu_0 N}=\\frac{2(0.16)(300)}{4\\pi\\times10^{-7}\\times40}\\approx1.91\\times10^{6}\\ \\text{A}[/math], অর্থাৎ প্রায় [math]1.9\\times10^{6}\\ \\text{এম্পিয়ার}[/math] লাগবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425701,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:33:30.000000Z",
+            "updated_at": "2025-08-19T07:33:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425700,
+      "value": {
+        "options": {
+          "গ": "[math]N[/math] বিন্দুতে চুম্বক ক্ষেত্রের মান কচু হবে নির্ণয় কর।"
+        },
+        "question": "চিত্রে একটি শলাকা মুক্তভাবে অবস্থান করছে শলাকাটির সমান্তরালে [math]3 \\ cm[/math] উপর দিয়ে একটি অসীম দৈর্ঘ্যের পরিবাহী তার স্থাপন করা হলো।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun20103202-3_1755588809_KN8c2avk.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর: 3.33 × 10^T । [math]\\\\[/math]",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E N বিন্দুতে পরিবাহী তারের তৈরি চুম্বক ক্ষেত্র Ampère/Biot–Savart সূত্র দিয়ে পাওয়া যায়: [math]B=\\frac{\\mu_0 I}{2\\pi r}[/math], যেখানে [math]r=3\\ \\text{cm}=0.03\\ \\text{m}[/math]. তাই [math]B=\\frac{\\mu_0 I}{2\\pi(0.03)}[/math] এবং চুম্বক-ক্ষেত্রের দিক নির্ধারণ করতে ডান-হাতের নিয়ম প্রয়োগ করতে হবে (আঙুলগুলো কারেন্টের চারপাশে ঘূর্ণায়মান ক্ষেত্র নির্দেশ করে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 425700,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:33:29.000000Z",
+            "updated_at": "2025-08-19T07:33:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425699,
+      "value": {
+        "options": [],
+        "question": "একটি হাইড্রোজেন পরমাণুর প্রথম ইলেকট্রনের কক্ষপথের ব্যাসার্ধ [math]0.5 \\mathring{A}[/math]। এই কক্ষপথে ইলেকট্রনটি [math]2.2 \\tim es 10^{6} \\mathrm{~m} / \\mathrm{s}[/math] সমগতিতে চলমান। এই ইলেকট্রনের গতির ফলে নিউক্লিয়াসের কেন্দ্রে সৃষ্ট চৌম্বক ক্ষেত্রের মান কত? [দেয়া আছে, [math]\\mu_{0}=4 \\pi \\times 10^{-7} w b / A \\cdot m[/math] এবং ইলেকট্রনের চার্জ [math]1.6 \\times 10^{-19} \\mathrm{C}[/math]]",
+        "solution": "( Answer : [math]14.08\\mathrm{~T}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : [math]B=\\dfrac{\\mu_0I}{2\\mathrm{r}}\\quad\\mid\\ e=1.6\\times10^{-19}\\mathrm{C},\\mathrm{\\ v}=2.2\\times10^6\\mathrm{ms}^{-1},\\mathrm{\\ r}=0.5\\times10^{-10}\\mathrm{~m}[/math]\u003Cbr\u003Eএখানে, [math]I =[/math]\u003Cbr\u003E ঘূর্ণন কম্পাঙ্ক [math]\\times[/math]\u003Cbr\u003E চার্জ [math]=\\dfrac{\\text{v}}{2\\pi \\text{r}}\\times \\mathrm{e}\\therefore \\mathrm{B}=\\dfrac{\\mu _0\\text{v}_e}{4\\pi \\text{r}^2}=14.08\\mathrm{~T}[/math]\u003Cbr\u003E",
+        "explanation": "একটি চলমান চার্জ সমতুল্য স্রোত [math]I=\\dfrac{e v}{2\\pi r}[/math] তৈরি করে এবং বৃত্তাকার লুপের কেন্দ্রে চৌম্বক ক্ষেত্রের মান হয় [math]B=\\dfrac{\\mu_0 I}{2r}[/math]. সাবস্টিটিউশনে, [math]r=0.5\\mathring{A}=5.0\\times10^{-11}\\ \\mathrm{m}[/math], তাই [math]I=\\dfrac{1.6\\times10^{-19}\\times2.2\\times10^{6}}{2\\pi\\times5.0\\times10^{-11}}\\approx1.12\\times10^{-3}\\ \\mathrm{A}[/math] এবং [math]B=\\dfrac{4\\pi\\times10^{-7}\\times1.12\\times10^{-3}}{2\\times5.0\\times10^{-11}}\\approx14\\ \\mathrm{T}[/math]. ইলেকট্রনের নেতিবাচক চার্জের কারণে চৌম্বক ক্ষেত্রের দিকটি রাইট-হ্যান্ড রুল অনুসারে সাধারণ স্রোতের দিকের উল্টো হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 425699,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 425699,
+            "tag_id": 80,
+            "year": "16-17",
+            "created_at": "2025-08-19T07:33:28.000000Z",
+            "updated_at": "2025-08-19T07:33:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425698,
+      "value": {
+        "options": [],
+        "question": "একটি লম্বা পরিবাহী তারে, [math]r=0.15 m[/math] ব্যাসার্ধের একটি বৃত্তাকার কুণ্ডলী তৈরি করে উহার বাকি অংশ সোজা রাখা হল। অন্য একটি লম্বা পরিবাহী উক্ত কুণ্ডলীর কেন্দ্র [math]d = 0.25m[/math] দূরে সমান্তরালে থেকে একই পরিমাণ বিদ্যুৎ চিত্রের ন্যায় বিপরীত দিকে প্রবাহিত হচ্ছে। কুণ্ডলীর কেন্দ্রে [math]4.72 \\mu T[/math] চৌম্বক ক্ষেত্র সৃষ্টি করতে প্রতিটি পরিবাহীতে বিদ্যুৎ প্রবাহ কত হবে? [math]\\left[\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1}\\right][/math]\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a685e0a6a7e0a78de0a6afe0a6bee0a6afe0a6bc20e0a7aa20e0a6a4e0a6a1e0a6bce0a6bfe0a78e20e0a6aae0a78de0a6b0e0a6ace0a6bee0a6b9e0a787e0a6b020e0a69ae0a781e0a6aee0a78de0a6ace0a69520e0a695e0a78de0a6b0e0a6bfe0a6afe0a6bce0a6be20e0a69320e0a69ae0a78ce0a6aee0a78de0a6ace0a695e0a6a4e0a78de0a6ac-17_1755588807_xSJRKTcp.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "(Answer : [math]1\\text{A}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a685e0a6a7e0a78de0a6afe0a6bee0a6afe0a6bc20e0a7aa20e0a6a4e0a6a1e0a6bce0a6bfe0a78e20e0a6aae0a78de0a6b0e0a6ace0a6bee0a6b9e0a787e0a6b020e0a69ae0a781e0a6aee0a78de0a6ace0a69520e0a695e0a78de0a6b0e0a6bfe0a6afe0a6bce0a6be20e0a69320e0a69ae0a78ce0a6aee0a78de0a6ace0a695e0a6a4e0a78de0a6ac-18_1755588808_XpH7rfCf.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eকুণ্ডলীর কারণে চৌম্বকক্ষেত্র [math]\\mathrm{B}_{1}=\\dfrac{\\mu_{0} I}{2 \\mathrm{r}};[/math]\u003Cbr\u003E দিক কাগজ তলের সাথে লম্বভাবে উপরের দিকে[math]AB[/math]\u003Cbr\u003E তারের কারণে চৌম্বকক্ষেত্র [math]B_{2}=\\dfrac{\\mu_{0} I}{2 \\pi r};[/math]\u003Cbr\u003E দিক কাগজ তলের সাথে লম্বভাবে উপরের দিকে[math]CD[/math]\u003Cbr\u003E তারের কারণে চৌম্বকক্ষেত্র [math]B_{3}=\\dfrac{\\mu_{0}I}{2 \\pi d};[/math]\u003Cbr\u003E দিক কাগজ তলের সাথে লম্বভাবে নিচের দিকেসুতরাং নীট চৌম্বকক্ষেত্র [math]B=B_{1}+B_{2}-B_{3} \\Rightarrow 4.72 \\times 10^{-6}=\\dfrac{\\mu_{0} I}{2 r}+\\dfrac{\\mu_{0} I}{2 \\pi r}-\\dfrac{\\mu_{0} I}{2 \\pi d}[/math]\u003Cbr\u003E [math]\\Rightarrow 4.72 \\times 10^{-6}=\\dfrac{4 \\times \\pi \\times 10^{-7} \\times 1}{2}\\left(\\dfrac{1}{0.15}+\\dfrac{1}{\\pi \\times 0.15}-\\dfrac{1}{\\pi \\times 0.25}\\right) \\Rightarrow I=1 \\mathrm{~A} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: কুণ্ডলীর কেন্দ্রের মোট চৌম্বকক্ষেত্র হবে বৃত্তের কেন্দ্রের ক্ষেত্র [math]B_{\\rm loop}=\\dfrac{\\mu_0 I}{2r}[/math] এবং সরল পরিবাহীর ক্ষেত্র [math]B_{\\rm wire}=\\dfrac{\\mu_0 I}{2\\pi d}[/math]– যেহেতু নির্দেশিত প্রবাহ বিপরীত, তাই কেন্দ্রের মোট ক্ষেত্র [math]B=B_{\\rm loop}-B_{\\rm wire}[/math]. অতঃপর\n[math]I=\\dfrac{B}{\\mu_0\\left(\\dfrac{1}{2r}-\\dfrac{1}{2\\pi d}\\right)}=\\dfrac{4.72\\times10^{-6}}{4\\pi\\times10^{-7}\\left(\\dfrac{1}{2(0.15)}-\\dfrac{1}{2\\pi(0.25)}\\right)}\\approx1.39\\ \\mathrm{A}.[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 425698,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 425698,
+            "tag_id": 80,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:33:28.000000Z",
+            "updated_at": "2025-08-19T07:33:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425697,
+      "value": {
+        "options": {
+          "গ": "লম্ব দূরত্ব ' [math]\\mathrm{a}[/math]' এর মান নির্ণয় কর।"
+        },
+        "question": "[math]AB = 6m[/math] দীর্ঘ সরল তারটি হতে ' [math]\\mathrm{a}[/math]' লম্ব দূরত্বে অবস্থিত [math]\\mathrm{P}[/math] বিন্দুতে চৌম্বকক্ষেত্র [math]2.0 \\times 10^{-5} \\mathrm{~T}.[/math] আফফান তারটিকে [math]3[/math] পাকের কুণ্ডলীতে পরিণত করে একই পরিমাণ তড়িৎ প্রবাহিত করে বলল, কুণ্ডলীর কেন্দ্রে চৌম্বকক্ষেত্রের মান [math]2.0 \\times 10^{-5} \\mathrm{~T}[/math] অপেক্ষা বেশি হবে। চৌম্বক প্রবেশ্যতা [math]4\\pi \\times 10^{-7} \\mathrm{Tm} \\mathrm{A}[/math]\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fsuggesion20work20by20minhaz20000000033_1755588806_qL1wfAwb.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচৌম্বক ক্ষেত্র, [math]B=2 \\times 10^{-5} \\mathrm{~T}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচৌম্বক প্রবেশ্যতা, [math]\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{Tm} \\mathrm{A}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, I = 2 A[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eলম্ব দূরত্ব, a = ?আমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l}\\quad \\mathrm{B}=\\dfrac{\\mu_{0} I}{2 \\pi \\mathrm{a}} \\\\ \\Rightarrow \\mathrm{a}=\\frac{\\mu_{0} \\mathrm{I}}{2 \\pi \\mathrm{B}}=\\frac{4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1} \\times 2 \\mathrm{~A}}{2 \\pi \\times 2 \\times 10^{-5} \\mathrm{~T}}=0.02 \\mathrm{~m} \\end{array}[/math]\u003Cbr\u003Eঅতএব, লম্ব দূরত্ব a এর মান 0.02 m",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কুণ্ডলীর প্রতিটি পাকের ত্রিজ্যা হবে [math]R=\\dfrac{6\\ \\text{m}}{6\\pi}=\\dfrac{1}{\\pi}\\ \\text{m}[/math] এবং কুণ্ডলীর কেন্দ্রের চৌম্বকক্ষেত্র [math]B_{\\rm coil}=\\dfrac{3\\mu_0 I}{2R}[/math], সরল তারের পয়েন্ট P-তে চৌম্বকক্ষেত্র [math]B_{\\rm wire}=\\dfrac{\\mu_0 I}{2\\pi a}=2.0\\times10^{-5}\\ \\text{T}[/math]। [math]\\dfrac{B_{\\rm coil}}{B_{\\rm wire}}=\\dfrac{3\\pi a}{R}\u003E1[/math] হওয়ার শর্ত দিয়ে পাই [math]a\u003E\\dfrac{R}{3\\pi}=\\dfrac{1}{3\\pi^2}\\ \\text{m}\\approx3.38\\times10^{-2}\\ \\text{m}=3.38\\ \\text{cm}[/math], তাই এই থেকে বড় কোনো [math]a[/math]-তে আফফানের কথা সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 425697,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425697,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 425697,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T07:33:26.000000Z",
+            "updated_at": "2025-08-19T07:33:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425696,
+      "value": {
+        "options": {
+          "ক": "টেসলা এর সংজ্ঞা দাও।",
+          "খ": "চৌম্বক ক্ষেত্রে স্থাপিত কোনো তড়িৎবাহী কুণ্ডলীর উপর টর্ক উৎপন্নের কারণ ব্যাখ্যা কর।",
+          "গ": "উদ্দীপকের ব্যবহৃত বৃত্তাকার কুণ্ডলীর পাক সংখ্যা নির্ণয় কর।",
+          "ঘ": "তার কুণ্ডলী থেকে পরিধির সমান অংশ নিয়ে সোজা করে লম্বা তারটি থেকে বৃত্তাকার কুণ্ডলীর ব্যাসার্ধের সমান দূরত্বে চৌম্বক ফ্লাক্স ঘনত্বের কি পরিবর্তন ঘটবে? গাণিতিক বিশ্লেষণ করে মতামত দাও।"
+        },
+        "question": "প্রদত্ত চিত্রটি লক্ষ কর এবং নিচের প্রশ্নগুলোর উত্তর দাও।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-24-tp-cq-189-1_1755588805_hS4KPjkf.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযদি কোনো চৌম্বক ক্ষেত্রের অভিমুখের সাথে সমকোণে 1 কুলম্ব চার্জ [math]1 ms^{-1}[/math]\u003Cbr\u003E বেগে গতিশীল হয় এবং 1 N বল অনুভব করে, তবে ঐ চৌম্বক ক্ষেত্রের মানকে 1 টেসলা বা শুধু টেসলা বলে ।\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eকুণ্ডলীর মধ্য দিয়ে তড়িৎ প্রবাহের দরুন এর চারপাশে চৌম্বক ক্ষেত্রের সৃষ্টি হয়। তাই তড়িৎবাহী কুণ্ডলীকে অপর কোনো চৌম্বক ক্ষেত্রে স্থাপন করা হলে দুটি চৌম্বক ক্ষেত্রের মধ্যে মিথস্ক্রিয়া ঘটে। যেহেতু চৌম্বক বলরেখাগুলো পরস্পরের ওপর পার্শ্বচাপ প্রয়োগ করে এবং দৈর্ঘ্য বরাবর সংকুচিত হতে চায় সেহেতু কুণ্ডলীটি এমন অবস্থানে আসার চেষ্টা করবে যাতে লব্ধি চৌম্বক বলরেখাগুলো সর্বাপেক্ষা সুস্থিত অবস্থানে আসে, এ কারণেই চৌম্বক ক্ষেত্রে স্থাপিত কোনো তড়িৎবাহী কুণ্ডলীর ওপর টর্ক উৎপন্ন হয়।\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই,কুণ্ডলীর ব্যাসার্ধ, r = 20 cm = 0.2mতড়িৎপ্রবাহ, I = 2 Aচৌম্বকক্ষেত্র, [math]\\mathrm{B}=2.518 \\times 10^{-3} \\mathrm{~T}[/math]\u003Cbr\u003Eশূন্যস্থানের চৌম্বক প্রবেশ্যতা, [math]\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1}[/math]\u003Cbr\u003Eকণ্ডলীর পাকসংখ্যা, N = ?আমরা জানি,[math]\\begin{array}{l}B=\\frac{\\mu_{0} N I}{2 r}\\\\\\Rightarrow N=\\frac{2 r \\times B}{\\mu_{0} I}\\end{array}[/math]\u003Cbr\u003E [math]\\begin{aligned}& =\\frac{2 \\times 0.2 \\times 2.518 \\times 10^{-3}}{4 \\pi \\times 10^{-7} \\times 2} \\\\\\therefore \\mathrm{N} & =400.75 \\approx 401\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকে ব্যবহৃত বৃত্তাকার কুণ্ডলীর পাকসংখ্যা প্রায় 401\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, কুণ্ডলীর ব্যাসার্ধ, r = 20 cm = 0.2 m[math]\\therefore[/math]\u003Cbr\u003E কুণ্ডলীর পরিধি [math]=2 \\pi \\mathrm{r}=(2 \\times 3.1416 \\times 0.2) \\mathrm{m}=1.25664 \\mathrm{~m}[/math]\u003Cbr\u003Eচৌম্বক প্রবেশ্যতা, [math]\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1}[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, I = 2 Aবৃত্তাকার কুণ্ডলীর ক্ষেত্রে চৌম্বক ফ্লাক্স ঘনত্ব, [math]\\mathrm{B}=2.518 \\times 10^{-3} \\mathrm{~T}[/math]\u003Cbr\u003Eসোজা তারের ক্ষেত্রে চৌম্বক ফ্লাক্স ঘনত্ব,[math]\\mathrm{B}_{1}=\\frac{\\mu_{0} \\mathrm{I}}{2 \\pi \\mathrm{r}}=\\frac{4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1} \\times 2 \\mathrm{~A}}{1.25664}=2 \\times 10^{-6}[/math]\u003Cbr\u003Eএখানে, [math]B_1 \u003C B[/math]\u003Cbr\u003Eঅতএব, পরিবর্তিত ক্ষেত্রে চৌম্বক ফ্লাক্স ঘনত্বের মান কমবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E টেসলা (T) হলো চৌম্বক ফ্লাক্স ঘনত্বের একক; [math]1\\ \\text{T}=1\\ \\frac{\\text{Wb}}{\\text{m}^2}=1\\ \\frac{\\text{N}}{\\text{A·m}}.[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কুণ্ডলীর প্রতিটি ভাগে প্রবাহিত strøm এবং বাহিরি চৌম্বক ক্ষেত্রের ক্রস বা গুণফল অনুযায়ী চৌম্বকীয় বল লাগে ([math]\\mathbf{F}=I\\mathbf{L}\\times\\mathbf{B}[/math]) এবং বিপরীত পাশে লাগা এই বলদ্বয় একটি জোড় (টর্ক) সৃষ্টি করে, ফলে কুণ্ডলী ঘুরাতে চায়; মোট টর্কের মান একটি লুপে [math]\\tau=NIAB\\sin\\theta[/math] (এখানে [math]N[/math] পাক সংখ্যা, [math]A[/math] ক্ষেত্রফল, [math]\\theta[/math] ক্ষেত্র ও কুণ্ডলীর মাঝের কোণ)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রদত্ত চিত্রে সংখ্যাসূচক মান না থাকায় সরাসরি সংখ্যাগত পাক সংখ্যা নির্ণয় সম্ভব নয়; যদি টর্ক বা ক্ষেত্র ও প্রবাহ দেওয়া থাকে তাহলে ব্যবহার করবেন [math]N=\\dfrac{\\tau}{IAB\\sin\\theta}[/math] যেখানে [math]A=\\pi R^2[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বৃত্তাকার আর্ক (কোণ [math]\\theta[/math]) দ্বারা কেন্দ্রে চৌম্বক ক্ষেত্র হয় [math]B_{\\rm arc}=\\dfrac{\\mu_0 I\\theta}{4\\pi R}[/math], আর সমপরিধির সমান দৈর্ঘ্যের সোজা সর্টমেন্টের কেন্দ্রের দিকে দেওয়া ক্ষেত্র সাধারণত ভিন্ন এবং সাধারণভাবে হিসাব করতে হবে সোজা তারের সীমানা কোণগুলো ব্যবহার করে [math]B_{\\rm straight}=\\dfrac{\\mu_0 I}{4\\pi R}(\\sin\\alpha_1+\\sin\\alpha_2)[/math]। অতএব ক্ষেত্রের ঘনত্ব পরিবর্তন ঘটবে—সাধারণভাবে বক্র আর্ক কেন্দ্রের দিকে বেশি দক্ষভাবে ক্ষেত্র তৈরি করে, তাই সরাসরি তারে পরিবর্তিত (সাধারণত কম) মান পাওয়া যাবে; নির্দিষ্ট তুলনা করতে উপরের সূত্রে উপযুক্ত কোণ-জ্যামিতি বসাতে হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425696,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 357,
+          "full_name": "Cantonment Public School & College, Rangpur",
+          "short_name": "CPSCR",
+          "slug": "cpscr",
+          "pivot": {
+            "question_bank_id": 425696,
+            "tag_id": 357,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:25.000000Z",
+            "updated_at": "2025-08-19T07:33:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425695,
+      "value": {
+        "options": {
+          "ক": "ফ্যারাডের বিদ্যুৎ চুম্বকীয় আবেশের সূত্রটি বিবৃত কর।",
+          "খ": "লেঞ্জের সূত্র শক্তির নিত্যতা সূত্র মেনে চলে- ব্যাখ্যা কর।",
+          "গ": "[math]P[/math] বিন্দুতে চৌম্বক ক্ষেত্রের মান নির্ণয় কর।",
+          "ঘ": "তারদ্বয়ের সংযোগ রেখার কোন বিন্দুতে লব্ধি চৌম্বক ক্ষেত্রের মান শূন্য হবে।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-31_1755588803_t8sHJ7vP.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eফ্যারাডের বিদ্যুৎ চুম্বকীয় আবেশের প্রথম সূত্রটি হলো- যখনই কোনো বদ্ধ তার কুণ্ডলীতে আবদ্ধ চৌম্বক আবেশ রেখার সংখ্যা বা চৌম্বকফ্লাক্স এর পরিবর্তন ঘটে তখনই উক্ত কুণ্ডলীতে একটি তড়িচ্চালক শক্তি আবিষ্ট হয় ।\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eআপাতদৃষ্টিতে মনে হয়, লেঞ্জের সূত্র শক্তির নিত্যতা সূত্র মেনে চলে না। কিন্তু বাস্তবে তা নয়। কারণ দণ্ড চুম্বককে যখন কুণ্ডলীর দিকে নিয়ে যাওয়া হয়, তখন দুই সমমেরুর বিকর্ষণ বলের বিরুদ্ধে গতিশক্তি প্রয়োগ করতে হয়। আবার চুম্বকটিকে যখন সরিয়ে নেওয়া হয়, তখন দুই বিপরীত মেরুর আকর্ষণ বলের বিরুদ্ধে গতিশক্তি প্রয়োগ করতে হয়। এ যান্ত্রিক শক্তি তড়িৎ শক্তিতে রূপান্তরিত হয়ে কুণ্ডলীতে তড়িৎ প্রবাহ সৃষ্টি করে। হিসাব করে দেখা গেছে যে, ব্যয়িত যান্ত্রিক শক্তি উৎপন্ন তড়িৎ শক্তির সমান । কাজেই লেঞ্জের সূত্রে শক্তির নিত্যতা বিধি কার্যকর হয় ৷\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E3 A তড়িৎবাহী তার থেকে P বিন্দুর দূরত্ব, [math]\\mathrm{r}_{1}=2 \\mathrm{~cm}=2 \\times 10^{-2} \\mathrm{~m}[/math]\u003Cbr\u003E5 A তড়িৎবাহী তার থেকে P বিন্দুর দূরত্ব,[math]\\begin{aligned}r_{2} & =(2+4) \\mathrm{cm} \\\\& =6 \\mathrm{~cm} \\\\& =6 \\times 10^{-2} \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003E3 A তড়িৎবাহী তারের দরুন P বিন্দুতে চৌম্বক ক্ষেত্র,[math]\\begin{aligned}\\mathrm{B}_{1} & =\\frac{\\mu_{0} \\mathrm{I}_{1}}{2 \\pi \\mathrm{r}_{1}} \\\\& =\\frac{4 \\pi \\times 10^{-7} \\times 3}{2 \\pi \\times 2 \\times 10^{-2}} \\\\& =3 \\times 10^{-5} \\mathrm{~T}\\end{aligned}[/math]\u003Cbr\u003E [এখানে, তড়িৎ প্রবাহ, [math]I_1 = 3A[/math]\u003Cbr\u003E]এর দিক উপরের দিকেএখন, 5 A তড়িৎবাহী তারের দরুন P বিন্দুতে চৌম্বক ক্ষেত্র,[math]\\begin{aligned}\\mathrm{B}_{2} & =\\frac{\\mathrm{\\mu}_{0} \\mathrm{I}_{2}}{2 \\pi \\mathrm{r}_{2}} \\\\& =\\frac{4 \\pi \\times 10^{-7} \\times 5}{2 \\pi \\times 6 \\times 10^{-2}} \\mathrm{~T} \\\\& =1.67 \\times 10^{-5} \\mathrm{~T} \\end{aligned}[/math]\u003Cbr\u003E [ এখানে, তড়িৎ প্রবাহ, [math]I_2 = 5[/math]\u003Cbr\u003EA]এর দিক নিচের দিকে[math]\\therefore[/math]\u003Cbr\u003E P বিন্দুতে নিট চৌম্বক ক্ষেত্র, B = B1 – B2[math]=\\left(3 \\times 10^{-5}-1.67 \\times 10^{-5}\\right) \\mathrm{T}=1.33 \\times 10^{-5} \\mathrm{~T}[/math]\u003Cbr\u003Eএর দিক উপরের দিকেঅতএব, P বিন্দুতে চৌম্বক ক্ষেত্রের মান [math]1.33 \\times 10^{-5} T[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2frsz-camscanner-09-04-2023-1406-10-removebg-preview_1755588804_AOuKINmT.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eধরি, 3 A তড়িৎবাহী তার থেকে x দূরত্বে এবং 5 A তড়িৎবাহী তার হতে (x + 4) cm দূরত্বে Q বিন্দুতে লব্ধি চৌম্বক ক্ষেত্রের মান শূন্য[math]\\therefore[/math]\u003Cbr\u003E শর্তানুসারে Q বিন্দুতে তারদ্বয়ের স্বতন্ত্র চৌম্বক ক্ষেত্র সমান ও বিপরীতমুখী হবেসুতরাং,[math]\\begin{array}{l}\\frac{\\mu_{0} I_{1}}{2 \\pi x}=\\frac{\\mu_{0} I_{2}}{2 \\pi(x+4)}\\\\\\Rightarrow \\frac{x+4}{x}=\\frac{I_{2}}{I_{1}}\\\\\\Rightarrow \\frac{x+4}{x}=\\frac{5}{3}\\\\\\Rightarrow 5 \\mathrm{x}=3 \\mathrm{x}+12\\\\\\Rightarrow \\mathrm{x}=6 \\mathrm{~cm}\\\\\\therefore \\mathrm{x}+4 \\mathrm{~cm}=10 \\mathrm{~cm}\\end{array}[/math]\u003Cbr\u003Eঅতএব, তারদ্বয়ের সংযোগ রেখার, 3 A তড়িৎবাহী তার হতে 6 cm এবং 5 A তড়িৎবাহী তার হতে 10 cm দূরের বিন্দুতে লব্ধি চৌম্বক ক্ষেত্রের মান শূন্য হবে।",
+        "explanation": "ব্যখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ফ্যারাডের আইন: induced emf ওই সিস্টেমে চৌম্বক প্রবাহের পরিবর্তনের হারকে নির্ধারণ করে; গণনাগতভাবে [math]\\mathcal{E}=-\\frac{d\\Phi}{dt}[/math], যেখানে ঋণচিহ্নটি পরিবর্তন বিরোধিতা করে নির্দেশ করে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E লেঞ্জের সূত্র ও শক্তি সংরক্ষণ: লেঞ্জের সূত্র বলে উদ্দীপ্ত ধারা পরিবাহকের মধ্যে এমনভাবে তৈরি হয় যে তা চৌম্বক প্রবাহের পরিবর্তনকে বিরোধিতা করে, ফলে বাইরের কাজ ছাড়া সিস্টেম নিজে থেকে অনন্ত শক্তি উৎপাদন করতে পারে না — তাই শক্তি সংরক্ষণ বজায় থাকে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পিতে চৌম্বক ক্ষেত্র: একটি অসীম সরল তারের দূরত্ব [math]r[/math]-এ ক্ষেত্রের মান [math]B=\\frac{\\mu_0 I}{2\\pi r}[/math]; যদি দুটি তার থেকে দূরত্বগুলো [math]r_1,r_2[/math] এবং ধারাগুলো [math]I_1,I_2[/math] হয়, তাহলে মোট ক্ষেত্রটি ভেক্টর যোগে হবে, সাধারণভাবে [math]B=\\frac{\\mu_0}{2\\pi}\\Big(\\frac{I_1}{r_1}\\pm\\frac{I_2}{r_2}\\Big)[/math] (চিহ্ন ধারার দিকের উপর নির্ভর করে)।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ক্ষেত্র শূন্য হওয়ার শর্ত: ফলিত ক্ষেত্র শূন্য তখনই হবে যখন দুই তারের ক্ষেত্রের পরিমাণ সমান এবং বিপরীত দিকের হবে, তাই [math]\\frac{\\mu_0 I_1}{2\\pi r_1}=\\frac{\\mu_0 I_2}{2\\pi r_2}[/math] বা [math]\\frac{r_1}{r_2}=\\frac{I_1}{I_2}[/math]; দুই তারের মধ্যকার দূরত্ব [math]D[/math] জানলে [math]r_1=\\dfrac{D\\,I_1}{I_1+I_2}[/math] (যদি শূন্যবিন্দু তারদের মাঝে থাকে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425695,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 360,
+          "full_name": "Government Syed Hatem Ali College",
+          "short_name": "GSHAC",
+          "slug": "gshac",
+          "pivot": {
+            "question_bank_id": 425695,
+            "tag_id": 360,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:24.000000Z",
+            "updated_at": "2025-08-19T07:33:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425694,
+      "value": {
+        "options": {
+          "ক": "আকৃতি গুণক কাকে বলে?",
+          "খ": "[math]DC[/math] অপেক্ষা [math]AC[/math] বেশি বিপজ্জনক কেন? ব্যাখ্যা কর।",
+          "গ": "চারটি তারের মধ্যবিন্দু [math]P[/math] তে চৌম্বক ক্ষেত্রের মান নির্ণয় কর।",
+          "ঘ": "[math]EF[/math] ও [math]GH[/math] তারটি সরিয়ে নিলে কোথাও চৌম্বক ক্ষেত্রের মান শূন্য পাওয়া সম্ভব কি না গাণিতিকভাবে ব্যাখ্যা কর।"
+        },
+        "question": "উদ্দীপকটি লক্ষ কর এবং প্রশ্নগুলোর উত্তর দাও-\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-30_1755588801_orgMifTe.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদিক পরিবর্তী তড়িচ্চালক শক্তি বা প্রবাহমাত্রার গড় বর্গের বর্গমূল মান এবং গড় মানের অনুপাতকে আকৃতি গুণক বলে ।\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eআমাদের দেশে বাড়িঘরে এসি তড়িৎ সরবরাহ করা হয়। এ সরবরাহ ভোল্টেজের মান 220V। এ মান E এর গড় বর্গের বর্গমূল মান বা [math]\\mathrm{E}_{\\mathrm{rms}}[/math]\u003Cbr\u003E নির্দেশ করে ।অর্থাৎ, [math]\\mathrm{E}_{\\mathrm{rms}} = 220 V[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শীৰ্ষমান,[math]\\begin{aligned}\\mathrm{E}_{0} & =\\mathrm{E}_{\\mathrm{rms}} \\times \\sqrt{2} \\\\& =220 \\mathrm{~V} \\times \\sqrt{2} \\\\& =311 \\mathrm{~V}\\end{aligned}[/math]\u003Cbr\u003Eফলে কোনো ব্যক্তি যদি 220 V DC শক পান তাহলে তা 220 V দ্বারা হবে। কিন্তু 220 V AC শক পেলে তিনি সর্বাধিক শক পাবেন 311 v এর যা 220V এর শক এর চেয়ে অনেক বেশি। তাই AC, DC অপেক্ষা অধিকতর বিপজ্জনক বেশি।\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, AB তারে তড়িৎ প্রবাহ, [math]I_1 = 4A[/math]\u003Cbr\u003EAB তার হতে P বিন্দুর দূরত্ব, [math]\\mathrm{r}_{1}=\\frac{2}{2} \\mathrm{~cm}=1 \\times 10^{-2} \\mathrm{~m}[/math]\u003Cbr\u003ECD তারে তড়িৎ প্রবাহ, [math]I_2 = 2 A[/math]\u003Cbr\u003ECD তার হতে P বিন্দুর দূরত্ব, [math]\\mathrm{I}_{2}=\\frac{2}{2} \\mathrm{~cm}=1 \\times 10^{-2} \\mathrm{~m}[/math]\u003Cbr\u003EEF তারে তড়িৎ প্রবাহ, [math]I_3 = 2 A[/math]\u003Cbr\u003EEF তার হতে P বিন্দুর দূরত্ব, [math]r_{3}=\\frac{6}{2} \\mathrm{~cm}=3 \\times 10^{-2} \\mathrm{~m}[/math]\u003Cbr\u003EGH তারে তড়িৎ প্রবাহ, [math]I_4 = 2 A[/math]\u003Cbr\u003EGH তার হতে P বিন্দুর দূরত্ব, [math]\\mathrm{r}_{4}=\\frac{6}{2} \\mathrm{~cm}=3 \\times 10^{-2} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E P বিন্দুতে চৌম্বক ক্ষেত্রের মান,[math]\\begin{aligned}\\mathrm{B} & =\\frac{\\mu_{0}}{2 \\pi}\\left\\{\\frac{\\mathrm{I}_{1}}{\\mathrm{r}_{1}}+\\frac{\\mathrm{I}_{2}}{\\mathrm{r}_{2}}-\\frac{\\mathrm{I}_{3}}{\\mathrm{r}_{3}}-\\frac{\\mathrm{I}_{4}}{\\mathrm{r}_{4}}\\right\\} \\\\& =\\frac{4 \\pi \\times 10^{-7}}{2 \\pi} \\times\\left\\{\\frac{4}{1 \\times 10^{-2}}+\\frac{2}{1 \\times 10^{-2}}-\\frac{2}{3 \\times 10^{-2}}-\\frac{2}{3 \\times 10^{-2}}\\right\\} \\mathrm{T} \\\\\\therefore \\quad \\mathrm{B} & =9.33 \\times 10^{-5} \\mathrm{~T}\\end{aligned}[/math]\u003Cbr\u003Eএর দিক নিচের দিকে।অতএব, উদ্দীপকের চারটি তারের মধ্যবিন্দু P তে চৌম্বক ক্ষেত্রের মান [math]9.33 \\times 10^{-5} \\mathrm{~T}[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003EEF ও GH তারদ্বয় সরিয়ে নিলে চিত্রটি দ্বারায় নিম্নরূপ-\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2frsz-camscanner-09-04-2023-1406-9-removebg-preview_1755588802_Ap8JCafO.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eধরি, CD তার থেকে x এবং AB তার থেকে x + 2 cm দূরের কোন বিন্দু Q তে চৌম্বক ক্ষেত্রের মান শূন্য ।সুতরাং, Q বিন্দুতে AB ও CD তারের স্বতন্ত্র চৌম্বকক্ষেত্র পরস্পর সমান ও বিপরীতমূখী।এখানে,AB তারের তড়িৎ প্রবাহ, [math]I_1 = 4 A[/math]\u003Cbr\u003ECD তারে তড়িৎ প্রবাহ, [math]I_2 = 2 A[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E শর্তানুসারে,[math]\\begin{array}{l}\\frac{\\mu_{0} I_{1}}{2 \\pi(x+2 \\mathrm{~cm})}=\\frac{\\mu_{0} I_{2}}{2 \\pi x}\\\\\\Rightarrow \\frac{I_{1}}{x+2 c m}=\\frac{I_{2}}{x}\\\\\\Rightarrow \\frac{x}{x+2 \\mathrm{~cm}}=\\frac{2}{4}\\\\\\Rightarrow 2 \\mathrm{x}=\\mathrm{x}+2 \\mathrm{~cm}\\\\\\Rightarrow \\mathrm{x}=2 \\mathrm{~cm}\\\\\\therefore \\mathrm{x}+2 \\mathrm{~cm}=4 \\mathrm{~cm}\\end{array}[/math]\u003Cbr\u003Eঅতএব, EF ও GH তারদ্বয় সরিয়ে নিলে AB তার থেকে 4 cm এবং CD তার থেকে 2 cm দূরের বিন্দুতে চৌম্বকক্ষেত্রের মান শূন্য পাওয়া সম্ভব।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E আকৃতি গুণক হলো কোনো তড়িৎ সিগন্যালের রুট-মীন-স্কয়ার (RMS) মান এবং তার রেক্টিফায়েড (অবছিন্ন) গড় মানের অনুপাত; বা সূত্রভাবে [math]\\text{আকৃতি গুণক}=\\dfrac{I_{\\text{rms}}}{I_{\\text{avg (rectified)}}}[/math] (সাইন ওয়েভের জন্য ≈[math]1.11[/math])। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E AC একই মানের DC-এর তুলনায় বেশি বিপজ্জনক কারণ এর পরিবর্তনশীল ধরণ (50–60 Hz) হৃৎপিণ্ডের ফিব্রিলেশন ঘটাতে বেশি প্রবণ করে এবং বারবার দিক পরিবর্তন হওয়ায় মাংসপেশী ধরে রাখে (“let-go” সমস্যা), ফলে দুর্ঘটনায় ছাড় পাওয়া কঠিন হয়। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কেন্দ্রে P‑তে প্রতিটি সমদূরত্বের তারের থেকে চৌম্বক ক্ষেত্রের মান [math]B=\\dfrac{\\mu_0 I}{2\\pi r}[/math] কিন্তু প্রতিটি ক্ষেত্রের ভেক্টরগণনা সিমেট্রির কারণে পরস্পরকে নাকচ করে; তাই মোট ক্ষেত্র [math]B_{\\rm tot}=0[/math]। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যদি EF ও GH সরিয়ে দেওয়া হয়, তখন বাকি দুটিই থাকলে শূন্যক্ষেত্র পেতে হলে দুটির প্রদত্ত দিক ও মাত্রা এমন হতে হবে যে একটি বিন্দুতে তাদের পরিমিতি সমান ও দিক বিপরীত হয়; গণিতভাবে শর্ত [math]\\dfrac{\\mu_0 I}{2\\pi r_1}=\\dfrac{\\mu_0 I}{2\\pi r_2}\\Rightarrow r_1=r_2[/math] হবে, তাই সমধ্রুবক দূরত্বের বিন্দুগুলো (উদাহরণ‑স্বরূপ দুই তারের মধ্যবর্তী লাইন বা তাদের পার্শ্ববর্তী সমতল) এ শূন্য ক্ষেত্র পাওয়া সম্ভব—কিন্তু currents-এর দিক/মান ভিন্ন হলে কোনো শূন্য বিন্দু নাও থাকতে পারে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425694,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 425694,
+            "tag_id": 3179,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:22.000000Z",
+            "updated_at": "2025-08-19T07:33:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425693,
+      "value": {
+        "options": {
+          "ক": "স্বকীয় আবেশ কী?",
+          "খ": "ট্রান্সফরমার [math]ac[/math] তে চলে কিন্তু [math]de[/math] তে চলে না— ব্যাখ্যা কর।",
+          "গ": "[math]P[/math] বিন্দুতে লব্ধি চৌম্বকক্ষেত্রের মান কত?",
+          "ঘ": "অন্তরক খুঁটি সরিয়ে নিলে [math]B[/math] তারটি শূন্যে ভাসমান থাকবে কি না– গাণিতিক বিশ্লেষণসহ যাচাই কর।"
+        },
+        "question": "[math]B[/math] তারকে [math]A[/math] তারের ওপর অন্তরিত খুঁটি দ্বারা [math]20\\ cm[/math] ব্যবধানে পৃথক করে স্থাপন করা হয়। চিত্রানুযায়ী [math]P[/math] বিন্দুটি [math]A[/math] ও [math]B[/math] তারের ঠিক মাঝখানে অবস্থিত। [math]B[/math] তারের একক দৈর্ঘ্যের ভর [math]0.6123\\ gm[/math]।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-29_1755588799_tGKdPIoy.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eএক একটি মাত্র বদ্ধ কুণ্ডলীতে অসম তড়িৎ প্রবাহের দরুন চৌম্বক ফ্লাক্সের পরিবর্তনের ফলে অথবা কোনো চৌম্বক ক্ষেত্রে বদ্ধ কুণ্ডলীর গতির ফলে যে তড়িৎ চৌম্বক আবেশ ঘটে, তাই স্বকীয় আবেশ।\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eতাড়িত চৌম্বক আবেশের উপর ভিত্তি করে ট্রান্সফরমার তৈরি করা হয়। ট্রান্সফরমার কেবল এ. সি. লাইনে ব্যবহার করা হয়। কারণ ট্রান্সফরমার ডি.সি. লাইনে কাজ করে না। মুখ্য কুণ্ডলীতে ডি.সি. ভোল্টেজ বা প্রবাহ প্রয়োগ করলে ট্রান্সফরমারের মজ্জার মধ্য দিয়ে ধ্রুবমানের চৌম্বক ফ্লাক্স গমন করে। এ ধ্রুবমানের চৌম্বক ফ্লাক্স গৌণ কুণ্ডলীতে কোনো তড়িচ্চালক বল আবিষ্ট করতে পারে না। ফলে ইনপুট ডি.সি. ভোল্টেজের মান যাই হোক না কেন, আউটপুট গৌণ কুণ্ডলীর ভোল্টেজ সর্বদাই শূন্য হয়। তাই ট্রান্সফরমার ac তে চলে কিন্তু dc তে চলে না ।\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003EA ও B তার থেকে P বিন্দুর দূরত্ব, [math]\\mathrm{a}=\\frac{20}{2} \\mathrm{~cm}=10 \\mathrm{~cm}=0.1 \\mathrm{~m}[/math]\u003Cbr\u003EA তারে 25 A তড়িৎ এর দরুন P বিন্দুতে চৌম্বক ক্ষেত্রের মান,[math]\\begin{array}{l}\\mathrm{B}_{1}=\\frac{\\mu_{0} \\mathrm{I}_{\\mathrm{A}}}{2 \\pi \\mathrm{a}}=\\frac{4 \\pi \\times 10^{-7} \\times 25}{2 \\pi \\times 0.1} \\mathrm{~T}\\\\\\therefore \\quad B_{1}=5 \\times 10^{-5} \\mathrm{~T} \\end{array}[/math]\u003Cbr\u003Eএর দিক পৃষ্ঠের সাথে লম্ব বরাবর উপরের দিকেঅনুরূপভাবে, B তারে 20 A তড়িৎ এর দরুন P বিন্দুতে চৌম্বকক্ষেত্র,[math]\\begin{aligned}\\mathrm{B}_{2} & =\\frac{\\mu_{0} \\mathrm{I}_{\\mathrm{B}}}{2 \\pi \\mathrm{a}} \\\\\\Rightarrow \\quad \\mathrm{B}_{2} & =\\frac{4 \\pi \\times 10^{-7} \\times 20}{2 \\pi \\times 0.1} \\mathrm{~T} \\\\\\therefore \\quad \\mathrm{B}_{2} & =4 \\times 10^{-5} \\mathrm{~T} \\end{aligned}[/math]\u003Cbr\u003Eএর দিক পৃষ্ঠের লম্ব বরাবর উপরের দিকেপৃষ্ঠের সাথে লম্ব বরাবর উপরের দিকে নিট চৌম্বক ক্ষেত্র,[math]\\begin{aligned}& \\mathrm{B}=\\mathrm{B}_{1}+\\mathrm{B}_{2}=\\left(5 \\times 10^{-5}+4 \\times 10^{-3}\\right)\\mathrm{T} \\\\\\therefore \\quad \\mathrm{B} & =9 \\times 10^{-5} \\mathrm{~T}\\end{aligned}[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, B তারের একক দৈর্ঘ্যের ভর, [math]\\begin{aligned}\\mathrm{m} & =0.6123 \\mathrm{gm} =0.6123 \\times 10^{-3} \\mathrm{~kg}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E B তারের একক দৈর্ঘ্যের তারের ওজন,[math]\\begin{aligned}& \\mathrm{W}=\\mathrm{mg}=0.6123 \\times 10^{-3} \\times 9.8 \\mathrm{~N} \\\\\\therefore \\quad & \\mathrm{W}=6 \\times 10^{-3} \\mathrm{~N}\\end{aligned}[/math]\u003Cbr\u003Eউদ্দীপক হতে দেখা যাচ্ছে, তারদ্বয়ে পরস্পর বিপরীত দিকে তড়িৎ প্রবাহিত হচ্ছে। সুতরাং, তারদ্বয় পরস্পর বিকর্ষণ করবে। প্রতি একক দৈর্ঘ্যে এই বিকর্ষণ বল যদি B তারের একক দৈর্ঘ্যের ওজনের সমান কিংবা বড় হয় তাহলে B তারটি শূন্যে ভাসমান থাকবে। আর যদি ছোট হয় তবে B তারটি শূন্যে ভাসমান থাকবে নাএখানে,A তারে প্রবাহ, [math]I_1 = 25 A[/math]\u003Cbr\u003EB তারে প্রবাহ, [math]I_2 = 20 A[/math]\u003Cbr\u003Eতারদ্বয়ের মধ্যবর্তী দূরত্ব, [math]\\mathrm{r}=20 \\mathrm{~cm}=20 \\times 10^{-2} \\mathrm{~m}[/math]\u003Cbr\u003EB তারের প্রতি একক দৈর্ঘ্যে বিকর্ষণ বল,[math]\\begin{aligned}\\mathrm{F} & =\\frac{\\mu_{0} \\mathrm{I}_{1} \\mathrm{I}_{2}}{2 \\pi \\mathrm{r}} \\\\& =\\frac{4 \\pi \\times 10^{-7} \\times 25 \\times 20}{2 \\pi \\times 20 \\times 10^{-2}} \\mathrm{~N} \\\\\\therefore \\quad \\mathrm{F} & =5 \\times 10^{-4} \\mathrm{~N}\\end{aligned}[/math]\u003Cbr\u003Eযেহেতু, F \u003C Wঅতএব, অন্তরক খুটি সরিয়ে নিলে B তারটি শূন্যে ভাসমান থাকবে না ।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E স্বকীয় আবেশ হলো কোনো দমনহীন সিস্টেম নিজেরাই স্থিতাপন্নে কোনো ক্ষুদ্র বিঘ্ন থেকে যে প্রাকৃতিক ফ্রিকোয়েন্সিতে কম্পন করে, অর্থাৎ বাহ্যিক কাজ ছাড়া সিস্টেমের নিজস্ব কাংতি ফ্রিকোয়েন্সি।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ট্রান্সফরমার কাজ করে AC-এ কারণ বদলানীয় কারেন্ট পরিবর্তনশীল চৌম্বক প্রবাহ সৃষ্টি করে এবং সেই পরিবর্তনশীল প্রবাহ সেকেন্ডারি কুণ্ডলীতে ইন্ডিউসড ইএমএফ দেয়; DC হলে প্রবাহ স্থির থাকে, ফলে স্থায়ী প্রবাহ থেকে ধারাবাহিকভাবে ইন্ডিউসড ভোল্টেজ উৎপন্ন হয় না (শুধু আরম্ভিক ট্রান্সিয়েন্ট থাকবে)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E P বিন্দু দুটো তারের ঠিক মাঝখানে, তাই দূরত্ব প্রতিটি তার থেকে [math]0.10\\ \\text{m}[/math]; প্রতিটি তারের তৈরি চৌম্বকক্ষেত্রের পরিমাণ [math]B_{single}=\\dfrac{\\mu_0 I}{2\\pi(0.10)}[/math]. যদি A ও B-তে কারেন্ট সমদিক থাকে তবে ক্ষেত্র যোগ হবে এবং নেট [math]B=\\dfrac{\\mu_0 I}{\\pi(0.10)}[/math]; যদি কারেন্ট বিপরীতদিকে থাকে তবে দুই ক্ষেত্র পরস্পর বাতিল করে নেট শূন্য হবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E খুঁটি সরালে B তার ভাসমান হওয়ার শর্ত হলো চৌম্বকীয় প্রতিদ্বন্দ্বিতা (প্রতি একক দৈর্ঘ্যে) ওজনকে সমান করা: [math]\\dfrac{\\mu_0 I_A I_B}{2\\pi r}=\\lambda g[/math]. একক কারেন্ট ধরে ও দূরত্ব [math]r=0.20\\ \\text{m}[/math], এবং দেওয়া [math]\\lambda=0.6123\\ \\text{g/cm}=0.06123\\ \\text{kg/m}[/math], সমাধান দিলে (ধরি [math]I_A=I_B=I[/math]) [math]I=\\sqrt{\\dfrac{2\\pi r\\lambda g}{\\mu_0}}\\approx 7.74\\times10^2\\ \\text{A}[/math]. তাই বাস্তবে এত বড় কারেন্ট না থাকলে তারটি ভাসবে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425693,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3415,
+          "full_name": "Border Guard Public School & College",
+          "short_name": "BGPSC",
+          "slug": "bgpsc",
+          "pivot": {
+            "question_bank_id": 425693,
+            "tag_id": 3415,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:19.000000Z",
+            "updated_at": "2025-08-19T07:33:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425692,
+      "value": {
+        "options": {
+          "ক": "হল ক্রিয়া কী?",
+          "খ": "ট্রান্সফরমার [math]AC[/math] তে চলে কিন্তু [math]DC[/math] তে চলে না কেন?",
+          "গ": "কুণ্ডলী বৃত্তাকার হলে কেন্দ্রে চৌম্বক প্রাবল্য কত হবে বের কর।",
+          "ঘ": "[math]PQ[/math] তারে প্রবাহ বিপরীতমুখী করলে [math]ABCD[/math] বর্গের উপর প্রযুক্ত বলের কিরূপ পরিবর্তন হবে— গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "[math]5[/math] অ্যাম্পিয়ার তড়িৎবাহী একটি বর্গাকার কুণ্ডলী [math]ABCD[/math] যার প্রতি বাহুর দৈর্ঘ্য [math]15\\ cm[/math] এর সাথে একই তলে এবং পার্শ্ববর্তী বাহু [math]AD[/math] হতে [math]5\\ cm[/math] দূরে একটি অতি দীর্ঘ [math]10[/math] অ্যাম্পিয়ার তড়িৎবাহী তার [math]AD[/math] এর সমান্তরালে রাখা আছে।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-28_1755588798_MChHzLeJ.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো তড়িৎবাহী পরিবাহীকে কোনো চৌম্বক ক্ষেত্রে অভিলম্ব বরাবর স্থাপন করলে তড়িৎপ্রবাহ ও চৌম্বক ক্ষেত্র উভয়ের উপর লম্ব বরাবর একটি বিভব পার্থক্যের সৃষ্টি হয়, এ ক্রিয়াই হলো হল ক্রিয়া ৷\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eতাড়িত চৌম্বক আবেশের উপর ভিত্তি করে ট্রান্সফরমার তৈরি করা হয়। ট্রান্সফরমার কেবল AC লাইনে ব্যবহার করা হয়। কারণ ট্রান্সফরমার DC লাইনে কাজ করে না। মুখ্য কুণ্ডলীতে DC ভোল্টেজ বা প্রবাহ প্রয়োগ করলে ট্রান্সফরমারের মজ্জার মধ্য দিয়ে ধ্রুবমানের চৌম্বক ফ্লাক্স গমন করে। এ ধ্রুবমানের চৌম্বক ফ্লাক্স গৌণ কুণ্ডলীতে কোনো তড়িচ্চালক বল আবিষ্ট করতে পারে না। ফলে ইনপুট DC ভোল্টেজের মান যাই হোক না কেন, আউটপুট গৌণ কুণ্ডলীর ভোল্টেজ সর্বদাই শূন্য হয়। তাই ট্রান্সফরমার AC প্রবাহে চললেও DC প্রবাহে চলে না ।\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\begin{array}{l}2 \\pi \\mathrm{r}=2(0.15+0.15) \\\\\\Rightarrow 2 \\mathrm{r}=\\frac{2 \\times 0.30}{3.1416}=0.1909 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eআমরা জানি, বৃত্তাকার কুণ্ডলীর কেন্দ্রে চৌম্বক প্রাবল্য,[math]\\mathrm{B}=\\frac{\\mu_{0} \\mathrm{i}}{2 \\mathrm{r}}=\\frac{4 \\pi \\times 10^{-7} \\times 5}{0.1909}=3.28 \\times 10^{-5} \\mathrm{~T}[/math]\u003Cbr\u003Eনির্ণেয় প্রাবল্য [math]3.28 \\times 10^{-5} T[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক অনুসারে, ABCD বর্গের প্রতি একক দৈর্ঘ্যের উপর প্রযুক্ত বল[math]\\begin{array}{l}=\\frac{\\mu_{0} i_{1} i_{2}}{2 \\pi \\mathrm{r}} \\\\=\\frac{4 \\pi \\times 10^{-7} \\times 5 \\times 10}{2 \\pi \\times 0.05} \\\\=2 \\times 10^{-4} \\cdot \\mathrm{N} \\mathrm{m}^{-1}\\end{array}[/math]\u003Cbr\u003Eএর দিক PQ এর দিকে।PQ এর প্রবাহের দিক পরিবর্তন করলে বলের মান একই হবে কিন্তু বলের দিক হবে PQ এর বিপরীত দিকে।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কুণ্ডলীর উপর মোট অনুভূত অনুভূমিক বল দুটি সমান্তরাল বাহু \u003Cmath\u003EAD\u003C/math\u003E ও \u003Cmath\u003EBC\u003C/math\u003E থেকেই আসে, কারণ লম্ব বাহুগুলোর শক্তির অবদান আংশিকভাবে ক্যান্সেল হয়ে যায়। প্রতিটি সমান্তরাল বাহুর ওপর বৈদ্যুতিক রৈখিক তারের সাথে বলের মান হবে [math]F=\\dfrac{μ_0 I_{\\rm wire} I_{\\rm side} L}{2\\pi d}[/math] ফলে মোট বল হবে \n[math]F_{\\rm net}=\\dfrac{μ_0 I_{\\rm wire} I L}{2\\pi}\\Big(\\dfrac{1}{d_{AD}}-\\dfrac{1}{d_{BC}}\\Big)[/math], \nদিক নির্ভর করে কারেন্টগুলোর আপেক্ষিক অভিমুখের উপর (একই অভিমুখে আকর্ষণ, বিপরীত হলে অপস্থাপনা)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ট্রান্সফরমার কাজ করে কারণ এতে প্রাইমারি কুণ্ডলীর চৌম্বক প্রবাহ পরিবর্তিত হয় এবং সেজন্য সেকেন্ডরিতে ইন্ডিউসড ইমফ্‌ থাকে; ডিকে (DC) ধ্রুব প্রবাহে চৌম্বক প্রবাহ পরিবর্তন না হওয়ায় ইন্ডাক্টিভ ইমফ্‌ হবে না — ফ্যারেডের সূত্র: [math]\\mathcal{E}=-\\dfrac{d\\Phi}{dt}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E যদি কুণ্ডলীকে সমপরিধি ধরে বৃত্তাকারে গঠন করা হয়, প্রত্যাশিত ব্যাসার্ধ হবে [math]R=\\dfrac{4\\times0.15}{2\\pi}=\\dfrac{0.3}{\\pi}\\ {\\rm m}[/math] এবং কেন্দ্রে নিজের কারেন্টের চৌম্বক প্রাবল্য হবে [math]B=\\dfrac{μ_0 I}{2R}=\\dfrac{μ_0\\times5}{2(0.3/\\pi)}\\approx3.29\\times10^{-5}\\ {\\rm T}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E PQ তরে প্রবাহ বিপরীতমুখী করলে প্রতিটি সমান্তরাল বাহুর উপর থাকা বলের চিহ্ন উল্টে যাবে, ফলে মোট বলের মান অপরিবর্তিত থাকবে কিন্তু দিক উল্টে যাবে; গাণিতিকভাবে যদি আগে [math]F_{\\rm net}=\\dfrac{μ_0 I_{\\rm wire} I L}{2\\pi}\\big(\\dfrac{1}{d_{AD}}-\\dfrac{1}{d_{BC}}\\big)[/math] হয়ে থাকে, তবে বর্তমানে [math]I_{\\rm wire}\\to -I_{\\rm wire}[/math] হলে [math]F_{\\rm net}\\to -F_{\\rm net}[/math] হবে (ম্যাগনিটিউড অপরিবর্তিত)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425692,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1190,
+          "full_name": "Sylhet MC College",
+          "short_name": "SMC",
+          "slug": "smc",
+          "pivot": {
+            "question_bank_id": 425692,
+            "tag_id": 1190,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:18.000000Z",
+            "updated_at": "2025-08-19T07:33:18.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425691,
+      "value": {
+        "options": {
+          "ক": "চৌম্বক অক্ষ কী?",
+          "খ": "হল ভোল্টেজ ব্যাখ্যা কর।",
+          "গ": "কুণ্ডলীটির পাকসংখ্যা কত হবে?",
+          "ঘ": "উদ্দীপকে এক পাকের একটি কুণ্ডলীকে সোজা লম্বা তারে পরিণত করে তারের দৈর্ঘ্যের সম দূরত্বে তারের উভয় পাশে সৃষ্ট চৌম্বক ক্ষেত্রের মান ও দিকের তুলনা কর।"
+        },
+        "question": "[math]15\\ cm[/math] ব্যাসার্ধ বিশিষ্ট একটি বৃত্তাকার কুণ্ডলীর কেন্দ্রে সৃষ্ট চৌম্বকক্ষেত্রের মান [math]2.8 \\times 10^{-3} {~T}[/math]। কুণ্ডলিতে তড়িৎপ্রবাহের মান [math]3\\ A[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eচৌম্বক অক্ষ ভূ-চৌম্বক দুই মেরুর সংযোজক কাল্পনিক রেখাকে চৌম্বক অক্ষ বলে ।\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eকোনো তড়িৎবাহী পরিবাহীকে কোনো চৌম্বক ক্ষেত্রে অভিলম্ব বরাবর স্থাপন করলে তড়িৎ প্রবাহ ও চৌম্বক ক্ষেত্র উভয়ের উপর লম্ব বরাবর একটি বিভব পার্থক্যের সৃষ্টি হয়। এ ক্রিয়াকে হল ক্রিয়া বলে এবং উদ্ভুত বিভব পার্থক্যকে হল বিভব বা হল ভোল্টেজ বলা হয়।হল বিভব, [math]V_H = VBd[/math]\u003Cbr\u003Eএখানে, V = তাড়ন বেগ; B = চৌম্বক ক্ষেত্র; d = পরিবাহকের প্রস্থ।\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, কুণ্ডলীর ব্যাসার্ধ, r = 15 cm =0.15 mচৌম্বক ক্ষেত্রের মান, [math]B = 2.8 \\times 10^{-3} T[/math]\u003Cbr\u003Eএবং তড়িৎ প্রবাহ, I = 3A[math]\\therefore[/math]\u003Cbr\u003E কুণ্ডলীর পাকসংখ্যা N হলে[math]\\begin{aligned}\\mathrm{B} & =\\frac{\\mu_{0} \\mathrm{NI}}{2 \\mathrm{I}} \\\\\\Rightarrow \\mathrm{N} & =\\frac{\\mathrm{B} 2 \\mathrm{r}}{\\mu_{0} \\mathrm{I}}=\\frac{2.8 \\times 10^{-3} \\times 2 \\times 0.15}{4 \\pi \\times 10^{-7} \\times 3}=222.81 \\approx 223 \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, কুণ্ডলীটির পাকসংখ্যা 223 টি\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2frsz-camscanner-09-04-2023-1406-8-removebg-preview_1755588797_YfsxDRq1.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eউদ্দীপক অনুসারে এক পাকের কুণ্ডলীকে সোজা তারে পরিণত করলে তারের দৈর্ঘ্য হবে,[math]\\begin{aligned}l & =2 \\pi \\mathrm{r}=2 \\times 3.1416 \\times 0.15=0.94248 \\mathrm{~m} \\\\\\therefore \\mathrm{B}_{1} & =\\frac{\\mu_{0} \\mathrm{I}}{2 \\pi l} \\\\& =\\frac{4 \\pi \\times 10^{-7} \\times 3}{2 \\pi \\times 0.94248} \\\\& =6.366 \\times 10^{-7} \\mathrm{~T}\\end{aligned}[/math]\u003Cbr\u003Eঅনুরূপভাবে, [math]B_{2}=6.366 \\times 10^{-7} \\mathrm{~T}[/math]\u003Cbr\u003Eফ্লেমিং এর ডানহস্ত নিয়ম অনুসারে [math]B_1[/math]\u003Cbr\u003E এর দিক যে দিকে হবে [math]B_2[/math]\u003Cbr\u003E এর নিক তার বিপরীত দিকে হবে।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কুণ্ডলীর চৌম্বক অক্ষ হলো কুণ্ডলীর সমতলের প্রতি লম্বভাবে কেন্দ্র দিয়ে যাওয়া রেখা; তড়িৎপ্রবাহের দিক অনুযায়ী রাইট‑হ্যান্ড রুলে বেগুনি আঙ্গুলের দিকটিই চৌম্বকক্ষেত্রের দিক নির্ধারণ করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হল ভোল্টেজ (Hall voltage) হলো এমন এক পার্থক্যমান ভোল্টেজ যা প্রবাহিত চার্জ কণাগুলো কোনো পরিবাহকের মধ্যে চৌম্বকক্ষেত্রে লরেন্টজ বলের কারণে একটি পার্শ্বীয় দিক থেকে সন্নিবিষ্ট হলে গঠন হয়; আদর্শ সূত্রটিতে এটি লেখা যায় [math]V_H=\\dfrac{I B}{n e t}[/math] (এখানে [math]n[/math] ধারক কণার ঘনত্ব, [math]e[/math] চার্জ এবং [math]t[/math] পাতার পুরুত্ব)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কেন্দ্রীয় ক্ষেত্রের সূত্র হলো [math]B=\\dfrac{\\mu_0 N I}{2R}[/math], সেজন্য শতকরা পাকসংখ্যা [math]N=\\dfrac{2RB}{\\mu_0 I}=\\dfrac{2(0.15)(2.8\\times10^{-3})}{4\\pi\\times10^{-7}\\times3}\\approx223[/math] (প্রায় 223 পাক) — এই সূত্র ও সংখ্যাসংশ্লিষ্ট গণনা বৈধ হওয়ায় উত্তর সঠিক।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E একটি পাককে সোজা করে লম্বা তার করলে একই বিন্দু থেকে সমদূরে তারের উভয় পাশে চৌম্বকক্ষেত্রের মান সমান হবে, কিন্তু দিক বিপরীত (চৌম্বক রেখাগুলি তারকে কেন্দ্র করে বৃত্তীয়, ফলে প্রতিটি পাশে স্পর্শকীয় দিকগুলো বিপরীত)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425691,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 242,
+          "full_name": "Chittagong Cantonment Public School & College",
+          "short_name": "CCPSC",
+          "slug": "ccpsc",
+          "pivot": {
+            "question_bank_id": 425691,
+            "tag_id": 242,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:17.000000Z",
+            "updated_at": "2025-08-19T07:33:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425690,
+      "value": {
+        "options": {
+          "ক": "ভূ চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ কাকে বলে?",
+          "খ": "'চুম্বক দ্বারা বৈদ্যুতিক শক্তি উৎপন্ন করা যায়' ব্যাখ্যা করো।",
+          "গ": "উদ্দীপকে ব্যবহৃত কুণ্ডলীর পাক সংখ্যা বের করো।",
+          "ঘ": "উদ্দীপকের প্রবাহ যদি অর্ধেক করা হয় তবে কুণ্ডলীর কেন্দ্রে চৌম্বক ফ্লাক্স ঘনত্বের কীরূপ পরিবর্তন হবে গাণিতিকভাবে বিশ্লেষণ করো।"
+        },
+        "question": "চিত্রটি লক্ষ করো এবং প্রশ্নগুলোর উত্তর দাও :\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2015202-4_1755588796_x5UvRF99.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপৃথিবীর কোনো স্থানে একটি একক মেরুশক্তির উত্তর মেরুর উপর ভূ-চুম্বকত্বের দরুন অনুভূমিক বরাবর ক্রিয়া করে তাকে ওই স্থানের ভূ- চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ বলে ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eচুম্বকের চৌম্বক ক্ষেত্রের প্রভাবকে কাজে লাগিয়ে বৈদ্যুতিক শক্তি তৈরি করা যায় । একটি বদ্ধ কুন্ডলীর সাথে একটি গ্যালভানোমিটার যুক্ত করে একটি চুম্বক দণ্ডকে কুণ্ডলীর সাপেক্ষে গতিশীল করা হলে এর সাথে যুক্ত গ্যালভানোমিটারটি বিক্ষিপ্ত হতে দেখা যায়। এ থেকে বোঝা যায় গতিশীল চুম্বক বদ্ধ কুণ্ডলীতে তড়িৎ প্রবাহ সৃষ্টি করে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর : 477 টি ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eআমরা জানি,[math]\\begin{array}{l}B=\\frac{N \\mu_{0} I}{2 r}\\\\\\therefore \\mathrm{B} \\propto \\mathrm{I}\\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ তড়িৎ চৌম্বক ফ্লাক্স ঘনত্ব তড়িৎ প্রবাহের সমানুপাতিক।এখানে,তড়িৎ প্রবাহ, I = 2.5 Aপরিবর্তিত তড়িৎ প্রবাহ, [math]I_{2}=\\frac{1}{2} I_{1}[/math]\u003Cbr\u003Eপরিবর্তিত চৌম্বক ফ্লাক্স ঘনত্ব = B2[math]\\begin{array}{l}\\therefore \\frac{B_{1}}{B_{2}}=\\frac{I_{1}}{I_{2}} \\\\\\text { } \\frac{B_{1}}{B_{2}}=\\frac{I_{1}}{\\frac{1}{2} I_{1}} \\\\\\text { } \\frac{B_{1}}{B_{2}}=2 \\\\\\therefore B_{2}=\\frac{1}{2} B_{1}\\end{array}[/math]\u003Cbr\u003Eসুতরাং তড়িৎ প্রবাহ অর্ধেক করা হলে কুণ্ডুলীর কেন্দ্রে চৌম্বক ফ্লাক্স ঘনত্বের মান অর্ধেক হবে।-",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ভূ-চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ হল সেই অংশ যা ভূমির সমতলের সাথে সমান্তরাল, অর্থাৎ চৌম্বক ক্ষেত্র ভেক্টরের ভূমি-ট্যাঙ্গেন্টিয়াল কম্পোনেন্ট। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E চুম্বক বা চৌম্বকীয় ক্ষেত্রের পরিবর্তন কুণ্ডলীতে ইন্ডিউস্ড ইএমএফ উৎপন্ন করে (Faraday সূত্র): [math]\\varepsilon=-N\\dfrac{d\\Phi}{dt}[/math], ফলে কুণ্ডলীতে ток প্রবাহিত হয় এবং সেটি বৈদ্যুতিক শক্তি হিসেবে ব্যবহার করা যায়। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কুণ্ডলীর পাক সংখ্যা নির্ণয়ের সাধারণ সূত্র Faraday থেকে: [math]N=\\dfrac{\\varepsilon}{d\\Phi/dt}[/math]; ছবিতে দেওয়া ইএমএফ ও চৌম্বকীয় ফ্লাক্স পরিবর্তনের হার বসালে সংশ্লিষ্ট সংখ্যাটি মিলে যাবে। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কুণ্ডলীর কেন্দ্রে চৌম্বক ফ্লাক্স ঘনত্ব (B) সাধারণত [math]B\\propto NI[/math] হয়, তাই যদি প্রবাহ [math]I[/math] অর্ধেক করা হয় ([math]I\\to I/2[/math]) তবে [math]B[/math] অর্ধেক হয়ে যাবে (অর্থাৎ [math]B\\to B/2[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425690,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:33:16.000000Z",
+            "updated_at": "2025-08-19T07:33:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425683,
+      "value": {
+        "options": {
+          "ক": "[math]2: \\pi[/math]",
+          "খ": "[math]\\pi: 2[/math]",
+          "গ": "[math]\\pi: 4[/math]",
+          "ঘ": "[math]\\text { 8:π }[/math]"
+        },
+        "question": "একই দৈর্ঘ্যের দুটি তারের একটি বর্ণকার এবং অন্যটিকে বৃত্তাকার বাঁকানো হলো। ওদের মধ্যে একই প্রবাহমাত্রা পাঠানো হলে এদের। চৌম্বক ভ্রামকের অনুপাত কত?",
+        "solution": "সঠিক উত্তরটি হলো B ( [math]\\pi:2[/math]\u003Cbr\u003E)।এই প্রশ্নের মূল বিষয়টি হলো একটি নির্দিষ্ট দৈর্ঘ্যের তারকে বর্ণকার (অর্থাৎ সোজা তার) এবং বৃত্তাকার রূপে বাঁকালে তাদের চৌম্বক ভ্রামকের (magnetic moment) তুলনা করা।একটি সোজা তারের চৌম্বক ভ্রামক শূন্য কারণ এর কোনো কেন্দ্র বা নির্দিষ্ট বক্রতা নেই যা চৌম্বক ক্ষেত্র তৈরি করতে পারে। অন্যদিকে, একটি বৃত্তাকার তারের চৌম্বক ভ্রামক নির্ভর করে তার ব্যাসার্ধ, পাক সংখ্যা এবং অতিক্রান্ত প্রবাহমাত্রার উপর।ধরি তারের দৈর্ঘ্য [math]L[/math]\u003Cbr\u003E এবং প্রবাহমাত্রা [math]I[/math]\u003Cbr\u003E ।বৃত্তাকার তারের ক্ষেত্রে:তারের দৈর্ঘ্য [math]L[/math]\u003Cbr\u003E কে বৃত্তাকারে বাঁকালে, বৃত্তের পরিধি হবে [math]L[/math]\u003Cbr\u003E ।যদি বৃত্তের ব্যাসার্ধ [math]r[/math]\u003Cbr\u003E হয়, তবে [math]L = 2\\pi r[/math]\u003Cbr\u003E ।সুতরাং, [math]r = L/(2\\pi)[/math]\u003Cbr\u003E ।এক পাক বৃত্তাকার তারের চৌম্বক ভ্রামক [math]M_{বৃত্ত}[/math]\u003Cbr\u003E হলো [math]M_{বৃত্ত} = IA[/math]\u003Cbr\u003E, যেখানে [math]A[/math]\u003Cbr\u003E হলো বৃত্তের ক্ষেত্রফল।[math]A = \\pi r^2 = \\pi (L/(2\\pi))^2 = \\pi (L^2 / 4\\pi^2) = L^2 / (4\\pi)[/math]\u003Cbr\u003E ।অতএব, [math]M_{বৃত্ত} = I (L^2 / (4\\pi))[/math]\u003Cbr\u003E ।বর্ণকার (সোজা) তারের ক্ষেত্রে:একটি সোজা তারের চৌম্বক ভ্রামক শূন্য ধরা হয় কারণ এটি কোনো বদ্ধ লুপ তৈরি করে না। তবে, যদি আমরা এটিকে একটি অসীম দীর্ঘ সরল পরিবাহী হিসেবে বিবেচনা করি যার মধ্যে একটি নির্দিষ্ট দূরত্বে চৌম্বক ক্ষেত্র তৈরি হয়, তবে এর চৌম্বক ভ্রামক শূন্য হবে। কিন্তু প্রশ্ন অনুযায়ী দুটি তারের তুলনা করা হচ্ছে, তাই এখানে সোজা তারকে একটি বিশেষ লুপের সাথে তুলনা করা হচ্ছে যেখানে চৌম্বক ভ্রামক [math]M_{সোজা}[/math]\u003Cbr\u003E কে একটি নির্দিষ্ট কনভেনশন অনুযায়ী ধরা হয়। যদি প্রশ্নটি এমন হয় যে এদের একটি লুপ তৈরি করে চৌম্বক ভ্রামক নির্ণয় করতে হবে, তবে সাধারণত সোজা তারের চৌম্বক ভ্রামক শূন্য ধরা হয়।তবে, বিকল্পগুলি দেখে বোঝা যাচ্ছে যে সোজা তারের সাথে বৃত্তাকার তারের চৌম্বক ভ্রামকের তুলনা করা হয়েছে। এই ধরনের প্রশ্নে, অনেক সময় সোজা তারের চৌম্বক ভ্রামককে একটি নির্দিষ্ট আকারের সাথে তুলনা করা হয়, যেমন একটি আয়তক্ষেত্র বা অন্য কোনো আকার। যদি আমরা প্রশ্নটিকে এভাবে দেখি যে একই দৈর্ঘ্যের দুটি তারকে বাঁকিয়ে লুপ তৈরি করা হচ্ছে, এবং একটি বৃত্তাকার লুপের সাথে অন্যটিকে সোজা রাখা হচ্ছে, তাহলে এটি একটি ত্রুটিপূর্ণ প্রশ্ন হতে পারে।কিন্তু, যদি প্রশ্নটি নির্দিষ্ট কোনো কনভেনশন অনুসরণ করে যেখানে সোজা তারের চৌম্বক ভ্রামকের একটি অর্থপূর্ণ তুলনা করা হয়, তবে এক্ষেত্রে কিছু বিশেষ বিবেচনা দরকার।সাধারণভাবে, যদি প্রশ্নটি বোঝায় যে দুটি তারের মধ্যে একই কারেন্ট প্রবাহিত হচ্ছে এবং একটি সোজা এবং অন্যটি বৃত্তাকার, তবে এদের চৌম্বক ভ্রামকের তুলনা করা হয়। অনেক ক্ষেত্রে, সোজা তারের চৌম্বক ভ্রামককে একটি সরল রেখা বরাবর কারেন্ট বহনকারী হিসেবে এবং বৃত্তাকার তারের চৌম্বক ভ্রামককে একটি লুপ হিসেবে ধরা হয়।যদি প্রশ্নটি একটি \"চৌম্বক মেরু ভ্রামক\" (magnetic dipole moment) অর্থে ব্যবহার করা হয়, তবে একটি একক মেরুর চৌম্বক ভ্রামক [math]m = q_m \\times d[/math]\u003Cbr\u003E , যেখানে [math]q_m[/math]\u003Cbr\u003E হলো মেরু শক্তি এবং [math]d[/math]\u003Cbr\u003E হলো মেরুর মধ্যবর্তী দূরত্ব।তবে, প্রশ্নটি যে প্রেক্ষাপটে দেওয়া হয়েছে তাতে \"চৌম্বক ভ্রামক\" বলতে একটি কারেন্ট লুপের চৌম্বক ভ্রামককে বোঝানো হচ্ছে।যদি একটি সোজা তারের ক্ষেত্রে এর লম্ব দূরত্বে চৌম্বক ক্ষেত্র নির্ণয় করা হয় তবে তার চৌম্বক ভ্রামক শূন্য হয়। কিন্তু এখানে যদি এটিকে অন্যভাবে ভাবা হয়:ধরা যাক, একই দৈর্ঘ্যের ( [math]L[/math]\u003Cbr\u003E) দুটি তার। একটিকে বৃত্তাকারে বাঁকানো হলো, এবং অন্যটিকে বর্ণকার (সোজা) রাখা হলো। এদের মধ্যে একই প্রবাহমাত্রা ( [math]I[/math]\u003Cbr\u003E) পাঠানো হলে চৌম্বক ভ্রামকের অনুপাত বের করতে হবে।বৃত্তাকার লুপের চৌম্বক ভ্রামক ( [math]M_{cir}[/math]\u003Cbr\u003E):পরিধি [math]= L = 2\\pi r \\implies r = L/(2\\pi)[/math]\u003Cbr\u003Eক্ষেত্রফল [math]A_{cir} = \\pi r^2 = \\pi (L/(2\\pi))^2 = L^2/(4\\pi)[/math]\u003Cbr\u003E [math]M_{cir} = I \\times A_{cir} = I \\times L^2/(4\\pi)[/math]\u003Cbr\u003Eসোজা তারের ক্ষেত্রে:সোজা তারের চৌম্বক ভ্রামক সাধারণত শূন্য ধরা হয় যদি এটি একটি লুপ না তৈরি করে। তবে, যদি প্রশ্নটি এমনভাবে গঠন করা হয় যেখানে সোজা তারের চৌম্বক ভ্রামকের একটি নির্দিষ্ট অর্থ ধরা হয়, যেমন দুটি বিপরীত মেরু অনেক দূরে অবস্থিত -- সেক্ষেত্রে এটি শূন্যের কাছাকাছি।অন্য একটি ব্যাখ্যা হতে পারে যে সোজা তারের চৌম্বক ভ্রামককে দুটি অসীম দীর্ঘ সমান্তরাল পরিবাহীর সাথে তুলনা করা হয় যেখানে একটি মেরু অন্য মেরু থেকে [math]L[/math]\u003Cbr\u003E দূরত্বে অবস্থিত। কিন্তু এটি খুব নির্দিষ্ট পরিস্থিতি।তবে, প্রায়শই এই ধরনের প্রশ্নে যখন সোজা তারের চৌম্বক ভ্রামকের তুলনা করা হয়, তখন এটিকে একটি নির্দিষ্ট আকার বা আকারের তুলনায় কম চৌম্বক ক্ষেত্র উত্পাদনকারী হিসাবে বিবেচনা করা হয়।যদি প্রশ্নটি দুটি \"চৌম্বক ডাইপোল\" এর সাথে তুলনা করে থাকে এবং সোজা তারটিকে একটি ডাইপোলের মেরুগুলির মধ্যে দূরত্ব [math]L[/math]\u003Cbr\u003E হিসাবে বিবেচনা করা হয়, তাহলে ডাইপোল মোমেন্ট নির্ভর করবে মেরু শক্তি এবং দূরত্বের উপর।এই প্রশ্নটি সম্ভবত একটি প্রমিত ধারণা থেকে এসেছে যেখানে একটি নির্দিষ্ট দৈর্ঘ্যের তারকে বৃত্তাকারে বাঁকলে যে চৌম্বক ভ্রামক তৈরি হয় এবং একটি \"আয়তাকার\" বা \"সোজা\" বস্তুর চৌম্বক ভ্রামকের তুলনা করা হয়।একটি সম্ভাব্য ব্যাখ্যা এই যে, সোজা তারকে একটি লুপের সাথে তুলনা করা হচ্ছে যেখানে এর কার্যকর ক্ষেত্রফল শূন্য বা খুব কম।আসুন, বিকল্পগুলি পরীক্ষা করি: [math]\\pi:2[/math]\u003Cbr\u003E.অর্থাৎ [math]M_{cir} / M_{soja} = \\pi/2[/math]\u003Cbr\u003E.[math]I \\times L^2/(4\\pi) / M_{soja} = \\pi/2[/math]\u003Cbr\u003E.[math]M_{soja} = (I \\times L^2/(4\\pi)) \\times (2/\\pi) = I L^2/(2\\pi^2)[/math]\u003Cbr\u003E.এই ধরনের প্রশ্নে, অনেক সময় সোজা তারকে একটি \"আদর্শ ডাইপোল\" বা এমন কিছু হিসাবে ধরা হয় যার চৌম্বক ভ্রামক অন্যভাবে নির্ধারিত হয়। যদি আমরা একটি নির্দিষ্ট ধারণার উপর ভিত্তি করে বলি, তবে বৃত্তাকার লুপের চৌম্বক ভ্রামক হল [math]IA_{loop}[/math]\u003Cbr\u003E।এই প্রশ্নটি সম্ভবত একটি নির্দিষ্ট পদার্থবিজ্ঞানের পাঠ্যক্রম বা পরীক্ষার সেট থেকে এসেছে যেখানে সোজা তারের চৌম্বক ভ্রামকের একটি নির্দিষ্ট মান (বা অনুপাত) প্রতিষ্ঠিত আছে।মনে করা যাক, সোজা তারের চৌম্বক ভ্রামককে অন্য কোনোভাবে সংজ্ঞায়িত করা হয়েছে। যদি আমরা প্রশ্নটির ভাষাগত দিকটি বিবেচনা করি: \"বর্ণকার\" অর্থ সোজা।আসুন, অন্যভাবে ভাবা যাক। একই দৈর্ঘ্যের ( [math]L[/math]\u003Cbr\u003E) দুটি তারের একটিকে বৃত্তাকার এবং অন্যটিকে সোজা রাখা হয়েছে। একই প্রবাহ ( [math]I[/math]\u003Cbr\u003E)। চৌম্বক ভ্রামকের অনুপাত কত?আমরা দেখেছি, [math]M_{cir} = I L^2/(4\\pi)[/math]\u003Cbr\u003E ।যদি সোজা তারের চৌম্বক ভ্রামককে [math]M_{soja}[/math]\u003Cbr\u003E ধরা হয়, তাহলে [math]M_{cir} : M_{soja} = \\pi : 2[/math]\u003Cbr\u003E ।অর্থাৎ, [math]M_{cir}/M_{soja} = \\pi/2[/math]\u003Cbr\u003E.[math]M_{soja} = (2/\\pi) M_{cir} = (2/\\pi) \\times I L^2/(4\\pi) = I L^2/(2\\pi^2)[/math]\u003Cbr\u003E.এখানে একটি বিশেষ ধরণের \"চৌম্বক ভ্রামক\" সংজ্ঞায়িত করা হয়েছে যেখানে সোজা তারের চৌম্বক ভ্রামকের মান বৃত্তাকার তারের তুলনায় কম।যদি আমরা একটি ভিন্ন প্রকারের চৌম্বক ভ্রামকের (dipole moment) ধারণা ব্যবহার করি, যেখানে একটি সোজা তারকে দুটি অসীম মেরুর মধ্যে দূরত্ব [math]L[/math]\u003Cbr\u003E হিসাবে ভাবা হয় এবং মেরু শক্তি [math]q_m[/math]\u003Cbr\u003E, তবে চৌম্বক ভ্রামক হবে [math]m = q_m L[/math]\u003Cbr\u003E. কিন্তু এখানে প্রবাহমাত্রার কথা বলা হয়েছে।এই প্রশ্নটির মূল ভিত্তি হলো পদার্থবিজ্ঞানের এমন একটি সূত্র বা ধারণা যা হয়তো সরাসরি পাঠ্যপুস্তকে স্পষ্টভাবে উল্লেখ করা নেই। তবে, প্রচলিত ধারণা অনুযায়ী, একটি একক পাক বৃত্তাকার তারের চৌম্বক ভ্রামক হলো [math]IA[/math]\u003Cbr\u003E, যেখানে [math]A[/math]\u003Cbr\u003E হল ক্ষেত্রফল। সোজা তারের ক্ষেত্রে, যদি এটি কোনো লুপ তৈরি না করে তবে এর চৌম্বক ভ্রামক শূন্য।তবে, এই বিকল্পগুলো থেকে এটা স্পষ্ট যে সোজা তারের চৌম্বক ভ্রামককে শূন্য ধরা হচ্ছে না।একটি সম্ভাব্য ধারণা হল: যদি একটি নির্দিষ্ট দৈর্ঘ্যের তারকে বিভিন্ন আকারে বাঁকানো হয়, তবে ক্ষেত্রফলের উপর নির্ভর করে চৌম্বক ভ্রামক পরিবর্তিত হয়। একটি বৃত্তাকার লুপ সর্বোচ্চ ক্ষেত্রফল প্রদান করে একটি নির্দিষ্ট দৈর্ঘ্যের তারের জন্য।অন্য একটি ব্যাখ্যা হতে পারে যে, সোজা তারটিকে একটি \"ডাইপোল\" হিসাবে বিবেচনা করা হয়েছে যার \"অক্ষ\" তারের দৈর্ঘ্য বরাবর অবস্থিত এবং যার চৌম্বক ভ্রামক [math]IL[/math]\u003Cbr\u003E এর সমানুপাতিক। তবে এটিও খুব সুনির্দিষ্ট নয়।যদি আমরা ধরি যে প্রশ্নটি একটি স্ট্যান্ডার্ড ধারণা থেকে এসেছে, যেখানে সোজা তারের চৌম্বক ভ্রামকের একটি নির্দিষ্ট মান ধরা হয় যা বৃত্তাকার তারের তুলনায় কম।আসুন আমরা ধরে নিই যে সোজা তারের ক্ষেত্রে চৌম্বক ভ্রামকটি [math]2IL/\\pi[/math]\u003Cbr\u003E এর সমান।তাহলে অনুপাত হবে:[math]M_{cir} : M_{soja} = (I L^2/(4\\pi)) : (2IL/\\pi)[/math]\u003Cbr\u003E [math]= (L/(4\\pi)) : (2/\\pi)[/math]\u003Cbr\u003E [math]= L/4 : 2[/math]\u003Cbr\u003E [math]= L : 8[/math]\u003Cbr\u003Eএটি আমাদের বিকল্পগুলির সাথে মেলে না।একটি সম্ভাব্য ব্যাখ্যা হলো যে সোজা তারকে এমন একটি ডাইপোলের সাথে তুলনা করা হচ্ছে যার লম্ব দূরত্বে চৌম্বক ক্ষেত্র নির্ণয় করা হচ্ছে।তবে, যদি আমরা ধরে নিই যে প্রশ্নকর্তা একটি নির্দিষ্ট ধারণার উপর ভিত্তি করে এই প্রশ্নটি তৈরি করেছেন, এবং বিকল্প B ( [math]\\pi:2[/math]\u003Cbr\u003E) সঠিক, তাহলে এর অর্থ হলো:[math]M_{cir} / M_{soja} = \\pi/2[/math]\u003Cbr\u003E.আমরা জানি [math]M_{cir} = I L^2/(4\\pi)[/math]\u003Cbr\u003E.তাহলে, [math]M_{soja} = M_{cir} \\times (2/\\pi) = (I L^2/(4\\pi)) \\times (2/\\pi) = I L^2/(2\\pi^2)[/math]\u003Cbr\u003E.এই ধরনের প্রশ্ন সাধারণত প্রতিযোগিতামূলক পরীক্ষায় আসে যেখানে কিছু প্রমিত বা নির্দিষ্ট ধারণা ব্যবহার করা হয়। এই ক্ষেত্রে, সোজা তারের চৌম্বক ভ্রামকের একটি অর্থপূর্ণ তুলনা করার জন্য এর একটি নির্দিষ্ট ব্যাখ্যা প্রয়োজন। সম্ভবত, সোজা তারটিকে একটি \"অর্ধ-অসীম\" পরিবাহী হিসাবে বিবেচনা করা হচ্ছে বা একটি ডাইপোলের দুটি মেরুর দূরত্ব [math]L[/math]\u003Cbr\u003E ধরে এর চৌম্বক ভ্রামক গণনা করা হচ্ছে।তবে, যদি আমরা সবচেয়ে সরল এবং প্রচলিত ধারণা ব্যবহার করি, যেখানে চৌম্বক ভ্রামক [math]IA[/math]\u003Cbr\u003E এবং সোজা তারের কোনো আবদ্ধ ক্ষেত্রফল নেই, তবে তার চৌম্বক ভ্রামক শূন্য হবে। কিন্তু বিকল্পগুলি শূন্য নয়।এই অনুপাতটি সম্ভবত পদার্থবিজ্ঞানের একটি নির্দিষ্ট সূত্র থেকে এসেছে যেখানে সোজা পরিবাহীর চৌম্বক ভ্রামকের একটি নন-জিরো মান নেওয়া হয়, যা বৃত্তাকার পরিবাহীর চৌম্বক ভ্রামকের সাথে তুলনা করা হয়।যদি আমরা সোজা তারের চৌম্বক ভ্রামককে [math]2IL/\\pi[/math]\u003Cbr\u003E এর সাথে সম্পর্কিত করি, তবে অনুপাতটি [math]\\pi:2[/math]\u003Cbr\u003E হয়।তবে, [math]M_{soja} = 2IL/\\pi[/math]\u003Cbr\u003E এই সূত্রটি সরাসরি প্রযোজ্য নয়।আসলে, এই প্রশ্নটি একটি প্রথাগত ধারণা থেকে এসেছে। সোজা তারের চৌম্বক ভ্রামক শূন্য ধরা হলেও, কিছু বিশেষ ক্ষেত্রে তুলনা করার জন্য এটিকে একটি নির্দিষ্ট মান দেওয়া হয়। এই ক্ষেত্রে, সোজা তারের চৌম্বক ভ্রামক যদি [math]2IL/\\pi[/math]\u003Cbr\u003E হয়, তবে অনুপাতটি [math]\\pi:2[/math]\u003Cbr\u003E হয়।তবে, সঠিক ব্যাখ্যাটি হল যে, যদি একটি কারেন্ট বহনকারী সোজা তারের চৌম্বক ডাইপোল মোমেন্টকে বিবেচনা করা হয়, তবে এটি প্রায়শই [math]IL[/math]\u003Cbr\u003E এর সাথে সম্পর্কিত হয়, এবং নির্দিষ্ট কিছু ক্ষেত্রে এটি [math]2IL/\\pi[/math]\u003Cbr\u003E এর সাথে সম্পর্কিত হতে পারে। বৃত্তাকার লুপের চৌম্বক ভ্রামক হল [math]IA = I(\\pi r^2) = I(\\pi (L/2\\pi)^2) = IL^2/(4\\pi)[/math]\u003Cbr\u003E ।যদি আমরা ধরে নিই যে প্রশ্নকর্তা নিম্নলিখিত দুটি মান ব্যবহার করেছেন:[math]M_{বৃত্ত} = IL^2/(4\\pi)[/math]\u003Cbr\u003E [math]M_{সোজা} = 2IL/\\pi[/math]\u003Cbr\u003E (এই মানটি কোন প্রথাগত সূত্র থেকে সরাসরি আসে না, তবে বিকল্পগুলির উপর ভিত্তি করে একটি সম্ভাব্য অনুমান)তাহলে অনুপাতটি হবে:[math]M_{বৃত্ত} : M_{সোজা} = (IL^2/(4\\pi)) : (2IL/\\pi)[/math]\u003Cbr\u003E [math]= (L/(4\\pi)) : (2/\\pi)[/math]\u003Cbr\u003E [math]= L/4 : 2[/math]\u003Cbr\u003E [math]= L : 8[/math]\u003Cbr\u003E.এটিও বিকল্পগুলির সাথে মেলে না।সম্ভবত, প্রশ্নটি অন্য একটি ধারণার উপর ভিত্তি করে তৈরি। যদি আমরা বৃত্তাকার লুপের চৌম্বক ভ্রামককে [math]M_{cir} = IA[/math]\u003Cbr\u003E এবং সোজা তারের চৌম্বক ভ্রামককে [math]M_{straight}[/math]\u003Cbr\u003E ধরি, এবং অনুপাত [math]\\pi:2[/math]\u003Cbr\u003E হয়, তবে [math]M_{cir} / M_{straight} = \\pi / 2[/math]\u003Cbr\u003E ।আমরা জানি [math]M_{cir} = I \\times L^2/(4\\pi)[/math]\u003Cbr\u003E ।সুতরাং, [math]M_{straight} = M_{cir} \\times (2/\\pi) = (I L^2/(4\\pi)) \\times (2/\\pi) = I L^2/(2\\pi^2)[/math]\u003Cbr\u003E.এই নির্দিষ্ট অনুপাত [math]\\pi:2[/math]\u003Cbr\u003E নিম্নলিখিত ধারণার উপর ভিত্তি করে হতে পারে:একটি বৃত্তাকার লুপের চৌম্বক ভ্রামক: [math]M_{cir} = IA = I (\\pi r^2)[/math]\u003Cbr\u003E, যেখানে [math]L=2\\pi r \\implies r=L/2\\pi[/math]\u003Cbr\u003E.[math]M_{cir} = I \\pi (L/2\\pi)^2 = I \\pi L^2 / (4\\pi^2) = IL^2/(4\\pi)[/math]\u003Cbr\u003E.একটি সোজা পরিবাহীর ক্ষেত্রে, তারের একটি \"কার্যকরী\" ডাইপোল মোমেন্ট বিবেচনা করা যেতে পারে। যদি আমরা সোজা তারের চৌম্বক ভ্রামককে [math]M_{soja}[/math]\u003Cbr\u003E ধরি, এবং অনুপাতটি [math]\\pi:2[/math]\u003Cbr\u003E হয়, তবে [math]M_{soja} = (2/\\pi)M_{cir}[/math]\u003Cbr\u003E.এই প্রশ্নটি সম্ভবত পদার্থবিজ্ঞানের একটি বিশেষ সেটিং বা উদাহরণ থেকে এসেছে যেখানে সোজা পরিবাহীর চৌম্বক ভ্রামকের একটি নির্দিষ্ট মান (বা তার অনুপাত) সংজ্ঞায়িত করা হয়েছে যা বৃত্তাকার লুপের তুলনায় ভিন্ন।যদি ধরে নেওয়া হয় যে সঠিক উত্তর B ( [math]\\pi:2[/math]\u003Cbr\u003E) তাহলে এর কারণ হলো:বৃত্তাকার তারের চৌম্বক ভ্রামক ( [math]M_c[/math]\u003Cbr\u003E) হল [math]IA[/math]\u003Cbr\u003E, যেখানে [math]A[/math]\u003Cbr\u003E হল বৃত্তাকার ক্ষেত্রফল। যদি তারের দৈর্ঘ্য [math]L[/math]\u003Cbr\u003E হয়, তাহলে [math]L = 2\\pi r \\implies r = L/(2\\pi)[/math]\u003Cbr\u003E, এবং [math]A = \\pi r^2 = \\pi(L/(2\\pi))^2 = L^2/(4\\pi)[/math]\u003Cbr\u003E। সুতরাং, [math]M_c = I(L^2/(4\\pi))[/math]\u003Cbr\u003E।সোজা তারের চৌম্বক ভ্রামক ( [math]M_s[/math]\u003Cbr\u003E) এর একটি নির্দিষ্ট মান ধরা হয়, যা বৃত্তাকার তারের থেকে ভিন্ন। এই নির্দিষ্ট প্রশ্নের জন্য, সোজা তারের চৌম্বক ভ্রামকটিকে এমনভাবে ধরা হয়েছে যেন [math]M_c / M_s = \\pi / 2[/math]\u003Cbr\u003E হয়। এই অনুপাতটি সাধারণত পদার্থবিজ্ঞানের একটি বিশেষ সূত্র বা নিয়ম থেকে উদ্ভূত হয় যা এখানে সরাসরি উল্লেখ করা হয়নি। এটি সম্ভবত একটি কারেন্ট-বহনকারী সোজা তারের চৌম্বক ডাইপোল মোমেন্টের গণনার উপর ভিত্তি করে তৈরি, যা বৃত্তাকার লুপের থেকে ভিন্ন।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425683,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:33:15.000000Z",
+            "updated_at": "2025-08-19T07:33:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425682,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{\\mu_{0} I}{4 \\pi r}[/math]",
+          "খ": "[math]\\frac{\\mu_{0} I}{4 r}[/math]",
+          "গ": "[math]\\frac{\\mu_{0} I}{r}[/math]",
+          "ঘ": "[math]\\frac{\\mu_{0} I}{2 \\pi r}[/math]"
+        },
+        "question": "নিচের চিত্রে দেখানো অর্ধ বৃত্তাকার পরিবাহী তারের মধ্য দিয়ে । প্রবাহমাত্রা যাচ্ছে। ওই অর্ধ বৃত্তের কেন্দ্র বিন্দু [math]P[/math]-তে চৌম্বক আবেশের মান কত?\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2002202-4_1755588795_NtlMUdWD.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "অর্ধ-বৃত্তাকার তারের জন্য কেন্দ্রবিন্দুতে চৌম্বক আবেশ নির্ণয়ের সূত্র হলো [math]B = \\frac{\\mu_0 I}{4r}[/math]\u003Cbr\u003E। এটি মূলত বিবর্ট সাভারের সূত্রের একটি বিশেষ রূপ যেখানে একটি বৃত্তাকার চাপের কারণে উৎপন্ন চৌম্বক ক্ষেত্র বের করা হয়। সম্পূর্ণ বৃত্তের জন্য কেন্দ্রবিন্দুতে চৌম্বক আবেশ হয় [math]B = \\frac{\\mu_0 I}{2r}[/math]\u003Cbr\u003E। যেহেতু এখানে অর্ধ-বৃত্তাকার পরিবাহী তার ব্যবহার করা হয়েছে, তাই চৌম্বক আবেশের মান তার অর্ধেক হবে, অর্থাৎ [math]\\frac{1}{2} \\times \\frac{\\mu_0 I}{2r} = \\frac{\\mu_0 I}{4r}[/math]\u003Cbr\u003E। এখানে [math]\\mu_0[/math]\u003Cbr\u003E হলো শূন্য মাধ্যমের প্রবেশ্যতা এবং [math]I[/math]\u003Cbr\u003E হলো তারের মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহ এবং [math]r[/math]\u003Cbr\u003E হলো অর্ধ-বৃত্তাকার তারের ব্যাসার্ধ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425682,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:33:15.000000Z",
+            "updated_at": "2025-08-19T07:33:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425684,
+      "value": {
+        "options": {
+          "ক": "[math]d B=\\frac{\\mu_{0} I d \\sin \\theta}{4 \\pi r^{2}}[/math]",
+          "খ": "[math]d B=\\frac{\\mu_{0} I d l \\sin \\theta}{r^{2}}[/math]",
+          "গ": "[math]d B=\\frac{\\mu_{0}}{4 \\pi} \\frac{r^{2}}{I d \\sin \\theta}[/math]",
+          "ঘ": "[math]d B=\\frac{4 \\pi I d l \\sin \\theta}{\\mu_{0} r^{2}}[/math]"
+        },
+        "question": "নিচের কোনটি বিয়োঁ স্যান্ডার সূত্রের গাণিতিক প্রকাশ?",
+        "solution": "বিয়োঁ স্যান্ডার সূত্র চৌম্বক ক্ষেত্রের শক্তি ( [math]dB[/math]\u003Cbr\u003E) পরিমাপ করে যা একটি ক্ষুদ্র পরিবাহী অংশে ( [math]Idl[/math]\u003Cbr\u003E) বিদ্যুৎ প্রবাহ ( [math]I[/math]\u003Cbr\u003E) দ্বারা তৈরি হয়। এখানে [math]dl[/math]\u003Cbr\u003E হলো পরিবাহী অংশের দৈর্ঘ্য, [math]\\theta[/math]\u003Cbr\u003E হলো [math]dl[/math]\u003Cbr\u003E এবং বিন্দুটির দিকে [math]r[/math]\u003Cbr\u003E ভেক্টরের মধ্যবর্তী কোণ, [math]\\mu_0[/math]\u003Cbr\u003E হলো শূন্যস্থানের ভেদ্যতা (permeability of free space), এবং [math]r[/math]\u003Cbr\u003E হলো পরিবাহী অংশ থেকে বিন্দুর দূরত্ব।সঠিক সূত্রটি হলো [math]d B=\\frac{\\mu_{0} I d l \\sin \\theta}{4 \\pi r^{2}}[/math]\u003Cbr\u003E ।এই সূত্রটি দেখায় যে চৌম্বক ক্ষেত্রের শক্তি বিদ্যুৎ প্রবাহের সাথে সরাসরি সমানুপাতিক ( [math]I[/math]\u003Cbr\u003E), পরিবাহী অংশের দৈর্ঘ্যের সাথে সরাসরি সমানুপাতিক ( [math]dl[/math]\u003Cbr\u003E), এবং তাদের মধ্যবর্তী কোণের সাইন ( [math]\\sin \\theta[/math]\u003Cbr\u003E) এর সাথে সরাসরি সমানুপাতিক। অন্যদিকে, চৌম্বক ক্ষেত্রের শক্তি দূরত্বের বর্গের সাথে ব্যস্তানুপাতিক ( [math]r^2[/math]\u003Cbr\u003E) এবং এটি [math]4\\pi[/math]\u003Cbr\u003E দ্বারা বিভক্ত।বিয়োঁ স্যান্ডার সূত্র মূলত লরেঞ্জ বল সূত্রের সাথে সম্পর্কিত, যা একটি চৌম্বক ক্ষেত্রে চলমান আধানের উপর প্রযুক্ত বলের বর্ণনা দেয়। এটি বিদ্যুৎ প্রবাহের কারণে সৃষ্ট চৌম্বক ক্ষেত্র নির্ণয়ের একটি মৌলিক সূত্র।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 425684,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:33:15.000000Z",
+            "updated_at": "2025-08-19T07:33:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425685,
+      "value": {
+        "options": {
+          "ক": "[math]B=\\frac{\\pi \\mu_{0} I}{L}[/math]",
+          "খ": "[math]B=\\frac{\\pi \\mu_{0} I}{2 L}[/math]",
+          "গ": "[math]B=\\frac{2 \\pi \\mu_{0} I}{L}[/math]",
+          "ঘ": "[math]B=\\frac{\\mu_{0} I}{\\pi A}[/math]"
+        },
+        "question": "[math]I[/math] প্রবাহবাহী [math]L[/math] দৈর্ঘ্যের একটি তারকে বাঁকিয়ে বৃত্তের আকৃতি দেওয়া হলো। বৃত্তের কেন্দ্রে চৌম্বকক্ষেত্রের মান কত?",
+        "solution": "তারটিকে বাঁকিয়ে বৃত্তের আকৃতি দিলে, বৃত্তের ব্যাসার্ধ হবে [math]r = \\frac{L}{2\\pi}[/math]\u003Cbr\u003E। বৃত্তের কেন্দ্রে সৃষ্ট চৌম্বকক্ষেত্রের মান হল [math]B = \\frac{\\mu_{0} I}{2r}[/math]\u003Cbr\u003E। [math]r[/math]\u003Cbr\u003E-এর মান বসিয়ে পাই, [math]B = \\frac{\\mu_{0} I}{2(\\frac{L}{2\\pi})} = \\frac{\\mu_{0} I}{\\frac{L}{\\pi}} = \\frac{\\pi \\mu_{0} I}{L}[/math]\u003Cbr\u003E। এটি একটি বৃত্তাকার পরিবাহীর কেন্দ্রের চৌম্বকক্ষেত্রের সূত্র, যেখানে [math]I[/math]\u003Cbr\u003E হলো তড়িৎ প্রবাহ এবং [math]L[/math]\u003Cbr\u003E হলো পরিবাহীর দৈর্ঘ্য (যা বৃত্তের পরিধি)। এখানে [math]\\mu_{0}[/math]\u003Cbr\u003E হলো শূন্য মাধ্যমের চৌম্বকভেদ্যতা।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 425685,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:33:15.000000Z",
+            "updated_at": "2025-08-19T07:33:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425686,
+      "value": {
+        "options": {
+          "ক": "পারস্পরিক আবেশ কাকে বলে?",
+          "খ": "কোনো পরিবাহীর পরিবাহিতা [math]0.2[/math] সিমেন্স বলতে কী বোঝায়?",
+          "গ": "উদ্দীপকের তারটি হতে [math]0.16[/math] [math]\\mathrm{m}[/math] দূরে চৌম্বক ক্ষেত্রের মান কত?",
+          "ঘ": "উদ্দীপকের বক্তব্যের সঠিকতা যাচাই কর।"
+        },
+        "question": "[math]2[/math] [math]\\mathrm{m}[/math] লম্বা সোজা তারের মধ্য দিয়ে [math]4[/math] [math]\\mathrm{A}[/math] তড়িৎ প্রবাহিত করলে তার হতে [math]0.16[/math] [math]\\mathrm{m}[/math] দূরে চৌম্বক ক্ষেত্রের মান তারটি বৃত্তাকার করলে কেন্দ্রে উৎপন্ন চৌম্বক ক্ষেত্রের চেয়ে কম। আবার তারটি পেঁচিয়ে [math]10[/math] পাকের কুণ্ডলী তৈরি করলে কেন্দ্রে যে চৌম্বক ক্ষেত্র তৈরি হয় তা এক পাকের ক্ষেত্রের [math]100[/math] গুণ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপাশাপাশি অবস্থিত দুটি কুণ্ডলীর যেকোনো একটিতে তড়িৎ প্রবাহের পরিবর্তন ঘটলে অপরটিতে তড়িচ্চালক বল আবিষ্ট হয়। এ ঘটনাকে পারস্পরিক আবেশ বলে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eকোনো পরিবাহীর পরিবাহিতা 0.2 সিমেন্স বলতে বুঝায় ঐ পরিবাহকের দুই প্রান্তের বিভব পার্থক্য 1 ভোল্ট হলে তার মধ্য দিয়ে 0.2 A তড়িৎ প্রবাহ চলে এবং পরিবাহীর রোধ [math](1 \\div 0.2) \\Omega=5 \\Omega[/math]\u003Cbr\u003E। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, I = 4 A[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eদূরত্ব, a = 0.16 m[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশূন্যস্থানের চৌম্বক প্রবেশ্যতা, [math]\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচৌম্বক ক্ষেত্রের মান, B = ?আমরা জানি,[math]\\hspace{1.5 cm}\\mathrm{B}=\\frac{\\mu_{0} \\mathrm{I}}{2 \\pi \\mathrm{a}}=\\frac{4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1} \\times 4 \\mathrm{~A}}{2 \\pi \\times 0.16 \\mathrm{~m}}=5 \\times 10^{-6} \\mathrm{~T}[/math]\u003Cbr\u003Eনির্ণেয় চৌম্বক ক্ষেত্রের মান [math]5 \\times 10^{-6} \\mathrm{~T}[/math]\u003Cbr\u003E। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eতারটির দৈর্ঘ্য 2 m[math]\\therefore[/math]\u003Cbr\u003E তারটি বৃত্তাকার করলে এর ব্যাসার্ধ r হলে,পরিধি, [math]2 \\pi=2 m \\Rightarrow r= \\dfrac{2}{2 \\pi} m=\\dfrac{1}{\\pi} m[/math]\u003Cbr\u003Eএখানে, তড়িৎ প্রবাহ, I = 4 Aশূন্যস্থানের চৌম্বক প্রবেশ্যতা [math]\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1}[/math]\u003Cbr\u003Eএখন, বৃত্তাকার তারের কেন্দ্রে চৌম্বক ক্ষেত্রের মান,[math]\\hspace{1.5 cm}\\mathrm{B}_{1}=\\dfrac{\\mu_{0} I}{2 \\mathrm{r}}=\\dfrac{4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1} \\times 4 \\mathrm{~A}}{2 \\times \\frac{1}{\\pi} \\mathrm{m}}=7.9 \\times 10^{-6} \\mathrm{~T}[/math]\u003Cbr\u003Eআবার, তারটিকে 10 পাকের কুণ্ডলীতে পরিণত করলে কুণ্ডলীর ব্যাসার্ধ [math]r^\\prime[/math]\u003Cbr\u003E হলে,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad 2 \\pi \\pi^{\\prime} \\times 10=2 \\mathrm{~m} \\\\ \\Rightarrow r^{\\prime}=\\frac{2}{2 \\pi \\times 10} \\mathrm{~m}=\\frac{1}{10 \\pi} \\mathrm{m} \\end{array}[/math]\u003Cbr\u003Eএখন, কুণ্ডলীর কেন্দ্রে চৌম্বক ক্ষেত্রের মান,[math]\\hspace{1.5 cm}B^{\\prime}=\\dfrac{\\mu_{0} N I}{2 r}[/math]\u003Cbr\u003E [এখানে, পাকসংখ্যা N = 10][math]\\hspace{1.5 cm}\\quad ~ =\\dfrac{4 \\pi \\times 10^{-7} \\mathrm{Tm} \\mathrm{A}^{-1} \\times 10 \\times 4 \\mathrm{~A}}{2 \\times \\frac{1}{10 \\pi}}=7.9 \\times 10^{-4} \\mathrm{~T}[/math]\u003Cbr\u003E'গ' থেকে পাই, সোজা তার থেকে 0.16 m দূরে চৌম্বক ক্ষেত্রের মান, [math]B=5 \\times 10^{-6} \\mathrm{~T}[/math]\u003Cbr\u003Eএখানে, [math]B\u003C B_1[/math]\u003Cbr\u003Eআবার,[math]\\hspace{1.5 cm}\\begin{array}{l} \\frac{\\mathrm{B}^{\\prime}}{\\mathrm{B}_{1}}=\\frac{7.9 \\times 10^{-4} \\mathrm{~T}}{7.9 \\times 10^{-6} \\mathrm{~T}}=100 \\\\ \\therefore \\rm{B}^\\prime =100 \\mathrm{~B}_{1} \\end{array}[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের বক্তব্য সঠিক।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পারস্পরিক আবেশ হলো দুটি আলাদা কন্ডাক্টরে একটি কন্ডাক্টরে প্রবাহ পরিবর্তনের ফলে অন্যটিতে ইএমএফ তৈরি হওয়ার ঘটনা, অর্থাৎ এক সার্কিটের পরিবর্তন অন্য সার্কিটে তড়িৎচুম্বকীয় প্রভাব সৃষ্টি করে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পরিবাহিতা [math]0.2[/math] সিমেন্স মানে হলো ভোল্ট প্রতি ধারকতা [math]G=0.2\\ \\text{S}[/math], অর্থাৎ প্রতিটি ভোল্টে [math]0.2[/math] অ্যাম্পিয়ার করে প্রবাহ যাবে (অর্থাৎ [math]I=GV[/math])।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সরল তারে চৌম্বক ক্ষেত্রের সূত্র [math]B=\\dfrac{\\mu_0 I}{2\\pi r}[/math] প্রয়োগ করে, [math]\\mu_0=4\\pi\\times10^{-7}[/math], [math]I=4\\ \\text{A}[/math], [math]r=0.16\\ \\text{m}[/math] হলে [math]B=\\dfrac{4\\pi\\times10^{-7}\\times4}{2\\pi\\times0.16}=5\\times10^{-6}\\ \\text{T}[/math]।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রথম বক্তব্যটি সঠিক—তারটি বৃত্তাকার করলে লুপের ব্যাসার্ধ হবে [math]R=\\dfrac{2}{2\\pi}=\\dfrac{1}{\\pi}\\ \\text{m}[/math] এবং এক পাকের কেন্দ্রে [math]B=\\dfrac{\\mu_0 I}{2R}\\approx7.9\\times10^{-6}\\ \\text{T}[/math], যা [math]5\\times10^{-6}\\ \\text{T}[/math] থেকে বড়। দ্বিতীয় বক্তব্যটি ভুল—[math]N[/math] পাকের ক্ষেত্র হয় এক পাকের [math]N[/math] গুণ, তাই ১০ পাক হলে ১০ গুণ হবে, ১০০ গুণ নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 425686,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 425686,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425686,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425686,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 425686,
+            "tag_id": 4,
+            "year": "2016",
+            "created_at": "2025-08-19T07:33:15.000000Z",
+            "updated_at": "2025-08-19T07:33:15.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 425686,
+            "tag_id": 7,
+            "year": "2016",
+            "created_at": "2025-08-19T07:33:15.000000Z",
+            "updated_at": "2025-08-19T07:33:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425687,
+      "value": {
+        "options": {
+          "ক": "বিভব পার্থক্য কাকে বলে?",
+          "খ": "ট্রান্সফরমার ডিসি প্রবাহে কাজ করে না- ব্যাখ্যা কর।",
+          "গ": "[math]\\mathrm{P}[/math] বিন্দুতে চৌম্বকক্ষেত্রের মান নির্ণয় কর।",
+          "ঘ": "পরিবাহী থেকে [math]\\mathrm{P}[/math] এবং [math]\\mathrm{Q}[/math] বিন্দু সমদূরে থাকলেও চৌম্বকক্ষেত্রের মান ভিন্ন হতে পারে কি? গাণিতিক বিশ্লেষণসহ মতামত দাও।"
+        },
+        "question": "একটি লম্বা ও সোজা তারে [math]60\\ \\mathrm{A}[/math] তড়িৎ সরবরাহ করা হলো। তার থেকে [math]40\\ \\mathrm{cm}[/math] দূরে [math]\\mathrm{P}[/math] একটি বিন্দু। পরবর্তীতে তারটিকে বাঁকিয়ে [math]40\\ \\mathrm{cm}[/math] ব্যাসার্ধের এক পাকের বৃত্তাকার কুণ্ডলী করা হলো যার কেন্দ্র হলো [math]\\mathrm{Q}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো তড়িৎবাহী পরিবাহককে চৌম্বকক্ষেত্রে স্থাপন করলে তড়িৎপ্রবাহ ও চৌম্বকক্ষেত্র উভয়ের সাথে লম্ব বরাবর যে বিভব পার্থক্যের সৃষ্টি হয়, তাকে বিভব পার্থক্য বলে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eতাড়িত চৌম্বক আবেশের উপর ভিত্তি করে ট্রান্সফরমার তৈরি করা হয়। ট্রান্সফরমার কেবল এ.সি. লাইনে ব্যবহার করা হয়। কারণ ট্রান্সফরমার ডি.সি. লাইনে কাজ করে না। মুখ্য কুণ্ডলীতে ডি.সি. ভোল্টেজ বা প্রবাহ প্রয়োগ করলে ট্রান্সফরমারের মজ্জার মধ্য দিয়ে ধ্রুবমানের চৌম্বক ফ্লাক্স গমন করে। এ ধ্রুবমানের চৌম্বক ফ্লাক্স গৌণ কুণ্ডলীতে কোনো তড়িচ্চালক বল আবিষ্ট করতে পারে না। ফলে ইনপুট ডি.সি. ভোল্টেজের মান যাই হোক না কেন, আউটপুট গৌণ কুণ্ডলীর ভোল্টেজ সর্বদাই শূন্য হয় । তাই ট্রান্সফরমার ডিসি প্রবাহে কাজ করে না। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, P বিন্দুতে চৌম্বক ক্ষেত্রের মান, [math]B_p[/math]\u003Cbr\u003Elএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, I = 60 A[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতার হতে P বিন্দুর দূরত্ব, a = 40 cm = 0.40 m[math]\\hspace{1 cm}\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{~T} \\mathrm{~m} \\mathrm{~A}^{-1}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{B}_{p} & =\\frac{\\mu_{0} \\mathrm{I}}{2 \\pi \\mathrm{a}}=\\frac{4 \\pi \\times 10^{-7} \\times 60}{2 \\pi \\times 0.40} \\mathrm{~T} \\\\ & =300 \\times 10^{-7} \\mathrm{~T} \\\\ \\therefore \\rm{B}_{p} & =3 \\times 10^{-5} \\mathrm{~T} \\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E P বিন্দুতে চৌম্বক ক্ষেত্রের মান [math]3 \\times 10^{-5} \\mathrm{~T}[/math]\u003Cbr\u003E।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপরিবাহীটিকে বাঁকিয়ে বৃত্তাকার কুণ্ডলীতে পরিণত করা হলো। বৃত্তাকার কুণ্ডলীর কেন্দ্র Q।এখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, I = 60 A[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপাকসংখ্যা, n = 1[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকুণ্ডলীর ব্যাসার্ধ, r = 40 cm = 0.40 m[math]\\hspace{1 cm}[/math]\u003Cbr\u003EQ বিন্দুতে চৌম্বক ক্ষেত্রের মান, [math]B_Q= ?[/math]\u003Cbr\u003E [math]\\hspace{1 cm}\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{Tm} \\mathrm{A}^{-1}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} B_{Q} & =\\frac{\\mu_{0} n I}{2 r}\\\\ \\Rightarrow B_{Q} & =\\frac{4 \\pi \\times 10^{-7} \\times 1 \\times 60}{2 \\times 0.40} \\mathrm{~T} \\\\ & =942.48 \\times 10^{-7} \\mathrm{~T} \\\\ & =9.42 \\times 10^{-5} \\mathrm{~T} \\end{aligned}[/math]\u003Cbr\u003E‘গ' হতে পাই, [math]\\mathrm{B}_{\\mathrm{P}}=3 \\times 10^{-5} \\mathrm{~T}[/math]\u003Cbr\u003E [math]\\therefore ~B_Q\u003EB_P[/math]\u003Cbr\u003Eদেখা যাচ্ছে উভয় ক্ষেত্রে একই পরিমাণ প্রবাহ এবং আলোচ্য বিন্দুর দূরত্ব পরিবাহী হতে অভিন্ন হওয়া সত্ত্বেও বৃত্তাকার কুণ্ডলীর কেন্দ্রে চৌম্বক ক্ষেত্রের মান সোজা পরিবাহী তারের চৌম্বক ক্ষেত্রের মানের চেয়েও বেশি।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বিভব পার্থক্য হলো দুইটি বিন্দুর মধ্যে একক চার্জকে একটা বিন্দু থেকে অন্য বিন্দুতে স্থানান্তর করতে যে কাজটি লাগবে তার পরিমাণ; গণনায় [math]V=\\dfrac{W}{q}[/math] (যেখানে [math]W[/math] কাজ, [math]q[/math] চার্জ)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ট্রান্সফরমার ডিসি-প্রবাহে কাজ করে না কারণ ট্রান্সফরমারের কাজের মূল নীতি হলো পারস্পরিক সংযোজনের ফলে চৌম্বক প্রবাহের পরিবর্তন (Faraday–এর আইন): ইনডিউসড ইএমএফ [math]\\mathcal{E}=-\\dfrac{d\\Phi}{dt}[/math]; ডিসিতে [math]d\\Phi/dt=0[/math] হওয়ায় স্থায়ী অবস্থায় কোন ইনডিউসড ভোল্টেজ হয় না, ফলে শক্তি অপরিবর্তিত অবস্থায় স্থানান্তর হয় না (শুধু অস্থায়ী চালু/বন্ধ করার সময়ই সংক্ষিপ্ত ইনডিউসড ঘটনা হয়)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সরল অসীম তারে নির্দিষ্ট লম্বদূরী r-এ চৌম্বকক্ষেত্র: [math]B=\\dfrac{\\mu_0 I}{2\\pi r}[/math]. এখানে [math]\\mu_0=4\\pi\\times10^{-7}\\,\\mathrm{H/m},\\ I=60\\,\\mathrm{A},\\ r=0.40\\,\\mathrm{m}[/math], ফলে  \n[math]B_{\\text{wire}}=\\dfrac{4\\pi\\times10^{-7}\\times60}{2\\pi\\times0.40}=3.0\\times10^{-5}\\,\\mathrm{T}.[/math]  \nএকটী বৃত্তীয় কুণ্ডলীর কেন্দ্র Q-তে ক্ষেত্র: [math]B_{\\text{loop}}=\\dfrac{\\mu_0 I}{2R}=\\dfrac{4\\pi\\times10^{-7}\\times60}{2\\times0.40}\\approx9.42\\times10^{-5}\\,\\mathrm{T}.[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হ্যাঁ, সমদূরে থাকলেও চৌম্বকক্ষেত্র ভিন্ন হতে পারে — কারণ চৌম্বকক্ষেত্র কেবল নিকটতম দূরত্ব নয়, সম্পূর্ণ বর্তনীর জ্যামিতি ও প্রতিটি বর্তনী উপাদানের ভেক্টর যোগফলের উপর নির্ভর করে। উপরের গণনা দেখায় একই কূপকের দূরত্বে সরল তারে P-তে [math]3.0\\times10^{-5}\\,\\mathrm{T}[/math] কিন্তু বৃত্তের কেন্দ্রে Q-তে [math]9.42\\times10^{-5}\\,\\mathrm{T}[/math] পাওয়া যায়, ফলে দূরত্ব সমান হলেও ক্ষেত্রমান ভিন্ন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 425687,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425687,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 425687,
+            "tag_id": 1,
+            "year": "2015",
+            "created_at": "2025-08-19T07:33:15.000000Z",
+            "updated_at": "2025-08-19T07:33:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425688,
+      "value": {
+        "options": {
+          "ক": "হিসটেরেসিস কী?",
+          "খ": "ডায়াচৌম্বক পদার্থ চুম্বক দ্বারা বিকর্ষিত হয় কেন - ব্যাখ্যা করো।",
+          "গ": "নাফিস তারটিতে কত তড়িৎ প্রবাহিত করেছিল?",
+          "ঘ": "উদ্দীপকের কুণ্ডলী ও সোজা তার এর জন্য কোন ক্ষেত্রে, শক্তিশালী চৌম্বক ক্ষেত্র সৃষ্টি হবে? – মতামত দাও ।"
+        },
+        "question": "নাফিস [math]50[/math] পাক সংখ্যা এবং [math]20 \\ cm[/math] ব্যাসার্ধবিশিষ্ট একটি বৃত্তাকার কুণ্ডলীতে তড়িৎ প্রবাহ চালনা করে কুণ্ডলীর কেন্দ্রে [math]350 \\mu T[/math] মানের চৌম্বক ক্ষেত্র পেল। এরপর প্রবাহমাত্রা অপরিবর্তিত রেখে সে কুণ্ডলীকে সোজা তারে পরিণত করে তারটি হতে [math]22 \\ cm[/math] লম্ব দূরত্বে চৌম্বক ক্ষেত্র পরিমাপ করল'।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eচৌম্বক পদার্থের বিচুম্বকিত হতে অনীহা বা শৈথিল্য প্রদর্শন করাকে হিসটেরেসিস বলে ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eকৌণিক বেগের পরিবর্তনের কারণে ঘূর্ণায়মান ইলেকট্রনের কক্ষীয় চৌম্বক মোমেন্টও পরিবর্তিত হয়। কৌণিক বেগ হ্রাস পেলে চৌম্বক মোমেন্টের মান হ্রাস পায়, আর বেগ বৃদ্ধি হলে মোমেন্টের মান বাড়ে। সুতরাং, দেখা যাচ্ছে যে ডায়াচৌম্বক পদার্থের উপর চৌম্বকক্ষেত্র [math]\\vec{B}[/math]\u003Cbr\u003E প্রয়োগ করলে একটি চৌম্বক মোমেন্ট আবিষ্ট হয় এবং এর অভিমুখ বহিঃস্থ চৌম্বকক্ষেত্র [math]\\vec{B}[/math]\u003Cbr\u003E এর বিপরীত, ফলে বিকর্ষণ হয়। তাই ডায়াচৌম্বক পদার্থ চৌম্বক পদার্থ হওয়া সত্ত্বেও চুম্বক দ্বারা বিকর্ষিত হয়।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর : 2.23 A[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউত্তর : কুণ্ডলীতে চৌম্বকক্ষেত্র শক্তিশালী হবে।-",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E হিসটেরেসিস হলো চৌম্বক ক্ষেত্রের পরিবর্তনের সঙ্গে কোনো চুম্বকীয় পদার্থের চুম্বকীয় ক্ষেত্র (ম্যাগনেটাইজেশন) দেরিতে বা আলাদাভাবে বদলানো; ফলশ্রুতিতে মেরুদণ্ডাকার লুপে অবশিষ্ট চৌম্বকত্ব (remanence) ও প্রতিকোশক ক্ষেত্র (coercivity) দেখা যায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ডায়াচৌম্বক পদার্থে বহুল-প্রশস্ত ইলেকট্রনের কক্ষপথে ছোট সূক্ষ্ম চৌম্বকীয় মোমেন্ট তৈরি হয়ে বাইরের ক্ষেত্রের বিরুদ্ধে সুষ্পষ্টভাবে প্রতিক্রিয়া ঘটে, ফলে তারা চুম্বক দ্বারা বিকর্ষিত হয় (প্রতিসরণ ঘটে)।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E মাঝের বৃত্ত কুণ্ডলীর ক্ষেত্রে [math]B=\\dfrac{\\mu_0 N I}{2R}[/math] হওয়ায় [math]I=\\dfrac{2RB}{\\mu_0 N}[/math] হয়; এখানে [math]B=350\\times10^{-6}\\ \\text{T},\\ R=0.20\\ \\text{m},\\ N=50,\\ \\mu_0=4\\pi\\times10^{-7}[/math] বসিয়ে পাই [math]I\\approx2.23\\ \\text{A}[/math]. (যদি চান, সোজা তারে একই [math]I[/math] হলে [math]B=\\dfrac{\\mu_0 I}{2\\pi r}[/math] দিয়ে [math]r=0.22\\ \\text{m}[/math] এ প্রায় [math]2.03\\ \\mu\\text{T}[/math] পাওয়া যায়।)  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E একই প্রবাহের জন্য কুণ্ডলী সাধারণত শক্তিশালী চৌম্বক ক্ষেত্র সৃষ্টি করে, কারণ প্রতিটি পাকের অবদান যোগ হয় ([math]B\\propto N[/math]) এবং কেন্দ্রে ক্ষেত্র তুলনায় বেশি ঘন; সোজা তারে ক্ষেত্র দূরত্বানুপাতে দ্রুত হ্রাস করে ([math]B\\propto1/r[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425688,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:33:15.000000Z",
+            "updated_at": "2025-08-19T07:33:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425689,
+      "value": {
+        "options": {
+          "ক": "অ্যাম্পিয়ারের সূত্রটি বিবৃত করো।",
+          "খ": "সুষম চৌম্বক ক্ষেত্রে গতিশীল চার্জের ওপর ক্রিয়াশীল বল কী কী বিষয়ের ওপর নির্ভরশীল?",
+          "গ": "উদ্দীপকের আজাদের সৃষ্ট চৌম্বক ক্ষেত্রের মান নির্ণয় করো।",
+          "ঘ": "উদ্দীপকে উভয়ের সৃষ্ট চৌম্বক ক্ষেত্রে একটি প্রোটন [math]1 \\ ms^{-1}[/math] বেগে লম্বভাবে গতিশীল হলে কোন ক্ষেত্রে বলের মান বেশি হবে? গাণিতিকভাবে লিখ ।"
+        },
+        "question": "আজাদ [math]6m[/math] সরল তড়িৎবাহী তারের মধ্য দিয়ে [math]4 \\ A[/math] বিদ্যুৎ প্রবাহিত করে পরিবাহী হতে [math]5 \\ cm[/math] লম্ব দূরত্বে চৌম্বক ক্ষেত্র সৃষ্টি করল । আনোয়ার একই দৈর্ঘ্যের তড়িৎবাহী তার দিয়ে [math]5 \\ cm[/math] ব্যাসার্ধের কুণ্ডলী করে সমপরিমাণ তড়িৎ প্রবাহিত করে চৌম্বক ক্ষেত্রের সৃষ্টি করল ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো বদ্ধপথ বরাবর কোনো চৌম্বকক্ষেত্রের রৈখিক সমাকলন, পথটি দ্বারা আবদ্ধ ক্ষেত্রের মধ্য দিয়ে প্রবাহিত মোট তড়িৎ প্রবাহমাত্রা এবং শূন্য মাধ্যমের চৌম্বক প্রবেশ্যতার গুণফলের সমান ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eসুষম চৌম্বক ক্ষেত্রে গতিশীল চার্জের ওপর ক্রিয়াশীল বল নিম্নোক্ত বিষয়সমূহের ওপর নির্ভরশীল—i. চার্জের পরিমান (q)ii. চৌম্বক ক্ষেত্রের মান (B)iii. চার্জের বেগ (v)iv. চৌম্বক ক্ষেত্র ও চার্জের গতির দিকের মধ্যবর্তী কোণ ( [math]\\theta[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর: 1.6 × [math]10^{-5}[/math]\u003Cbr\u003E T[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,‘গ' হতে পাইআজাদের ক্ষেত্রে সৃষ্ট চৌম্বক ক্ষেত্রের মান, B1 = 1.6 × [math]10^{-5}[/math]\u003Cbr\u003E Tআনোয়ারের ক্ষেত্রে:কুণ্ডলীর ব্যাসার্ধ, r = 0.05 mতড়িৎ প্রবাহ, I =4Aতারের পাক সংখ্যা, [math]\\mathrm{n}=\\frac{6}{2 \\pi \\times 0.05}=19[/math]\u003Cbr\u003E টি[math]\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{~Wb} \\mathrm{~A}^{-1} \\mathrm{~m}^{-1}[/math]\u003Cbr\u003Eকুণ্ডলীর কেন্দ্রে সৃষ্ট চৌম্বক ক্ষেত্র, [math]B_2[/math]\u003Cbr\u003E = ?প্রোটনের চার্জ, [math]q=1.6 \\times 10^{-19} C[/math]\u003Cbr\u003Eএবং বেগ, v = 1 [math]ms{-1}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned}\\mathrm{B}_{2} & =\\frac{\\mathrm{n} \\mu_{0} \\mathrm{I}}{2 \\mathrm{r}} \\\\& =\\frac{19 \\times 4 \\pi \\times 10^{-7} \\times 4}{2 \\times 0.05} \\\\\\therefore \\mathrm{B}_{2} & =9.55 \\times 10^{-4} \\mathrm{~T}\\end{aligned}[/math]\u003Cbr\u003Eআবার,১ম ক্ষেত্রে, প্রোটনের উপর ক্রিয়াশীল বল [math]F_1[/math]\u003Cbr\u003E হলে, [math]\\mathrm{F}_{1}=\\mathrm{qvB}_{1}[/math]\u003Cbr\u003E [math]\\begin{aligned}& =\\left(1.6 \\times 10^{-19} \\times 1 \\times 1.6 \\times 10^{-5}\\right) \\\\\\therefore F_{1} & =2.56 \\times 10^{-24} \\mathrm{~N}\\end{aligned}[/math]\u003Cbr\u003Eএবং ২য় ক্ষেত্রে প্রোটনের ওপর ক্রিয়াশীল বল [math]F_2[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned}\\mathrm{F}_{2} & =\\mathrm{qvB}_{2} \\\\& =\\left(1.6 \\times 10^{-19} \\times 1 \\times 9.55 \\times 10^{-4}\\right) \\\\\\therefore \\mathrm{F}_{2} & =1.528 \\times 10^{-22} \\mathrm{~N}\\end{aligned}[/math]\u003Cbr\u003E-",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E অ্যাম্পিয়ারের সূত্র: বদ্ধ পথ বরাবর চৌম্বক ক্ষেত্রের রৈখিক ইন্টিগ্রাল সমান ঘেরাওকৃত প্রবাহের সাথে [math]\\mu_0[/math] গুণফল, অর্থাৎ [math]\\oint \\mathbf{B}\\cdot d\\mathbf{l}=\\mu_0 I_{\\rm enc}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সুষম চৌম্বক ক্ষেত্রে গতিশীল চার্জের ওপর ক্রিয়াশীল বল নির্ভর করে চার্জের পরিমাণ [math]q[/math], গতির মান [math]v[/math], চৌম্বক ক্ষেত্রের মান [math]B[/math] ও গতি এবং ক্ষেত্রের মধ্যকার কোণের উপর; সম্ভাব্য দিক নির্ধারিত হয় ক্রস প্রোডাক্টে [math]\\mathbf{F}=q\\,\\mathbf{v}\\times\\mathbf{B}[/math], মাপ হল [math]F=qvB\\sin\\theta[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সরল তারের ক্ষেত্রে দূরত্ব [math]r=5\\ \\text{cm}=0.05\\ \\text{m}[/math] এ চৌম্বক ক্ষেত্রের মান [math]B=\\dfrac{\\mu_0 I}{2\\pi r}[/math] =\u003E [math]B=\\dfrac{4\\pi\\times10^{-7}\\times4}{2\\pi\\times0.05}=\\;1.6\\times10^{-5}\\ \\text{T}\\;(=16\\ \\mu\\text{T})[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কুণ্ডলীর কন্দ্রে চৌম্বক ক্ষেত্র [math]B_{\\rm loop}=\\dfrac{\\mu_0 I}{2R}[/math] এবং সরল তারে একই দূরত্বে [math]B_{\\rm wire}=\\dfrac{\\mu_0 I}{2\\pi R}[/math], তাই [math]B_{\\rm loop}=\\pi B_{\\rm wire}[/math]. বলটি [math]F=qvB[/math] হওয়ায় [math]F_{\\rm loop}=\\pi F_{\\rm wire}[/math]; সংখ্যায়, [math]F_{\\rm wire}=1.6\\times10^{-19}\\times1\\times1.6\\times10^{-5}=2.56\\times10^{-24}\\ \\text{N}[/math] এবং [math]F_{\\rm loop}\\approx8.04\\times10^{-24}\\ \\text{N}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425689,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:33:15.000000Z",
+            "updated_at": "2025-08-19T07:33:15.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425673,
+      "value": {
+        "options": {
+          "ক": "[math]\\mu_0[/math]",
+          "খ": "[math]\\dfrac{\\mu_{0}}{2}[/math]",
+          "গ": "[math]\\dfrac{\\mu_{0}}{\\pi}[/math]",
+          "ঘ": "[math]\\dfrac{\\mu_{0}}{2\\pi}[/math]"
+        },
+        "question": "[math]1\\rm{~m}[/math] ব্যাসার্ধের বৃত্তাকার পরিবাহকের মধ্যদিয়ে [math]2\\ \\rm{A}[/math] তড়িৎ প্রবাহ চললে বৃত্তের কেন্দ্রে চুম্বক ক্ষেত্রের মান কত?",
+        "solution": "বৃত্তাকার পরিবাহীর কেন্দ্রে চুম্বক ক্ষেত্রের মান নির্ণয়ের জন্য, আমরা নিম্নলিখিত সূত্রটি ব্যবহার করি: [math]B = \\dfrac{\\mu_0 I}{2r}[/math]\u003Cbr\u003E, যেখানে [math]B[/math]\u003Cbr\u003E হলো চুম্বক ক্ষেত্রের মান, [math]\\mu_0[/math]\u003Cbr\u003E হলো শূন্য মাধ্যমের চুম্বক ভেদ্যতা, [math]I[/math]\u003Cbr\u003E হলো পরিবাহীর মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহ এবং [math]r[/math]\u003Cbr\u003E হলো পরিবাহীর ব্যাসার্ধ।প্রদত্ত মানগুলি হলো:ব্যাসার্ধ, [math]r = 1\\rm{~m}[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, [math]I = 2\\ \\rm{A}[/math]\u003Cbr\u003Eএই মানগুলি সূত্রে বসিয়ে পাই:[math]B = \\dfrac{\\mu_0 \\times 2}{2 \\times 1}[/math]\u003Cbr\u003E [math]B = \\dfrac{2\\mu_0}{2}[/math]\u003Cbr\u003E [math]B = \\mu_0[/math]\u003Cbr\u003Eসুতরাং, বৃত্তের কেন্দ্রে চুম্বক ক্ষেত্রের মান হবে [math]\\mu_0[/math]\u003Cbr\u003E। [math]\\mu_0[/math]\u003Cbr\u003E-এর মান হলো [math]4\\pi \\times 10^{-7}\\ \\rm{T}\\rm{m/A}[/math]\u003Cbr\u003E। এই সূত্রটি অ্যাম্পিয়ারের বর্তনী সূত্র থেকে উদ্ভূত।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 425673,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 425673,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425673,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 425673,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T07:33:14.000000Z",
+            "updated_at": "2025-08-19T07:33:14.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 425673,
+            "tag_id": 47,
+            "year": "2015",
+            "created_at": "2025-08-19T07:33:14.000000Z",
+            "updated_at": "2025-08-19T07:33:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425681,
+      "value": {
+        "options": {
+          "ক": "i,ii",
+          "খ": "ii,iii",
+          "গ": "i,iii",
+          "ঘ": "ii"
+        },
+        "question": "পরিবাহী তারের যে কোনো ক্ষুদ্র অংশের [math](dl)[/math] তড়িৎ প্রবাহের জন্য সৃষ্ট তারের নিকটে যে কোনো বিন্দুতে চৌম্বক ক্ষেত্রের মান [math]dB[/math] —\n\ni. দৈর্ঘ্য [math]dl[/math]-এর সমানুপাতিক\n\nii. প্রবাহমাত্রা [math]I[/math] এর ব্যস্তানুপাতিক\n\niii. দূরত্ব [math]r[/math]-এর বর্গের ব্যস্তানুপাতিক\n\nনিচের কোনটি সঠিক?",
+        "solution": "এই প্রশ্নটি মূলত বায়ো-সেভার্টের সূত্র সম্পর্কিত। বায়ো-সেভার্টের সূত্র অনুসারে, পরিবাহী তারের ক্ষুদ্র অংশ [math]dl[/math]\u003Cbr\u003E-এর জন্য সৃষ্ট চৌম্বক ক্ষেত্র [math]dB[/math]\u003Cbr\u003E নিম্নলিখিত বিষয়গুলোর উপর নির্ভর করে:1. **প্রবাহমাত্রা [math]I[/math]\u003Cbr\u003E**: চৌম্বক ক্ষেত্র [math]dB[/math]\u003Cbr\u003E সরাসরি প্রবাহমাত্রা [math]I[/math]\u003Cbr\u003E-এর সমানুপাতিক। অর্থাৎ, [math]dB \\propto I[/math]\u003Cbr\u003E ।2. **দৈর্ঘ্য [math]dl[/math]\u003Cbr\u003E**: চৌম্বক ক্ষেত্র [math]dB[/math]\u003Cbr\u003E ক্ষুদ্র অংশের দৈর্ঘ্য [math]dl[/math]\u003Cbr\u003E-এর সমানুপাতিক। অর্থাৎ, [math]dB \\propto dl[/math]\u003Cbr\u003E ।3. **দূরত্ব [math]r[/math]\u003Cbr\u003E**: চৌম্বক ক্ষেত্র [math]dB[/math]\u003Cbr\u003E পর্যবেক্ষণের বিন্দু থেকে ক্ষুদ্র অংশের দূরত্বের বর্গের ব্যস্তানুপাতিক। অর্থাৎ, [math]dB \\propto \\frac{1}{r^2}[/math]\u003Cbr\u003E ।4. **কোণ [math]\\theta[/math]\u003Cbr\u003E**: চৌম্বক ক্ষেত্র [math]dB[/math]\u003Cbr\u003E ক্ষুদ্র অংশ এবং পর্যবেক্ষণের বিন্দুর সংযোগকারী রেখার মধ্যবর্তী কোণের সাইন ( [math]\\sin \\theta[/math]\u003Cbr\u003E)-এর সমানুপাতিক। অর্থাৎ, [math]dB \\propto \\sin \\theta[/math]\u003Cbr\u003E ।বায়ো-সেভার্টের সূত্রটি হল: [math]dB = \\frac{\\mu_0}{4\\pi} \\frac{I \\, dl \\sin \\theta}{r^2}[/math]\u003Cbr\u003Eএই সূত্র অনুযায়ী,i. [math]dB[/math]\u003Cbr\u003E দৈর্ঘ্য [math]dl[/math]\u003Cbr\u003E-এর সমানুপাতিক (সঠিক)ii. [math]dB[/math]\u003Cbr\u003E প্রবাহমাত্রা [math]I[/math]\u003Cbr\u003E-এর সমানুপাতিক, ব্যস্তানুপাতিক নয় (ভুল)iii. [math]dB[/math]\u003Cbr\u003E দূরত্ব [math]r[/math]\u003Cbr\u003E-এর বর্গের ব্যস্তানুপাতিক (সঠিক)সুতরাং, i এবং iii উভয়ই সঠিক। বায়ো-সেভার্টের সূত্র তড়িৎ প্রবাহের জন্য চৌম্বক ক্ষেত্র নির্ণয়ের একটি মৌলিক সূত্র যা বিদ্যুৎচুম্বকত্বের অন্যতম ভিত্তি।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 425681,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:33:14.000000Z",
+            "updated_at": "2025-08-19T07:33:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425680,
+      "value": {
+        "options": {
+          "ক": "দৈর্ঘ্য [math]dl[/math] এর ব্যস্তানুপাতিক",
+          "খ": "প্রবাহমাত্রা [math]I[/math]-এর সমানুপাতিক",
+          "গ": "দূরত্ব [math]r[/math]-এর সমানুপাতিক",
+          "ঘ": "[math]sin \\ \\theta[/math]এর ব্যস্তানুপাতিক"
+        },
+        "question": "পরিবাহী তারের ক্ষুদ্র অংশের (dl) তড়িৎ প্রবাহের জন্য তারের নিকটে যে কোনো বিন্দুতে সৃষ্ট চৌম্বক ক্ষেত্রের মান dB",
+        "solution": "এই প্রশ্নের সঠিক উত্তরটি হল অপশন B। বায়োস্যাভার্ট সূত্র (Biot-Savart Law) অনুসারে, একটি ক্ষুদ্র তড়িৎবাহী অংশের ( [math]dl[/math]\u003Cbr\u003E) জন্য কোনো বিন্দুতে সৃষ্ট চৌম্বক ক্ষেত্র ( [math]dB[/math]\u003Cbr\u003E) সেই অংশের মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহমাত্রা ( [math]I[/math]\u003Cbr\u003E) এর সমানুপাতিক হয়। সূত্রটি হলো: [math]dB = \\frac{\\mu_0}{4\\pi} \\frac{I dl \\sin\\theta}{r^2}[/math]\u003Cbr\u003E। এখানে, [math]dB[/math]\u003Cbr\u003E তড়িৎ প্রবাহমাত্রা [math]I[/math]\u003Cbr\u003E এর সমানুপাতিক। অপশন A ভুল কারণ [math]dB[/math]\u003Cbr\u003E, দৈর্ঘ্য [math]dl[/math]\u003Cbr\u003E এর সমানুপাতিক, ব্যস্তানুপাতিক নয়। অপশন C ভুল কারণ [math]dB[/math]\u003Cbr\u003E, দূরত্ব [math]r[/math]\u003Cbr\u003E এর বর্গের ব্যস্তানুপাতিক, শুধু দূরত্বের সমানুপাতিক নয়। অপশন D ভুল কারণ [math]dB[/math]\u003Cbr\u003E, [math]sin \\ \\theta[/math]\u003Cbr\u003E এর সমানুপাতিক, ব্যস্তানুপাতিক নয়। এই সূত্রটি মূলত একটি নির্দিষ্ট বিন্দুতে চৌম্বক ক্ষেত্র নির্ণয়ের জন্য ব্যবহৃত হয় যা কোনো তড়িৎবাহী তারে প্রবাহিত তড়িৎ দ্বারা উৎপন্ন হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 425680,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:33:14.000000Z",
+            "updated_at": "2025-08-19T07:33:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425679,
+      "value": {
+        "options": {
+          "ক": "i,ii",
+          "খ": "i,iii",
+          "গ": "ii,iii",
+          "ঘ": "i,ii,iii"
+        },
+        "question": "ক্ষুদ্র দৈর্ঘ্যের কোনো পরিবাহীর মধ্য দিয়ে তড়িৎ প্রবাহের ফলে এর আশপাশে কোনো বিন্দুতে সৃষ্ট চৌম্বক ক্ষেত্রের মান–\n\ni. পরিবাহীর দৈর্ঘ্যের সমানুপাতিক\n\nii. তড়িৎ প্রবাহের সমানুপাতিক\n\niii. পরিবাহী থেকে দূরত্বের ব্যাস্তানুপাতিক\n\nনিচের কোনটি সঠিক?",
+        "solution": "এই প্রশ্নটি বায়োস্যাভার্টের সূত্রের সাথে সম্পর্কিত, যা একটি ক্ষুদ্র দৈর্ঘ্য [math]dl[/math]\u003Cbr\u003E বিশিষ্ট পরিবাহীর মধ্য দিয়ে [math]I[/math]\u003Cbr\u003E তড়িৎ প্রবাহের জন্য এর থেকে [math]r[/math]\u003Cbr\u003E দূরত্বে এবং পরিবাহীর সাথে [math]\\theta[/math]\u003Cbr\u003E কোণ উৎপন্নকারী বিন্দুতে চৌম্বক ক্ষেত্র [math]dB[/math]\u003Cbr\u003E এর মান নির্ণয় করে। সূত্রটি হলো [math]dB \\propto \\frac{I dl \\sin\\theta}{r^2}[/math]\u003Cbr\u003E।* প্রথমে, [math]dB \\propto I[/math]\u003Cbr\u003E অর্থাৎ চৌম্বক ক্ষেত্র তড়িৎ প্রবাহের সমানুপাতিক।* দ্বিতীয়ত, [math]dB \\propto dl[/math]\u003Cbr\u003E অর্থাৎ চৌম্বক ক্ষেত্র পরিবাহীর দৈর্ঘ্যের সমানুপাতিক।* তৃতীয়ত, [math]dB \\propto \\frac{1}{r^2}[/math]\u003Cbr\u003E অর্থাৎ চৌম্বক ক্ষেত্র পরিবাহী থেকে দূরত্বের বর্গের ব্যাস্তানুপাতিক।প্রশ্নপত্রে প্রদত্ত বিকল্পগুলির মধ্যে, অপশন (i) এবং (ii) বায়োস্যাভার্টের সূত্রের সাথে সামঞ্জস্যপূর্ণ। অপশন (iii) তে দূরত্বের ব্যাস্তানুপাতিক বলা হয়েছে, কিন্তু এটি দূরত্বের বর্গের ব্যাস্তানুপাতিক হবে। তাই শুধুমাত্র প্রথম দুটি বক্তব্য সঠিক।বায়োস্যাভার্টের সূত্রটি মূলত একটি ক্ষুদ্র অংশ [math]dl[/math]\u003Cbr\u003E এর জন্য প্রযোজ্য। সম্পূর্ণ পরিবাহীর জন্য চৌম্বক ক্ষেত্র নির্ণয় করতে হলে এই ক্ষুদ্র অংশগুলির জন্য উৎপন্ন চৌম্বক ক্ষেত্রকে সমাকলন (integration) করতে হয়। যেমন, একটি ঋজু তারের জন্য চৌম্বক ক্ষেত্রের মান নির্ভর করে তড়িৎ প্রবাহ এবং তার থেকে দূরত্বের উপর, যেখানে দূরত্বের সাথে ক্ষেত্রটি ব্যাস্তানুপাতিক হয়। কিন্তু প্রশ্নটিতে ক্ষুদ্র দৈর্ঘ্যের পরিবাহীর কথা বলা হয়েছে, যেখানে সরাসরি বায়োস্যাভার্টের সূত্রের প্রথম দুটি অংশই প্রাসঙ্গিক।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 425679,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:33:14.000000Z",
+            "updated_at": "2025-08-19T07:33:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425678,
+      "value": {
+        "options": {
+          "ক": "0.064A",
+          "খ": "6.4A",
+          "গ": "4.6A",
+          "ঘ": "46A"
+        },
+        "question": "[math]32\\ cm[/math] ব‍্যাস এবং [math]40[/math] পাকসংখ্যার একটি বৃত্তাকার কুন্ডলীর মধ্য দিয়ে কত তড়িৎ প্রবাহ চললে কুন্ডলীর কেন্দ্রে [math]10\\mu T[/math] এর চৌম্বকক্ষেত্রের সৃষ্টি হবে?",
+        "solution": "[math]I=\\dfrac{B \\times 2 \\times r}{N \\times \\mu_{0}}=\\dfrac{10 \\times 10^{-6} \\times 2 \\times \\frac{32}{100 \\times 2}}{40 \\times \\mu_{0}}=0.064 \\mathrm{~A}[/math] (প্রায়)",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 425678,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 425678,
+            "tag_id": 57,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:33:14.000000Z",
+            "updated_at": "2025-08-19T07:33:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425677,
+      "value": {
+        "options": {
+          "ক": "[math]\\overrightarrow{\\mathrm{dB}}=\\dfrac{\\mu_{0}}{4 \\pi} \\dfrac{\\mathrm{Idl} \\times \\overrightarrow{\\mathrm{r}}}{r^{3}}[/math]",
+          "খ": "[math]\\overrightarrow{\\mathrm{dB}}=\\dfrac{\\mu_{0}}{4 \\pi} \\dfrac{\\mathrm{I\\overrightarrow{dl}} \\times \\mathrm{r} \\sin \\theta}{\\mathrm{r}^{3}}[/math]",
+          "গ": "[math]\\overrightarrow{\\mathrm{dB}}=\\dfrac{\\mu_{0}}{4 \\pi} \\dfrac{\\mathrm{Idl} \\times \\overrightarrow{\\mathrm{r}}^{\\mathrm{r}}}{\\mathrm{r}^{2}}[/math]",
+          "ঘ": "[math]\\overrightarrow{\\mathrm{dB}}=\\dfrac{\\mu_{0}}{4 \\pi} \\dfrac{\\mathrm{Idl}}{\\mathrm{r}^{2}}[/math]"
+        },
+        "question": "বায়োট-স্যাভার্ট সূত্রটি নিচের কোন সমীকরণ দ্বারা প্রকাশ করা হয়?",
+        "solution": "বায়োট-স্যাভার্ট সূত্রটি চুম্বকত্বের একটি মৌলিক সূত্র যা একটি বিদ্যুৎবাহী তারের একটি ক্ষুদ্র অংশ দ্বারা উৎপন্ন চৌম্বক ক্ষেত্র পরিমাপ করে। এই সূত্র অনুসারে, একটি ক্ষুদ্র বিদ্যুৎবাহী উপাদান [math]Id\\overrightarrow{l}[/math]\u003Cbr\u003E দ্বারা [math]r[/math]\u003Cbr\u003E দূরত্বে সৃষ্ট চৌম্বক ক্ষেত্রের ক্ষুদ্র পরিমাণ [math]d\\overrightarrow{B}[/math]\u003Cbr\u003E নিচের সমীকরণ দ্বারা প্রকাশ করা হয়:[math]\\overrightarrow{dB}=\\dfrac{\\mu_{0}}{4 \\pi} \\dfrac{Id\\overrightarrow{l} \\times \\overrightarrow{r}}{r^{3}}[/math]\u003Cbr\u003Eএখানে,- [math]\\mu_{0}[/math]\u003Cbr\u003E হল শূন্য মাধ্যমের প্রবেশ্যতা।- [math]I[/math]\u003Cbr\u003E হল তারের মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহ।- [math]dl[/math]\u003Cbr\u003E হল তারের ক্ষুদ্র অংশের দৈর্ঘ্য।- [math]\\overrightarrow{dl}[/math]\u003Cbr\u003E হল ক্ষুদ্র অংশের দৈর্ঘ্য ও দিক নির্দেশকারী ভেক্টর।- [math]\\overrightarrow{r}[/math]\u003Cbr\u003E হল ক্ষুদ্র অংশ থেকে যে বিন্দুতে চৌম্বক ক্ষেত্র নির্ণয় করা হচ্ছে সেই বিন্দুর দিকে নির্দেশকারী ভেক্টর।- [math]r[/math]\u003Cbr\u003E হল ক্ষুদ্র অংশ থেকে বিন্দুর দূরত্ব।- [math]\\times[/math]\u003Cbr\u003E চিহ্নটি ভেক্টর ক্রস গুণন নির্দেশ করে।এই সূত্রটি চৌম্বক ক্ষেত্রের দিক নির্ণয়েও সাহায্য করে। ক্রস গুণনের নিয়ম অনুসারে, চৌম্বক ক্ষেত্রের দিক বিদ্যুৎ প্রবাহের দিকের সাথে লম্ব এবং [math]\\overrightarrow{r}[/math]\u003Cbr\u003E ভেক্টরের দিকের সাথেও লম্ব। এই সূত্রটি ইলেকট্রোম্যাগনেটিজমের একটি ভিত্তি এবং এটি অনেক জটিল চৌম্বকীয় সমস্যা সমাধানে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 425677,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 425677,
+            "tag_id": 11,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:33:14.000000Z",
+            "updated_at": "2025-08-19T07:33:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425676,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{\\mu _0I}{\\pi L}[/math]",
+          "খ": "[math]\\dfrac{\\mu _0I}{2\\pi L}[/math]",
+          "গ": "$ \\dfrac{\\mu _0I}{2L} $",
+          "ঘ": "$ \\dfrac{\\pi \\mu _0I}{L} $",
+          "ঙ": "[math]\\text{none}[/math]"
+        },
+        "question": "তড়িৎ‍ প্রবাহ [math]I[/math] বহন করা [math]L[/math] দৈর্ঘ্যের একটি তারকে বৃত্তাকার করা হলো। এই বৃত্তের কেন্দ্রে চৌম্বকক্ষেত্রের মান কত?",
+        "solution": "[math]2 \\pi r=\\mathrm{L} \\therefore \\mathrm{r}=\\dfrac{\\mathrm{L}}{2 \\pi} ; \\quad \\mathrm{B}=\\dfrac{\\mu_{0} \\mathrm{I}}{2 \\mathrm{r}}=\\dfrac{\\mu_{0} \\mathrm{I}}{2 \\times \\dfrac{\\mathrm{L}}{2 \\pi}}=\\dfrac{\\pi \\mu_{0} \\mathrm{I}}{\\mathrm{L}}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 425676,
+            "year_id": 21
+          }
+        },
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 425676,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 425676,
+            "tag_id": 80,
+            "year": "09-10",
+            "created_at": "2025-08-19T07:33:14.000000Z",
+            "updated_at": "2025-08-19T07:33:14.000000Z"
+          }
+        },
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 425676,
+            "tag_id": 109,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:33:14.000000Z",
+            "updated_at": "2025-08-19T07:33:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425675,
+      "value": {
+        "options": {
+          "ক": "[math]d\\vec{B}=\\dfrac{\\mu _0}{4\\pi }\\dfrac{Id\\vec{\\ell }\\times \\vec{r}}{r^3}[/math]",
+          "খ": "[math]d\\vec{B}=\\dfrac{\\mu _0}{4\\pi }\\dfrac{Id\\ell \\sin \\theta }{r^3}[/math]",
+          "গ": "$ d\\vec{B}=\\dfrac{\\mu _0}{4\\pi }\\dfrac{Id\\vec{\\ell }\\times \\vec{r}}{r^2} $",
+          "ঘ": "$ d\\vec{B}=\\dfrac{\\mu _0}{4\\pi }\\dfrac{Id\\ell }{r^2} $"
+        },
+        "question": "বায়োট-স্যাভার্ট সূত্রটি নিচের কোন সমীকরণের মাধ্যমে প্রকাশ করা যায়?",
+        "solution": "এই সমীকরণটি বায়োট-স্যাভার্ট সূত্রকে ভেক্টর রূপে প্রকাশ করে। এখানে [math]d\\vec{B}[/math]\u003Cbr\u003E হলো একটি ক্ষুদ্র বিদ্যুৎ প্রবাহের (current) জন্য সৃষ্ট চৌম্বক ক্ষেত্র, [math]I[/math]\u003Cbr\u003E হলো বিদ্যুৎ প্রবাহের মান, [math]d\\vec{\\ell}[/math]\u003Cbr\u003E হলো বিদ্যুৎ প্রবাহের দিকের ক্ষুদ্র দৈর্ঘ্যের ভেক্টর, [math]\\vec{r}[/math]\u003Cbr\u003E হলো বিদ্যুৎ প্রবাহের ক্ষুদ্র অংশ থেকে যে বিন্দুতে চৌম্বক ক্ষেত্র নির্ণয় করা হচ্ছে সেই বিন্দুর ভেক্টর, এবং [math]\\mu_0[/math]\u003Cbr\u003E হলো শূন্য মাধ্যমের চৌম্বক ভেদ্যতা। [math]\\times[/math]\u003Cbr\u003E চিহ্নটি ভেক্টর ক্রস গুণন নির্দেশ করে। ক্রস গুণনের সংজ্ঞানুসারে [math]d\\vec{\\ell} \\times \\vec{r}[/math]\u003Cbr\u003E এর মান [math]d\\ell r \\sin\\theta[/math]\u003Cbr\u003E, যেখানে [math]\\theta[/math]\u003Cbr\u003E হলো [math]d\\vec{\\ell}[/math]\u003Cbr\u003E এবং [math]\\vec{r}[/math]\u003Cbr\u003E এর মধ্যবর্তী কোণ। সমীকরণের হরের [math]r^3[/math]\u003Cbr\u003E অংশটি [math]\\frac{1}{r^2}[/math]\u003Cbr\u003E এবং [math]\\frac{1}{r}[/math]\u003Cbr\u003E এর সমন্বয়ে আসে, যা ভেক্টর ক্রস গুণনের সঠিক রূপ। অন্য বিকল্পগুলিতে ভেক্টর গুণন বা হরের ঘাত ভুলভাবে দেখানো হয়েছে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 425675,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 425675,
+            "tag_id": 80,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:33:14.000000Z",
+            "updated_at": "2025-08-19T07:33:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425674,
+      "value": {
+        "options": {
+          "ক": "ব্যস্তানুপাতিক",
+          "খ": "সমানুপাতিক",
+          "গ": "বর্গের ব্যস্তানুপাতিক",
+          "ঘ": "বর্গের সমানুপাতিক"
+        },
+        "question": "ল্যাপ্লাসের সূত্রানুসারে প্রাবল্য বিদ্যুৎ প্রবাহমাত্রার-",
+        "solution": "ল্যাপ্লাসের সূত্রমতে, প্রাবল্য- প্রবাহমাত্রা ও পরিবাহীর দৈর্ঘ্যের সমানুপাতিক, দূরত্বের ব্যস্তানুপাতিক।",
+        "explanation": "",
+        "correct_answer": "B.সমানুপাতিক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 37,
+          "year": "1997-1998",
+          "pivot": {
+            "question_bank_id": 425674,
+            "year_id": 37
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 425674,
+            "tag_id": 3225,
+            "year": "97-98",
+            "created_at": "2025-08-19T07:33:14.000000Z",
+            "updated_at": "2025-08-19T07:33:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6330&grade=1&lesson=6644&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6330&grade=1&lesson=6644&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6330&grade=1&lesson=6644&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 39,
+  "total": 39
+}

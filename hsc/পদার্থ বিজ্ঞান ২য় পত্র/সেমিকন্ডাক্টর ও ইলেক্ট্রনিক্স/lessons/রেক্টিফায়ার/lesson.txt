@@ -1,0 +1,2097 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 437569,
+      "value": {
+        "options": [],
+        "question": "অর্ধতরঙ্গ একমুখীকরণ প্রক্রিয়ার কেন আউটপুটে পূর্ণ তরঙ্গ পাওয়া যায় না- বাখ্যা করে।",
+        "solution": "অর্ধতরঙ্গ একমুখীকরণ প্রক্রিয়ায় p-n জংশন একবার সম্মুখী ঝোঁক এবং আরেকবার বিমুখী ঝোঁক প্রাপ্ত হয় বলে আউটপুটে পূর্ণ তরঙ্গ পাওয়া যায় না। AC প্রবাহের জন্য ধনাত্ম প্রান্তের (p প্রান্ত) ভিতর দিয়ে যায় তখন ডায়োড সম্মুখ ঝোঁক প্রাপ্ত হয় এবং বিদ্যুৎ প্রবাহিত হয়। কিন্তু ঋণাত্মক অর্ধচক্র যখন ডায়োডের ধনাত্মক (p প্রান্ত) দিয়ে যায় তখন ডায়োড বিমুখী ঝোঁক প্রাপ্ত হয় এবং তড়িৎ প্রবাহিত হয় না। ফলে ধনাত্মক অর্ধচক্রের ক্ষেত্রে আউটপুট পেলেও ঋণাত্মক অর্ধচক্রে আউটপুট পাওয়া যায় না। এজন্য আউটপুটে পূর্ণ তরঙ্গ পাওয়া না।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-02-010-cq-letque-solve-17-ree0a69ce0a6be_1755590271_S2CFGisJ.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "explanation": "অর্ধতরঙ্গ একমুখীকরণে একটি একক ডায়োড থাকে যা কেবল একক অর্ধচক্র (ধনাত্মক বা ঋণাত্মক) চলাকালে তেইঙ্গিত করে এবং বিপরীত অর্ধচক্রকে ব্লক করে, ফলে কেবল অর্ধচক্রগুলোর পালস আসে; তাই উভয় অর্ধচক্রকে একই দিকের করে মিলিত করে নিরবিচ্ছিন্ন পূর্ণ তরঙ্গ পাওয়া যায় না। পূর্ণ তরঙ্গ পেতে হলে কেন্দ্র-ট্যাপ ট্রান্সফর্মার বা ব্রিজ কনফিগারেশনের মত অতিরিক্ত ডায়োড/পরিবর্তন প্রয়োজন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 437569,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 437569,
+            "tag_id": 47,
+            "year": "2021",
+            "created_at": "2025-08-19T07:57:51.000000Z",
+            "updated_at": "2025-08-19T07:57:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437568,
+      "value": {
+        "options": [],
+        "question": "পূর্ণতরঙ্গ ব্রিজ রেকটিফায়ারে চারটি ডায়োড ব্যবহার করা হয় কেন? ব্যাখ্যা করো।",
+        "solution": "পূর্ণ তরঙ্গ ব্রিজ রেকটিফায়ারে এসি অন্তর্গামী উৎসের ধনাত্মক ও ঋণাত্মক দুই চক্রই কাজে যোগানোর জন্য চারটি ডায়োড ব্যবহার করা হয়।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-02-010-cq-letque-solve-6-reiew_1755590270_bngfdwIC.png\" alt=\"\"\u003E\u003Cbr/\u003Eএক্ষেত্রে এসি উৎস [math]V_{in}[/math]\u003Cbr\u003E এর ধনাত্মক অর্ধচক্রের জন্য P প্রান্ত ধনাত্মক ও Q প্রান্ত ঋণাত্মক হয়। ফলে [math]D_1 ~ও~ D_3[/math]\u003Cbr\u003E সম্মুখী ঝোঁক প্রাপ্ত হয় ও এদের ভেতর দিয়ে তড়িৎ প্রবাহ রোধ [math]R_L[/math]\u003Cbr\u003E এর মধ্য দিয়ে A থেকে B এর দিকে যায়। আবার, ঋণাত্মক অর্ধচক্রের জন্য Q প্রান্ত ধনাত্মক ও P প্রান্ত ঋণাত্মক হয়। ফলে [math]D_2[/math]\u003Cbr\u003E ও [math]D_4[/math]\u003Cbr\u003E সম্মুখী ঝোঁক প্রাপ্ত হয় এবং এদের মধ্য দিয়ে তড়িৎ প্রবাহ রোধ [math]R_L[/math]\u003Cbr\u003E এর মাধ্যমে A থেকে B এর দিকে যায়। এভাবে A বিন্দু সর্বদা অ্যানোড ও B বিন্দু ক্যাথোড হিসেবে ক্রিয়া করে। সুতরাং প্রত্যেক AC সিগন্যালকে বহির্গামীতে DC হিসেবে পাওয়ার জন্য পূর্ণতরঙ্গ ব্রিজ রেকটিফায়ারে চারটি ডায়োড ব্যবহার করা হয়।",
+        "explanation": "পূর্ণতরঙ্গ ব্রিজে চারটি ডায়োড ব্যবহার করা হয় যাতে প্রতিটি অর্ধ-চক্রে দুটি ডায়োড চালু হয়ে লোডে প্রবাহ একই দিকেই দেয়, ফলে দুই অর্ধ-চক্রই সরাসরি রেকটিফাই হয়। এতে কেন্দ্র-ট্যাপড ট্রান্সফর্মারের দরকার পড়ে না এবং আউটপুট গড় ভোল্টেজ বেশি ও কার্যকরী হয়। চারটি ডায়োড প্রতিটি অর্ধ-চক্রে বিপরীত প্রবাহ বাধা দিয়ে সঠিক পোলারিটি নিশ্চিত করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 437568,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437568,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 437568,
+            "tag_id": 236,
+            "year": "2021",
+            "created_at": "2025-08-19T07:57:50.000000Z",
+            "updated_at": "2025-08-19T07:57:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437567,
+      "value": {
+        "options": [],
+        "question": "রেকটিফায়ার কাকে বলে?",
+        "solution": "যে বর্তনী পরিবর্তী প্রবাহকে একমুখী প্রবাহে রূপান্তর করে তাকে একমুখী কারক বা রেকটিফায়ার বলে।",
+        "explanation": "রেকটিফায়ার হল এমন একটি ডিভাইস যা AC (বিকল্প ধারা) কে DC (একদিক প্রবাহ) তে রূপান্তর করে। এটি সাধারণত ডায়োডের মতো উপাদান ব্যবহার করে, যেগুলি শুধুমাত্র একটি দিকে ধারা প্রবাহিত হতে দেয় ফলে পরিবর্তমান তরঙ্গform-এর নেতিবাচক অংশ কেটে গিয়ে একদিকের (পালসেটিং) ধারা তৈরি হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 437567,
+            "year_id": 2
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 437567,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 437567,
+            "tag_id": 47,
+            "year": "2021",
+            "created_at": "2025-08-19T07:57:49.000000Z",
+            "updated_at": "2025-08-19T07:57:49.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 437567,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T07:57:49.000000Z",
+            "updated_at": "2025-08-19T07:57:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437566,
+      "value": {
+        "options": {
+          "ঘ": "বর্তনীর ডায়োড [math]D_2[/math] ও [math]D_4[/math] এর অনুপস্থিতিতে আউটপুট সিগন্যাল কেমন হবে চিত্র এঁকে ব্যাখ্যা কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020tp20cq-18_1755590267_FPFSfdHH.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nবর্তনীর ইনপুট সিগন্যাল [math]220\\ V[/math] এবং কম্পাঙ্ক [math]50\\ Hz[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকে [math]D_1, D_2, D_3[/math]\u003Cbr\u003E ও [math]D_4[/math]\u003Cbr\u003E ডায়োড চারটি দিয়ে ব্রিজ গঠন করা হয়েছে। বর্তনীর ডায়োড [math]D_2[/math]\u003Cbr\u003E ও [math]D_4[/math]\u003Cbr\u003E এ অনুপস্থিতিতে বর্তনীর চিত্র নিম্নরূপ :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcamscanner-09-20-2023-1421-removebg-preview_1755590268_TsA7ahsv.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eপূর্ণতরঙ্গ ব্রিজ রেকটিফায়ারে AC input উৎসের দুই চক্রই কাজে লাগানো হয়। ধনাত্মক অর্ধচক্রের জন্য P প্রান্ত ধনাত্মক ও Q প্রান্ত ঋণাত্মক হয়। ফলে [math]D_1[/math]\u003Cbr\u003E ও [math]D_3[/math]\u003Cbr\u003E ডায়োড সম্মুখ ঝোঁক প্রাপ্ত হয়। শুধুমাত্র [math]D_1[/math]\u003Cbr\u003E ও [math]D_3[/math]\u003Cbr\u003E ডায়োডের মধ্য দিয়ে তড়িৎ প্রবাহিত হয়। তড়িৎ A থেকে [math]R_L[/math]\u003Cbr\u003E এর মধ্য দিয়ে B এর দিকে প্রবাহিত হবে। গৌণ কুণ্ডলীর ঋণাত্মক অর্ধচক্রের জন্য [math]D_1[/math]\u003Cbr\u003E ও [math]D_3[/math]\u003Cbr\u003E বিমুখী ঝোঁক প্রাপ্ত হয় ফলে [math]R_L[/math]\u003Cbr\u003E এর মধ্যদিয়ে ডিসি বহির্গামী পাওয়া যায় না ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E D2 ও D4 সরালে ব্রিজে কোনো সম্পূর্ণ বর্তনীর পথ থাকে না—D1 ও D3 একসাথে লোডের মাধ্যমে সার্কিট বন্ধ করতে পারে না। তাই ইনপুট [math]220\\ V,\\ 50\\ Hz[/math] থাকা সত্ত্বেও লোডে কোনো রেক্টিফায়েড আউটপুট পাওয়া যাবে না (আউটপুট শূন্য/অসংযোগ된 থাকবে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437566,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3542,
+          "full_name": "Dr. Mahbubur Rahman Mollah College",
+          "short_name": "DMRMC",
+          "slug": "dmrmc",
+          "pivot": {
+            "question_bank_id": 437566,
+            "tag_id": 3542,
+            "year": "2020",
+            "created_at": "2025-08-19T07:57:48.000000Z",
+            "updated_at": "2025-08-19T07:57:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437565,
+      "value": {
+        "options": {
+          "গ": "চিত্র-১ এর ডিভাইস দ্বারা কীভাবে পূর্ণ তরঙ্গ রেকটিফিকেশন সম্ভব সার্কিটসহ ব্যাখ্যা কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-210-tp-cq-17_1755590264_PuERyPRc.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcamscanner-09-20-2023-1335-3-removebg-preview_1755590265_s1oJR912.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eচিত্রে একটি ব্যবস্থা দেখানো হয়েছে যেখানে ইনপুট ও আউটপুট সার্কিটকে একটি সেন্টার ট্যাপট ট্রান্সফর্মার এর মাধ্যমে যুক্ত করা হয়েছে। ট্রান্সফর্মারটির প্রাইমারীতে ইনপুট এবং সেকেন্ডারীতে আউটপুট ম্যাকানিজম যুক্ত আছে। আউটপুট সার্কিটে দুটি ডায়োড ( [math]D_1,[/math]\u003Cbr\u003ED_2) এবং একটি রোধ ( [math]R_L[/math]\u003Cbr\u003E) যুক্ত আছে। ধনাত্মক অর্ধচক্রের জন্য [math]D_1[/math]\u003Cbr\u003E ডায়োডটি সম্মুখী এবং [math]D_2[/math]\u003Cbr\u003E ডায়োডটি বিমুখী বায়াস প্রাপ্ত হবে ফলে এটি ( [math]D_1[/math]\u003Cbr\u003E) ধনাত্মক অর্ধচক্রের সময় [math]R_L[/math]\u003Cbr\u003E-এর মধ্যদিয়ে তড়িৎ পরিবহন করবে। ঋণাত্মক অর্ধচক্রের জন্য [math]D_2[/math]\u003Cbr\u003E সম্মুখী বায়াস এবং [math]D_1[/math]\u003Cbr\u003E বিমুখী বায়াস প্রাপ্ত হবে ফলে সার্কিট অনুসারে [math]D_2[/math]\u003Cbr\u003E তখন [math]R_L[/math]\u003Cbr\u003E -এর মধ্যদিয়ে একই দিকে তড়িৎ পরিবহন করবে। যেহেতু ধনাত্মক ও ঋণাত্মক অর্ধচক্রে [math]R_L[/math]\u003Cbr\u003E -এর মধ্যদিয়ে সর্বদা একই দিকে তড়িৎ প্রবাহিত হবে তাই এক্ষেত্রে তরঙ্গটির পূর্ণ তরঙ্গ রেকটিফিকেশন হয়েছে। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E চিত্র-১-এ থাকা চারটি ডায়োডের ব্রিজ সার্কিট দিয়ে পূর্ণ তরঙ্গ রেকটিফিকেশন করা হয়; অ্যাসি উৎসের প্রতিটি অর্ধ-চক্রে ভিন্ন জোড়া ডায়োড কন্ডাক্ট করে যাতে লোডে সর্বদা একই দিশায় কারেন্ট প্রবাহিত হয়। ধনাত্মক হাফ-সাইকেলে একটি জোড়া ও নেতিবাচক হাফ-সাইকেলে অন্য জোড়া ডায়োড চালু হয়, ফলে লোডে দুটো হাফ-সাইকেলই ধনাত্মক পালস হিসেবে পাওয়া যায় এবং আউটপুট মসৃণ করতে একটি ফিল্টার ক্যাপাসিটার ব্যবহার করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437565,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3478,
+          "full_name": "Abdul Kadir Molla City College",
+          "short_name": "AKMCC",
+          "slug": "akmcc",
+          "pivot": {
+            "question_bank_id": 437565,
+            "tag_id": 3478,
+            "year": "2020",
+            "created_at": "2025-08-19T07:57:45.000000Z",
+            "updated_at": "2025-08-19T07:57:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437564,
+      "value": {
+        "options": {
+          "ঘ": "ডায়োডটি খুলে ফেলার পর আউটপুট সিগন্যালের পরিবর্তন কীরূপ হবে তা সচিত্র বর্ণনা কর ।"
+        },
+        "question": "গবেষণাগারে একজন শিক্ষার্থী চারটি একই রকমের ডায়োড নিয়ে পরীক্ষা করছিল। সে দেখতে পেল যে প্রতিটি ডায়োডের দুই প্রান্তের বিভব পার্থক্য [math]0.4 volt[/math] পরিবর্তন করা হলে তড়িৎ প্রবাহের পরিবর্তন [math]100 \\ mA[/math] হয়। ডায়োডগুলো ব্যবহার করে সে একটি পূর্ণ তরফা রেক্টিফায়ার তৈরি করে পরীক্ষণ শুরু করল। কিছুক্ষণ পর সে বর্তনী থেকে একটি ডায়োড খুলে ফেলল।",
+        "solution": "",
+        "explanation": "ব্যাখ্যা: পূর্ণ-তরফা ব্রিজে প্রতিটি অর্ধ-চক্রে দুইটি ডায়োড পথ করে প্রবাহ যায়; একটি ডায়োড খুলে গেলে এক অর্ধ-চক্রের পথ ভেঙে পড়ে এবং কেবল অপর অর্ধ-চক্রের পালসগুলোই আউটপুটে পৌঁছায়। ফলে আউটপুট পূর্ণ-তরঙ্গ থেকে হয়ে যায় অর্ধ-তরঙ্গ (পালসগুলো অদলবদল হয়ে অনুপস্থিত থাকবে), গড় DC মান কমে এবং রিপল বেড়ে যায়; পালসের শীর্ষ মান প্রায় আগের মতোই থাকে (দুটি ডায়োডের ভোল্টেজ ড্রপ ধার্য)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 437564,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:57:43.000000Z",
+            "updated_at": "2025-08-19T07:57:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437563,
+      "value": {
+        "options": {
+          "ঘ": "বর্তনীটি যথাযথভাবে পূর্ণ কর এবং [math]C[/math] ও [math]D[/math] প্রাস্তদ্বয়ের মাঝে প্রাপ্ত বিভবের এরূপ পরিবর্তনের কারণ ব্যাখ্যা কর।"
+        },
+        "question": "(ক) চিত্রে [math]A[/math] ও [math]B[/math] প্রান্তদ্বয় একটি দিক পরিবর্তী উৎসের সাথে যুক্ত। [math]C[/math] ও [math]D[/math] প্রান্তদ্বয়ের মাঝে সময়ের সাথে প্রাপ্ত বিভবের পরিবর্তন (খ) চিত্রে দেখানো হয়েছে।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22062-8_1755590261_AjqceiCn.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eবর্তনীটি যথাযথভাবে পূর্ণ করে C ও D প্রান্তদ্বয়ের মাঝে প্রাপ্ত বিভবের এরূপ পরিবর্তনের কারণ ব্যাখ্যা করা হলো:\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture_1755590262_4R31U84w.png\" alt=\"undefined\"\u003E\u003Cbr/\u003EAC সিগন্যালের ধনাত্মক অর্ধচক্রের জন্য A প্রান্ত ধনাত্মক এবং B প্রান্ত ঋণাত্মক। ফলে [math]D_1[/math]\u003Cbr\u003E ও [math]D_3[/math]\u003Cbr\u003E ডায়োড সম্মুখ বায়াসে থাকে এবং [math]D_2[/math]\u003Cbr\u003E ও [math]D_3[/math]\u003Cbr\u003E ডায়োড বিমুখী বায়াসে থাকে। ফলে APQCDSR পথে তড়িৎ প্রবাহিত হয় এবং C ও D বিন্দুতে বিভব পতন হয়। আবার ঋণাত্মক অর্ধচক্রে B প্রান্ত ধনাত্মক এবং A প্রান্ত ঋণাত্মক হয় ফলে [math]D_2[/math]\u003Cbr\u003E ও [math]D_4[/math]\u003Cbr\u003E ডায়োড সম্মুখ বায়াসে থাকে এবং BRQCDSP পথে তড়িৎ প্রবাহিত হয়। উভয় অর্ধচক্রেই তড়িৎ একই দিকে CD পথে প্রবাহিত হওয়ায় C ও D প্রান্তে পতিত ভোল্টেজের চিহ্ন একই হয়। এজন্য C ও D প্রান্তদ্বয়ের মাঝে বচ পাতন হয়।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বর্তনীটি পূর্ণ করতে A থেকে C তে একটি সিলিকন ডায়োড (এনোড A দিকে, ক্যাথোড C দিকে) এবং C ও D এর মাঝে লোড (রোধ) সংযুক্ত করে রিটার্ন ক্যার্সপপ B-তে দিয়েন; ফলে স্রোত A→B করে। ব্যাখ্যা: ডায়োড শুধুমাত্র উৎসের ধনাত্মক অর্ধচক্রে পরিবাহিতা করে, তাই C–D এর বিভব উৎসের ধনাত্মক অর্ধ-সাইন তরঙ্গের মত দেখা যায় এবং ঋণাত্মক অর্ধচক্রে ডায়োড বন্ধ থাকায় বিভব শূন্য থাকে (অর্ধ-তরঙ্গ সংশোধন)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 437563,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:57:42.000000Z",
+            "updated_at": "2025-08-19T07:57:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437562,
+      "value": {
+        "options": {
+          "গ": "[math]C[/math] ও [math]D[/math] প্রান্তদ্বয়ের মাঝে প্রাপ্ত বিভবের কার্যকর মান নির্ণয় কর।"
+        },
+        "question": "(ক) চিত্রে [math]A[/math] ও [math]B[/math] প্রান্তদ্বয় একটি দিক পরিবর্তী উৎসের সাথে যুক্ত। [math]C[/math] ও [math]D[/math] প্রান্তদ্বয়ের মাঝে সময়ের সাথে প্রাপ্ত বিভবের পরিবর্তন (খ) চিত্রে দেখানো হয়েছে।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22062-8_1755590260_rnJL2NIe.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,বিভবের সর্বোচ্চ মান, [math]V_m[/math]\u003Cbr\u003E = 2.5 Vবিভবের কার্যকর মান, [math]V_{eff}[/math]\u003Cbr\u003E = ?আমরা জানি,কার্যকর বিভব,[math]\\begin{aligned}\\mathrm{V}_{\\mathrm{eff}} & =\\frac{\\mathrm{V}_{\\mathrm{m}}}{\\sqrt{2}} \\\\\\text { } \\mathrm{V}_{\\mathrm{eff}} & =\\frac{2.5}{\\sqrt{2}} \\\\\\therefore\\mathrm{V}_{\\mathrm{eff}} & =1.77 \\mathrm{~V} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কার্যকর (RMS) মান সংজ্ঞা অনুযায়ী বিভবের বর্গের সময়গত গড়ের বর্গমূল, তাই [math]V_{rms}=\\sqrt{\\frac{1}{T}\\int_{0}^{T}[v(t)]^{2}\\,dt}[/math]. গ্রাফ অনুযায়ী প্রতিটি সময়খন্ডে বিভবের মান স্থির বা সহজ কার্যকর ফাংশন হলে সেই খন্ডগুলোর জন্য [math]v^{2}[/math]–এর গড় বের করে সময়ভাগের অনুপাত অনুযায়ী যোগ করে শেষে বর্গমূল নিলেই সঠিক মান পাওয়া যাবে. (সাইনুয়েড হলে [math]V_{rms}=V_{m}/\\sqrt{2}[/math], ধাপ-ভিত্তিক মান হলে প্রতিটি ধাপের মানের বর্গ গুন সময়ানুপাত যোগ করে ভাগ করে বর্গমূল নিতে হবে.)",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 437562,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:57:40.000000Z",
+            "updated_at": "2025-08-19T07:57:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437561,
+      "value": {
+        "options": {
+          "ঘ": "ডায়োডটি খুলে ফেলার পর আউটপুট সিগনালের পরিবর্তন কিরূপ হবে তা সচিত্র বর্ণনা কর।"
+        },
+        "question": "গবেষণাগারে একজন শিক্ষার্থী চারটি একই রকমের ডায়োড নিয়ে পরীক্ষা করছিল। সে দেখতে পেল যে প্রতিটি ডায়োডের দুই প্রান্তের বিভব পার্থক্য [math]0.4\\ volt[/math] পরিবর্তন করা হলে তড়িৎ প্রবাহের পরিবর্তন [math]100\\ mA[/math] হয়। ডায়োডগুলো ব্যবহার করে সে একটি পূর্ণ তরঙ্গ রেক্টিফায়ার তৈরি করে পরীক্ষণ শুরু করল। কিছুক্ষণ পর সে বর্তনী থেকে একটি ডায়োড খুলে ফেলল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eডায়োডটি খুলে ফেলার পর উদ্দীপকটি অর্ধতরঙ্গ রেকটিফায়ার এ পরিণত হবে। এর তিনটি ডায়োড তিনটি বর্তনীর সাথে যুক্ত থাকবে।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-2-10-cq-letque-solve-22_1755590259_FHITKdHV.png\" alt=\"\"\u003E\u003Cbr/\u003Eএ ধরনের অর্ধতরঙ্গ রেকটিফায়ারে তিনটি ডায়োড চক্রের একটি ডায়োড কাজ করে। ফলে এখানে, তিনটি ডায়োডের একটি ডায়োড কাজ করবে এবং বাকি দুটি কাজ করবে না। এ পরিস্থিতিতে অ্যানোডের সাপেক্ষে ক্যাথোড ধনাত্মক হবে। এ কার্যক্রমটি প্রত্যেকটি ডায়োডের জন্যই প্রযোজ্য।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-2-10-cq-letque-solve-23_1755590258_ZVzujijs.png\" alt=\"\"\u003E\u003Cbr/\u003Eতিনটি বর্তনী যুক্ত অর্ধতরঙ্গ রেকটিফায়ার এখানে যে বিন্যাসটি দেখানো হয়েছে তা কেবল তিনটি বর্তনীর জন্যই প্রযোজ্য। একক বর্তনীর মতো হলেও এখানে কোনো একক বিন্দু নেই যেখানে বিভব পার্থক্য শূন্যতে পরিণত হরে। এখানে বিভব পার্থক্য খুবই কম একক বর্তনীর তুলনায় এবং A. C. কারেন্ট সরবরাহ করা হয় উদ্দীপকের তুলনায় তিনগুণ বেশি। তিনটি বর্তনীযুক্ত রেকটিফায়ার ঘরবাড়ির যন্ত্রপাতিতে এমনকি শিল্পকারখানায় ব্যবহার করা হয়।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: প্রতিটি ডায়োডের ডাইনামিক প্রতিরোধ [math]r_d=\\Delta V/\\Delta I=0.4\\ \\text{V}/0.1\\ \\text{A}=4\\ \\Omega[/math] হওয়ায় ডায়োডের সিরিজ রেজিস্ট্যান্স অত্যন্ত ছোট। ফুল‑ওয়েভ ব্রিজে প্রতিটি অর্ধ‑চক্রে দুটি ডায়োড কন্ডাক্ট করে; একটি ডায়োড খুলে ফেললে এক অর্ধ‑চক্রের কন্ডাকশন পথ বিঘ্নিত হয় এবং শুধু অন্য অর্ধ‑চক্রের পালসগুলোই আউটপুটে আসে — ফলে আউটপুট হাফ‑ওয়েভের মতো হয়ে যায় (পালস ফ্রিকোয়েন্সি halb) এবং রাইপল উল্লেখযোগ্যভাবে বাড়ে, তবে প্রতিহত শীর্ষ ভোল্টেজ পালসগুলোর জন্য প্রায় অপরিবর্তিত থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 437561,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437561,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 437561,
+            "tag_id": 7,
+            "year": "2015",
+            "created_at": "2025-08-19T07:57:39.000000Z",
+            "updated_at": "2025-08-19T07:57:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437560,
+      "value": {
+        "options": {
+          "ঘ": "বর্তনীতে [math]\\mathrm{D}_{4}[/math] সংযুক্ত অবস্থায় AC কে DC তে রূপান্তর সম্ভব কি না— সচিত্র ব্যাখ্যা দাও।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-21020part201202023-2001-2_1755590255_EQvmImb8.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nবর্তনীতে ব্যবহৃত প্রতিটি ডায়োড অভিন্ন। এদের যে কোনোটির দুইপ্রান্তে 0.6 volt বিভব পার্থক্য সৃষ্টি করায় প্রবাহ 100 mA হতে 150 mA এ পরিবর্তিত হয়। আবার ব্রীজটির সাহায্যে AC Signal কে DC Signal এ রূপান্তর করতে গিয়ে দেখা গেল [math]\\mathrm{D}_{4}[/math] ডায়োডটি নষ্ট।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eচিত্রে বর্তনীতে [math]\\mathrm{D}_{4}[/math]\u003Cbr\u003E ডায়োডটি নষ্ট হলে বর্তনীটি হবে :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-21020part201202023-2003_1755590256_vNrnbogA.png\" alt=\"\"\u003E\u003Cbr/\u003Eএখানে [math]\\mathrm{D}_{4}[/math]\u003Cbr\u003E এর স্থানে খোলা বর্তনী তৈরি হবে। এখন ট্রান্সফর্মারের মুখ্য কুন্ডলীকে দিক পরিবর্তী প্রবাহের উৎসের সাথে যুক্ত করা হলে তা গৌণ কুন্ডলীতে আবিষ্ট হয়। দিক পরিবর্তী প্রবাহের ধনাত্মক অর্ধচক্রের জন্য A প্রান্ত ধনাত্মক ও C প্রান্ত ঋণাত্মক হয়। এ অবস্থায় [math]\\mathrm{D}_{4}[/math]\u003Cbr\u003E ও [math]\\mathrm{D}_{2}[/math]\u003Cbr\u003E সম্মুখী বায়াসে থাকার কথা। কিন্তু [math]\\mathrm{D}_{4}[/math]\u003Cbr\u003E ডায়োড নষ্ট হওয়ায় এখানে খোলা বর্তনী তৈরি হয়। ফলে তড়িৎ প্রবাহ হয় না। এজন্য ভার রোধ [math]\\mathrm{R}_{\\mathrm{L}}[/math]\u003Cbr\u003E এর প্রান্তে বিভব পতন শূন্য হয়।আবার দিক পরিবর্তী প্রবাহের ঋণাত্মক অর্ধচক্রের জন্য C প্রান্ত ধনাত্মক ও A প্রান্ত ঋণাত্মক হয়। এতে [math]D_{1}[/math]\u003Cbr\u003E ও [math]D_{3}[/math]\u003Cbr\u003E স্মমুখী ঝোঁক প্রাপ্ত হয় এবং [math]\\mathrm{CBR}_{\\mathrm{L}} \\mathrm{DAA}^{\\prime} \\mathrm{C}^{\\prime}[/math]\u003Cbr\u003E পথে তড়িৎ প্রবাহিত হয়। সুতরাং, বর্তনীতে [math]\\mathrm{D}_{4}[/math]\u003Cbr\u003E যুক্ত থাকা অবস্থায় আউটপুট DC হবে কিন্তু পূর্ণতরঙ্গ পাওয়া যায় না, শুধু অর্ধতরঙ্গ পাওয়া যায়। এ অবস্থায় বর্তনীটি অর্ধতরঙ্গ রেকটিফায়ার হিসেবে কাজ করে।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যদি [math]\\mathrm{D}_{4}[/math] নষ্ট (খোলা সার্কিট) থাকে, তাহলে ব্রিজের এক হাফ-সাইকেলের জন্য প্রবাহের পূর্ণ পথ ভেঙে পড়ে এবং সম্পূর্ণ-ওয়েভ রেকটিফিকেশন হয় না। তবে অন্য হাফ-সাইকেলে বাকি দুটো ডায়োড দিয়ে পথ সম্পন্ন হওয়ায় আউটপুটে পূর্ণ-ওয়েভের বদলে হাফ-ওয়েভ ধরনের পালসেটিং DC পাওয়া যাবে, যার গড় ভোল্টেজ কম এবং রাইপ বেশি হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 437560,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437560,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 437560,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T07:57:36.000000Z",
+            "updated_at": "2025-08-19T07:57:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437554,
+      "value": {
+        "options": {
+          "ক": "ট্রানজিস্টর",
+          "খ": "ইন্টিগ্রেটেড সার্কিট",
+          "গ": "ফিল্ড ইফেক্ট ট্রানজিস্টর",
+          "ঘ": "ডায়োড"
+        },
+        "question": "রেকটিফায়ার হিসেবে ব্যবহৃত হয় —",
+        "solution": "ডায়োড একমুখী কারেন্ট প্রবাহিত করে, তাই এটি এসি কারেন্টকে ডিসি কারেন্টে রূপান্তরিত করতে ব্যবহৃত হয়, যা রেকটিফায়ারের মূল কাজ। ট্রানজিস্টর, IC এবং FET সুইচিং ও এমপ্লিফিকেশনের জন্য ব্যবহৃত হয়, রেকটিফিকেশনের জন্য নয়।",
+        "explanation": "",
+        "correct_answer": "D. ডায়োড"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 437554,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437559,
+      "value": {
+        "options": {
+          "ক": "ট্রানজিস্টর",
+          "খ": "রেকটিফায়ার",
+          "গ": "জেনারেটর",
+          "ঘ": "ট্রান্সফরমার"
+        },
+        "question": "এসি কারেন্টকে ডিসি কারেন্টে রূপান্তর করার যন্ত্রকে কী বলে?",
+        "solution": "রেকটিফায়ার এসি কারেন্টকে ডিসি কারেন্টে পরিবর্তন করে। ট্রানজিস্টর একটি সেমিকন্ডাক্টর ডিভাইস যা সুইচ বা অ্যামপ্লিফায়ার হিসেবে কাজ করে। জেনারেটর যান্ত্রিক শক্তিকে বৈদ্যুতিক শক্তিতে রূপান্তরিত করে এবং ট্রান্সফরমার ভোল্টেজ পরিবর্তন করে, কিন্তু এসি থেকে ডিসি করে না।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 437559,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3539,
+          "full_name": "NGMCN",
+          "short_name": "NGMCN",
+          "slug": "ngmcn",
+          "pivot": {
+            "question_bank_id": 437559,
+            "tag_id": 3539,
+            "year": "2022",
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437558,
+      "value": {
+        "options": {
+          "ক": "ডায়োড",
+          "খ": "রেকটিফায়ার",
+          "গ": "ট্রানজিস্টর",
+          "ঘ": "অ্যামপ্লিফায়ার"
+        },
+        "question": "এসি প্রবাহকে একমুখী প্রবাহে রূপান্তর করে কোন যন্ত্র?",
+        "solution": "রেকটিফায়ার এসি প্রবাহকে ডিসি প্রবাহে রূপান্তরিত করে। ডায়োড রেকটিফায়ারের একটি গুরুত্বপূর্ণ উপাদান যা এক দিকে বিদ্যুৎ প্রবাহ করতে দেয়। ট্রানজিস্টর সিগন্যাল বিবর্ধন করে এবং অ্যামপ্লিফায়ার সিগন্যালের বিস্তার বৃদ্ধি করে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 437558,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437557,
+      "value": {
+        "options": {
+          "ক": "এসি থেকে ডিসি",
+          "খ": "অস্থির ডিসি থেকে স্থির ডিসি",
+          "গ": "ডিসি থেকে এসি",
+          "ঘ": "উচ্চ বিভব থেকে নিম্ন বিভব"
+        },
+        "question": "রেকটিফায়ার হিসেবে ডায়োড রূপান্তর করে—",
+        "solution": "ডায়োড মূলত একমুখী কারেন্ট প্রবাহ করতে পারে। রেকটিফায়ারের কাজ হলো এসি কারেন্টকে ডিসি কারেন্টে রূপান্তর করা। ডায়োড এই কাজে ব্যবহৃত হওয়ায়, এটি এসি থেকে ডিসিতে রূপান্তর করে।",
+        "explanation": "",
+        "correct_answer": "A. এসি থেকে ডিসি"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 437557,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437556,
+      "value": {
+        "options": {
+          "ক": "সরল একমুখী ভোল্টেজ",
+          "খ": "স্পন্দিত একমুখী ভোল্টেজ",
+          "গ": "স্পন্দিত দ্বিমুখী ভোল্টেজ",
+          "ঘ": "সরল দ্বিমুখী ভোল্টেজ"
+        },
+        "question": "একটি পূর্ণ তরতা একমুখীকারকের আউটপুট হলো—",
+        "solution": "স্পন্দিত একমুখী ভোল্টেজ। পূর্ণ তরঙ্গ একমুখীকারক এ ইনপুট এসি সিগনালের উভয় অর্ধচক্র ব্যবহার করে আউটপুটে একমুখী ভোল্টেজ পাওয়া যায়, তবে এটি সম্পূর্ণরূপে মসৃণ না হয়ে স্পন্দিত হয়।",
+        "explanation": "",
+        "correct_answer": "B. স্পন্দিত একমুখী ভোল্টেজ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437556,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437555,
+      "value": {
+        "options": {
+          "ক": "ডায়োড",
+          "খ": "ট্রানজিস্টর",
+          "গ": "রেকটিফায়ার",
+          "ঘ": "অ্যামপ্লিফায়ার"
+        },
+        "question": "দিক পরিবর্তী প্রবাহকে একমুখী প্রবাহে রূপান্তরিত করে—",
+        "solution": "রেকটিফায়ার এসি (Alternating Current) প্রবাহকে ডিসি (Direct Current) প্রবাহে রূপান্তর করে। ডায়োড ব্যবহার করে রেকটিফায়ার তৈরি করা হয়, কিন্তু মূল কাজটি রেকটিফায়ারের। ট্রানজিস্টর সিগন্যাল বিবর্ধন করে এবং অ্যামপ্লিফায়ারও সিগন্যাল বিবর্ধনের কাজে লাগে।",
+        "explanation": "",
+        "correct_answer": "C. রেকটিফায়ার"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437555,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437553,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও ii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পূর্ণতরঙ্গ রেকটিফায়ারে ডায়োড থাকে\n\ni. 1টি\n\nii. 2টি\n\niii. 4টি\n\nনিচের কোনটি সঠিক?",
+        "solution": "পূর্ণতরঙ্গ রেকটিফায়ারে দুইটি অথবা চারটি ডায়োড ব্যবহৃত হতে পারে। সেন্টার টেপড ট্রান্সফরমার ব্যবহার করলে দুইটি ডায়োড লাগে, আর ব্রিজ রেকটিফায়ার ব্যবহার করলে চারটি ডায়োড লাগে। তাই, ii ও iii সঠিক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 437553,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437552,
+      "value": {
+        "options": {
+          "ক": "কম",
+          "খ": "বেশী",
+          "গ": "সমান",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "পূর্ণতরঙ্গ একমুখীকারকের তুলনায় অর্ধতরঙ্গ একমুখীকারকের আউটপুট ভোল্টেজ–",
+        "solution": "পূর্ণতরঙ্গ একমুখীকারকে একটি পূর্ণ সাইকেল ব্যবহৃত হয়, যেখানে অর্ধতরঙ্গ একমুখীকারকে কেবল অর্ধেক সাইকেল ব্যবহৃত হয়। ফলস্বরূপ, একই ইনপুট ভোল্টেজের জন্য পূর্ণতরঙ্গ একমুখীকারকের আউটপুট ভোল্টেজ অর্ধতরঙ্গ একমুখীকারকের চেয়ে বেশি হবে। তাই অর্ধতরঙ্গ একমুখীকারকের আউটপুট ভোল্টেজ কম হবে।",
+        "explanation": "",
+        "correct_answer": "D. কোনটিই নয়"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 437552,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 437552,
+            "tag_id": 460,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437551,
+      "value": {
+        "options": {
+          "ক": "ডায়োড",
+          "খ": "ট্রানজিস্টর",
+          "গ": "ট্রান্সফরমার",
+          "ঘ": "ক্যাপাসিটর"
+        },
+        "question": "রেকটিফায়ার হিসেবে ব্যবহার করা হয়–",
+        "solution": "ডায়োড একমুখী কারেন্ট প্রবাহ করতে পারে। রেকটিফায়ার এসি কারেন্টকে ডিসি কারেন্টে রূপান্তরিত করে, তাই ডায়োড এক্ষেত্রে সঠিক উত্তর কারণ এটি এসি কারেন্টকে একমুখী করে ডিসিতে রূপান্তর করে। ট্রানজিস্টর, ট্রান্সফরমার ও ক্যাপাসিটর এই কাজে ব্যবহৃত হয় না।",
+        "explanation": "",
+        "correct_answer": "A. ডায়োড"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 437551,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 437551,
+            "tag_id": 3,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437550,
+      "value": {
+        "options": {
+          "ক": "Amplification",
+          "খ": "Filtration",
+          "গ": "Rectification",
+          "ঘ": "Oscillation"
+        },
+        "question": "যে কৌশলের সাহায্যে তড়িৎ প্রবাহকে একমুখী করা হয় অর্থাৎ [math]AC[/math] কে [math]DC[/math] করা যায় তাকে কি বলে?",
+        "solution": "রেকটিফায়ার হলো একটি বৈদ্যুতিক যন্ত্র যা পরিবর্তনশীল বিদ্যুৎ প্রবাহকে (যার দিক পর্যায়ক্রমিকভাবে পরিবর্তন হয়), একমুখী বিদ্যুৎ প্রবাহে রূপান্তরিত করে, যার দিক হলো একটি নির্দিষ্ট দিকে এবং এই প্রক্রিয়াকে বলে একমুখীকরণ (রেকটিফিকেশন)।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 437550,
+            "year_id": 31
+          }
+        },
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 437550,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 757,
+          "full_name": "Jhenidah Government Veterinary College",
+          "short_name": "JGVC",
+          "slug": "jgvc",
+          "pivot": {
+            "question_bank_id": 437550,
+            "tag_id": 757,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        },
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 437550,
+            "tag_id": 16,
+            "year": "09-10",
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437549,
+      "value": {
+        "options": {
+          "ক": "ডায়োড",
+          "খ": "রেকটিফায়ার",
+          "গ": "ট্রানজিস্টর",
+          "ঘ": "সেমিকন্ডাক্টর"
+        },
+        "question": "এসি প্রবাহকে একমুখী প্রবাহে রূপান্তর করে কোন যন্ত্র?",
+        "solution": "রেকটিফায়ার এসি প্রবাহকে ডিসি প্রবাহে রূপান্তরিত করে। ডায়োড রেকটিফায়ারের একটি অপরিহার্য অংশ হিসেবে কাজ করে, কিন্তু এটি স্বয়ংক্রিয়ভাবে রূপান্তর করে না। ট্রান্সজিস্টর এবং সেমিকন্ডাক্টর উভয়ই ইলেকট্রনিক উপাদান, কিন্তু তারা এসি থেকে ডিসি রূপান্তরের জন্য বিশেষভাবে ডিজাইন করা হয়নি।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 437549,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 437549,
+            "tag_id": 460,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437548,
+      "value": {
+        "options": {
+          "ক": "DC to DC",
+          "খ": "DC to AC",
+          "গ": "AC to AC",
+          "ঘ": "AC to DC"
+        },
+        "question": "একটি রেকটিফায়ার .... রূপান্তর করে।",
+        "solution": "রেকটিফায়ার এসি (AC) কারেন্টকে ডিসি (DC) কারেন্টে রূপান্তরিত করে। অন্যান্য অপশনগুলো ভুল, কারণ তারা এসি থেকে ডিসি রূপান্তর করে না।",
+        "explanation": "",
+        "correct_answer": "D. AC to DC"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 437548,
+            "year_id": 26
+          }
+        },
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 437548,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 437548,
+            "tag_id": 460,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        },
+        {
+          "id": 932,
+          "full_name": "Noakhali Science & Technology University (A Unit)",
+          "short_name": "NSTU-A",
+          "slug": "nstu-a",
+          "pivot": {
+            "question_bank_id": 437548,
+            "tag_id": 932,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437547,
+      "value": {
+        "options": {
+          "ক": "AC",
+          "খ": "AC & DC",
+          "গ": "DC",
+          "ঘ": "none"
+        },
+        "question": "[math]\\rm{R}[/math] রোধের মধ্য দিয়ে যে প্রবাহ পাওয়া যাবে তার ধরন হবে–\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2021020sat20qb20mcq-1_1755590254_rHvQa3Pf.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "যদি একটি রোধকের মধ্য দিয়ে প্রবাহিত কারেন্ট একটি অপরিবর্তনীয় দিক বজায় রাখে, তবে এটি একটি ডিসি (DC) প্রবাহ। এখানে উপস্থাপিত গ্রাফগুলির মধ্যে, কেবল একটি গ্রাফ একটি নির্দিষ্ট মানের সাথে অপরিবর্তিত কারেন্ট দেখাচ্ছে, যা ডিসি প্রবাহের বৈশিষ্ট্য।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 437547,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 437547,
+            "tag_id": 480,
+            "year": "15-16",
+            "created_at": "2025-08-19T07:57:34.000000Z",
+            "updated_at": "2025-08-19T07:57:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437546,
+      "value": {
+        "options": {
+          "ক": "রোধক",
+          "খ": "ট্রান্সফর্মার",
+          "গ": "মোটর",
+          "ঘ": "রেক্টিফায়ার"
+        },
+        "question": "যে যন্ত্রাংশ দিক-পরিবর্তী বিদ্যুৎ প্রবাহকে এক-দিকবর্তী করে তার নাম [math]-[/math]",
+        "solution": "রেক্টিফায়ার এসি কারেন্টকে ডিসি কারেন্টে রূপান্তরিত করে। রোধ, থার্মিস্টার এবং ট্রান্সফরমার এই কাজে ব্যবহৃত হয় না।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 437546,
+            "year_id": 12
+          }
+        },
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 437546,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 932,
+          "full_name": "Noakhali Science & Technology University (A Unit)",
+          "short_name": "NSTU-A",
+          "slug": "nstu-a",
+          "pivot": {
+            "question_bank_id": 437546,
+            "tag_id": 932,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:57:32.000000Z",
+            "updated_at": "2025-08-19T07:57:32.000000Z"
+          }
+        },
+        {
+          "id": 14,
+          "full_name": "Hajee Mohammad Danesh Science & Technology University (A Unit)",
+          "short_name": "HSTU-A",
+          "slug": "hstu-a",
+          "pivot": {
+            "question_bank_id": 437546,
+            "tag_id": 14,
+            "year": "10-11",
+            "created_at": "2025-08-19T07:57:32.000000Z",
+            "updated_at": "2025-08-19T07:57:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437545,
+      "value": {
+        "options": {
+          "ক": "AC প্রবাহ একমুখী করা",
+          "খ": "AC প্রবাহ বৃদ্ধি করা",
+          "গ": "AC বোল্টেজ হ্রাস করা",
+          "ঘ": "DC প্রবাহ মসৃণ করা",
+          "ঙ": "সার্কিট রক্ষা করা"
+        },
+        "question": "ব্রীজ রেকটিফায়ারে পরিবর্তী প্রবাহ (AC) কে একমুখী (DC) করার জন্য লোডের সাথে সমান্তরাল সমবায়ে যে ধারক ব্যবহৃত হয় সেটির কাজ–",
+        "solution": "Hints: কিছু কিছু বর্তনীতে ধারক ফিল্টার হিসেবে কাজ করে।[math]\\\\ \\ \\\\[/math]Solve: আউটপুট হিসেবে বিশুদ্ধ DC ভোল্টেজ বা মসৃণ DC প্রবাহ পেতে ধারক দ্বারা তৈরি ফিল্টার সার্কিট ব্যবহৃত হয়।",
+        "explanation": "দুইটি পরিবাহী পাতের মাঝে একটি ডাই-ইলেকট্রিক অপরিবাহী পদার্থ দিয়ে গঠিত একটি পরোক্ষ (Passive) বৈদ্যুতিক যন্ত্রাংশ হল ক্যাপাসিটর বা ধারক। উল্লেখ্য, যে সকল বৈদ্যুতিক যন্ত্রাংশ ইলেকট্রনের প্রবাহকে বৈদ্যুতিক উপায়ে নিয়ন্ত্রণ করতে পারে সে সকল যন্ত্রাংশকে প্রত্যক্ষ (Active) যন্ত্রাংশ (যেমন: ভ্যাকুয়াম টিউব, ট্রানজিস্টর) এবং যে সকল বৈদ্যুতিক যন্ত্রাংশ ইলেকট্রনের প্রবাহকে বৈদ্যুতিক উপায়ে নিয়ন্ত্রণ করতে পারে না সে সকল যন্ত্রাংশকে পরোক্ষ (Passive) যন্ত্রাংশ বলে। যেমন: রোধক, ক্যাপাসিটর, ইন্ডাক্টর)। বুঝতেই পারছো রোধক ইলেক্ট্রনের প্রবাহ নিয়ন্ত্রন করতে না পারলেও ট্রানজিস্টর কিন্তু পারে।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 437545,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 437545,
+            "tag_id": 73,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:57:32.000000Z",
+            "updated_at": "2025-08-19T07:57:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437544,
+      "value": {
+        "options": {
+          "ক": "AC কারেন্টকে DC কারেন্টে রূপান্তরিত করে",
+          "খ": "শুধুমাত্র DC কারেন্ট তৈরি করে",
+          "গ": "AC কারেন্টকে তাপশক্তিতে রূপান্তর করে",
+          "ঘ": "একসাথে AC ও DC কারেন্ট প্রবাহিত করতে পারে"
+        },
+        "question": "রেক্টিফায়ার হিসেবে ডায়োড কী করতে পারে?",
+        "solution": "ডায়োড শুধুমাত্র একদিকে কারেন্ট প্রবাহিত করতে পারে। রেক্টিফায়ার AC কারেন্টকে DC কারেন্টে রূপান্তরিত করে। তাই ডায়োড AC কারেন্টকে DC কারেন্টে রূপান্তরিত করতে পারে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 437544,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 437544,
+            "tag_id": 57,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:57:32.000000Z",
+            "updated_at": "2025-08-19T07:57:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437543,
+      "value": {
+        "options": {
+          "ক": "ডায়োড (Diode)",
+          "খ": "ভোল্টমিটার (Voltmeter)",
+          "গ": "অ্যামিটার (Ameter)",
+          "ঘ": "ট্রানজিষ্টর (Transistor)"
+        },
+        "question": "নিচের কোনটি এসি কে ডিসি তে রূপান্তরিত করে?",
+        "solution": "ডায়োড: ডায়োড হলো একটি অর্ধপরিবাহী যন্ত্র যা বিদ্যুৎ প্রবাহকে একই দিকে প্রবাহিত হতে দেয়।p-n জাংশন: ডায়োডের p-n জাংশন বিদ্যুৎ প্রবাহের দিক নিয়ন্ত্রণ করে।AC: AC হলো দিক পরিবর্তী প্রবাহ, যার দিক সময়ের সাথে সাথে পরিবর্তিত হয়।DC: DC হলো একমুখী প্রবাহ, যার দিক সময়ের সাথে সাথে পরিবর্তিত হয় না।[math]\\\\[/math]\u003Cbr\u003Eডায়োড কিভাবে AC কে DC তে রূপান্তরিত করে:AC প্রবাহ ডায়োডের p-n জাংশনের মধ্য দিয়ে প্রবাহিত হয়।p-n জাংশন AC প্রবাহের একটি অর্ধচক্রকে (যা ধনাত্মক দিকে প্রবাহিত হয়) প্রবাহিত হতে দেয়।p-n জাংশন AC প্রবাহের অন্য অর্ধচক্রকে (যা ঋণাত্মক দিকে প্রবাহিত হয়) প্রবাহিত হতে দেয় না।এইভাবে, ডায়োড AC প্রবাহকে DC প্রবাহে রূপান্তরিত করে।[math]\\\\[/math]\u003Cbr\u003Eঅন্যান্য বিকল্পগুলির কাজ:অ্যামিটার: অ্যামিটার বিদ্যুৎ প্রবাহের পরিমাণ পরিমাপ করে।ভোল্টমিটার: ভোল্টমিটার বিদ্যুৎ বিভবের পরিমাণ পরিমাপ করে।ট্রানজিষ্টর: ট্রানজিষ্টর বিদ্যুৎ প্রবাহকে নিয়ন্ত্রণ করে।",
+        "explanation": "",
+        "correct_answer": "A.ডায়োড (Diode)"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 437543,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 437543,
+            "tag_id": 18,
+            "year": "20-21",
+            "created_at": "2025-08-19T07:57:32.000000Z",
+            "updated_at": "2025-08-19T07:57:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437542,
+      "value": {
+        "options": {
+          "ক": "অপরিবর্তিত থাকবে",
+          "খ": "শুধুমাত্র ধনাত্মক অর্ধতরঙ্গ পাওয়া যাবে",
+          "গ": "শুধুমাত্র ঋণাত্মক অর্ধতরঙ্গ পাওয়া যাবে",
+          "ঘ": "ধনাত্মক অথবা ঋণাত্মক অর্ধতরঙ্গ পাওয়া যাবে"
+        },
+        "question": "পূর্ণতরঙ্গ একমুখীকরণ ব্রীজ বর্তনীতে একটি ডায়োড অপসারণ করা হলে আউটপুট সংকেত কীরূপ হবে।",
+        "solution": "পূর্ণতরঙ্গ একমুখীকরণ ব্রীজ বর্তনী একটি পূর্ণতরঙ্গ পরিণত হয়।\nএর একটি ডায়োড খুলে নিলে তা অর্ধতরলা রেকটিফায়ারে রেকটিফায়ার ।\nঅর্ধতরঙ্গ রেকটিফায়ারে কেবল ধনাত্মক অথবা ঋণাত্মক অর্ধতরঙ্গ পাওয়া যায়।\nতাড়িত বিজ্ঞানে রেকটিফিকেশন মানে হলো- এসি বিভবকে ডিসি বিভবে পরিণতকরণ।\nরেকটিফায়ারের আউটপুট ভোল্টেজ হলো ফ্লাকচুয়েটিং বা পরিবর্তী মানের একমুখী (ডিসি) ভোল্টেজ।\nএকে সত্যিকার বা আদর্শ ডিসিতে রূপান্তরের উদ্দেশ্যে ক্যাপাসিটরে প্রয়োগ করা হয়। পরে ক্যাপাসিটর হতে আউটপুট নেয়া হয়।",
+        "explanation": "",
+        "correct_answer": "D. ধনাত্মক অথবা ঋণাত্মক অর্ধতরঙ্গ পাওয়া যাবে"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 437542,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437542,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 437542,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T07:57:32.000000Z",
+            "updated_at": "2025-08-19T07:57:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437541,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পূর্ণতরঙ্গ একমুখীকরণ বর্তনী তৈরি করা যায়—\n\n[math]\\hspace{1.2 cm}[/math]i. ২ টি ডায়োড দিয়ে\n\n[math]\\hspace{1.2 cm}[/math]ii. ৩ টি ডায়োড দিয়ে\n\n[math]\\hspace{1.2 cm}[/math]iii. ৪ টি ডায়োড দিয়ে\n\nনিচের কোনটি সঠিক?",
+        "solution": "একটি ডায়োড দিয়ে অর্ধতরা একমুখীকরণ করা যায়।[math]2[/math]\u003Cbr\u003Eটি ডায়োড দিয়ে পূর্ণতরফা একমুখীকরণ বর্তনী\u003Cbr/\u003E\u003Cimg src=\"https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20PHY%202--10%5B%20Board%20MCQ--'_11-deO.png?alt=media&token=95bbb649-357e-4904-87e3-516bac25a4e3\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]4[/math]\u003Cbr\u003Eটি ডায়োড নিয়ে পূর্ণ তরঙ্গ একমুখী বা ব্রীজ রেকটিফায়ার বর্তনী\u003Cbr/\u003E\u003Cimg src=\"https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20PHY%202--10%5B%20Board%20MCQ--'_12-de%5B.png?alt=media&token=d29f3440-5760-4a4c-b58a-5683bd06f205\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 437541,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437541,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 437541,
+            "tag_id": 7,
+            "year": "2021",
+            "created_at": "2025-08-19T07:57:32.000000Z",
+            "updated_at": "2025-08-19T07:57:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437540,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "4"
+        },
+        "question": "পূর্ণ তরঙ্গ রেকটিফায়ারে সর্বোচ্চ কতটি ডায়োড প্রয়োজন?",
+        "solution": "পূর্ণতরঙ্গ রেকটিফায়ার বিভিন্ন ধরনের হয়ে থাকে। তন্মধ্যে পূর্ণতরঙ্গ ব্রীজ রেফটিফায়ারে সর্বোচ্চ সংখ্যক ডায়োড ব্যবহৃত হয়, যেখানে ডায়োড সংখ্যা চারটি থাকে।",
+        "explanation": "",
+        "correct_answer": "D.4"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 437540,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437540,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 437540,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T07:57:31.000000Z",
+            "updated_at": "2025-08-19T07:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437539,
+      "value": {
+        "options": {
+          "ক": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/options2fimages2fcapture_1755590247_NIHEAgOC.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "খ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/options2fimages2fcapture1_1755590248_pYEAxUrP.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "গ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/options2fimages2fcapture2_1755590249_vzVH1tJi.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "ঘ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/options2fimages2fcapture3_1755590250_svXpXedt.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+        },
+        "question": "নিম্নের কোন ডিভাইসটি পরিবর্তী প্রবাহকে একমুখী প্রবাহে রূপান্তর করে?",
+        "solution": "AC সিগন্যালকে DC সিগন্যালে পরিণত করাকে একমুখীকরণ বা রেকটিফিকেশন বলে। যে যন্ত্র পরিবর্তী সিগন্যালকে একমুখী সিগন্যালে পরিণত করে, তাকে রেকটিফায়ার বলে।",
+        "explanation": "",
+        "correct_answer": "C.\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/options2fimages2fcapture2_1755590251_bJlz7ZMi.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 437539,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 437539,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437539,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437539,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 437539,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T07:57:31.000000Z",
+            "updated_at": "2025-08-19T07:57:31.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 437539,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T07:57:31.000000Z",
+            "updated_at": "2025-08-19T07:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437538,
+      "value": {
+        "options": {
+          "ক": "অর্ধেক",
+          "খ": "সমান",
+          "গ": "দ্বিগুণ",
+          "ঘ": "চারগুণ"
+        },
+        "question": "পূর্ণ তরঙ্গ একমুখীকারকে আউটপুটের কম্পাংক A.C ইনপুটের-",
+        "solution": "পূর্ণ তরঙ্গ একমুখীকারে (Full-wave rectifier) আউটপুটের কম্পাংক ইনপুট AC সিগনালের কম্পাংকের দ্বিগুণ হয়।\n\n• একমুখীকরণ (Rectification): একমুখীকরণের প্রক্রিয়ায় AC (Alternating Current) সিগনালকে DC (Direct Current) সিগনালে রূপান্তরিত করা হয়। পূর্ণ তরঙ্গ একমুখীকারে AC সিগনালের ধনাত্মক ও ঋণাত্মক উভয় অর্ধচক্রকেই DC-তে রূপান্তরিত করা হয়।\n\n• আউটপুট তরঙ্গাকৃতি: পূর্ণ তরঙ্গ একমুখীকারের আউটপুট তরঙ্গাকৃতি একটি স্পন্দিত DC (pulsating DC) হয়, যেখানে ইনপুট AC সিগনালের প্রতিটি পূর্ণ চক্রের জন্য আউটপুটে দুটি স্পন্দন পাওয়া যায়।\n\n• কম্পাংকের পরিবর্তন: যেহেতু আউটপুটে ইনপুটের প্রতিটি চক্রের জন্য দুটি স্পন্দন পাওয়া যায়, তাই আউটপুটের কম্পাংক ইনপুটের কম্পাংকের দ্বিগুণ হয়ে যায়।\n\nউদাহরণ:\n\n• যদি ইনপুট AC সিগনালের কম্পাংক 50 Hz হয়, তাহে পূর্ণ তরঙ্গ একমুখীকারের আউটপুটের কম্পাংক হবে 50 Hz * 2 = 100 Hz।",
+        "explanation": "",
+        "correct_answer": "C.দ্বিগুণ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:57:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 437538,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437538,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 437538,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-08-19T07:57:26.000000Z",
+            "updated_at": "2025-08-19T07:57:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6725&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6725&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6725&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 32,
+  "total": 32
+}

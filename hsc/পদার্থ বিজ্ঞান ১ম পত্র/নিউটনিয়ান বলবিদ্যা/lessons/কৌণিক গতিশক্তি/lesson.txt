@@ -1,0 +1,2056 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 406212,
+      "value": {
+        "options": {
+          "গ": "সিলিন্ডারের কৌণিক গতিশক্তি হিসাব কর।"
+        },
+        "question": "3 সে.মি. ব্যাসার্ধ ও 2 kg ভরের দুটি লোহার গোলককে গলিয়ে 1টি কে 4 cm দৈর্ঘ্যের নিরেট সিলিন্ডারে এবং অপরটিকে 3.14 সে.মি. পুরুত্বের একটি বর্গাকার পাতে পরিণত করা হলো। উভয়কে কেন্দ্রগামী অক্ষের সাপেক্ষে [math]2 \\ \\mathrm{rad} \\mathrm{s}^{-1}[/math] কৌণিক বেগে ঘুরানো হল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, গোলকের ব্যাসার্ধ, r = 3 cm = 0.03 mসিলিন্ডারের দৈর্ঘ্য অর্থাৎ উচ্চতা, h = 4 cm = 0.04 mসিলিন্ডারটির ব্যাসার্ধ [math]\\mathrm r^ \\prime[/math]\u003Cbr\u003E হলে, এর আয়তন [math]=\\pi \\mathrm{r}^{\\prime 2} \\mathrm{~h}[/math]\u003Cbr\u003Eগোলটির আয়তন [math]=\\frac{4}{3} \\pi \\mathrm{r}^{\\prime 3}[/math]\u003Cbr\u003Eযেহেতু গোলক গলিয়ে সিলিন্ডার তৈরি করা হয়েছে সেহেতু উভয়ের ভর সমান। আবার উভয়ই লোহার তৈরি তাই তাদের ঘনত্বও সমান । সুতরাং তাদের আয়তনও সমান হবে।প্রশ্নমতে, [math]\\frac{4}{3} \\pi r^{3}=\\pi r^{\\prime 2} h[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{array}{l} \\Rightarrow \\mathrm r^{\\prime 2}=\\frac{4 \\pi r^{3}}{3 \\pi h}=\\frac{4 r^{3}}{3 h} \\\\\\Rightarrow \\mathrm r^{\\prime}=\\sqrt{\\frac{4 \\times(0.03 m)^{3}}{3 \\times 0.04 m}}=0.03 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eগোলকের ভর = সিলিন্ডারে ভর, m = 2 kgকৌণিক বেগ, [math]\\omega=2 \\mathrm{~rad} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003Eকৌণিক গতিশক্তি, [math]E=\\frac{1}{2} I \\omega^{2}[/math]\u003Cbr\u003E [math]\\hspace{3.5cm}\\begin{array}{l}=\\frac{1}{2} \\mathrm{mr}^{2} \\times \\omega^{2} \\\\=\\frac{1}{2} \\times 2 \\mathrm{~kg} \\times(0.03 \\mathrm{~m})^{2} \\times\\left(2 \\mathrm{rad}\\mathrm{~s}^{-1}\\right)^{2} \\\\=3.6 \\times 10^{-3} \\mathrm{~J}\\end{array}[/math]\u003Cbr\u003Eঅতএব, সিলিন্ডারটির কৌণিক গতিশক্তি [math]3.6 \\times 10^{-3} \\mathrm{~J}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ভলিউম সংরক্ষণ থেকে [math]\\frac{4}{3}\\pi r^3=\\pi R^2 h\\Rightarrow R^2=\\frac{4r^3}{3h}[/math] বসিয়ে (r=3 cm, h=4 cm) পাওয়া যায় [math]R=3\\ \\text{cm}=0.03\\ \\text{m}[/math]. সিলিন্ডারের ভর [math]m=2\\ \\text{kg}[/math] হলে, ঘূর্ণনজ্যামিতি [math]I=\\tfrac{1}{2}mR^2=\\tfrac{1}{2}\\times2\\times(0.03)^2=0.0009\\ \\mathrm{kg\\,m^2}[/math] এবং কোণীয় গতি [math]\\omega=2\\ \\mathrm{rad/s}[/math] হলে কৌণিক গতিশক্তি [math]K=\\tfrac{1}{2}I\\omega^2=\\tfrac{1}{2}\\times0.0009\\times(2)^2=0.0018\\ \\mathrm{J}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 406212,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3436,
+          "full_name": "শাহপরান সরকারি কলেজ, সিলেট",
+          "short_name": "SGCS",
+          "slug": "sgcs",
+          "pivot": {
+            "question_bank_id": 406212,
+            "tag_id": 3436,
+            "year": "2020",
+            "created_at": "2025-08-19T06:26:28.000000Z",
+            "updated_at": "2025-08-19T06:26:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406211,
+      "value": {
+        "options": {
+          "গ": "চিত্রে দণ্ডটির ঘূর্ণন গতিশক্তি নির্ণয় কর ।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview2071_1755584788_NxjcfH12.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nদণ্ডটির দৈর্ঘ্য 50 cm, ভর 0.6 kg এবং দণ্ডটির মধ্যবিন্দু দিয়ে, গমনকারী অক্ষের সাপেক্ষে প্রতি মিনিটে 45 বার আবর্তন করছে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, দণ্ডের ভর, [math]M = 0.6 ~kg[/math]\u003Cbr\u003Eদণ্ডের দৈর্ঘ্য, [math]l = 50 cm = 0.50 ~m[/math]\u003Cbr\u003Eদণ্ডের কৌণিক বেগ, [math]\\omega=\\frac{2 \\pi n}{t}=\\frac{2 \\pi \\times 45}{60} \\mathrm{rad} \\mathrm{s}^{-1}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E দণ্ডের ঘূর্ণন গতিশক্তি, [math]E=\\frac{1}{2} I \\omega^{2}[/math]\u003Cbr\u003E [math]\\hspace{4.5cm}\\begin{array}{l}=\\frac{1}{2} \\times \\frac{1}{12} \\mathrm{~m} l^{2} \\times\\left(\\frac{2 \\pi \\times 45}{60}\\right)^{2} \\\\=\\frac{1}{2} \\times \\frac{1}{12} \\times 0.6 \\times(0.5)^{2} \\times\\left(\\frac{2 \\pi \\times 45}{60}\\right)^{2} \\\\=0.138 \\mathrm{~J}\\end{array}[/math]\u003Cbr\u003Eঅতএব, দণ্ডটির ঘূর্ণন গতিশক্তি 0.138 J [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E  \nব্যাখ্যা: একটি সুনির্দিষ্ট দৈর্ঘ্যের দণ্ডের ভরীয় ইনর্শিয়া [math]I=\\tfrac{1}{12}mL^2[/math], এখানে [math]m=0.6\\ \\mathrm{kg},\\ L=0.5\\ \\mathrm{m}[/math], তাই [math]I=\\tfrac{1}{12}\\times0.6\\times(0.5)^2=0.0125\\ \\mathrm{kg\\,m^2}[/math]. ঘূর্ণন ফ্রিকোয়েন্সি [math]f=45/60=0.75\\ \\mathrm{Hz}[/math] হলে ঘণীয় কোণীয় গতি [math]\\omega=2\\pi f=1.5\\pi\\ \\mathrm{rad/s}\\approx4.712\\ \\mathrm{rad/s}[/math]. ঘূর্ণনগত শক্তি [math]K=\\tfrac{1}{2}I\\omega^2=\\tfrac{1}{2}\\times0.0125\\times(1.5\\pi)^2\\approx0.139\\ \\mathrm{J}[/math], তাই উত্তরটি প্রায় [math]0.139\\ \\mathrm{J}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 406211,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3174,
+          "full_name": "Cantonment Public School and College Momenshahi",
+          "short_name": "CPSCM",
+          "slug": "cpscm",
+          "pivot": {
+            "question_bank_id": 406211,
+            "tag_id": 3174,
+            "year": "2020",
+            "created_at": "2025-08-19T06:26:28.000000Z",
+            "updated_at": "2025-08-19T06:26:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406210,
+      "value": {
+        "options": {
+          "ঘ": "দণ্ডটি ভেঙে যাওয়ার পরও ঘূর্ণন সংখ্যা অপরিবর্তিত থাকলে ঘূর্ণন গতিশক্তির কোন পরিবর্তন হবে কি না? গাণিতিক বিশ্লেষণসহ মতামত দাও ।"
+        },
+        "question": "নিচের 'ক' চিত্রে 20 kg ভরের 2 m দৈর্ঘ্যের দণ্ডটি XY অক্ষের সাপেক্ষে মিনিটে 120 বার ঘুরছিল। পরবর্তীতে দণ্ডটির এক পার্শ্বের অর্ধেক ভেঙে বিচ্ছিন্ন হয়ে যায়, যা 'খ' চিত্রে দেখানো হয়েছে।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview2069_1755584788_8t62vEhg.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদণ্ডটি ভেঙে যাওয়ার পূর্বে জড়তার ভ্রামক, [math]\\mathrm{I}=\\frac{1}{12} \\mathrm{M} l^{2}=\\frac{1}{12} \\times 20 \\times 2^{2}[/math]\u003Cbr\u003E [math]\\hspace{6.6cm}=6.67 \\mathrm{~kg} \\mathrm{~m}^{2}[/math]\u003Cbr\u003Eদণ্ডটি ভেঙে যাওয়ার পর বাম পাশের অর্ধেকের ক্ষেত্রে,ভর, [math]M_1 = 10 ~kg[/math]\u003Cbr\u003Eদণ্ডের দৈর্ঘ্য, [math]l_1 = 1m[/math]\u003Cbr\u003Eসুতরাং জড়তার ভ্রামক, [math]\\mathrm{I}_{1}=\\frac{1}{3} \\mathrm{M}_{1} l_{1}^{2}[/math]\u003Cbr\u003E [math]\\hspace{4.7cm}=\\frac{1}{3} \\times 10 \\times 1^{2}=3.33 \\mathrm{~kg} \\mathrm{~m}^{2}[/math]\u003Cbr\u003Eডান পাশের এক চতুর্থাংশের ক্ষেত্রে ভর, [math]M_{2}=\\frac{20}{4}=5 \\mathrm{~kg}[/math]\u003Cbr\u003Eদণ্ডের দৈর্ঘ্য, [math]l_{2}=\\frac{2}{4}=0.5 \\mathrm{~m}[/math]\u003Cbr\u003Eসুতরাং জড়তার ভ্রামক, [math]\\mathrm{I}_{2}=\\frac{1}{3} \\mathrm{M}_{2} l_{2}{ }^{2}[/math]\u003Cbr\u003E [math]\\hspace{4.7cm}=\\frac{1}{3} \\times 5 \\times 0.5^{2}=0.4167 \\mathrm{~kg} \\mathrm{~m}^{2}[/math]\u003Cbr\u003Eদণ্ডটি ভেঙে যাওয়ার পর মোট জড়তার ভ্রামক,[math]\\hspace{6.5cm}\\begin{aligned}I^{\\prime} & =I_{1}+I_{2} \\\\& =(3.33+0.4167) \\\\& =3.7467 \\mathrm{~kg} \\mathrm{~m}^{2}\\end{aligned}[/math]\u003Cbr\u003Eআমরা জানি, ঘূর্ণন সংখ্যা অপরিবর্তিত থাকলে কৌণিক বেগ অপরিবর্তিত থাকে। আর কৌণিক বেগ অপরিবর্তিত থাকলে কৌণিক গতিশক্তি জড়তার ভ্রামকের সমানুপাতিক হয়। যেহেতু দণ্ডটি ভেঙে যাওয়ার পর জড়তার ভ্রামক কমে যায় সেহেতু দণ্ডটি ভেঙে যাওয়ার পরও ঘূর্ণন সংখ্যা অপরিবর্তিত থাকলে ঘূর্ণন গতিশক্তি কমে যাবে। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রারম্ভিক জড়তা ছিল [math]I_1=\\tfrac{1}{12}mL^2=\\tfrac{1}{12}\\times20\\times(2)^2=\\tfrac{20}{3}\\,{\\rm kg\\,m^2}.[/math] এক পার্শ্ব (ভর [math]10\\ \\rm kg[/math], দৈর্ঘ্য [math]1\\ \\rm m[/math]) বিচ্ছিন্ন হলে বাকি অংশের জড়তা মূল অক্ষের বদলে হবে [math]I_2=I_{\\rm cm} + md^2=\\tfrac{1}{12}\\times10\\times1^2+10(0.5)^2=\\tfrac{10}{3}=\\tfrac{I_1}{2}.[/math] ঘূর্ণনকোণগত গতি অপরিবর্তিত থাকলে [math]K=\\tfrac{1}{2}I\\omega^2[/math] অনুযায়ী ঘূর্ণনগতিশক্তি অর্ধে নেমে আসে ([math]K_2=K_1/2[/math]) — শৈশব্দে হারানো শক্তি ভেঙে যাওয়ার কাজে বা বিচ্ছিন্ন অংশের সাথে সংরক্ষিত থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 406210,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3276,
+          "full_name": "Monipur High School and College, Dhaka",
+          "short_name": "MHSC",
+          "slug": "mhsc",
+          "pivot": {
+            "question_bank_id": 406210,
+            "tag_id": 3276,
+            "year": "2020",
+            "created_at": "2025-08-19T06:26:28.000000Z",
+            "updated_at": "2025-08-19T06:26:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406209,
+      "value": {
+        "options": [],
+        "question": "20 kg ভরের একটি নিরেট চোঙ নিজ অক্ষ সাপেক্ষে [math]\\text { rad } s^{-1}[/math] কৌণিক বেগে ঘুরছে । চোঙটির ব্যাসার্ধ 0.25m। চোঙটির ঘূর্ণন গতিশক্তি ও কৌণিক ভরবেগ নির্ণয় করো।",
+        "solution": "( Answer : (i) 3125 j , (ii) [math]62.5 \\mathrm{~kg} \\mathrm{~m}^{2} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,নিরেট চোঙের ভর, M = 20 kgকৌণিক বেগ, [math]\\omega=100 \\mathrm{rads}^{-1}[/math]\u003Cbr\u003Eচাঙের ব্যাসার্ধ, r = 0.25mঘূর্ণন গতিশক্তি, [math]E_{n}=?[/math]\u003Cbr\u003Eকৌণিক ভরবেগ, [math]L=\\text { ? }[/math]\u003Cbr\u003E(i) আমরা জানি, নিরেট চোঙের জড়তার ভ্রামক ,[math]\\begin{aligned}\\mathrm{I} & =\\frac{1}{2} \\mathrm{Mr}^{2} \\\\& =\\frac{1}{2} \\times 20 \\times(0.25)^{2} \\\\& =0.625 \\mathrm{~kg} \\mathrm{~m}^{2}\\end{aligned}[/math]\u003Cbr\u003Eএখন, ঘূর্ণায়মান চোঙের ঘূর্ণন গতিশক্তি, [math]\\mathrm{E}_{\\mathrm{n}}=\\frac{I}{2} \\mathrm{l} \\omega^{2}=\\frac{1}{2} \\times 0.625 \\times 100^{2}=3125 \\mathrm{~J} \\text { (Ans.) }[/math]\u003Cbr\u003E(ii) আবার, চোঙের কৌণিক ভরবেগ,[math]\\begin{aligned}L & =I \\omega=0.625 \\times 100 \\\\& =62.5 \\mathrm{~kg} \\mathrm{~m}^{2} \\mathrm{~s}^{-1} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "চিহ্নিত সূত্রগুলো ব্যবহার করে প্রথমে ঘূর্ণনগত অন্তরজ্যোতি পান: [math]I=\\tfrac{1}{2}MR^{2}=\\tfrac{1}{2}\\times20\\times(0.25)^{2}=0.625\\ \\mathrm{kg\\;m^{2}}[/math]. তাই ঘূর্ণনগত শক্তি হবে [math]K=\\tfrac{1}{2}I\\omega^{2}=0.3125\\,\\omega^{2}\\ \\mathrm{J}[/math] এবং কৌণিক ভরবেগ হবে [math]L=I\\omega=0.625\\,\\omega\\ \\mathrm{kg\\;m^{2}/s}[/math]. এখানে সংখ্যাসূচক মান পেতে কৌণিক বেগ [math]\\omega[/math] মানটি প্রয়োজন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 406209,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:26:27.000000Z",
+            "updated_at": "2025-08-19T06:26:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406208,
+      "value": {
+        "options": {
+          "ঘ": "অণুটির ঘূর্ণন গতিশক্তি নির্ণয় করো এবং প্রাপ্ত ফলাফল হতে যে কোনো মুহূর্তের রৈখিক দ্রুতি বের করো।"
+        },
+        "question": "দ্বি-পারমাণবিক অণু অক্সিজেন [math]\\left(\\mathrm{O}_{2}\\right)[/math]-এর প্রত্যেকটি পরমাণুর ভর [math]\\mathrm{m}=2.66 \\times 10^{-26} \\mathrm{~kg}[/math] এবং পরমাণু দুটির দূরত্ব d = [math]1.21 \\times 10^{-10} \\mathrm{~m}[/math] অণুটি xy তলে z-অক্ষের সাপেক্ষে [math]\\omega=4.6 \\times 10^{12}[/math] [math]\\mathrm{rad} / \\mathrm{sec}[/math] কৌণিক দ্রুতিতে ঘূর্ণায়মান।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,কৌণিক বেগ, [math]\\omega=4.6 \\times 10^{12} \\mathrm{rad} / \\mathrm{sec}[/math]\u003Cbr\u003Eঅক্সিজেন অণুর ভর,[math]\\begin{array}{l}\\mathrm{M}=2 \\mathrm{~m}=2 \\times 2.66 \\times 10^{-26} \\mathrm{~kg} \\\\=5.32 \\times 10^{-26} \\mathrm{~kg}\\end{array}[/math]\u003Cbr\u003E‘গ’ অংশ হতে পাই, জড়তার ভ্রামক,[math]\\mathrm{I}=1.95 \\times 10^{-46} \\mathrm{kgm}^{2}[/math]\u003Cbr\u003Eঘূর্ণন গতিশক্তি, [math]\\mathrm{E}_{\\mathrm{K}}=?[/math]\u003Cbr\u003Eরৈখিক বেগ, v =?আমরা জানি,[math]\\begin{aligned}\\mathrm{E}_{\\mathrm{K}}= & \\frac{1}{2} \\mathrm{I} \\omega^{2} \\\\= & \\frac{1}{2} \\times 1.95 \\times 10^{-46} \\\\& \\times\\left(4.6 \\times 10^{12}\\right)^{2} \\\\= & 2.06 \\times 10^{-21} \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003Eআবার, [math]\\mathrm{E}_{\\mathrm{K}}=\\frac{1}{2} \\mathrm{Mv}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{v}=\\sqrt{\\frac{2 \\mathrm{E}_{\\mathrm{K}}}{\\mathrm{M}}}[/math]\u003Cbr\u003E [math]=\\sqrt{\\frac{2 \\times 2.06 \\times 10^{-21}}{5.32 \\times 10^{-26}}}=278.5 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অণুর প্রতিটি পরমাণু কেন্দ্র থেকে দূরত্ব [math]r=d/2=6.05\\times10^{-11}\\,\\mathrm{m}[/math], তাই আলোকচুম্বকীয় জড়তা [math]I=2mr^{2}=\\tfrac{1}{2}md^{2}[/math]। ঘূর্ণনগতিশক্তি [math]K=\\tfrac{1}{2}I\\omega^{2}=\\tfrac{md^{2}\\omega^{2}}{4}\\approx2.06\\times10^{-21}\\,\\mathrm{J}[/math] এবং যেকোন মুহূর্তে প্রতিটি পরমাণুর রৈখিক দ্রুতি [math]v=\\omega r=\\omega d/2\\approx2.78\\times10^{2}\\,\\mathrm{m/s}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 406208,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:26:27.000000Z",
+            "updated_at": "2025-08-19T06:26:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406207,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের নৃত্যশিল্পীর পরিবর্তিত কৌণিক গতিশক্তি দ্বিগুণ হবে। কি? বিশ্লেষণপূর্বক মতামত দাও।"
+        },
+        "question": "60 kg ভরের একজন নৃত্যশিল্পী দুহাত প্রসারিত করে মিনিটে 20 বার ঘুরতে পারেন। তিনি একটি সংগীতের সাথে তাল মেলানোর চেষ্টা করছিলেন।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E১ম ক্ষেত্রে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eসময়, [math]\\rm{t}_{1}=1 \\mathrm{~min}=60 \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eঘূর্ণন সংখ্যা, [math]\\mathrm{N}_{1}=20[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eকৌণিক বেগ [math]=\\omega_{1}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eজড়তার ভ্রামক [math]=\\mathrm{I}_{1}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eগতিশক্তি [math]=\\mathrm{E}_{1}[/math]\u003Cbr\u003E২য় ক্ষেত্রে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eসময়, [math]\\rm{t}_{2}=1 \\mathrm{~min}=60 \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eঘূর্ণন সংখ্যা, [math]\\mathrm{N}_{2}=30[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eকৌণিক বেগ [math]=\\omega_{2}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eজড়তার ভ্রামক [math]=\\mathrm{I}_{2}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eগতিশক্তি [math]=\\mathrm{E}_{2}[/math]\u003Cbr\u003Eআমরা জানি, [math]\\rm{E_{1}=\\dfrac{1}{2} I_{1} \\omega_{1}^{2}}[/math]\u003Cbr\u003E এবং [math]E_{2}=\\frac{1}{2} I_{2} \\omega_{2}{ }^{2}[/math]\u003Cbr\u003E [math]\\hspace{2 cm}\\begin{aligned} \\therefore \\quad \\rm{ \\dfrac{E_{2}}{E_{1}} }& =\\rm{\\dfrac{I_{2} \\omega_{2}^{2}}{I_{1} \\omega_{1}^{2}}} \\\\ & =\\rm{\\dfrac{2}{3}\\left(\\dfrac{2 \\pi N_{2}}{t_{2}}\\right)^{2} \\times\\left(\\dfrac{t_{1}}{2 \\pi N_{1}}\\right)^{2} =\\frac{2}{3}\\left(\\frac{30}{20}\\right)^{2}=\\frac{2}{3} \\times \\frac{9}{4}=\\dfrac{3}{2}=1.5} \\\\ \\Rightarrow\\rm{ E}_{2} & =1.5 \\rm{E}_{1} \\end{aligned}[/math]\u003Cbr\u003Eসুতরাং উদ্দীপকের নৃত্য শিল্পীর পরিবর্তিত কৌণিক গতিশক্তি দ্বিগুণ হবে না।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E না — কৌণিক ভরবেগ সংরক্ষিত থাকে: [math]L=I\\omega[/math], আর কৌণিক গতিশক্তি [math]K=\\tfrac12 I\\omega^2=\\tfrac{L^2}{2I}[/math]; তাই [math]I[/math] কমালে [math]K[/math] বেড়ে যাবে। তবে এটি স্বয়ংক্রিয়ভাবে দ্বিগুণ হবে না — শুধুমাত্র যদি নৃত্যশিল্পীর সংকুচিত অবস্থায় মুহূর্তজড়তা ঠিক অর্ধেকে নামে, তখনই [math]K[/math] দ্বিগুণ হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 406207,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 406207,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 406207,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T06:26:27.000000Z",
+            "updated_at": "2025-08-19T06:26:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406206,
+      "value": {
+        "options": {
+          "ঘ": "ঘূর্ণনরত দণ্ডদ্বয়ের কৌণিক গতিশক্তির গাণিতিক তুলনা কর।"
+        },
+        "question": "1 m এবং 0.707 m দৈর্ঘ্যের দুটি সরু সুষম দণ্ডের ভরদ্বয় যথাক্রমে 10 kg এবং 20 kg এদের উভয়ই দৈর্ঘ্যের সাথে লম্বভাবে স্থাপিত এবং মধ্যবিন্দুগামী অক্ষের সাপেক্ষে প্রতিমিনিটে যথাক্রমে 300 বার এবং 360 বার একটি মোটরের সাহায্যে সম-কৌণিক বেগে ঘুরছে। মোটরটি বন্ধ হয়ে গেলে ১ম দণ্ডটি 20s সময়ের মধ্যে থেমে যায়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E ১ম দণ্ডের দৈর্ঘ্য, [math]l_{1}=1 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E২য় দণ্ডের দৈর্ঘ্য, [math]l_{2}=0.707 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E১ম দণ্ডের ভর, [math]\\mathrm{m}_{1}=10 \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E২য় দণ্ডের ভর, [math]\\mathrm{m}_{2}=20 \\mathrm{~kg}[/math]\u003Cbr\u003E১ম দণ্ডের কৌণিক বেগ, [math]\\omega_{1}=31.416 \\mathrm{rad} \\mathrm{s}^{-1}[/math]\u003Cbr\u003E [গ হতে]২য় দণ্ডের কৌণিক বেগ, [math]\\omega_{2}=\\dfrac{360 \\times 2 \\pi}{60} \\mathrm{rad} \\mathrm{s}^{-1}=37.7 \\mathrm{rad} \\mathrm{s}^{-1}[/math]\u003Cbr\u003E১ম দণ্ডের জড়তার ভ্রামক,[math]\\hspace{2 cm}\\rm{I}_{1}=\\dfrac{1}{12} \\mathrm{~m}_{1} l_{1}^{2}=\\dfrac{1}{12} \\times 10 \\times 1^{2} \\mathrm{~kg} \\mathrm{~m}^{2}=0.83 \\mathrm{~kg} \\mathrm{~m}[/math]\u003Cbr\u003E২য় দণ্ডের জড়তার ভ্রামক,[math]\\hspace{2 cm}\\begin{array}{l} \\mathrm{I}_{2}=\\dfrac{1}{12} \\mathrm{~m}_{2} l_{2}^{2}=\\dfrac{1}{12} \\times 20 \\times 0.707^{2} \\mathrm{~kg} \\mathrm{~m}^{2}=0.83 \\mathrm{~kg} \\mathrm{~m}^{2} \\\\ \\therefore \\dfrac{E_{k_{1}}}{E_{k_{2}}}=\\dfrac{\\frac{1}{2} I_{1} \\omega_{1}^{2}}{\\frac{1}{2} I_{2} \\omega_{2}^{2}}=\\dfrac{0.83 \\times 31.416^{2}}{0.83 \\times 37.7^{2}}=0.69 \\\\ \\therefore \\dfrac{E_{k_{1}}}{E_{k_{2}}}\u003C1 \\\\ \\Rightarrow \\mathrm{E}_{\\mathrm{k}_{1}}\u003C\\mathrm{E}_{\\mathrm{k}_{2}} \\\\ \\end{array}[/math]\u003Cbr\u003Eঅতএব, ঘূর্ণনরত দণ্ডদ্বয়ের মধ্যে ১ম দণ্ডটির কৌণিক গতিশক্তি হয় দণ্ডটির কৌণিক গতিশক্তি অপেক্ষা কম।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ঘূর্ণনগতিক শক্তি ওক্ষণ: [math]K=\\tfrac12 I\\omega^2,\\; I=\\tfrac{1}{12}mL^2[/math]. তাই [math]I_1=\\tfrac{1}{12}\\times10\\times1^2=\\tfrac{5}{6},\\; I_2=\\tfrac{1}{12}\\times20\\times(0.707)^2\\approx\\tfrac{5}{6}[/math] (অতএব দুটির [math]I[/math] সমান), এবং [math]\\omega_1=300/60\\times2\\pi=10\\pi,\\;\\omega_2=360/60\\times2\\pi=12\\pi[/math]. ফলে [math]\\dfrac{K_2}{K_1}=(\\dfrac{\\omega_2}{\\omega_1})^2=(\\tfrac{12\\pi}{10\\pi})^2=(6/5)^2=36/25=1.44[/math], অর্থাৎ [math]K_2=1.44\\,K_1[/math] (প্রায় [math]K_1\\approx411\\ \\text{J},\\ K_2\\approx592\\ \\text{J}[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 406206,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 406206,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T06:26:27.000000Z",
+            "updated_at": "2025-08-19T06:26:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406205,
+      "value": {
+        "options": {
+          "ঘ": "ঘূর্ণনরত দণ্ডদ্বয়ের কৌণিক গতিশক্তির গাণিতিক তুলনা কর।"
+        },
+        "question": "1 m এবং 0.707 m দৈর্ঘ্যের দুটি সরু সুষম দণ্ডের ভরদ্বয় যথাক্রমে 10 kg এবং 20 kg এদের উভয়ই দৈর্ঘ্যের সাথে লম্বভাবে স্থাপিত এবং মধ্যবিন্দুগামী অক্ষের সাপেক্ষে প্রতিমিনিটে যথাক্রমে 300 বার এবং 360 বার একটি মোটরের সাহায্যে সম-কৌণিক বেগে ঘুরছে। মোটরটি বন্ধ হয়ে গেলে ১ম দণ্ডটি 20s সময়ের মধ্যে থেমে যায়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E ১ম দণ্ডের দৈর্ঘ্য, [math]l_{1}=1 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E২য় দণ্ডের দৈর্ঘ্য, [math]l_{2}=0.707 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E১ম দণ্ডের ভর, [math]\\mathrm{m}_{1}=10 \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E২য় দণ্ডের ভর, [math]\\mathrm{m}_{2}=20 \\mathrm{~kg}[/math]\u003Cbr\u003E১ম দণ্ডের কৌণিক বেগ, [math]\\omega_{1}=31.416 \\mathrm{rad} \\mathrm{s}^{-1}[/math]\u003Cbr\u003E [গ হতে]২য় দণ্ডের কৌণিক বেগ, [math]\\omega_{2}=\\dfrac{360 \\times 2 \\pi}{60} \\mathrm{rad} \\mathrm{s}^{-1}=37.7 \\mathrm{rad} \\mathrm{s}^{-1}[/math]\u003Cbr\u003E১ম দণ্ডের জড়তার ভ্রামক,[math]\\hspace{2 cm}\\rm{I}_{1}=\\dfrac{1}{12} \\mathrm{~m}_{1} l_{1}^{2}=\\dfrac{1}{12} \\times 10 \\times 1^{2} \\mathrm{~kg} \\mathrm{~m}^{2}=0.83 \\mathrm{~kg} \\mathrm{~m}[/math]\u003Cbr\u003E২য় দণ্ডের জড়তার ভ্রামক,[math]\\hspace{2 cm}\\begin{array}{l} \\mathrm{I}_{2}=\\dfrac{1}{12} \\mathrm{~m}_{2} l_{2}^{2}=\\dfrac{1}{12} \\times 20 \\times 0.707^{2} \\mathrm{~kg} \\mathrm{~m}^{2}=0.83 \\mathrm{~kg} \\mathrm{~m}^{2} \\\\ \\therefore \\dfrac{E_{k_{1}}}{E_{k_{2}}}=\\dfrac{\\frac{1}{2} I_{1} \\omega_{1}^{2}}{\\frac{1}{2} I_{2} \\omega_{2}^{2}}=\\dfrac{0.83 \\times 31.416^{2}}{0.83 \\times 37.7^{2}}=0.69 \\\\ \\therefore \\dfrac{E_{k_{1}}}{E_{k_{2}}}\u003C1 \\\\ \\Rightarrow \\mathrm{E}_{\\mathrm{k}_{1}}\u003C\\mathrm{E}_{\\mathrm{k}_{2}} \\\\ \\end{array}[/math]\u003Cbr\u003Eঅতএব, ঘূর্ণনরত দণ্ডদ্বয়ের মধ্যে ১ম দণ্ডটির কৌণিক গতিশক্তি হয় দণ্ডটির কৌণিক গতিশক্তি অপেক্ষা কম।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: দণ্ডের জন্য [math]I=\\frac{1}{12}mL^2[/math], তাই [math]I_1=\\frac{1}{12}\\times10\\times1^2=\\frac{5}{6}[/math] এবং [math]I_2=\\frac{1}{12}\\times20\\times(0.707)^2=\\frac{5}{6}[/math], অর্থাৎ দুটির গড় момент সমান। কৌণিক বেগগুলো হল [math]\\omega_1=300\\times\\frac{2\\pi}{60}=10\\pi\\ \\text{rad/s},\\ \\omega_2=360\\times\\frac{2\\pi}{60}=12\\pi\\ \\text{rad/s}[/math]। কৌণিক গতিশক্তি [math]K=\\tfrac{1}{2}I\\omega^2[/math] অনুযায়ী [math]\\frac{K_1}{K_2}=(\\omega_1/\\omega_2)^2=(5/6)^2=\\frac{25}{36}[/math], অর্থাৎ দ্বিতীয় দণ্ডের কৌণিক গতিশক্তি প্রথমটির [math]\\tfrac{36}{25}=1.44[/math] গুণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 406205,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 406205,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T06:26:27.000000Z",
+            "updated_at": "2025-08-19T06:26:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406204,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে চাকাটির ঘূর্ণন গতিশক্তি নির্ণয় করো।"
+        },
+        "question": "একটি ভারি ঢাকার ভর 40 kg এবং জড়তার ভ্রামক 4000 [math]kgm^2[/math] চাকাটি প্রতি মিনিটে 100 বার ঘুরছে। রহমান সাহেব চাকাটিকে 2 মিনিটে থামানোর জন্য 300 Nm বাধাদানকারী টর্ক প্রয়োগ করলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,গোলকের ভর, M = 40 kgগোলকের জড়তার ভ্রামক, [math]I =4000 \\mathrm{kgm}^{2}[/math]\u003Cbr\u003Eসময়, t = 1 min = 60 secঘূর্ণনসংখ্যা, N = 100ঘূর্ণন গতিশক্তি, E = ?গোলকটির কৌণিক বেগ,[math]\\begin{aligned} \\omega & =\\frac{2 \\pi \\mathrm{N}}{t} \\\\ & =\\frac{2 \\pi \\times 100}{60} \\\\ & =\\frac{10}{3} \\pi \\end{aligned}[/math]\u003Cbr\u003Eআমরা জানি, ঘূর্ণন গতিশক্তি, [math]E=\\frac{1}{2} I \\omega^{2}=\\frac{1}{2} \\times 4000 \\times\\left(\\frac{10}{3} \\pi\\right)^{2}=219325.57 \\mathrm{~J} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: বলচিত্রগত জ্বালানি না, চাকাটির ঘূর্ণনগতিশক্তি দেওয়া সূত্র [math]K=\\tfrac{1}{2}I\\omega^2[/math] দ্বারা নির্ণয় করা হয়; এখানে [math]\\omega[/math] বের করবো: [math]\\omega=100\\ \\text{rev/min}\\times\\frac{2\\pi\\ \\text{rad}}{1\\ \\text{rev}}\\times\\frac{1\\ \\text{min}}{60\\ \\text{s}}=\\frac{10\\pi}{3}\\ \\text{rad/s}[/math]. তাই [math]K=\\tfrac{1}{2}\\times4000\\times\\left(\\frac{10\\pi}{3}\\right)^2=\\frac{200000\\pi^2}{9}\\ \\text{J}\\approx2.19\\times10^5\\ \\text{J}[/math], কারণ ঘূর্ণনগতিশক্তি জড়তার মান এবং কোণগত দ্রুততার বর্গের ওপর নির্ভর করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 406204,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 406204,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 406204,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T06:26:27.000000Z",
+            "updated_at": "2025-08-19T06:26:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406203,
+      "value": {
+        "options": {
+          "ঘ": "কোন ক্ষেত্রে ঘূর্ণনের জন্য কম শক্তির প্রয়োজন হবে— গাণিতিকভাবে ব্যাখ্যা করো ।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy1st-4-2-2023-3-5-2024_1755584787_iUVGKTik.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n0.5 kg ভরের AB দন্ডটি PQ অক্ষ সাপেক্ষে প্রতি মিনিটে 60 বার ঘোরানো হলো। পরবর্তীতে দণ্ডটিকে এর দৈর্ঘ্যের সমান ব্যাসের একটি পাতলা চাকতিতে পরিণত করে P'Q' অক্ষ সাপেক্ষে মিনিটে 70 ৰাৱ ঘোরানো হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E১ম ক্ষেত্রে, AB দণ্ডটিকে PQ অক্ষ যা (AB দণ্ডের এক প্রান্তে অবস্থিত) এর সাপেক্ষে ঘোরানো হচ্ছে।এখানে,AB দণ্ডের ভর, M = 0.5 kgAB দণ্ডের দৈর্ঘ্য, 1=1mকৌণিক বেগ,[math]\\begin{aligned}\\omega_{1} & =\\frac{2 \\pi n_{1}}{t} \\\\& =\\frac{2 \\pi \\times 60}{60} \\\\& =2 \\pi \\text { rads }^{-1}\\end{aligned}[/math]\u003Cbr\u003EPQ অক্ষের সাপেক্ষে AB দণ্ডের জড়তার ভ্রামক,[math]\\begin{aligned}\\mathrm{I}_{\\mathrm{PQ}} & =\\frac{1}{3} \\mathrm{M} l^{2} \\\\& =\\frac{1}{3} \\times 0.5 \\times 1^{2} \\\\& =0.167 \\mathrm{kgm}^{2}\\end{aligned}[/math]\u003Cbr\u003EAB দণ্ডটির ঘূর্ণন গতিশক্তি [math]K_1[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned}\\mathrm{K}_{1} & =\\frac{1}{2} \\mathrm{I}_{P Q} \\omega_{1}{ }^{2} \\\\& =\\frac{1}{2} \\times 0.167 \\times(2 \\pi)^{2} \\\\& =3.29 \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003EAB দণ্ডটিকে এর দৈর্ঘ্যের সমান ব্যাসের পাতলা চাকতিতে পরিণত করলে,চাকতির ভর, m = 0.5 kgচাকতির ব্যাসার্ধ, [math]\\mathrm{r}=\\frac{l}{2}=\\frac{1}{2} \\mathrm{~m}=0.5 \\mathrm{~m}[/math]\u003Cbr\u003Eচাকতিটিকে এর ভারকেন্দ্রগামী P'Q' অক্ষের সাপেক্ষে ঘোরানো হলে,[math]\\begin{aligned}\\mathrm{I}_{\\mathrm{PQ}} & =\\frac{1}{2} \\mathrm{mr}^{2} \\\\& =\\frac{1}{2} \\times 0.5 \\times(0.5)^{2} \\\\& =0.0625 \\mathrm{kem}^{2}\\end{aligned}[/math]\u003Cbr\u003Eচাকতিটির কৌণিক বেগ,[math]\\begin{aligned}\\omega_{2} & =\\frac{2 \\pi \\mathrm{n}_{2}}{\\mathrm{t}} \\\\& =\\frac{2 \\pi \\times 70}{60} \\\\& =\\frac{7 \\pi}{3} \\mathrm{rads}^{-1}\\end{aligned}[/math]\u003Cbr\u003Eচাকতিটির ঘূর্ণন - গতিশক্তি [math]K_2[/math]\u003Cbr\u003E হলে,[math]\\begin{aligned}\\mathrm{K}_{2} & =\\frac{1}{2} \\mathrm{I}_{\\mathrm{P}^{\\prime} \\mathrm{Q}^{\\prime}} \\times \\omega_{2}{ }^{2} \\\\& =\\frac{1}{2} \\times 0.0625 \\times\\left(\\frac{7 \\pi}{3}\\right) \\\\& =1.68 \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003Eদেখা যাচ্ছে, [math]K_2 \u003C K_1[/math]\u003Cbr\u003Eসুতরাং বলা যায়, ২য় ক্ষেত্রে চাকতিটিকে ঘোরানোর ক্ষেত্রে কম শক্তির প্রয়োজন হবে। -",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রথম কেসে দণ্ডের ঘূর্ণনের শক্তি কম। কারণ, দণ্ডের দৃঢ়জ্য কতক [math]I_{rod}=\\tfrac{1}{12}mL^2[/math] এবং চাকতির [math]I_{disk}=\\tfrac{1}{2}mR^2=\\tfrac{1}{8}mL^2\\ (R=L/2)[/math]; কৌণিকবেগগুলো হল [math]\\omega_1=60\\,\\text{rpm}=2\\pi\\,\\text{rad/s}[/math], [math]\\omega_2=70\\,\\text{rpm}=\\tfrac{7}{6}\\cdot2\\pi\\,\\text{rad/s}[/math]. ঘূর্ণনকাইনীতি অনুযায়ী [math]K_1=\\tfrac12I_{rod}\\omega_1^2=\\tfrac{mL^2\\omega_1^2}{24}[/math] এবং [math]K_2=\\tfrac12I_{disk}\\omega_2^2=\\tfrac{mL^2\\omega_2^2}{16}[/math], তাই [math]\\dfrac{K_2}{K_1}=\\dfrac{3}{2}\\left(\\dfrac{7}{6}\\right)^2\\approx2.04\u003E1[/math] — অতএব দণ্ডের ঘূর্ণনের জন্য কম শক্তি প্রয়োজন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 406203,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 406203,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 406203,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T06:26:27.000000Z",
+            "updated_at": "2025-08-19T06:26:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406202,
+      "value": {
+        "options": {
+          "ক": "ঘাত বল কাকে বলে?",
+          "খ": "পাখি আকাশে উড়তে পারলেও বায়ুশূন্য স্থানে উড়তে পারে না কেন?",
+          "গ": "ছাত্রটি নাগরদোলার ধারে লাফিয়ে উঠার পর পুরো সিস্টেমের ঘূর্ণন জড়তা নির্ণয় কর।",
+          "ঘ": "কেন্দ্র থেকে 0.5 m দূরের বিন্দুতে পৌছাতে ছাত্রটি দ্বারা কৃতকাজ নির্ণয় কর ।"
+        },
+        "question": "চিত্রে দেখানো নাগরদোলাটির ভর 100 kg এবং ব্যাসার্ধ 2 m. নাগরদোলাটি একটি ঘর্ষনহীন উল্লম্ব অক্ষের সাপেক্ষে আনুভূমিক ভাবে ঘুরছে। 60 kg ভরের একজন ছাত্র যখন নাগরদোলাটির একদম ধারে লাফিয়ে উঠে, তখন পুরো ব্যবস্থার কৌণিক বেগ 2 rad/s কমে যায়। ছাত্রটি ধার থেকে ধীরে কেন্দ্রের দিকে আসতে থাকে এবং কেন্দ্র থেকে, 0.5 m দূরে একটি বিন্দুতে পৌছায়।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview2078_1755584784_qQ0YQrHH.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eখুব অল্প সময়ের জন্য খুব বড় মানের যে বল কোনো বস্তুর উপর প্রযুক্ত হয় তাকে ঘাতবল বলে । [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপাখি উড়বার সময় ডানা দুইটি দিয়ে বাতাসকে পেছনের দিকে ধাক্কা দেয় (BA ও CA)। একই সাথে বাতাসও নিউটনের তৃতীয় সূত্রানুসারে পাখির ডানাকে AB ও AC বরাবর ধাক্কা দেয়। এই প্রতিক্রিয়া বলের লব্ধিবল AR পাখিটিকে সামনের দিকে ধাক্কা দেয়। যা পাখিটিকে উড়তে সাহায্য করে। কিন্তু বায়ুশূন্য স্থানে কোনো প্রতিক্রিয়া বল পাওয়া যায় না বলে পাখি উড়তে পারে না\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcamscanner-09-23-2023-1412-7-removebg-preview_1755584786_SxvGfnpT.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,নাগরদোলার ভর, M = 100 kgব্যাসার্ধ, R = 2 mছাত্রের ভর, m= 60 kg[math]\\begin{aligned}\\mathrm{I}_{\\text {total }} & =\\mathrm{I}_{\\text {disc }}+\\mathrm{I}_{\\text {student }} \\\\& =\\frac{1}{2} \\mathrm{MR}^{2}+\\mathrm{mR}^{2} \\\\& =0.5 \\times 100 \\times 2^{2}+60 \\times 2^{2} \\\\& =440 \\mathrm{~kg} \\mathrm{~m}^{2}\\end{aligned}[/math]\u003Cbr\u003Eনির্ণেয় ঘূর্ণন জড়তা [math]440 \\mathrm{~kg} \\mathrm{~m}^{2}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\omega_{\\mathrm{i}}=2 \\mathrm{rad} \\mathrm{s}[/math]\u003Cbr\u003E'গ' হতে, [math]\\left(\\mathrm{I}_{\\mathrm{D}}+\\mathrm{I}_{\\mathrm{s}}\\right)=440 \\mathrm{~kg} \\mathrm{~m}^{2}[/math]\u003Cbr\u003E [math]\\begin{aligned}\\mathrm{L}_{\\mathrm{i}} & =\\left(\\mathrm{I}_{\\mathrm{D}}+\\mathrm{I}_{\\mathrm{S}}\\right) \\omega_{\\mathrm{i}} \\\\& =440 \\times 2 \\\\& =880 \\mathrm{~kg} \\mathrm{~m}^{2} / \\mathrm{s} .\\end{aligned}[/math]\u003Cbr\u003Eছাত্রের চূড়ান্ত জড়তার ভ্রামক, [math]\\mathrm{I}_{\\mathrm{S}}=\\mathrm{mr}^{2}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{array}{l}=60 \\times 0.5^{2} \\\\=15 \\mathrm{~kg} \\mathrm{~m}^{2}\\end{array}[/math]\u003Cbr\u003E [math]\\begin{aligned}L_{f} & =\\left(I_{\\text {Disc }}+I_{s t}\\right) \\omega_{f} \\\\& =(200+15) \\omega_{f}=215 \\omega_{f}\\end{aligned}[/math]\u003Cbr\u003Eএখন, [math]\\mathrm{L}_{\\mathrm{i}}=\\mathrm{L}_{f}[/math]\u003Cbr\u003E [math]\\begin{aligned}\\Rightarrow\\omega_{f} & =\\frac{880}{215}=4.09 \\mathrm{rad} / \\mathrm{s} \\\\\\omega & =\\frac{1}{2} \\mathrm{I}_{\\mathrm{S}} \\omega_{f}^{2}-\\frac{1}{2} \\mathrm{I}_{\\mathrm{S}} \\omega_{\\mathrm{i}}^{2} \\\\& =0.5\\left(15 \\times 4.09^{2}-240 \\times 2^{2}\\right) \\\\& =-354.53 \\text { joule }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ঘাত বল হলো কেন্দ্রের দিকে ক্রিয়া করা সেই বল যা বস্তুকে বৃত্তীয় পথে রেখেছে; অর্থাৎ বস্তুর গতি দিক পরিবর্তন করার জন্য প্রয়োজনীয় কেন্দ্রমুখী বল (centripetal force)।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পাখি পাখা নাড়লে বাতাসকে পিছনে ঠেলে দেয় এবং প্রতিক্রিয়ায় উত্তোলন সৃষ্টি হয়; বায়ুশূন্যে বাতাস নেই বলে পাখি পাখা নাড়লেও কোনো প্রতিক্রিয়া বল তৈরি হয় না, তাই উড়তে পারে না।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E চাকাটি রিং ধাঁচের ধরে নিলে চাকা‑এর ঘূর্ণনজড়তা [math]I_{\\text{wheel}}=M R^2=100\\times2^2=400\\ \\mathrm{kg·m^2}[/math] এবং ছাত্রের যোগ হওয়া কণার ঘূর্ণনজড়তা [math]60\\times2^2=240\\ \\mathrm{kg·m^2}[/math], সুতরাং পুরো সিস্টেমের ঘূর্ণনজড়তা [math]I_1=400+240=640\\ \\mathrm{kg·m^2}[/math]।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E উপরের তথ্য ও কৌণিক ঋজুতার সংরক্ষণ থেকে প্রথমে সূত্রানুসারে [math]400ω_i=640(ω_i-2)\\Rightarrow ω_i=16/3\\ \\mathrm{rad/s}[/math], সুতরাং স্কেলার অবস্থায় [math]ω_1=10/3\\ \\mathrm{rad/s}[/math]। ছাত্র কেন্দ্র থেকে [math]0.5\\ \\mathrm{m}[/math]‑এ এলে [math]I_2=400+60\\times0.5^2=415\\ \\mathrm{kg·m^2}[/math] এবং কৌণিক ভরাল সংরক্ষণে [math]ω_2=\\dfrac{I_1ω_1}{I_2}=\\dfrac{640\\times(10/3)}{415}\\approx5.139\\ \\mathrm{rad/s}[/math]। কাজকর্মটি ঘূর্ণন জড়তার কাইনেটিক শক্তি পরিবর্তন, তাই [math]\\Delta K=\\tfrac12I_2ω_2^2-\\tfrac12I_1ω_1^2\\approx1.92\\times10^3\\ \\mathrm{J}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 406202,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 2008,
+          "full_name": "Scholars Home, Sylhet",
+          "short_name": "SHS",
+          "slug": "shs",
+          "pivot": {
+            "question_bank_id": 406202,
+            "tag_id": 2008,
+            "year": "2020",
+            "created_at": "2025-08-19T06:26:26.000000Z",
+            "updated_at": "2025-08-19T06:26:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406201,
+      "value": {
+        "options": {
+          "ক": "টর্ক কী?",
+          "খ": "কৌণিক ভরবেগের নিত্যতার সূত্র একটি সার্বজনীন সূত্র কেন ব্যাখ্যা কর।",
+          "গ": "বস্তুটির উপর কী পরিমাণ টর্ক ক্রিয়া করেছে তার মান নির্ণয় কর।",
+          "ঘ": "3 মিনিট পর থেকে বস্তুর উপর কী পরিমাণ টান কাজ করছে? এই টানের মান চারগুণ করা হলে কৌণিক বেগের কী পরিবর্তন হবে গাণিতিকভাবে বিশ্লেষণ করে বুঝিয়ে দাও।"
+        },
+        "question": "0.250 kg ভরের কোনো বস্তুকে 75 cm লম্বা একটি সুতার সাহায্যে অনুভূমিক বৃত্তাকার পথে ঘুরানো হচ্ছে। এটি স্থির অবস্থা থেকে সমকৌণিক ত্বরণে ঘোরা আরম্ভ করে 3 মিনিট পর থেকে প্রতি মিনিটে 180 বার করে ঘুরছে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযা কোনো অঘূর্ণনশীল বস্তুতে ঘুর্ণন সৃষ্টি করে বা করতে চায় বা ঘূর্ণায়মান বস্তুর কৌণিক বেগের পরিবর্তন করে তাকে টর্ক বলে। অন্যভাবে বলা যায়, যা বস্তুর কৌণিক ভরবেগের পরিবর্তন করতে পারে তাই টর্ক। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eআমরা জানি,কৌণিক ভরবেগ, [math]L=I \\omega[/math]\u003Cbr\u003Eএখানে, [math]\\mathrm{I}=[/math]\u003Cbr\u003E জড়তার ভ্রমক [math]\\omega=[/math]\u003Cbr\u003E কৌণিক বেগসময়ের সাপেক্ষে [math]\\mathrm{L}=\\mathrm{I} \\omega[/math]\u003Cbr\u003E কে অন্তরীকরণ করে পাই,[math]\\frac{\\mathrm{dL}}{\\mathrm{dt}}=\\mathrm{I} \\frac{\\mathrm{d} \\omega}{\\mathrm{dt}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{dL}}{\\mathrm{dt}}=\\mathrm{I} \\alpha\\left[\\because \\frac{\\mathrm{d} \\omega}{\\mathrm{dt}}=\\alpha\\right][/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{dL}}{\\mathrm{dt}}=\\tau[/math]\u003Cbr\u003Eএখন, [math]\\tau=0[/math]\u003Cbr\u003E অর্থাৎ বস্তুর উপর ক্রিয়াশীল টর্ক শূন্য হলে, [math]\\frac{\\mathrm{dL}}{\\mathrm{dt}}=0[/math]\u003Cbr\u003Eসুতরাং L = ধ্রুবক।অর্থাৎ বস্তুর উপর প্রযুক্ত টর্ক শূন্য হলে ঘূর্ণায়মান বস্তুর কৌণিক ভরবেগের পরিবর্তন হয় না। এটিই কৌণিক ভরবেগের সংরক্ষণশীলতার নীতি। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,বস্তুর ভর, [math]\\mathrm{M}=0.250 \\mathrm{~kg}[/math]\u003Cbr\u003Eব্যাসার্ধ, [math]\\mathrm{r}=75 \\mathrm{~cm}=0.75 \\mathrm{~m}[/math]\u003Cbr\u003Eসময়, [math]\\mathrm{t}=3 \\mathrm{~min}=180 \\mathrm{sec}[/math]\u003Cbr\u003Eআদি কৌণিক বেগ, [math]\\omega_{0}=0[/math]\u003Cbr\u003Eশেষ কৌণিক বেগ, [math]\\omega=\\frac{2 \\pi \\mathrm{N}}{\\mathrm{t}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{2 \\pi \\times 180}{60} \\mathrm{rad} / \\mathrm{s} \\\\=18.85 \\mathrm{rad} / \\mathrm{s}\\end{array}[/math]\u003Cbr\u003Eটর্ক, [math]\\tau=?[/math]\u003Cbr\u003Eআমরা জানি,জড়তার ভ্রামক, [math]\\mathrm{I}=\\mathrm{Mr}^{2}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=0.250 \\times(0.75)^{2} \\\\=0.1406 \\mathrm{\\ kgm}^{2}\\end{array}[/math]\u003Cbr\u003Eআবার,কৌণিক ত্বরণ,[math]\\begin{aligned}\\alpha & =\\frac{\\omega-\\omega_{0}}{t} \\\\& =\\frac{18.85-0}{180} \\\\& =0.1047 \\mathrm{rad} / \\mathrm{s}^{2}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E টর্ক,[math]\\begin{aligned}\\tau & =\\mathrm{I} \\alpha \\\\& =0.1406 \\times 0.1047 \\quad 0.01472 \\mathrm{\\ Nm} \\\\& =14.72 \\times 10^{-3} \\mathrm{\\ Nm} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,‘গ’ হতে প্রাপ্ত,3 min পর কৌণিক বেগ, [math]\\omega=18.85 \\mathrm{\\ rad} / \\mathrm{s}[/math]\u003Cbr\u003Eবস্তুর ভর, m = 0.250 kgব্যাসার্ধ, r = 75 cm = 0.75 mআমরা জানি,সুতার টান, [math]\\mathrm{T}=\\mathrm{m} \\omega^{2} \\mathrm{r}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=0.250 \\times(18.85)^{2} \\times 0.75 \\\\=66.623 \\mathrm{~N}\\end{array}[/math]\u003Cbr\u003Eআবার,সুতার টান চারগুণ করা হলে,অর্থাৎ [math]\\mathrm{T}_{1}=4 \\mathrm{~T}[/math]\u003Cbr\u003Eধরি, পরিবর্তিত কৌণিক বেগ, [math]\\omega_{1}[/math]\u003Cbr\u003E [math]\\therefore \\frac{\\mathrm{T}_{1}}{\\mathrm{~T}}=\\frac{\\omega_{1}^{2}}{\\omega^{2}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\omega_{1}}{\\omega}=\\sqrt{\\frac{T_{1}}{T}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\omega_{\\mathrm{i}}=\\sqrt{\\frac{\\mathrm{T}_{1}}{\\mathrm{~T}}} \\times \\omega=\\sqrt{\\frac{4 \\mathrm{~T}}{\\mathrm{~T}}} \\times \\omega[/math]\u003Cbr\u003E [math]\\therefore \\omega_{1}=2 \\omega[/math]\u003Cbr\u003Eসুতরাং সুতার টান চারগুণ করা হলে কৌণিক বেগ দ্বিগুণ হবে।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E টর্ক হল ঘূর্ণনগত বলের পরিমাপ — একটি বলযুক্ত বাহুর কেন্দ্র থেকে বলের ক্লান্তি (রেডিয়াল ও বলের লেভার আর্ম) দিয়ে পাওয়া ঘূর্ণনীয় প্রভাব; গণনায় [math]\\tau=r\\times F[/math] বা ঘূর্ণনগত ত্বরণের সাথে [math]\\tau=I\\alpha[/math] রব।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কৌণিক ভরবেগের সংরক্ষণ কবিতাটি সার্বজনীন কারণ বাহ্যিক মোট টর্ক শূন্য হলে ঘূর্ণনগত সমীকরণ [math]\\dfrac{d\\mathbf{L}}{dt}=\\boldsymbol{\\tau}_{\\rm ext}[/math] থেকে সরাসরি [math]\\mathbf{L}=\\text{ধ্রুব}[/math] পাওয়া যায়; এটি স্থানীয় ঘূর্ণনীসমতা (Noether’s theorem) থেকে উদ্ভূত এবং নিউটনের ঘূর্ণনগত ধারার সাধারণ ফল।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথমে কোণগত গতি: [math]\\omega=180\\ \\text{rev/min}=\\dfrac{180\\cdot2\\pi}{60}=6\\pi\\ \\text{rad/s}[/math], কোণগত ত্বরণ [math]\\alpha=\\dfrac{\\omega}{t}=\\dfrac{6\\pi}{180}=\\dfrac{\\pi}{30}\\ \\text{rad/s}^2[/math]; ভূমিকা জড়তা [math]I=mr^2=0.250(0.75)^2=0.140625\\ \\text{kg·m}^2[/math]; তাই টর্ক [math]\\tau=I\\alpha=0.140625\\cdot\\dfrac{\\pi}{30}=0.0046875\\pi\\approx0.0147\\ \\text{N·m}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কেন্দ্রপস্থিত টান (tension) হবে [math]T=mr\\omega^2=0.25\\cdot0.75\\cdot(6\\pi)^2=6.75\\pi^2\\approx66.9\\ \\text{N}[/math]. যদি টান চারগুণ করা হয়, তাহলে [math]\\omega'=\\sqrt{\\dfrac{T'}{mr}}=\\sqrt{\\dfrac{4T}{mr}}=2\\sqrt{\\dfrac{T}{mr}}=2\\omega[/math] — তাই কোণগত বেগ দ্বিগুণ হবে (নোট: টানটি রেডিয়াল বল; কেন্দ্রের প্রতিকেন্দ্রিক টান সরাসরি টর্ক না দিলে গুরুত্বপূর্ণ কোণগত ভরবেগ পরিবর্তন করতে টর্ক বা শক্তি যোগ করা প্রয়োজন)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 406201,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:26:24.000000Z",
+            "updated_at": "2025-08-19T06:26:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406200,
+      "value": {
+        "options": {
+          "ক": "টর্ক ও কৌণিক ত্বরণের মধ্যে সম্পর্কটি লিখ।",
+          "খ": "গুলি ছোঁড়ার সময় বন্দুক পিছনের দিকে ধাক্কা দেয় কেন? ব্যাখ্যা করো।",
+          "গ": "বোল্টের উপর ক্রিয়াশীল টর্ক নির্ণয় কর।",
+          "ঘ": "চিত্রে প্রদর্শিত O, A ও B এর মধ্যে কোন বিন্দুতে কত কোণে বল প্রয়োগ করা হলে বোল্টটি খুলতে বেশি সুবিধা হবে? গাণিতিক ভাবে বিশ্লেষণ কর।"
+        },
+        "question": "একটি বোল্ট খোলার জন্য চিত্রের ন্যায় একটি রেঞ্জের সাহায্যে B বিন্দুতে [math]\\vec{F}=5 \\hat{i}+3 \\hat{j} N[/math] বল প্রয়োগ করা হচ্ছে।\n\nএখানে [math]\\hat{i}[/math] ও [math]\\hat{j}[/math] দ্বারা যথাক্রমে X ও Y অক্ষ বরাবর একক ভেক্টর নির্দেশ করে। B বিন্দুর অবস্থান ভেক্টর, [math]\\vec{r}=0.12 \\hat{i}-0.07 \\hat{j} m[/math]\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-14-panjeri2-12_1755584783_jns3IoQJ.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eটর্ক [math]\\vec{\\tau}[/math]\u003Cbr\u003E এবং কৌণিক ত্বরণ [math]\\vec{\\alpha}[/math]\u003Cbr\u003E হলে [math]\\vec{\\tau}=I \\vec{\\alpha}[/math]\u003Cbr\u003E [যেখানে I = জড়তার ভ্রামক ] [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eগুলি ছোড়ার সময় বন্দুক কর্তৃক প্রযুক্ত গুলির উপর ক্রিয়া করে এবং গুলি সামনের দিকে ছুটে চলে। নিউটনের তৃতীয় সূত্রানুসারে, গুলি কর্তৃক বন্দুকের উপর সমান ও বিপরীত প্রতিক্রিয়া বল কাজ করবে। এই প্রতিক্রিয়া বলের কারণেই বন্দুক পিছনে ধাক্কা দেয়৷ [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\begin{array}{l}\\vec{F}=-5 \\hat{i}-3 \\hat{j} \\\\\\vec{r}=0.12 \\hat{i}-0.07 \\hat{j}\\end{array}[/math]\u003Cbr\u003Eটর্ক [math]\\vec{\\tau}=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned}\\vec{\\tau} & =\\overrightarrow{\\mathrm{r}} \\times \\overrightarrow{\\mathrm{F}} \\\\& =\\left|\\begin{array}{ccc}\\hat{\\mathrm{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\0.12 & -0.07 & 0 \\\\-5 & -3 & 0\\end{array}\\right|\\end{aligned}[/math]\u003Cbr\u003E [math]\\begin{aligned}& =\\hat{\\mathrm{i}}(0-0)+\\hat{\\mathrm{j}}(0-0)+\\hat{\\mathrm{k}}(-0.36-0.35) \\\\\\therefore \\quad \\vec{\\tau} & =-0.71 \\hat{\\mathrm{k}} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eস্কুটি খোলা কতটা সহজ হবে তা নির্ভর করে স্কুটির উপর প্রয়োগকৃত টর্কের মানের উপর।এখন আমরা জানি, [math]\\tau=r F \\sin \\theta[/math]\u003Cbr\u003Eচিত্র হতে দেখা যায়- O, A ও B বিন্দু তিনটির মধ্যে B বিন্দুতে ব্যাসার্ধ ভেক্টর r এর মান সবচেয়ে বেশি। অর্থাৎ B বিন্দুতে টর্কের মান বেশি হবে। আবার, [math]\\theta[/math]\u003Cbr\u003E এর মান 90° হলে [math]\\sin \\theta[/math]\u003Cbr\u003E এর মান সর্বোচ্চ +1 হয়। সুতরাং সর্বোচ্চ টর্ক পাওয়ার জন্য স্কুটিকে B বিন্দুতে 90° কোণে বল প্রয়োগ করতে হবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সম্বন্ধ: টর্ক এবং কৌণিক ত্বরণের মধ্যে সম্পর্ক হল [math]\\vec{τ}=I\\vec{α}[/math] (একমাত্র অক্ষ নির্দিষ্ট হলে স্কেলার রূপে [math]\\tau=Iα[/math]) এবং টর্কের দিক রাইট‑হ্যান্ড রুল অনুসারে নির্ধারিত হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ব্যাখ্যা: বন্দুক থেকে গুলি বের হওয়ার সময় গুলির উপর গতি বাড়ানোর জন্য গুলি প্রতি সামনে একটি বল করে; তাতে প্রতিক্রিয়ায় বন্দুকের উপর বিপরীত দিকে বল পড়ে (নিউটন‑এর তৃতীয় নিয়ম) এবং কনজার্ভেশন অব মোমেন্টামের কারণে বন্দুক পিছনে ধাক্কা খায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমাধান: [math]\\vec{τ}=\\vec{r}\\times\\vec{F}=(0.12\\hat{i}-0.07\\hat{j})\\times(5\\hat{i}+3\\hat{j})[/math], তাই z‑অক্ষের স্কেলার টর্ক  \n[math]\\tau_z=xF_y-yF_x=0.12\\times3-(-0.07)\\times5=0.36+0.35=0.71\\ \\mathrm{N\\!·m}[/math]. ফলে [math]\\vec{τ}=0.71\\hat{k}\\ \\mathrm{N\\!·m}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বিশ্লেষণ: টর্কের পরিমাণ [math]\\tau=|r||F|\\sin\\phi[/math] যেখানে [math]\\phi[/math] হলো [math]\\vec r[/math] ও [math]\\vec F[/math]‑এর মধ্যকার কোণ; সর্বোচ্চ টর্ক যখন [math]\\phi=90^\\circ[/math] (বল লিভার‑আর্মের প্রতি লম্ব). অতএব যেই বিন্দুটি নামে লিভার‑আর্মের মান [math]|r|\u003C/math\u003E সবচেয়ে বড় হবে এবং সেখানে বল লম্বভাবে প্রয়োগ করলে বোল্ট খুলতে সবচেয়ে সুবিধা হবে। (উদাহরণ: B‑এর জন্য বর্তমান কোণ [math]\\phi\\approx61.2^\\circ[/math] এবং বর্তমান টর্ক [math]0.71\\ \\mathrm{N\\!·m}[/math]; লম্বভাবে প্রয়োগ করলে সর্বোচ্চ টর্ক হবে [math]|r||F|≈0.809\\ \\mathrm{N\\!·m}\u003C/math\u003E, যা বেশি।)",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 406200,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:26:23.000000Z",
+            "updated_at": "2025-08-19T06:26:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406197,
+      "value": {
+        "options": {
+          "ক": "টর্ক কী?",
+          "খ": "পৃথিবীর নিজ অক্ষের চারপাশে ঘূর্ণন হঠাৎ থেমে গেলে পৃথিবী পৃষ্ঠে g-এর মানের কিরূপ পরিবর্তন হবে ব্যাখ্যা কর।",
+          "গ": "মোটরটি বন্ধ হয়ে যাবার পর ১ম দণ্ডটি কতটি পূর্ণ ঘূর্ণন সম্পন্ন করবে?",
+          "ঘ": "ঘূর্ণনরত দণ্ডদ্বয়ের কৌণিক গতিশক্তির গাণিতিক তুলনা কর।"
+        },
+        "question": "1 m এবং 0.707 m দৈর্ঘ্যের দুটি সরু সুষম দণ্ডের ভরদ্বয় যথাক্রমে 10 kg এবং 20 kg এদের উভয়ই দৈর্ঘ্যের সাথে লম্বভাবে স্থাপিত এবং মধ্যবিন্দুগামী অক্ষের সাপেক্ষে প্রতিমিনিটে যথাক্রমে 300 বার এবং 360 বার একটি মোটরের সাহায্যে সম-কৌণিক বেগে ঘুরছে। মোটরটি বন্ধ হয়ে গেলে ১ম দণ্ডটি 20s সময়ের মধ্যে থেমে যায়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো দৃঢ় বস্তুর উপর বল প্রযুক্ত হলে বস্তুটির মধ্যে কোনো নির্দিষ্ট বিন্দু বা অক্ষের সাপেক্ষে ঘুরবার যে প্রবণতা সৃষ্টি হয় তাকে বলের ভ্রামক বা টর্ক বলে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপৃথিবীর নিজ অক্ষের চারপাশে ঘূর্ণনের ফলে যে কেন্দ্রবিমুখী ত্বরণ সৃষ্টি হয় তার কারণে মেরু অঞ্চল ব্যতীত পৃথিবী পৃষ্ঠের অন্যান্য স্থানে [math]g[/math]\u003Cbr\u003E-এর মান হ্রাস পায়। এ কারণে পৃথিবীর নিজ অক্ষের চারপাশে ঘূর্ণন হঠাৎ থেমে গেলে মেরু অঞ্চলে [math]g[/math]\u003Cbr\u003E-এর মান অপরিবর্তিত থাকবে কিন্তু পৃথিবী পৃষ্ঠের অন্যান্য স্থানে [math]g[/math]\u003Cbr\u003E-এর মান বৃদ্ধি পাবে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eআদি ঘূর্ণন বেগ, [math]\\omega_{0} =\\frac{300 \\times 2 \\pi}{60} \\mathrm{rad} \\mathrm{s}^{-1} =31.416 \\mathrm{rad} \\mathrm{s}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eশেষ ঘূর্ণন বেগ, [math]\\omega=0[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eসময়, [math]t=20 \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eকৌণিক ত্বরণ, [math]\\alpha=\\dfrac{\\omega-\\omega_{0}}{t}=\\dfrac{-31.416}{20} \\mathrm{rad} \\mathrm{s}^{-2}=-1.57 \\mathrm{rad} \\mathrm{s}^{-2}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{2 cm}\\begin{aligned}\\quad \\omega^{2} &=\\omega_{0}^{2}+2 \\alpha \\theta \\\\ \\Rightarrow\\theta &=\\frac{\\omega^{2}-\\omega_{0}^{2}}{2 \\alpha}=\\frac{0^{2}-31.416^{2}}{2 \\times(-1.57)} \\mathrm{rad}=314.16 \\mathrm{rad} \\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ঘূর্ণন সংখ্যা, [math]\\mathrm{n}=\\frac{\\theta}{2 \\pi}=\\frac{314.16}{2 \\times 3.1416}[/math]\u003Cbr\u003E টি [math]=50[/math]\u003Cbr\u003E টি।অতএব, মোটরটি বন্ধ হয়ে যাওয়ার পর ১ম দণ্ডটি [math]50[/math]\u003Cbr\u003Eটি পূর্ণ ঘূর্ণন সম্পন্ন করবে।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E১ম দণ্ডের দৈর্ঘ্য, [math]l_{1}=1 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E২য় দণ্ডের দৈর্ঘ্য, [math]l_{2}=0.707 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E১ম দণ্ডের ভর, [math]\\mathrm{m}_{1}=10 \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E২য় দণ্ডের ভর, [math]\\mathrm{m}_{2}=20 \\mathrm{~kg}[/math]\u003Cbr\u003E১ম দণ্ডের কৌণিক বেগ, [math]\\omega_{1}=31.416 \\mathrm{rad} \\mathrm{s}^{-1}[/math]\u003Cbr\u003E [গ হতে]২য় দণ্ডের কৌণিক বেগ, [math]\\omega_{2}=\\dfrac{360 \\times 2 \\pi}{60} \\mathrm{rad} \\mathrm{s}^{-1}=37.7 \\mathrm{rad} \\mathrm{s}^{-1}[/math]\u003Cbr\u003E১ম দণ্ডের জড়তার ভ্রামক,[math]\\hspace{2 cm}\\rm{I}_{1}=\\dfrac{1}{12} \\mathrm{~m}_{1} l_{1}^{2}=\\dfrac{1}{12} \\times 10 \\times 1^{2} \\mathrm{~kg} \\mathrm{~m}^{2}=0.83 \\mathrm{~kg} \\mathrm{~m}[/math]\u003Cbr\u003E২য় দণ্ডের জড়তার ভ্রামক,[math]\\hspace{2 cm}\\begin{array}{l} \\mathrm{I}_{2}=\\dfrac{1}{12} \\mathrm{~m}_{2} l_{2}^{2}=\\dfrac{1}{12} \\times 20 \\times 0.707^{2} \\mathrm{~kg} \\mathrm{~m}^{2}=0.83 \\mathrm{~kg} \\mathrm{~m}^{2} \\\\ \\therefore \\dfrac{E_{k_{1}}}{E_{k_{2}}}=\\dfrac{\\frac{1}{2} I_{1} \\omega_{1}^{2}}{\\frac{1}{2} I_{2} \\omega_{2}^{2}}=\\dfrac{0.83 \\times 31.416^{2}}{0.83 \\times 37.7^{2}}=0.69 \\\\ \\therefore \\dfrac{E_{k_{1}}}{E_{k_{2}}}\u003C1 \\\\ \\Rightarrow \\mathrm{E}_{\\mathrm{k}_{1}}\u003C\\mathrm{E}_{\\mathrm{k}_{2}} \\\\ \\end{array}[/math]\u003Cbr\u003Eঅতএব, ঘূর্ণনরত দণ্ডদ্বয়ের মধ্যে ১ম দণ্ডটির কৌণিক গতিশক্তি হয় দণ্ডটির কৌণিক গতিশক্তি অপেক্ষা কম।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E  প্রথম দণ্ডের ইনবেরিয়া [math]I=\\tfrac{1}{12}mL^2=\\tfrac{1}{12}\\times10\\times1^2=\\tfrac{5}{6}\\ \\text{kg·m}^2[/math], প্রাথমিক কোণগত বেগ [math]\\omega_0=300\\ \\text{rpm}=10\\pi\\ \\text{rad/s}[/math] এবং ত্বরণ [math]\\alpha=-\\omega_0/t=-10\\pi/20=-\\pi/2\\ \\text{rad/s}^2[/math]; তাই টর্ক [math]\\tau=I\\alpha=\\tfrac{5}{6}\\times\\left(-\\tfrac{\\pi}{2}\\right)=-\\tfrac{5\\pi}{12}\\ \\text{N·m}\\approx-1.31\\ \\text{N·m}[/math] (চিহ্নটি গতির বিপরীত দিকে লাগা ঘর্ষণীয় টর্ক নির্দেশ করে)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E  পৃথিবীর ঘূর্ণন বন্ধ হলে কেন্দ্রিপ্রচলনীয় присরফল উঠিয়ে নেওয়া হবে, ফলে ভোক্ত g বাড়বে; পরিবর্তন [math]\\Delta g=\\omega^2 R\\cos^2\\phi[/math] ( latitude [math]\\phi[/math]) এবং সমুদ্রতটীয় মানে (উত্তরতম) প্রায় [math]\\Delta g\\approx\\omega_e^2R\\approx0.034\\ \\text{m/s}^2[/math], ফলে g সামান্য (অধিকাংশ ক্ষেত্রে কয়েক শতাংশের চেয়েও কম) বাড়ে এবং ধ্রুবে কোন পরিবর্তন হয় না।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E  মোটর বন্ধ হওয়ার পরে কোণীয় ত্বরণ ধ্রুবক হওয়ায় মোট কোণিক বিচরণ [math]\\theta=\\omega_0 t+\\tfrac{1}{2}\\alpha t^2=\\tfrac{1}{2}\\omega_0 t[/math] (কারণ [math]\\alpha=-\\omega_0/t[/math]); তাই পূর্ণ ঘূর্ণন সংখ্যা [math]N=\\theta/(2\\pi)=\\dfrac{\\omega_0 t}{4\\pi}=\\dfrac{10\\pi\\times20}{4\\pi}=50[/math] পূর্ণ ঘূর্ণন।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E  দুই দণ্ডের ইনবেরিয়া যথাক্রমে [math]I_1=\\tfrac{1}{12}10\\times1^2=\\tfrac{5}{6}[/math] এবং [math]I_2=\\tfrac{1}{12}20\\times(0.707)^2\\approx\\tfrac{1}{12}\\times20\\times0.5=\\tfrac{5}{6}[/math] তাই সমান; কোণগত শক্তি [math]K=\\tfrac{1}{2}I\\omega^2[/math] হওয়ায় অনুপাত [math]K_1:K_2=(\\omega_1/\\omega_2)^2=(300/360)^2=(5/6)^2=25:36[/math], অর্থাৎ দ্বিতীয়টির কৌণিক শক্তি বড়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 406197,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 406197,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-08-19T06:26:22.000000Z",
+            "updated_at": "2025-08-19T06:26:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406199,
+      "value": {
+        "options": {
+          "ক": "প্ৰাস কাকে বলে?",
+          "খ": "স্বাধীন ভেক্টরের পাদবিন্দু মূলবিন্দুতে নয় কেন—ব্যাখ্যা কর ।",
+          "গ": "AB ঘূর্ণন অক্ষের চারদিকে PQ দণ্ডটির টর্ক নির্ণয় কর।",
+          "ঘ": "যদি ঘূর্ণন অক্ষ AB, PQ দণ্ডটির প্রান্তবিন্দু হতে পরিবর্তন করে মধ্যবিন্দুতে নেওয়া হয়, তবে কোন ক্ষেত্রে জড়তার ভ্রামক বেশি হবে— তোমার উত্তরের সপক্ষে গাণিতিক যুক্তিসহ ব্যাখ্যা কর।"
+        },
+        "question": "চিত্রটি লক্ষ কর :\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview2062_1755584782_jLfbdQK6.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো একটি বস্তুকে অনুভূমিকের সাথে তির্যকভাবে উপরের দিকে নিক্ষেপ করা হলে তাকে প্রাস বলে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eআমরা জানি, স্বাধীন ভেক্টরের পাদবিন্দু কোথায় হবে তা ইচ্ছেমতো ঠিক করা যায় অর্থাৎ, এর পাদবিন্দু নির্দিষ্ট নয়। এজন্যই স্বাধীন ভেক্টরের পাদবিন্দু মূলবিন্দুতে নয়। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, [math]\\mathrm{AB}[/math]\u003Cbr\u003E ঘূর্ণন অক্ষের চারদিকে [math]\\mathrm{PQ}[/math]\u003Cbr\u003E দণ্ডটির টর্ক, [math]\\tau[/math]\u003Cbr\u003Eঘূর্ণন অক্ষ থেকে বলের প্রয়োগ বিন্দুর দূরত্ব, [math]\\mathrm{r = 1~m}[/math]\u003Cbr\u003E,বল, [math]\\mathrm{F = 500 ~N}[/math]\u003Cbr\u003E [math]\\overrightarrow{\\rm{r}}\\text{ ও }\\overrightarrow{\\rm{F}}[/math]\u003Cbr\u003E এর মধ্যবর্তী কোণ [math]\\theta=90^{\\circ}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.6 cm}\\begin{aligned} \\tau=\\overrightarrow{\\mathrm{r}} \\times \\overrightarrow{\\mathrm{F}} & =\\mathrm{rF} \\sin \\theta=1 \\mathrm{~m} \\times 500 \\mathrm{~N} \\times \\sin 90^{\\circ} \\\\ & =500 \\mathrm{~N}-\\mathrm{m} \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, টর্ক [math]500 \\mathrm{~N}\\text{-}\\mathrm{m}[/math]\u003Cbr\u003E। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, [math]\\mathrm{PQ}[/math]\u003Cbr\u003E দণ্ডের দৈর্ঘ্য, [math]l=1 \\mathrm{~m}[/math]\u003Cbr\u003Eধরি, [math]\\rm{P Q}[/math]\u003Cbr\u003E দণ্ডের ভর [math]\\rm{=M}[/math]\u003Cbr\u003Eএখন, [math]\\text{AB}[/math]\u003Cbr\u003E অক্ষ [math]\\text{PQ}[/math]\u003Cbr\u003E দণ্ডের প্রান্তে থাকাকালীন অবস্থায় জড়তার ভ্রামক,[math]\\hspace{1.6 cm}\\rm{I}_{1}=\\dfrac{1}{3} \\rm{M} \\textit{l}^{2}=\\dfrac{1}{3} \\times \\rm{M \\times(1 \\mathrm{~m})^{2}=\\dfrac{M}{3}}[/math]\u003Cbr\u003Eআবার, [math]\\mathrm{AB}[/math]\u003Cbr\u003E অক্ষটি, [math]\\mathrm{PQ}[/math]\u003Cbr\u003E দণ্ডটির প্রান্তবিন্দু হতে পরিবর্তন করে মধ্যবিন্দুতে আনা হলে, জড়তার ভ্রামক হবে,[math]\\hspace{1.6 cm}\\rm{I}_{1}=\\dfrac{1}{12} \\rm{M} \\textit{l}^{2}=\\dfrac{1}{12} \\times \\rm{M} \\times(1 \\mathrm{~m})^{2}=\\dfrac{\\rm{M}}{12}[/math]\u003Cbr\u003Eএখানে, [math]\\mathrm{I}\u003E\\mathrm{I}_{1}[/math]\u003Cbr\u003Eঅতএব, প্রান্তে চলাকালীন অবস্থায় জড়তার ভ্রামক বেশি হবে।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রাস (টর্ক) হলো কোনো বলের পাকznąচ বা ঘূর্ণন উৎপাদনের ক্ষমতা, যা অবস্থাসূচক ভেক্টর [math]\\mathbf r[/math] ও বলের ভেক্টর [math]\\mathbf F[/math] এর ক্রস উৎপাদ: [math]\\boldsymbol τ=\\mathbf r\\times\\mathbf F, \\;|\\tau|=rF\\sin\\theta[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E স্বাধীন (free) ভেক্টরের পাদবিন্দু মূলবিন্দুতে না হওয়ার কারণ: একটি free ভেক্টরের কার্যকরণ শুধুমাত্র মান ও দিকের উপর নির্ভর করে, অবস্থার উপর নয়; তাই এটিকে রেখান্তরে সরে নেওয়া যায় এবং সেটি একই ভেক্টর থাকে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E AB ঘূর্ণন অক্ষকে কেন্দ্র করে কোনো বিন্দুতে লাগা বল [math]\\mathbf F[/math]-এর টর্ক হবে [math]\\boldsymbol τ=\\mathbf r\\times\\mathbf F[/math] (যেখানে [math]\\mathbf r[/math] হল ঐ বিন্দুর অবস্থাসূচক ভেক্টর AB অক্ষের প্রতিসমত পারপেন্ডিকুলার অংশ). যদি PQ-র প্রান্তে সমান ও বিপরীত দিকে দুইটি বল [math]F[/math] কাজ করে (একটি কপল), তাহলে মোট টর্কের পরিমাপ হবে [math]\\tau=F\\times PQ[/math] (দূরত্ব PQ হল বলদ্বয়ের লাইন-অফ-অ্যাকশন-এর মধ্যবর্তী লম্ব দূরত্ব)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মধ্যবিন্দুতে অক্ষ নিলে জড়তার ভ্রামক (moment of inertia) কম হয়; রডের ক্ষেত্রে কেন্দ্রীয় অক্ষের জন্য [math]I_{cm}=\\tfrac{1}{12}mL^2[/math] এবং প্রান্তে অক্ষ হলে প্যারালাল-অ্যাক্সিস থিওরেম অনুযায়ী [math]I_{end}=I_{cm}+m\\left(\\tfrac{L}{2}\\right)^2=\\tfrac{1}{3}mL^2[/math], তাই প্রান্তে থাকা ক্ষেত্রে জড়তার ভ্রামক বেশি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 406199,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 406199,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 406199,
+            "tag_id": 4,
+            "year": "2015",
+            "created_at": "2025-08-19T06:26:22.000000Z",
+            "updated_at": "2025-08-19T06:26:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406198,
+      "value": {
+        "options": {
+          "ক": "টর্কের সংজ্ঞা লিখ",
+          "খ": "ঘূর্ণন গতির ক্ষেত্রে জড়তার ভ্রামক বস্তুর ভরের সমতুল্য ব্যাখ্যা কর।",
+          "গ": "প্রথম পাখাটির প্রান্তবিন্দুতে কেন্দ্রমুখী ত্বরণ হিসাব কর।",
+          "ঘ": "সুইচ বন্ধ করার পর থেমে যাওয়ার আগ পর্যন্ত উভয় পাখাই কি সমান সংখ্যকবার ঘুরে থেমেছে— যাচাই কর।"
+        },
+        "question": "142 cm এবং 122 cm ব্যাসের দুটি বৈদ্যুতিক পাখা বানানো হলো। প্রথমটি মিনিটে 150 বার ও দ্বিতীয়টি মিনিটে 180 বার ঘুরে। সুইচ বন্ধ করার 2s পর উভয় পাখা থেমে যায়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো বস্তুর অবস্থান ভেক্টর এবং ঐ বস্তুর উপর ক্রিয়াশীল বলের ভেক্টর গুণনকে টর্ক বলে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eএকটি দৃঢ় বস্তু কোনো একটি স্থির অক্ষের চারদিকে আবর্তিত হতে থাকলে ঐ অক্ষের সাপেক্ষে বস্তুটির জড়তার ভ্রামক বলতে অক্ষ হতে প্রতিটি কণার দূরত্বের বর্গ ও এদের প্রত্যেকের ভরের গুণফলের সমষ্টিকে বুঝায় । ঘূর্ণায়মান বস্তুর গতিশক্তি [math]\\rm{E}[/math]\u003Cbr\u003E, ঘূর্ণনগতি [math]\\omega[/math]\u003Cbr\u003E এবং জড়তার ভ্রামক [math]\\rm{I}[/math]\u003Cbr\u003E হলে আমরা জানি, [math]\\rm{E=\\dfrac{1}{2} I \\omega^{2}}[/math]\u003Cbr\u003E। আবার, [math]\\rm{m}[/math]\u003Cbr\u003E ভরের কোনো বস্তুর রৈখিক বেগ [math]\\rm{v}[/math]\u003Cbr\u003E হলে গতিশক্তি, [math]\\rm{E=\\dfrac{1}{2} m v^{2}}[/math]\u003Cbr\u003E। সমীকরণ দুটি তুলনা করে বলা যায়, ঘূর্ণন গতির ক্ষেত্রে জড়তার ভ্রামক বস্তুর ভরের সমতুল্য। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eপ্রথম পাখার ব্যাস [math]=142 \\mathrm{~cm}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ব্যাসার্ধ, [math]\\mathrm{r}=\\dfrac{\\mathrm{142}}{2} \\mathrm{~cm}=71 \\mathrm{~cm}=0.71 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eঘূর্ণন সংখ্যা, [math]\\rm{N}=150[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eসময়, [math]\\rm{t}=1 \\mathrm{~min}=60 \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E কৌণিক বেগ, [math]\\omega_{0}=\\rm{\\dfrac{2 \\pi N}{t}}=\\dfrac{2 \\pi \\times 150}{60 \\mathrm{~s}}=5 ~\\pi \\mathrm{rad} \\mathrm{s}^{-1}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E কেন্দ্রমুখী ত্বরণ, [math]\\rm{a=\\omega_{0}^{2} r}=(5 \\pi)^{2} \\times 0.71=175.19 \\mathrm{~m} \\mathrm{~s}^{-2}[/math]\u003Cbr\u003Eঅতএব, প্রথম পাখাটির প্রান্তবিন্দুতে কেন্দ্রমুখী ত্বরণ [math]175.19 \\mathrm{~m} \\mathrm{~s}^{-2}[/math]\u003Cbr\u003E।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, প্রথম পাখার কৌণিক বেগ, [math]\\omega_{0}=5 \\pi \\mathrm{rad} \\mathrm{s}^{-1}[/math]\u003Cbr\u003E ['গ' নং থেকে প্রাপ্ত]সময়, [math]\\rm{t}=2 \\mathrm{~s}[/math]\u003Cbr\u003Eপ্রথম পাখার শেষ কৌণিক বেগ, [math]\\omega=0[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E প্রথম পাখার কৌণিক সরণ, [math]\\theta=\\left(\\dfrac{\\omega_{0}+\\omega}{2}\\right) \\mathrm{t}=\\left(\\dfrac{5 \\pi \\mathrm{rad} \\mathrm{s}^{-1}+0}{2}\\right) \\times 2 \\mathrm{~s}=5 \\pi \\mathrm{rad}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E থেমে যাওয়ার আগে প্রথম পাখাটির ঘূর্ণন সংখ্যা, [math]\\mathrm{N}_{1}=\\dfrac{\\theta}{2 \\pi}=\\dfrac{5 \\pi}{2 \\pi}=2.5 \\mathrm{~rev}[/math]\u003Cbr\u003E২য় পাখাটির ব্যাস [math]=122 \\mathrm{~cm}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ব্যাসার্ধ, [math]\\mathrm{r}=\\dfrac{122}{2} \\mathrm{~cm}=61 \\mathrm{~cm}=0.61 \\mathrm{~m}[/math]\u003Cbr\u003Eঘূর্ণন সংখ্যা, [math]\\rm{N}^{\\prime}=180;[/math]\u003Cbr\u003E সময়, [math]\\mathrm{t}^{\\prime}=60 \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ২য় পাখাটির আদি কৌণিক বেগ, [math]\\omega_{0}^{\\prime}=\\dfrac{2 \\pi \\mathrm{N}^{\\prime}}{\\mathrm{t}^{\\prime}}=\\dfrac{2 \\pi \\times 180}{60 \\mathrm{~s}^{2}}=6 \\pi \\mathrm{rad} \\mathrm{s}^{-1}[/math]\u003Cbr\u003E২য় পাখার শেষ কৌণিক বেগ, [math]\\omega^{\\prime}=0[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ২য় পাখাটির কৌণিক সরণ, [math]\\theta^{\\prime} =\\left(\\dfrac{\\omega_{0}^{\\prime}+\\omega^{\\prime}}{2}\\right) t =\\left(\\dfrac{6 \\pi \\mathrm{rad} \\mathrm{s}^{-1}+0}{2}\\right) \\times 2=6 \\pi \\mathrm{rad}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E থেমে যাওয়ার আগে ২য় পাখাটির ঘূর্ণন সংখ্যা, [math]\\mathrm{N}_{2}=\\dfrac{\\theta^{\\prime}}{2 \\pi}=\\dfrac{6 \\pi}{2 \\pi}=3 \\mathrm{rev}[/math]\u003Cbr\u003Eএখানে, [math]\\mathrm{N}_{1} \\neq \\mathrm{N}_{2}[/math]\u003Cbr\u003Eঅতএব, থেমে যাওয়ার আগ পর্যন্ত উভয় পাখা সমান সংখ্যক বার ঘুরেনি।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E টর্ক হলো কোন বিন্দু থেকে বল প্রয়োগের ফলে বস্তুতে ঘূর্ণন সৃষ্টি করার ক্ষমতা, এবং পরিমাপ হয় [math]\\vec{\\tau}=\\vec{r}\\times\\vec{F}[/math] (ম্যাগ্নিটিউড [math]\\tau=rF\\sin\\theta[/math]) দিয়ে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ঘূর্ণনগতিতে জড়তার ভ্রামক বস্তুর ভরের সমতুল্য হলো গতি পরিবর্তন অনিরোধ করার মাত্রা, এটিকে মোমেন্ট অব ইনর্শিয়া বলে এবং সাধারণভাবে [math]I=\\sum m_ir_i^2[/math] (অথবা অপরিবর্তিত ক্ষেত্রে [math]I=\\int r^2\\,dm[/math]) দ্বারা দেওয়া হয়; টর্ক ও কোণীয় ত্বরণের সম্পর্ক আছে: [math]\\tau=I\\alpha[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথম পাখার ব্যাস [math]142\\ \\text{cm}[/math] থেকে ব্যাসার্ধ [math]r=0.71\\ \\text{m}[/math], ঘূর্ণন সংখ্যা [math]150\\ \\text{rpm}=2.5\\ \\text{Hz}[/math], তাই কোণীয় গতি [math]\\omega=2\\pi f=5\\pi\\ \\text{rad/s}[/math]; কেন্দ্রমুখী ত্বরণ [math]a_c=\\omega^2 r=(5\\pi)^2\\times0.71\\approx1.75\\times10^2\\ \\text{m/s}^2[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সুইচ বন্ধ করে 2 সেকেন্ডে থেমে গেলে সামান্য ধীরকরণ ধরে মোট ঘূর্ণন সংখ্যা [math]N=\\dfrac{\\omega_0 t}{4\\pi}[/math]; প্রথমটির [math]\\omega_1=5\\pi[/math] হলে [math]N_1=2.5[/math] বার, দ্বিতীয়টির [math]\\omega_2=6\\pi[/math] হলে [math]N_2=3[/math] বার; তাই উভয় পাখা সমান বার ঘোরে নি (দ্বিতীয়টি বেশি)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 406198,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 406198,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T06:26:22.000000Z",
+            "updated_at": "2025-08-19T06:26:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406196,
+      "value": {
+        "options": [],
+        "question": "একটি বস্তুর 5 m দূরত্বে অবস্থিত দুটি ভিন্ন বিন্দুতে 10N মানের দুটি সমান্তরাল ও বিপরীতমুখী বল প্রয়োগ করা হলো।\n\nউক্ত দ্বন্দ্বের মোমেন্ট কত?",
+        "solution": "",
+        "explanation": "দ্বৈত সমান্তরাল এবং বিপরীতমুখী দুইটি সমান বল একটি কাপল তৈরি করে, যার মোমেন্ট এক বলের মান ও তাদের বিভাজন দূরত্বের গুণফল। তাই মোমেন্ট [math]=10\\times5=50\\ \\text{N·m}[/math], তাই উত্তর B সঠিক।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 406196,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:26:22.000000Z",
+            "updated_at": "2025-08-19T06:26:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406195,
+      "value": {
+        "options": {
+          "ক": "40%",
+          "খ": "21%",
+          "গ": "20%",
+          "ঘ": "10%"
+        },
+        "question": "কৌণিক দ্রুতি 10% বৃদ্ধি করলে গতিশক্তির বৃদ্ধি হবে?",
+        "solution": "কৌণিক দ্রুতি ( [math]\\omega[/math]\u003Cbr\u003E) 10% বৃদ্ধি করা হলে নতুন কৌণিক দ্রুতি হয় [math]\\omega' = \\omega + 0.10\\omega = 1.10\\omega[/math]\u003Cbr\u003E.গতিশক্তি ( [math]K[/math]\u003Cbr\u003E) কৌণিক দ্রুতির বর্গের সমানুপাতিক, অর্থাৎ [math]K \\propto \\omega^2[/math]\u003Cbr\u003E.সুতরাং, যদি কৌণিক দ্রুতি [math]1.10[/math]\u003Cbr\u003E গুণ হয়, তবে গতিশক্তি [math](1.10)^2[/math]\u003Cbr\u003E গুণ হবে।[math]K' \\propto (1.10\\omega)^2 = 1.21\\omega^2[/math]\u003Cbr\u003Eঅর্থাৎ, নতুন গতিশক্তি আগের গতিশক্তির [math]1.21[/math]\u003Cbr\u003E গুণ।গতিশক্তির বৃদ্ধি হল [math]K' - K = 1.21K - K = 0.21K[/math]\u003Cbr\u003E.শতকরা বৃদ্ধি হল [math]\\frac{0.21K}{K} \\times 100\\% = 21\\%[/math]\u003Cbr\u003E.এই প্রশ্নটি জড়তার ভ্রামক ( [math]I[/math]\u003Cbr\u003E) এর সাথে সম্পর্কিত। কৌণিক ভরবেগ ( [math]L = I\\omega[/math]\u003Cbr\u003E) এবং গতিশক্তি ( [math]K = \\frac{1}{2}I\\omega^2 = \\frac{L^2}{2I}[/math]\u003Cbr\u003E) এর সাথে কৌণিক দ্রুতির সম্পর্ক রয়েছে। যখন কৌণিক দ্রুতি পরিবর্তন হয়, তখন গতিশক্তির পরিবর্তন হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 406195,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:26:22.000000Z",
+            "updated_at": "2025-08-19T06:26:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406194,
+      "value": {
+        "options": {
+          "ক": "1.0 m/s",
+          "খ": "0.5 m/s",
+          "গ": "1.5 m/s",
+          "ঘ": "2.0 m/s"
+        },
+        "question": "বৃত্তাকার পথে 3 rad/s দ্রুতিতে ঘূর্ণনরত একটি বস্তুর জড়তার ভ্রামক [math]3 \\mathrm{~kg}-\\mathrm{m}^{2}[/math] এবং এর গতিশক্তি 27 kg ভরের সোজা সড়কে চলমান একটি গাড়ির গতিশক্তি সমান। গাড়িটির দ্রুতি :",
+        "solution": "বস্তুটির কৌণিক গতিশক্তি হলো [math]\\frac{1}{2} I\\omega^2[/math]\u003Cbr\u003E, যেখানে [math]I[/math]\u003Cbr\u003E হলো জড়তার ভ্রামক এবং [math]\\omega[/math]\u003Cbr\u003E হলো কৌণিক দ্রুতি। দেওয়া আছে [math]I = 3 \\mathrm{~kg}-\\mathrm{m}^{2}[/math]\u003Cbr\u003E এবং [math]\\omega = 3 \\mathrm{~rad/s}[/math]\u003Cbr\u003E। সুতরাং, বস্তুটির কৌণিক গতিশক্তি = [math]\\frac{1}{2} \\times 3 \\times (3)^2 = \\frac{1}{2} \\times 3 \\times 9 = 13.5 \\mathrm{~J}[/math]\u003Cbr\u003E।গাড়ির গতিশক্তি হলো [math]\\frac{1}{2} mv^2[/math]\u003Cbr\u003E, যেখানে [math]m[/math]\u003Cbr\u003E হলো গাড়ির ভর এবং [math]v[/math]\u003Cbr\u003E হলো গাড়ির দ্রুতি। দেওয়া আছে [math]m = 27 \\mathrm{~kg}[/math]\u003Cbr\u003E।প্রশ্নানুসারে, বস্তুটির কৌণিক গতিশক্তি গাড়ির গতিশক্তির সমান, অর্থাৎ [math]13.5 \\mathrm{~J} = \\frac{1}{2} \\times 27 \\times v^2[/math]\u003Cbr\u003E।এখন [math]v[/math]\u003Cbr\u003E এর মান নির্ণয় করা যাক:[math]13.5 = \\frac{27}{2} v^2[/math]\u003Cbr\u003E [math]v^2 = \\frac{13.5 \\times 2}{27}[/math]\u003Cbr\u003E [math]v^2 = \\frac{27}{27}[/math]\u003Cbr\u003E [math]v^2 = 1[/math]\u003Cbr\u003E [math]v = 1 \\mathrm{~m/s}[/math]\u003Cbr\u003Eসুতরাং, গাড়িটির দ্রুতি [math]1 \\mathrm{~m/s}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 406194,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:26:22.000000Z",
+            "updated_at": "2025-08-19T06:26:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406193,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{E}=\\mathrm{I} \\omega[/math]",
+          "খ": "[math]E=I \\omega^{2}[/math]",
+          "গ": "[math]E=\\frac{1}{2} I \\omega[/math]",
+          "ঘ": "[math]\\mathrm{E}=\\frac{1}{2} I \\omega^{2}[/math]"
+        },
+        "question": "ঘূর্ণন গতিশক্তি E, জড়তার ভ্রামক I এবং কৌণিক বেগ [math]{\\omega}[/math] এর মধ্যবর্তী সম্পর্ক কোনটি?",
+        "solution": "ঘূর্ণন গতিশক্তির সাথে জড়তার ভ্রামক ও কৌণিক বেগের সম্পর্ক হলো [math]E=\\frac{1}{2} I \\omega^{2}[/math]\u003Cbr\u003E । এখানে, [math]E[/math]\u003Cbr\u003E হলো ঘূর্ণন গতিশক্তি, [math]I[/math]\u003Cbr\u003E হলো বস্তুর জড়তার ভ্রামক এবং [math]\\omega[/math]\u003Cbr\u003E হলো বস্তুর কৌণিক বেগ। রৈখিক গতিশক্তির সূত্র [math]E = \\frac{1}{2} mv^2[/math]\u003Cbr\u003E এর সাথে তুলনা করলে দেখা যায়, যেখানে [math]m[/math]\u003Cbr\u003E হলো ভর এবং [math]v[/math]\u003Cbr\u003E হলো রৈখিক বেগ, সেখানে ঘূর্ণনের ক্ষেত্রে ভর [math]m[/math]\u003Cbr\u003E এর পরিবর্তে জড়তার ভ্রামক [math]I[/math]\u003Cbr\u003E এবং রৈখিক বেগ [math]v[/math]\u003Cbr\u003E এর পরিবর্তে কৌণিক বেগ [math]\\omega[/math]\u003Cbr\u003E ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 406193,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:26:22.000000Z",
+            "updated_at": "2025-08-19T06:26:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406192,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{E}=\\mathrm{I} \\omega[/math]",
+          "খ": "[math]\\mathrm{E}=\\mathrm{I} \\omega^{2}[/math]",
+          "গ": "[math]\\mathrm{E}=\\frac{1}{2} \\mathrm{l} \\omega[/math]",
+          "ঘ": "[math]E=\\frac{1}{2} I \\omega^{2}[/math]"
+        },
+        "question": "ঘূর্ণন গতিশক্তি E, জড়তার ভ্রামক I এবং কৌণিক বেগ ω এর মধ্যবর্তী সম্পর্ক কোনটি?",
+        "solution": "ঘূর্ণন গতিশক্তি হলো [math]\\frac{1}{2}[/math]\u003Cbr\u003E গুণ জড়তার ভ্রামক এবং কৌণিক বেগের বর্গের সমান। তাই সঠিক সম্পর্কটি হলো [math]E=\\frac{1}{2} I \\omega^{2}[/math]\u003Cbr\u003E। এটি রৈখিক গতিশক্তি [math]K = \\frac{1}{2}mv^2[/math]\u003Cbr\u003E এর ঘূর্ণন সমতুল্য, যেখানে [math]m[/math]\u003Cbr\u003E রৈখিক ভর এবং [math]v[/math]\u003Cbr\u003E রৈখিক বেগ। জড়তার ভ্রামক ( [math]I[/math]\u003Cbr\u003E) রৈখিক গতির ভরের ( [math]m[/math]\u003Cbr\u003E) ঘূর্ণন গতির সমতুল্য এবং কৌণিক বেগ ( [math]\\omega[/math]\u003Cbr\u003E) রৈখিক বেগের ( [math]v[/math]\u003Cbr\u003E) ঘূর্ণন গতির সমতুল্য।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 406192,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:26:22.000000Z",
+            "updated_at": "2025-08-19T06:26:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406182,
+      "value": {
+        "options": {
+          "ক": "[math]10%[/math]",
+          "খ": "[math]20%[/math]",
+          "গ": "[math]21%[/math]",
+          "ঘ": "[math]40%[/math]"
+        },
+        "question": "ঘূর্ণায়মান কোনো বস্তুর কৌণিক বেগ 10% বৃদ্ধি করলে ঘূর্ণন গতিশক্তি বৃদ্ধি পায়-",
+        "solution": "• [math]\\mathrm{K}_{1}=\\frac{1}{2} \\mathrm{I} \\omega_{1}^{2}, \\omega_{2}[/math]\u003Cbr\u003E [math]\\omega_{2}=\\omega_{1}+\\omega_{1}[/math]\u003Cbr\u003E এর, [math]10 \\%=1.1 \\omega_{1}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{K}_{2}=\\frac{1}{2} \\times \\mathrm{I}\\left(1.1 \\omega_{1}\\right)^{2}[/math]\u003Cbr\u003E বা, [math]\\frac{K_{2}-K_{1}}{K_{1}} \\times 100 \\%[/math]\u003Cbr\u003E [math]=\\frac{\\frac{1}{2} \\times \\mathrm{I} \\times\\left(1.1 \\omega_{1}\\right)^{2}-\\frac{1}{2} \\mathrm{I} \\omega_{1}^{2}}{\\frac{1}{2} \\mathrm{I} \\omega_{1}^{2}}[/math]\u003Cbr\u003E [math]=\\frac{(1.1)^{2}-1}{1} \\times 100=21 \\%[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 406182,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 406182,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 406182,
+            "tag_id": 7,
+            "year": "2024",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406191,
+      "value": {
+        "options": {
+          "A": "Rotational kinetic energy",
+          "B": "Potential energy",
+          "C": "Torque",
+          "D": "Power"
+        },
+        "question": "[math]L^{2} / 2 I[/math] I represents of a particle.",
+        "solution": "[math]\\frac{\\mathrm{L}^{2}}{2 \\mathrm{I}}=\\frac{\\mathrm{P}^{2} \\mathrm{o}^{2}}{2 \\mathrm{I}}\\\\=\\frac{1}{2} \\mathrm{I} \\omega^{2}=\\text { K.E of rotation }[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 406191,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 406191,
+            "tag_id": 57,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406190,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{KE}=\\frac{1}{2} \\mathrm{I} \\omega[/math]",
+          "খ": "[math]\\mathrm{KE}=\\frac{1}{2} I\\left(\\omega^{2}\\right.[/math]",
+          "গ": "[math]\\mathrm{KE}=\\mathrm{l} \\omega[/math]",
+          "ঘ": "[math]K E=\\frac{1}{2} I[/math]",
+          "ঙ": "[math]\\text { None }[/math]"
+        },
+        "question": "কোনটি ঘূর্ণায়মান বস্তুর গতিশক্তি?",
+        "solution": "[math]V=\\frac{2 \\pi r}{T}\\\\=\\frac{2 \\pi \\times 15 \\times 10^{10}}{365 \\times 24 \\times 60 \\times 60}\\\\=2.99 \\times 10^{4} \\mathrm{~m}\\\\=3 \\times 10 \\mathrm{~km} / \\mathrm{s}=30 \\mathrm{~km} / \\mathrm{s}[/math]\u003Cbr\u003E [math]r=15 \\times 10^{7} \\mathrm{~km}=15 \\times 10^{10} \\mathrm{~m} ; \\\\\\mathrm{T}=365 \\text { days }=365 \\times 24 \\times 60 \\times 60 \\mathrm{sec}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 406190,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 406190,
+            "tag_id": 109,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406189,
+      "value": {
+        "options": {
+          "ক": "1:2",
+          "খ": "√2:1",
+          "গ": "1:√2",
+          "ঘ": "2:1"
+        },
+        "question": "নিজ ঘূর্ণন অক্ষের সাপেক্ষে দুটি বস্তুর জড়তার ভ্রামক যথাক্রমে [math]I[/math] এবং [math]2I[/math]। যদি তারের ঘূর্ণন গতি শক্তি সমান হয়, তাদের কৌণিক ভরবেগের অনুপাত কত?",
+        "solution": "[math]\\frac{\\mathrm{P}_{1}{ }^{2}}{\\mathrm{I}_{1}}=\\frac{\\mathrm{P}_{2}{ }^{2}}{\\mathrm{I}_{2}} \\\\\\Rightarrow \\frac{\\mathrm{P}_{1}{ }^{2}}{\\mathrm{I}_{1}}=\\frac{\\mathrm{P}_{2}{ }^{2}}{2 \\mathrm{I}_{1}} \\\\\\Rightarrow \\frac{\\mathrm{P}_{1}}{\\mathrm{P}_{2}}=\\frac{1}{\\sqrt{2}}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 406189,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 501,
+          "full_name": "Chittagong University of Engineering & Technology",
+          "short_name": "CUET",
+          "slug": "cuet",
+          "pivot": {
+            "question_bank_id": 406189,
+            "tag_id": 501,
+            "year": "14-15",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406188,
+      "value": {
+        "options": {
+          "ক": "0.078 J",
+          "খ": "390.63 J",
+          "গ": "0.78 J",
+          "ঘ": "585.94 J"
+        },
+        "question": "5kg ভর ও 0.25m ব্যাসার্ধ বিশিষ্ট একটি বেলুন 50 rad/sec কৌণিক বেগে ঘুরাতে থাকলে তার গতিশক্তি কত?",
+        "solution": "[math]E_{k}=\\frac{1}{2} m v^{2}+\\frac{1}{2} l \\omega^{2}=\\frac{1}{2} m \\omega^{2} r^{2}+\\frac{1}{2} m k^{2} \\omega^{2}=\\frac{1}{2} m\\left(r^{2}+k^{2}\\right) \\omega^{2}[/math]\u003Cbr\u003E [math]=\\frac{1}{2} m\\left(r^{2}+\\frac{1}{2} r^{2}\\right) \\omega^{2}=\\frac{1}{2} \\times \\frac{3}{2} m^{2} \\omega^{2}=585.941[/math]\u003Cbr\u003Eএখানে, সিলিন্ডার (বেলন) ধরা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 406188,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 501,
+          "full_name": "Chittagong University of Engineering & Technology",
+          "short_name": "CUET",
+          "slug": "cuet",
+          "pivot": {
+            "question_bank_id": 406188,
+            "tag_id": 501,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406187,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{1}{2} I \\omega^{2}[/math]",
+          "খ": "[math]\\frac{1}{2} I \\omega[/math]",
+          "গ": "[math]I \\omega^{2}[/math]",
+          "ঘ": "[math]\\frac{1}{2} I^{2} \\omega[/math]"
+        },
+        "question": "ঘূর্ণায়মান বস্তুর গতিশক্তি (K. E)-",
+        "solution": "ঘূর্ণায়মান বস্তুর গতিশক্তি [math]\\frac{1}{2} I \\omega^{2}[/math]\u003Cbr\u003E দ্বারা প্রকাশ করা হয়, যেখানে [math]I[/math]\u003Cbr\u003E হলো বস্তুর জড়তার ভ্রামক এবং [math]\\omega[/math]\u003Cbr\u003E হলো কৌণিক বেগ। এটি রৈখিক গতিশক্তির [math]\\frac{1}{2} mv^{2}[/math]\u003Cbr\u003E এর অনুরূপ, যেখানে [math]m[/math]\u003Cbr\u003E ভর এবং [math]v[/math]\u003Cbr\u003E রৈখিক বেগ। জড়তার ভ্রামক [math]I[/math]\u003Cbr\u003E কৌণিক ভরবেগের [math]\\frac{1}{2} I \\omega[/math]\u003Cbr\u003E এর সাথে সম্পর্কিত, কিন্তু এটি গতিশক্তি নয়। [math]I \\omega^2[/math]\u003Cbr\u003E এবং [math]\\frac{1}{2} I^2 \\omega[/math]\u003Cbr\u003E ভুল কারণ এদের কোনো পদার্থবিদ্যাগত ভিত্তি নেই।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 406187,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 406187,
+            "tag_id": 77,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406186,
+      "value": {
+        "options": {
+          "ক": "[math]K E=\\left(\\frac{1}{2}\\right) \\mathrm{I} \\omega[/math]",
+          "খ": "[math]K E=\\left(\\frac{1}{2}\\right) I \\omega^{2} \\theta[/math]",
+          "গ": "[math]K E=\\mathrm{I}(0)[/math]",
+          "ঘ": "[math]K E=\\left(\\frac{1}{2}\\right) I^{2}(\\omega)[/math]"
+        },
+        "question": "কোনটি পূর্ণায়মান বস্তুর গতিশক্তির সমীকরণ?",
+        "solution": "ঘূর্ণায়মান বার গতিশক্তি [math]K E=\\frac{1}{2} I(n)^{2}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 406186,
+            "year_id": 29
+          }
+        },
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 406186,
+            "year_id": 18
+          }
+        },
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 406186,
+            "year_id": 19
+          }
+        },
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 406186,
+            "year_id": 19
+          }
+        },
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 406186,
+            "year_id": 22
+          }
+        },
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 406186,
+            "year_id": 22
+          }
+        },
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 406186,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 49,
+          "full_name": "University of Chittagong (Unit A)",
+          "short_name": "CU-A",
+          "slug": "cu-a",
+          "pivot": {
+            "question_bank_id": 406186,
+            "tag_id": 49,
+            "year": "22-23",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        },
+        {
+          "id": 3212,
+          "full_name": "Comilla University (A Unit)",
+          "short_name": "CoU-A",
+          "slug": "cou-a",
+          "pivot": {
+            "question_bank_id": 406186,
+            "tag_id": 3212,
+            "year": "19-20",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        },
+        {
+          "id": 94,
+          "full_name": "Islamic University, Bangladesh (A Unit)",
+          "short_name": "IU-A",
+          "slug": "iu-a",
+          "pivot": {
+            "question_bank_id": 406186,
+            "tag_id": 94,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        },
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 406186,
+            "tag_id": 77,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        },
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 406186,
+            "tag_id": 77,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        },
+        {
+          "id": 94,
+          "full_name": "Islamic University, Bangladesh (A Unit)",
+          "short_name": "IU-A",
+          "slug": "iu-a",
+          "pivot": {
+            "question_bank_id": 406186,
+            "tag_id": 94,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        },
+        {
+          "id": 3212,
+          "full_name": "Comilla University (A Unit)",
+          "short_name": "CoU-A",
+          "slug": "cou-a",
+          "pivot": {
+            "question_bank_id": 406186,
+            "tag_id": 3212,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406185,
+      "value": {
+        "options": {
+          "ক": "[math]1.01 \\mathrm{\\ kgm}^{2}[/math]",
+          "খ": "[math]12.3 \\mathrm{\\ kgm}^{2}[/math]",
+          "গ": "[math]10 \\mathrm{\\ kgm}^{2}[/math]",
+          "ঘ": "[math]406.75 \\mathrm{\\ kgm}^{2}[/math]"
+        },
+        "question": "2400 J গতিশক্তি বিশিষ্ট একটি চাকা প্রতি মিনিটে 602 বার ঘোরে। চাকাটির ঘূর্ণন জড়তা হবে?",
+        "solution": "[math]E_{k}=\\frac{1}{2} I \\omega^{2} \\Rightarrow E_{k}=\\frac{1}{2} I\\left(\\frac{2 \\pi N}{t}\\right)^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow 2400=\\frac{1}{2} \\mathrm{I}\\left(\\frac{2 \\times 3.1416 \\times 602}{60}\\right)^{2} \\\\ \\therefore \\mathrm{I}=12.3 \\mathrm{kgm}^{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 25,
+          "year": "2006-2007",
+          "pivot": {
+            "question_bank_id": 406185,
+            "year_id": 25
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 406185,
+            "tag_id": 8,
+            "year": "06-07",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406184,
+      "value": {
+        "options": {
+          "ক": "কৌণিক বেগের সমানুপাতিক",
+          "খ": "কৌণিক বেগের বর্গের সমানুপাতিক",
+          "গ": "রৈখিক বেগের সমানুপাতিক",
+          "ঘ": "রৈখিক বেগের বর্গের সমানুপাতিক"
+        },
+        "question": "সমকৌণিক বেগে আবর্তনরত কোনো দৃঢ় বস্তুর গতিশক্তি ও জড়তার ভ্রামকের অনুপাত—",
+        "solution": "এক্ষেত্রে প্রযোজ্য সমীকরণ [math]\\mathrm{E}_{\\mathrm{k}}=\\dfrac{1}{2} \\mathrm{I} \\omega^{2}[/math]\u003Cbr\u003E [math]\\rm{\\dfrac{E_{\\mathrm{k}}}{I}=\\dfrac{1}{2} \\omega^{2} \\\\\\therefore \\dfrac{E_{\\mathrm{k}}}{I} \\propto \\omega^{2}}[/math]\u003Cbr\u003Eরৈখিক গতিশক্তি, [math]\\mathrm{E}_{\\mathrm{k}}=\\dfrac{1}{2} \\mathrm{mv}^{2}[/math]\u003Cbr\u003E এর সমতুল্য সমীকরণ কৌণিক গতিশক্তি, [math]E_{k}=\\dfrac{1}{2} \\omega^{2}[/math]\u003Cbr\u003E।যখন কোনো গোলাকার বস্তু গড়িয়ে চলে তখন এতে রৈখিক গতিশন্তি ও ঘূর্ণন গতিশক্তি উভয়ই থাকে।",
+        "explanation": "",
+        "correct_answer": "B.কৌণিক বেগের বর্গের সমানুপাতিক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 406184,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 406184,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 406184,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 406184,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 406184,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 406184,
+            "tag_id": 7,
+            "year": "2016",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 406183,
+      "value": {
+        "options": {
+          "ক": "20 rad/sec",
+          "খ": "89.44 rad/sec",
+          "গ": "141.42 rad/sec",
+          "ঘ": "200 rad/sec"
+        },
+        "question": "একটি চাকার জড়তার ভ্রামক [math]5 \\ kgm^2[/math] । চাকাটিতে [math]10^5[/math] J ঘূর্ণন গতিশক্তিতে ঘুরতে কত কৌণিক বেগের প্রয়োজন হবে?",
+        "solution": "জড়তার ভ্রামক [math]I=m r^{2}[/math]\u003Cbr\u003Eঘূর্ণন গতিশক্তি [math]E_{k}=\\dfrac{1}{2} \\mathrm{I} \\omega^{2}[/math]\u003Cbr\u003Eএখানে, [math]\\mathrm{I}=5 \\mathrm{kgm}^{2}[/math]\u003Cbr\u003E এবং [math]E_{k}=10^{5} \\mathrm{~J}[/math]\u003Cbr\u003E। সুতরাং সূত্রানুযায়ী, [math]10^5 =\\dfrac{1}{2} I \\omega^{2} \\Rightarrow 10^{5}=\\dfrac{1}{2} \\times 5 \\omega^{2}\\Rightarrow \\omega^{2}=40000 \\Rightarrow \\omega=200 \\mathrm{rads}^{-1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6320,
+      "created_at": "2025-08-19T06:26:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 406183,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 406183,
+            "tag_id": 3,
+            "year": "2021",
+            "created_at": "2025-08-19T06:26:21.000000Z",
+            "updated_at": "2025-08-19T06:26:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6320&grade=1&lesson=6533&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6320&grade=1&lesson=6533&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6320&grade=1&lesson=6533&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 31,
+  "total": 31
+}

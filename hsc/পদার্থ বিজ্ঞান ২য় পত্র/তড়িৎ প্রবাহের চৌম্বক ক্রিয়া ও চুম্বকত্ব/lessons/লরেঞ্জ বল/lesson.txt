@@ -1,0 +1,1960 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 425654,
+      "value": {
+        "options": [],
+        "question": "লরেঞ্জ বল কাকে বলে?",
+        "solution": "কোনো তড়িতাধান (চার্জ) একই সঙ্গে তড়িৎ ক্ষেত্র এবং চৌম্বক ক্ষেত্রের ভেতর দিয়ে গেলে মোট যে বল অনুভব করে, তাকে লরেঞ্জ বল বলে।",
+        "explanation": "লরেঞ্জ বল হল কোনো চার্জযুক্ত কণার উপরে বৈদ্যুতিক এবং চৌম্বক ক্ষেত্রের ফলে কার্যকরী মোট বল, এটির সূত্র হল [math]\\mathbf{F}=q(\\mathbf{E}+\\mathbf{v}\\times\\mathbf{B})[/math]. এখানে [math]q\\mathbf{E}[/math] অংশ কণার গতি পরিবর্তন করে (গতিবেগ বাড়ায়/কমায়) আর [math]q(\\mathbf{v}\\times\\mathbf{B})[/math] অংশ গতি-দিককে পরিবর্তন করে কিন্তু কাজ করে না, ফলে কণাটি চক্রাকার বা বক্র পথে গমন করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 425654,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 425654,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 425654,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425654,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425654,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 425654,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T07:33:11.000000Z",
+            "updated_at": "2025-08-19T07:33:11.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 425654,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T07:33:11.000000Z",
+            "updated_at": "2025-08-19T07:33:11.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 425654,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T07:33:11.000000Z",
+            "updated_at": "2025-08-19T07:33:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425653,
+      "value": {
+        "options": {
+          "ঘ": "চার্জিত কণাটিকে চৌম্বকক্ষেত্রের সাথে নির্দিষ্ট কোণে [math]\\left(\\theta \\neq 90^{\\circ}\\right)[/math] ছুঁড়ে দিলে এর গতিপথ কেম ন হবে? ব্যাখ্যা দাও।"
+        },
+        "question": "একটি চার্জিত কণাকে চৌম্বকক্ষেত্রের লম্বদিকে ছুঁড়ে দেওয়া হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eচার্জিত কণাটিকে যখন একটি নির্দিষ্ট কোণে [math](\\theta \\neq 90°)[/math]\u003Cbr\u003E নিক্ষেপ করা হবে তখন এর বেগের দুটি উপাংশের মানই থাকবে । যদি চার্জিত কণার বেগ v হয় তবে বেগের দুটি উপাংশের একটি অংশ [math](V cos \\theta)[/math]\u003Cbr\u003E এবং অপর অংশ [math](V sin \\theta)[/math]\u003Cbr\u003E। এখানে [math]V cos \\theta[/math]\u003Cbr\u003E হবে চৌম্বকক্ষেত্রের সমান্তরালে এবং [math]V sin \\theta[/math]\u003Cbr\u003E চৌম্বকক্ষেত্রের দিকের সাথে লম্বভাবে। [math]V cos \\theta[/math]\u003Cbr\u003E এর জন্য কণাটি রৈখিক গতি লাভ করবে এবং [math]V sin \\theta[/math]\u003Cbr\u003E উপাংশের জন্য কণাটি B এর চারদিকে স্পাইরাল পথে ঘুরবে।সুতরাং চার্জিত কণাটিকে নির্দিষ্ট কোণে [math](\\theta \\neq 90°)[/math]\u003Cbr\u003E ছুঁড়ে দিলে এর গতিপথ হবে স্পাইরাল ।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E চৌম্বকক্ষেত্রের সাথে নির্দিষ্ট কোণে [math]\\theta \\neq 90^{\\circ}[/math] বেগে কণার বেগকে সমান্তরাল [math](v_{\\parallel})[/math] ও লম্বা [math](v_{\\perp})[/math] উপাদানে ভাগ করা যায়। লম্বা উপাদান [math]v_{\\perp}[/math] কেন্দ্রগত চৌম্বক বলের ফলে বৃত্তীয় গতি করায় এবং সমান্তরাল উপাদান [math]v_{\\parallel}[/math] সরলগতিতে থাকে, তাই মোট পথ হয় হেলিক্যাল (স্পাইরাল)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425653,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3541,
+          "full_name": "Carmichael College, Rangpur",
+          "short_name": "CMCR",
+          "slug": "cmcr",
+          "pivot": {
+            "question_bank_id": 425653,
+            "tag_id": 3541,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:11.000000Z",
+            "updated_at": "2025-08-19T07:33:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425652,
+      "value": {
+        "options": {
+          "ঘ": "[math]P[/math] বিন্দুতে নিক্ষিপ্ত ইলেকট্রনটির গতিপথ গাণিতিক বিশ্লেষণের সাহায্যে ব্যাখ্যা কর।"
+        },
+        "question": "নিচের উদ্দীপকটি লক্ষ্য কর :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-26_1755588790_ccp24bTg.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[math]AB[/math] ও [math]CD[/math] তারের ঠিক মধ্যবিন্দু [math]P[/math] তে একটি ইলেকট্রনকে একটি নির্দিষ্ট বেগে প্রবাহের দিক বরাবর গতিশীল করা হল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\begin{array}{l}B_{1}=\\frac{\\mu_{0} I_{1}}{2 \\pi r_{1}}\\text {এবং} B_{2}=\\frac{\\mu_{0} I_{2}}{2 \\pi r_{2}}\\\\\\Rightarrow \\mathrm{B}_{1}=\\frac{\\mathrm{F}}{\\mathrm{I}_{2}} ;\\mathrm{B}_{2}=\\frac{\\mathrm{F}}{\\mathrm{I}_{1}}\\\\\\Rightarrow B_{1}=\\frac{25 \\times 10^{-6}}{5}, B_{2}=\\frac{25 \\times 10^{-6}}{5}\\\\\\Rightarrow \\mathrm{B}_{1}=5 \\times 10^{-6} \\mathrm{~T} ; \\mathrm{B}_{2}=5 \\times 10^{-6}\\mathrm{~T}\\\\\\therefore \\mathrm{B}_{1}=\\mathrm{B}_{2}\\end{array}[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2frsz-camscanner-09-05-2023-1731-removebg-preview_1755588791_0b4KF2bM.png\" alt=\"undefined\"\u003E\u003Cbr/\u003EP বিন্দুতে নিক্ষিপ্ত [math]e^-[/math]\u003Cbr\u003E এর বেগ v হলে,[math]\\begin{aligned}\\mathrm{v} & =\\frac{\\mathrm{F}}{\\mathrm{qB} \\sin \\theta} \\\\\\Rightarrow \\mathrm{v} & =\\frac{25 \\times 10^{-6}}{1.6 \\times 10^{-19} \\times 5 \\times 10^{-6} \\sin 90^{\\circ}} \\\\\\Rightarrow \\mathrm{v} & =3.13 \\times 10^{19} \\mathrm{~m} \\mathrm{~s}^{-1}\\end{aligned}[/math]\u003Cbr\u003Eঅর্থাৎ নিক্ষিপ্ত ইলেকট্রনটি [math]3.13 \\times 10^{19} \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E বেগে [math]I_1[/math]\u003Cbr\u003E বা [math]I_2[/math]\u003Cbr\u003E এর সাথে সমান দূরত্ব বজায় রেখে ঊর্ধ্বমুখে (F এর দিকে) গতিশীল হবে।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দুইটি সমান্তরাল তারে একই মাত্রার ও একই দিকের প্রবাহ ধরা হলে P বিন্দুতে প্রতিটি তারের উৎপন্ন চৌম্বকক্ষেত্রের মান [math]B=\\frac{\\mu_0 I}{2\\pi r}[/math] সমান কিন্তু বিপরীত দিকে হওয়ায় মোট [math]B_{\\rm net}=0[/math] হয়। চৌম্বকীয় বল [math]\\mathbf F=q(\\mathbf v\\times\\mathbf B)[/math] হওয়ায় [math]B=0[/math] হলে [math]\\mathbf F=0[/math] এবং ইলেকট্রনটি কোনো চৌম্বকীয় বল না পেয়ে সোজা রৈখিক গতিতে চলে যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425652,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1188,
+          "full_name": "Govt. Hazi Mohammad Mohsin College, Chottogram",
+          "short_name": "GHMMCC",
+          "slug": "ghmmcc",
+          "pivot": {
+            "question_bank_id": 425652,
+            "tag_id": 1188,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:11.000000Z",
+            "updated_at": "2025-08-19T07:33:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425651,
+      "value": {
+        "options": {
+          "ঘ": "প্রোটনের উপর আরও কোনো বল কাজ করবে কি? করলে তাদের মিলিত ফলের গাণিতিক বিশ্লেষণ কর।"
+        },
+        "question": "[math](3 \\hat{i}+4 \\hat{j}) \\text { Tesla }[/math] মানের একটি সুষম চৌম্বক ক্ষেত্রে একটি প্রোটন [math](6 \\hat{i}+4 \\hat{j}+2 \\hat{k}) V m^{-1}[/math] প্রাবল্যের তড়িৎ ক্ষেত্রের প্রভাবাধীন থেকেও [math](2 \\hat{i}+3 \\hat{j}) \\mathrm{ms} ^{-1}[/math] বেগে গতিশীল হলে কী ঘটবে তা নিয়ে ভাবছিল বাদল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E'গ' হতে পাই,প্রোটনের উপর ক্রিয়াশীল চৌম্বক বলের মান [math]\\mathrm{F}=2.88 \\times 10^{-18} \\mathrm{~N}[/math]\u003Cbr\u003Eপ্রোটনের উপর তড়িৎ বলও ক্রিয়াশীল হবেক্রিয়াশীল তড়িৎ বলের মান,[math]\\begin{aligned}\\mathrm{F}_{\\mathrm{E}} & =\\mathrm{qE}_{\\mathrm{p}} \\\\& =1.6 \\times 10^{-19} \\times \\sqrt{6^{2}+2^{2}+2^{2}} \\mathrm{~N} \\\\& =1.12 \\times 10^{-18} \\mathrm{~N}\\end{aligned}[/math]\u003Cbr\u003Eএর দিক পৃষ্ঠ বরাবর ডানদিকে ।[math]\\therefore[/math]\u003Cbr\u003E প্রোটনের উপর ক্রিয়াশীল নীট বল,[math]\\begin{aligned}\\mathrm{F}_{\\mathrm{R}} & =\\sqrt{\\mathrm{F}^{2}+\\mathrm{F}_{\\mathrm{E}}^{2}} \\\\& =\\sqrt{\\left(2.88 \\times 10^{-18}\\right)^{2}+\\left(1.12 \\times 10^{-18}\\right)^{2}}=3.1 \\times 10^{-18} \\mathrm{~N}\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রোটনের উপর মোট বল লরেন্টজ সূত্র দ্বারা [math]\\vec{F}=q(\\vec{E}+\\vec{v}\\times\\vec{B})[/math]। এখানে [math]\\vec{v}\\times\\vec{B}=(2,3,0)\\times(3,4,0)=-\\hat{k}[/math], তাই [math]\\vec{E}+\\vec{v}\\times\\vec{B}=(6,4,1)[/math] এবং [math]\\vec{F}=e(6\\hat{i}+4\\hat{j}+1\\hat{k})=(9.6,6.4,1.6)\\times10^{-19}\\ \\mathrm{N}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425651,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3524,
+          "full_name": "Shahid Syed Nazrul Islam College, Mymensingh",
+          "short_name": "SSNICM",
+          "slug": "ssnicm",
+          "pivot": {
+            "question_bank_id": 425651,
+            "tag_id": 3524,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:09.000000Z",
+            "updated_at": "2025-08-19T07:33:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425650,
+      "value": {
+        "options": {
+          "গ": "প্রোটনের উপর কার্যকর চৌম্বক বলের মান ও দিক নির্ণয় কর।"
+        },
+        "question": "[math](3 \\hat{i}+4 \\hat{j}) \\text { Tesla }[/math] মানের একটি সুষম চৌম্বক ক্ষেত্রে একটি প্রোটন [math](6 \\hat{i}+4 \\hat{j}+2 \\hat{k}) V m^{-1}[/math] প্রাবল্যের তড়িৎ ক্ষেত্রের প্রভাবাধীন থেকেও [math](2 \\hat{i}+3 \\hat{j}) \\mathrm{ms} ^{-1}[/math] বেগে গতিশীল হলে কী ঘটবে তা নিয়ে ভাবছিল বাদল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, প্রোটনের চার্জ, [math]q=1.6 \\times 10^{-19} C[/math]\u003Cbr\u003Eচৌম্বক ক্ষেত্রের মান, [math]B=\\sqrt{3^{2}+4^{2}}=5 T[/math]\u003Cbr\u003Eপ্রোটনের বেগ, [math]\\mathrm{v}=\\sqrt{2^{2}+3^{2}}=\\sqrt{13} \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003Eচৌম্বক বল F = ?আমরা জানি,[math]\\begin{aligned}\\mathrm{F} & =\\mathrm{qvB} \\sin \\theta \\\\& =1.6 \\times 10^{-19} \\times \\sqrt{13} \\times 5 \\times \\sin 90^{\\circ}=2.88 \\times 10^{-18} \\mathrm{~N}\\end{aligned}[/math]\u003Cbr\u003Eএর দিক পৃষ্ঠ বরাবর উপরের দিকে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: চৌম্বক বল হচ্ছে [math]\\vec{F}=q(\\vec{v}\\times\\vec{B})[/math], এখানে [math]\\vec{v}=[2\\hat{i}+3\\hat{j}],\\ \\vec{B}=[3\\hat{i}+4\\hat{j}][/math], তাই [math]\\vec{v}\\times\\vec{B}=(2\\cdot4-3\\cdot3)\\hat{k}=(8-9)\\hat{k}=-\\hat{k}[/math]. প্রোটনের ধনাত্মক চার্জ [math]q=e=1.6\\times10^{-19}\\,\\mathrm{C}[/math] হলে [math]\\vec{F}=1.6\\times10^{-19}(-\\hat{k})=-1.6\\times10^{-19}\\hat{k}\\,\\mathrm{N}[/math]; মান [math]1.6\\times10^{-19}\\,\\mathrm{N}[/math] এবং দিক নেতিবাচক z-অক্ষ (−\\hat{k})।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425650,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3524,
+          "full_name": "Shahid Syed Nazrul Islam College, Mymensingh",
+          "short_name": "SSNICM",
+          "slug": "ssnicm",
+          "pivot": {
+            "question_bank_id": 425650,
+            "tag_id": 3524,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:09.000000Z",
+            "updated_at": "2025-08-19T07:33:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425649,
+      "value": {
+        "options": {
+          "গ": "তড়িৎক্ষেত্র প্রয়োগের পরে প্রোটনের উপর কার্যরত লরেনজ বলের মান কত?"
+        },
+        "question": "চিত্রের ব্যবস্থাটি চার্জের প্রকৃতি নির্নয় করতে পারে। [math]C[/math] বিন্দু দিয়ে [math]\\alpha[/math] ও [math]\\beta[/math] কণা প্রবেশ করে চিত্র অনুযায়ী [math]A\\ ও\\ B[/math] বিন্দু দিয়ে নির্গত হয় যাদের একটির গতিশক্তি [math]5.4\\ eV[/math] এবং [math]AC = BC = 20 \\mu m[/math]। পরবর্তীতে ঐ ব্যবস্থায় চৌম্বক দিকের সমান্তরালে [math]1.5 \\times 10^{6} {~NC} ^{-1}[/math] সুষম তড়িৎক্ষেত্র প্রয়োগ করে একটি প্রোটনকে [math]2 \\times 10^{6} {~m} s^{-1}[/math] বেগে [math]\\overrightarrow{B}[/math] বরাবর গতিশীল করা হয়। [math]m_{\\beta}=9.1 \\times 10^{-31} \\mathrm{~kg}, m_{\\alpha}=6.644 \\times 10^{-27} \\mathrm{~kg}[/math]।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-18_1755588789_kx03OwV8.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\begin{array}{l} q=1.6 \\times 10^{-19} \\mathrm{C} \\\\\\mathrm{B}=0.77350 \\mathrm{~T} \\\\\\mathrm{E}=1.5 \\times 10^{6} \\mathrm{NC}^{-1} \\\\\\mathrm{v}=2 \\times 10^{6} \\mathrm{~ms}^{-1}\\end{array}[/math]\u003Cbr\u003Eচৌম্বকক্ষেত্র ও আধানের বেগের মধ্যবর্তী কোণ, [math]\\theta = 0°[/math]\u003Cbr\u003Eপ্রোটনের উপর কার্যরত লরেন্জ বল,[math]\\begin{array}{l}\\mathrm{F}=\\mathrm{qE}+\\mathrm{qvB} \\sin \\theta \\\\\\Rightarrow \\mathrm{F}=1.6 \\times 10^{-19} \\times 1.5 \\times 10^{6} \\mathrm{~N} +\\mathrm{qvBSin} 0^{\\circ} \\\\\\therefore \\mathrm{F}=2.4 \\times 10^{-13} \\mathrm{~N}\\end{array}[/math]\u003Cbr\u003Eঅতএব, তড়িৎক্ষেত্র প্রয়োগ করার পর প্রোটনের উপর কার্যরত লরেনজ বলের মান [math]2.4 \\times 10^{-13} \\mathrm{~N}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রোটনের গতি [math]\\overrightarrow{B}[/math] নির্দেশের সমান্তরালে হওয়ায় [math]\\mathbf{v}\\times\\mathbf{B}=0[/math] এবং লরেনজ বল কেবল তড়িৎ বল হবে, অর্থাৎ [math]F=qE[/math]; তাই [math]F=e\\times1.5\\times10^{6}=(1.6\\times10^{-19})(1.5\\times10^{6})=2.4\\times10^{-13}\\ \\mathrm{N}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425649,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 347,
+          "full_name": "Notre Dame College, Dhaka",
+          "short_name": "NDC",
+          "slug": "ndc",
+          "pivot": {
+            "question_bank_id": 425649,
+            "tag_id": 347,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:09.000000Z",
+            "updated_at": "2025-08-19T07:33:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425648,
+      "value": {
+        "options": {
+          "গ": "কেন্দ্রে কুলম্ব বল কত হবে?"
+        },
+        "question": "হাইড্রোজেন পরমাণুতে একটি ইলেকট্রন ও একটি প্রোটন থাকে। ইলেকট্রনটি নিউক্লিয়াসকে কেন্দ্র করে [math]2.185 \\times 10^{6} \\mathrm{~ms}^{-1}[/math] সমদ্রুতিতে ঘুরছে। ইলেকট্রনের ভর [math]9.1 \\times 10^{-31} \\mathrm{~kg}[/math] এবং বৃত্তাকার পথের ব্যাসার্ধ [math]5.3 \\times 10^{-11} \\mathrm{~m}\\left[\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C}\\right][/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের আধান, [math]\\mathrm{q}_{\\mathrm{c}}=-1.5 \\times 10^{-19} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রোটনের আধান, [math]q_{p}=1.6 \\times 10^{-19} C[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eমধ্যবর্তী দূরত্ব, [math]\\mathrm{r}=5.3 \\times 10^{-11} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eধ্রুবক, [math]\\frac{1}{4 \\pi \\epsilon_{0}}=9 \\times 10^{9} \\mathrm{Nm}^{2} \\mathrm{C}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকুলম্ব বল, F = ?আমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{F} & =\\frac{1}{4 \\pi \\epsilon_{0}} \\cdot \\frac{\\mathrm{q}_{\\mathrm{e}} \\mathrm{q}_{p}}{\\mathrm{r}^{2}} \\\\ & =9 \\times 10^{9} \\mathrm{Nm}^{2} \\mathrm{C}^{-2} \\times \\frac{-1.6 \\times 10^{-19} \\mathrm{C} \\times 1.6 \\times 10^{-19} \\mathrm{C}}{\\left(5.3 \\times 10^{-11} \\mathrm{~m}\\right)^{2}} \\\\ & =-8.20 \\times 10^{-8} \\mathrm{~N} \\end{aligned}[/math]\u003Cbr\u003Eনির্ণেয় বলের মান [math]8.20 \\times 10^{-8} \\mathrm{~N}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: প্রোটন ও ইলেকট্রনের মধ্যে কুলম্ব বলের মান হলো [math]F=\\dfrac{1}{4\\pi\\epsilon_0}\\dfrac{e^2}{r^2}[/math] যেখানে [math]\\dfrac{1}{4\\pi\\epsilon_0}=8.99\\times10^9\\ \\mathrm{N\\,m^2/C^2}[/math]; বসিয়ে দিলে [math]F=\\dfrac{8.99\\times10^9\\times(1.6\\times10^{-19})^2}{(5.3\\times10^{-11})^2}\\approx8.2\\times10^{-8}\\ \\mathrm{N}[/math]. এই বলই ইলেকট্রনকে কেন্দ্রের দিকে সেন্ট্রিপিটাল ত্বরণে বৃত্তাকার পথে রাখে (সামঞ্জস্যে [math]F=mv^2/r[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 425648,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425648,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 425648,
+            "tag_id": 46,
+            "year": "2016",
+            "created_at": "2025-08-19T07:33:08.000000Z",
+            "updated_at": "2025-08-19T07:33:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425647,
+      "value": {
+        "options": {
+          "ঘ": "পরবর্তীতে একটি ইলেকট্রন একই চৌম্বকক্ষেত্রে একই বেগে প্রবেশ করলে প্রথম কণাটির এবং ইলেকট্রনটির গতিপথের ব্যাসার্ধ কি একই হবে? গাণিতিক বিশ্লেষণ করে মতামত দাও।"
+        },
+        "question": "চিত্রে [math]6.7 \\times 10^{-27} \\mathrm{~kg}[/math] ভর এবং [math]3.2 \\times 10^{-19} \\mathrm{C}[/math] চার্জবিশিষ্ট একটি কণা একটি সুষম চৌম্বকক্ষেত্রে [math]2.5 \\times 10^{8} \\mathrm{~ms}^{-1}[/math] বেগে প্রবেশ করে।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-13_1755588788_bDf5NqoA.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eকণাটির চার্জ, [math]\\mathrm{q}=3.2 \\times 10^{-19} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবেগ, [math]\\mathrm{v}=2.5 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচৌম্বক ক্ষেত্র প্রাবল্য, B = 1.6 T[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eক্রিয়াশীল বল, F = ?আমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{F} & =\\mathrm{qv} \\mathrm{B} \\sin \\theta \\\\ & =3.2 \\times 10^{-19} \\mathrm{C} \\times 2.5 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1} \\times 1.6 \\mathrm{~T} \\times \\sin 90^{\\circ} \\\\ & =1.28 \\times 10^{-10} \\end{aligned}[/math]\u003Cbr\u003Eনির্ণেয় বল [math]1.28 \\times 10^{-10} \\mathrm{~N}[/math]\u003Cbr\u003Eপ্রথম ক্ষেত্রে :[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচৌম্বক ক্ষেত্রের মান, B = 1.6 T[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচার্জ, [math]\\mathrm{q}_{1}=3.2 \\times 10^{-19} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবেগ, [math]\\mathrm{v}=2.5 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eভর, [math]\\mathrm{m}_{1}=6.7 \\times 10^{-27} \\mathrm{~kg}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l}\\quad F_{1}=\\frac{m_{1} v^{2}}{r_{1}}\\\\ \\Rightarrow r_{1}=\\frac{m_{1} v^{2}}{F_{1}}=\\frac{6.7 \\times 10^{-27} \\times\\left(2.5 \\times 10^{8}\\right)^{2}}{12.8 \\times 10^{-11}} \\mathrm{~m}=3.27 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eদ্বিতীয় ক্ষেত্রে :[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eভর, [math]m_{2}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবেগ, [math]v=2.5 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবল, [math]F_{2}=q_{2} v B[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l}\\quad F_{2}=\\frac{m_{2} v^{2}}{r_{2}}\\\\ \\Rightarrow \\mathrm{q}_{2} \\mathrm{vB}=\\frac{m_{2} \\mathrm{v}^{2}}{\\mathrm{r}_{2}}\\\\ \\Rightarrow I_{2}=\\frac{m_{2} \\mathrm{v}}{q_{2} \\mathrm{~B}}=\\frac{9.1 \\times 10^{-31} \\mathrm{~kg} \\times 2.5 \\times 10^{8} \\mathrm{~ms}^{-1}}{1.6 \\times 10^{-19} \\times 1.6 \\mathrm{~T}} \\\\ \\quad \\qquad =8.886 \\times 10^{-4} \\mathrm{~m} \\\\ \\end{array}[/math]\u003Cbr\u003Eএখানে, [math]\\mathbf{r}_{1} \\# \\mathbf{r}_{2}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E গতিপথের ব্যাসার্ধ সমান হবে না।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: চৌম্বকক্ষেত্রে বৃত্তাকার গতির ব্যাসার্ধ [math]r=\\dfrac{mv}{qB}[/math]। একই [math]v[/math] ও [math]B[/math] হলে অনুপাত [math]\\dfrac{r_e}{r_1}=\\dfrac{m_e q_1}{m_1 e}=\\dfrac{(9.11\\times10^{-31})(3.2\\times10^{-19})}{(6.7\\times10^{-27})(1.60\\times10^{-19})}\\approx2.7\\times10^{-4}[/math], তাই ইলেকট্রনের ব্যাসার্ধ অনেক ছোট হবে (এবং ইলেকট্রন নেতিবাচক হওয়ায় বক্রতা বিপরীত দিকের)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 425647,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425647,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 425647,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T07:33:08.000000Z",
+            "updated_at": "2025-08-19T07:33:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425646,
+      "value": {
+        "options": {
+          "ক": "চৌম্বকগ্রাহীতা কী?",
+          "খ": "একটি আবদ্ধ চক্রে এনট্রপির পরিবর্তন শূন্য-ব্যাখ্যা কর।",
+          "গ": "তড়িৎক্ষেত্র প্রয়োগের পরে প্রোটনের উপর কার্যরত লরেনজ বলের মান কত?",
+          "ঘ": "উদ্দীপকের তড়িৎক্ষেত্র প্রয়োগের পূর্বে [math]\\alpha[/math] ও [math]\\beta[/math] কণার শক্তির সত্যতা গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "চিত্রের ব্যবস্থাটি চার্জের প্রকৃতি নির্নয় করতে পারে। [math]C[/math] বিন্দু দিয়ে [math]\\alpha[/math] ও [math]\\beta[/math] কণা প্রবেশ করে চিত্র অনুযায়ী [math]A\\ ও\\ B[/math] বিন্দু দিয়ে নির্গত হয় যাদের একটির গতিশক্তি [math]5.4\\ eV[/math] এবং [math]AC = BC = 20 \\mu m[/math]। পরবর্তীতে ঐ ব্যবস্থায় চৌম্বক দিকের সমান্তরালে [math]1.5 \\times 10^{6} {~NC} ^{-1}[/math] সুষম তড়িৎক্ষেত্র প্রয়োগ করে একটি প্রোটনকে [math]2 \\times 10^{6} {~m} s^{-1}[/math] বেগে [math]\\overrightarrow{B}[/math] বরাবর গতিশীল করা হয়। [math]m_{\\beta}=9.1 \\times 10^{-31} \\mathrm{~kg}, m_{\\alpha}=6.644 \\times 10^{-27} \\mathrm{~kg}[/math]।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-18_1755588786_IMHRoeRO.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো চৌম্বক পদার্থের চৌম্বক গ্রাহীতা হচ্ছে ঐ পদার্থের চুম্বকায়ন তীব্রতা এবং চৌম্বক তীব্রতার অনুপাত ।\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eমনে করি, একটি প্রত্যাবর্তী কার্নো ইঞ্জিন এর আবদ্ধ চক্রে [math]T_1[/math]\u003Cbr\u003E তাপমাত্রায় তাপ উৎস হতে [math]Q_1[/math]\u003Cbr\u003E পরিমাণ তাপ গ্রহণ করল এবং [math]T_2[/math]\u003Cbr\u003E তাপমাত্রায় তাপ গ্রাহকে [math]Q_2[/math]\u003Cbr\u003E পরিমাণ তাপ বর্জন করল।তাহলে এন্ট্রপির মোট পরিবর্তন, [math]\\Delta S=\\Delta S_{1}+\\Delta S_{2}=\\frac{Q_{1}}{T_{1}}+\\frac{-Q_{2}}{T_{2}}[/math]\u003Cbr\u003E [math]=\\frac{\\mathrm{Q}_{1}}{\\mathrm{~T}_{1}}-\\frac{\\mathrm{Q}_{2}}{\\mathrm{~T}_{2}}[/math]\u003Cbr\u003E কিন্তু আবদ্ধ চক্রের জন্য, [math]\\frac{Q_{1}}{T_{1}}=\\frac{Q_{2}}{T_{2}}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E সিস্টেমের এন্ট্রপির নেট পরিবর্তন, [math]\\Delta S=\\frac{Q_{1}}{T_{1}}-\\frac{Q_{2}}{T_{2}}=0[/math]\u003Cbr\u003Eঅর্থাৎ আবদ্ধ চক্রে সিস্টেম আদি অবস্থায় ফিরে আসে বলে এক্ষেত্রে এন্ট্রপির পরিবর্তন শূন্য হয় এবং এন্ট্রপি স্থির থাকে ।\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\begin{array}{l} q=1.6 \\times 10^{-19} \\mathrm{C} \\\\\\mathrm{B}=0.77350 \\mathrm{~T} \\\\\\mathrm{E}=1.5 \\times 10^{6} \\mathrm{NC}^{-1} \\\\\\mathrm{v}=2 \\times 10^{6} \\mathrm{~ms}^{-1}\\end{array}[/math]\u003Cbr\u003Eচৌম্বকক্ষেত্র ও আধানের বেগের মধ্যবর্তী কোণ, [math]\\theta = 0°[/math]\u003Cbr\u003Eপ্রোটনের উপর কার্যরত লরেন্জ বল,[math]\\begin{array}{l}\\mathrm{F}=\\mathrm{qE}+\\mathrm{qvB} \\sin \\theta \\\\\\Rightarrow \\mathrm{F}=1.6 \\times 10^{-19} \\times 1.5 \\times 10^{6} \\mathrm{~N} +\\mathrm{qvBSin} 0^{\\circ} \\\\\\therefore \\mathrm{F}=2.4 \\times 10^{-13} \\mathrm{~N}\\end{array}[/math]\u003Cbr\u003Eঅতএব, তড়িৎক্ষেত্র প্রয়োগ করার পর প্রোটনের উপর কার্যরত লরেনজ বলের মান [math]2.4 \\times 10^{-13} \\mathrm{~N}[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে আলফা কণার চার্জ, [math]\\mathrm{q}_{\\alpha}=3.2 \\times 10^{-19} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\beta[/math]\u003Cbr\u003E কণার চার্জ, [math]\\mathrm{q}_{\\mathrm{\\beta}}=1.6 \\times 10^{-19} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\alpha[/math]\u003Cbr\u003E কণার ভর [math]\\mathrm{m}_{\\alpha}=6.644 \\times 10^{-27} \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\beta[/math]\u003Cbr\u003E কণার ভর [math]\\mathrm{m}_{\\beta}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003Ev ও B এর মধ্যবর্তী কোণ, [math]\\theta = 90^\\circ[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\therefore \\quad \\frac{1}{2} \\mathrm{~m}_{\\alpha} \\mathrm{v}_{\\alpha}{ }^{2}=5.3 \\times 1.6 \\times 10^{-19} \\mathrm{~J} \\\\\\Rightarrow \\mathrm{v}_{\\alpha}=\\sqrt{\\frac{2 \\times 5.3 \\times 1.6 \\times 10^{-10}}{6.644 \\times 10^{-27}} \\mathrm{~ms}^{-1}} \\\\\\therefore \\quad \\mathrm{v}_{\\alpha}=1.6 \\times 10^{4} \\mathrm{~ms}^{-1}\\end{array}[/math]\u003Cbr\u003Eএবং [math]\\frac{1}{2} \\mathrm{~m}_{\\beta} \\mathrm{v}_{\\beta}^{2}=5.3 \\times 1.6 \\times 10^{-19} \\mathrm{~J}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow \\mathrm{v}_{\\beta}=\\sqrt{\\frac{2 \\times 5.3 \\times 1.6 \\times 10^{-19}}{9.1 \\times 10^{-31}}} \\mathrm{~ms}^{-1} \\\\\\therefore \\mathrm{v}_{\\beta}=1.365 \\times 10^{6} \\mathrm{~ms}^{-1} \\\\\\mathrm{~B}=0.77350 \\mathrm{~T} \\\\\\mathrm{~s}=\\mathrm{AC}=\\mathrm{BC}=20 \\mu \\mathrm{m}=20 \\times 10^{-6} \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Ex অক্ষ বরাবর [math]\\alpha[/math]\u003Cbr\u003E কণার উপর ক্রিয়াশীল বল,[math]\\begin{aligned}& F_{\\alpha}=q_{\\alpha} v_{\\alpha} B \\sin \\theta \\\\\\Rightarrow & F_{\\alpha}=3.2 \\times 10^{-19} \\times 1.6 \\times 10^{4} \\times 0.77350 \\times \\sin90^{\\circ} \\mathrm{N} \\\\\\therefore \\quad & F_{\\alpha}=3.96 \\times 10^{-15} \\mathrm{~N}\\end{aligned}[/math]\u003Cbr\u003E [math]\\alpha[/math]\u003Cbr\u003E কণার শক্তি [math]E_{\\alpha} =[/math]\u003Cbr\u003E কৃতকাজ,[math]\\begin{aligned}& \\mathrm{W}_{\\alpha}=\\mathrm{F}_{\\alpha} \\cdot \\mathrm{s}=3.96 \\times 10^{-15} \\times 20 \\times 10^{-6} \\mathrm{~J}=7.92 \\times 10^{-20} \\mathrm{~J} \\\\\\therefore & \\mathrm{E}_{\\alpha}=0.5 \\mathrm{eV}\\end{aligned}[/math]\u003Cbr\u003Ex অক্ষ বরাবর [math]\\beta[/math]\u003Cbr\u003E কণার উপর ক্রয়াশীল বল,[math]\\begin{aligned}\\mathrm{F}_{\\beta} & =\\mathrm{q}_{\\beta} \\mathrm{v}_{\\beta} \\mathrm{B} \\sin \\theta \\\\& =1.6 \\times 10^{-19} \\times 1.365 \\times 10^{6} \\times 0.77350 \\times \\sin 90^{\\circ} \\mathrm{N} \\\\\\therefore \\quad \\mathrm{F}_{\\beta} & =1.69 \\times 10^{-13} \\mathrm{~N} .\\end{aligned}[/math]\u003Cbr\u003E [math]\\beta[/math]\u003Cbr\u003E কণার শক্তি, [math]E_{\\beta} =[/math]\u003Cbr\u003E কৃতকাজ,[math]\\begin{aligned} \\mathrm{W}_{\\beta}=\\mathrm{F}_{\\beta} \\mathrm{S}=1.69 \\times 10^{-13} \\times 20 \\times 10^{-6} \\mathrm{~J} \\\\\\therefore \\mathrm{E}_{\\beta}=3.379 \\times 10^{-18} \\mathrm{~J}=21.12 \\mathrm{eV}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, তড়িৎ ক্ষেত্র প্রয়োগের পূর্বে [math]\\alpha[/math]\u003Cbr\u003E ও [math]\\beta[/math]\u003Cbr\u003E কণার যথাক্রমে 0.5 eV ও 21.12 eV শক্তি ছিল।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চৌম্বকগ্রাহীতা হল কোনো পদার্থ কতটা চৌম্বকভাবে আয়তিত হতে পারে তার পরিমাপ; এটি মেগনেটাইজেশন [math]M[/math] এবং চৌম্বক ক্ষেত্র শক্তি [math]H[/math]–এর অনুপাত [math]\\chi=\\dfrac{M}{H}[/math]। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E একটি আবদ্ধ চক্রে সিস্টেম তার প্রাথমিক অবস্থায় ফিরে আসে, এবং এন্ট্রপি একটি অবস্থা পরিবর্তক (state function); তাই চক্রপথে সিস্টেমের এন্ট্রপি পরিবর্তন শূন্য: [math]\\Delta S_{\\text{system}}=0[/math] (এসটি সার্বজনীনতার জন্য নয়—অপস্থিতির ক্ষেত্রে মহাবিশ্বের এন্ট্রপি বাড়তে পারে)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রোটনের উপর মোট লরেনজ বল = বিদ্যুত্ শক্তি বল + চুম্বকীয় বল; বেগ [math]\\vec v[/math] চুম্বকক্ষেত্রের দিকের সমান্তরালে হওয়ায় চুম্বকীয় অংশ শূন্য, তাই [math]F=qE=(1.6\\times10^{-19}\\ \\mathrm{C})(1.5\\times10^{6}\\ \\mathrm{N\\,C^{-1}})=2.4\\times10^{-13}\\ \\mathrm{N}[/math] (দিক: [math]\\vec B[/math] বরাবর)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বৃত্তীয় গতির কারণে [math]r=\\dfrac{mv}{qB}[/math] এবং [math]K=\\tfrac12mv^2=\\dfrac{q^2B^2r^2}{2m}[/math], তাই একই [math]B[/math] ও [math]r[/math]–এর জন্য [math]K\\propto\\dfrac{q^2}{m}[/math]. ফলে [math]\\dfrac{K_\\alpha}{K_\\beta}=\\dfrac{4m_\\beta}{m_\\alpha}\\approx5.476\\times10^{-4}[/math]. তাই যদি [math]K_\\beta=5.4\\ eV[/math], তখন [math]K_\\alpha\\approx2.96\\times10^{-3}\\ eV[/math]; আর যদি [math]K_\\alpha=5.4\\ eV[/math], তখন [math]K_\\beta\\approx9.86\\times10^{3}\\ eV[/math]. সাধারণ বাস্তবিকতার দিক থেকে [math]5.4\\ eV[/math] সাধারণত হালকা [math]\\beta[/math] কণার জন্য উপযুক্ত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425646,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 347,
+          "full_name": "Notre Dame College, Dhaka",
+          "short_name": "NDC",
+          "slug": "ndc",
+          "pivot": {
+            "question_bank_id": 425646,
+            "tag_id": 347,
+            "year": "2020",
+            "created_at": "2025-08-19T07:33:06.000000Z",
+            "updated_at": "2025-08-19T07:33:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425640,
+      "value": {
+        "options": {
+          "ক": "[math]\\vec{F}=q \\vec{B}+q \\vec{v} \\times \\vec{E}[/math]",
+          "খ": "[math]F=q \\vec{E}+q(\\vec{v} \\times \\vec{B})[/math]",
+          "গ": "[math]\\vec{F}=q \\vec{v}+\\vec{E} \\times \\vec{B}[/math]",
+          "ঘ": "[math]F=q \\vec{E}+\\vec{q} \\times \\vec{B}[/math]"
+        },
+        "question": "কোনটি চার্জিত বস্তুর ওপর ক্রিয়াশীল লরেঞ্জ বল?",
+        "solution": "চার্জিত বস্তুর ওপর ক্রিয়াশীল মোট বলকে লরেঞ্জ বল বলা হয়। এটি বৈদ্যুতিক বল ( [math]q\\vec{E}[/math]\u003Cbr\u003E) এবং চৌম্বক বল ( [math]q(\\vec{v} \\times \\vec{B})[/math]\u003Cbr\u003E) এর সমষ্টি। তাই সঠিক সমীকরণটি হলো [math]\\vec{F}=q \\vec{E}+q(\\vec{v} \\times \\vec{B})[/math]\u003Cbr\u003E. বিকল্প A তে চৌম্বক বলের পদটি ভুলভাবে লেখা হয়েছে এবং বৈদ্যুতিক বলের পদটি অনুপস্থিত। বিকল্প C তে বৈদ্যুতিক ক্ষেত্র এবং চৌম্বক ক্ষেত্রকে ভুলভাবে মিশ্রিত করা হয়েছে এবং চৌম্বক বলের পদটি ভুল। বিকল্প D তে চার্জ ( [math]q[/math]\u003Cbr\u003E) কে ভেক্টর হিসাবে লেখা হয়েছে, যা সঠিক নয়, এবং চৌম্বক বলের পদটিও ভুল। লরেঞ্জ বলের ধারণা পদার্থবিদ হেনড্রিক লরেঞ্জের নামে নামকরণ করা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 425640,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425645,
+      "value": {
+        "options": {
+          "ক": "[math]1.76 \\times 10^{14}[/math]",
+          "খ": "[math]1.76 \\times 10^{16}[/math]",
+          "গ": "[math]1.76 \\times 10^{15}[/math]",
+          "ঘ": "[math]1.76 \\times 10^{-15}[/math]"
+        },
+        "question": "[math]10^{4} \\mathrm{Vm}^{-1}[/math] তড়িৎক্ষেত্রে একটি ইলেকট্রনের ত্বরণ কত [math]\\rm{ms}^{-2}[/math]?",
+        "solution": "[math]\\mathrm{ma}=\\mathrm{eV} \\therefore \\mathrm{a}=\\dfrac{\\mathrm{eV}}{\\mathrm{m}}=\\dfrac{1.6 \\times 10^{-19} \\times 10^{4}}{9.1 \\times 10^{-31}}=1.76 \\times 10^{19} \\mathrm{~ms}^{-2}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 425645,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3421,
+          "full_name": "NC",
+          "short_name": "NC",
+          "slug": "nc",
+          "pivot": {
+            "question_bank_id": 425645,
+            "tag_id": 3421,
+            "year": "2022",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425644,
+      "value": {
+        "options": {
+          "ক": "[math]\\overrightarrow{\\mathrm{F}}=\\mathrm{q} \\overrightarrow{\\mathrm{E}}[/math]",
+          "খ": "[math]\\overrightarrow{\\mathrm{F}}=\\mathrm{q} \\overrightarrow{\\mathrm{E}}+\\mathrm{q}(\\overrightarrow{\\mathrm{v}} \\times \\overrightarrow{\\mathrm{B}})[/math]",
+          "গ": "[math]\\rm{\\overrightarrow{F}=q(\\overrightarrow{v} \\times \\overrightarrow{B})}[/math]",
+          "ঘ": "[math]\\rm{\\overrightarrow{F}={q \\widehat{v} B} \\sin \\widehat{n}}[/math]"
+        },
+        "question": "নিচের কোনটি লরেঞ্জ বলের রাশিমালা?",
+        "solution": "সঠিক উত্তরটি হলো [math]\\overrightarrow{\\mathrm{F}}=\\mathrm{q} \\overrightarrow{\\mathrm{E}}+\\mathrm{q}(\\overrightarrow{\\mathrm{v}} \\times \\overrightarrow{\\mathrm{B}})[/math]\u003Cbr\u003E। লরেঞ্জ বল হলো একটি চার্জিত কণার উপর বৈদ্যুতিক এবং চৌম্বক ক্ষেত্র দ্বারা প্রযুক্ত মোট বলের সমষ্টি। এখানে q হলো চার্জের পরিমাণ, [math]\\overrightarrow{\\mathrm{E}}[/math]\u003Cbr\u003E হলো বৈদ্যুতিক ক্ষেত্র এবং [math]\\overrightarrow{\\mathrm{v}}[/math]\u003Cbr\u003E হলো কণার বেগ এবং [math]\\overrightarrow{\\mathrm{B}}[/math]\u003Cbr\u003E হলো চৌম্বক ক্ষেত্র। প্রথম পদ [math]q\\overrightarrow{\\mathrm{E}}[/math]\u003Cbr\u003E বৈদ্যুতিক বল নির্দেশ করে এবং দ্বিতীয় পদ [math]q(\\overrightarrow{\\mathrm{v}} \\times \\overrightarrow{\\mathrm{B}})[/math]\u003Cbr\u003E চৌম্বক বল নির্দেশ করে। অন্য বিকল্পগুলি শুধুমাত্র বৈদ্যুতিক বল (A), শুধুমাত্র চৌম্বক বল (C), অথবা চৌম্বক বলের একটি ভুল রাশিমালা (D) উপস্থাপন করে। লরেঞ্জ বলের ধারণা পদার্থবিদ হেনড্রিক লরেঞ্জের নামে নামকরণ করা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 425644,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3421,
+          "full_name": "NC",
+          "short_name": "NC",
+          "slug": "nc",
+          "pivot": {
+            "question_bank_id": 425644,
+            "tag_id": 3421,
+            "year": "2022",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425643,
+      "value": {
+        "options": {
+          "ক": "[math]\\vec{F}=(0.8 \\mathrm{a} \\vec{y}-1.6 \\mathrm{a} \\vec{z}) \\mathrm{N}[/math]",
+          "খ": "[math]\\vec{F}=(1.0 \\text { a } \\vec{x}-8.0 . \\text { a } \\vec{y}-1.6 \\text { a } \\vec{z}) \\mathrm{N}[/math]",
+          "গ": "[math]\\vec{F}=(2.0 \\text { a } \\vec{x}-0.8 \\text { a } \\vec{y}-1.6 \\text { a } \\vec{z}) \\mathrm{N}[/math]",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "[math]2.0 \\mu C[/math] আধানের একটি বস্তু [math]2.0 \\times10^{6}ms^{-1}[/math] বেগে [math]X[/math]-অক্ষ বরাবর চলছে। সেখানে একই সময়ে একটি তড়িৎক্ষেত্র [math]\\vec{E}=10^{69} a \\vec{X} v^{-1}[/math] এবং একটি চৌম্বকক্ষেত্র [math]\\vec{B}=(0.20 \\mathrm{a} \\vec{y}+0.40 \\mathrm{a} \\vec{z}) \\mathrm{T}[/math] আধানটির ওপর ক্রিয়াশীল হলে আধানটির ওপর কত বল ক্রিয়াশীল হবে?",
+        "solution": "এখানে লরেঞ্জ বলের সূত্র [math]\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B})[/math]\u003Cbr\u003E ব্যবহার করতে হবে।দেওয়া আছে:আধান, [math]q = 2.0 \\mu C = 2.0 \\times 10^{-6} C[/math]\u003Cbr\u003Eবেগ, [math]\\vec{v} = 2.0 \\times 10^{6} \\mathrm{m s^{-1}} \\hat{x}[/math]\u003Cbr\u003Eতড়িৎক্ষেত্র, [math]\\vec{E} = 10^{69} \\mathrm{V m^{-1}} \\hat{x}[/math]\u003Cbr\u003E (উল্লেখ্য, তড়িৎক্ষেত্রের মান [math]10^{69}[/math]\u003Cbr\u003E একটি অত্যন্ত অস্বাভাবিক বড় মান। এখানে সম্ভবত টাইপিং ত্রুটি থাকতে পারে। আমরা ধরে নিচ্ছি এটি [math]10^{6} \\mathrm{V m^{-1}}[/math]\u003Cbr\u003E বা অন্য কোনো সাধারণ মান।)**অনুমান:** প্রশ্নে তড়িৎক্ষেত্রের মান [math]E = 10^{69} \\mathrm{V m^{-1}}[/math]\u003Cbr\u003E লেখা হয়েছে যা একটি বাস্তবসম্মত মান নয়। যদি আমরা ধরে নিই যে এখানে [math]E = 10^{6} \\mathrm{V m^{-1}}[/math]\u003Cbr\u003E ছিল, তাহলে নিম্নলিখিত গণনা প্রযোজ্য হবে:তড়িৎ বল, [math]\\vec{F}_E = q\\vec{E} = (2.0 \\times 10^{-6} C) \\times (10^{6} \\mathrm{V m^{-1}} \\hat{x}) = 2.0 \\mathrm{N} \\hat{x}[/math]\u003Cbr\u003Eচৌম্বকক্ষেত্র, [math]\\vec{B} = (0.20 \\hat{y} + 0.40 \\hat{z}) \\mathrm{T}[/math]\u003Cbr\u003Eচৌম্বক বল, [math]\\vec{F}_B = q(\\vec{v} \\times \\vec{B})[/math]\u003Cbr\u003E [math]\\vec{v} \\times \\vec{B} = (2.0 \\times 10^{6} \\hat{x}) \\times (0.20 \\hat{y} + 0.40 \\hat{z})[/math]\u003Cbr\u003E [math]= (2.0 \\times 10^{6} \\times 0.20) (\\hat{x} \\times \\hat{y}) + (2.0 \\times 10^{6} \\times 0.40) (\\hat{x} \\times \\hat{z})[/math]\u003Cbr\u003E [math]= (4.0 \\times 10^{5}) \\hat{z} + (8.0 \\times 10^{5}) (-\\hat{y})[/math]\u003Cbr\u003E [math]= -(8.0 \\times 10^{5}) \\hat{y} + (4.0 \\times 10^{5}) \\hat{z}[/math]\u003Cbr\u003E [math]\\vec{F}_B = (2.0 \\times 10^{-6} C) \\times (-(8.0 \\times 10^{5}) \\hat{y} + (4.0 \\times 10^{5}) \\hat{z})[/math]\u003Cbr\u003E [math]= -(1.6 \\times 10^{0}) \\hat{y} + (0.8 \\times 10^{0}) \\hat{z}[/math]\u003Cbr\u003E [math]= -1.6 \\hat{y} + 0.8 \\hat{z} \\mathrm{N}[/math]\u003Cbr\u003Eমোট বল, [math]\\vec{F} = \\vec{F}_E + \\vec{F}_B = 2.0 \\hat{x} - 1.6 \\hat{y} + 0.8 \\hat{z} \\mathrm{N}[/math]\u003Cbr\u003Eএই ফলাফল কোনো বিকল্পের সাথে মেলে না। যদি প্রশ্নে তড়িৎক্ষেত্রের মান ভুল থাকে এবং সেই অনুযায়ী গণনা করলে একটি বিকল্প মেলে, তবে সেটিই সঠিক উত্তর।**যদি ধরে নিই বিকল্প A সঠিক, তবে গণনা**:বিকল্প A অনুযায়ী বল হলো [math]\\vec{F}=(0.8 \\mathrm{a} \\vec{y}-1.6 \\mathrm{a} \\vec{z}) \\mathrm{N}[/math]\u003Cbr\u003E। এটি কেবল চৌম্বক বলের সমান। এর মানে হল তড়িৎ বল শূন্য। যদি তড়িৎ বল শূন্য হয়, তবে [math]\\vec{E}[/math]\u003Cbr\u003E শূন্য হতে হবে। কিন্তু প্রশ্নে একটি তড়িৎক্ষেত্র দেওয়া আছে। তাই, এই বিকল্পও সঠিক নয়।প্রশ্ন এবং বিকল্পগুলি যাচাই করে দেখা প্রয়োজন কারণ প্রদত্ত তড়িৎক্ষেত্রের মান ( [math]10^{69}[/math]\u003Cbr\u003E ) খুবই অস্বাভাবিক। তবে, যদি প্রশ্নটি এইরকম হয় যে কেবল চৌম্বক বল ক্রিয়াশীল, তবে [math]q(\\vec{v} \\times \\vec{B})[/math]\u003Cbr\u003E এর মান হবে [math]-1.6\\hat{y} + 0.8\\hat{z}[/math]\u003Cbr\u003E। এটিও কোনো বিকল্পের সাথে মেলে না।বিকল্প A তে শুধু y এবং z উপাংশ রয়েছে, কোনো x উপাংশ নেই। এটি নির্দেশ করে যে তড়িৎ বল হয় শূন্য অথবা অন্য কোনো কারণে x উপাংশটি বাদ গেছে। কিন্তু চৌম্বক বলের গণনা [math]\\vec{v} \\times \\vec{B}[/math]\u003Cbr\u003E করলে y এবং z উপাংশ পাওয়া যায়। এখানে [math]q(\\vec{v} \\times \\vec{B})[/math]\u003Cbr\u003E এর মান হল [math]2 \\times 10^{-6} \\times (2 \\times 10^6 \\times 0.20 \\hat{z} - 2 \\times 10^6 \\times 0.40 \\hat{y}) = 0.8 \\hat{z} - 1.6 \\hat{y}[/math]\u003Cbr\u003E।তাই, যদি প্রশ্নে শুধু চৌম্বক বল জানতে চাওয়া হতো, তাহলে এটি বিকল্প A এর কাছাকাছি আসত কিন্তু চিহ্ন ভিন্ন হতো ( [math]\\vec{F}_B = -1.6\\hat{y} + 0.8\\hat{z}[/math]\u003Cbr\u003E)।যদি আমরা ধরে নিই যে প্রশ্নে তড়িৎক্ষেত্রের মান [math]E = 10 \\mathrm{V m^{-1}}[/math]\u003Cbr\u003E ছিল, তাহলে [math]\\vec{F}_E = 2 \\times 10^{-6} \\times 10 \\hat{x} = 2 \\times 10^{-5} \\hat{x}[/math]\u003Cbr\u003E। এটিও কোনো বিকল্পের সাথে মিলছে না।প্রদত্ত বিকল্পগুলির মধ্যে বিকল্প A-তে চৌম্বক বলের উপাংশগুলি ( [math]y[/math]\u003Cbr\u003E এবং [math]z[/math]\u003Cbr\u003E অক্ষ বরাবর) প্রদর্শিত হচ্ছে, কিন্তু তাদের মান এবং চিহ্নগুলি [math]q(\\vec{v} \\times \\vec{B})[/math]\u003Cbr\u003E এর সরাসরি গণনার সাথে সম্পূর্ণরূপে সামঞ্জস্যপূর্ণ নয় (যেমন [math]0.8[/math]\u003Cbr\u003E এবং [math]-1.6[/math]\u003Cbr\u003E এর পরিবর্তে [math]-1.6[/math]\u003Cbr\u003E এবং [math]0.8[/math]\u003Cbr\u003E হওয়া উচিত)। তবে, যদি প্রশ্নে একটি ত্রুটি থাকে এবং [math]0.8\\hat{y} - 1.6\\hat{z}[/math]\u003Cbr\u003E কে সঠিক উত্তর ধরা হয়, তবে এটি শুধুমাত্র চৌম্বক বলের একটি সম্ভাব্য ভুল গণনা হতে পারে অথবা তড়িৎ বলের অনুপস্থিতিতে একটি অংশ মাত্র। যেহেতু প্রশ্নটিতে একটি তড়িৎক্ষেত্রও দেওয়া আছে, এবং তার জন্য একটি বলও গণনা করা উচিত, তাই একটি সম্পূর্ণ সঠিক উত্তর কোনও বিকল্পে নেই। এই কারণে \"কোনোটিই নয়\" বিকল্পটিই সবচেয়ে সম্ভাব্য সঠিক উত্তর যদি অন্য বিকল্পগুলি গণনা করে না মেলে।তবে, যদি আমরা প্রদত্ত বিকল্প A এর দিকে তাকাই, তাহলে এর মধ্যে থাকা [math]y[/math]\u003Cbr\u003E এবং [math]z[/math]\u003Cbr\u003E উপাংশগুলি চৌম্বক বলের উপাংশের সাথে সম্পর্কিত। [math]q(\\vec{v} \\times \\vec{B})[/math]\u003Cbr\u003E গণনায় [math]y[/math]\u003Cbr\u003E উপাংশটি [math]-1.6[/math]\u003Cbr\u003E এবং [math]z[/math]\u003Cbr\u003E উপাংশটি [math]0.8[/math]\u003Cbr\u003E আসে। বিকল্প A তে [math]0.8 \\hat{y}[/math]\u003Cbr\u003E এবং [math]-1.6 \\hat{z}[/math]\u003Cbr\u003E আছে। অর্থাৎ, উপাংশগুলি একই কিন্তু তাদের অক্ষ ভিন্ন।আসলে, যখন [math]\\vec{v} = v \\hat{x}[/math]\u003Cbr\u003E এবং [math]\\vec{B} = B_y \\hat{y} + B_z \\hat{z}[/math]\u003Cbr\u003E, তখন [math]\\vec{v} \\times \\vec{B} = vB_y (\\hat{x} \\times \\hat{y}) + vB_z (\\hat{x} \\times \\hat{z}) = vB_y \\hat{z} - vB_z \\hat{y}[/math]\u003Cbr\u003E.আমাদের ক্ষেত্রে, [math]v = 2.0 \\times 10^6[/math]\u003Cbr\u003E, [math]B_y = 0.20[/math]\u003Cbr\u003E, [math]B_z = 0.40[/math]\u003Cbr\u003E.সুতরাং, [math]\\vec{v} \\times \\vec{B} = (2.0 \\times 10^6)(0.20) \\hat{z} - (2.0 \\times 10^6)(0.40) \\hat{y} = 0.40 \\times 10^6 \\hat{z} - 0.80 \\times 10^6 \\hat{y}[/math]\u003Cbr\u003E.চৌম্বক বল [math]q(\\vec{v} \\times \\vec{B}) = (2.0 \\times 10^{-6}) (0.40 \\times 10^6 \\hat{z} - 0.80 \\times 10^6 \\hat{y}) = 0.80 \\hat{z} - 1.6 \\hat{y}[/math]\u003Cbr\u003E.অর্থাৎ, চৌম্বক বল হলো [math]\\vec{F}_B = -1.6 \\hat{y} + 0.8 \\hat{z}[/math]\u003Cbr\u003E।প্রশ্নটিতে তড়িৎক্ষেত্রের মান [math]E=10^{69}[/math]\u003Cbr\u003E দেওয়া আছে। যদি এটি [math]10^6 \\mathrm{V m^{-1}}[/math]\u003Cbr\u003E হত, তাহলে তড়িৎ বল [math]qE = 2 \\times 10^{-6} \\times 10^6 \\hat{x} = 2 \\hat{x}[/math]\u003Cbr\u003E হতো।মোট বল = [math]\\vec{F}_E + \\vec{F}_B = 2 \\hat{x} - 1.6 \\hat{y} + 0.8 \\hat{z}[/math]\u003Cbr\u003E। এটি কোনো বিকল্পে নেই।যদি প্রশ্নে তড়িৎক্ষেত্রের মান [math]E=10^{69}[/math]\u003Cbr\u003E ব্যবহার করা হয়, তবে তড়িৎ বলের মান [math]qE = 2 \\times 10^{-6} \\times 10^{69} \\hat{x} = 2 \\times 10^{63} \\hat{x}[/math]\u003Cbr\u003E হবে। এই মানটি এত বিশাল যে এটি অন্য কোনো বলের সাথে তুলনীয় নয়।প্রদত্ত বিকল্পগুলির মধ্যে A তে [math]y[/math]\u003Cbr\u003E এবং [math]z[/math]\u003Cbr\u003E অক্ষ বরাবর বলের মান দেখা যাচ্ছে যা চৌম্বক বলের গণনার সাথে সম্পর্কিত। বিকল্প A তে বল [math]\\vec{F}=(0.8 \\mathrm{a} \\vec{y}-1.6 \\mathrm{a} \\vec{z}) \\mathrm{N}[/math]\u003Cbr\u003E দেওয়া আছে। আমাদের চৌম্বক বলের গণনায় [math]y[/math]\u003Cbr\u003E উপাংশ [math]-1.6[/math]\u003Cbr\u003E এবং [math]z[/math]\u003Cbr\u003E উপাংশ [math]0.8[/math]\u003Cbr\u003E এসেছে। বিকল্প A তে উপাংশগুলি [math]0.8[/math]\u003Cbr\u003E এবং [math]-1.6[/math]\u003Cbr\u003E কিন্তু অক্ষগুলি ভিন্নভাবে যুক্ত ( [math]0.8 \\hat{y}[/math]\u003Cbr\u003E এবং [math]-1.6 \\hat{z}[/math]\u003Cbr\u003E )।প্রশ্ন এবং বিকল্পগুলিতে ত্রুটির সম্ভাবনা অত্যন্ত বেশি। তবে যদি শুধু চৌম্বক বলের উপাংশগুলির পরম মানগুলিকে গুরুত্ব দেওয়া হয়, তবে একটি মিল পাওয়া যেতে পারে, কিন্তু অক্ষগুলি সঠিক নয়। যেহেতু তড়িৎ বলও আছে এবং তার একটি বড় মান সম্ভব (যদি [math]10^{69}[/math]\u003Cbr\u003E সঠিক হয়), তবে অন্য বিকল্পগুলিও বিবেচনা করা যেতে পারে। কিন্তু কোনো বিকল্পই সুনির্দিষ্টভাবে সঠিক নয়। তাই, এই পরিস্থিতিতে \"কোনোটিই নয়\" (Option D) সবচেয়ে যৌক্তিক উত্তর।**বিশেষ দ্রষ্টব্য:** যদি প্রশ্নে তড়িৎক্ষেত্র [math]\\vec{E}=0[/math]\u003Cbr\u003E হত, তবে লরেঞ্জ বল কেবল চৌম্বক বল হত এবং তার মান [math]\\vec{F}_B = -1.6 \\hat{y} + 0.8 \\hat{z}[/math]\u003Cbr\u003E হত। এই মানটিও বিকল্প A এর সাথে হুবহু মেলে না। বিকল্প A তে [math](0.8 \\hat{y} - 1.6 \\hat{z})[/math]\u003Cbr\u003E আছে। এটি চৌম্বক বলের উপাংশগুলির মানের সাথে সম্পর্কিত কিন্তু অক্ষের সাথে মিলছে না। সম্ভবত প্রশ্ন বা বিকল্পে টাইপিং বা ধারণাগত ত্রুটি রয়েছে। এই অবস্থায়, গণনা অনুসারে কোনো বিকল্প সঠিক না হওয়ার কারণে D উত্তরটিই যুক্তিযুক্ত।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 425643,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425642,
+      "value": {
+        "options": {
+          "ক": "[math]q \\vec{E}[/math]",
+          "খ": "[math]q(\\vec{v} \\times \\vec{B})[/math]",
+          "গ": "[math]q(\\vec{E}+(\\vec{v} \\times \\vec{B})[/math]",
+          "ঘ": "[math]q(\\vec{E}+(\\vec{v} \\times \\vec{B})[/math]"
+        },
+        "question": "লরেঞ্জ বল হচ্ছে—",
+        "solution": "লরেঞ্জ বল একটি চার্জিত কণার উপর বৈদ্যুতিক এবং চৌম্বক উভয় ক্ষেত্রের সম্মিলিত প্রভাবের কারণে সৃষ্ট বলকে বোঝায়। বৈদ্যুতিক বল হলো [math]q\\vec{E}[/math]\u003Cbr\u003E এবং চৌম্বক বল হলো [math]q(\\vec{v} \\times \\vec{B})[/math]\u003Cbr\u003E যেখানে [math]q[/math]\u003Cbr\u003E হলো আধান, [math]\\vec{E}[/math]\u003Cbr\u003E হলো বৈদ্যুতিক ক্ষেত্র, [math]\\vec{v}[/math]\u003Cbr\u003E হলো কণার বেগ এবং [math]\\vec{B}[/math]\u003Cbr\u003E হলো চৌম্বক ক্ষেত্র। লরেঞ্জ বল এই দুটি বলের সমষ্টি, অর্থাৎ [math]q\\vec{E} + q(\\vec{v} \\times \\vec{B})[/math]\u003Cbr\u003E, যা [math]q(\\vec{E} + (\\vec{v} \\times \\vec{B}))[/math]\u003Cbr\u003E আকারে লেখা যেতে পারে। এই সূত্রটি বিদ্যুৎচুম্বকত্বের মৌলিক নীতিগুলির মধ্যে একটি।",
+        "explanation": "",
+        "correct_answer": "C.[math]q(\\vec{E}+(\\vec{v} \\times \\vec{B})[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425642,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425641,
+      "value": {
+        "options": {
+          "ক": "i,ii",
+          "খ": "i,iii",
+          "গ": "ii,iii",
+          "ঘ": "i,ii,iii"
+        },
+        "question": "চৌম্বক ক্ষেত্রে (সমান্তরাল ব্যতিত) কোনো গতিশীল চার্জ যে বল লাভ করে তা নির্ভর করে—\n\ni. চার্জের পরিমাণের ওপর\n\nii. চার্জের বেগের ওপর\n\niii. চৌম্বক ক্ষেত্রের ওপর\n\nনিচের কোনটি সঠিক?",
+        "solution": "লরেঞ্জ বলের সূত্রানুসারে, চৌম্বক ক্ষেত্রে কোনো গতিশীল চার্জের উপর প্রযুক্ত বল [math]F = qvB\\sin\\theta[/math]\u003Cbr\u003E, যেখানে [math]q[/math]\u003Cbr\u003E হলো চার্জের পরিমাণ, [math]v[/math]\u003Cbr\u003E হলো চার্জের বেগ, [math]B[/math]\u003Cbr\u003E হলো চৌম্বক ক্ষেত্রের শক্তি এবং [math]\\theta[/math]\u003Cbr\u003E হলো চার্জের বেগের দিক ও চৌম্বক ক্ষেত্রের দিকের মধ্যবর্তী কোণ। এই সূত্র থেকে স্পষ্ট যে বল চার্জের পরিমাণ, বেগের মান এবং চৌম্বক ক্ষেত্রের শক্তির উপর নির্ভর করে। এই সূত্রটি চৌম্বক বলের ধারণার একটি মৌলিক অংশ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 425641,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425639,
+      "value": {
+        "options": {
+          "ক": "মধ্যমা, তর্জনী ও বৃদ্ধাঙ্গুলী তর্জনী, মধ্যমা বৃদ্ধাঙ্গুলী",
+          "খ": "তর্জনী, মধ্যমা বৃদ্ধাঙ্গুলী",
+          "গ": "তর্জনী, বৃদ্ধাঙ্গুলী ও মধ্যমা",
+          "ঘ": "মধ্যমা, বৃদ্ধাঙ্গুলী তর্জনী"
+        },
+        "question": "ফ্লেমিংয়ের বাম হস্ত নিয়মে চৌম্বক ক্ষেত্র, তড়িৎ প্রবাহ ও চৌম্বক বল নির্দেশ করা হয় যথাক্রমে–",
+        "solution": "ফ্লেমিংয়ের বাম হস্ত নিয়মে তর্জনী চৌম্বক ক্ষেত্রকে, মধ্যমা তড়িৎ প্রবাহকে এবং বৃদ্ধাঙ্গুলী চৌম্বক বলকে নির্দেশ করে। এটি একটি সহজ নিয়ম যা মোটর কার্যনীতি বুঝতে সাহায্য করে।",
+        "explanation": "",
+        "correct_answer": "C. তর্জনী, বৃদ্ধাঙ্গুলী ও মধ্যমা"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 425639,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425638,
+      "value": {
+        "options": {
+          "ক": "[math]1.92 \\times 10^{-15} \\mathrm{~N}[/math]",
+          "খ": "[math]7.4 \\times 10^{-12} \\mathrm{~N}[/math]",
+          "গ": "[math]7.4 \\times 10^{-16} \\mathrm{~N}[/math]",
+          "ঘ": "[math]0N[/math]"
+        },
+        "question": "[math]3.1 \\times 10^{7} \\mathrm{~m} / \\mathrm{s}[/math] বেগে ধাবমান একটি প্রোটনের গতিপথের দিকে [math]1.5T[/math] মানের চৌম্বক ক্ষেত্র এবং গতিপথের দিকের সাথে লম্বভাবে [math]3.1 \\times 10^{7} \\mathrm{~} \\mathrm{} N/ Coul[/math] তড়িৎক্ষেত্র প্রয়োগ করা হলে প্রোটনের উপরে প্রযুক্ত বল কত? (প্রোটনের চার্জ [math]1.6 \\times 10^{-19} \\text { Coul) }[/math]",
+        "solution": "Hints: [math]\\mathrm{F}=\\mathrm{qvB} \\sin \\theta, \\mathrm{F}=\\mathrm{qE}[/math]\u003Cbr\u003ESolve : চৌম্বক বল [math]\\mathrm{qvB} \\sin \\theta \\Rightarrow \\mathrm{F}=\\mathrm{qvB}^{2} \\sin 0^{\\circ} \\quad \\therefore \\mathrm{F}=0^{\\circ}[/math]\u003Cbr\u003Eতড়িৎ বল, [math]\\mathrm{F}=\\mathrm{qE}=1.6 \\times 10^{-19} \\times 1.2 \\times 10^{4}=1.92 \\times 10^{-15} \\mathrm{~N}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যাঃ কোনো চার্জের উপর তড়িৎ ক্ষেত্র এবং চৌম্বক ক্ষেত্র একত্রে প্রয়োগ করলে চার্জের উপর তড়িৎ বল এবং চৌম্বক বল এক সাথে ক্রিয়া করবে। এই বলকে লরেঞ্জ বল বলে। চার্জের বেগ ও চৌম্বক ক্ষেত্রের মধ্যবর্তী কোণ 0° হওয়ায় চার্জ চৌম্বক ক্ষেত্র দ্বারা কোন বল অনুভব করবে না শুধুমাত্র তড়িৎ ক্ষেত্র দ্বারা বল অনুভূব করবে।",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 425638,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 425638,
+            "tag_id": 73,
+            "year": "10-11",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425637,
+      "value": {
+        "options": {
+          "ক": "[math]\\overrightarrow{\\mathrm{F}}=\\mathrm{q}(\\overrightarrow{\\mathrm{V}} \\cdot \\overrightarrow{\\mathrm{B}})[/math]",
+          "খ": "[math]\\overrightarrow{\\mathrm{F}}=\\mathrm{q}(\\overrightarrow{\\mathrm{V}} \\times\\overrightarrow{\\mathrm{B}})[/math]",
+          "গ": "[math]\\overrightarrow{\\mathrm{F}}=\\mathrm{q}(\\overrightarrow{\\mathrm{I}} \\times \\overrightarrow{\\mathrm{B}})[/math]",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "চৌম্বক ক্ষেত্রে গতিশীল একটি আধানের উপর ক্রিয়াশীল বল:",
+        "solution": "গতিশীল আধানের উপর চৌম্বক বলের সূত্র হলো লরেঞ্জ বলের একটি অংশ, যা [math]\\overrightarrow{F} = q(\\overrightarrow{v} \\times \\overrightarrow{B})[/math]\u003Cbr\u003E দ্বারা প্রকাশ করা হয়, যেখানে [math]q[/math]\u003Cbr\u003E হলো আধানের পরিমাণ, [math]\\overrightarrow{v}[/math]\u003Cbr\u003E হলো বেগের ভেক্টর এবং [math]\\overrightarrow{B}[/math]\u003Cbr\u003E হলো চৌম্বক ক্ষেত্রের ভেক্টর। এই সূত্রটি বোঝায় যে বলের দিক বেগ এবং চৌম্বক ক্ষেত্র উভয়ের সঙ্গেই লম্ব। বিকল্প A তে ডট গুণফল ব্যবহার করা হয়েছে যা সঠিক নয়, কারণ চৌম্বক বলের দিক বেগের উপর নির্ভর করে, বেগের সাথে চৌম্বক ক্ষেত্রের উপাংশের গুণফলের উপর নয়। বিকল্প C তে [math]\\overrightarrow{I}[/math]\u003Cbr\u003E ব্যবহার করা হয়েছে, যা সাধারণত তড়িৎ প্রবাহের ভেক্টরকে বোঝায়, কিন্তু এখানে একক আধানের গতির কথা বলা হয়েছে, তাই [math]\\overrightarrow{v}[/math]\u003Cbr\u003E ব্যবহার করা হয়। লরেঞ্জ বলের সম্পূর্ণ রূপ হলো [math]\\overrightarrow{F} = q\\overrightarrow{E} + q(\\overrightarrow{v} \\times \\overrightarrow{B})[/math]\u003Cbr\u003E, যেখানে [math]\\overrightarrow{E}[/math]\u003Cbr\u003E হলো তড়িৎ ক্ষেত্র। এখানে কেবল চৌম্বক ক্ষেত্রের প্রভাব জিজ্ঞাসা করা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 425637,
+            "year_id": 17
+          }
+        },
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 425637,
+            "year_id": 23
+          }
+        },
+        {
+          "id": 27,
+          "year": "2007-2008",
+          "pivot": {
+            "question_bank_id": 425637,
+            "year_id": 27
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 425637,
+            "tag_id": 502,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        },
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 425637,
+            "tag_id": 460,
+            "year": "10-11",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        },
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 425637,
+            "tag_id": 73,
+            "year": "07-08",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425636,
+      "value": {
+        "options": {
+          "A": "[math]\\overline{\\mathrm{F}}=(0.8\\mathrm{a}\\overline{y}-1.6\\mathrm{a}\\overline{z})\\mathrm{N}[/math]",
+          "B": "[math]\\overline{\\mathrm{F}}=(1.0\\mathrm{a}\\overline{x}-8.0\\mathrm{a}\\overline{z})\\mathrm{N}[/math]",
+          "C": "$ \\overline{\\mathrm{F}}=(2.0\\mathrm{a}\\overline{x}+0.8\\mathrm{a}\\overline{y}-1.6\\mathrm{az})\\mathrm{N} $",
+          "D": "$ \\text{None of these} $"
+        },
+        "question": "[math]2.0\\mu C[/math] আধানের একটি বস্তু [math]2.0\\times 10^6 m/s[/math] বেগে [math]x-[/math] অক্ষ বরাবর চলছে। সেখানে একই সময়ে একটি তড়িৎক্ষের [math]\\overline{\\mathrm{E}}=10^{6} \\mathrm{a\\overline{x}}\\left(\\dfrac{\\mathrm{V}}{\\mathrm{m}}\\right)[/math] এবং একটি চৌম্বক ক্ষেত্র [math]\\overline{\\mathrm{B}}=(0.20 \\mathrm{a} \\overline{\\mathrm{y}}+0.40 \\mathrm{a} \\overline{z}) \\mathrm{T}[/math] আধানটির উপর ক্রিয়াশীল হলে আধানটির উপর কত বল ক্রিয়াশীল হবে?",
+        "solution": "[math]\\vec{\\mathrm{F}}=\\mathrm{q} \\vec{\\mathrm{E}}+\\mathrm{q} \\vec{\\mathrm{V}} \\times \\vec{\\mathrm{B}}[/math]\u003Cbr\u003E [math]=\\left(2 \\times 10^{-6} \\times 10^{6} \\mathrm{a\\overline{x}}\\right)+\\left(2 \\times 10^{-6}\\right)[/math]\u003Cbr\u003E [math][(2.0 \\times 106 \\overline{\\mathrm{x}}) \\times(0.20 \\mathrm{a} \\overline{\\mathrm{y}}+0.40 \\mathrm{a} \\bar{z})][/math]\u003Cbr\u003E [math]=2 \\mathrm{a} \\bar{x}+2 \\times 10^{-6}[/math]\u003Cbr\u003E [math]\\left|\\begin{array}{ccc} \\bar{x} & \\bar{y} & \\bar{z} \\\\ 2.0 \\times 10^{6} & 0 & 0 \\\\ 0 & 0.2 a & 0.4 a \\end{array}\\right|[/math]\u003Cbr\u003E [math]=2 a \\bar{x}+\\left(2 \\times 10^{-6}\\right)[/math]\u003Cbr\u003E [math]\\left(-2 \\times 10^{6} \\times 0.4 \\mathrm{a} \\bar{y}+2 \\times 10^{6} \\times 0.2 \\mathrm{a} \\bar{z}\\right)[/math]\u003Cbr\u003E [math]=(2 \\mathrm{a} \\bar{x}-1.6 \\mathrm{a} \\bar{y}+0.8 \\mathrm{a\\overline{z}}) \\mathrm{N}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 425636,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 501,
+          "full_name": "Chittagong University of Engineering & Technology",
+          "short_name": "CUET",
+          "slug": "cuet",
+          "pivot": {
+            "question_bank_id": 425636,
+            "tag_id": 501,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425635,
+      "value": {
+        "options": {
+          "ক": "ইলেকট্রন",
+          "খ": "প্রোটন",
+          "গ": "নিউট্রন",
+          "ঘ": "আলফা কণা"
+        },
+        "question": "একটি চৌম্বক ক্ষেত্রে যে গতিশীল কণাটি সোজা পথে গমন করবে তা হলো–",
+        "solution": "নিউট্রন চার্জ নিরপেক্ষ বলে চৌম্বকক্ষেত্রে এটি কোন বল অনুভব করবে না ফলে সোজা পথে গমন করবে।",
+        "explanation": "",
+        "correct_answer": "C.নিউট্রন"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 425635,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 788,
+          "full_name": "Chattogram Veterinary and Animal Sciences University",
+          "short_name": "CVASU",
+          "slug": "cvasu",
+          "pivot": {
+            "question_bank_id": 425635,
+            "tag_id": 788,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425634,
+      "value": {
+        "options": {
+          "ক": "সরল রৈখিক",
+          "খ": "উপবৃত্তাকার",
+          "গ": "বৃত্তাকার",
+          "ঘ": "হেলিকাল"
+        },
+        "question": "একটি চুম্বক ক্ষেত্রের লম্ব অভিমুখে কোন চার্জ কণা ধাবিত হলে, এর গতিপথ কি?",
+        "solution": "কোনো চার্জিত কণা যখন একটি চুম্বক ক্ষেত্রের সাথে লম্বভাবে গতিশীল থাকে, তখন সেই কণার উপর একটি লরেন্টজ বল প্রযুক্ত হয়, যা চুম্বক ক্ষেত্র এবং কণার বেগের সাথে সর্বদা লম্বভাবে ক্রিয়া করে। এই লম্বভাবে প্রযুক্ত বল কণাটির বেগের দিকের পরিবর্তন ঘটায় কিন্তু বেগের মান অপরিবর্তিত রাখে, ফলে কণাটি একটি বৃত্তাকার পথে ঘুরতে থাকে। যদি কণাটির বেগের চুম্বক ক্ষেত্রের সাথে একটি উপাংশও থাকে, তবে এটি বৃত্তাকার ও সরল রৈখিক গতির সম্মিলিত প্রভাবে একটি হেলিকাল বা সর্পিল পথে চালিত হয়। এই প্রসঙ্গে, লরেন্টজ বলের সূত্রটি হলো [math]\\vec{F} = q(\\vec{v} \\times \\vec{B})[/math]\u003Cbr\u003E, যেখানে [math]\\vec{F}[/math]\u003Cbr\u003E হলো বল, [math]q[/math]\u003Cbr\u003E হলো চার্জের মান, [math]\\vec{v}[/math]\u003Cbr\u003E হলো বেগের ভেক্টর এবং [math]\\vec{B}[/math]\u003Cbr\u003E হলো চুম্বক ক্ষেত্রের ভেক্টর।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 425634,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 49,
+          "full_name": "University of Chittagong (Unit A)",
+          "short_name": "CU-A",
+          "slug": "cu-a",
+          "pivot": {
+            "question_bank_id": 425634,
+            "tag_id": 49,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425633,
+      "value": {
+        "options": {
+          "A": "35 mm",
+          "B": "46 mm",
+          "C": "32 mm",
+          "D": "41 mm"
+        },
+        "question": "Alpha particles [math]\\left(\\mathrm{m}=6.68 \\times 10^{-27} \\mathrm{~kg} \\text { and } \\mathrm{q}=+2 \\mathrm{e}\\right)[/math] accelerate to [math]2\\ keV[/math] through a potential difference [math]V[/math]. They enter a magnetic field [math]B = 0.2T[/math] perpendicular to their direction of motion. What is radius of their path?",
+        "solution": "[math]\\mathrm{eV}=\\frac{1}{2} \\mathrm{mv}^{2} \\Rightarrow \\mathrm{v}=\\sqrt{\\frac{2 \\mathrm{eV}}{\\mathrm{m}}}=\\sqrt{\\frac{2 \\mathrm{e} \\times 2 \\times 10^{3}}{6.68 \\times 10^{-27}}}=3.097 \\times 10^{5} \\mathrm{~ms}^{-1}\\\\ \\text { Again, qvB }=\\frac{m v^{2}}{r} \\Rightarrow r=\\frac{m v}{q B}=\\frac{6.68 \\times 10^{-27} \\times 3.097 \\times 10^{5}}{2 \\times 1.6 \\times 10^{-19} \\times 0.2}=32.285 \\mathrm{~mm} \\approx 32 \\mathrm{~mm}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 425633,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 425633,
+            "tag_id": 55,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425632,
+      "value": {
+        "options": {
+          "ক": "[math]1.0 \\times 10^{-16}[/math]",
+          "খ": "[math]1.0 \\times 10^{-19}[/math]",
+          "গ": "[math]1.0 \\times 10^{-18}[/math]",
+          "ঘ": "[math]1.0 \\times 10^{26}[/math]",
+          "ঙ": "[math]1.0 \\times 10^{-12}[/math]"
+        },
+        "question": "একটি ইলেকট্রন [math]640\\ N/C[/math] বিদ্যুৎক্ষেত্র এবং [math]1.2\\ T[/math] চৌম্বকক্ষেত্রের মধ্যে [math]4.0 \\times 10^{4} \\mathrm{~m} / \\mathrm{s}[/math] বেগে ধাবিত হচ্ছে। Lorentz বলের পরিমাণ কত [math]N?[/math] [বেগ এবং চৌম্বকক্ষেত্রের দিক একই]",
+        "solution": "বেগ ও চৌম্বকক্ষেত্রের দিক একই। তাই চৌম্বক বল শূন্য।লরেঞ্জ বল, [math]\\mathrm{F}=\\mathrm{Eq}+0=640 \\times 1.6 \\times 10^{-19} \\Rightarrow \\mathrm{N}=1.0 \\times 10^{-16} \\mathrm{~N}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 425632,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 425632,
+            "tag_id": 73,
+            "year": "16-17",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425631,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{q} \\overrightarrow{\\mathrm{E}}[/math]",
+          "খ": "[math]\\rm{q(\\overrightarrow{v} \\times \\overrightarrow{B})}[/math]",
+          "গ": "[math]\\rm{q(\\overrightarrow{E}+\\overrightarrow{v} \\times \\overrightarrow{B})}[/math]",
+          "ঘ": "[math]\\rm{q(\\overrightarrow{E} \\times \\overrightarrow{v} \\times \\overrightarrow{B})}[/math]"
+        },
+        "question": "লরেঞ্জ বল (Lorentz force) এর গাণিতিক রূপ কোনটি?",
+        "solution": "লরেঞ্জ বল হলো একটি চার্জিত কণার উপর চৌম্বক ক্ষেত্র এবং বৈদ্যুতিক ক্ষেত্র উভয়ের প্রভাবে সৃষ্ট মোট বল। এই বলের দুটি অংশ থাকে: বৈদ্যুতিক বল ( [math]q\\overrightarrow{E}[/math]\u003Cbr\u003E) এবং চৌম্বক বল ( [math]q(\\overrightarrow{v} \\times \\overrightarrow{B})[/math]\u003Cbr\u003E)। এদের সমষ্টিই লরেঞ্জ বল। তাই সঠিক রূপটি হলো [math]q(\\overrightarrow{E}+\\overrightarrow{v} \\times \\overrightarrow{B})[/math]\u003Cbr\u003E। বিকল্প A কেবল বৈদ্যুতিক বল নির্দেশ করে এবং বিকল্প B কেবল চৌম্বক বল নির্দেশ করে। বিকল্প D-তে ভেক্টর ক্রস গুণনের বিন্যাস সঠিক নয়।লরেঞ্জ বলের ধারণাটি পদার্থবিজ্ঞানে, বিশেষ করে তড়িৎচুম্বকত্ব এবং কণা পদার্থবিদ্যায় অত্যন্ত গুরুত্বপূর্ণ। এটি কণার গতিপথ নির্ধারণে সাহায্য করে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 425631,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 425631,
+            "tag_id": 502,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425630,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{q} \\overrightarrow{\\mathrm{E}}[/math]",
+          "খ": "[math]\\rm{q(\\overrightarrow {v} \\times \\overrightarrow{B})}[/math]",
+          "গ": "[math]\\rm{q(\\overrightarrow{E}+\\overrightarrow{v} \\times \\overrightarrow{B})}[/math]",
+          "ঘ": "[math]\\rm{q(\\overrightarrow{E} \\times \\overrightarrow{v} \\times \\overrightarrow{B})}[/math]"
+        },
+        "question": "লরেঞ্জ বল কোনটি?",
+        "solution": "লরেঞ্জ বল হলো একটি চার্জিত কণার উপর বৈদ্যুতিক এবং চৌম্বক ক্ষেত্র উভয়ের প্রভাবে সৃষ্ট মোট বল। এটি বৈদ্যুতিক বল এবং চৌম্বক বলের সমষ্টি। বৈদ্যুতিক বলের মান [math]\\rm{q}\\overrightarrow{\\mathrm{E}}[/math]\u003Cbr\u003E এবং চৌম্বক বলের মান [math]\\rm{q(\\overrightarrow{v} \\times \\overrightarrow{B})}[/math]\u003Cbr\u003E, যেখানে q হলো চার্জের পরিমাণ, [math]\\overrightarrow{\\mathrm{E}}[/math]\u003Cbr\u003E হলো বৈদ্যুতিক ক্ষেত্রের প্রাবল্য, [math]\\overrightarrow{\\mathrm{v}}[/math]\u003Cbr\u003E হলো কণার বেগ এবং [math]\\overrightarrow{\\mathrm{B}}[/math]\u003Cbr\u003E হলো চৌম্বক ক্ষেত্রের প্রাবল্য। তাই লরেঞ্জ বলের সঠিক রাশিমালা হলো [math]\\rm{q(\\overrightarrow{E}+\\overrightarrow{v} \\times \\overrightarrow{B})}[/math]\u003Cbr\u003E. এই সূত্রটি হেন্ড্রিক লরেঞ্জের নামে নামকরণ করা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 425630,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 471,
+          "full_name": "Sylhet Agricultural University",
+          "short_name": "SAU",
+          "slug": "sau",
+          "pivot": {
+            "question_bank_id": 425630,
+            "tag_id": 471,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425629,
+      "value": {
+        "options": {
+          "ক": "[math]8 \\times 10^{6},[/math] নিম্নমুখী",
+          "খ": "[math]4 \\times 10^{6},[/math] উর্ধ্বমুখী",
+          "গ": "[math]8 \\times 10^{6},[/math] উর্ধ্বমুখী",
+          "ঘ": "[math]8 \\times 10^{6},[/math] দক্ষিণমুখী",
+          "ঙ": "[math]8 \\times 10^{6},[/math] পূর্বমুখী"
+        },
+        "question": "কোন স্থানে পশ্চিমমুখী চৌম্বকক্ষেত্রের মান [math]4\\rm{T}[/math]। ঐ স্থানে একটি ইলেকট্রনকে [math]2 \\times 10^{6} \\mathrm{~ms}^{-1}[/math] বেগে উত্তর দিকে গতিশীল রাখার হলে তার উপর কত তড়িৎ প্রাবল্য [math]\\left(\\mathrm{NC}^{-1}\\right)[/math] আরোপ করতে হবে?",
+        "solution": "Hints: E = vB ও বামহস্ত নিয়মSolve: E = vB[math]\\begin{array}{l}=2 \\times 10^{6} \\times 4 \\\\=8 \\times 10^{6}\\end{array}[/math]বামহস্ত নিয়ম অনুসারে চার্জটির উপর চৌম্বক বল নিচের দিকে কাজ করবে তাই চার্জটিকে উত্তর দিকে গতিশীল রাখতে উপরের দিকে তড়িৎ ক্ষেত্র প্রয়োগ করে তড়িৎ বল দিতে হবে।Ans. (C)",
+        "explanation": "হল ক্রিয়ার ধারণা থেকেই প্রশ্নটির উত্তর করা সম্ভব ।[math]\\\\\\\\\\\\\\\\[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fsustq-b-unit-19-20-04_1755588785_uRpkOn9K.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003Eমনে করি, খাতার ভেতরের দিকে পশ্চিমমুখী চৌম্বকক্ষেত্র। তাহলে বাম থেকে ডানে ইলেকট্রনের প্রবাহ হবে উত্তর দিকে। ফ্লেমিংয়ের বাম হস্ত নিয়ম অনুযায়ী বলের দিক হবে নিচের দিকে [যেহেতু ইলেকট্রন প্রবাহের বিপরীত দিকে তড়িৎ প্রবাহ I এর দিক হবে] । চুম্বক বল নিচের দিকে বলে তড়িৎ ক্ষেত্র দ্বারা উর্ধ্বমুখী তড়িৎ বল প্রয়োগ করতে হবে এবং ইলেকট্রনের গতিপথ ঠিক রাখতে নিম্নমুখী চৌম্বক বল ও উর্ধ্বমুখী তড়িৎ বল সমান হতে হবে ।[math]\\\\[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{F}_{\\mathrm{m}}=\\mathrm{F}_{\\mathrm{e}} \\Rightarrow \\mathrm{q} v \\mathrm{~B}=\\mathrm{qE} \\Rightarrow \\mathrm{E}=\\mathrm{vB}[/math]\u003Cbr\u003E",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 425629,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 425629,
+            "tag_id": 73,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:33:05.000000Z",
+            "updated_at": "2025-08-19T07:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425625,
+      "value": {
+        "options": {
+          "ক": "[math]0.5 \\mathrm{~ms}^{-1}[/math]",
+          "খ": "[math]1.0 \\mathrm{~ms}^{-1}[/math]",
+          "গ": "[math]5.0 \\mathrm{~ms}^{-1}[/math]",
+          "ঘ": "[math]10.0 \\mathrm{~ms}^{-1}[/math]",
+          "ঙ": "[math]\\text{None}[/math]"
+        },
+        "question": "[math]10\\ \\rm{NC}^{-1}[/math] বৈদ্যুতিক ও [math]5\\rm{T}[/math] চৌম্বক ক্ষেত্রে গতিশীল একটি আধান বাহকের তাড়নবেগ কোনটি?",
+        "solution": "বি.দ্র: সঠিক উত্তর [math]2 \\mathrm{~ms}^{-1}[/math]",
+        "explanation": "",
+        "correct_answer": "."
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 425625,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425625,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 425625,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T07:33:04.000000Z",
+            "updated_at": "2025-08-19T07:33:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425628,
+      "value": {
+        "options": {
+          "ক": "ইলেকট্রন",
+          "খ": "নিউট্রন",
+          "গ": "প্রোটন",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "কোন কণার ওপর তড়িৎক্ষেত্র বা চৌম্বকক্ষেত্রের প্রভাব নেই?",
+        "solution": "নিউট্রন হলো একটি মৌলিক কণা যার কোন তড়িৎ আধান নেই। তাই, তড়িৎ ক্ষেত্র বা চৌম্বক ক্ষেত্র নিউট্রনের উপর সরাসরি প্রভাব ফেলতে পারে না।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 425628,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 425628,
+            "tag_id": 11,
+            "year": "20-21",
+            "created_at": "2025-08-19T07:33:04.000000Z",
+            "updated_at": "2025-08-19T07:33:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425627,
+      "value": {
+        "options": {
+          "ক": "$ 3ev $",
+          "খ": "$ 0\\ (zero) $",
+          "গ": "$ ev/B $",
+          "ঘ": "$ e/Bv $"
+        },
+        "question": "[math]B[/math] মানের একটি সুষম চৌম্বক ক্ষেত্রের তড়িৎ বলরেখার সমান্তরালে বেগ [math]V[/math] তে চলমান একটি চার্জ [math]e[/math] এর উপর ক্রিয়াশীল বল হল [math]-[/math]",
+        "solution": "[math]\\mathrm{F}=\\mathrm{qvB} \\sin 0^{\\circ}=0 \\mathrm{~N}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 425627,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 425627,
+            "tag_id": 80,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:33:04.000000Z",
+            "updated_at": "2025-08-19T07:33:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425626,
+      "value": {
+        "options": {
+          "ক": "[math]\\rm{q(\\overrightarrow{E}+\\overrightarrow{v} \\times \\overrightarrow{B})}[/math]",
+          "খ": "[math]\\mathrm{q}(\\overrightarrow{\\mathrm{E}}+\\overrightarrow{\\mathrm{v}} \\cdot \\overrightarrow{\\mathrm{B}})[/math]",
+          "গ": "[math]\\mathrm{q} \\overrightarrow{\\mathrm{E}}[/math]",
+          "ঘ": "[math]\\rm{q(\\overrightarrow{E}+\\overrightarrow{B})}[/math]"
+        },
+        "question": "[math]\\rm{q}[/math] পরিমাণ আধান একটি চৌম্বক ক্ষেত্র [math]\\overrightarrow{\\mathrm{B}}[/math] এর সাথে সমান্তরালে [math]\\overrightarrow{\\mathrm{v}}[/math] বেগে গতিশীল। উক্ত স্থানে একটি তড়িৎক্ষেত্র [math]\\overrightarrow{\\mathrm{E}}[/math] থাকলে আধানের উপর ক্রিয়াশীল বল কত হবে?",
+        "solution": "[math]\\mathrm{F}_{\\mathrm{B}}=\\mathrm{qvB} \\sin 0^{\\circ} \\text { [parallel] }=0 \\quad \\therefore \\mathrm{F}=\\mathrm{F}_{\\mathrm{e}}+\\mathrm{F}_{\\mathrm{B}}=\\mathrm{qE}+0=\\mathrm{qE}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:33:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 425626,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 425626,
+            "tag_id": 8,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:33:04.000000Z",
+            "updated_at": "2025-08-19T07:33:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6330&grade=1&lesson=6643&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6330&grade=1&lesson=6643&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6330&grade=1&lesson=6643&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 30,
+  "total": 30
+}

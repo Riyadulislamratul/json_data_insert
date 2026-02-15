@@ -1,0 +1,844 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 431395,
+      "value": {
+        "options": {
+          "ক": "হাইজেনবার্গ",
+          "খ": "দ্য ব্রগলী",
+          "গ": "ম্যাক্সওয়েল",
+          "ঘ": "নিউটন"
+        },
+        "question": "‘একটি কণার অবস্থান ও ভরবেগ একই সাথে জানা অসম্ভব’— এটি কোন বিজ্ঞানীর তত্ত্ব?",
+        "solution": "এই নীতিটি হাইজেনবার্গের অনিশ্চয়তা নীতির অন্তর্গত। এই নীতি অনুসারে, কোন কণার অবস্থান এবং ভরবেগ একই সাথে নিখুঁতভাবে পরিমাপ করা সম্ভব নয়। একটি যত নির্ভুলভাবে পরিমাপ করা হবে, অন্যটি তত বেশি অনিশ্চিত হবে। এটি কোয়ান্টাম বলবিদ্যার একটি মৌলিক ধারণা। দ্য ব্রগলী কণার দ্বৈত প্রকৃতি নিয়ে কাজ করেছিলেন, ম্যাক্সওয়েল তড়িৎচুম্বকীয় তরঙ্গ এবং নিউটন চিরায়ত বলবিদ্যা নিয়ে গবেষণা করেছিলেন।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 431395,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 431395,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 431395,
+            "tag_id": 6,
+            "year": "2017",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431396,
+      "value": {
+        "options": {
+          "ক": "[math]\\Delta E\\cdot \\Delta t\\approx h[/math]",
+          "খ": "[math]\\Delta E\\cdot \\Delta t=h[/math]",
+          "গ": "[math]\\Delta E\\cdot \\Delta t\\ge h[/math]",
+          "ঘ": "$\\Delta E\\cdot \\Delta t"
+        },
+        "question": "শক্তি ও সময়ের অনিশ্চয়তা কোনটি?",
+        "solution": "হাইজেনবার্গের শক্তি-সময় অনিশ্চয়তা নীতি অনুসারে, শক্তি ( [math]E[/math]\u003Cbr\u003E) এবং সময় ( [math]t[/math]\u003Cbr\u003E) এর পরিমাপে যে অনিশ্চয়তা থাকে তাদের গুণফল প্ল্যাঙ্কের ধ্রুবকের ( [math]h[/math]\u003Cbr\u003E) চেয়ে বড় বা সমান হয়, অর্থাৎ [math]\\Delta E\\cdot \\Delta t\\ge h[/math]\u003Cbr\u003E । বিকল্প A ভুল কারণ এটি একটি প্রায় সমান ( [math]\\approx[/math]\u003Cbr\u003E) সম্পর্ক নির্দেশ করে, যা নীতিটির সঠিক রূপ নয়। বিকল্প B এবং D নীতির সাথে সঙ্গতিপূর্ণ নয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 431396,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 49,
+          "full_name": "University of Chittagong (Unit A)",
+          "short_name": "CU-A",
+          "slug": "cu-a",
+          "pivot": {
+            "question_bank_id": 431396,
+            "tag_id": 49,
+            "year": "20-21",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431397,
+      "value": {
+        "options": {
+          "ক": "[math]0, \\infty[/math]",
+          "খ": "[math]\\infty, \\dfrac{\\mathrm{h}}{2}[/math]",
+          "গ": "[math]0, \\dfrac{\\mathrm{h}}{2}[/math]",
+          "ঘ": "[math]\\infty, 0[/math]",
+          "ঙ": "[math]\\dfrac{\\rm{h}}{2}, 0[/math]"
+        },
+        "question": "একটি ইলেক্ট্রনের অবস্থানের অনিশ্চয়তা [math]{x}[/math] এবং ভরবেগের অনিশ্চয়তা [math]{p}[/math]। [math]\\text { (i) } \\Delta \\rm{x}=0[/math] হলে [math]\\Delta p=?\\ \\text{(ii) } \\Delta x=\\infty[/math] হলে [math]p=?[/math]",
+        "solution": "Solve : অবস্থানের অনিশ্চয়তা শূন্য হলে ভরবেগের অনিশ্চয়তা অসীম এবং অবস্থানের অনিশ্চয়তা অসীম হলে ভরবেগের অনিশ্চয়তা শুন্য।",
+        "explanation": "হাইজেনবার্গের অনিশ্চয়তা নীতি অনুসারে আমরা জানি, [math]\\Delta \\mathrm{x} \\Delta \\mathrm{p} \\geq \\frac{h}{2}[/math]\u003Cbr\u003E [math]\\Delta \\mathrm{x}[/math]\u003Cbr\u003E অবস্থানের অনিশ্চয়তা, [math]\\Delta \\mathrm{p}[/math]\u003Cbr\u003E ভরবেগের অনিশ্চয়তাএই নীতি অনুসারে কোন বস্তুর অবস্থান এবং ভরবেগ একই সাথে সঠিক ভাবে নির্ণয় করা সম্ভব নয়।আমরা কোন বস্তুর অবস্থান সম্পর্কে যত নিশ্চিত হব তার ভরবেগ সঠিক ভাবে নিৰ্ণয় তত অনিশ্চিত হয়ে যাবে। কথাটি বিপরীত ক্রমেও সত্য।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 431397,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 431397,
+            "tag_id": 73,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431398,
+      "value": {
+        "options": {
+          "ক": "আইনস্টাইনের ভর-শক্তি সমীকরণ দ্বারা",
+          "খ": "জে. জে থমসনের ইলেকট্রন তত্ত্ব দ্বারা",
+          "গ": "হাইজেনবার্গের অনিশ্চয়তা নীতি দ্বারা",
+          "ঘ": "কুলম্বের সূত্র দ্বারা"
+        },
+        "question": "পরমাণুর নিউক্লিয়াসের ভিতর ইলেকট্রন থাকতে পারে না' এটি ব্যাখ্যা করা যায় —",
+        "solution": "পারমাণবিক নিউক্লিয়াসের ক্ষুদ্র আয়তনের (প্রায় [math]10^{-15}[/math]\u003Cbr\u003E m) মধ্যে ইলেকট্রনকে আবদ্ধ রাখতে হলে, তার ভরবেগ ও অবস্থান নির্ণয়ে হাইজেনবার্গের অনিশ্চয়তা নীতির জন্য একটি নির্দিষ্ট সর্বনিম্ন শক্তি প্রয়োজন হবে। এই ন্যূনতম শক্তি ইলেকট্রনের স্বাভাবিক শক্তি স্তরের চেয়ে অনেক বেশি, যা নিউক্লিয়াসের মধ্যে ইলেকট্রনের উপস্থিতি অসম্ভব করে তোলে। থমসনের তত্ত্ব ইলেকট্রনের আবিষ্কারের সাথে সম্পর্কিত, আইনস্টাইনের ভর-শক্তি সমীকরণ ( [math]E=mc^2[/math]\u003Cbr\u003E ) শক্তি ও ভরের সম্পর্ক ব্যাখ্যা করে এবং কুলম্বের সূত্র বৈদ্যুতিক আধানের মধ্যেকার বল নির্ণয় করে, কিন্তু নিউক্লিয়াসে ইলেকট্রনের অনুপস্থিতি ব্যাখ্যায় সরাসরি প্রযোজ্য নয়।",
+        "explanation": "",
+        "correct_answer": "C. হাইজেনবার্গের অনিশ্চয়তা নীতি দ্বারা"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 431398,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 904,
+          "full_name": "Patuakhali Science And Technology University (A Unit)",
+          "short_name": "PSTU-A",
+          "slug": "pstu-a",
+          "pivot": {
+            "question_bank_id": 431398,
+            "tag_id": 904,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431399,
+      "value": {
+        "options": {
+          "ক": "হাইজেনবার্গ নীতি",
+          "খ": "দ্য ব্রগলির মতবাদ",
+          "গ": "কম্পটন প্রভাব",
+          "ঘ": "ফটো ইলেক্ট্রিক প্রভাব"
+        },
+        "question": "পদার্থ যখন তরঙ্গ রূপে আচরণ করে, তখন অবস্থান ও ভরবেগ সঠিকভাবে নির্ণয় করা যায় না। এটা কী নামে পরিচিত?",
+        "solution": "এই নীতি অনুসারে, যখন কোনো পদার্থ তরঙ্গ আকারে আচরণ করে, তখন তার অবস্থান ও ভরবেগ একই সাথে নির্ভুলভাবে পরিমাপ করা সম্ভব নয়। অন্য বিকল্পগুলি (দ্য ব্রগলির মতবাদ, কম্পটন প্রভাব, ফটোইলেকট্রিক প্রভাব) পদার্থের তরঙ্গধর্ম বা কণাধর্মের বিভিন্ন দিক ব্যাখ্যা করলেও, অবস্থান ও ভরবেগের অনিশ্চয়তাকে সরাসরি এই নীতির মাধ্যমে নির্দিষ্ট করা হয় না।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 431399,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 431399,
+            "tag_id": 57,
+            "year": "16-17",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431400,
+      "value": {
+        "options": {
+          "ক": "দ্যা ব্রগলি",
+          "খ": "হাইজেনবার্গ",
+          "গ": "ম্যাক্সওয়েল",
+          "ঘ": "ম্যাক্সপ্লাঙ্ক"
+        },
+        "question": "কোন বিজ্ঞানীর মতে একটি কণার অবস্থান ও ভরবেগ একই সাথে জানা অসম্ভব?",
+        "solution": "এই নীতিটি হাইজেনবার্গের অনিশ্চয়তা নীতি (Heisenberg's Uncertainty Principle) নামে পরিচিত, যা অনুসারে একটি কণার অবস্থান এবং ভরবেগ একই সাথে সুনির্দিষ্টভাবে পরিমাপ করা সম্ভব নয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 431400,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431401,
+      "value": {
+        "options": {
+          "ক": "শূন্য",
+          "খ": "অসীম",
+          "গ": "সসীম",
+          "ঘ": "[math]\\dfrac{\\mathrm{h}}{\\lambda}[/math]"
+        },
+        "question": "অবস্থানের অনিশ্চয়তা শূন্য হলে ভরবেগের অনিশ্চয়তা হবে—",
+        "solution": "[math]\\Delta \\mathrm{x} \\cdot \\Delta \\mathrm{p} \\geq \\dfrac{\\mathrm{h}}{4 \\pi}, \\Rightarrow, \\Delta \\mathrm{p} \\geq \\dfrac{\\mathrm{h}}{4 \\pi} \\cdot \\dfrac{1}{0} \\therefore \\Delta \\mathrm{p} \\geq \\infty[/math]",
+        "explanation": "",
+        "correct_answer": "B. অসীম"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 431401,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3282,
+          "full_name": "Chittagong City Corporation Premier College, Chottogram",
+          "short_name": "CCCPCC",
+          "slug": "cccpcc",
+          "pivot": {
+            "question_bank_id": 431401,
+            "tag_id": 3282,
+            "year": "2022",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431402,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "হাইজেনবার্গের অনিশ্চয়তার সূত্র হলো—\n\n[math]\\quad\\text { i. } \\quad \\Delta \\mathrm{x} \\Delta \\mathrm{p} \\geq \\frac{\\mathrm{h}}{2 \\pi}[/math] [math]\\quad\\text { ii. } \\quad \\Delta \\mathrm{x} \\Delta \\mathrm{p} \\leq \\frac{\\mathrm{h}}{2 \\pi}[/math] [math]\\quad\\text { iii. } \\quad \\Delta x \\Delta t \\leq \\frac{h}{2 \\pi}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "হাইজেনবার্গের অনিশ্চয়তার সূত্র অনুসারে, কোনো কণার অবস্থান এবং ভরবেগের গুণফলের অনিশ্চয়তা [math]h/2\\pi[/math]\u003Cbr\u003E-এর চেয়ে কম হতে পারে না। তাই [math]\\Delta \\mathrm{x} \\Delta \\mathrm{p} \\geq \\frac{\\mathrm{h}}{2 \\pi}[/math]\u003Cbr\u003E সঠিক। অবস্থান এবং সময়ের মধ্যে অনিশ্চয়তার সম্পর্ক এই সূত্রের অন্তর্ভুক্ত নয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 431402,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3452,
+          "full_name": "Dinajpur Govt. College",
+          "short_name": "DGC",
+          "slug": "dgc",
+          "pivot": {
+            "question_bank_id": 431402,
+            "tag_id": 3452,
+            "year": "2022",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431403,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিউক্লিয়াসের অভ্যন্তরে ইলেকট্রন থাকতে পারে না কারণ—\n\n[math]\\quad[/math]i. ইলেকট্রনের শক্তি [math]\\text {4 MeV }[/math] এর অধিক হয় না\n\n[math]\\quad[/math]ii. ইলেকট্রনের শক্তি [math]\\text {37.6 MeV }[/math] হতে হবে\n\n[math]\\quad[/math]iii. ইলেকট্রনের অবস্থানের অনিশ্চয়তা [math]2 \\times 10^{-14}[/math] এর অধিক হবে না\n\nনিচের কোনটি সঠিক?",
+        "solution": "হাইজেনবার্গের অনিশ্চয়তা নীতি অনুসারে, যদি কোনো ইলেকট্রন নিউক্লিয়াসের অভ্যন্তরে থাকে, তবে তার অবস্থানের অনিশ্চয়তা ( [math]\\Delta x[/math]\u003Cbr\u003E) নিউক্লিয়াসের ব্যাসার্ধের চেয়ে কম হবে, যা প্রায় [math]10^{-15} \\text{ m}[/math]\u003Cbr\u003E। এই নীতি অনুযায়ী, ভরবেগের অনিশ্চয়তা ( [math]\\Delta p[/math]\u003Cbr\u003E) হবে [math]\\Delta x \\ge \\frac{\\hbar}{2\\Delta p}[/math]\u003Cbr\u003E। যদি [math]\\Delta x \\approx 10^{-15} \\text{ m}[/math]\u003Cbr\u003E হয়, তাহলে [math]\\Delta p \\approx \\frac{1.05 \\times 10^{-34} \\text{ J s}}{2 \\times 10^{-15} \\text{ m}} \\approx 5.25 \\times 10^{-20} \\text{ kg m/s}[/math]\u003Cbr\u003E। এই ভরবেগের কারণে ইলেকট্রনের গতিশক্তি [math]K = \\frac{p^2}{2m}[/math]\u003Cbr\u003E হবে, যেখানে [math]m[/math]\u003Cbr\u003E ইলেকট্রনের ভর ( [math]9.11 \\times 10^{-31} \\text{ kg}[/math]\u003Cbr\u003E)। [math]p \\approx \\Delta p[/math]\u003Cbr\u003E ধরা হলে, [math]K \\approx \\frac{(5.25 \\times 10^{-20})^2}{2 \\times 9.11 \\times 10^{-31}} \\approx 1.5 \\times 10^{-9} \\text{ J} \\approx 9.4 \\text{ MeV}[/math]\u003Cbr\u003E। যেহেতু এই শক্তি [math]\\text{4 MeV }[/math]\u003Cbr\u003E এর কম নয় এবং একটি নির্দিষ্ট মানের (যেমন [math]\\text{37.6 MeV }[/math]\u003Cbr\u003E) চেয়ে বেশি বা কম হতে পারে, তাই অপশন (ii) সঠিক নয়। তবে, ইলেকট্রনের অবস্থানের অনিশ্চয়তা [math]2 \\times 10^{-14}[/math]\u003Cbr\u003E এর অধিক হবে না, কারণ নিউক্লিয়াসের ব্যাসার্ধ এর চেয়ে কম। এই শর্তের সাথে সামঞ্জস্য রেখে একটি নির্দিষ্ট বেগের ইলেকট্রন নিউক্লিয়াসের মধ্যে থাকতে পারবে। অপশন (i) এবং (iii) সঠিক কারণ ইলেকট্রনের স্বাভাবিক শক্তি সীমা এবং নিউক্লিয়াসের আকারের সাপেক্ষে তার অবস্থানের অনিশ্চয়তা বিবেচনা করলে দেখা যায় যে ইলেকট্রন নিউক্লিয়াসের মধ্যে থাকতে পারে না।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 431403,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 344,
+          "full_name": "Ideal School & College, Motijheel, Dhaka",
+          "short_name": "ISCM",
+          "slug": "iscm",
+          "pivot": {
+            "question_bank_id": 431403,
+            "tag_id": 344,
+            "year": "2022",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431404,
+      "value": {
+        "options": [],
+        "question": "একটি ইলেকট্রনের বেগ [math]3 \\times 10^{2} \\ ms^{-1}[/math] এবং এর অনিশ্চয়তা হলো [math]0.01 \\%[/math]। ইলেকট্রনের অবস্থান নির্ণয়ের অনিশ্চয়তা কত?",
+        "solution": "[math]0.00193 \\ m[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,ইলেকট্রনের বেগ, [math]v=3 \\times 10^{2}ms^{-1}[/math]\u003Cbr\u003Eইলেকট্রনের ভর, [math]m=9.1 \\times 10^{-31}kg[/math]\u003Cbr\u003Eভরবেগের অনিশ্চয়তা, [math]=0.1 \\% = 0.0001[/math]\u003Cbr\u003Eপ্ল্যাংক ধ্রুবক, [math]h=6.63 \\times 10^{-34}[/math]\u003Cbr\u003Eঅবস্থান নির্ণয়ের অনিশ্চয়তা, [math]\\Delta x=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,ভরবেগ, [math]p=mv[/math]\u003Cbr\u003E [math]\\begin{array}{l} =\\left(9.1 \\times 10^{-31} \\mathrm{~kg}\\right) \\times\\left(3 \\times 10^{2} \\mathrm{~ms}^{-1}\\right) \\\\ =2.73 \\times 10^{-28} \\mathrm{~kg} \\mathrm{~ms} \\end{array}[/math]\u003Cbr\u003Eভরবেগের অনিশ্চয়তা,[math]\\frac{\\Delta \\mathrm{p}}{\\mathrm{p}}=0.0001[/math]\u003Cbr\u003E [math]\\therefore \\Delta \\mathrm{p}=0.0001 \\times \\mathrm{p}=2.73 \\times 10^{-32} \\mathrm{~kg} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eআমরা জানি,নূনতম অনিশ্চয়তার বেলায়, [math]\\Delta \\mathrm{x} . \\Delta \\mathrm{p}=\\frac{\\hbar}{2}=\\frac{\\mathrm{h}}{4 \\pi}[/math]\u003Cbr\u003E [math]\\begin{aligned} \\therefore \\Delta \\mathrm{x}=\\frac{\\mathrm{h}}{4 \\pi \\times \\Delta \\mathrm{p}} & =\\frac{6.63 \\times 10^{-34} \\mathrm{Js}}{4 \\pi \\times\\left(2.73 \\times 10^{-32} \\mathrm{~kg} \\cdot \\mathrm{ms}^{-1}\\right)} \\\\ & =0.00193 \\mathrm{~m}(\\text { Ans. }) \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ইলেকট্রনের বেগের অনিশ্চয়তা প্রথমে নির্ণয় করি: [math]Δv=0.0001\\times3\\times10^{2}=3\\times10^{-2}\\ \\mathrm{m/s}[/math]. হেইনজেনবের্গ অনিশ্চয়তা সূত্র দিয়ে [math]Δx\\gtrsim\\frac{\\hbar}{2mΔv}[/math], যেখানে [math]\\hbar=1.055\\times10^{-34}\\ \\mathrm{J\\,s}[/math] এবং [math]m=9.11\\times10^{-31}\\ \\mathrm{kg}[/math]; তাই [math]Δx\\approx\\frac{1.055\\times10^{-34}}{2\\times9.11\\times10^{-31}\\times3\\times10^{-2}}\\approx1.9\\times10^{-3}\\ \\mathrm{m}[/math]. অতএব অবস্থানের অনিশ্চয়তা প্রায় [math]1.9\\times10^{-3}\\ \\mathrm{m}[/math] (প্রায় 1.9 mm)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 431404,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431405,
+      "value": {
+        "options": [],
+        "question": "একটি ইলেকট্রনের অবস্থানের অনিশ্চয়তা [math]0.5 \\times 10^{-10}m[/math] এর ভরবেগের অনিশ্চয়তা ক ত?",
+        "solution": "[math]1.055 \\times 10^{-24}kg \\ ms^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,[math]\\begin{array}{l} \\Delta \\mathrm{x}=0.5 \\times 10^{-10} \\mathrm{~m} \\\\ \\mathrm{~h}=6.63 \\times 10^{-34} \\mathrm{Js} \\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eএকাহ্নে,অবস্থান-ভরবেগের অনিশ্চয়তা,[math]\\begin{array}{c} \\Delta \\mathrm{x} \\Delta \\mathrm{p} \\geq \\frac{\\hbar}{2} \\\\ \\Rightarrow \\Delta \\mathrm{x} \\cdot \\Delta \\mathrm{p}=\\frac{\\mathrm{h}}{4 \\pi} ;\\left[\\hbar=\\frac{\\mathrm{h}}{2 \\pi}\\right] \\end{array}[/math]\u003Cbr\u003E [math]\\begin{aligned} \\Rightarrow \\Delta \\mathrm{p} & =\\frac{\\mathrm{h}}{4 \\pi \\cdot \\Delta \\mathrm{x}} \\\\ & =\\frac{6.63 \\times 10^{-34}}{4 \\pi \\times 0.5 \\times 10^{-10}} \\\\ & =1.055 \\times 10^{-24} \\mathrm{~kg} \\mathrm{~ms}^{-1} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: হাইজেনবার্গ অনিশ্চয়তা সূত্র [math]\\Delta x\\,\\Delta p \\ge \\frac{\\hbar}{2}[/math] প্রয়োগ করলে [math]\\Delta p \\ge \\frac{\\hbar}{2\\Delta x}[/math]. এখানে [math]\\hbar=1.054\\times10^{-34}\\,\\mathrm{J\\cdot s}[/math] এবং [math]\\Delta x=0.5\\times10^{-10}\\,\\mathrm{m}[/math] হলে [math]\\Delta p \\gtrsim \\frac{1.054\\times10^{-34}}{2\\times0.5\\times10^{-10}}=1.054\\times10^{-24}\\,\\mathrm{kg\\cdot m/s}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 431405,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431406,
+      "value": {
+        "options": [],
+        "question": "একটি পারমাণবিক নিউক্লিয়াসের ব্যাসার্ধ [math]5 \\times 10^{-15}m[/math] | নিউক্লিয়াসটির ভরবেগের অনি শ্চয়তা নির্ণয় কর।",
+        "solution": "[math]5.273 \\times 10^{-21}kgms^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,নিউক্লিয়াসের অবস্থানের অনিশ্চয়তা,[math]\\begin{aligned} \\Delta \\mathrm{x} & =2 \\mathrm{r} \\\\ & =2 \\times 5 \\times 10^{-15} \\mathrm{~m} \\\\ & =10 \\times 10^{-15} \\mathrm{~m} \\end{aligned}[/math]\u003Cbr\u003Eভরবেগের অনিশ্চয়তা, [math]\\Delta \\mathrm{p}=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\Delta x \\Delta p = \\frac{\\hbar}{2}[/math]\u003Cbr\u003E[ন্যূনতম মান][math]\\begin{array}{l} =\\frac{1.0546 \\times 10^{-34} \\mathrm{~J} . \\mathrm{s}}{2} \\\\ =5.273 \\times 10^{-35} \\mathrm{~J} . \\mathrm{s} \\end{array}[/math]\u003Cbr\u003E [math]\\begin{aligned} \\therefore \\Delta p=\\frac{5.273 \\times 10^{-35} \\mathrm{~J} . \\mathrm{s}}{\\Delta x} & =\\frac{5.273 \\times 10^{-35} \\mathrm{~J} . \\mathrm{s}}{10 \\times 10^{-15} \\mathrm{~m}} \\\\ & =5.273 \\times 10^{-21} \\mathrm{kgms}^{-1} \\end{aligned}[/math]\u003Cbr\u003Eসুতরাং, ভরবেগের নির্ণেয় অনিশ্চয়তা [math]5.273 \\times 10^{-21} \\ kgms^{-1}[/math]\u003Cbr\u003E অথবা তদপেক্ষা বেশি। [math](Ans.)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: নিউক্লিয়াসের অবস্থান অনিশ্চয়তা ধরে নিলে [math]\\Delta x\\approx5\\times10^{-15}\\,\\text{m}[/math] হাইজেনবার্গ অনিশ্চয়তা নীতিতে [math]\\Delta x\\,\\Delta p\\gtrsim\\hbar/2[/math] তাই [math]\\Delta p\\gtrsim\\hbar/(2\\Delta x)[/math]. সংখ্যাগতভাবে [math]\\hbar\\approx1.055\\times10^{-34}\\,\\mathrm{J\\,s}[/math] হওয়ায় [math]\\Delta p\\gtrsim\\frac{1.055\\times10^{-34}}{2\\times5\\times10^{-15}}\\approx1.06\\times10^{-20}\\,\\mathrm{kg\\cdot m/s}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 431406,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431407,
+      "value": {
+        "options": [],
+        "question": "[math]1 \\ keV[/math] একটি ইলেকট্রনের অবস্থান ও ভরবেগ একই সাথে নির্ণয় করা হলো। যদি অবস্থান [math]1[/math] Å এর মধ্যে নির্ধারিত হয় তবে ভরবেগের অনিশ্চয়তার শতকরা হার নির্ণয় কর।",
+        "solution": "[math]3.09 \\%[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eইলেকট্রনের বেগ [math]v[/math]\u003Cbr\u003E হলে , [math]\\frac{1}{2} \\mathrm{mv}^{2}=1 \\mathrm{keV}=1.6 \\times 10^{-16} \\mathrm{~J}[/math]\u003Cbr\u003E [math]\\Rightarrow \\begin{aligned} \\mathrm{v}=\\sqrt{\\frac{1.6 \\times 10^{-16} \\mathrm{~J} \\times 2}{\\mathrm{~m}}} & =\\sqrt{\\frac{2 \\times 1.6 \\times 10^{-16} \\mathrm{~J}}{9.1 \\times 10^{-31} \\mathrm{~kg}}} \\\\ & =1.875 \\times 10^{7} \\mathrm{~ms}^{-1} \\end{aligned}[/math]\u003Cbr\u003Eইলেকট্রনের অবস্থানের অনিশ্চয়তা, [math]\\Delta \\mathrm{x}=10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003Eএর ভরবেগের অনিশ্চয়তা [math]\\Delta p[/math]\u003Cbr\u003E হলে, [math]\\Delta \\mathrm{p} \\Delta \\mathrm{x}=\\frac{\\hbar}{2}[/math]\u003Cbr\u003E [ন্যূনতম মান][math]\\therefore \\quad \\Delta \\mathrm{p}=\\frac{1.0546 \\times 10^{-34} \\mathrm{~J} . \\mathrm{s}}{2 \\times 10^{-10} \\mathrm{~m}}=5.273 \\times 10^{-25} \\mathrm{kgms}^{-1}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ভরবেগের অনিশ্চয়তার হার[math]\\begin{array}{l} =\\frac{\\Delta p}{p}=\\frac{\\Delta p}{m v}=\\frac{5273 \\times 10^{-2}}{9.1 \\times 10^{-31} \\times 1.875 \\times 10^{7}} \\\\ =0.0309=3.09 \\%(\\mathrm{Ans} .) \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: হাইজেনবերգ অনিশ্চয়তা সূত্র অনুযায়ী [math]\\Delta x\\,\\Delta p \\gtrsim \\hbar/2[/math], তাই [math]\\Delta p \\approx \\hbar/(2\\Delta x)[/math]. 1 keV ইলেকট্রনের জন্য অ-আপেক্ষিক গতি ধরে নেওয়া হলে [math]p=\\sqrt{2mE}[/math] এবং আপেক্ষিক ভরবেগ অনিশ্চয়তা [math]\\Delta v/v=\\Delta p/p[/math]। সংখ্যাগতভাবে [math]\\Delta x=10^{-10}\\,\\text{m},\\ E=1.602\\times10^{-16}\\,\\text{J}[/math] হলে [math]p\\approx1.71\\times10^{-23}\\,\\text{kg·m/s},\\ \\Delta p\\approx\\hbar/(2\\Delta x)\\approx5.28\\times10^{-25}\\,\\text{kg·m/s}[/math], ফলে [math]\\Delta v/v\\approx5.28\\times10^{-25}/1.71\\times10^{-23}\\approx0.0309\\approx3.1\\%[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 431407,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431408,
+      "value": {
+        "options": [],
+        "question": "x-অক্ষ বরাবর গতিশীল ইলেকট্রনের y-অক্ষ বরাবর অবস্থানের অনিশ্চয়তা কীরূপ হবে— ব্যাখ্যা করো ।",
+        "solution": "x অক্ষ বরাবর গতিশীল ইলেকট্রনের y- অক্ষ বরাবর অবস্থানের অনিশ্চয়তা হবে অসীম।কেননা, x অক্ষ বরাবর ইলেকট্রন গতিশীল হলে y অক্ষ বরাবর . ইলেকট্রনের ভরবেগের অনিশ্চয়তা, [math]\\Delta \\mathrm{Py}=0[/math]\u003Cbr\u003E এখন, y অক্ষ বরাবর ইলেকট্রনটির অবস্থানের অনিশ্চয়তা [math]\\Delta \\mathrm{Y}[/math]\u003Cbr\u003E হলে,[math]\\begin{array}{l}{\\Delta y} \\times \\Delta \\mathrm{Py} \\geq \\frac{\\hbar}{2} \\\\\\therefore \\Delta \\mathrm{y} \\geq \\frac{\\hbar}{2} \\times \\frac{1}{\\Delta \\mathrm{P}_{\\mathrm{y}}}\\end{array}[/math]\u003Cbr\u003Eযেহেতু [math]\\Delta \\mathrm{P}_{\\mathrm{y}}=0[/math]\u003Cbr\u003E; সেহেতু [math]\\Delta_{\\mathrm{Y}}=\\infty[/math]\u003Cbr\u003E হবে।",
+        "explanation": "যদি ইলেকট্রনটি কেবল x-অক্ষ বরাবর চলে, তার তরঙ্গফাংশে y-নির্ভরতা থাকে না (y-দিকটি সমান), ফলে y-অক্ষে অবস্থান অনির্ধারিতভাবে বিস্তৃত থাকে। Heisenberg অনিশ্চয়তা সূত্র [math]Δy\\,Δp_y\\ge\\hbar/2[/math] অনুসারে, যদি y-মোমেন্টাম নির্দিষ্ট (উদাহরণস্বরূপ [math]Δp_y=0[/math]) থাকে তবে [math]Δy\\to\\infty[/math] (অসীম)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 431408,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 431408,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6334&grade=1&lesson=6703&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6334&grade=1&lesson=6703&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6334&grade=1&lesson=6703&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 14,
+  "total": 14
+}

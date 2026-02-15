@@ -1,0 +1,3903 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 430095,
+      "value": {
+        "options": {
+          "ক": "প্রতিসরণ",
+          "খ": "অপবর্তন",
+          "গ": "সমবর্তন",
+          "ঘ": "ব্যতিচার"
+        },
+        "question": "আলোক তরঙ্গের তির্যক প্রকৃতি জানা যায় যে প্রক্রিয়ায় তা হল—",
+        "solution": "আলোর সমবর্তন (polarization) প্রক্রিয়ার মাধ্যমে আলোক তরঙ্গের তির্যক (transverse) প্রকৃতি জানা যায়। প্রতিসরণ (refraction), অপবর্তন (diffraction) এবং ব্যতিচার (interference) তরঙ্গের তরঙ্গদৈর্ঘ্য, বিস্তার এবং দশার ওপর নির্ভরশীল কিন্তু তির্যক প্রকৃতি সরাসরি প্রমাণ করে না।",
+        "explanation": "",
+        "correct_answer": "B. অপবর্তন"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430095,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430095,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430095,
+            "tag_id": 5,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430080,
+      "value": {
+        "options": [],
+        "question": "কোনো একটি মাধ্যমের প্রতিসরাঙ্ক [math]\\sqrt{3}[/math]। একটি আলো ওই মাধ্যমে সমবর্তন কোণে আপতিত হলে প্রতিসরণ কোণ কত?",
+        "solution": "[math]30^{\\circ}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,প্রতিসরাঙ্ক, [math]\\mu = \\sqrt{3}[/math]\u003Cbr\u003Eসমবর্তন কোণ, [math]=i_{p}[/math]\u003Cbr\u003Eপ্রতিসরণ কোণ, [math]r=?[/math]\u003Cbr\u003Eএক্ষেত্রে,আপতন কোণ, [math]i=i_{p}=60^{\\circ}[/math]\u003Cbr\u003Eপ্রতিসরাঙ্ক, [math]\\mu = \\sqrt{3}[/math]\u003Cbr\u003Eপ্রতিসরণ কোণ, [math]r=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} \\quad \\tan i_{p}=\\mu \\\\ \\Rightarrow i_{p}=\\tan ^{-1}(\\mu)=\\tan ^{-1}(\\sqrt{3}) \\\\ \\Rightarrow i_{p}=60^{\\circ} \\end{array}[/math]\u003Cbr\u003Eএখন, [math]\\mu=\\frac{\\sin i}{\\sin r}[/math]\u003Cbr\u003E [math]\\begin{array}{l} \\begin{array}{l} \\Rightarrow \\sin \\mathrm{r}=\\frac{\\sin \\mathrm{i}}{\\mu} \\\\ \\quad=\\frac{\\sin 60^{\\circ}}{\\sqrt{3}}=\\frac{\\frac{\\sqrt{3}}{2}}{\\sqrt{3}}=\\frac{1}{2} \\end{array} \\\\ \\therefore r=\\sin ^{-1}\\left(\\frac{1}{2}\\right)=30^{\\circ} \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমবর্তন কোণে প্রতিসরণরশ্মি সীমান্ত বরাবর গমন করে, তাই প্রতিসরণ কোণ [math]90^\\circ[/math]। Snell-এর সূত্রে [math]n_1\\sin\\theta_c=n_2\\sin 90^\\circ[/math] (এখানে [math]n_1=\\sqrt{3}[/math], সাধারণত [math]n_2=1[/math]) — ফলে প্রতিসরণ কোণ সর্বদা [math]90^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430080,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430081,
+      "value": {
+        "options": [],
+        "question": "অসমবর্তিত আলো কাচের প্লেটের ওপর আপতিত হলো। আপতন কোণ কত হলে প্রতিফলি রশ্মি এ বং প্রতিসৃত রশ্মি পরস্পরের সমকোণে থাকবে?",
+        "solution": "[math]56.31^{\\circ}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,কাচের প্রতিসরাঙ্ক, [math]\\mu = \\frac{3}{2}[/math]\u003Cbr\u003Eপ্রতিসরণ কোণ, [math]=r[/math]\u003Cbr\u003Eআপতন কোণ, [math]i=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eপ্রতিফলিত রশ্মি ও প্রতিসৃত পরস্পরের সমকোণে থাকবে,[math]\\begin{array}{l} i+r=90^{\\circ} \\\\ \\Rightarrow r=90-i \\\\ \\Rightarrow \\sin r=\\sin (90-i)=\\cos i \\end{array}[/math]\u003Cbr\u003E [math]\\begin{array}{l} \\Rightarrow \\frac{1}{\\sin r}=\\frac{1}{\\cos i} \\\\ \\Rightarrow \\frac{\\sin i}{\\sin r}=\\frac{\\sin i}{\\cos i} \\\\ \\Rightarrow \\mu=\\tan \\mathrm{i}\\left[\\because \\mu=\\frac{\\sin i}{\\sin r}\\right] \\\\ \\Rightarrow \\tan \\mathrm{i}=\\frac{3}{2} \\\\ \\therefore \\mathrm{i}=\\tan ^{-1}\\left(\\frac{3}{2}\\right)=56.31^{\\circ} \\end{array}[/math]\u003Cbr\u003Eসুতরাং আপতন কোণ [math]i = 56.31^{\\circ} \\ (Ans.)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতিফলিত কোণ ও প্রতিসৃত কোণকে যথাক্রমে [math]i[/math] ও [math]r[/math] ধরলে সমকোণে থাকার শর্ত হলো [math]i+r=90^\\circ[/math]। স্নেলের সূত্র অনুযায়ী [math]\\sin i = n\\sin r[/math] এবং [math]r=90^\\circ-i[/math] বসালে হয় [math]\\sin i = n\\cos i[/math], ফলে [math]\\tan i = n[/math] এবং তাই [math]i=\\arctan n[/math] (Brewster কোণ)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430081,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430082,
+      "value": {
+        "options": [],
+        "question": "আলোর সমবর্তন কাকে বলে?",
+        "solution": "যে প্রক্রিয়ায় বিভিন্ন তলে কম্পমান আলোকে একটি নির্দিষ্ট তল বরাবর কম্পমান করা যায় সেই প্রক্রিয়াই হলো আলোর সমবর্তন।",
+        "explanation": "আলোর সমবর্তন হলো—আলো অভিন্ন মাধ্যমের মধ্যে বাধা না থাকলে সরলরেখায় চলে যাওয়া। কারণ আলোর রশ্মিগুলো সেই অবস্থায় দিক পরিবর্তন করে না, তাই তীক্ষ্ণ ছায়া ও পিনহোল ক্যামেরার মতো সরলরেখার আচরণ দেখা দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430082,
+            "year_id": 5
+          }
+        },
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430082,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430082,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430082,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 430082,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430082,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430083,
+      "value": {
+        "options": [],
+        "question": "আলোর সমবর্তন কি?",
+        "solution": "যে প্রক্রিয়ায় বিভিন্ন তলে কম্পমান আলোক তরঙ্গকে একটি নির্দিষ্ট তল বরাবর কম্পনক্ষম করা যায় তাকে আলোর সমবর্তন বা পোলারায়ন বলে।",
+        "explanation": "আলোর সমবর্তন হল দুটি বা ততাধিক আলোর তরঙ্গ একই স্থানে একযোগে মিলিত হয়ে তাদের অ্যামপ্লিটিউড ভেক্টরীয়ভাবে যোগ করার ঘটনা, ফলে নির্মাণাত্মক বা ধ্বংসাত্মক হস্তক্ষেপ ঘটে এবং তীব্রতা বৃদ্ধি বা হ্রাস পায়। স্থায়ী ও স্পষ্ট হস্তক্ষেপ দেখার জন্য তরঙ্গগুলির ধাপগত সম্পর্ক (coherence) থাকতে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 430083,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 430083,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430083,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430083,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430083,
+            "question_bank_institution_id": 238
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430083,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 430083,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430083,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430083,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430084,
+      "value": {
+        "options": [],
+        "question": "অনুদৈর্ঘ্য তরঙ্গের সমবর্তন হয় না কেন? ব্যাখ্যা কর।",
+        "solution": "সমবর্তন হয় অনুপ্রস্থ তরঙ্গের। কেননা এ ক্ষেত্রে তরঙ্গ সৃষ্টিকারী কণার সরণ হয় তরঙ্গের সরণের সাথে লম্ব বরাবর এবং তরঙ্গরেখার “চারদিকে। ফলে সমাবর্তকের মাঝ দিয়ে তরঙ্গ যাওয়ার সময় সমাবর্তক এক দিক\" ব্যতীত অন্য দিকের সবগুলো কম্পনকে নাকচ করে দিয়ে তরঙ্গের কম্পনকে এক তলে নিয়ে আসে। কিন্তু অনুদৈর্ঘ্য তরঙ্গের ক্ষেত্রে কণার বেগ এবং তরঙ্গের বেগ একই দিক বরাবর। ফলে কণার বেগ বাধাপ্রাপ্ত হলে সম্পূর্ণ তরঙ্গ বাধাপ্রাপ্ত হবে এবং থেমে যাবে। তাই অনুদৈর্ঘ্য তরঙ্গকে সমবর্তিত করা যায় না।",
+        "explanation": "ব্যাখ্যা: পোলারাইজেশন মানে তরঙ্গের দোলনের দিককে একটি নির্দিষ্ট সমতলে সীমাবদ্ধ করা, যা কেবল তখনই সম্ভব যখন কণাগুলো তরঙ্গপ্রসারণের লম্বে নয় বরং পার্শ্বমুখী (transverse)ভাবে দোলে। অনুদৈর্ঘ্য তরঙ্গে কণাগুলো সদ্যই তরঙ্গপ্রসারণের দিকেই দোলে এবং কোনো পার্শ্বমুখী উপাদান থাকে না, তাই সেগুলোকে পোলারাইজ করা যায় না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 430084,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 430084,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430084,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430084,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430084,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430084,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 430084,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430084,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430084,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430085,
+      "value": {
+        "options": [],
+        "question": "অনুদৈর্ঘ্য তরঙ্গ সমবর্তীত হয় না কেন? ব্যাখ্যা কর।",
+        "solution": "সমবর্তন হয় অনুপ্রস্থ তরঙ্গের। কেননা এক্ষেত্রে তরঙ্গ সৃষ্টিকারী কণার সরণ হয় তরঙ্গের সরণের সাথে লম্ব বরাবর এবং তরঙ্গরেখার চারদিকে। ফলে সমাবর্তকের মাঝ দিয়ে তরঙ্গ যাওয়ার সময় সমাবর্তক এক দিক ব্যতীত অন্য দিকের সবগুলো কম্পনকে নাকচ করে দিয়ে তরঙ্গের কম্পনকে এক তলে নিয়ে আসে। কিন্তু অনুদৈর্ঘ্য তরঙ্গের ক্ষেত্রে কণার বেগ এবং তরঙ্গের বেগ একই দিক বরাবর। ফলে কণার বেগ বাধাপ্রাপ্ত হলে সম্পূর্ণ তরঙ্গ বাধাপ্রাপ্ত হবে এবং থেমে যাবে। তাই অনুদৈর্ঘ্য তরঙ্গকে সমবর্তিত করা যায় না।",
+        "explanation": "ব্যাখ্যা: অনুদৈর্ঘ্য তরঙ্গে কণাগুলো তরঙ্গ গমনদিশার সমান্তরালে কম্পন করে, ফলে কম্পনের দিক পরিবর্তন করে তরঙ্গকে কোনো নির্দিষ্ট দিকেই সীমাবদ্ধ করা যায় না; পোলারাইজেশন হল ট্রান্সভার্সাল তরঙ্গে কম্পনের দিককে নির্দিষ্ট করা, তাই অনুদৈর্ঘ্য তরঙ্গ পোলারাইজড করা যায় না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 430085,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 430085,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430085,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430085,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430085,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        },
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 430085,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430086,
+      "value": {
+        "options": [],
+        "question": "কাঁচের সমবর্তন কোণ 57° বলতে কী বুঝায়?",
+        "solution": "কাচের সমবর্তন কোণ 57° বলতে বুঝায়, আলোক রশ্মি কাচে 57° কোণে আপতিত হলে প্রতিফলিত রশ্মি সমবর্তীত হবে।",
+        "explanation": "কাঁচের সমবর্তন কোণ [math]57^\\circ[/math] বলতে বোঝায় যে গ্লাসের ভেতর থেকে নর্মালের সাথে [math]57^\\circ[/math] কোণে আলো পড়লে প্রতিসরণ কোণ [math]90^\\circ[/math] হয়ে তির্যকভাবে(interface) ছড়ায়। যদি অভিক্ষেপণ কোণ [math]\\theta\u003E57^\\circ[/math] হয়, তবেই আলো সম্পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটে এবং বাতাসে প্রতিসরণ হয় না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430086,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430086,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 430086,
+            "tag_id": 236,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430087,
+      "value": {
+        "options": [],
+        "question": "সমবর্তিত আলোকে ঘূর্ণায়মান সমবর্তন দিয়ে পর্যবেক্ষণ করা হলে আলোর তীব্রতার হ্রাসবৃদ্ধি ঘটে কে ন? ব্যাখ্যা করো।",
+        "solution": "টুরমালিন কেলাস হলো এক ধরনের সমবর্তন বিশ্লেষক। আমরা জানি, কোনো সমাবর্তকের মধ্য দিয়ে সমবর্তিত আলো অতিক্রম করলে নির্গত আলোর তীব্রতা [math]I \\propto \\cos ^{2} \\theta[/math]\u003Cbr\u003E অনুযায়ী পরিবর্তিত হয়, যেখানে [math]\\theta[/math]\u003Cbr\u003E = সমবর্তিত আলোর তল ও সমাবর্তক এর সমবর্তন অক্ষ এর মধ্যবর্তী কোণ। যেহেতু টুরমালিন কেলাসটি ঘুরালে টুরমালিনের সমবর্তন অক্ষ এবং আলোর তলের মধ্যবর্তী কোণ পরিবর্তিত হতে থাকে। তাই আলোর তীব্রতা পরিবর্তিত হতে থাকে।",
+        "explanation": "হ্যাঁ — ঘূর্ণায়মান সমবর্তন দিলে আলোর তীব্রতা কোণের সঙ্গে পরিবর্তিত হয়; মলাসের সূত্র অনুযায়ী তীব্রতা [math]I=I_0\\cos^2\\theta[/math], যেখানে [math]\\theta[/math] হলো পোলারাইজারের সাথে বিশ্লেষকের কোণ। কারণ বিশ্লেষক শুধুমাত্র ক্ষেত্রের সেই উপাদানটিই উত্তরণ করে যা তার অক্ষে থাকে (ক্ষেত্রের মান হয় [math]E\\cos\\theta[/math]) এবং তীব্রতা ক্ষেত্রের বর্গের অনুপাতে নির্ণয় করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430087,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430087,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430087,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430088,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{1}{\\sqrt{2}}[/math]",
+          "খ": "[math]\\frac{1}{2}[/math]",
+          "গ": "[math]\\sqrt{2}[/math]",
+          "ঘ": "[math]\\sqrt{3}[/math]"
+        },
+        "question": "সমবর্তন কোণ 60° হলে ঐ মাধ্যমের প্রতিসরাংক-",
+        "solution": "• প্রতিসরাংক, [math]\\mu=\\tan \\theta[/math]\u003Cbr\u003E [math]=\\tan 60^{\\circ}=\\sqrt{3}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430088,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430088,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 430088,
+            "tag_id": 236,
+            "year": "2024",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430089,
+      "value": {
+        "options": {
+          "ক": "[math]33.34^{\\circ}[/math]",
+          "খ": "[math]41.13^{\\circ}[/math]",
+          "গ": "[math]48.13^{\\circ}[/math]",
+          "ঘ": "[math]56.65^{\\circ}[/math]"
+        },
+        "question": "কাচের প্রতিসরাঙ্ক 1.52। বায়ু সাপেক্ষে কাচের সমবর্তন কোণ কত?",
+        "solution": "• [math]\\mu=\\tan \\theta[/math]\u003Cbr\u003E বা, সমবর্তন কোণ, [math]\\theta=\\tan ^{-1} \\mu=\\tan ^{-1}(1.52)=[/math]\u003Cbr\u003E [math]56.65^{\\circ}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430089,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 430089,
+            "tag_id": 3179,
+            "year": "2024",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430090,
+      "value": {
+        "options": {
+          "ক": "কিউপ্রাইট",
+          "খ": "ক্যালসাইট",
+          "গ": "ফ্যাবুলাইট",
+          "ঘ": "সোডিয়াম ক্লোরাইড"
+        },
+        "question": "আলোর দ্বৈত প্রতিসারক কেলাস হিসাবে ব্যবহৃত হয় কোনটি?",
+        "solution": "• কোয়ার্টজ, ক্যালসাইট, টুর্মালিন হলো সাধারণ দ্বৈত প্রতিসারক ক্যালাস।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 430090,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430090,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 430090,
+            "tag_id": 7,
+            "year": "2024",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430091,
+      "value": {
+        "options": {
+          "ক": "ব্যতিচার",
+          "খ": "অপবর্তন",
+          "গ": "সমবর্তন",
+          "ঘ": "প্রতিফলন"
+        },
+        "question": "অসমবর্তিত আলোক রশ্মিকে সমবর্তিত আলোক রশ্মিতে রূপান্তর করা সম্ভব কোন প্রক্রিয়ায়?",
+        "solution": "সাধারণ আলোক যার কম্পন গতিপথের লম্ব অভিমূখে চারদিকে সমান বিস্তারে কম্পিত হয় তাকে অসমবর্তিত আলোক বলে। অসমবর্তিত আলোক রশ্নিকে সমবর্তিত আলোক রশ্নিতে রুপান্তর করা সম্ভব সমবর্তন প্রক্রিয়ায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 430091,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430091,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 430091,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430092,
+      "value": {
+        "options": {
+          "ক": "90°",
+          "খ": "53°",
+          "গ": "37°",
+          "ঘ": "26°"
+        },
+        "question": "পানির প্রতিসরাঙ্ক 1.33। পানিতে সমাবর্তন কোণে আলোকরশ্মি আপতিত করলে প্রতিসরণ কোণ হবে -",
+        "solution": "এখানে,পানির প্রতিসরাঙ্ক, [math]\\mu[/math]\u003Cbr\u003E = 1.33সমবর্তন কোণ, [math]i_p[/math]\u003Cbr\u003E = ?প্রতিসরণ কোণ, r = ?আমরা জানি,[math]\\begin{aligned}\\tan i_{p} & =\\mu \\\\\\Rightarrow \\tan i_{p} &=1.33\\\\ i_p = tan^{-1}(1.33)\\\\= 53.06 ^\\circ\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E প্রতিসরণ কোণ ,[math]\\begin{aligned}\\mathrm{r} & =90^{\\circ}-i_{p}\\\\& =90^{\\circ}-53.06^{\\circ} \\\\& =36.94^{\\circ} \\\\& \\approx 37^{\\circ}\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430092,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430092,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 430092,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430093,
+      "value": {
+        "options": {
+          "ক": "1.33",
+          "খ": "1.41",
+          "গ": "1.5",
+          "ঘ": "1.73"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নের উত্তর দাও:\n\nকোনো স্বচ্ছ মাধ্যমের সমবর্তন কোণ 60°।\n\nমাধ্যমটির পরম প্রতিসরাংক কত?",
+        "solution": "এখানে,সমবর্তন কোণ, [math]i_p[/math]\u003Cbr\u003E = 60°পরম প্রতিসরাঙ্ক, [math]\\mu = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned}\\mu & =\\tan i_p \\\\& =\\tan 60^{\\circ} \\\\& =\\sqrt{3} \\\\& =1.73\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430093,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430093,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430094,
+      "value": {
+        "options": {
+          "ক": "30°",
+          "খ": "45°",
+          "গ": "60°",
+          "ঘ": "90°"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নের উত্তর দাও:\n\nপ্রতিসরণ কোণের মান কত?\n\nকোনো স্বচ্ছ মাধ্যমের সমবর্তন কোণ 60°।",
+        "solution": "এখানে ,সমবর্তন কোণ, [math]i_p[/math]\u003Cbr\u003E= 60°প্রতিসরণ কোণ, [math]r = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l} i_{p}+r=90^{\\circ} \\\\\\therefore r=90^{\\circ}-i_{p} \\\\=90^{\\circ}-60^{\\circ}=30^{\\circ}\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430094,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 430094,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430079,
+      "value": {
+        "options": [],
+        "question": "হীরক তল থেকে [math]60^{\\circ}32^{\\prime}[/math] কোণে প্রতিফলিত আলো সম্পূর্ণ সমতল সমবর্তিত হ য়। হীরকের প্ররিসরাঙ্ক নির্ণয় করো।",
+        "solution": "[math]2.42[/math]",
+        "explanation": "ফলাফল কারণ: সম্পূর্ণ সমতল সমবর্তনের জন্য সংকট কোণ [math]c[/math]–এ থাকে [math]\\sin c=\\dfrac{n_{\\text{বাহ্য}}}{n_{\\text{হীরক}}}=\\dfrac{1}{n}[/math] (বিরল বাতাসকে 1 ধরা হয়েছে), সুতরাং [math]n=\\dfrac{1}{\\sin c}[/math]. এখানে [math]c=60^{\\circ}32'[/math], তাই [math]\\sin60^{\\circ}32'\\approx0.870642[/math] এবং [math]n\\approx\\dfrac{1}{0.870642}\\approx1.1483\\ (\\approx1.148)\u003C/math\u003E.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430079,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430096,
+      "value": {
+        "options": {
+          "ক": "ব্যাতিচার",
+          "খ": "অপবর্তন",
+          "গ": "সমবর্তন",
+          "ঘ": "প্রতিসরণ"
+        },
+        "question": "আলোর কম্পনকে একটি নির্দিষ্ট তলে সীমাবদ্ধ করার প্রক্রিয়াকে বলে আলোর—",
+        "solution": "আলোকরশ্মি যখন একটি নির্দিষ্ট তলে সীমাবদ্ধ হয় তখন তাকে আলোর সমবর্তন বলে। ব্যাতিচার হল দুটি আলোক তরঙ্গের উপরিপাতনের ফলে আলোর তীব্রতার যে পরিবর্তন ঘটে। অপবর্তন হল আলোর বাধা বা ছিদ্রের কিনারা ঘেঁষে বেঁকে যাওয়ার ঘটনা। প্রতিসরণ হল আলোকরশ্মি এক মাধ্যম থেকে অন্য মাধ্যমে প্রবেশ করার সময় তার গতির পরিবর্তন।",
+        "explanation": "",
+        "correct_answer": "C. সমবর্তন"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430096,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430096,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 430096,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430097,
+      "value": {
+        "options": {
+          "ক": "অসমবর্তিত আলোর তুলনায় সমবর্তিত আলোর তীব্রতা বৃদ্ধি পাবে",
+          "খ": "সমবর্তিত আলোর কম্পন তল নির্দিষ্ট",
+          "গ": "সমবর্তিত আলোর ক্ষেত্রে [math]\\overrightarrow{\\mathrm{E}} \\| \\overrightarrow{\\mathrm{B}}[/math]",
+          "ঘ": "সমবর্তিত আলোর বেগ ও [math]\\overrightarrow{\\rm{E}}[/math] এর দিক একই"
+        },
+        "question": "সমবর্তিত আলোর ক্ষেত্রে কোনটি সত্য?",
+        "solution": "সমবর্তিত আলোর কম্পন একটি নির্দিষ্ট তলে সীমাবদ্ধ থাকে, যেখানে অসমবর্তিত আলোর ক্ষেত্রে কম্পন সব দিকে হতে পারে। তাই বিকল্প B সঠিক। বিকল্প A ভুল কারণ সমবর্তনের ফলে আলোর তীব্রতা কমে যায়। বিকল্প C তে E ও B ভেক্টর দুটি একে অপরের উপর লম্ব থাকে, একই দিকে নয়। বিকল্প D ভুল কারণ আলোর বেগ এবং E ভেক্টরের দিক একই হলেও, সমবর্তিত আলোর ক্ষেত্রে E ভেক্টরের দিক নির্দিষ্ট থাকে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 430097,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 430097,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 430097,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430098,
+      "value": {
+        "options": {
+          "ক": "অনুদৈর্ঘ্য",
+          "খ": "চলমান",
+          "গ": "অনুগ্রস্থ",
+          "ঘ": "স্থির"
+        },
+        "question": "শব্দ তরঙ্গকে বায়ুতে সমবর্তন করা যায় না কারণ এ ধরনের তরঙ্গ ?",
+        "solution": "লম্বিক/অনুদৈর্ঘ্য তরঙ্গ- শব্দ, বাঁশির সুর, ঢোলের বাড়ির শব্দ। আড়/ অনুপ্রস্থ তরঙ্গের সমবর্তন বা পোলারায়ন ঘটে। আড়/ অনুপ্রস্থ তরঙ্গ- আলোক তরঙ্গ, পানি তরঙ্গ, এক্স-রে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 430098,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 430098,
+            "tag_id": 18,
+            "year": "23-24",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430099,
+      "value": {
+        "options": {
+          "ক": "সমতল সমবর্তিত আলো",
+          "খ": "দ্বৈত প্রতিসরণ",
+          "গ": "সমবর্তিত আলো",
+          "ঘ": "অসমবর্তিত আলো"
+        },
+        "question": "যদি কোন আলোক তরঙ্গের জন্য আলোর গতির অভিমুখের অভিলম্বতলে তরঙ্গজনিত কম্পন সর্বদিকে সমানভাবে সম্পাদিত হয়, তবে তাকে নিম্নের কোনটি বলা হয়?",
+        "solution": "যদি কোন আলোক তলের জন্য আলোর গতির অভিমুখের অভিলম্বতলে তরঙ্গ জনিত কম্পন [math]-[/math]সর্বদিকে সমানভাবে কম্পিত করে তাকে বলে অসমবর্তিত আলোক।একদিকে সমানভাবে কম্পিত হয় তাকে বলে সমবর্তিত আলোক।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 430099,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 430099,
+            "tag_id": 18,
+            "year": "09-10",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430100,
+      "value": {
+        "options": {
+          "ক": "[math]\\vec{E}[/math] এর কম্পনতল নির্দিষ্ট এবং [math]\\vec{B}[/math] থাকে না",
+          "খ": "[math]\\vec{E}[/math] এর কম্পনতল নির্দিষ্ট এবং [math]\\vec{B}[/math] থাকে",
+          "গ": "[math]\\vec{E}[/math] এর কম্পনতল নির্দিষ্ট নয়",
+          "ঘ": "কোনটাই থাকে না"
+        },
+        "question": "সমবর্তিত আলোর ক্ষেত্রে কোনটি সত্য?",
+        "solution": "সমবর্তিত আলোর [math]\\vec{E}[/math]\u003Cbr\u003E একটি নির্দিষ্ট দিক বা এর সমান্তরালে কম্পনরত এবং [math]\\vec{B}[/math]\u003Cbr\u003E থাকে না।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 34,
+          "year": "2002-2003",
+          "pivot": {
+            "question_bank_id": 430100,
+            "year_id": 34
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 430100,
+            "tag_id": 18,
+            "year": "02-03",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430101,
+      "value": {
+        "options": {
+          "ক": "প্রতিফলন",
+          "খ": "প্রতিসরণ",
+          "গ": "ব্যতিচার",
+          "ঘ": "সমবর্তন"
+        },
+        "question": "নীচের কোন বৈশিষ্ট্য বলে দেয় যে আলো একটি অনুপ্রস্থ তরঙ্গ হতে পারে?",
+        "solution": "[math]\\text { Polarisation is a unique property of transverse wave. }[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 430101,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 430101,
+            "tag_id": 80,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430102,
+      "value": {
+        "options": {
+          "ক": "76.5",
+          "খ": "67.9",
+          "গ": "56",
+          "ঘ": "47"
+        },
+        "question": "হীরকের পৃষ্ঠতলে একটি আলোক রশ্মি 60° কোণে আপতিত হয়ে 12° কোণে প্রতিসৃত হলো। হীরকের সমাবর্তন কোণ কত ডিগ্রি?",
+        "solution": "আমরা জানি, [math]\\tan \\theta_{\\mathrm{P}}=\\mu[/math]\u003Cbr\u003E [math]\\Rightarrow \\tan \\theta_{\\mathrm{P}}=\\frac{\\sin \\theta_{1}}{\\sin \\theta_{2}}[/math]\u003Cbr\u003E [math]\\Rightarrow \\tan \\theta_{P}=\\frac{\\sin 60^{\\circ}}{\\sin 12^{\\circ}} \\Rightarrow[/math]\u003Cbr\u003E [math]\\theta_{\\mathrm{P}}=\\tan ^{-1}(4.16)[/math]\u003Cbr\u003E [math]\\therefore \\theta_{p}=76.5^{\\circ}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 430102,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 430102,
+            "tag_id": 119,
+            "year": "23-24",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430103,
+      "value": {
+        "options": {
+          "ক": "বেতার তরঙ্গ",
+          "খ": "মাইক্রো তরঙ্গ",
+          "গ": "শব্দ তরঙ্গ",
+          "ঘ": "দৃশ্যমান আলোক তরঙ্গ"
+        },
+        "question": "কোন তরঙ্গের সমবর্তন সম্ভব নয়?",
+        "solution": "শব্দ হচ্ছে অনুদৈর্ঘ্য যান্ত্রিক তরঙ্গ সাধারণত অনুপ্রস্থ তরঙ্গের সমবর্তন ঘটে। তাই শব্দ তরঙ্গের সমবর্তন হয়না।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 430103,
+            "year_id": 29
+          }
+        },
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 430103,
+            "year_id": 18
+          }
+        },
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430103,
+            "year_id": 12
+          }
+        },
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430103,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 430103,
+            "tag_id": 119,
+            "year": "22-23",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        },
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 430103,
+            "tag_id": 77,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        },
+        {
+          "id": 54,
+          "full_name": "Jessore University of Science & Technology (A Unit)",
+          "short_name": "JUST-A",
+          "slug": "just-a",
+          "pivot": {
+            "question_bank_id": 430103,
+            "tag_id": 54,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        },
+        {
+          "id": 58,
+          "full_name": "University of Rajshahi (A Unit)",
+          "short_name": "RU-A",
+          "slug": "ru-a",
+          "pivot": {
+            "question_bank_id": 430103,
+            "tag_id": 58,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430104,
+      "value": {
+        "options": {
+          "A": "39°",
+          "B": "42°",
+          "C": "43°",
+          "D": "38°"
+        },
+        "question": "A light beam is incident from air on a reflecting surface so that the reflected ray is found to be completely polarized when the angle of incidence is [math]48°[/math]. If some of the incident light (at an angle of [math]48°)[/math] passes into the material below the surface, what is the angle of refraction?",
+        "solution": "[math]r=\\left(90^{\\circ}-48^{\\circ}\\right)=42^{\\circ}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 430104,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 430104,
+            "tag_id": 55,
+            "year": "21-22",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430105,
+      "value": {
+        "options": {
+          "ক": "আলোক",
+          "খ": "পানি",
+          "গ": "বেতার",
+          "ঘ": "শব্দ"
+        },
+        "question": "নিচের কোন তরঙ্গের পোলারায়ন সম্ভব নয়?",
+        "solution": "শব্দের ক্ষেত্রে, এটি একটি অনুদৈর্ঘ্য তরঙ্গ, যার বিস্তার তরঙ্গের গতির দিকেই ঘটে। পোলারাইজেশনের জন্য তরঙ্গের গতিপথের সাথে লম্বভাবে বিস্তার প্রয়োজন, যা অনুদৈর্ঘ্য তরঙ্গের ক্ষেত্রে সম্ভব নয়। আলোক, বেতার এবং পানির তরঙ্গ (উপপৃষ্ঠের তরঙ্গ) তির্যক তরঙ্গ হওয়ায় এদের পোলারাইজেশন সম্ভব।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 430105,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 430105,
+            "tag_id": 77,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430106,
+      "value": {
+        "options": {
+          "ক": "[math]57^\\circ[/math]",
+          "খ": "[math]58^\\circ[/math]",
+          "গ": "[math]53^\\circ[/math]",
+          "ঘ": "[math]56^\\circ[/math]"
+        },
+        "question": "একটি স্বচ্ছ মাধ্যমের প্রতিসরাঙ্ক [math]1.43[/math]; অসমবর্তিত আলো [math]\\theta[/math] কোণে মাধ্যমটির ওপর আপতি হলে প্রতিফলিত আলো সম্পূর্ণ সমবর্তিত হয়। [math]\\theta[/math] কোণের মান কত?",
+        "solution": "[math]\\textbf{Brewster :}[/math]\u003Cbr\u003E এর সূত্র মতে, কোনো স্বচ্ছ ডাই-ইলেক্ট্রিক পদার্থের উপর নির্দিষ্ট কোণে একটি অসমবর্তিত আলো আপতিত হলে, আলোটির কিছু অংশ প্রতিফলিত হয় এবং কিছু অংশ প্রতিসৃত হয় । প্রতিফলিত অংশ সম্পূর্ণ সমবর্তিত এবং প্রতিসৃত অংশ আংশিক সমবর্তিত হয় [math]=[/math]\u003Cbr\u003E এবং ঐ নির্দিষ্ট কোণকে [math]\\text{Brewster Angle}\\ (\\theta_\\rm{B})[/math]\u003Cbr\u003E বলে । ডাই-ইলেক্ট্রিক পদার্থটির ১ম মাধ্যমের সাপেক্ষে আপক্ষিক প্রতিসরণাঙ্ক [math]\\mu[/math]\u003Cbr\u003E হলে। [math]\\tan \\theta_{B}=\\mu \\therefore \\theta_{B}=\\tan ^{-1}(1.43)=55.03^{\\circ}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 430106,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 430106,
+            "tag_id": 73,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430107,
+      "value": {
+        "options": {
+          "ক": "সমবর্তন",
+          "খ": "তাপবর্তন",
+          "গ": "প্রতিসরণ",
+          "ঘ": "ব্যতিচার"
+        },
+        "question": "নিচের কোন ঘটনাটি অনন্যভাবে প্রমাণ করে যে, আলোর তরঙ্গ একটি আড় তরঙ্গ?",
+        "solution": "আলোর সমবর্তন ঘটনাটি ঘটে যখন আলো একটি নির্দিষ্ট তলে কম্পিত হয়, যা প্রমাণ করে যে আলোর তরঙ্গ আড় তরঙ্গ, কারণ অনুপ্রস্থ তরঙ্গের কম্পন তরঙ্গের প্রচারের দিকের সাথে লম্বভাবে হয়। তাপবর্তন, প্রতিসরণ এবং ব্যতিচার উভয় প্রকার তরঙ্গের ক্ষেত্রেই ঘটতে পারে, তাই এগুলো আলোর তরঙ্গ আড় তরঙ্গ হওয়ার অনন্য প্রমাণ দেয় না।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430107,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 430107,
+            "tag_id": 11,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430108,
+      "value": {
+        "options": {
+          "ক": "সোডিয়াম",
+          "খ": "পটাশিয়াম",
+          "গ": "কোয়ার্টজ",
+          "ঘ": "সোনা"
+        },
+        "question": "নিম্নের কোন কেলাসটি দ্বৈত প্রতিসারক কেলাস?",
+        "solution": "এই কেলাসটি কোয়ার্টজ। কোয়ার্টজ একটি সাধারণ দ্বি-প্রতিসারক পদার্থ, যার মানে এটি আলোর একটি রশ্মিকে দুটি ভিন্ন প্রতিসরাঙ্ক সহ দুটি রশ্মিতে বিভক্ত করে। সোডিয়াম, পটাশিয়াম এবং সোনা – এই পদার্থগুলো প্রতিসারক না, বরং এরা তড়িৎ পরিবাহী পদার্থ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 430108,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 904,
+          "full_name": "Patuakhali Science And Technology University (A Unit)",
+          "short_name": "PSTU-A",
+          "slug": "pstu-a",
+          "pivot": {
+            "question_bank_id": 430108,
+            "tag_id": 904,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430109,
+      "value": {
+        "options": {
+          "ক": "রেডিও তরঙ্গ",
+          "খ": "এক্স-রে",
+          "গ": "বায়ুতে শব্দ তরঙ্গ",
+          "ঘ": "অবলোহিত রশ্মি"
+        },
+        "question": "নিচের কোনটিকে পোলারাইজ করা যায় না?",
+        "solution": "শব্দতরঙ্গ অনুদৈর্ঘ্য তরঙ্গ [math]\\rightarrow[/math] একে পোলারাইজ করা যায় না।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 430109,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 430109,
+            "tag_id": 474,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430078,
+      "value": {
+        "options": [],
+        "question": "একটি স্বচ্ছ কেলাসের সংকট কোণ [math]30^{\\circ}[/math]। ওই কেলাসের সমবর্তন কোণ কত?",
+        "solution": "[math]63^{\\circ}26^{\\prime}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,সংকট কোণ, [math]\\theta_{c}=30^{\\circ}[/math]\u003Cbr\u003Eকেলাসের প্রতিসরাঙ্ক [math]=\\mu[/math]\u003Cbr\u003Eকেলাসের সমবর্তন কোণ, [math]i_{p}=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{c} \\mu=\\frac{1}{\\sin \\theta_{c}} \\\\ \\Rightarrow \\mu=\\frac{1}{\\sin 30^{\\circ}}=2 \\end{array}[/math]\u003Cbr\u003Eআবার,[math]\\begin{array}{l}\\mu=\\tan i_{p}\\\\\\Rightarrow \\tan i_{p}=2\\\\\\Rightarrow i_{p}=\\tan ^{-1} \\text{ (2)}\\\\\\therefore \\mathrm{i}_{p}=63.43^{\\circ}=63^{\\circ} 26^{\\prime} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "সমবর্তন কোণ হলো সেই কোণ যার সঙ্গে সংকট কোণের যোগফল [math]90^{\\circ}[/math]; তাই যদি সংকট কোণ [math]30^{\\circ}[/math] হয়, সমবর্তন কোণ হবে [math]90^{\\circ}-30^{\\circ}=60^{\\circ}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430078,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430077,
+      "value": {
+        "options": [],
+        "question": "একটি কাচের তলে সমান্তরাল রশ্মিগুচ্ছ [math]60^{\\circ}[/math] কোণে আপতিত হলো। প্রতিফলিত রশ্মি পুরা পুরি সমাবর্তিত হলে প্রতিসরণ কোণ কত? কাচের প্রতিসরাঙ্কের মান কত?",
+        "solution": "[math]30^{\\circ},1.732[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখান,সমাবর্তন কোণ, [math]\\theta_{p}=60^{\\circ}[/math]\u003Cbr\u003Eপ্রতিসরাংক, [math]\\mu = ?[/math]\u003Cbr\u003Eআপতন কোণ [math]i=60^{\\circ}[/math]\u003Cbr\u003Eপ্রতিসরণ কোণ, [math]r=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math]\\begin{aligned} \\mu & =\\tan \\theta_{p} \\\\ & =\\tan 60^{\\circ} \\\\ & =1.732 \\end{aligned}[/math]\u003Cbr\u003Eআবার,$\\begin{aligned} & \\mu=\\frac{\\sin \\mathrm{i}}{\\sin \\mathrm{r}} \\\\ \\Rightarrow \\mathrm{r} & =\\sin ^{-1} \\frac{\\sin \\mathrm{i}}{\\mu} \\\\& =\\sin ^{-1} \\frac{\\sin 60^{\\circ}}{1.732} \\\\ & =30^{\\circ} \\end{aligned}$",
+        "explanation": "ব্যাখ্যা: টপ থেকে না বরং কাচের তলে থাকা রশ্মি কাচ‑বায়ু পৃষ্ঠে [math]60^\\circ[/math] কোণে আপতিত হলে যদি পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটে, তা হলে এটি সমালোচন কোণ (critical angle) = [math]60^\\circ[/math]। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রতিসরণ কোণ: কারণ সমালোচন কোণে প্রতিবাহী রশ্মি পৃষ্ঠ বরাবর প্রসারিত হয়, তাই প্রতিসরণ কোণ [math]=90^\\circ[/math]। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কাচের প্রতিসরাঙ্ক: স্নেল-এর সূত্র থেকে [math]\\mu\\sin60^\\circ=1\\cdot\\sin90^\\circ[/math], ফলে [math]\\mu=\\dfrac{1}{\\sin60^\\circ}=\\dfrac{2}{\\sqrt3}\\approx1.155[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430077,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430076,
+      "value": {
+        "options": {
+          "ঘ": "Å কেলাসকে স্থির রেখে [math]\\dot {B}[/math] কেলাসকে ঘুরালে আলোকের তীব্রতার কীরূপ পরিবর্তন হবে চিত্রসহকারে বিশ্লেষণ করো।"
+        },
+        "question": "অসমবর্তিত আলোর গতিপথে দুইটি টুর্মালিন কেলাস এমনভাবে স্থাপন করা হয়েছে যে কেলাসদ্বয়ের সরলাক্ষ আলোকের গতিপথের সাথে লম্বভাবে অবস্থান করে।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22008-7_1755589529_ODWe7rDe.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eমনে করি, s একটি আলোক উৎস। S হতে নির্গত আলোক তরঙ্গসমূহ এদের গতিপথের অভিলম্ব তলে চারদিকে সমান বিস্তারে কম্পিত হবে। A একটি টুর্মালিন কেলাস যা আলোক তরঙ্গের গতিপথে স্থাপন করা হয়েছে । S হতে আলোক তরঙ্গ কেলাসের যেকোনো একটি সমতল পৃষ্ঠে আপতিত হবে (চিত্র ক) ।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture_1755589530_fImaRhCm.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eকেলাসের অপর দিকে নজর করলে একই প্রাবল্যের বা তীব্রতার আলোক দেখা যাবে। কেলাস হতে নির্গত আলোকে কেলাসের প্রকৃতির ওপর নির্ভর করবে এবং যৎসামান্য রঙিন দেখাবে। এ অবস্থায় A কেলাসটিকে O বিন্দুর সাপেক্ষে ঘুরাতে থাকলে একই প্রাবল্যের আলোক দেখা যাবে। এখন A কেলাসের সমান্তরালে আলোকের গতিপথে আর একটি টুর্মালিন কেলাস B এমনভাবে স্থাপন করি যাতে এর সরলাক্ষ আলোকের গতিপথের সাথে লম্বভাবে অবস্থান করে (চিত্র খ)। এমতাবস্থায় B কেলাসের অপর পার্শ্ব হতে নজর করলে একই প্রাবল্যের আলোক দেখা যাবে ।এখন A কেলাসটিকে স্থির রেখে B কেলাসটিকে O বিন্দু বরাবর ধীরে ধীরে ঘুরাতে থাকলে দেখা া যাবে যে, B কেলাসকে যত বেশি কোণে ঘুরানো হবে, আলোকের তীব্রতা তত হ্রাস পাবে। যখন B: কে 90° কোণে ঘুরানো হবে, তখন কেলাস হতে কোন আলোক নির্গত হবে না (চিত্র ঘ)। B কেলাসটিকে 90°-এর বেশি কোণে ঘুরাতে থাকলে পুনরায় B হতে আলোক নির্গত হবে এবং এর প্রাবল্য ধীরে ধীরে বৃদ্ধি পেতে থাকবে। B কেলাস-এর সরলাক্ষ পুনরায় A কেলাস-এর সরলাক্ষের সমান্তরাল হলে B হতে নির্গত আলোকের প্রাবল্য সর্বাপেক্ষা বেশি হবে অর্থাৎ প্রাবল্য পূর্বের অবস্থার ফিরে আসবে ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যদি A কেলাস স্থির রেখে B কেলাসকে কোণ [math]\\theta[/math] দ্বারা ঘোরানো হয়, তীব্রতা মালুসের সূত্র অনুসারে হবে [math]I=I_0\\cos^2\\theta[/math], যেখানে [math]I_0[/math] প্রথম কেলাস পার হওয়া তীব্রতা। ফলে [math]\\theta=0^\\circ[/math] এ সর্বোচ্চ, [math]\\theta=90^\\circ[/math] এ শূন্য এবং প্রতিটি [math]180^\\circ[/math] পরে পুনরাবৃত্তি ঘটে; গ্রাফটি একটি [math]\\cos^2\\theta[/math] আকারের বক্ররেখা হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430076,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:30.000000Z",
+            "updated_at": "2025-08-19T07:45:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430075,
+      "value": {
+        "options": {
+          "গ": "Å কেলাসকে এমনভাবে ঘুরানো হলো যে এর সরলাক্ষ Å এর সরলাক্ষের সাথে 45° কোণ উৎপন্ন করলো। Å ও [math]\\dot{B}[/math] হতে নির্গত আলোকের তীব্রতার অনুপাত বের করো।"
+        },
+        "question": "অসমবর্তিত আলোর গতিপথে দুইটি টুর্মালিন কেলাস এমনভাবে স্থাপন করা হয়েছে যে কেলাসদ্বয়ের সরলাক্ষ আলোকের গতিপথের সাথে লম্বভাবে অবস্থান করে।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22008-7_1755589528_OQcvvlo3.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে, A এর সরলাক্ষ এবং B এর সরলাক্ষের মধ্যকার কোণ, [math]\\varphi=45^{\\circ}[/math]\u003Cbr\u003EA হতে নির্গত আলোর তীব্রতা I হলে, B হতে নির্গত আলোর তীব্রতা,[math]\\mathrm{I}^{\\prime}=\\mathrm{I} \\times\\left(\\cos 45^{\\circ}\\right)^{2}[/math]\u003Cbr\u003EA ও B হতে নির্গত আলোকের তীব্রতার অনুপাত[math]\\begin{array}{l}=\\frac{\\mathrm{I}}{\\mathrm{I}^{\\prime}}=\\frac{\\mathrm{I}}{\\mathrm{I} \\times\\left(\\cos 45^{\\circ}\\right)^{2}} \\\\=\\frac{1}{\\left(\\frac{1}{\\sqrt{2}}\\right)^{2}}\\end{array}[/math]\u003Cbr\u003E= 2:1 (Ans.)[math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: অসমবর্তিত আলো প্রথম পোলারাইজারের মাধ্যমে গেলে তীব্রতা হয় [math]I_A=I_0/2[/math]. দ্বিতীয় পোলারাইজার প্রথমটির সাথে [math]45^\\circ[/math] কোণে থাকলে মালুস সূত্রে [math]I_B=I_A\\cos^2 45^\\circ=(I_0/2)\\times(1/2)=I_0/4[/math]. ফলে অনুপাত [math]I_A:I_B= (I_0/2):(I_0/4)=2:1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430075,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:28.000000Z",
+            "updated_at": "2025-08-19T07:45:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430074,
+      "value": {
+        "options": [],
+        "question": "[math]1.62[/math] প্রতিসরণাঙ্ক বিশিষ্ট একটি কাঁচের প্লেটে আলোক রশ্মি আপতিত হয়। যদি প্রতিফলিত এবং প্রতিসরিত রশ্মি একে অপরের সাথে লম্বভাবে অবস্থান করে তবে আপতন কোণের মান নির্ণয় কর।",
+        "solution": "( Answer : [math]58.31^{\\circ}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : এক্ষেত্রে, আপতন কোণ হল সমবর্তন কোণ [math]\\theta_p[/math]\u003Cbr\u003E [math]\\tan \\theta_{p}=\\mu \\Rightarrow \\theta_{p}=\\tan ^{-1} \\mu=\\tan ^{-1} 1.62=58.31^{\\circ}[/math]\u003Cbr\u003E",
+        "explanation": "কারণ প্রতিফলিত রশ্মি ও প্রতিসরিত রশ্মি পরস্পর লম্ব হলে আপতন কোণ ও প্রতিসরিত কোণের যোগফল [math]90^\\circ[/math], অর্থাৎ [math]i+r=90^\\circ[/math]. প্রতিফলনের আইন ও স্নেলের সূত্র ব্যবহার করলে [math]\\sin i=1.62\\sin r=1.62\\sin(90^\\circ-i)=1.62\\cos i[/math], ফলে [math]\\tan i=1.62[/math]. অতএব [math]i=\\arctan(1.62)\\approx58.3^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 430074,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 430074,
+            "tag_id": 109,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:45:27.000000Z",
+            "updated_at": "2025-08-19T07:45:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430073,
+      "value": {
+        "options": [],
+        "question": "দুটি সমবর্তন ফালিকে সমান্তরালে এমনভাবে রাখা হলো যেন দ্বিতীয়টি আলোক অক্ষ প্রথমটির আলো ক অক্ষের সাথে [math]60^\\circ[/math] কোণে থাকে। কোন অসমবর্তিত আলোক এ সজ্জায় এক প্রান্ত দিয়ে পাঠালে অপর প্রান্তের আলোর তীব্রতা অসমবির্তত আলোর কতগুণ হবে?",
+        "solution": "( Answer : [math]\\dfrac{1}{8}[/math]\u003Cbr\u003E গুণ )[math]\\\\[/math]\u003Cbr\u003ESolution : [math]I_{1}=\\dfrac{I_{0}}{2} ; I_{2}=I_{1} \\cos ^{2} \\theta=\\dfrac{I_{0}}{2} \\times\\left(\\cos 60^{\\circ}\\right)^{2}=\\dfrac{I_{0}}{8}[/math]\u003Cbr\u003E [math]\\therefore \\dfrac{I_{2}}{I_{0}}=\\dfrac{1}{8}[/math]\u003Cbr\u003E অর্থাৎ সমবর্তিত আলোর তীব্রতা অসমবর্তিত আলোর [math]\\dfrac{1}{8}[/math]\u003Cbr\u003E গুণ।",
+        "explanation": "ব্যাখ্যা: অসমবির্তত আলো প্রথম ফিল্টার পার হলে তীব্রতা হয়ে যায় [math]I_1=I_0/2[/math]। দ্বিতীয় ফিল্টারে মালুসের নিয়মে [math]I_2=I_1\\cos^2\\theta[/math] এবং [math]\\theta=60^\\circ[/math] হলে [math]\\cos^2 60^\\circ=(1/2)^2=1/4[/math]। অতএব মোট তীব্রতা [math]I_2=I_0/2\\times1/4=I_0/8[/math], অর্থাৎ মূল তীব্রতার [math]1/8[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 28,
+          "year": "2005-2006",
+          "pivot": {
+            "question_bank_id": 430073,
+            "year_id": 28
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 430073,
+            "tag_id": 80,
+            "year": "05-06",
+            "created_at": "2025-08-19T07:45:27.000000Z",
+            "updated_at": "2025-08-19T07:45:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430072,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সমবর্তিত আলো—\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-720teste20mcq-70001-201_1755589527_KXWFjE3z.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nনিচের কোনটি সঠিক?",
+        "solution": "সমবর্তিত আলো একটি নির্দিষ্ট তলে কম্পিত হয়। এটি সাধারণত একবর্ণী আলো বা প্রকৃতির আলোকরশ্মির তরঙ্গমুখের উপর ল্যাটিসের মতো কোনো প্রতিবন্ধক ব্যবহার করে তৈরি করা হয়, যা একটি নির্দিষ্ট দিকে অবস্থিত কণাগুলোকে অন্য কণাগুলোর থেকে আলাদা করে দেয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430072,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 347,
+          "full_name": "Notre Dame College, Dhaka",
+          "short_name": "NDC",
+          "slug": "ndc",
+          "pivot": {
+            "question_bank_id": 430072,
+            "tag_id": 347,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:27.000000Z",
+            "updated_at": "2025-08-19T07:45:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430060,
+      "value": {
+        "options": {
+          "ক": "[math]\\vec{E}[/math] এর কম্পন তল নির্দিষ্ট এবং [math]\\vec{B}[/math] থাকে না",
+          "খ": "[math]\\vec{E}[/math] এর কম্পন তল এবং [math]\\vec{B}[/math] এর কম্পন তল পরস্পর লম্ব হয়",
+          "গ": "[math]\\vec{E}[/math] এর কম্পন তল নির্দিষ্ট নয়",
+          "ঘ": "কোনোটাই থাকে না"
+        },
+        "question": "সমবর্তিত আলোর ক্ষেত্রে কোনটি সত্য?",
+        "solution": "সমবর্তিত আলোতে তড়িৎ ক্ষেত্র ( [math]\\vec{E}[/math]\u003Cbr\u003E) এবং চুম্বকীয় ক্ষেত্র ( [math]\\vec{B}[/math]\u003Cbr\u003E) উভয়েরই একটি নির্দিষ্ট কম্পন তল থাকে এবং এই দুটি তল পরস্পরের সাথে লম্বভাবে অবস্থান করে। বিকল্প A ভুল কারণ সমবর্তিত আলোতে [math]\\vec{B}[/math]\u003Cbr\u003E থাকে। বিকল্প C ভুল কারণ [math]\\vec{E}[/math]\u003Cbr\u003E এর কম্পন তল নির্দিষ্ট হয়। বিকল্প D ভুল কারণ প্রথম দুটি বিকল্পের একটি সঠিক।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430060,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430050,
+      "value": {
+        "options": {
+          "ক": "চতুর্দিকে পরিবর্তন সাধিত হয়",
+          "খ": "কোন পরিবর্তন সাধিত হয় না",
+          "গ": "আলোর তরঙ্গ যে দিকে সঞ্চালিত হয় তার লম্ব বরাবর পরিবর্তন সাধিত হয়",
+          "ঘ": "দুই দিকে লম্ব বরাবর পরিবর্তন সাধিত হয়"
+        },
+        "question": "একটি রৈখিক সমবর্তিত আলোর ক্ষেত্রে–",
+        "solution": "একটি রৈখিক সমবর্তিত আলোর ক্ষেত্রে, আলোর তরঙ্গের বৈদ্যুতিক ক্ষেত্রের দিক আলোর গতির দিকের সাথে লম্বভাবে থাকে এবং তরঙ্গের সঞ্চালনের দিকের সাথে সমান্তরালভাবে পরিবর্তিত হয়।\n\nঅর্থাৎ, আলোর তরঙ্গের বৈদ্যুতিক ক্ষেত্রের দিক দুটি নির্দিষ্ট দিকের মধ্যে দুলিত হয়, যা আলোর গতির দিকের সাথে লম্বভাবে অবস্থিত।\n\nএই দুটি দিককে \"সমবর্তন অক্ষ\" বলা হয়।\n\nসুতরাং, একটি রৈখিক সমবর্তিত আলোর ক্ষেত্রে, আলোর তরঙ্গের বৈদ্যুতিক ক্ষেত্রের দিক দুই দিকে লম্ব বরাবর পরিবর্তন সাধিত হয়।",
+        "explanation": "",
+        "correct_answer": "D.দুই দিকে লম্ব বরাবর পরিবর্তন সাধিত হয়"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 430050,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 788,
+          "full_name": "Chattogram Veterinary and Animal Sciences University",
+          "short_name": "CVASU",
+          "slug": "cvasu",
+          "pivot": {
+            "question_bank_id": 430050,
+            "tag_id": 788,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430059,
+      "value": {
+        "options": {
+          "ক": "আলোক তরঙ্গ",
+          "খ": "পানি তরঙ্গ",
+          "গ": "বেতার তরঙ্গ",
+          "ঘ": "শব্দ তরঙ্গ"
+        },
+        "question": "নিচের কোন তরকাটির পোলারায়ন সম্ভব নয়?",
+        "solution": "শব্দ তরঙ্গ একটি অনুদৈর্ঘ্য তরঙ্গ, তাই এর পোলারাইজেশন সম্ভব নয়। আলোক তরঙ্গ, বেতার তরঙ্গ এবং পানির তরঙ্গ সবই অনুপ্রস্থ তরঙ্গ এবং এদের পোলারাইজেশন সম্ভব।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430059,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430058,
+      "value": {
+        "options": {
+          "ক": "প্রতিফলন",
+          "খ": "প্রতিসরণ",
+          "গ": "ব্যতিচার",
+          "ঘ": "সমবর্তন"
+        },
+        "question": "নিচের কোন বৈশিষ্ট্য বলে দেয় যে আলো একটি অনুপ্রস্থ তরঙ্গ হতে পারে?",
+        "solution": "আলোর সমবর্তন ঘটনাটি প্রমাণ করে যে আলো একটি অনুপ্রস্থ তরঙ্গ, কারণ অনুপ্রস্থ তরঙ্গের কম্পন তরঙ্গের গতির সাথে লম্বভাবে ঘটে, যা সমবর্তনের মাধ্যমে দেখা যায়। প্রতিফলন, প্রতিসরণ এবং ব্যতিচার উভয় প্রকার তরঙ্গেই (অনুদৈর্ঘ্য ও অনুপ্রস্থ) ঘটতে পারে, তাই এগুলো অনুপ্রস্থ তরঙ্গের নির্দিষ্ট বৈশিষ্ট্য নয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430058,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430057,
+      "value": {
+        "options": {
+          "ক": "সমবর্তন",
+          "খ": "তড়িৎ চৌম্বক তল",
+          "গ": "সমবিভব তল",
+          "ঘ": "কম্পন তল"
+        },
+        "question": "সমবর্তিত আলোর ক্ষেত্রে, [math]\\vec{E}[/math] এবং তরঙ্গগতির অভিমুখ ধারণকারী তলকে কী বলে?",
+        "solution": "আলোর সমবর্তনের ক্ষেত্রে, তড়িৎ ক্ষেত্রের ( [math]\\vec{E}[/math] ) ভেক্টর এবং তরঙ্গ যেদিকে অগ্রসর হচ্ছে সেই অভিমুখে অবস্থিত তলটিকে কম্পন তল বা Plane of Vibration বলা হয়। সমবর্তনের দিক এই তলের উপর নির্ভর করে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430057,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430056,
+      "value": {
+        "options": {
+          "ক": "[math]\\vec{E}[/math] এর কম্পনতল নির্দিষ্ট এবং [math]\\vec{B}[/math] থাকে না",
+          "খ": "[math]\\vec{E}[/math]-এর কম্পনতল নির্দিষ্ট এবং [math]\\vec{B}[/math] থাকে",
+          "গ": "[math]\\vec{E}[/math]-এর কম্পনতল নির্দিষ্ট নয়",
+          "ঘ": "[math]\\vec{E}, \\vec{B}[/math] কোনোটাই থাকে না"
+        },
+        "question": "সমবর্তিত আলোর ক্ষেত্রে কোনটি সত্য?",
+        "solution": "সমবর্তিত আলোতে তড়িৎ ক্ষেত্র ভেক্টর ( [math]\\vec{E}[/math]\u003Cbr\u003E) একটি নির্দিষ্ট তলে কম্পনশীল থাকে, তবে চৌম্বক ক্ষেত্র ভেক্টর ( [math]\\vec{B}[/math]\u003Cbr\u003E) ও উপস্থিত থাকে এবং এটিও [math]\\vec{E}[/math]\u003Cbr\u003E এর সাথে লম্বভাবে কম্পনশীল। তাই বিকল্প B সঠিক। বিকল্প A ভুল কারণ [math]\\vec{B}[/math]\u003Cbr\u003E থাকে। বিকল্প C ভুল কারণ [math]\\vec{E}[/math]\u003Cbr\u003E-এর কম্পনতল নির্দিষ্ট। বিকল্প D ভুল কারণ [math]\\vec{E}[/math]\u003Cbr\u003E এবং [math]\\vec{B}[/math]\u003Cbr\u003E উভয়ই আলোতে উপস্থিত থাকে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 430056,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430055,
+      "value": {
+        "options": {
+          "ক": "75°",
+          "খ": "57°",
+          "গ": "35°",
+          "ঘ": "27°"
+        },
+        "question": "কাচে অসমবর্তিত আলো কত কোণে আপতিত হলে প্রতিফলিত রশ্মি সমবর্তিত হয়?",
+        "solution": "আলোকরশ্মি যখন দুটি মাধ্যমের বিভেদতলে এমনভাবে আপতিত হয় যে, আপতন কোণে (i) প্রতিফলিত রশ্মি ও প্রতিসৃত রশ্মি পরস্পরের সঙ্গে সমকোণে ( [math]90^\\circ[/math]\u003Cbr\u003E) অবস্থান করে, তখন আপতন কোণকে পোলাইজিং অ্যাঙ্গেল বা সমবর্তন কোণ (Brewster's angle) বলে। ব্রুস্টারের সূত্রানুসারে, [math]\\tan(i) = \\mu[/math]\u003Cbr\u003E, যেখানে [math]\\mu[/math]\u003Cbr\u003E হলো মাধ্যমের প্রতিসরাঙ্ক। কাচ এবং বাতাসের বিভেদতলের জন্য, কাচের প্রতিসরাঙ্ক প্রায় [math]1.5[/math]\u003Cbr\u003E ধরা হয়। সুতরাং, [math]\\tan(i) = 1.5[/math]\u003Cbr\u003E হলে [math]i \\approx 56.3^\\circ[/math]\u003Cbr\u003E হয়। প্রদত্ত বিকল্পগুলির মধ্যে [math]57^\\circ[/math]\u003Cbr\u003E এই মানের সবচেয়ে কাছাকাছি।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430055,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430054,
+      "value": {
+        "options": {
+          "ক": "প্রতিসরণ",
+          "খ": "ব্যতিচার",
+          "গ": "অপবর্তন",
+          "ঘ": "সমবর্তন"
+        },
+        "question": "হাইগেনের তরঙ্গ তত্ত্বের সাহায্যে নিচের কোনটি ব্যাখ্যা করা যায় না?",
+        "solution": "আলোর সমবর্তনের ব্যাখ্যা হাইগেনের তরঙ্গ তত্ত্বের সাহায্যে করা যায় না, যদিও প্রতিসরণ, ব্যতিচার এবং অপবর্তন ভালোভাবে ব্যাখ্যা করা যায়। সমবর্তন আলোর একটি বৈশিষ্ট্য যা এর তরঙ্গ প্রকৃতির উপর নির্ভর করে, কিন্তু হাইগেনের মূল তত্ত্ব এটিকে ব্যাখ্যা করতে পারেনি।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 430054,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430053,
+      "value": {
+        "options": {
+          "ক": "ব্যতিচার",
+          "খ": "অপবর্তন",
+          "গ": "সমবর্তন",
+          "ঘ": "প্রতিসরণ"
+        },
+        "question": "আলোক কম্পনকে আলোর গতির সাথে সমকোণে একটি নির্দিষ্ট সমতলে সীমাবদ্ধ করার প্রক্রিয়াকে বলে—",
+        "solution": "আলোর কম্পনকে আলোর গতির সাথে সমকোণে একটি নির্দিষ্ট সমতলে সীমাবদ্ধ করার প্রক্রিয়া হলো সমবর্তন। ব্যতিচার হলো দুটি আলোক তরঙ্গের উপরিপাতনের ফলে আলোর তীব্রতার পরিবর্তন। অপবর্তন হলো আলোক তরঙ্গের কোনো তীক্ষ্ণ কিনারা বা ছিদ্র দ্বারা বেঁকে যাওয়ার ঘটনা। প্রতিসরণ হলো আলোক তরঙ্গ এক মাধ্যম থেকে অন্য মাধ্যমে প্রবেশ করার সময় তার গতিপথ পরিবর্তন।",
+        "explanation": "",
+        "correct_answer": "C. সমবর্তন"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430053,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430052,
+      "value": {
+        "options": {
+          "ক": "এক্সরে",
+          "খ": "রেডিও তরঙ্গ",
+          "গ": "অবলোহিত",
+          "ঘ": "বায়ুতে শব্দ তরঙ্গ"
+        },
+        "question": "নিচের কোনটিকে পোলারাইজ করা যায় না?",
+        "solution": "শব্দ তরঙ্গ হল একটি অনুদৈর্ঘ্য তরঙ্গ, যেখানে কম্পন তরঙ্গের প্রসারণের সমান্তরাল। অনুদৈর্ঘ্য তরঙ্গকে পোলারাইজ করা যায় না কারণ পোলারাইজেশন হল তরঙ্গের বিস্তারকে একটি নির্দিষ্ট তলের মধ্যে সীমাবদ্ধ করা, যা কেবল অনুপ্রস্থ তরঙ্গের ক্ষেত্রেই সম্ভব। এক্সরে, রেডিও তরঙ্গ এবং অবলোহিত তরঙ্গ হল অনুপ্রস্থ তরঙ্গ, তাই এদের পোলারাইজ করা যায়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 430052,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 430052,
+            "tag_id": 474,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430051,
+      "value": {
+        "options": {
+          "ক": "[math]13.5^{\\circ }[/math]",
+          "খ": "[math]76.5^{\\circ }[/math]",
+          "গ": "[math]4.16^{\\circ }[/math]",
+          "ঘ": "[math]\\text{None of these}[/math]"
+        },
+        "question": "হীরকের প্রতিফলক তলে একটি আলোক রশ্মি [math]60^\\circ[/math] কোণে আপতিত হলো এবং হীরকের মধ্যে প্রতিসরণ কোণ [math]12^\\circ[/math] পাওয়া গেল। হীরকের সমবর্তন কোণ :",
+        "solution": "ধরি, হীরকের সমাবর্তন কোণ [math]\\theta[/math]\u003Cbr\u003E [math]\\quad \\tan \\theta=\\dfrac{\\sin i}{\\sin r}=\\dfrac{\\sin 60^{\\circ}}{\\sin 12^{\\circ}}\\\\ \\quad \\Rightarrow \\theta=\\tan ^{-1}\\left(\\dfrac{\\sin 60^{\\circ}}{\\sin 12^{\\circ}}\\right)=76.5^{\\circ}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 430051,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 501,
+          "full_name": "Chittagong University of Engineering & Technology",
+          "short_name": "CUET",
+          "slug": "cuet",
+          "pivot": {
+            "question_bank_id": 430051,
+            "tag_id": 501,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430049,
+      "value": {
+        "options": {
+          "ক": "এক্স-রশ্মি",
+          "খ": "শব্দ তরঙ্গ",
+          "গ": "রেডিও তরঙ্গ",
+          "ঘ": "সাধারণ আলো"
+        },
+        "question": "কোন তরঙ্গের সমাবর্তন হয় না?",
+        "solution": "শব্দ তরঙ্গ হলো অনুদৈর্ঘ্য তরঙ্গ, যার কণাগুলো তরঙ্গের গতির সমান্তরালে কম্পিত হয়, তাই এর সমাবর্তন সম্ভব নয়। অন্যদিকে, এক্স-রশ্মি, রেডিও তরঙ্গ এবং সাধারণ আলো হলো অনুপ্রস্থ তরঙ্গ, যাদের কণাগুলো তরঙ্গের গতির সাথে লম্বভাবে কম্পিত হয় এবং এদের সমাবর্তন ঘটে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 430049,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 430049,
+            "tag_id": 11,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430061,
+      "value": {
+        "options": {
+          "ক": "[math]0[/math]",
+          "খ": "[math]\\frac{\\pi}{4}[/math]",
+          "গ": "[math]\\frac{\\pi}{2}[/math]",
+          "ঘ": "[math]\\pi[/math]"
+        },
+        "question": "কম্পন তল ও সমবর্তিত আলোর সমবর্তন তলের মধ্যবর্তী কোণের মান হলো—",
+        "solution": "আলোর সমবর্তনের ক্ষেত্রে, কম্পন তল (plane of vibration) এবং সমবর্তিত আলোর সমবর্তন তলের (plane of polarization) মধ্যবর্তী কোণ হলো [math]\\frac{\\pi}{2}[/math] বা ৯০ ডিগ্রি। কম্পন তল হলো সেই তল যার মধ্যে আলোর বৈদ্যুতিক ক্ষেত্র ভেক্টর কম্পিত হয়, আর সমবর্তন তল হলো সেই তল যা আলোর বিস্তার এবং কম্পন তলের উপর লম্ব। এই দুটি তল একে অপরের সাথে লম্বভাবে অবস্থান করে।",
+        "explanation": "",
+        "correct_answer": "C.[math]\\frac{\\pi}{2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430061,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430062,
+      "value": {
+        "options": {
+          "ক": "প্রতিফলন",
+          "খ": "অপবর্তন",
+          "গ": "দ্বৈত প্রতিসরণ",
+          "ঘ": "বিক্ষেপণ"
+        },
+        "question": "অসমবর্তিত আলোক রশ্মিকে আংশিক কিংবা সমতলীয় সবর্তিত আলোকে বিভিন্ন পদ্ধতিতে রূপান্তর করা যায়। কিন্তু নিচের কোনটিতে এটি সম্ভব নয়?",
+        "solution": "প্রতিফলন, দ্বৈত প্রতিসরণ এবং বিক্ষেপণ অসমবর্তিত আলোক রশ্মিকে আংশিক বা সমতলীয় সমবর্তিত আলোতে রূপান্তর করতে পারে। কিন্তু অপবর্তন আলোর দিক পরিবর্তন করলেও সমবর্তনের পরিবর্তন ঘটায় না।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430062,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430063,
+      "value": {
+        "options": {
+          "ক": "[math]\\sin ^{-1} \\sqrt{3}[/math]",
+          "খ": "[math]\\tan ^{-1} \\sqrt{3}[/math]",
+          "গ": "[math]\\cos \\sqrt{3}[/math]",
+          "ঘ": "[math]\\sin ^{-1} \\frac{1}{\\sqrt{3}}[/math]"
+        },
+        "question": "কোনো একটি মাধ্যমের জন্য সমবর্তন কোণ [math]60°[/math]। এর জন্য সংকট কোণ হবে—",
+        "solution": "সমবর্তন কোণ [math](i_p)[/math]\u003Cbr\u003E এবং সংকট কোণ [math](i_c)[/math]\u003Cbr\u003E এর মধ্যে সম্পর্ক হলো [math]\\tan i_p = \\frac{1}{\\sin i_c}[/math]\u003Cbr\u003E।দেওয়া আছে, [math]i_p = 60°[/math]\u003Cbr\u003E।তাহলে, [math]\\tan 60° = \\frac{1}{\\sin i_c}[/math]\u003Cbr\u003E।আমরা জানি, [math]\\tan 60° = \\sqrt{3}[/math]\u003Cbr\u003E।সুতরাং, [math]\\sqrt{3} = \\frac{1}{\\sin i_c}[/math]\u003Cbr\u003E।এখান থেকে আমরা পাই, [math]\\sin i_c = \\frac{1}{\\sqrt{3}}[/math]\u003Cbr\u003E।তাই, সংকট কোণ [math]i_c = \\sin^{-1} \\frac{1}{\\sqrt{3}}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430063,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430064,
+      "value": {
+        "options": {
+          "ক": "কেবলমাত্র O-রশ্মিটি সমবর্তিত",
+          "খ": "কেবলমাত্র E রশ্মিটি সমবর্তিত",
+          "গ": "O-রশ্মি এবং E-রশ্মি উভয়ই সমবর্তিত",
+          "ঘ": "রশ্মি এবং E রশ্মি কোনোটিই সমর্থিত নয়"
+        },
+        "question": "দ্বি-প্রতিসরণে আমরা দুটি প্রতিসৃত রশ্মি অর্থাৎ [math]O[/math]-রশ্মি এবং [math]E[/math]-রশি পাই। নিচের কোন বক্তব্যটি সঠিক?",
+        "solution": "দ্বি-প্রতিসরণের ফলে সৃষ্ট O-রশ্মি এবং E-রশ্মি উভয়ই সমবর্তিত রশ্মি, তবে তাদের সমবর্তনের তল ভিন্ন হয়। O-রশ্মি সর্বদা সাধারণ রশ্মির মতো আচরণ করে এবং একটি নির্দিষ্ট সমবর্তন তল বজায় রাখে। E-রশ্মিটির সমবর্তনের তল প্রতিটি আপতিত রশ্মির জন্য পরিবর্তিত হয়, তবে এটিও একটি সমবর্তিত রশ্মি।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430064,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430065,
+      "value": {
+        "options": {
+          "ক": "নিকল প্রিজম",
+          "খ": "একটি কেলাস",
+          "গ": "একটি বাই প্রিজম",
+          "ঘ": "একটি অর্ধতরঙ্গ প্লেট"
+        },
+        "question": "নিচের কোনটি সমবর্তিত আলো গঠন করতে পারে?",
+        "solution": "নিকল প্রিজম আলোর সমবর্তন ঘটাতে পারে। এটি ক্যালসাইট ক্রিস্টালের দুটি টুকরো দিয়ে তৈরি যা এমনভাবে কাটা এবং সংযুক্ত করা হয় যাতে একটি নির্দিষ্ট দিকে আলোকরশ্মি যেতে পারে এবং অন্য আলোকরশ্মি প্রতিফলিত হয়ে যায়, ফলে সমবর্তিত আলো তৈরি হয়। একটি সাধারণ কেলাস বা বাই প্রিজম সমবর্তিত আলো তৈরি করে না এবং অর্ধতরঙ্গ প্লেট আলোর পোলারাইজেশন পরিবর্তন করতে পারে কিন্তু সমবর্তিত আলো তৈরি করতে পারে না।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430065,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430066,
+      "value": {
+        "options": {
+          "ক": "[math]\\pi[/math]",
+          "খ": "[math]\\frac{\\pi}{2}[/math]",
+          "গ": "[math]2\\pi[/math]",
+          "ঘ": "[math]\\frac{\\pi}{4}[/math]"
+        },
+        "question": "প্রতিফলনের সাহায্যে আলোক সমবর্তিত করা গেলে প্রতিফলিত এবং প্রতিসৃত রশ্মির মধ্যবর্তী কোণ—",
+        "solution": "যখন আলো প্রতিফলনের মাধ্যমে সমবর্তিত হয়, তখন আপতিত রশ্মি, প্রতিফলিত রশ্মি এবং অভিলম্ব একটি সমতলে থাকে। ব্রুস্টারের কোণে আপতিত হলে, প্রতিফলিত রশ্মি এবং প্রতিসৃত রশ্মি পরস্পর লম্ব হয়। অর্থাৎ, প্রতিফলিত এবং প্রতিসৃত রশ্মির মধ্যবর্তী কোণ হয় [math]\\frac{\\pi}{2}[/math] বা ৯০ ডিগ্রী।",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{\\pi}{2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 430066,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430067,
+      "value": {
+        "options": {
+          "ক": "অপবর্তন",
+          "খ": "সমবর্তন",
+          "গ": "ব্যতিচার",
+          "ঘ": "প্রতিফলন"
+        },
+        "question": "কোনো তরঙ্গের উপর যদি এমন শর্ত আরোপ করা হয় যে, কম্পন কেবল একটি নির্দিষ্ট তলে সীমাবদ্ধ থাকে তবে তাকে কী বলা হয়?",
+        "solution": "তরঙ্গের কম্পন যখন একটি নির্দিষ্ট তলে সীমাবদ্ধ থাকে তখন তাকে সমবর্তন বলা হয়। অপবর্তন হলো তরঙ্গের বাধাজনিত বাঁকানো, ব্যতিচার হলো দুটি তরঙ্গের উপরিপাতন এবং প্রতিফলন হলো আলো বা শব্দ যে মাধ্যমে প্রবেশ করে সেই একই মাধ্যমে ফিরে আসা।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430067,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430068,
+      "value": {
+        "options": {
+          "ক": "উচ্চ কম্পাঙ্ক",
+          "খ": "ক্ষুদ্র তরঙ্গদৈর্ঘ্য",
+          "গ": "আড় তরঙ্গ",
+          "ঘ": "দীঘল তরঙ্গ"
+        },
+        "question": "নিচের কোনটির কারণে আলোক তরঙ্গ পোলারায়িত বা সমবর্তিত করা যায়?",
+        "solution": "আলোক তরঙ্গ একটি আড় তরঙ্গ হওয়ায় একে পোলারায়িত বা সমবর্তিত করা যায়। পোলারাইজেশন কেবল আড় তরঙ্গের ক্ষেত্রেই সম্ভব।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 430068,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430069,
+      "value": {
+        "options": {
+          "ক": "প্ৰতিফলন",
+          "খ": "সমবর্তন",
+          "গ": "ফটোতড়িৎ ক্রিয়া",
+          "ঘ": "কম্পটন ক্রিয়া"
+        },
+        "question": "যে প্রক্রিয়ায় আলোক তরঙ্গের বিভিন্ন তলে স্পন্দনকে এক তলে স্পন্দিত করা যায় তাকে বলা হয়—",
+        "solution": "আলোকরশ্মির কম্পনগুলি যখন একটি নির্দিষ্ট তলে সীমাবদ্ধ থাকে তখন তাকে সমবর্তন বলে। প্রতিফলনে আলোকরশ্মি কোনো পৃষ্ঠ থেকে ফিরে আসে, ফটোতড়িৎ ক্রিয়ায় আলোক শক্তি ইলেকট্রনে রূপান্তরিত হয় এবং কম্পটন ক্রিয়ায় আলোক ফোটনের সঙ্গে ইলেকট্রনের সংঘর্ষ ঘটে। এই কারণগুলোর জন্য বাকি বিকল্পগুলো সঠিক নয়।",
+        "explanation": "",
+        "correct_answer": "B. সমবর্তন"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 430069,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430070,
+      "value": {
+        "options": {
+          "ক": "[math]\\sin ^{-1}(2 / 3)[/math]",
+          "খ": "[math]\\tan^{-1}(2 / 3)[/math]",
+          "গ": "[math]\\cos^{-1}(2 / 3)[/math]",
+          "ঘ": "[math]\\tan ^{-1}(3 / 2)[/math]"
+        },
+        "question": "[math]1.5[/math] প্রতিসরণাংকের কাচে অসমবর্তিত আলো আপতিত হল। আপতন কোণের মান কত হলে প্রতিফলিত ও প্রতিসরিত রশ্মি পরস্পর লম্ব হবে?",
+        "solution": "[math]\\mathrm{i}+\\mathrm{r}=90^{\\circ}, \\mu=\\dfrac{\\sin \\mathrm{i}}{\\sin \\mathrm{r}} \\Rightarrow 1.5=\\dfrac{\\sin \\mathrm{i}}{\\sin \\left(90^{\\circ}-\\mathrm{i}\\right)}=\\dfrac{\\sin \\mathrm{i}}{\\cos \\mathrm{i}}[/math]\u003Cbr\u003E [math]\\Rightarrow \\tan \\mathrm{i}=1.5 \\therefore \\mathrm{i}=\\tan ^{-1} \\dfrac{3}{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430070,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 237,
+          "full_name": "Holy Cross College, Dhaka",
+          "short_name": "HCCD",
+          "slug": "hccd",
+          "pivot": {
+            "question_bank_id": 430070,
+            "tag_id": 237,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 430071,
+      "value": {
+        "options": {
+          "ক": "স্থির তরঙ্গ",
+          "খ": "লম্বিক তরঙ্গ",
+          "গ": "আড় তরঙ্গ",
+          "ঘ": "সকল তরঙ্গ"
+        },
+        "question": "নিচের কোনটির ক্ষেত্রে সমবর্তন ঘটে?",
+        "solution": "সমবর্তন হল এমন একটি ঘটনা যেখানে তরঙ্গের বিস্তারের দিক কেবলমাত্র একটি নির্দিষ্ট তলের মধ্যে সীমাবদ্ধ থাকে। কেবলমাত্র আড় তরঙ্গের ক্ষেত্রে, কম্পন তরঙ্গ সঞ্চালনের দিকের সঙ্গে লম্বভাবে ঘটে, যা সমবর্তনের জন্য অপরিহার্য। লম্বিক তরঙ্গের কম্পন তরঙ্গ সঞ্চালনের দিকের সঙ্গে সমান্তরালভাবে ঘটে, তাই এদের সমবর্তন সম্ভব নয়। স্থির তরঙ্গ এবং সকল তরঙ্গ বিকল্পগুলোও এই নিয়মের বাইরে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6333,
+      "created_at": "2025-08-19T07:45:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 430071,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 244,
+          "full_name": "Rajuk Uttara Model College, Dhaka",
+          "short_name": "RUMC",
+          "slug": "rumc",
+          "pivot": {
+            "question_bank_id": 430071,
+            "tag_id": 244,
+            "year": "2022",
+            "created_at": "2025-08-19T07:45:26.000000Z",
+            "updated_at": "2025-08-19T07:45:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6689&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6689&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6333&grade=1&lesson=6689&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 61,
+  "total": 61
+}

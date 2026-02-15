@@ -1,0 +1,3065 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 431461,
+      "value": {
+        "options": {
+          "গ": "বিক্ষিপ্ত এক্স-রশ্মিটির তরঙ্গদৈর্ঘ্য নির্ণয় কর।"
+        },
+        "question": "[math]0.2500 \\mathrm{~nm}[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60^{\\circ}[/math] কোণে বিক্ষিপ্ত হলো। যেখানে ইলেকট্রনের নিশ্চল ভর [math]9.1 \\times 10^{-31} \\mathrm{~kg}[/math] এবং প্লাঙ্কের ধ্রুবক [math]6.63 \\times 10^{-34} \\mathrm{Js}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, বিক্ষিপ্ত এক্স রশ্মির তরঙ্গদৈর্ঘ্য, [math]\\lambda^\\prime[/math]\u003Cbr\u003Eউদ্দীপক হতে পাই,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবিক্ষেপ কোণ, [math]\\varphi=60^{\\circ}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের ভর, [math]\\mathrm{m}_{0}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্লাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{~J} \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআলোর বেগ, [math]\\mathrm{c}=3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআপতিত এক্স রশ্মির তরঙ্গদৈর্ঘ্য, [math]\\lambda=0.2500 \\mathrm{~nm}=0.2500 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\lambda^{\\prime}-\\lambda & =\\frac{h}{m_{0} c}(1-\\cos \\varphi)\\\\ \\Rightarrow ~~ \\lambda^{\\prime} & =\\lambda+\\frac{h}{m_{0} c}(1-\\cos \\varphi) \\\\ & =0.2500 \\times 10^{-9} \\mathrm{~m}+\\frac{6.63 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 3 \\times 10^{8}}\\left(1-\\cos 60^{\\circ}\\right) \\\\ & =0.2500 \\times 10^{-9} \\mathrm{~m}+0.001214 \\times 10^{-9} \\mathrm{~m} \\\\ & =0.2500 \\mathrm{~nm}+0.001214 \\mathrm{~nm} \\\\ & =0.251214 \\mathrm{~nm} \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, বিক্ষিপ্ত এক্সরশ্মিটির তরঙ্গদৈর্ঘ্য 0.251214 nm।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কম্পটন বিক্ষেপে তরঙ্গদৈর্ঘ্য বৃদ্ধি পায় এবং [math]\\Delta\\lambda=\\dfrac{h}{m_e c}(1-\\cos\\theta)[/math] সূত্রটি প্রযোজ্য। এখানে [math]\\dfrac{h}{m_e c}= \\dfrac{6.63\\times10^{-34}}{9.1\\times10^{-31}\\times3.00\\times10^8}=2.43\\times10^{-12}\\,\\mathrm{m}=0.00243\\,\\mathrm{nm}[/math], তাই [math]\\Delta\\lambda=2.43\\times10^{-12}(1-\\cos60^\\circ)=1.215\\times10^{-12}\\,\\mathrm{m}=0.001215\\,\\mathrm{nm}[/math] এবং বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য হবে [math]\\lambda'=\\;0.2500+0.001215=0.251215\\,\\mathrm{nm}\\approx0.2512\\,\\mathrm{nm}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 431461,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 431461,
+            "tag_id": 47,
+            "year": "2015",
+            "created_at": "2025-08-19T07:48:36.000000Z",
+            "updated_at": "2025-08-19T07:48:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431460,
+      "value": {
+        "options": {
+          "ঘ": "বিক্ষিপ্ত ফোটন ও প্রক্ষিপ্ত ইলেক্ট্রনের ভরবেগের তুলনা কর।"
+        },
+        "question": "নিম্নে একটি ব্যবস্থা দেখানো হলো যেখানে কুলিজ নল থেকে উৎপন্ন [math]\\rm{X}[/math] রশ্মি ধাতুর পাশ দিয়ে যাওয়ার সময় [math]60^\\circ[/math] কোণে বিক্ষিপ্ত হচ্ছে। এখানে, [math]\\mathrm{m}_0=9.1 \\times 10^{-31} \\mathrm{~kg}, \\mathrm{~h}=6.63 \\times 10^{-34} \\mathrm{~J}\\text{-s}[/math].\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-28-tp-2_1755589716_w4yBDEQh.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eধরি, নির্গত ফোটনের তরঙ্গদৈর্ঘ্য [math]\\lambda[/math]\u003Cbr\u003Eউদ্দীপক হতে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের ভর, [math]m_{0}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]h=6.63 \\times 10^{-34} \\mathrm{Js}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের আধান, [math]\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবিভব পার্থক্য, [math]\\mathrm{V}=30 \\mathrm{kV}=30 \\times 10^{3} \\mathrm{~V}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\lambda & =\\frac{\\mathrm{h}}{\\sqrt{2 \\mathrm{~m}_{0} \\mathrm{eV}}} \\\\ & =\\frac{6.63 \\times 10^{-34} \\mathrm{~J} \\mathrm{~s}}{\\sqrt{2 \\times 9.1 \\times 10^{-31} \\mathrm{~kg} \\times 1.6 \\times 10^{-19} \\mathrm{C} \\times 30 \\times 10^{3} \\mathrm{~V}}} \\\\ & =0.071 \\times 10^{-10} \\mathrm{~m}=0.071 \\mathring{\\rm{A}} \\end{aligned}[/math]\u003Cbr\u003Eসুতরাং কুলিজ নল থেকে নির্গত ফোটনের তরঙ্গদৈর্ঘ্য [math]0.071 \\mathring{\\rm{A}}[/math]\u003Cbr\u003E।[math]\\hspace{1.5 cm} \\lambda=0.071 \\mathring{\\rm{A}}=0.071 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবিক্ষেপণ কোণ, [math]\\varphi=60^{\\circ}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য ^' হলে কম্পটন ক্রিয়া অনুসারে,[math]\\hspace{1.5 cm}\\begin{aligned} \\lambda^{\\prime}-\\lambda &=\\frac{h}{m_{0} c}(1-\\cos \\varphi)\\\\ \\Rightarrow ~ \\lambda^{\\prime} & =\\lambda+\\frac{6.63 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 3 \\times 10^{8}}\\left(1-\\cos 60^{\\circ}\\right) \\\\ & =\\left(0.071 \\times 10^{-10}+1.2143 \\times 10^{-12}\\right) \\mathrm{m} \\\\ & =8.3143 \\times 10^{-12} \\mathrm{~m} \\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E বিক্ষিপ্ত ফোটনের ভরবেগ,[math]\\hspace{1.5 cm}\\begin{aligned} \\rm{P}^{\\prime} & =\\frac{\\mathrm{h}}{\\lambda^{\\prime}}=\\frac{6.63 \\times 10^{-34}}{8.3143 \\times 10^{-12}} \\mathrm{~kg} \\mathrm{~m} \\mathrm{~s}^{-1} \\\\ & =7.974 \\times 10^{-23} \\mathrm{~kg} \\mathrm{~m} \\mathrm{~s}^{-1} \\end{aligned}[/math]\u003Cbr\u003Eআপতিত ফোটনের গতিপথকে X অক্ষ বিবেচনা করলে এর লম্ব বরাবর তথা ধনাত্মক Y অক্ষ বরাবর বিক্ষিপ্ত ফোটনের ভরবেগ, [math]P_{y}^{\\prime}=P^{\\prime} \\sin \\varphi[/math]\u003Cbr\u003Eইলেকট্রনের ভরবেগ [math]P_e[/math]\u003Cbr\u003E হলে ধনাত্মক Y অক্ষ বরাবর ইলেক্ট্রনের ভরবেগের উপাংশ, [math]P_{e y}=P_{e} \\cos 180^{\\circ}=-P_{e}[/math]\u003Cbr\u003Eফোটন আপতিত হওয়ার আগে ধনাত্মক Y অক্ষ বরাবর ভরবেগ শূন্য ছিল[math]\\therefore[/math]\u003Cbr\u003E ভরবেগের সংরক্ষণ সূত্রানুসারে,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad \\mathrm{~P}_{\\mathrm{y}}^{\\prime}+\\mathrm{P}_{\\mathrm{ey}}=0 \\\\ \\Rightarrow \\mathrm{P}^{\\prime} \\sin \\varphi-\\mathrm{P}_{\\mathrm{e}}=0 \\\\ \\Rightarrow \\mathrm{P}_{\\mathrm{c}}=\\mathrm{P}^{\\prime} \\sin \\varphi=7.974 \\times 10^{-23} \\times \\sin 60^{\\circ} \\mathrm{kg} \\mathrm{m} \\mathrm{s}^{-1} \\\\ \\therefore \\therefore \\mathrm{P}_{\\mathrm{e}}=6.9 \\times 10^{-23} \\mathrm{~kg} \\mathrm{~m} \\mathrm{~s}^{-1} \\\\ \\therefore \\frac{\\mathrm{P}^{\\prime}}{\\mathrm{P}_{\\mathrm{e}}}=\\frac{7.974 \\times 10^{-23}}{6.9 \\times 10^{-23}}=1.155 \\\\ \\therefore \\frac{\\mathrm{P}^{\\prime}}{\\mathrm{P}_{\\mathrm{e}}}\u003E1 \\\\ \\Rightarrow \\mathrm{P}^{\\prime}\u003E\\mathrm{P}_{\\mathrm{e}} \\end{array}[/math]\u003Cbr\u003Eঅতএব, বিক্ষিপ্ত ফোটনের ভরবেগ প্রক্ষিপ্ত ইলেক্ট্রনের ভরবেগ অপেক্ষা বেশি।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রারম্ভিক ফোটনের ভরবেগ [math]p_i=\\dfrac{h}{\\lambda}[/math] এবং বিক্ষিপ্ত ফোটনের ভরবেগ [math]p_f=\\dfrac{h}{\\lambda'}[/math] যেখানে কম্পটন শিফটের কারণে [math]\\lambda'\u003E\\lambda[/math] তাই [math]p_f\u003Cp_i[/math]. ইলেক্ট্রনের ভরবেগ ভেক্টর পার্থক্য থেকে পাওয়া যায়: [math]p_e=|\\mathbf{p_i}-\\mathbf{p_f}|[/math] এবং মানের ক্ষেত্রে [math]p_e^2=p_i^2+p_f^2-2p_ip_f\\cos\\theta[/math]. এখানে [math]\\theta=60^\\circ[/math] হলে [math]\\cos60^\\circ=1/2[/math] এবং তাই [math]p_e^2=p_i^2+p_f^2-p_ip_f\u003Ep_f^2[/math] ফলে [math]p_e\u003Ep_f[/math]. তাই বিক্ষিপ্ত ফোটনের চেয়ে প্রক্ষিপ্ত ইলেক্ট্রনের ভরবেগ বড়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 431460,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 431460,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 431460,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T07:48:36.000000Z",
+            "updated_at": "2025-08-19T07:48:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431459,
+      "value": {
+        "options": {
+          "গ": "কুলিজ নল থেকে নির্গত ফোটনের তরঙ্গদৈর্ঘ্য নির্ণয় কর।"
+        },
+        "question": "নিম্নে একটি ব্যবস্থা দেখানো হলো যেখানে কুলিজ নল থেকে উৎপন্ন [math]\\rm{X}[/math] রশ্মি ধাতুর পাশ দিয়ে যাওয়ার সময় [math]60^\\circ[/math] কোণে বিক্ষিপ্ত হচ্ছে। এখানে, [math]\\mathrm{m}_0=9.1 \\times 10^{-31} \\mathrm{~kg}, \\mathrm{~h}=6.63 \\times 10^{-34} \\mathrm{~J}\\text{-s}[/math].\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-28-tp-2_1755589715_EQolMetn.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, নির্গত ফোটনের তরঙ্গদৈর্ঘ্য [math]\\lambda[/math]\u003Cbr\u003Eউদ্দীপক হতে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের ভর, [math]m_{0}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]h=6.63 \\times 10^{-34} \\mathrm{Js}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের আধান, [math]\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবিভব পার্থক্য, [math]\\mathrm{V}=30 \\mathrm{kV}=30 \\times 10^{3} \\mathrm{~V}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\lambda & =\\frac{\\mathrm{h}}{\\sqrt{2 \\mathrm{~m}_{0} \\mathrm{eV}}} \\\\ & =\\frac{6.63 \\times 10^{-34} \\mathrm{~J} \\mathrm{~s}}{\\sqrt{2 \\times 9.1 \\times 10^{-31} \\mathrm{~kg} \\times 1.6 \\times 10^{-19} \\mathrm{C} \\times 30 \\times 10^{3} \\mathrm{~V}}} \\\\ & =0.071 \\times 10^{-10} \\mathrm{~m}=0.071 \\mathring{\\rm{A}} \\end{aligned}[/math]\u003Cbr\u003Eসুতরাং কুলিজ নল থেকে নির্গত ফোটনের তরঙ্গদৈর্ঘ্য [math]0.071 \\mathring{\\rm{A}}[/math]\u003Cbr\u003E।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কম্পটন সূত্র অনুযায়ী তরঙ্গদৈর্ঘ্যের পরিবর্তন [math]\\Delta\\lambda=\\dfrac{h}{m_0 c}(1-\\cos\\theta)[/math]. এখানে [math]\\theta=60^\\circ[/math] হওয়ায় [math]1-\\cos60^\\circ=0.5[/math] এবং [math]\\dfrac{h}{m_0 c}=2.43\\times10^{-12}\\ \\text{m}[/math], সুতরাং [math]\\Delta\\lambda=0.5\\times2.43\\times10^{-12}=1.22\\times10^{-12}\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 431459,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 431459,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 431459,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T07:48:35.000000Z",
+            "updated_at": "2025-08-19T07:48:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431449,
+      "value": {
+        "options": {
+          "ক": "কমে যায়",
+          "খ": "বেড়ে যায়",
+          "গ": "একই থাকে",
+          "ঘ": "দ্বিগুণ হয়"
+        },
+        "question": "কম্পটন ক্রিয়ায় বিক্ষিপ্ত ফোটনের কম্পাংক আপতিত ফোটনের কম্পাংকের তুলনায় কিভাবে পরিবর্তিত হয়?",
+        "solution": "কম্পটন ক্রিয়ায় ইলেকট্রনের সাথে ফোটনের সংঘর্ষে ফোটন শক্তি হারায়, ফলে এর কম্পাঙ্ক কমে যায়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 431449,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 932,
+          "full_name": "Noakhali Science & Technology University (A Unit)",
+          "short_name": "NSTU-A",
+          "slug": "nstu-a",
+          "pivot": {
+            "question_bank_id": 431449,
+            "tag_id": 932,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431438,
+      "value": {
+        "options": {
+          "ক": "কণা তত্ত্ব",
+          "খ": "তরঙ্গ তত্ত্ব",
+          "গ": "কোয়ান্টাম তত্ত্ব",
+          "ঘ": "তড়িৎ চুম্বক তত্ত্ব"
+        },
+        "question": "কম্পটন ক্রিয়া কোন তত্ত্বের সাহায্যে ব্যাখ্যা করা হয়?",
+        "solution": "কণা তত্ত্ব: প্রতিফলন, প্রতিসরণ ব্যাখ্যা করা যায়।\nতরঙ্গ তত্ত্ব: ব্যতিচার, প্রতিফলন, প্রতিসরণ, অপবর্তন ব্যাখ্যা করা যায়।\nতাড়িতচৌম্বক তত্ত্ব: সমবর্তন ব্যাখ্যা করা যায়।\nকোয়ান্টাম তত্ত্ব: কৃষ্ণ বস্তুর বিকিরণ, ফটো তড়িৎ ক্রিয়া, কম্পটন ক্রিয়া ব্যাখ্যা করা যায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 431438,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 431438,
+            "tag_id": 3,
+            "year": "2021",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431439,
+      "value": {
+        "options": {
+          "ক": "[math]P=\\dfrac{\\lambda}{h}[/math]",
+          "খ": "[math]P=\\dfrac{c}{E}[/math]",
+          "গ": "[math]{P}=\\dfrac{{h}}{\\lambda}[/math]",
+          "ঘ": "[math]P=\\dfrac{h}{c}[/math]"
+        },
+        "question": "ফোটনের ভরবেগ—",
+        "solution": "দ্যা ব্রগলির মতে, প্রত্যেক বস্তুর দ্বৈত প্রকৃতি রয়েছে, কণা ও তরঙ্গ।ফোটনের শক্তি [math]E[/math]\u003Cbr\u003E হলে, [math]{E}=\\dfrac{h c}{\\lambda}[/math]\u003Cbr\u003E এবং [math]E=P c[/math]\u003Cbr\u003Eএখন, [math]\\mathrm{Pc}=\\dfrac{\\mathrm{hc}}{\\lambda} \\Rightarrow \\mathrm{P}=\\dfrac{\\mathrm{h}}{\\lambda}[/math]\u003Cbr\u003E। ফোটনের ভরবেগ [math]\\mathrm{P}=\\frac{\\mathrm{h}}{\\lambda}[/math]\u003Cbr\u003Eপ্লাঙ্কের ধ্রুবক [math]\\rm{h}=6.63 \\times 10^{-34} \\mathrm{kgm}^{2} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C. [math]{P}=\\dfrac{{h}}{\\lambda}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 431439,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 431439,
+            "tag_id": 3,
+            "year": "2021",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431440,
+      "value": {
+        "options": {
+          "ক": "কণা তত্ত্ব",
+          "খ": "তরঙ্গ তত্ত্ব",
+          "গ": "কোয়ান্টাম তত্ত্ব",
+          "ঘ": "তড়িৎ চুম্বক তত্ত্ব"
+        },
+        "question": "কম্পটন ক্রিয়া কোন তত্ত্বের সাহায্যে ব্যাখ্যা করা হয়।",
+        "solution": "কম্পটন ক্রিয়া, যেখানে উচ্চ-শক্তির ফোটন একটি ইলেকট্রনের সাথে সংঘর্ষে লিপ্ত হয় এবং ফোটনের তরঙ্গদৈর্ঘ্য বৃদ্ধি পায়, তা ফোটনের কণা-সদৃশ আচরণের উপর ভিত্তি করে ব্যাখ্যা করা হয়। এই আচরণটি কেবলমাত্র কণা তত্ত্ব দ্বারা ব্যাখ্যা করা সম্ভব। তরঙ্গ তত্ত্ব আলোর তরঙ্গ প্রকৃতি ব্যাখ্যা করে, কিন্তু কম্পটন প্রভাবের মতো কণা-ফোটনের মিথস্ক্রিয়া ব্যাখ্যা করতে পারে না। কোয়ান্টাম তত্ত্ব আলোর তরঙ্গ এবং কণা উভয় ধর্মকেই অন্তর্ভুক্ত করে, তবে কম্পটন ক্রিয়া সরাসরি ফোটনের কণা ধর্মকেই প্রতিষ্ঠিত করে। তড়িৎ চুম্বক তত্ত্ব আলোর তড়িৎ-চুম্বকীয় তরঙ্গ প্রকৃতি ব্যাখ্যা করে, কিন্তু কম্পটন ক্রিয়াকে ব্যাখ্যা করার জন্য এটি যথেষ্ট নয়।",
+        "explanation": "",
+        "correct_answer": "C. কোয়ান্টাম তত্ত্ব"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 431440,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 431440,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 431440,
+            "tag_id": 6,
+            "year": "2021",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431441,
+      "value": {
+        "options": {
+          "ক": "[math]0^{\\circ}[/math]",
+          "খ": "[math]45^{\\circ}[/math]",
+          "গ": "[math]90^{\\circ}[/math]",
+          "ঘ": "[math]180^{\\circ}[/math]"
+        },
+        "question": "কম্পটন তরঙ্গদৈর্ঘ্যের মান সর্বোচ্চ হয় যখন বিক্ষিপ্ত ফোটনের বিক্ষেপণ কোণ–",
+        "solution": "কম্পটন বিক্ষেপণে, বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য ( [math]\\lambda'[/math]\u003Cbr\u003E) এবং আপতিত ফোটনের তরঙ্গদৈর্ঘ্য ( [math]\\lambda[/math]\u003Cbr\u003E) এর পার্থক্য [math]\\Delta\\lambda = \\lambda' - \\lambda = \\frac{h}{m_e c}(1 - \\cos\\theta)[/math]\u003Cbr\u003E দ্বারা প্রকাশ করা হয়, যেখানে [math]\\theta[/math]\u003Cbr\u003E হল বিক্ষেপণ কোণ। [math]\\Delta\\lambda[/math]\u003Cbr\u003E এর মান সর্বোচ্চ হয় যখন [math](1 - \\cos\\theta)[/math]\u003Cbr\u003E এর মান সর্বোচ্চ হয়। [math]\\cos\\theta[/math]\u003Cbr\u003E এর মান সর্বনিম্ন হয় যখন [math]\\theta = 180^{\\circ}[/math]\u003Cbr\u003E ( [math]cos 180^{\\circ} = -1[/math]\u003Cbr\u003E)। সুতরাং, [math]\\Delta\\lambda[/math]\u003Cbr\u003E এর মান সর্বোচ্চ হয় যখন বিক্ষেপণ কোণ [math]180^{\\circ}[/math]\u003Cbr\u003E হয়।",
+        "explanation": "",
+        "correct_answer": "D. [math]180^{\\circ}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 431441,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 431441,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 431441,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431442,
+      "value": {
+        "options": {
+          "ক": "ইহা ম্যাগনেট দ্বারা বিক্ষেপ করা যায়",
+          "খ": "ইহা আলোর গতিতে চলে",
+          "গ": "ইহা চামড়া ও মাংস উভয়কেই ভেদ করতে পারে",
+          "ঘ": "দ্রুত গতিতে চলমান ইলেকট্রনকে হঠাৎ বাধা দিলে ইহা উৎপন্ন হয়"
+        },
+        "question": "X-ray 'র বেলায় কোনটি সঠিক নয়?",
+        "solution": "X-ray হল উচ্চ-শক্তির তড়িৎ-চুম্বকীয় তরঙ্গ।তড়িৎ-চুম্বকীয় তরঙ্গ দুই প্রকার:বিদ্যুৎ ক্ষেত্রচৌম্বক ক্ষেত্রX-ray 'র বিদ্যুৎ ক্ষেত্র থাকে, কিন্তু চৌম্বক ক্ষেত্র থাকে না।চৌম্বক ক্ষেত্রের অনুপস্থিতির কারণে X-ray 'কে চুম্বক দ্বারা বিক্ষেপ করা যায় না ।[math]\\\\[/math]অন্যান্য বিকল্প:B: X-ray আলোর গতিতে (2.998 × 10⁸ m/s) চলে।C: X-ray চামড়া ও মাংস উভয়কেই ভেদ করতে পারে।D: দ্রুত গতিতে চলমান ইলেকট্রনকে হঠাৎ বাধা দিলে X-ray উৎপন্ন হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 90,
+          "year": "1993-1994",
+          "pivot": {
+            "question_bank_id": 431442,
+            "year_id": 90
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 431442,
+            "tag_id": 18,
+            "year": "93-94",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431443,
+      "value": {
+        "options": {
+          "ক": "আলফা রশ্মিকে চৌম্বক ক্ষেত্র দ্বারা বিচ্যুত করে উৎপন্ন করা হয়",
+          "খ": "উচ্চগতি সম্পন্ন ক্যাথোড রশ্মি সহসা ভারী পরমাণু বিশিষ্ট বস্তুতে বাধা প্রাপ্ত হলে X-Ray উৎপন্ন হয়",
+          "গ": "তেজন্ত্রিয় পদার্থ হতে স্বতঃস্ফূর্তভাবে X-Ray নির্গত হয়",
+          "ঘ": "X-Ray র ভর নেই"
+        },
+        "question": "X-Ray এর বেলায় কোন উক্তিটি সঠিক?",
+        "solution": "X-Ray হলো উচ্চ শক্তির ইলেক্ট্রোম্যাগনেটিক তরঙ্গ ।\nX-Ray উৎপন্ন করার জন্য, উচ্চগতি সম্পন্ন ইলেকট্রন (ক্যাথোড রশ্মি) ভারী পরমাণু বিশিষ্ট বস্তুতে (টার্গেট) প্রোজেক্ট করা হয় ।\nইলেকট্রন যখন টার্গেট -এর সাথে সংঘর্ষ করে তখন X-Ray উৎপন্ন হয়।\nX-Ray -এর তরঙ্গদৈর্ঘ্য দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের চেয়ে ছোট এবং গামা রশ্মি -এর তরঙ্গদৈর্ঘ্যের চেয়ে বড় ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 36,
+          "year": "1998-1999",
+          "pivot": {
+            "question_bank_id": 431443,
+            "year_id": 36
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 431443,
+            "tag_id": 3225,
+            "year": "98-99",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431444,
+      "value": {
+        "options": {
+          "ক": "0.0484 Å",
+          "খ": "0.1724 Å",
+          "গ": "0.0756 Å",
+          "ঘ": "0.0242 Å"
+        },
+        "question": "0.124 Å তরঙ্গদৈর্ঘ্যের এক রঙা এক্সরে একটি কার্বন ব্লক দ্বারা বিক্ষিপ্ত হয়। 180° তে এক্সরের বিক্ষিপ্ত বিকিরণের তরঙ্গদৈর্ঘ্যের মান নির্ণয় কর।",
+        "solution": "[math]\\begin{aligned}\\lambda^{\\prime} & =\\lambda+\\lambda_{c}(1-\\cos \\phi) \\\\& =0.124+0.0243\\left(1-\\cos 180^{\\circ}\\right)\\end{aligned}[/math]\u003Cbr\u003E [math]=0.1724[/math]\u003Cbr\u003E Å",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 431444,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 114,
+          "full_name": "Engg Guccho (Ka Unit – Without Architecture)",
+          "short_name": "CKRUET-Ka",
+          "slug": "ckruet-ka",
+          "pivot": {
+            "question_bank_id": 431444,
+            "tag_id": 114,
+            "year": "22-23",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431445,
+      "value": {
+        "options": {
+          "ক": "[math]\\dfrac{hf}{c^2}[/math]",
+          "খ": "[math]\\dfrac{hf}{c}[/math]",
+          "গ": "[math]hfc[/math]",
+          "ঘ": "[math]hfc^2[/math]"
+        },
+        "question": "ফোটনের ভরবেগ কোনটি?",
+        "solution": "ফোটনের ভরবেগ [math]p[/math]\u003Cbr\u003E নির্ণয় করা হয় [math]p = \\dfrac{E}{c}[/math]\u003Cbr\u003E সূত্র দিয়ে, যেখানে [math]E[/math]\u003Cbr\u003E হলো শক্তি এবং [math]c[/math]\u003Cbr\u003E হলো আলোর বেগ। আমরা জানি, ফোটনের শক্তি [math]E = hf[/math]\u003Cbr\u003E, যেখানে [math]h[/math]\u003Cbr\u003E হলো প্ল্যাঙ্কের ধ্রুবক এবং [math]f[/math]\u003Cbr\u003E হলো কম্পাঙ্ক। এই মান [math]E[/math]\u003Cbr\u003E-এর সূত্রে বসালে পাওয়া যায় [math]p = \\dfrac{hf}{c}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 431445,
+            "year_id": 19
+          }
+        },
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 431445,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 431445,
+            "tag_id": 57,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        },
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 431445,
+            "tag_id": 11,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431446,
+      "value": {
+        "options": {
+          "A": "[math]40.45 nm[/math]",
+          "B": "[math]404.5 cm[/math]",
+          "C": "[math]0.4045 nm[/math]",
+          "D": "[math]4.045 km[/math]"
+        },
+        "question": "A photon of wave length [math]\\lambda = 0.400\\ nm[/math] strikes an electron at rest and rebounds at an angle of 150° to its original direction. Find the wavelength of the photon after the collision. [math]\\left(h=6.63 \\times 10^{-34} \\mathrm{~J}-s\\right)[/math]",
+        "solution": "[math]\\lambda^{\\prime}=\\dfrac{h}{\\mathrm{~m}_{0} c}(1-\\cos \\theta)+\\lambda_{0}=\\dfrac{h}{m_{0} c}\\left(1-\\cos 150^{\\circ}\\right)+0.4 \\times 10^{-9}\\\\ \\ \\ \\ \\ =0.4045 \\times 10^{-9} \\mathrm{~m}=0.4045 \\mathrm{~nm}(\\text { Ans. })[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 431446,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 431446,
+            "tag_id": 55,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431447,
+      "value": {
+        "options": {
+          "A": "[math]0^\\circ[/math]",
+          "B": "[math]90^\\circ[/math]",
+          "C": "[math]45^\\circ[/math]",
+          "D": "[math]180^\\circ[/math]"
+        },
+        "question": "In Compton scattering from stationary electrons the largest charge in wave length occurs when the photon is scattered through",
+        "solution": "কম্পটন বিক্ষেপণে তরঙ্গদৈর্ঘ্যের পরিবর্তন [math](\\Delta \\lambda)[/math]\u003Cbr\u003E নির্ভর করে বিক্ষেপণ কোণ [math](\\theta)[/math]\u003Cbr\u003E এর উপর, যা নিম্নলিখিত সূত্র দ্বারা প্রকাশিত হয়: [math]\\Delta \\lambda = \\frac{h}{m_e c}(1 - \\cos \\theta)[/math]\u003Cbr\u003E । এখানে [math]h[/math]\u003Cbr\u003E হলো প্ল্যাঙ্কের ধ্রুবক, [math]m_e[/math]\u003Cbr\u003E হলো ইলেকট্রনের ভর এবং [math]c[/math]\u003Cbr\u003E হলো আলোর বেগ। তরঙ্গদৈর্ঘ্যের পরিবর্তন সর্বোচ্চ হবে যখন [math](1 - \\cos \\theta)[/math]\u003Cbr\u003E এর মান সর্বোচ্চ হবে। [math]\\cos \\theta[/math]\u003Cbr\u003E এর মান [math]-1[/math]\u003Cbr\u003E হলে [math](1 - \\cos \\theta)[/math]\u003Cbr\u003E এর মান সর্বোচ্চ হয়, যা ঘটে যখন [math]\\theta = 180^\\circ[/math]\u003Cbr\u003E। তাই, [math]180^\\circ[/math]\u003Cbr\u003E কোণে বিক্ষিপ্ত হলে তরঙ্গদৈর্ঘ্যের পরিবর্তন সর্বাধিক হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 431447,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 431447,
+            "tag_id": 55,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431448,
+      "value": {
+        "options": {
+          "ক": "বাড়ে",
+          "খ": "কমে",
+          "গ": "একই থাকে",
+          "ঘ": "শূন্য হয়"
+        },
+        "question": "কম্পটন ক্রিয়ায় বিক্ষিপ্ত ফোটনের শক্তির কি ঘটে?",
+        "solution": "কম্পটন ক্রিয়ায় ফোটন যখন কোনো ইলেকট্রনের সাথে সংঘর্ষ করে তখন ফোটন শক্তি হারায় এবং বিক্ষিপ্ত ফোটনের শক্তি কমে যায়। এই হারানো শক্তি ইলেকট্রন গ্রহণ করে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 431448,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 904,
+          "full_name": "Patuakhali Science And Technology University (A Unit)",
+          "short_name": "PSTU-A",
+          "slug": "pstu-a",
+          "pivot": {
+            "question_bank_id": 431448,
+            "tag_id": 904,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431450,
+      "value": {
+        "options": {
+          "ক": "[math]4.3\\times 10^9s^{-1}[/math]",
+          "খ": "[math]2.41\\times 10^{19}s^{-1}[/math]",
+          "গ": "[math]2.4\\times 10^{12}s^{-1}[/math]",
+          "ঘ": "[math]1.24\\times 10^{11}s^{-1}[/math]",
+          "ঙ": "[math]1.42\\times 10^{19}s^{-1}[/math]"
+        },
+        "question": "একটি এক্সরে ফোটন এর প্রাথমিক কম্পাঙ্ক [math]3 \\times 10^{19} \\mathrm{sec}^{-1}[/math]। ফোটন একটি ইলেকট্রনের সাথে সংঘর্ষ করে 90° কোণে বিক্ষিপ্ত হয়। নতুন কম্পাঙ্ক কত?",
+        "solution": "[math]\\mathbf{c}=\\boldsymbol{R} \\Rightarrow \\lambda=\\dfrac{c}{f}\\\\ \\lambda^{\\prime}-\\lambda=\\dfrac{h}{m_{0} c}(1-\\cos \\theta) \\Rightarrow \\lambda^{\\prime}-\\dfrac{c}{f}=\\dfrac{h}{m_{0} c}\\left(1-\\cos 90^{\\circ}\\right) \\Rightarrow \\lambda^{\\prime}=1.242 \\times 10^{-11} \\mathrm{~m}\\\\ \\therefore \\mathrm{f}^{\\prime}=\\dfrac{\\mathrm{c}}{\\lambda^{\\prime}}=2.41 \\times 10^{19} \\mathrm{~Hz}=2.41 \\times 10^{19} \\mathrm{~s}^{-1}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 431450,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 431450,
+            "tag_id": 88,
+            "year": "15-16",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431451,
+      "value": {
+        "options": {
+          "ক": "[math]p=\\dfrac{c}{E}[/math]",
+          "খ": "[math]p=\\dfrac{E}{c}[/math]",
+          "গ": "[math]p=\\dfrac{\\pi}{h}[/math]",
+          "ঘ": "[math]{p}=\\dfrac{{h}}{{c}}[/math]"
+        },
+        "question": "ফোটনের ভরবেগ–",
+        "solution": "[math]P=m c=\\dfrac{m c^{2}}{c}=\\dfrac{E}{c}[/math]",
+        "explanation": "",
+        "correct_answer": "B. [math]p=\\dfrac{E}{c}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 431451,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 431451,
+            "tag_id": 3,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431452,
+      "value": {
+        "options": {
+          "ক": "ক্যাথোড রশ্মি",
+          "খ": "ধনরশ্মি",
+          "গ": "গামা রশ্মি",
+          "ঘ": "রঞ্জন রশ্মি"
+        },
+        "question": "দ্রুত গতি সম্পন্ন ইলেক্ট্রন কোন ধাতুর উপর আঘাত করলে তা থেকে যে রশ্মি বিকির্ণ হয় তার নাম কি?",
+        "solution": "দ্রুত গতি সম্পন্ন ইলেকট্রন কোনো ধাতুর উপর আঘাত করলে তা থেকে রঞ্জন রশ্মি নির্গত হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 431452,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 431452,
+            "tag_id": 16,
+            "year": "09-10",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431453,
+      "value": {
+        "options": {
+          "ক": "কমে যায়",
+          "খ": "বৃদ্ধি পায়",
+          "গ": "অপরিবর্তিত থাকে",
+          "ঘ": "দ্বিগুণ হয়"
+        },
+        "question": "কম্পটন প্রভাবে আপতিত ফোটনের তরঙ্গদৈর্ঘ্য, বিক্ষিপ্ত হবার পর—",
+        "solution": "কম্পটন প্রভাবে, ফোটন যখন একটি ইলেক্ট্রনের সাথে সংঘর্ষে লিপ্ত হয়, তখন ফোটন শক্তি হারায় এবং ইলেক্ট্রন শক্তি লাভ করে। শক্তির নিত্যতা সূত্রানুসারে, ফোটনের শক্তি কমে গেলে তার তরঙ্গদৈর্ঘ্য বৃদ্ধি পায় কারণ শক্তি [math](E)[/math]\u003Cbr\u003E এবং তরঙ্গদৈর্ঘ্য [math](\\lambda)[/math]\u003Cbr\u003E এর মধ্যে সম্পর্কটি হলো [math]E = \\frac{hc}{\\lambda}[/math]\u003Cbr\u003E, যেখানে [math]h[/math]\u003Cbr\u003E প্ল্যাঙ্কের ধ্রুবক এবং [math]c[/math]\u003Cbr\u003E আলোর বেগ। তাই, বিক্ষিপ্ত হওয়ার পর ফোটনের তরঙ্গদৈর্ঘ্য বৃদ্ধি পায়।",
+        "explanation": "",
+        "correct_answer": "B. বৃদ্ধি পায়"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 431453,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431454,
+      "value": {
+        "options": {
+          "ক": "কমে যায়",
+          "খ": "বেড়ে যায়",
+          "গ": "একই থাকে",
+          "ঘ": "দ্বিগুণ হয়"
+        },
+        "question": "কম্পটন ক্রিয়ার বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য আপতিত ফোটনের তরঙ্গদৈর্ঘ্য তুলনায়—",
+        "solution": "কম্পটন ক্রিয়ায়, বিক্ষিপ্ত ফোটনের শক্তি আপতিত ফোটনের শক্তি অপেক্ষা কম হয়। শক্তির এই হ্রাস তরঙ্গদৈর্ঘ্যের বৃদ্ধির কারণ, তাই বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য আপতিত ফোটনের তরঙ্গদৈর্ঘ্যের তুলনায় বেড়ে যায়।",
+        "explanation": "",
+        "correct_answer": "B. বেড়ে যায়"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 431454,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431455,
+      "value": {
+        "options": {
+          "ক": "কমে যায়",
+          "খ": "বৃদ্ধি পায়",
+          "গ": "অপরিবর্তিত থাকে",
+          "ঘ": "দ্বিগুণ হয়"
+        },
+        "question": "কম্পটন প্রভাবে আপতিত ফোটনের তরঙ্গ দৈর্ঘ্য, বিক্ষিপ্ত হওয়ার পর—",
+        "solution": "কম্পটন প্রভাব অনুসারে, যখন একটি ফোটন একটি ইলেকট্রনের সাথে সংঘর্ষে লিপ্ত হয়, তখন ফোটনটি শক্তি হারায় এবং বিক্ষিপ্ত হয়। শক্তি হারানোর কারণে, ফোটনের তরঙ্গদৈর্ঘ্য বৃদ্ধি পায়।",
+        "explanation": "",
+        "correct_answer": "B. বৃদ্ধি পায়"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 431455,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431456,
+      "value": {
+        "options": {
+          "ক": "তরঙ্গ ধর্ম",
+          "খ": "কণা ধৰ্ম",
+          "গ": "তরঙ্গ ও কণা ধর্ম",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "কম্পটন ক্রিয়ার আলোয় কোন ধর্ম প্রকাশ পায়?",
+        "solution": "কম্পটন ক্রিয়ার মাধ্যমে আলোর কণা ধর্ম প্রমাণিত হয়। এই ক্রিয়ায়, উচ্চ শক্তি সম্পন্ন ফোটন (আলোর কণা) একটি ইলেকট্রনের সাথে সংঘর্ষে লিপ্ত হয় এবং শক্তি ও ভরবেগ বিনিময় করে। এই প্রক্রিয়াটি কেবল আলোর কণা ধর্মের মাধ্যমেই ব্যাখ্যা করা সম্ভব, কারণ তরঙ্গ ধর্ম শক্তি বা ভরবেগের আদান-প্রদানকে এভাবে ব্যাখ্যা করতে পারে না।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 431456,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431457,
+      "value": {
+        "options": {
+          "গ": "আপতিত ফোটনের শক্তি কত?"
+        },
+        "question": "ইলেক্ট্রনের সাথে সংঘর্ষের ফলে [math]4400 \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আপতিত ফোটন [math]60^\\circ[/math] কোণে বিক্ষিপ্ত হয়ে একটি ধাতব পৃষ্ঠকে আঘাত করে। ধাতব পৃষ্ঠের কার্যাপেক্ষক [math]2.5 \\mathrm{eV}[/math]। [math]\\left(\\mathrm{~h}=6.63 \\times 10^{-34} \\mathrm{~J}-\\mathrm{s}, \\mathrm{c}=3 \\times 10^{8} \\mathrm{~ms}^{-1}, m_{0}=9.1 \\times 10^{-31} \\mathrm{~kg}\\right)[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআপতিত ফোটনের তরঙ্গদৈর্ঘ্য [math]\\lambda=4400 \\mathring{A}=4400 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্লাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eফোর্টনের বেগ, [math]\\mathrm{c}=3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E আপতিত ফোটনের শক্তি,[math]\\hspace{1.5 cm}\\begin{aligned} \\therefore \\quad E & =h v=h \\frac{\\mathrm{c}}{\\lambda}=6.63 \\times 10^{-34} \\times \\frac{3 \\times 10^{8}}{4400 \\times 10^{-10}} \\mathrm{~J}=4.52 \\times 10^{-19} \\mathrm{~J} \\\\ \\therefore \\quad E & =2.83 \\mathrm{eV} \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E আপতিত ফোটনের শক্তি নির্ণয় করতে Planck সূত্র প্রয়োগ করি: [math]E=\\dfrac{hc}{\\lambda}=\\dfrac{6.63\\times10^{-34}\\times3\\times10^{8}}{4.4\\times10^{-7}}=4.52\\times10^{-19}\\ \\rm J= \\dfrac{4.52\\times10^{-19}}{1.6\\times10^{-19}}\\approx2.82\\ \\rm eV[/math]. কোণটি ফোটনের শক্তিকে পরিবর্তন করে না, তাই আপতিত ফোটনের শক্তি ≈ [math]2.82\\ \\rm eV[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 431457,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 431457,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 431457,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431458,
+      "value": {
+        "options": {
+          "ঘ": "ফটোইলেক্ট্রন ও বিক্ষিপ্ত ইলেক্ট্রনের মধ্যে কোনটির গতিশক্তি বেশি হবে- যাচাই কর।"
+        },
+        "question": "ইলেক্ট্রনের সাথে সংঘর্ষের ফলে [math]4400 \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের আপতিত ফোটন [math]60^\\circ[/math] কোণে বিক্ষিপ্ত হয়ে একটি ধাতব পৃষ্ঠকে আঘাত করে। ধাতব পৃষ্ঠের কার্যাপেক্ষক [math]2.5 \\mathrm{eV}[/math]। [math]\\left(\\mathrm{~h}=6.63 \\times 10^{-34} \\mathrm{~J}\\text{-s}, \\mathrm{c}=3 \\times 10^{8} \\mathrm{~ms}^{-1}, m_{0}=9.1 \\times 10^{-31} \\mathrm{~kg}\\right)[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eবিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য [math]\\lambda^\\prime[/math]\u003Cbr\u003E হলে,এখানে,[math]\\hspace{1 cm}\\begin{array}{l} \\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js} \\\\ \\mathrm{m}_{0}=9.1 \\times 10^{-31} \\mathrm{~kg} \\\\ \\mathrm{c}=3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1} \\\\ \\phi=60^{\\circ} \\\\ \\lambda=4400 \\times 10^{-10} \\mathrm{~m} \\\\ W_{0}=2.5 \\mathrm{eV} \\end{array}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad~ \\lambda^{\\prime}-\\lambda=\\frac{h}{m_{0} c}(1-\\cos \\phi) \\\\ \\Rightarrow \\lambda^{\\prime}=\\left\\{\\frac{6.63 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 3 \\times 10^{8}}\\left(1-\\cos 60^{\\circ}\\right)+4400 \\times 10^{-10}\\right\\} \\mathrm{m} \\\\ \\therefore ~\\lambda^{\\prime}=4400.0121 \\times 10^{-10} \\mathrm{~m} \\end{array}[/math]\u003Cbr\u003Eবিক্ষিপ্ত ইলেকট্রনটির গতিশক্তি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{~~~E} & =\\frac{\\mathrm{hc}}{\\lambda}-\\frac{\\mathrm{hc}}{\\lambda^{\\prime}} \\\\ & =\\mathrm{hc}\\left(\\frac{1}{\\lambda}-\\frac{1}{\\lambda^{\\prime}}\\right) \\\\ & =6.63 \\times 10^{-34} \\times 3 \\times 10^{8}\\left(\\frac{1}{4400 \\times 10^{-10}}-\\frac{1}{4400.0121 \\times 10^{-10}}\\right) \\\\ & =1.25 \\times 10^{-24} \\mathrm{~J} \\\\ \\therefore \\mathrm{E} & =7.77 \\times 10^{-6} \\mathrm{eV} \\end{aligned}[/math]\u003Cbr\u003Eফটো ইলেকট্রনের গতিশক্তি,[math]\\hspace{1.5 cm}\\begin{aligned} E^{\\prime}=\\frac{h c}{\\lambda}-W_{0} & =\\left(\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^{8}}{4400 \\times 10^{-10}}-2.5 \\times 1.6 \\times 10^{-19}\\right) \\mathrm{J} \\\\ & =5.2 \\times 10^{-20} \\mathrm{~J} \\end{aligned}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\therefore \\mathrm{E}^{\\prime}=0.33 \\mathrm{eV}[/math]\u003Cbr\u003Eউপরোক্ত গাণিতিক বিশ্লেষণ হতে দেখা যাচ্ছে, [math]E^{\\prime}\u003E\\mathrm{E}[/math]\u003Cbr\u003E অর্থাৎ ফটো ইলেকট্রনের গতিশক্তি বিক্ষিপ্ত ইলেকট্রন অপেক্ষা বেশি হবে।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ফটোইলেকট্রনের সর্বাধিক গতিশক্তি [math]K_{\\rm photo}=E_{\\gamma}-\\phi[/math], এখানে [math]E_{\\gamma}=\\dfrac{hc}{\\lambda}[/math] এবং [math]\\lambda=4400\\mathring{\\rm A}=4.4\\times10^{-7}\\ {\\rm m}[/math], তাই [math]E_{\\gamma}\\approx2.82\\ {\\rm eV}[/math] এবং [math]K_{\\rm photo}=2.82-2.50=0.32\\ {\\rm eV}[/math].  \nবিক্ষিপ্ত (Compton) ইলেকট্রনের শক্তি ফোটনের শক্তি হ্রাসের সমান: [math]\\Delta\\lambda=\\dfrac{h}{m_0c}(1-\\cos60^\\circ)=1.215\\times10^{-12}\\ {\\rm m}[/math] থেকে প্রাপ্ত শক্তি প্রায় [math]K_{\\rm recoil}\\approx1.25\\times10^{-24}\\ {\\rm J}\\approx7.8\\times10^{-6}\\ {\\rm eV}[/math].  \nঅতএব ফটোইলেকট্রনের গতিশক্তি অনেক বেশি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 431458,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 431458,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 431458,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431435,
+      "value": {
+        "options": {
+          "গ": "বিক্ষিপ্ত [math]\\text{X-ray}[/math] ফোটনের তরঙ্গ দৈর্ঘ্য কত?"
+        },
+        "question": "নিচের উদ্দীপকটি লক্ষ কর :\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202820pg20tecq1-7-d_1755589713_thTdn4mF.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, আপতিত ফোটনের তরঙ্গ দৈর্ঘ্য, [math]\\lambda=0.3 \\mathring{A}=0.3 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003Eবিক্ষেপণ কোণ, [math]\\phi = 60°[/math]\u003Cbr\u003Eবিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য, [math]\\lambda' = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1cm}\\begin{aligned}\\lambda^{\\prime} & =\\lambda+\\frac{\\mathrm{h}}{\\mathrm{m}_{0} \\mathrm{c}}(1-\\cos \\phi) \\\\& =0.3 \\times 10^{-10} \\mathrm{~m}+\\frac{6.63 \\times 10^{-34} \\mathrm{~J} . \\mathrm{s}}{9.1 \\times 10^{-31} \\mathrm{~kg} \\times 3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}}\\left(1-\\cos 60^{\\circ}\\right) \\\\& =3.12 \\times 10^{-11} \\mathrm{~m}=0.312 \\mathring{A}\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সঠিক কারণ কম্পটন বিক্ষেপে বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য প্রাথমিক তরঙ্গদৈর্ঘ্যের সাথে কম্পটন শিফট যোগ করলে পাওয়া যায়, যেখানে [math]\\Delta\\lambda=\\frac{h}{m_e c}(1-\\cos\\theta)[/math]. প্রশ্নে প্রদত্ত প্রাথমিক তরঙ্গদৈর্ঘ্য ও বিক্ষেপ কোণটি এই সূত্রে বসালে প্রাপ্ত ফলটি \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E-তে দেওয়া মানের সমান হয়, তাই সেটিই সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 431435,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 339,
+          "full_name": "Gazipur Cantonment College",
+          "short_name": "GCC",
+          "slug": "gcc",
+          "pivot": {
+            "question_bank_id": 431435,
+            "tag_id": 339,
+            "year": "2020",
+            "created_at": "2025-08-19T07:48:33.000000Z",
+            "updated_at": "2025-08-19T07:48:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431437,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের উল্লিখিত ঘটনা শক্তির সংরক্ষণশীলতা নীতি সমর্থন করে কিনা তা গাণিতিকভাবে যাচাই কর।"
+        },
+        "question": "একটি কার্বন খণ্ড থেকে [math]10\\ pm[/math] তরঙ্গ দৈর্ঘ্যের [math]x[/math] রশ্মি কোন লক্ষ্যবস্তুতে আঘাত হানায় বিক্ষিপ্ত বিকিরণটি আপতিত রশ্মির দিকের সাথে [math]60^\\circ[/math] কোণে বিক্ষিপ্ত হয় এবং ইলেকট্রনটি আলোক দ্রুতির [math]90\\%[/math] দ্রুতিতে গতিশীল হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eফোটনের হারানো শক্তি,[math]\\hspace{.5cm}\\begin{aligned}\\Delta \\mathrm{E} & =\\mathrm{hc}\\left(\\frac{1}{\\lambda}-\\frac{1}{\\lambda^{\\prime}}\\right) \\\\& =6.63 \\times 10^{-34} \\mathrm{Js} \\times 3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}\\left(\\frac{1}{10^{-11}}-\\frac{1}{1.121 \\times 10^{-11}}\\right) \\\\\\Delta \\mathrm{E} & =2.146 \\times 10^{-15} \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003Eআবার, ইলেকট্রন-এর গতিশক্তি,[math]\\begin{aligned}\\mathrm{E}_{\\mathrm{k}} & =\\frac{1}{2} \\mathrm{mv}^{2} \\\\\\Rightarrow \\mathrm{E}_{\\mathrm{k}} & =\\frac{1}{2} \\mathrm{~m}_{0} \\mathrm{v}_{0}^{2} \\\\\\Rightarrow & \\mathrm{E}_{\\mathrm{k}}=\\frac{1}{2} \\times 9.1 \\times 10^{-31} \\mathrm{~kg} \\times\\left(0.9 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}\\right)^{2} \\\\\\therefore \\quad \\mathrm{E}_{\\mathrm{k}} & =3.317 \\times 10^{-14} \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003Eসুতরাং, [math]\\Delta \\mathrm{E} \\neq \\mathrm{E}_{\\mathrm{k}}[/math]\u003Cbr\u003Eঅর্থাৎ, উদ্দীপকের ঘটনা শক্তির সংরক্ষণশীলতা নীতি সমর্থন করে না । (এখানে উল্লেখিত তথ্যাদিতে ত্রুটি থাকার কারণে এমনটি হলো।)",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E উক্ত ঘটনা শক্তি সংরক্ষণ নীতির সঙ্গে সামঞ্জস্যপূর্ণ নয়; কারণ ইনিশিয়াল ফোটনের শক্তি খুব ছোট। প্রথমত, ফোটনের শক্তি [math]E_i=\\frac{hc}{\\lambda}=\\frac{1240\\ \\text{eV·nm}}{0.01\\ \\text{nm}}=1.24\\times10^5\\ \\text{eV}=124\\ \\text{keV}[/math]। পরে ইলেকট্রনের গতি [math]v=0.9c[/math] হলে [math]\\gamma=\\frac{1}{\\sqrt{1-0.9^2}}\\approx2.294[/math] এবং ইলেকট্রনের কাইনেটিক শক্তি [math]K=(\\gamma-1)mc^2\\approx(2.294-1)\\times511\\ \\text{keV}\\approx662\\ \\text{keV}[/math]। কিন্তু [math]662\\ \\text{keV}\\gg124\\ \\text{keV}[/math], তাই ফোটন থেকে এত শক্তি সরবরাহ করা যায় না এবং শক্তির সংরক্ষণ ভঙ্গ হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 431437,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3315,
+          "full_name": "Ispahani Public School And College. Chattogram",
+          "short_name": "IPSCC",
+          "slug": "ipscc",
+          "pivot": {
+            "question_bank_id": 431437,
+            "tag_id": 3315,
+            "year": "2020",
+            "created_at": "2025-08-19T07:48:34.000000Z",
+            "updated_at": "2025-08-19T07:48:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431436,
+      "value": {
+        "options": {
+          "গ": "বিক্ষিপ্ত ফোটনের কম্পাঙ্ক কত?"
+        },
+        "question": "একটি কার্বন খণ্ড থেকে [math]10\\ pm[/math] তরঙ্গ দৈর্ঘ্যের [math]x[/math] রশ্মি কোন লক্ষ্যবস্তুতে আঘাত হানায় বিক্ষিপ্ত বিকিরণটি আপতিত রশ্মির দিকের সাথে [math]60^\\circ[/math] কোণে বিক্ষিপ্ত হয় এবং ইলেকট্রনটি আলোক দ্রুতির [math]90\\%[/math] দ্রুতিতে গতিশীল হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, [math]\\lambda=10 \\mathrm{pm}=10 \\times 10^{-12} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\theta=60^{\\circ}, \\mathrm{v}=0.9 \\mathrm{c}, f^{\\prime}=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1cm}\\begin{aligned}\\lambda^{\\prime} & =\\lambda+\\frac{\\mathrm{h}}{\\mathrm{m}_{0} \\mathrm{c}}(1-\\cos \\theta) \\\\& =10^{-11} \\mathrm{~m}+\\frac{6.63 \\times 10^{-34} \\mathrm{Js}}{9.1 \\times 10^{-31} \\mathrm{~kg} \\times 3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}}\\left(1-\\cos 60^{\\circ}\\right) \\\\& =1.121 \\times 10^{-11} \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eআবার, [math]c = f\\lambda[/math]\u003Cbr\u003E [math]\\hspace{.5cm}\\begin{array}{l}\\therefore f^{\\prime}=\\frac{\\mathrm{c}}{\\lambda^{\\prime}}=\\frac{3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}}{1.121 \\times 10^{-11} \\mathrm{~m}} \\\\\\therefore f^{\\prime}=2.675 \\times 10^{19} \\mathrm{~Hz}\\end{array}[/math]\u003Cbr\u003Eঅতএব, বিক্ষিপ্ত ফোটনের কম্পাঙ্ক [math]2.675 \\times 10^{19} \\mathrm{~Hz} \\text { । }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রাপ্ত রশ্মির কম্পাঙ্ক নির্ণয়ের চেষ্টা করার আগে দেখে নেওয়া যাক শক্তি ঠিক আছে কি না। প্রাথমিক ফোটনের শক্তি [math]E_\\gamma=\\dfrac{hc}{\\lambda}=\\dfrac{1240\\ \\text{eV·nm}}{0.01\\ \\text{nm}}=124{,}000\\ \\text{eV}=124\\ \\text{keV}[/math]; এবং [math]v=0.9c[/math] পেতে ইলেকট্রনের প্রয়োজনীয় কাইনেটিক শক্তি [math]\\gamma=\\dfrac{1}{\\sqrt{1-0.9^2}}\\approx2.294,\\quad K=(\\gamma-1)mc^2\\approx1.294\\times511\\ \\text{keV}\\approx661\\ \\text{keV}[/math], যা প্রাপ্ত ফোটনের শক্তির তুলনায় অনেক বেশি; তাই এত দ্রুতগতির ইলেকট্রন উৎপন্ন করার জন্য পর্যাপ্ত শক্তি নেই এবং বাস্তবে এই পরিস্থিতিতে কোনো শারীরিকভাবে গ্রহণ্য বিক্ষিপ্ত ফোটনের কম্পাঙ্ক পাওয়া যায় না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 431436,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3315,
+          "full_name": "Ispahani Public School And College. Chattogram",
+          "short_name": "IPSCC",
+          "slug": "ipscc",
+          "pivot": {
+            "question_bank_id": 431436,
+            "tag_id": 3315,
+            "year": "2020",
+            "created_at": "2025-08-19T07:48:33.000000Z",
+            "updated_at": "2025-08-19T07:48:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431434,
+      "value": {
+        "options": {
+          "ঘ": "গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও যে, বিক্ষিপ্ত এক্স-রশ্যির শক্তি উদ্দীপকে উল্লিখিত আপতিত র শ্মির চেয়ে কম।"
+        },
+        "question": "[math]2.4[/math] Å তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত করে [math]60°[/math] কোণে বিক্ষিপ্ত হলো।",
+        "solution": "",
+        "explanation": "ব্যাখ্যা: কম্পটন বিকিরণের সূত্র অনুযায়ী [math]\\Delta\\lambda=\\lambda'-\\lambda=\\frac{h}{m_e c}(1-\\cos\\theta)[/math]. এখানে [math]\\lambda_C=\\frac{h}{m_e c}=0.02426\\ \\text{Å}[/math], এবং [math]1-\\cos60^\\circ=0.5[/math], ফলে [math]\\Delta\\lambda=0.01213\\ \\text{Å}[/math] এবং [math]\\lambda'=2.4+0.01213=2.41213\\ \\text{Å}\u003E\\;2.4\\ \\text{Å}[/math]. যেহেতু ফোটনের শক্তি [math]E=\\frac{hc}{\\lambda}[/math], বড় তরঙ্গদৈর্ঘ্যের জন্য শক্তি কম হয়, তাই বিক্ষিপ্ত রশ্মির শক্তি আপতিত রশ্মির চেয়ে কম।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 431434,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:48:32.000000Z",
+            "updated_at": "2025-08-19T07:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431426,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকে সৃষ্ট এক্স-রের তরঙ্গ দৈর্ঘ্য [math]0.25 \\ nm[/math] হয় এবং কোনো লক্ষ্যবস্তুকে আঘাত করে [math]60°[/math] কোণে বিক্ষিপ্ত হলো। সেখানে ইলেকট্রনের নিশ্চল ভর [math]9.1 \\times 10^{-34} kg[/math] এবং প্ল্যাঙ্কের ধ্রুবক [math]6.63 \\times 10^{-34}Js[/math]। বিক্ষিপ্ত এক্স রশ্মিটির শক্তি আপতিত রশ্মিটির চেয়ে সামান্য কম – গাণিতিকভাবে বিশ্লেষণ করে এর সত্যতা যাচাই করো।"
+        },
+        "question": "নিচের চিত্রে একটি গ্যাস নল দেখানো হয়েছে। এটি বিশেষ ধরনের গ্যাস নল। এতে [math]C[/math] ক্যাথোড, [math]A[/math] অ্যানোড। নলে নিম্ন বায়ু চাপে এবং ক্যাথোড ও অ্যানোডের মধ্যে অতি উক্ত বিভব পার্থক্য প্রয়োগে এক্স-রে উৎপন্ন হয়।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22020-8_1755589712_80EdLia5.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,আপতিত রশ্মির তরঙ্গ দৈর্ঘ্য, [math]\\lambda_0 = 0.25 nm = 0.25 × 10^{-9}[/math]\u003Cbr\u003E mবিক্ষেপণ কোণ, [math]\\theta[/math]\u003Cbr\u003E = 60°ইলেকট্রনের নিশ্চল ভর, [math]m_0 = 9.1 \\times 10^{-31}[/math]\u003Cbr\u003Ekgপ্লাঙ্কের ধ্রুবক, h=6.63 × [math]10^{-34}[/math]\u003Cbr\u003E Jsআলোর বেগ, c = [math]3 \\times 1068 ms^{-1}[/math]\u003Cbr\u003Eধরি, বিক্ষিপ্ত রশ্মির তরঙ্গ দৈর্ঘ্য, = [math]\\lambda^\\prime[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{r}\\lambda^{\\prime}-\\lambda_{0}=\\frac{h}{m_{0} c}(1-\\cos \\theta) \\\\\\text { } \\lambda^{\\prime}=\\lambda_{0}+\\frac{h}{m_{0} c}(1-\\cos \\theta)\\end{array}[/math]\u003Cbr\u003E [math]=0.25 \\times 10^{-9}+\\frac{6.63 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 3 \\times 10^{8}}\\left(1-\\cos 60^{\\circ}\\right)[/math]\u003Cbr\u003E [math]2.51 \\times 10^{-10}[/math]\u003Cbr\u003E mএখন, আপতিত রশ্মির শক্তি,[math]\\begin{aligned}E & =\\frac{h c}{\\lambda^{\\circ}} \\\\& =\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^{8}}{0.25 \\times 10^{-9}} \\\\& =7.956 \\times 10^{-16} \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003Eবিক্ষিপ্ত রশ্মির শক্তি,[math]\\begin{aligned}\\mathrm{E}^{\\prime} & =\\frac{h \\mathrm{c}}{\\lambda^{\\prime}} \\\\& =\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^{8}}{2.51 \\times 10^{-10}} \\\\& =7.924 \\times 10^{-16} \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore E^{\\prime}\u003EE[/math]\u003Cbr\u003Eবিক্ষিপ্ত এক্স রশ্মিটির শক্তি আপতিত রশ্মিটির চেয়ে সামান্য কম । -",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E উপযুক্ত — কম্পটন সিচালনের সূত্র অনুযায়ী [math]\\Delta \\lambda=\\lambda'-\\lambda=\\dfrac{h}{mc}(1-\\cos\\theta)[/math]. এখানে [math]h=6.63\\times10^{-34}\\,Js,\\;m\\approx9.1\\times10^{-31}\\,kg,\\;c=3.0\\times10^{8}\\,m/s,\\;\\theta=60^\\circ[/math], তাই [math]\\dfrac{h}{mc}\\approx2.43\\times10^{-12}\\,m[/math] এবং [math]\\Delta\\lambda=2.43\\times10^{-12}\\times(1-0.5)=1.215\\times10^{-12}\\,m=1.215\\times10^{-3}\\,nm[/math], ফলে [math]\\lambda'=0.25+0.001215=0.251215\\,nm[/math]. যেহেতু ফোটনের শক্তি [math]E=hc/\\lambda[/math], অতএব ছরানো রশ্মির শক্তি সামান্য কম হবে — গণিতগতভাবে কথ্যটি সত্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 431426,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:48:32.000000Z",
+            "updated_at": "2025-08-19T07:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431427,
+      "value": {
+        "options": [],
+        "question": "[math]0.3[/math]Å তরঙ্গদৈর্ঘ্যের এক্স রশ্মি ইলেকট্রন কর্তৃক [math]60°[/math] কোণে বিক্ষিপ্ত হলো। বিক্ষিপ্ত ফোটনের তর ঙ্গদৈর্ঘ্য নির্ণয় কর।",
+        "solution": "[math]0.312[/math]Å",
+        "explanation": "ব্যাখ্যা: এক্স-রে ফোটনের তরঙ্গদৈর্ঘ্য বর্ধন Compton বিকিরণের কারণে হয় এবং এটির সূত্র [math]\\Delta\\lambda=\\lambda_C(1-\\cos\\theta)[/math] যেখানে [math]\\lambda_C=h/(mc)\\approx2.426\\times10^{-12}\\,\\text{m}=0.02426\\,\\text{Å}[/math]. এখানে [math]\\theta=60^\\circ,[\\cos60^\\circ=0.5][/math], তাই [math]\\Delta\\lambda=0.02426(1-0.5)=0.01213\\,\\text{Å}[/math] এবং বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য [math]\\lambda'=\\lambda+\\Delta\\lambda=0.300+0.01213=0.31213\\,\\text{Å}\\approx0.312\\,\\text{Å}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 431427,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:48:32.000000Z",
+            "updated_at": "2025-08-19T07:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431428,
+      "value": {
+        "options": [],
+        "question": "[math]0.40[/math] Å তরঙ্গদৈর্ঘ্যের একটি এক্স-রে ফোটন একটি নিশ্চল ইলেকট্রনকে আঘাত করলে ফোটন [math]9 0°[/math] কোণে বিক্ষিপ্ত হয়। বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য নির্ণয় কর।",
+        "solution": "[math]0.424[/math]\u003Cbr\u003EÅ[math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eদেওয়া আছে,প্ল্যাঙ্কের ধ্রুবক,[math]\\mathrm{h}=6.63 \\times 10^{-34^{}} \\mathrm{Js}[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{h}}{\\mathrm{m}_{0} \\mathrm{c}}=0.024[/math]\u003Cbr\u003EÅআপতিত ফোটনের তরঙ্গ দৈর্ঘ্য, [math]\\lambda = 0.40[/math]\u003Cbr\u003EÅ[math]\\phi=90^{\\circ}[/math]\u003Cbr\u003Eবিক্ষেপিত ফোটনের তরঙ্গ দৈর্ঘ্য, [math]\\lambda^{\\prime}=?[/math]\u003Cbr\u003Eদৈর্ঘ্য, [math]lambda^{\\prime}=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,কম্পটন ক্রিয়ায়,[math]\\lambda^{\\prime}-\\lambda=\\frac{h}{m_{0} c}(1-\\cos \\phi)[/math]\u003Cbr\u003E [math]\\lambda^{\\prime}-0.40[/math]\u003Cbr\u003EÅ [math]0.024[/math]\u003Cbr\u003EÅ [math](1- cos \\ 90^{\\circ})[/math]\u003Cbr\u003E [math]\\lambda^{\\prime}=0.40=[/math]\u003Cbr\u003EÅ [math]+0.024[/math]\u003Cbr\u003E Å [math]=0.424[/math]\u003Cbr\u003E Å",
+        "explanation": "ব্যাখ্যা: কম্পটন বিখ্যাত সূত্রটি হলো [math]\\Delta\\lambda=\\frac{h}{m_ec}(1-\\cos\\theta)[/math], তাই [math]\\theta=90^\\circ[/math] এ [math]\\Delta\\lambda=\\frac{h}{m_ec}=2.426\\times10^{-12}\\,\\text{m}=0.02426\\,\\text{Å}[/math]. অতএব বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য [math]\\lambda'=\\lambda+\\Delta\\lambda=0.40\\,\\text{Å}+0.02426\\,\\text{Å}=0.42426\\,\\text{Å}\\approx0.424\\,\\text{Å}[/math], যা ইলেকট্রনকে শক্তি স্থানান্তরের ফলে দীর্ঘ হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 431428,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:48:32.000000Z",
+            "updated_at": "2025-08-19T07:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431429,
+      "value": {
+        "options": [],
+        "question": "প্রোটনের কম্পটন তরঙ্গদৈর্ঘ্য কত?",
+        "solution": "[math]1.32 \\times 10^{-15}m[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,প্রোটনের ভর, [math]\\mathrm{m}_{\\mathrm{p}}=1.672 \\times 10^{-27} \\mathrm{~kg}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js}[/math]\u003Cbr\u003Eবেগ, [math]\\mathrm{c}=3 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eকম্পটন তরঙ্গদৈর্ঘ্য, [math]\\lambda_{c}=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,কম্পটন তরঙ্গদৈর্ঘ্য,[math]\\lambda_{\\mathrm{c}}=\\frac{\\mathrm{h}}{\\mathrm{mc}}[/math]\u003Cbr\u003E [math]\\begin{array}{l} =\\frac{6.63 \\times 10^{-34} \\mathrm{Js}}{1.672 \\times 10^{-27} \\mathrm{~kg} \\times 3 \\times 10^{8} \\mathrm{~ms}^{-1}} \\\\ =1.32 \\times 10^{-15} \\mathrm{~m} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রোটনের কম্পটন তরঙ্গদৈর্ঘ্য [math]\\lambda_C=\\frac{h}{m_p c}[/math] দ্বারা নির্ণীত হয়; তাই [math]\\lambda_C=\\frac{6.62607015\\times10^{-34}}{1.6726219\\times10^{-27}\\times2.99792458\\times10^{8}}\\approx1.32\\times10^{-15}\\ \\text{m}[/math], যা প্রোটনের ভর বেশি হওয়ায় ইলেকট্রনের তুলনায় অনেক ছোট।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 431429,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:48:32.000000Z",
+            "updated_at": "2025-08-19T07:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431430,
+      "value": {
+        "options": [],
+        "question": "[math]0.240 \\times 10^{-9} \\ m[/math] তরঙ্গদৈর্ঘ্যের এক্স রশ্মি কোনো ইলেকট্রনের ওপর আপতিত হয়ে [math]60°[/math] কোণে বিক্ষিপ্ত হয়। বিক্ষিপ্ত এক্স রশ্মির তরঙ্গদৈর্ঘ্য নির্ণয় করো। [math]\\left[\\lambda_{c}=0.00243 \\times 10^{-9} \\mathrm{~m}\\right][/math]",
+        "solution": "[math]0.2412 \\ nm[/math]",
+        "explanation": "ব্যাখ্যা: Compton বিক্ষেপণে তরঙ্গদৈর্ঘ্যের পরিবর্তন সূত্র [math]\\Delta\\lambda=\\lambda_c(1-\\cos\\theta)[/math]। এখানে [math]\\lambda_c=0.00243\\times10^{-9}\\ \\mathrm{m}[/math] ও [math]\\theta=60^\\circ[/math], তাই [math]\\Delta\\lambda=0.00243\\times10^{-9}(1-\\cos60^\\circ)=0.00243\\times10^{-9}\\times0.5=0.001215\\times10^{-9}\\ \\mathrm{m}[/math]। ফলে বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য [math]\\lambda'=\\lambda+\\Delta\\lambda=0.240\\times10^{-9}+0.001215\\times10^{-9}=0.241215\\times10^{-9}\\ \\mathrm{m}[/math] (প্রায় [math]0.2412\\times10^{-9}\\ \\mathrm{m}[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 431430,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:48:32.000000Z",
+            "updated_at": "2025-08-19T07:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431431,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে উল্লেখিত ফোটনের কম্পাঙ্ক ও শক্তি নির্ণয় কর।"
+        },
+        "question": "কম্পটন প্রভাবের একটি পরীক্ষায় দেখা যায় যে, [math]0.5[/math]Å | তরঙ্গদৈর্ঘ্যের কোনো ফোটন একটি স্থির ইলেকট্রনকে আঘাত করে [math]45°[/math] কোণে বিক্ষিপ্ত হয় ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,আপতিত ফোটনের তরঙ্গ দৈর্ঘ্য, [math]\\lambda = 0.5 A^\\circ = 0.5 × 10^{-10}[/math]\u003Cbr\u003Eপ্ল্যাংকের ধ্রুবক, h = 6.63 × [math]10^{-34}[/math]\u003Cbr\u003E J.sআলোর দ্রুতি, c = 3 [math]\\times 10^8 ms^{-1}[/math]\u003Cbr\u003Eআপতিত ফোটনের কম্পাঙ্ক, [math]f[/math]\u003Cbr\u003E = ?এবং শক্তি, E = ?আমরা জানি, c = [math]f\\lambda[/math]\u003Cbr\u003E [math]\\begin{aligned}f & =\\frac{\\mathrm{c}}{\\lambda}=\\frac{3 \\times 10^{8}}{0.5 \\times 10^{-10}} \\\\& =6 \\times 10^{18} \\mathrm{~Hz} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003Eএবং শক্তি, [math]\\begin{aligned}\\mathrm{E}=\\mathrm{h} f & =6.63 \\times 10^{-34} \\times 6 \\times 1^{18} \\\\& =3.978 \\times 10^{-15} \\mathrm{~J} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রাথমিক তরঙ্গদৈর্ঘ্য [math]\\lambda=0.5\\ \\text{Å}=5.0×10^{-11}\\ \\text{m}[/math] হলে ফ্রিকোয়েন্সি [math]\\nu=\\dfrac{c}{\\lambda}=\\dfrac{3.00×10^{8}}{5.0×10^{-11}}=6.00×10^{18}\\ \\text{Hz}[/math].  \nশক্তি হিসাব করলে [math]E=h\\nu=6.626×10^{-34}×6.00×10^{18}=3.98×10^{-15}\\ \\text{J}≈\\dfrac{3.98×10^{-15}}{1.602×10^{-19}}=2.48×10^{4}\\ \\text{eV}=24.8\\ \\text{keV}[/math].  \nকম্পটন কোণ এখানে প্রয়োজন নেই কারণ প্রাথমিক ফোটনের শক্তি সরাসরি তার প্রাথমিক তরঙ্গদৈর্ঘ্য থেকে নির্ণয় করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 431431,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:48:32.000000Z",
+            "updated_at": "2025-08-19T07:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431432,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের আলোক বিক্ষেপণের পূর্বে ও পরে ফোটনের তরঙ্গদৈর্ঘ্যের তুলনামূলক বিশ্লেষণ দাও।"
+        },
+        "question": "কম্পটন প্রভাবের একটি পরীক্ষায় দেখা যায় যে, [math]0.5[/math]Å | তরঙ্গদৈর্ঘ্যের কোনো ফোটন একটি স্থির ইলেকট্রনকে আঘাত করে [math]45°[/math] কোণে বিক্ষিপ্ত হয় ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,আপতিত রশ্মির তরঙ্গ দৈর্ঘ্য, [math]\\lambda = 0.5 \\times 10^{-10}[/math]\u003Cbr\u003Emবিক্ষেপণ কোণ, [math]\\theta[/math]\u003Cbr\u003E = 45°আলোর বেগ, c = 3 [math]\\times 10^8ms^{-1}[/math]\u003Cbr\u003Eপ্লাংকের ধ্রুবক, h = 6.63 [math]\\times 10^{-34}[/math]\u003Cbr\u003E J.sস্থির ইলেকট্রনের ভর, [math]m_0 = 9.1 × 10^{-31}[/math]\u003Cbr\u003E kgআমরা জানি,বিক্ষেপিত ফোটনের তরঙ্গদৈর্ঘ্য,[math]\\begin{aligned}\\lambda^{\\prime} & =\\lambda+\\frac{h}{\\mathrm{~m}_{0} \\mathrm{c}}(1-\\cos \\theta) \\\\& =0.5 \\times 10^{-10}+\\frac{6.63 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 3 \\times 10^{8}}\\left(1-\\cos 45^{\\circ}\\right) \\\\& =5.07 \\times 10^{-11} \\mathrm{~m} \\\\& \\therefore \\lambda^{\\prime}\u003E\\lambda\\end{aligned}[/math]\u003Cbr\u003Eসুতরাং গাণিতিক বিশ্লেষণে দেখা যায় যে, বিক্ষেপণের পূর্বে ফোটনের তরঙ্গদৈর্ঘ্য বিক্ষেপণের পরের তরঙ্গদৈর্ঘ্য অপেক্ষা কম ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কম্পটন শিফটের সূত্র অনুযায়ী scattered তরঙ্গদৈর্ঘ্য হলো [math]\\lambda'=\\lambda+\\Delta\\lambda[/math], যেখানে [math]\\Delta\\lambda=\\dfrac{h}{mc}(1-\\cos\\theta)[/math]. এখানে [math]\\dfrac{h}{mc}\\approx0.02426\\ \\text{Å}[/math] এবং [math]\\cos45^\\circ=\\dfrac{\\sqrt2}{2}\\approx0.7071[/math], ফলে [math]\\Delta\\lambda\\approx0.02426(1-0.7071)\\approx0.0071\\ \\text{Å}[/math] এবং [math]\\lambda'\\approx0.5+0.0071=0.5071\\ \\text{Å}[/math]. তাই বিচ্ছুরণের পরে ফোটনের তরঙ্গদৈর্ঘ্য সামান্য বৃদ্ধি পায় (অর্থাৎ বর্ধিত হয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 431432,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:48:32.000000Z",
+            "updated_at": "2025-08-19T07:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431433,
+      "value": {
+        "options": {
+          "গ": "বিক্ষিপ্ত এক্স-রশ্মির তরঙ্গদৈর্ঘ্য নির্ণয় করো।"
+        },
+        "question": "[math]2.4[/math] Å তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত করে [math]60°[/math] কোণে বিক্ষিপ্ত হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eআপতিত রশ্মির তরঙ্গদৈর্ঘ্য, [math]\\lambda = 2.4 Å = 2.4 \\times 10^{-10}[/math]\u003Cbr\u003Emইলেকট্রনের ভর, [math]m_0 = 9.11 \\times 10^{-31}[/math]\u003Cbr\u003E kgআলোর বেগ, c = 3 × [math]10^8 ms^{-1}[/math]\u003Cbr\u003Eপ্ল্যাংকের ধ্রুবক, h =6.63 × [math]10^{-34}[/math]\u003Cbr\u003E J.sবিক্ষেপণ কোণ, [math]\\theta[/math]\u003Cbr\u003E = 60°বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য, [math]\\lambda^\\prime[/math]\u003Cbr\u003E = ?আমরা জানি,বিক্ষিপ্ত এক্স-রশ্মির তরঙ্গদৈর্ঘ্য,[math]\\begin{aligned}\\lambda^{\\prime}= & \\lambda+\\frac{\\mathrm{h}}{\\mathrm{m}_{0} \\mathrm{c}}(1-\\cos \\theta) \\\\= & 2.4 \\times 10^{-10} \\\\& +\\frac{6.63 \\times 10^{-34}}{9.11 \\times 10^{-31} \\times 3 \\times 10^{8}} \\\\& \\quad \\times\\left(1-\\cos 60^{\\circ}\\right) \\\\= & 2.412 \\times 10^{-10} \\mathrm{~m} \\\\= & 2.412 A^\\circ \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য নির্ণয়ের জন্য কম্পটন বিস্তারের সূত্র ব্যবহার করা হয়: [math]\\Delta\\lambda=\\lambda_C(1-\\cos\\theta)[/math], যেখানে [math]\\lambda_C=\\dfrac{h}{mc}\\approx0.0243\\ \\text{Å}[/math]. এখানে [math]\\theta=60^\\circ[/math], তাই [math]\\Delta\\lambda=0.0243(1-\\cos60^\\circ)=0.0243\\times0.5=0.01215\\ \\text{Å}[/math], এবং বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য [math]\\lambda'=\\lambda+\\Delta\\lambda=2.4+0.01215=2.41215\\ \\text{Å}\\approx2.412\\ \\text{Å}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 431433,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T07:48:32.000000Z",
+            "updated_at": "2025-08-19T07:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431410,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের আপতিত ফোটনের শক্তি কত?"
+        },
+        "question": "বিজ্ঞান উৎসুক মেধাবী ছাত্রী হুমায়রা তার বাবার সাথে ঢাকা বিশ্ববিদ্যালয়ের পদার্থবিজ্ঞান বিভাগের গবেষণাগারে গিয়ে একটি পরীক্ষণ দেখতে পায়। উক্ত পরীক্ষায় [math]0.4 \\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের একটি ফোটন কণা একটি স্থির ইলেকট্রনকে আঘাত করে [math]55^\\circ[/math] কোণে বিক্ষিপ্ত হয়ে যায়। [গবেষণাগারের তালিকা থেকে জানা যায় যে, ইলেকট্রনের ভর [math]=9.1 \\times 10^{-31} \\mathrm{~kg}[/math], আলোর বেগ [math]=3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}[/math] এবং প্লা ঙ্কের ধ্রুবক [math]=6.63 \\times 10^{-34} \\mathrm{~J}\\text{-}\\mathrm{s}[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, ফোটনের শক্তি, Eউদ্দীপক থেকে পাই,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]\\lambda=0.4 \\mathring{A} =0.4 \\times 10^{-10} \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্লাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{~J}-\\mathrm{s}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআলোর বেগ, [math]\\mathrm{c}=3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} E &=\\frac{h c}{\\lambda} \\\\ &=\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^{8}}{0.4 \\times 10^{-10}} \\mathrm{~J} \\\\ &=49.725 \\times 10^{-16} \\mathrm{~J} \\\\ & =\\frac{49.725 \\times 10^{-16}}{1.6 \\times 10^{-19} \\mathrm{eV}} \\\\ & =31078.125 \\mathrm{eV} \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, আপতিত ফোটনের শক্তি [math]31078.125 \\mathrm{eV}[/math]\u003Cbr\u003E।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E অংশের জন্য ফোটনের শক্তি ফর্মুলা [math]E=\\dfrac{hc}{\\lambda}[/math] দ্বারা পাওয়া যায়। এখানে [math]h=6.63\\times10^{-34}\\ \\mathrm{J\\,s},\\ c=3.0\\times10^8\\ \\mathrm{m/s},\\ \\lambda=0.4\\ \\mathring{\\mathrm{A}}=4.0\\times10^{-11}\\ \\mathrm{m}[/math], তাই [math]E=\\dfrac{6.63\\times10^{-34}\\times3.0\\times10^8}{4.0\\times10^{-11}}=4.97\\times10^{-15}\\ \\mathrm{J}[/math] (প্রায় [math]3.10\\times10^4\\ \\mathrm{eV}=31.0\\ \\mathrm{keV}[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 431410,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 431410,
+            "tag_id": 3179,
+            "year": "2015",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431409,
+      "value": {
+        "options": {
+          "ঘ": "বিক্ষিপ্ত এক্স-রশ্মিটির শক্তি, আপতিত রশ্মিটির চেয়ে অতি সামান্য কম। গাণিতিকভাবে বিশ্লেষণের মাধ্যমে এর সত্যতা যাচাই কর।"
+        },
+        "question": "[math]0.2500 \\mathrm{~nm}[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60^{\\circ}[/math] কোণে বিক্ষিপ্ত হলো। যেখানে ইলেকট্রনের নিশ্চল ভর [math]9.1 \\times 10^{-31} \\mathrm{~kg}[/math] এবং প্লাঙ্কের ধ্রুবক [math]6.63 \\times 10^{-34} \\mathrm{Js}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eধরি, বিক্ষিপ্ত এক্স রশ্মির তরঙ্গদৈর্ঘ্য, [math]\\lambda^\\prime[/math]\u003Cbr\u003Eউদ্দীপক হতে পাই,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবিক্ষেপ কোণ, [math]\\varphi=60^{\\circ}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের ভর, [math]\\mathrm{m}_{0}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্লাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{~J} \\mathrm{~s}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআলোর বেগ, [math]\\mathrm{c}=3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআপতিত এক্স রশ্মির তরঙ্গদৈর্ঘ্য, [math]\\lambda=0.2500 \\mathrm{~nm}=0.2500 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\lambda^{\\prime}-\\lambda & =\\frac{h}{m_{0} c}(1-\\cos \\varphi)\\\\ \\Rightarrow ~~ \\lambda^{\\prime} & =\\lambda+\\frac{h}{m_{0} c}(1-\\cos \\varphi) \\\\ & =0.2500 \\times 10^{-9} \\mathrm{~m}+\\frac{6.63 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 3 \\times 10^{8}}\\left(1-\\cos 60^{\\circ}\\right) \\\\ & =0.2500 \\times 10^{-9} \\mathrm{~m}+0.001214 \\times 10^{-9} \\mathrm{~m} \\\\ & =0.2500 \\mathrm{~nm}+0.001214 \\mathrm{~nm} \\\\ & =0.251214 \\mathrm{~nm} \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, বিক্ষিপ্ত এক্সরশ্মিটির তরঙ্গদৈর্ঘ্য 0.251214 nm।আপতিত এক্স রশ্মির শক্তি, [math]\\lambda^{\\prime}=0.251214 \\mathrm{~nm} =0.251214 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003Eবিক্ষিপ্ত এক্স রশ্মির তরঙ্গ দৈর্ঘ্য,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{E}_{1} & =\\frac{\\mathrm{hc}}{\\lambda} \\\\ & =\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^{8}}{0.2500 \\times 10^{-9}} \\mathrm{~J} \\\\ & =79.56 \\times 10^{-17} \\mathrm{~J} \\end{aligned}[/math]\u003Cbr\u003Eবিক্ষিপ্ত এক্স রশ্মির শক্তি,[math]\\hspace{1.5 cm}\\mathrm{E}_{2}=\\frac{\\mathrm{hc}}{\\lambda^{\\prime}}=\\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^{8}}{0.251214 \\times 10^{-9}} \\mathrm{~J}=79.176 \\times 10^{-17} \\mathrm{~J}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\Delta \\mathrm{E}=\\mathrm{E}_{1}-\\mathrm{E}_{2}=0.384 \\times 10^{-17} \\mathrm{~J}[/math]\u003Cbr\u003E (যা অতি সামান্য)[math]\\therefore ~[/math]\u003Cbr\u003E উক্তিটি সঠিক।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সঠিক, কারণ কম্পটন বিক্ষিপ্তিতে তরঙ্গদৈর্ঘ্য বাড়ে এবং ফোটনের শক্তি কমে; সূত্র [math]\\Delta\\lambda=\\frac{h}{mc}(1-\\cos\\theta)[/math]. এখানে [math]h=6.63\\times10^{-34}\\,\\mathrm{Js},\\;m=9.1\\times10^{-31}\\,\\mathrm{kg},\\;c=3.00\\times10^8\\,\\mathrm{m/s},\\;\\theta=60^\\circ[/math], ফলে [math]\\Delta\\lambda=2.43\\times10^{-12}\\times0.5=1.215\\times10^{-12}\\,\\mathrm{m}=0.001215\\,\\mathrm{nm}[/math]. প্রাথমিক [math]\\lambda=0.2500\\,\\mathrm{nm}[/math] হলে বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য প্রায় [math]0.251215\\,\\mathrm{nm}[/math] হয়, অর্থাৎ শক্তি [math]E=hc/\\lambda[/math] অনুযায়ী প্রায় [math]0.49\\%[/math] অনেক সামান্যভাবে কমে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 431409,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 431409,
+            "tag_id": 47,
+            "year": "2015",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431411,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের আলোকে বিক্ষেপণের পূর্বে ও পরে ফোটনের তরঙ্গদৈর্ঘ্যের তুলনামূলক বিশ্লেষণ দাও।"
+        },
+        "question": "বিজ্ঞান উৎসুক মেধাবী ছাত্রী হুমায়রা তার বাবার সাথে ঢাকা বিশ্ববিদ্যালয়ের পদার্থবিজ্ঞান বিভাগের গবেষণাগারে গিয়ে একটি পরীক্ষণ দেখতে পায়। উক্ত পরীক্ষায় [math]0.4 \\ \\mathring{\\rm{A}}[/math] তরঙ্গদৈর্ঘ্যের একটি ফোটন কণা একটি স্থির ইলেকট্রনকে আঘাত করে [math]55^\\circ[/math] কোণে বিক্ষিপ্ত হয়ে যায়। [গবেষণাগারের তালিকা থেকে জানা যায় যে, ইলেকট্রনের ভর [math]=9.1 \\times 10^{-31} \\mathrm{~kg}[/math], আলোর বেগ [math]=3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}[/math] এবং প্লা ঙ্কের ধ্রুবক [math]=6.63 \\times 10^{-34} \\mathrm{~J}\\text{-}\\mathrm{s}[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবিক্ষেপণের পূর্বে তরঙ্গদৈর্ঘ্য [math]=\\lambda[/math]\u003Cbr\u003E ও[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপরে তরঙ্গদৈর্ঘ্য [math]=\\lambda^{\\prime}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবিক্ষেপণ কোণ, [math]\\varphi=55^{\\circ}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eইলেকট্রনের ভর, [math]\\mathrm{m}_{0}=9.1 \\times 10^{-31} \\mathrm{~kg}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআলোর বেগ, [math]\\mathrm{c}=3 \\times 10^{8} \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্লাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{~J}-\\mathrm{s}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্যের পার্থক্য, [math]\\Delta \\lambda[/math]\u003Cbr\u003E হলে,আমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\lambda^{\\prime}-\\lambda & =\\Delta \\lambda=\\frac{\\mathrm{h}}{\\mathrm{m}_{0} \\mathrm{c}}(1-\\cos \\varphi) \\\\ & =\\frac{6.63 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 3 \\times 10^{8}}\\left(1-\\cos 55^{\\circ}\\right) \\\\ & =0.10356 \\times 10^{-11} \\mathrm{~m}=0.010356 \\mathring{A} \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, বিক্ষেপণের পরে তরঙ্গদৈর্ঘ্য বিক্ষেপণের পূর্বের তরঙ্গদৈর্ঘ্য অপেক্ষা বেশি।",
+        "explanation": "ব্যাখ্যা: কম্পটন বিচ্যুতি সূত্র [math]\\Delta\\lambda=\\dfrac{h}{mc}(1-\\cos\\theta)[/math] প্রয়োগ করলে প্রথমে কম্পটন তরঙ্গদৈর্ঘ্য [math]\\dfrac{h}{mc}\\approx\\dfrac{6.63\\times10^{-34}}{9.1\\times10^{-31}\\times3\\times10^8}\\approx2.43\\times10^{-12}\\ \\mathrm{m}=0.0243\\ \\mathring{\\rm A}[/math] পাওয়া যায়। এর ফলে [math]\\Delta\\lambda=2.43\\times10^{-12}(1-\\cos55^\\circ)\\approx1.04\\times10^{-12}\\ \\mathrm{m}=0.0104\\ \\mathring{\\rm A}[/math] এবং বিচ্ছুরিত ফোটনের তরঙ্গদৈর্ঘ্য হবে [math]\\lambda'=\\lambda+\\Delta\\lambda\\approx0.4+0.0104=0.4104\\ \\mathring{\\rm A}[/math]। তাই ফোটনের তরঙ্গদৈর্ঘ্য বিক্ষেপণের পরে বেড়ে যায় (অর্থাৎ তার শক্তি কমে যায়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 431411,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 431411,
+            "tag_id": 3179,
+            "year": "2015",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431412,
+      "value": {
+        "options": [],
+        "question": "[math]0.40nm[/math] তরঙ্গদৈর্ঘ্যের একটি ফোটন স্থিরাবস্থায় থাকা একটি ইলেকট্রনের সাথে সংঘর্ষের পর ফো টনটি পূর্বের গতিপথের সাপেক্ষে [math]150^\\circ[/math] কোণে বিক্ষিপ্ত হয়। বিক্ষিপ্ত ফোটনের বেগ ও তরঙ্গদৈর্ঘ্য নির্ণয় কর।",
+        "solution": "Solution : দেওয়া আছে, [math]\\lambda_{0}=0.4 \\mathrm{~nm}=4 \\times 10^{-10} \\mathrm{~m} \\\\ \\mathrm{~m}_{0}=9.1 \\times 10^{-31} \\mathrm{~kg} \\\\ \\mathrm{~h}=6.626 \\times 10^{-34} \\mathrm{Js} \\\\ \\ \\theta=150^{\\circ}[/math]\u003Cbr\u003Eধরি, বিক্ষিপ্ত ফোটনের তরঙ্গদৈর্ঘ্য [math]=\\lambda^{\\prime}[/math]\u003Cbr\u003Eসুতরাং [math]\\lambda^{\\prime}-\\lambda_{0}=\\dfrac{h}{m_{0} c}(1-\\cos \\theta) \\Rightarrow \\lambda^{\\prime}=\\lambda_{0}+\\dfrac{h}{m_{0} c}(1-\\cos \\theta)\\\\ =4 \\times 10^{-10}+\\frac{6.626 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 3 \\times 10^{8}}\\left(1-\\cos 150^{\\circ}\\right)\\\\ =4.045 \\times 10^{-10} \\mathrm{~m}=0.4045 \\mathrm{~nm} \\text { (Ans.) }[/math]\u003Cbr\u003Eবিক্ষিপ্ত ফোটনের বেগ [math]=\\mathrm{c}=3 \\times 10^{8} \\mathrm{~ms}^{-1} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: এটি Compton বিস্তারের ঘটনা, যেখানে [math]\\Delta\\lambda=\\lambda_C(1-\\cos\\theta)[/math] এবং [math]\\lambda_C=\\dfrac{h}{m_e c}=2.426\\times10^{-12}\\,\\text{m}[/math]. এখানে [math]\\theta=150^\\circ[/math] হলে [math]1-\\cos150^\\circ=1-(-\\tfrac{\\sqrt3}{2})\\approx1.8660[/math], তাই [math]\\Delta\\lambda\\approx2.426\\times10^{-12}\\times1.8660\\approx4.53\\times10^{-12}\\,\\text{m}=0.00453\\,\\text{nm}[/math] এবং নতুন তরঙ্গদৈর্ঘ্য [math]\\lambda'=\\,0.40\\,\\text{nm}+0.00453\\,\\text{nm}\\approx0.4045\\,\\text{nm}[/math]. ফোটনের বেগ শূন্যবেগে সবসময় [math]c\\approx3.00\\times10^8\\ \\text{m/s}[/math] থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 431412,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 431412,
+            "tag_id": 80,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431413,
+      "value": {
+        "options": [],
+        "question": "[math]0.40\\mathring{\\rm{A}}[/math] তরঙ্গ দৈর্ঘ্যের [math]\\text{X-ray}[/math] ফোটন একটা নিশ্চল ইলেকট্রনকে আঘাত করলে [math]90^\\circ[/math] কোণে বিক্ষিপ্ত হয়। বিক্ষিপ্ত ফোটনের তরঙ্গ দৈর্ঘ্য নির্ণয় কর।",
+        "solution": "Solution : [math]\\lambda^{\\prime}-\\lambda=\\dfrac{h}{m_{0} c}(1-\\cos \\theta) \\Rightarrow \\lambda^{\\prime}=0.4 \\times 10^{-10}+\\dfrac{6.626 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 3 \\times 10^{8}} \\times\\left(1-\\cos 90^{\\circ}\\right) \\\\ =4.2427 \\times 10^{-11} \\mathrm{~m}=0.42427 \\mathring{\\rm{A}} \\text { (Ans.) }[/math]",
+        "explanation": "কম্পটন সূত্র ব্যবহার করলেই হবে: [math]\\Delta\\lambda=\\frac{h}{m_ec}(1-\\cos\\theta)[/math],  [math]\\theta=90^\\circ[/math] হলে [math](1-\\cos\\theta)=1[/math], তাই [math]\\Delta\\lambda=\\lambda_C=\\frac{h}{m_ec}=2.426\\times10^{-12}\\,\\text{m}=0.02426\\mathring{\\rm{A}}[/math]. শুরুতে [math]0.40\\mathring{\\rm{A}}[/math] থাকায় বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য হবে [math]\\lambda'=0.40+0.02426=0.42426\\mathring{\\rm{A}}\\approx0.424\\mathring{\\rm{A}}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 431413,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 431413,
+            "tag_id": 474,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431414,
+      "value": {
+        "options": [],
+        "question": "কম্পটন বিক্ষেপণ (compton effect) কি? কম্পটন বিক্ষেপণে একটি ফোটনের তরঙ্গ দৈর্ঘ্যের (pho ton wave length) সর্বোচ্চ পরিবর্তন বের কর।",
+        "solution": "Answer : একবর্ণী এক্স রশ্মির বিক্ষেপণের ফলে বিক্ষিপ্ত বিকিরণের তরঙ্গদৈর্ঘ্য অথবা কম্পাংকের পরিবর্তন ঘটে। এই ঘটনা বা ক্রিয়াকে কম্পটন বিক্ষেপণ বলে।Answer : [math]0.048\\mathring{A}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003ESolution : [math]\\Delta \\lambda=\\dfrac{h}{m_{0} \\mathrm{C}}(1-\\cos \\varphi) ; \\varphi=180^{\\circ}[/math]\u003Cbr\u003E হলে [math]\\Delta \\lambda \\text { maximum }[/math]\u003Cbr\u003E [math]\\therefore \\Delta \\lambda_{\\max }=\\dfrac{h}{m_{0} \\mathrm{c}}(1+1)=\\dfrac{2 h}{m_{0} \\mathrm{c}}=2 \\times 0.024 \\mathring{A}=0.048 \\mathring{A} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: কম্পটন বিক্ষেপণ হল এমন একটি ঘটনা যেখানে একটি ফোটন স্বাধীন ইলেকট্রনের সঙ্গে সংঘর্ষ করে এবং শক্তি-গতিসমরক্ষণে ফোটনের তরঙ্গদৈর্ঘ্য বৃদ্ধি পায় (শিফট হয়)। শক্তি ও কণার গতিসমরক্ষণ থেকে প্রাপ্ত সূত্র হল [math]\\Delta\\lambda=\\lambda'-\\lambda=\\frac{h}{m c}(1-\\cos\\theta)[/math], এবং সর্বোচ্চ পরিবর্তন যখন ফোটন পুরোপুরি উল্টোদিকে ছিটকে যায় ([math]\\theta=\\pi[/math]) তখন হয় [math]\\Delta\\lambda_{\\max}=\\frac{2h}{m c}[/math] (এখানে [math]h[/math] প্ল্যাঙ্ক ধ্রুবক, [math]m[/math] ইলেকট্রনের ভর, [math]c[/math] আলোগতিবেগ)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 431414,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 84,
+          "full_name": "Jagannath University (A Unit)",
+          "short_name": "JnU-A",
+          "slug": "jnu-a",
+          "pivot": {
+            "question_bank_id": 431414,
+            "tag_id": 84,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431415,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের আপতিত ফোটনের শক্তি কত?"
+        },
+        "question": "বিজ্ঞান উৎসুক মেধাবী ছাত্রী হুমায়রা তার বাবার সাথে ঢাকা বিশ্ববিদ্যালয়ের পদার্থবিজ্ঞান বিভাগের গবেষণাগারে গিয়ে একটি পরীক্ষণ দেখতে পায়। উক্ত পরীক্ষায় 0.4Å তরঙ্গ দৈর্ঘ্যের একটি ফোটন কণা একটি স্থির ইলেকট্রনকে আঘাত করে [math]55°[/math] কোণে বিক্ষিপ্ত হয়ে যায়।\n\n[গবেষণাগারের তালিকা থেকে জানা যায় যে, ইলেকট্রনের ভর [math]=9.1 \\times 10^{-31} \\mathrm {~kg}[/math], আলোর বেগ [math]=9.1 \\times 10^{-31} \\mathrm{~kg}[/math] এবং প্ল্যাংকের ধ্রুবক [math]=6.63 \\times 10^{-34}Js.[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে,আপতিত ফোটনের তরঙ্গদৈর্ঘ্য, [math]\\lambda = 0.4 \\times 10^{-10}[/math]\u003Cbr\u003Emপ্ল্যাংকের ধ্রুবক, h = 6.63 × [math]10^{-34}[/math]\u003Cbr\u003EJ.sআলোর দ্রুতি, [math]3 \\times 10^8 ms^{-1}[/math]\u003Cbr\u003Eআপতিত ফোটনের শক্তি, E = ?আমরা জানি,[math]\\begin{aligned}E & =\\frac{h \\mathrm{c}}{\\lambda} \\\\& =\\frac{6.63 \\times 10^{-34} \\mathrm{~J} \\mathrm{~s} \\times 3 \\times 10^{8} \\mathrm{~ms}^{-1}}{0.4 \\times 10^{-10} \\mathrm{~m}} \\\\& =4.9725 \\times 10^{-15} \\mathrm{~J} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: উদ্দীপকের আপতিত ফোটনের শক্তি নির্ণয় করতে ব্যবহার করি [math]E=\\dfrac{hc}{\\lambda}[/math]; এখানে [math]h=6.63\\times10^{-34}\\ \\mathrm{Js},\\ c=3.0\\times10^{8}\\ \\mathrm{m/s},\\ \\lambda=0.4\\ \\text{Å}=4.0\\times10^{-11}\\ \\mathrm{m}[/math]. তাই [math]E=\\dfrac{6.63\\times10^{-34}\\times3.0\\times10^{8}}{4.0\\times10^{-11}}=4.97\\times10^{-15}\\ \\mathrm{J}\\approx3.10\\times10^{4}\\ \\mathrm{eV}=31.0\\ \\mathrm{keV}[/math]; কেবল তরঙ্গদৈর্ঘ্য দিয়েই আপতিত ফোটনের শক্তি নির্ণয় করা যায়, বিক্ষিপ্ত কোণ এখানে আপতিত শক্তি বদলায় না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 431415,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431416,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের আলোকে বিক্ষেপণের পূর্বে ও পরে ফোটনের তরঙ্গদৈর্ঘ্যের তুলনামূলক বিশ্লেষণ কর।"
+        },
+        "question": "বিজ্ঞান উৎসুক মেধাবী ছাত্রী হুমায়রা তার বাবার সাথে ঢাকা বিশ্ববিদ্যালয়ের পদার্থবিজ্ঞান বিভাগের গবেষণাগারে গিয়ে একটি পরীক্ষণ দেখতে পায়। উক্ত পরীক্ষায় 0.4Å তরজাদৈর্ঘ্যের একটি ফোটন কণা একটি স্থির ইলেকট্রনকে আঘাত করে [math]55°[/math] কোণে বিক্ষিপ্ত হয়ে যায়।\n\n[গবেষণাগারের তালিকা থেকে জানা যায় যে, ইলেকট্রনের ভর [math]=9.1 \\times 10^{-31} \\mathrm {~kg}[/math], আলোর বেগ [math]=9.1 \\times 10^{-31} \\mathrm{~kg}[/math] এবং প্ল্যাংকের ধ্রুবক [math]=6.63 \\times 10^{-34}Js.[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eদেওয়া আছে,আপতিত রশ্মির তরঙ্গদৈর্ঘ্য, [math]\\lambda = 0.4A^\\circ = 0.4 \\times 10^{-10}[/math]\u003Cbr\u003E mস্থির ইলেকট্রনের ভর, [math]m_0 = 9.1 × 10^{-31}[/math]\u003Cbr\u003E kgআলোর বেগ, c = 3 [math]\\times 10^8[/math]\u003Cbr\u003Eবিক্ষেপণ কোণ, [math]\\theta[/math]\u003Cbr\u003E = 55°প্ল্যাংকের ধ্রুবক, h = 6.63 [math]\\times 10^{-34}[/math]\u003Cbr\u003EJ.sআমরা জানি,বিক্ষেপিত ফোটনের তরঙ্গদৈর্ঘ্য,[math]\\begin{array}{l}\\lambda^{\\prime}=\\lambda+\\frac{h}{m_{0} c}(1-\\cos \\theta) \\\\=0.4 \\times 10^{-10}+\\frac{6.63 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 3 \\times 10^{8}}\\left(1-\\cos 55^{\\circ}\\right)^{\\prime} \\\\=4.10356 \\times 10^{-11} \\mathrm{~m} \\\\\u003E0.4 \\times 10^{-10} \\mathrm{~m}(= \\lambda)\\end{array}[/math]\u003Cbr\u003Eসুতরাং গাণিতিক বিশ্লেষণে দেখা যাচ্ছে যে, বিক্ষেপণের পূর্বে ফোটনের তরঙ্গদৈর্ঘ্য, বিক্ষেপণের পরের তরঙ্গদৈর্ঘ্য অপেক্ষা কম ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: কম্পটন বিচ্ছুরণের ফলে ফোটন ইলেকট্রনকে কিছু শক্তি দিলে ফোটনের তরঙ্গদৈর্ঘ্য বাড়ে; এ জন্য [math]\\Delta\\lambda=\\frac{h}{mc}(1-\\cos\\theta)[/math]. এখানে [math]\\frac{h}{mc}\\approx2.43\\times10^{-12}\\,\\mathrm{m}=0.0243\\AA[/math], এবং [math]1-\\cos55^\\circ\\approx0.4264[/math], তাই [math]\\Delta\\lambda\\approx1.04\\times10^{-12}\\,\\mathrm{m}=0.0104\\AA[/math]. সুতরাং প্রারম্ভিক [math]0.4\\AA[/math] তরঙ্গদৈর্ঘ্য বিক্ষেপণের পরে প্রায় [math]0.4104\\AA[/math] হবে (অর্থাৎ তরঙ্গদৈর্ঘ্য বেড়েছে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 431416,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431417,
+      "value": {
+        "options": {
+          "গ": "বিক্ষিপ্ত [math]X[/math] রশ্মির সর্বোচ্চ তরঙ্গ দৈর্ঘ্য নির্ণয় করো।"
+        },
+        "question": "একটি কার্বন খণ্ড থেকে [math]10 \\ pm[/math] তরঙ্গ দৈর্ঘ্যের [math]X[/math] রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হানায় বিক্ষিপ্ত বিকিরণটি আপতিত রশ্মির দিকের সাথে [math]60°[/math] কোণে বিক্ষিপ্ত হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,X-রশ্মির আদি তরঙ্গদৈর্ঘ্য, [math]\\lambda = 10pm = 10 × 10^12[/math]\u003Cbr\u003E mইলেকট্রনের ভর, [math]m_e = 9.11 × 10^{-31}[/math]\u003Cbr\u003E kgবিক্ষিপ্ত কোণ, [math]\\theta[/math]\u003Cbr\u003E = 60°আলোর বেগ, c = 3 × [math]10^8 ms^{-1}[/math]\u003Cbr\u003Eবিক্ষিপ্ত রশ্মির সর্বোচ্চ তরঙ্গদৈর্ঘ্য, Y' হলে,[math]\\begin{aligned}\\cdot \\lambda^{\\prime} & -\\lambda=\\frac{h}{m_{e} \\mathrm{c}}(1-\\cos \\theta) \\\\\\text { } \\lambda^{\\prime} & =\\lambda+\\frac{h}{m_{e} \\mathrm{c}}(1-\\cos \\theta) \\\\& =10 \\times 10^{-12}+\\frac{6.63 \\times 10^{-34}}{9.11 \\times 10^{-31} \\times 3 \\times 10^{8}} \\times\\left(1-\\cos 60^{\\circ}\\right) \\\\& =10 \\times 10^{-12}+1.213 \\times 10^{-12} \\\\& =11.213 \\times 10^{-12} \\mathrm{~m} \\\\& =11.213 \\mathrm{pm} \\text { (Ans) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বিক্ষিপ্ত রশ্মির সর্বোচ্চ তরঙ্গ দৈর্ঘ্য হলো [math]11.215\\ \\text{pm}[/math]।\n\nব্যাখ্যা: কম্পটন শিফট সূত্রে [math]\\Delta\\lambda=\\lambda_c(1-\\cos\\theta)[/math] যেখানে [math]\\lambda_c=\\dfrac{h}{m_ec}\\approx2.43\\ \\text{pm}[/math]. এখানে [math]\\theta=60^\\circ,\\ \\cos60^\\circ=0.5[/math], তাই [math]\\Delta\\lambda=2.43(1-0.5)=1.215\\ \\text{pm}[/math] এবং বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য [math]\\lambda'=10+1.215=11.215\\ \\text{pm}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 431417,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431418,
+      "value": {
+        "options": {
+          "ঘ": "বিক্ষিপ্ত ইলেকট্রনের সর্বোচ্চ গতিশক্তি নির্ণয় করো।"
+        },
+        "question": "একটি কার্বন খণ্ড থেকে [math]10 \\ pm[/math] তরঙ্গ দৈর্ঘ্যের [math]X[/math] রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হানায় বিক্ষিপ্ত বিকিরণটি আপতিত রশ্মির দিকের সাথে [math]60°[/math] কোণে বিক্ষিপ্ত হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003EX-রশ্মি ও ইলেকট্রনের সংঘর্ষের সময় আপতিত রশ্মির কমপাঙ্ক ও বিক্ষিপ্ত রশ্মির কম্পাঙ্ক [math]f[/math]\u003Cbr\u003E হলে, শক্তির নিত্যতার সূত্রানুসারে[math]\\mathrm{h} f+\\mathrm{m}_{0} \\mathrm{c}^{2}=\\mathrm{h} f^{\\prime}+\\mathrm{mc}^{2}=[/math]\u003Cbr\u003Eএখানে, [math]m_0[/math]\u003Cbr\u003E ও m যথাক্রমে ইলেকট্রনের নিশ্চল ও গতীয় ভর ।[math]\\begin{array}{l}m c^{2}-m_{0} c^{2}=h f-h f^{\\prime} \\\\\\Rightarrow K=\\frac{h c}{\\lambda}-\\frac{h c}{\\lambda^{\\prime}}\\end{array}[/math]\u003Cbr\u003Eইলেকট্রনের গতিশক্তি সর্বোচ্চ হবে যখন ' সর্বোচ্চ হবে। বিক্ষিপ্ত রশ্মির তরঙ্গদৈর্ঘ্য, [math]\\lambda'[/math]\u003Cbr\u003E হবে,[math]\\lambda^{\\prime}=\\lambda+\\frac{h}{m_{0} c}(1-\\cos \\theta)[/math]\u003Cbr\u003E [math]\\lambda'[/math]\u003Cbr\u003E সর্বোচ্চ হবে যখন, [math]\\theta[/math]\u003Cbr\u003E = 180°[math]\\begin{aligned}\\therefore \\lambda_{\\text {max }}^{\\prime} & =\\lambda+\\frac{h}{m_{0} c}\\left(1-\\cos 180^{\\circ}\\right) \\\\& =\\lambda+\\frac{h}{m_{0} c}(1+1) \\\\& =\\lambda+\\frac{2 h}{m_{0} c}\\end{aligned}[/math]\u003Cbr\u003E [math]\\begin{aligned}\\therefore \\mathrm{K}_{\\max } & =\\frac{\\mathrm{hc}}{\\lambda}-\\frac{\\mathrm{hc}}{\\lambda+\\frac{2 \\mathrm{~h}}{\\mathrm{~m}_{0} \\mathrm{c}}} \\\\& =\\mathrm{hc}\\left(\\frac{1}{\\lambda}-\\frac{1}{\\lambda+\\frac{2 \\mathrm{~h}}{\\mathrm{~m}_{0} \\mathrm{c}}}\\right) \\\\& =6.5 \\times 10^{-15} \\\\& =40.57 \\mathrm{MV}\\end{aligned}[/math]\u003Cbr\u003Eঅর্থাৎ, উদ্দীপকের X-রশ্মির সাথে ইলেকট্রনের সংঘর্ষের ফলে বিক্ষিপ্ত ইলেকট্রনের সর্বোচ্চ গতিশক্তি হবে 40.57 MV |",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কম্পটন সরে যাওয়ার সূত্র [math]\\Delta\\lambda=\\dfrac{h}{mc}(1-\\cos\\theta)[/math] প্রয়োগ করলে [math]\\theta=60^\\circ[/math] হলে [math]\\Delta\\lambda=\\tfrac12\\lambda_c\\approx1.213\\ \\text{pm}\u003C/math], তাই বিচ্ছুরিত তরঙ্গদৈর্ঘ্য [math]\\lambda'=11.213\\ \\text{pm}\u003C/math]. ফটনের শক্তি ক্ষয়ই ইলেকট্রনের সর্বোচ্চ গতিশক্তি, তাই [math]K=hc\\Big(\\dfrac{1}{\\lambda}-\\dfrac{1}{\\lambda'}\\Big)\\approx1.2398\\times10^{6}\\Big(\\dfrac{1}{10}-\\dfrac{1}{11.213}\\Big)\\ \\text{eV}\\approx1.34\\times10^{4}\\ \\text{eV}\\;(13.4\\ \\text{keV}).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 431418,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431419,
+      "value": {
+        "options": {
+          "গ": "বিক্ষিপ্ত এক্স-রশ্মির তরঙ্গদৈর্ঘ্য নির্ণয় করো।"
+        },
+        "question": "[math]0.2500nm[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60°[/math] কোণে বিক্ষিপ্ত হলো। ইলেকট্রনের নিশ্চল ভর [math]9.1 \\times 10^{-31} kg[/math] এবং প্ল্যাংকের ধ্রুবক [math]6.63 \\times 10^{-34} \\ Js[/math]",
+        "solution": "",
+        "explanation": "ব্যাখ্যা: এটি কম্পটন বিচ্ছুরণ, যেখানে তরঙ্গদৈর্ঘ্যের পরিবর্তন [math]\\Delta\\lambda=\\frac{h}{mc}(1-\\cos\\theta)[/math]. এখানে [math]\\frac{h}{mc}=\\frac{6.63\\times10^{-34}}{9.1\\times10^{-31}\\times3.00\\times10^8}=2.43\\times10^{-12}\\,{\\rm m}=0.00243\\,{\\rm nm}[/math], তাই [math]\\Delta\\lambda=2.43\\times10^{-12}\\times(1-\\cos60^\\circ)=1.215\\times10^{-12}\\,{\\rm m}=0.001215\\,{\\rm nm}[/math], ফলে বিচ্ছুরিত তরঙ্গদৈর্ঘ্য [math]\\lambda'=0.2500+0.001215=0.251215\\,{\\rm nm}\\approx0.2512\\,{\\rm nm}[/math]. \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উত্তর: [math]0.2512\\ {\\rm nm}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 431419,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431420,
+      "value": {
+        "options": {
+          "ঘ": "বিক্ষিপ্ত এক্স রাশ্মিটির শক্তি, আপতিত রশ্মিটির চেয়ে অতি সামান্য কম— গাণিতিক যুক্তির মাধ্যমে এর সত্যতা যাচাই করো।"
+        },
+        "question": "[math]0.2500nm[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60°[/math] কোণে বিক্ষিপ্ত হলো। ইলেকট্রনের নিশ্চল ভর [math]9.1 \\times 10^{-31} kg[/math] এবং প্ল্যাংকের ধ্রুবক [math]6.63 \\times 10^{-34} \\ Js[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eআপতিত রশ্মির শক্তি,[math]\\begin{aligned}\\mathrm{E} & =\\frac{\\mathrm{hc}}{\\lambda}=\\frac{6.63 \\times 10^{-34} \\mathrm{~J} . \\mathrm{s} \\times 3 \\times 10^{8} \\mathrm{~ms}^{-1}}{0.25 \\times 10^{-9} \\mathrm{~m}} \\\\& =7.956 \\times 10^{-16} \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003Eবিক্ষিপ্ত এক্স-রশ্মির শক্তি,[math]\\begin{aligned}\\mathrm{E}^{\\prime}=\\frac{\\mathrm{hc}}{\\lambda^{\\prime}} & =\\frac{6.63 \\times 10^{-34} \\mathrm{J.s} \\times 3 \\times 10^{8} \\mathrm{~ms}^{-1}}{0.2512 \\times 10^{-9} \\mathrm{~m}} \\\\& =7.918 \\times 10^{-16} \\mathrm{~J}\u003C7.956 \\times 10^{-16} \\mathrm{~J}\\end{aligned}[/math]\u003Cbr\u003Eসুতরাং বিক্ষিপ্ত এক্স-রশ্মিটির শক্তি, আপতিত রশ্মিটির চেয়ে অতি সামান্য কম",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: কম্পটন বিচ্ছুরণের সূত্র [math]\\Delta\\lambda=\\frac{h}{mc}(1-\\cos\\theta)[/math] প্রয়োগ করলে [math]\\frac{h}{mc}=\\frac{6.63\\times10^{-34}}{9.1\\times10^{-31}\\times3.00\\times10^8}\\approx2.43\\times10^{-12}\\ \\text{m}=0.00243\\ \\text{nm}[/math] এবং [math]\\Delta\\lambda=0.5\\times0.00243\\ \\text{nm}=0.001215\\ \\text{nm}[/math]. তাই বিচ্ছুরিত তরঙ্গদৈর্ঘ্য [math]\\lambda'=0.2500+0.001215=0.251215\\ \\text{nm}[/math], এবং শক্তি [math]E=hc/\\lambda[/math] অনুযায়ী শক্তি প্রায় [math]0.486\\%[/math] কমে—অর্থাৎ বিচ্ছুরিত এক্স-রশ্মির শক্তি আপতিত রশ্মির চেয়ে সামান্য কম।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 431420,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431421,
+      "value": {
+        "options": {
+          "গ": "বিক্ষিপ্ত এক্স-রশ্মিটির তরঙ্গদৈর্ঘ্য নির্ণয় কর।"
+        },
+        "question": "[math]0.2500nm[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60°[/math] কোণে বিক্ষিপ্ত হলো। যেখানে ইলেকট্রনের নিশ্চল\n\nভর [math]9.1 \\times 10^{-31}[/math] এবং প্ল্যাঙ্কের ধ্রুবক [math]6.63 \\times 10^{-34} \\ Js[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,আপতিত এক্স-রশ্মির তরঙ্গদৈর্ঘ্য, [math]\\lambda = 0.25 nm = 0.25 \\times 10^{-9}[/math]\u003Cbr\u003E mবিক্ষেপণ কোণ, [math]\\theta[/math]\u003Cbr\u003E = 60°ইলেকট্রনের নিশ্চল ভর, mo = 9.1 × 10^{-31}$ kgপ্লাংকের ধ্রুবক, h = 6.63 [math]\\times 10^{-34}[/math]\u003Cbr\u003E J.sবিক্ষিপ্ত এক্স-রশ্মির তরঙ্গদৈর্ঘ্য, [math]\\lambda'[/math]\u003Cbr\u003E = ?আমরা জানি [math]\\lambda^{\\prime}=\\lambda+\\frac{h}{m_{0} c}(1-\\cos \\theta)[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\doteq 0.25 \\times 10^{-9} \\mathrm{~m}+\\frac{6.63 \\times 10^{-34} \\mathrm{J.s}}{9.1 \\times 10^{-31} \\mathrm{~kg} \\times 3 \\times 10^{8} \\mathrm{~ms}^{-1}}\\left(1-\\cos 60^{\\circ}\\right) \\\\=2.512 \\times 10^{-10} \\mathrm{~m} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য নির্ণয়ের জন্য কম্পটন শিফট ব্যবহার করি: [math]\\Delta \\lambda=\\frac{h}{mc}(1-\\cos\\theta)[/math]. এখানে [math]\\frac{h}{mc}\\approx2.43\\times10^{-12}\\ \\text{m}[/math] এবং [math](1-\\cos60^\\circ)=0.5[/math], তাই [math]\\Delta\\lambda=1.215\\times10^{-12}\\ \\text{m}=0.001215\\ \\text{nm}[/math]. আগের তরঙ্গদৈর্ঘ্য [math]0.2500\\ \\text{nm}[/math] যোগ করলে বিক্ষিপ্ত তরঙ্গদৈর্ঘ্য [math]\\lambda'=0.2500+0.001215=0.251215\\ \\text{nm}\\approx0.2512\\ \\text{nm}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 431421,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431422,
+      "value": {
+        "options": {
+          "ঘ": "বিক্ষিপ্ত এক্স-রশ্মিটির শক্তি, আপতিত রশ্মিটির চেয়ে অতি সামান্য কম — গাণিতিকভাবে বিশ্লেষণে র মাধ্যমে এর সত্যতাযাচাই কর।"
+        },
+        "question": "[math]0.2500nm[/math] তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে [math]60°[/math] কোণে বিক্ষিপ্ত হলো। যেখানে ইলেকট্রনের নিশ্চল\n\nভর [math]9.1 \\times 10^{-31}[/math] এবং প্ল্যাঙ্কের ধ্রুবক [math]6.63 \\times 10^{-34} \\ Js[/math]",
+        "solution": "",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সঠিক — Compton সূত্র অনুযায়ী [math]\\Delta\\lambda=\\frac{h}{m_e c}(1-\\cos\\theta)[/math]. এখানে [math]\\lambda_c=\\frac{h}{m_e c}\\approx\\frac{6.63\\times10^{-34}}{9.1\\times10^{-31}\\times3.00\\times10^8}\\approx2.43\\times10^{-12}\\ \\text{m}=0.00243\\ \\text{nm}[/math], তাই [math]\\Delta\\lambda=0.5\\lambda_c\\approx1.215\\times10^{-12}\\ \\text{m}=0.001215\\ \\text{nm}[/math], যা আপতিত [math]0.2500\\ \\text{nm}[/math]-এর মাত্র ≈[math]0.49\\%[/math]; ফলে বিক্ষিপ্ত ফোটনের শক্তি (যা [math]E=hc/\\lambda[/math]-এর অনুপাত) কেবল অতি সামান্যভাবে কমে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 431422,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431423,
+      "value": {
+        "options": [],
+        "question": "প্রোটনের কম্পটন তরঙ্গদৈর্ঘ্য কত?",
+        "solution": "[math]1.32 \\times 10^{-15}m[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,প্রোটনের ভর, [math]\\mathrm{m}_{\\mathrm{p}}=1.672 \\times 10^{-27} \\mathrm{~kg}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js}[/math]\u003Cbr\u003Eবেগ, [math]\\mathrm{c}=3 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eকম্পটন তরঙ্গদৈর্ঘ্য, [math]\\lambda_{c}=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,কম্পটন তরঙ্গদৈর্ঘ্য,[math]\\lambda_{\\mathrm{c}}=\\frac{\\mathrm{h}}{\\mathrm{mc}}[/math]\u003Cbr\u003E [math]\\begin{array}{l} =\\frac{6.63 \\times 10^{-34} \\mathrm{Js}}{1.672 \\times 10^{-27} \\mathrm{~kg} \\times 3 \\times 10^{8} \\mathrm{~ms}^{-1}} \\\\ =1.32 \\times 10^{-15} \\mathrm{~m} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: কম্পটন তরঙ্গদৈর্ঘ্য সংজ্ঞায়িত করা হয় [math]\\lambda_C=\\dfrac{h}{mc}[/math] দ্বারা, তাই প্রোটনের জন্য [math]m=m_p[/math] বসিয়ে গণনা করলে পাওয়া যায় [math]\\lambda_{C,p}\\approx 1.321\\times10^{-15}\\ \\text{m}\\ (\\approx1.321\\ \\text{fm})[/math], কারণ হিগস্‌-স্থিরांक ও আলোর গতি ব্যবহার করলে এই মানেই ফলায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 431423,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431424,
+      "value": {
+        "options": [],
+        "question": "একটি ফোটন একটি স্থির ইলেকট্রন দ্বারা [math]60°[/math] কোণে বিক্ষিপ্ত হয়। ফোটনের তরঙ্গদৈর্ঘ্য বৃদ্ধি নির্ণয় কর।",
+        "solution": "[math]0.01227[/math]\u003Cbr\u003EÅ[math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,বিক্ষেপণ কোণ, [math]\\theta = 60^{\\circ}[/math]\u003Cbr\u003Eইলেকট্রনের ভর, [math]m=9.1 \\times 10^{-31}kg[/math]\u003Cbr\u003Eফোটনের বেগ, [math]c=3 \\times 10^{8}ms^{-1}[/math]\u003Cbr\u003Eপ্ল্যাঙ্কের ধ্রুবক, [math]h=6.63 \\times 10^{-34}J \\ s[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য বৃদ্ধি, [math]\\Delta \\lambda = ?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned} \\Delta \\lambda & =\\frac{h}{m_{0} \\mathrm{c}}(1-\\cos \\theta) \\\\ & =\\frac{6.63 \\times 10^{-34}}{9 \\times 10^{-31} \\times 3 \\times 10^{8}}(1-\\cos 60^{\\circ})\\end{aligned}[/math]\u003Cbr\u003E [math]\\quad \\quad = 0.01227[/math]\u003Cbr\u003EÅ [math](Ans.)[/math]\u003Cbr\u003E",
+        "explanation": "কম্পটন ইফেক্ট অনুযায়ী ফোটনের তরঙ্গদৈর্ঘ্যের বৃদ্ধি হল [math]Δ\\lambda=\\frac{h}{m_e c}(1-\\cos\\theta)[/math], যেখানে [math]\\frac{h}{m_e c}=2.426\\times10^{-12}\\ \\text{m}[/math]. [math]\\theta=60^\\circ[/math] হলে [math]1-\\cos60^\\circ=1-\\tfrac{1}{2}=\\tfrac{1}{2}[/math], তাই [math]Δ\\lambda=\\tfrac{1}{2}\\times2.426\\times10^{-12}=1.213\\times10^{-12}\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 431424,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 431425,
+      "value": {
+        "options": [],
+        "question": "একটি ফোটনের প্রাথমিক কম্পাঙ্ক [math]2.4 \\times 10^{16} \\mathrm{~Hz}[/math]। একটি স্থির ইলেক্ট্রন দ্বারা বিক্ষেপণের পর ফোটনের কম্পাঙ্ক [math]1.9 \\times 10^{16}Hz[/math] হয়। বিক্ষেপণের পর ইলেকট্রনের গতিশক্তি নির্ণয় কর।",
+        "solution": "[math]3.315 \\times 10^{-18}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,[math]\\begin{aligned} \\mathrm{f}_{\\mathrm{1}} & =2.4 \\times 10^{16} \\mathrm{~Hz} \\\\ \\mathrm{f}_{2} & =1.9 \\times 10^{16} \\mathrm{~Hz} \\\\ \\therefore & \\Delta \\mathrm{f}=\\mathrm{f}_{1}-\\mathrm{f}_{2} \\\\ & =\\left(2.4 \\times 10^{16}-1.9 \\times 10^{16}\\right) \\mathrm{Hz} \\\\ & =0.5 \\times 10^{16} \\mathrm{~Hz} \\end{aligned}[/math]\u003Cbr\u003Eপ্ল্যাঙ্ক ধ্রুবক, [math]\\mathrm{h}=6.63 \\times 10^{-34} \\mathrm{Js}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E গতিশক্তি, [math]E=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned} \\mathrm{E} & =\\mathrm{h} \\Delta \\mathrm{f} \\\\ & =6.63 \\times 10^{-34} \\mathrm{Js} \\times 0.5 \\times 10^{16} \\mathrm{~Hz} \\\\ & =3.315 \\times 10^{-18} \\mathrm{~J} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ফোটনের কম্পাঙ্ক হ্রাসে হারানো শক্তি ইলেকট্রনের গতিশক্তি পায়, তাই [math]\\Delta E = h(\\nu_i-\\nu_f)[/math]. এখানে [math]\\nu_i=2.4\\times10^{16}\\,\\text{Hz},\\ \\nu_f=1.9\\times10^{16}\\,\\text{Hz}[/math], ফলে [math]\\Delta\\nu=5.0\\times10^{15}\\,\\text{Hz}[/math] এবং [math]\\Delta E=6.626\\times10^{-34}\\times5.0\\times10^{15}=3.31\\times10^{-18}\\,\\text{J}\\approx20.7\\,\\text{eV}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6334,
+      "created_at": "2025-08-19T07:48:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 431425,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:48:31.000000Z",
+            "updated_at": "2025-08-19T07:48:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6334&grade=1&lesson=6704&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6334&grade=1&lesson=6704&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6334&grade=1&lesson=6704&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 53,
+  "total": 53
+}

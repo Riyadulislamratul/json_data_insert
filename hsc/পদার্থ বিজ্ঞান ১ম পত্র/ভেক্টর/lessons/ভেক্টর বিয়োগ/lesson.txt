@@ -1,0 +1,2580 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 395793,
+      "value": {
+        "options": [],
+        "question": "সকল সমরেখ ভেক্টর সমান ভেক্টর নয়- ব্যাখ্যা কর।",
+        "solution": "একাধিক ভেক্টর যদি একই দিকে বা পরস্পর সমান্তরালে ক্রিয়া করে তবে তাদেরকে সমরেখ ভেক্টর বলে। অন্যদিকে সমজাতীয় একাধিক ভেক্টরের মান ও দিক একই হলে তাদেরকে সমান ভেক্টর বলা হয়। অর্থাৎ একাধিক ভেক্টর পরস্পর সমান হতে হলে তাদের দিক একই হওয়ার সাথে মানও একই হতে হবে। কিন্তু একাধিক ভেক্টর সমরেখ হলে তাদের মান সমান নাও হতে পারে। তাই সকল সমরেখ ভেক্টর সমান ভেক্টর নয়।",
+        "explanation": "সমরেখ ভেক্টর মানে তাদের দিক একই রকম (অর্থাৎ সমান্তরাল) কিন্তু তাদের মান (মাত্রা) ভিন্ন হতে পারে এবং কখনও-কখনও দিকও বিপরীত হতে পারে; তাতে সমান হওয়ার নিশ্চয়তা নেই। সমান ভেক্টর হওয়ার জন্য একই দিক এবং একই মাত্রা—দুইটি শর্তই পূরণ করতে হয়, তাই সমরেখ হওয়া যথেষ্ট নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 395793,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 395793,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T05:27:30.000000Z",
+            "updated_at": "2025-08-19T05:27:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395792,
+      "value": {
+        "options": [],
+        "question": "কোনো ভেক্টরের বিপরীত ভেক্টর এবং বিপ্রতীপ ভেক্টরের মধ্যবর্তী কোণ সর্বদা একই হয়”-ব্যাখ্যা কর।",
+        "solution": "দু'টি সমান্তরাল ভেক্টরের একটির মান অপরটির বিপ্রতীপ হলে তাদেরকে বিপ্রতীপ ভেক্টর বলে। উদাহরণস্বরূপ [math]\\overrightarrow{\\mathrm{A}}=5 \\hat{\\mathrm{i}}[/math]\u003Cbr\u003E এবং [math]\\overrightarrow{\\mathrm{B}}=\\frac{1}{5} \\hat{\\mathrm{i}}[/math]\u003Cbr\u003Eহলে, [math]\\overrightarrow{\\mathrm{A}}[/math]\u003Cbr\u003E ও [math]\\overrightarrow{\\mathrm{B}}[/math]\u003Cbr\u003E বিপ্রতীপ ভেক্টর। অপরদিকে, দু'টি ভেক্টরের মান সমান কিন্তু তাদের অভিমুখ বিপরীত হলে তাদের বিপরীত ভেক্টর বলা হয়। অর্থাৎ, একটি ভেক্টরের বিপ্রতীপ ভেক্টর ঐ ভেক্টরটির দিকে ক্রিয়া করলেও বিপরীত ভেক্টর বিপরীত দিকে ক্রিয়া করে। তাই কোনো ভেক্টরের বিপরীত ভেক্টর এবং বিপ্রতীপ ভেক্টরের মধ্যবর্তী কোণ 180° হয়, অর্থাৎ সর্বদা একই হয়।",
+        "explanation": "ব্যাখ্যা: ধরুন ভেক্টরটি [math]\\vec{a}[/math]। এর বিপরীত ভেক্টর [math]-\\vec{a}[/math] এবং যে কোনো বিপ্রতীপ (অ্যান্টিপ্যারালাল) ভেক্টরকে লেখা যায় [math]\\vec{b}=λ(-\\vec{a})[/math] (যেখানে [math]λ\u003E0[/math])—অতএব [math]-\\vec{a}[/math] এবং [math]\\vec{b}[/math] একই দিক নির্দেশ করে এবং সমরৈখিক, তাই তাদের মধ্যবর্তী কোণ সর্বদা [math]0^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 395792,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 395792,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 395792,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T05:27:30.000000Z",
+            "updated_at": "2025-08-19T05:27:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395791,
+      "value": {
+        "options": [],
+        "question": "একটি বিপ্রতীপ ভেক্টরকে সমরেখ ভেক্টর বলা যেতে পারে-ব্যাখ্যা কর।",
+        "solution": "দুই বা ততোধিক ভেক্টর যদি এমন হয় যে তারা একই রেখায় বা সমান্তরালে ক্রিয়া করে, তাদেরকে সমরেখ ভেক্টর বলে। আবার দুটি সমান্তরাল ভেক্টর, যাদের একটির মান অপরটির বিপ্রতীপ, তাহলে তাদেরকে বিপ্রতীপ ভেক্টর বলে।উদাহরণ: [math]\\vec{A}=5 \\hat{i}[/math]\u003Cbr\u003E ও [math]\\hat{\\mathrm{B}}[/math]\u003Cbr\u003E [math]=\\frac{1}{5} \\hat{\\mathrm{i}}[/math]\u003Cbr\u003E এখানে [math]\\vec{A} \\text { ও } \\vec{B}[/math]\u003Cbr\u003E বিপ্রতীপ ভেক্টর। যেহেতু বিপ্রতীপ ভেক্টরগুলো একে অপরের সমান্তরাল হবে, সুতরাং তাদেরকে সমরেখ ভেক্টরও বলা যায়।",
+        "explanation": "ব্যাখ্যা: একটি বিপ্রতীপ ভেক্টর হলো মূল ভেক্টরের সমান পরিমাণের কিন্তু বিপরীত দিকের ভেক্টর, এবং এটি মূল ভেক্টরের একটি স্কেলার গুণ; অর্থাৎ [math]-\\vec{a}=(-1)\\vec{a}[/math]. যেহেতু এটি মূল ভেক্টরের স্কেলার গুণ, তারা একই সরলরেখায় পড়ে এবং তাই সমরেখ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 395791,
+            "year_id": 4
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 395791,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 395791,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 395791,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-08-19T05:27:30.000000Z",
+            "updated_at": "2025-08-19T05:27:30.000000Z"
+          }
+        },
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 395791,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T05:27:30.000000Z",
+            "updated_at": "2025-08-19T05:27:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395790,
+      "value": {
+        "options": [],
+        "question": "[math]\\vec{\\mathrm{A}}=3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}} ; \\vec{\\mathrm{B}}=4 \\hat{\\mathrm{i}}-5 \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}} ; \\vec{\\mathrm{C}}=\\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}[/math] হলে [math]\\t ext { (i) } \\vec{A}-\\vec{B}+2 \\vec{C}[/math] নির্ণয় করো ।",
+        "solution": "( Answer : [math]\\hat{\\mathrm{i}}+5 \\hat{\\mathrm{j}}-5 \\hat{\\mathrm{k}}[/math])",
+        "explanation": "ব্যাখ্যা: ভেক্টরগুলোকে উপাদান অনুয়ায়ী যোগ-বিয়োগ করতে হয়, ফলে [math]\\vec A-\\vec B=(3-4)\\hat i+(2-(-5))\\hat j+(-1-2)\\hat k=-\\hat i+7\\hat j-3\\hat k[/math] এবং [math]2\\vec C=2(\\hat i-\\hat j-\\hat k)=2\\hat i-2\\hat j-2\\hat k[/math]. তাই [math]\\vec A-\\vec B+2\\vec C=\\hat i+5\\hat j-5\\hat k[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 395790,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:27:30.000000Z",
+            "updated_at": "2025-08-19T05:27:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395789,
+      "value": {
+        "options": [],
+        "question": "[math]6 \\hat{\\mathrm{i}}+4 \\hat{\\mathrm{j}}-3 \\hat{\\mathrm{k}}[/math] এবং [math]6 \\hat{i}-\\ha t{j}-3 \\hat{k}[/math] ভেক্টরদ্বয়ের বিয়োগফলের মান নির্ণয় কর।",
+        "solution": "( Answer : 5 একক)",
+        "explanation": "ভেক্টরগুলো উপাদানভিত্তিকভাবে বিয়োগ করলে [math](6-6)\\hat{i}+(4-(-1))\\hat{j}+(-3-(-3))\\hat{k}=5\\hat{j}[/math] পাওয়া যায়। এর মান হলো [math]\\sqrt{0^2+5^2+0^2}=5[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 395789,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:27:30.000000Z",
+            "updated_at": "2025-08-19T05:27:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395788,
+      "value": {
+        "options": [],
+        "question": "[math]\\vec{\\mathrm{a}}, \\vec{\\mathrm{b}}, \\vec{\\mathrm{c}}[/math] ভেক্টরত্রয়ের প্রতিটির মান 50m এবং এরা xy সমতলে অবস্থান করে। [math]\\vec{\\mathrm{a}}, \\vec{\\mathrm{b}}, \\vec{\\mathrm{c}}[/math] ভেক্টরত্রয় x অক্ষের ধনাত্মক দিকের সাথে যথাক্রমে 30°, 195°, 315° কোণ উৎপন্ন করে। যদি [math](\\vec{a}+\\vec{b})-[/math] [math](\\vec{c}+\\vec{d})=\\overrightarrow{0}[/math] হয়, তাহলে [math]\\vec{d}[/math] এর মান ও দিক নির্ণয় করো।",
+        "solution": "( Answer : [math]\\alpha=130^{\\circ}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে, [math]\\vec{\\mathrm{a}}, \\vec{\\mathrm{b}}, \\vec{\\mathrm{c}}[/math]\u003Cbr\u003E ভেক্টরত্রয়ের প্রতিটির মান 50m.[math]\\vec{\\mathrm{a}}, \\vec{\\mathrm{b}}, \\vec{\\mathrm{c}}[/math]\u003Cbr\u003E ভেক্টরত্রয় x অক্ষের ধনাত্মক দিকের সাথে যথাক্রমে X 30°, 195°, 315° কোণ উৎপন্ন করে ।আবার,\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-12-panjeri2-69_1755581250_PqmN4Q02.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math](\\vec{a}+\\vec{b})-(\\vec{c}+\\vec{d})=0[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\vec{\\mathrm{a}}+\\vec{\\mathrm{b}}=\\vec{\\mathrm{c}}+\\vec{\\mathrm{d}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\vec{d}=\\vec{a}+\\vec{b}-\\vec{c}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\therefore \\vec{d}=\\vec{a}+\\vec{b}+(-\\vec{c})[/math]\u003Cbr\u003Eতাহলে [math]\\vec{d}[/math]\u003Cbr\u003E হল [math]\\vec{a}, \\vec{b}[/math]\u003Cbr\u003E ও [math](-\\vec{c})[/math]\u003Cbr\u003E এর লব্ধি ভেক্টর। ধরি, [math]\\vec{d}, x[/math]\u003Cbr\u003E অক্ষের সাথে [math]\\alpha[/math]\u003Cbr\u003E কোণ উৎপন্ন করে ।[math]\\vec{c}[/math]\u003Cbr\u003E এর বিপরীত ভেক্টর হল [math]-\\vec{c}[/math]\u003Cbr\u003E . সুতরাং [math]-\\vec{c}[/math]\u003Cbr\u003E ভেক্টরটি x অক্ষের সাথে 315° – 180° = 135° কোণ উৎপন্ন করবে। [math]\\vec{c}[/math]\u003Cbr\u003E ও – [math]\\vec{c}[/math]\u003Cbr\u003E উভয়ের মান 50m.এখন x অক্ষ বরাবর [math]\\vec{a}[/math]\u003Cbr\u003E, [math]\\vec{b}[/math]\u003Cbr\u003E ও – [math]\\vec{c}[/math]\u003Cbr\u003E এর উপাংশ নিয়ে পাই,[math]\\begin{aligned}\\mathrm{d} \\cos \\alpha & =\\mathrm{a}^{\\prime} \\cos 30^{\\circ}+\\mathrm{b} \\cos 195^{\\circ}+(-\\mathrm{c}) \\cos 135^{\\circ} \\\\& =50 \\cos 30^{\\circ}+50 \\cos 195^{\\circ}+50 \\cos 135^{\\circ} \\\\& =-40.35 \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Ey অক্ষ বরাবর [math]\\vec{a}[/math]\u003Cbr\u003E, [math]\\vec{b}[/math]\u003Cbr\u003E ও – [math]\\vec{c}[/math]\u003Cbr\u003E এর উপাংশ নিয়ে পাই,[math]\\begin{array}{l} \\mathrm{d} \\sin \\alpha=\\mathrm{a} \\sin 30^{\\circ}+\\mathrm{b} \\sin 195^{\\circ}+(-\\mathrm{c}) \\sin 135^{\\circ} \\\\=50 \\sin 30^{\\circ}+50 \\sin 195^{\\circ}+50 \\sin 135^{\\circ} \\\\=47.41 \\mathrm{~m} \\\\\\therefore \\mathrm{d}^{2} \\cos ^{2} \\alpha+\\mathrm{d}^{2} \\sin ^{2} \\alpha=\\mathrm{d}^{2}\\left(\\sin ^{2} \\alpha+\\cos ^{2} \\alpha\\right)\\end{array}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math](-40.35)^{2}+(47.41)^{2}=\\mathrm{d}^{2} .1[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{d}^{2}=3876.25[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{d}=62.26 \\mathrm{~m}[/math]\u003Cbr\u003Eআবার,[math]\\frac{\\mathrm{d} \\sin \\alpha}{\\mathrm{d} \\cos \\alpha}=\\frac{47.41}{-40.35}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\tan \\alpha=-1.17[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\alpha=\\tan ^{-1}(\\neg 1.17)[/math]\u003Cbr\u003E [math]\\therefore \\alpha=-50^{\\circ}[/math]\u003Cbr\u003E অথবা, – 50° + 180° = 130°যেহেতু [math]\\vec{d}[/math]\u003Cbr\u003E ভেক্টরটির x অক্ষ বরাবর উপাংশ [math]\\text { d } \\cos \\alpha[/math]\u003Cbr\u003E ঋণাত্মক এবং y অক্ষ বরাবর উপাংশ d sin a ধনাত্মক সেহেতু [math]\\vec{d}[/math]\u003Cbr\u003E ভেক্টরটি x অক্ষের ঋণাত্মক দিকে এবং y অক্ষের ধনাত্মক দিকে (অর্থাৎ ২য় চতুর্ভাগে) অবস্থান করবে।[math]\\therefore \\alpha=130^{\\circ} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: দেওয়া শর্ত থেকে [math]\\vec{a}+\\vec{b}=\\vec{c}+\\vec{d}[/math] তাই [math]\\vec{d}=\\vec{a}+\\vec{b}-\\vec{c}[/math]। উপাদান-wise হিসাব করলে\n[math]d_x=50(\\cos30^\\circ+\\cos195^\\circ-\\cos315^\\circ)\\approx -40.35\\ \\text{m},\\quad d_y=50(\\sin30^\\circ+\\sin195^\\circ-\\sin315^\\circ)\\approx 47.41\\ \\text{m}[/math]।\nঅতএব [math]|\\vec{d}|\\approx\\sqrt{(-40.35)^2+(47.41)^2}\\approx62.3\\ \\text{m}[/math] এবং দিক [math]\\theta=\\tan^{-1}\\big(\\tfrac{47.41}{-40.35}\\big)\\approx130.6^\\circ[/math] (ধনাত্মক x দিক থেকে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 395788,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:27:30.000000Z",
+            "updated_at": "2025-08-19T05:27:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395787,
+      "value": {
+        "options": {
+          "গ": "চিত্রে [math](\\vec{A}-\\vec{B})[/math] এর মান নির্ণয় কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-12-panjeri2-56-01_1755581249_eCbB3haS.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রে [math]|\\vec{A}|=5[/math] এবং [math]|\\vec{B}|=6[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, [math]|\\vec{A}|=A=5[/math]\u003Cbr\u003E এবং [math]|\\vec{B}|=B=6[/math]\u003Cbr\u003E [math]\\vec{A}[/math]\u003Cbr\u003E ও [math]\\vec{B}[/math]\u003Cbr\u003E এর মধ্যবর্তী কোণ [math]\\alpha=90^{\\circ}+60^{\\circ}=150^{\\circ}[/math]\u003Cbr\u003E [math]\\vec{A}-\\vec{B}=\\vec{C}[/math]\u003Cbr\u003E হলে, [math]|\\vec{A}-\\vec{B}|=|\\vec{C}|=C=?[/math]\u003Cbr\u003Eএখানে,[math]\\begin{aligned}|\\vec{C}| & =C=\\sqrt{A^{2}+B^{2}+2 A B \\cos (\\pi-\\alpha)} \\\\& =\\sqrt{5^{2}+6^{2}+2 \\times 5 \\times 6 \\cos \\left(180^{\\circ}-150^{\\circ}\\right)} \\\\& =\\sqrt{25+36+60 \\cos 30^{\\circ}} \\\\& =10.63 \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E চিত্র অনুযায়ী ভেক্টরগুলির মধ্যকার কোণ [math]60^\\circ[/math]। তাই [math]|\\vec{A}-\\vec{B}|^2=|\\vec{A}|^2+|\\vec{B}|^2-2|\\vec{A}||\\vec{B}|\\cos60^\\circ=25+36-2\\times5\\times6\\times\\frac{1}{2}=1[/math], ফলে [math]|\\vec{A}-\\vec{B}|=1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 395787,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:27:29.000000Z",
+            "updated_at": "2025-08-19T05:27:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395784,
+      "value": {
+        "options": {
+          "গ": "[math](\\vec{a}-\\vec{b}+\\vec{c})[/math] ভেক্টরটির মান নির্ণয় কর বা [math]|\\vec{a}-\\vec{b}+\\vec{c}|[/math] = কত?"
+        },
+        "question": "তিনটি সমতলীয় ও সমমানের ভেক্টর [math]\\vec{a}, \\vec{b}[/math] ও [math]\\vec{c}[/math] প্রত্যেকটির মান 50 m এবং ভেক্টরগুলো x অক্ষের ধনাত্মক দিকের সাথে যথাক্রমে 30°, 195° ও 315° কোণে অবস্থিত। চতুর্থ আরেকটি ভেক্টর [math]\\vec{d}[/math] উপরিউক্ত ভেক্টরগুলোর সাথে যোগ করা হলে [math](\\vec{a}+\\vec{ b})-(\\vec{c}+\\vec{d})=\\vec{0}[/math] হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-12-panjeri2-151_1755581248_XD8tEacq.png\" alt=\"\"\u003E\u003Cbr/\u003Eএখানে,[math]|\\overrightarrow{\\mathrm{a}}|=|\\overrightarrow{\\mathrm{b}}|=|\\overrightarrow{\\mathrm{c}}|=50 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\overrightarrow{\\mathrm{a}}, \\overrightarrow{\\mathrm{b}}[/math]\u003Cbr\u003E এবং [math]\\overrightarrow{\\mathrm{c}}[/math]\u003Cbr\u003E কে x অক্ষ এবং y অক্ষ বরাবর দু'টি উপাংশে বিশ্লিষ্ট করে পাই,[math]\\begin{array}{l}\\overrightarrow{\\mathrm{a}}=50 \\cos 30^{\\circ} \\hat{\\mathrm{i}}+50 \\sin 30^{\\circ} \\hat{\\mathrm{j}}=43.3 \\hat{\\mathrm{i}}+25 \\hat{\\mathrm{j}} \\\\\\overrightarrow{\\mathrm{b}}=50 \\cos 195^{\\circ} \\hat{\\mathrm{i}}+50 \\sin 195^{\\circ} \\hat{\\mathrm{j}}=-48: 3 \\hat{\\mathrm{i}}-12.9 \\hat{\\mathrm{j}}\\end{array}[/math]\u003Cbr\u003Eএবং [math]\\overrightarrow{\\mathrm{c}}=50 \\cos 315^{\\circ} \\hat{\\mathrm{i}}+50 \\sin 315^{\\circ} \\hat{\\mathrm{j}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=35.36 \\hat{\\mathrm{i}}-35.36 \\hat{\\mathrm{j}} \\\\\\therefore \\overrightarrow{\\mathrm{a}}-\\overrightarrow{\\mathrm{b}}+\\overrightarrow{\\mathrm{c}}=43.3 \\hat{\\mathrm{i}}+25 \\hat{\\mathrm{j}}-(-48.3 \\hat{\\mathrm{i}}-12.9 \\hat{\\mathrm{j}})+35.36 \\hat{\\mathrm{i}}-35.36 \\hat{\\mathrm{j}} \\\\=126.96 \\hat{\\mathrm{i}}+2.54 \\hat{\\mathrm{j}}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore|\\overrightarrow{\\mathrm{a}}-\\overrightarrow{\\mathrm{b}}+\\overrightarrow{\\mathrm{c}}|=\\sqrt{(126.96)^{2}+(2.54)^{2}}=126.99\\ \\mathrm{m}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 395784,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:27:28.000000Z",
+            "updated_at": "2025-08-19T05:27:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395785,
+      "value": {
+        "options": {
+          "গ": "[math]\\vec{A}-\\vec{B}=?[/math]"
+        },
+        "question": "চিত্রে [math]\\vec{A}[/math] ও [math]\\vec{B}[/math] ভেক্টরদ্বয়ের মান ও দিক প্ৰদৰ্শিত ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপকে চিত্র না থাকায় সমাধান করা সম্ভব নয়। [math]\\\\[/math]",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমাধান: [math]\\vec{A}-\\vec{B}=\\vec{A}+(-\\vec{B})[/math] তাই প্রথমে [math]\\vec{B}[/math] কে উল্টে [math]-\\vec{B}[/math] নাও এবং তারপর মাথা‑থেকে‑লেজ যুক্তকরণ করো; এতে পাওয়া ভেক্টরই [math]\\vec{A}-\\vec{B}[/math]. যদি দুই ভেক্টর একই বিন্দু থেকে শুরু করে দেখা হয়, তবে [math]\\vec{A}-\\vec{B}[/math] হলো [math]\\vec{B}[/math] এর টিপ থেকে [math]\\vec{A}[/math] এর টিপ পর্যন্ত নির্দেশিত ভেক্টর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 395785,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:27:28.000000Z",
+            "updated_at": "2025-08-19T05:27:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395786,
+      "value": {
+        "options": [],
+        "question": "যদি A, B ও C বিন্দুগুলোর অবস্থান ভেক্টরদ্বয় যথাক্রমে [math]\\hat{\\mathrm{i}}+[/math] [math]2 \\hat{\\jmath }-3 \\hat{k}, 3 \\hat{\\imath}-4 \\hat{\\jmath}+5 \\hat{k}[/math] এবং [math]5 \\hat{\\imath}-10 \\hat{\\jmath}+13 \\hat{k}[/math] হয় তবে দেখাও যে [math]\\overrightarrow{\\mathrm{AB}}[/math] ও [math]\\overrightarrow{\\mathrm{BC}}[/math] ভেক্টরদ্বয় সমরৈখিক বা collinear",
+        "solution": "Solution :এখানে,[math]\\vec{A}[/math]\u003Cbr\u003E বিন্দুর অবস্থান ভেক্টর, [math]\\vec{A}=\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-3 \\hat{\\mathrm{k}}[/math]\u003Cbr\u003EB বিন্দুর অবস্থান ভেক্টর, [math]\\vec{B}=3 \\hat{i}-4 \\hat{j}+5 \\hat{k}[/math]\u003Cbr\u003EC বিন্দুর অবস্থান ভেক্টর, [math]\\vec{C}=5 \\hat{i}-10 \\hat{j}+13 \\hat{k}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\overrightarrow{\\mathrm{AB}}=\\vec{\\mathrm{B}}-\\vec{\\mathrm{A}} \\\\=(3 \\hat{i}-4 \\hat{j}+5 \\hat{k})-(\\hat{i}+2 \\hat{j}-3 \\hat{k}) \\\\=2 \\hat{i}-6 \\hat{j}+8 \\hat{k} \\\\\\therefore \\mathrm{AB}=\\sqrt{2^{2}+(-6)^{2}+8^{2}} \\\\=\\sqrt{104} \\\\\\vec{\\mathrm{BC}}=\\vec{\\mathrm{C}}-\\vec{\\mathrm{B}} \\\\=(5 \\hat{i}-10 \\hat{j}+13 \\hat{k})-(3 \\hat{i}-4 \\hat{j}+5 \\hat{k}) \\\\=2 \\hat{i}-6 \\hat{j}+8 \\hat{k} \\\\\\therefore B C=\\sqrt{2^{2}+(-6)^{2}+8^{2}}=\\sqrt{104} \\\\\\end{array}[/math]\u003Cbr\u003Eএবং [math]\\overrightarrow{\\mathrm{AC}}=\\vec{C}-\\vec{A}[/math]\u003Cbr\u003E [math]\\begin{aligned}\\quad & =(5 \\hat{i}-10 \\hat{j}+13 \\hat{k})-(\\hat{i}+2 \\hat{j}-3 \\hat{k})=4 \\hat{i}-12 \\hat{\\mathrm{j}}+16 \\hat{k} \\\\\\therefore A C & =\\sqrt{4^{2}+(-12)^{2}+(16)^{2}}=\\sqrt{416} \\\\A B+B C & =\\sqrt{104}+\\sqrt{104}=\\sqrt{416}=A C\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "A ও B ও C-এর অবস্থান ভেক্টর থেকে হিসাব করলে, [math]\\overrightarrow{AB}= (3-1)\\hat{\\imath}+(-4-2)\\hat{\\jmath}+(5-(-3))\\hat{k}=2\\hat{\\imath}-6\\hat{\\jmath}+8\\hat{k}[/math] এবং [math]\\overrightarrow{BC}=(5-3)\\hat{\\imath}+(-10-(-4))\\hat{\\jmath}+(13-5)\\hat{k}=2\\hat{\\imath}-6\\hat{\\jmath}+8\\hat{k}[/math]. তাই [math]\\overrightarrow{BC}=1\\cdot\\overrightarrow{AB}[/math], অর্থাৎ দুটো ভেক্টর সমরৈখিক (collinear)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 395786,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:27:28.000000Z",
+            "updated_at": "2025-08-19T05:27:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395783,
+      "value": {
+        "options": [],
+        "question": "[math]\\vec{\\mathrm{A}}=\\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}[/math] এবং [math]\\vec{B}=\\mathrm{m} \\hat{i}+6 \\hat{j}-10 \\hat{k}[/math] । m এর মান কত হলে ভেক্টরদ্বয় পরস্পর সমান্তরাল হবে?",
+        "solution": "(Answer : [math]m=-2[/math] )",
+        "explanation": "ভেক্টরদ্বয় সমান্তরাল হলে তাদের সংশ্লিষ্ট উপাদানগুলির অনুপাত সমান হবে। এখানে [math]6/(-3)=-2[/math] এবং [math]-10/5=-2[/math], তাই [math]m/1=-2[/math] হতে হবে এবং [math]m=-2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 395783,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:27:27.000000Z",
+            "updated_at": "2025-08-19T05:27:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395782,
+      "value": {
+        "options": [],
+        "question": "m এর মান কত হলে [math]\\vec{A}=\\hat{i}-3 \\hat{j}+5 \\hat{k}[/math] এবং [math]\\vec{B}=m \\hat{i}+6 \\hat{j}-10 \\hat{k}[/math] ভেক্টরদ্বয় পরস্পর সমান্তরাল হবে?",
+        "solution": "[math]\\mathrm{A} \\| \\mathrm{B}[/math]\u003Cbr\u003E [math]\\frac{1}{\\mathrm{~m}}=-\\frac{3}{6}=\\frac{5}{-10} \\therefore \\mathrm{m}=-2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ভেক্টর দুটি সমান্তরাল হলে তাদের উপাদানগুলোর অনুপাত সমান হয়, অর্থাৎ [math]\\frac{1}{m}=\\frac{-3}{6}=\\frac{5}{-10}[/math]. এখানে [math]\\frac{-3}{6}=-\\tfrac{1}{2}[/math], তাই [math]\\frac{1}{m}=-\\tfrac{1}{2}[/math] এবং ফলে [math]m=-2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 395782,
+            "year_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "year": "2010-2011",
+          "pivot": {
+            "question_bank_id": 395782,
+            "year_id": 23
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 395782,
+            "tag_id": 73,
+            "year": "16-17",
+            "created_at": "2025-08-19T05:27:27.000000Z",
+            "updated_at": "2025-08-19T05:27:27.000000Z"
+          }
+        },
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 395782,
+            "tag_id": 88,
+            "year": "10-11",
+            "created_at": "2025-08-19T05:27:27.000000Z",
+            "updated_at": "2025-08-19T05:27:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395781,
+      "value": {
+        "options": [],
+        "question": "একটা গাড়ি [math]40 \\mathrm{kmh}^{-1}[/math] বেগে উত্তর দিকে চলছিল। এরপর গতি পরিবর্তন করে উত্তর দিকের সাথে 60° কোণে [math]42 \\mathrm{kmh}^{-1}[/math] বেগে চলতে থাকলো । এক্ষেত্রে বেগের পরিবর্তন কত?",
+        "solution": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fpodartho-bicitra-hsc-admission-chap-2-qs-2-buet-2-96p-removebg-preview_1755581247_C4BpJo2C.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\\\[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Delta v=v_{2}-v_{1}=\\sqrt{v_{1}{ }^{2}+v_{2}{ }^{2}+2 v_{1} v_{2} \\cos \\theta} \\\\=\\sqrt{(40)^{2}+(42)^{2}+2 \\times 40 \\times 42 \\cos 120^{\\circ}} \\\\\\therefore v=41.036 \\mathrm{~ms}^{-1} \\text { Ans. }\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eদেওয়া আছে,[math]\\begin{array}{l}\\mathrm{v}_{1}=40 \\mathrm{kmh}^{-1} \\\\\\mathrm{v}_{2}=42 \\mathrm{kmh}^{-1} \\\\\\mathrm{v}=?\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বেগ দুটো ভেক্টর হওয়ায় তাদের পার্থক্যের মাত্রা পাওয়ার জন্য কোসাইন নিয়ম ব্যবহার করা যায়, যেখানে [math]\\theta=60^\\circ[/math]: [math]|\\Delta v|^2=v_1^2+v_2^2-2v_1v_2\\cos\\theta[/math]. তাই [math]|\\Delta v|^2=40^2+42^2-2\\cdot40\\cdot42\\cdot\\cos60^\\circ=1684[/math], ফলে [math]|\\Delta v|=\\sqrt{1684}\\approx41.04\\ \\mathrm{kmh^{-1}}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 395781,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 395781,
+            "tag_id": 474,
+            "year": "21-22",
+            "created_at": "2025-08-19T05:27:27.000000Z",
+            "updated_at": "2025-08-19T05:27:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395780,
+      "value": {
+        "options": {
+          "গ": "চিত্রে [math](\\overrightarrow{\\mathrm{A}} - \\overrightarrow{\\mathrm{B}})[/math] এর মান নির্ণয় কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy201-120cq20solve20-20-12-de0a6a4_1755581246_dUCFAQGE.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রে [math]|\\overrightarrow{\\mathrm{A}}|=5[/math] এবং [math]|\\overrightarrow{\\mathrm{B}}|=6[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, [math]x[/math]\u003Cbr\u003E অক্ষের সাথে [math]\\overrightarrow{A}[/math]\u003Cbr\u003E এর অন্তর্ভুক্ত কোণ [math]60^{\\circ}[/math]\u003Cbr\u003E [math]\\begin{aligned} \\therefore \\quad A_{x} & =|A| \\cos \\theta=5 \\cos 60^{\\circ}=\\dfrac{5}{2} \\\\ A_{y} & =|A| \\sin \\theta=5 \\sin 60^{\\circ}=\\dfrac{5 \\sqrt{3}}{2} \\\\ \\therefore \\quad \\overrightarrow{\\rm{A}} & =\\dfrac{5}{2} \\hat{i}+\\dfrac{5 \\sqrt{3}}{2} \\hat{j} \\end{aligned}[/math]\u003Cbr\u003Eআবার, [math]x[/math]\u003Cbr\u003E অক্ষের সাথে [math]\\overrightarrow{B}[/math]\u003Cbr\u003E এর অন্তর্ভুক্ত কোণ [math]270^{\\circ}[/math]\u003Cbr\u003E [math]\\begin{array}{ll} \\therefore \\quad & \\mathrm{B}_{\\mathrm{x}}=|\\mathrm{B}| \\cos \\theta=6 \\cos 270^{\\circ}=0 \\\\ & \\mathrm{~B}_{\\mathrm{y}}=|\\mathrm{B}| \\sin \\theta=6 \\sin 270^{\\circ}=-6 \\\\ \\therefore & \\overrightarrow{\\mathrm{B}}=-6 \\hat{\\mathrm{j}} \\end{array}[/math]\u003Cbr\u003Eএখন,[math]\\quad\\begin{aligned} \\overrightarrow{\\rm{A}}- \\overrightarrow{\\rm{B}} & =\\left(\\dfrac{5}{2} \\hat{i}+\\dfrac{5 \\sqrt{3}}{2} \\hat{j}\\right)-(-6 \\hat{j}) \\\\ & =\\dfrac{5}{2} \\hat{i}+\\dfrac{5 \\sqrt{3}}{2} \\hat{j}+6 \\hat{j}=2.5 \\hat{i}+10.33 \\hat{j} \\end{aligned}[/math]\u003Cbr\u003E [math]\\overrightarrow{\\rm{A}}- \\overrightarrow{\\rm{B}}[/math]\u003Cbr\u003E এর মাণ [math]=\\sqrt{(2.5)^{2}+(10.33)^{2}}=10.63[/math]\u003Cbr\u003E।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]| \\overrightarrow{A}-\\overrightarrow{B} |^2 = | \\overrightarrow{A} |^2 + | \\overrightarrow{B} |^2 - 2| \\overrightarrow{A}|| \\overrightarrow{B}|\\cos\\theta[/math]. চিত্রে [math]\\theta=120^\\circ[/math] এবং [math]\\cos120^\\circ=-\\tfrac{1}{2}[/math], তাই [math]| \\overrightarrow{A}-\\overrightarrow{B} |^2=25+36-2\\cdot5\\cdot6\\cdot(-\\tfrac{1}{2})=121[/math], ফলে [math]| \\overrightarrow{A}-\\overrightarrow{B} |=11[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 395780,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 395780,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 395780,
+            "tag_id": 1,
+            "year": "2016",
+            "created_at": "2025-08-19T05:27:26.000000Z",
+            "updated_at": "2025-08-19T05:27:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395779,
+      "value": {
+        "options": {
+          "গ": "AB সংযোগকারী ভেক্টরের মান নির্ণয় কর।"
+        },
+        "question": "নিম্নের চিত্রে দুটি বিন্দু A ও B স্থানাঙ্ক দেওয়া আছে :\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcamscanner2011-11-2022201628-5-depositphotos-bgremover_1755581245_TiaUBZjS.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, [math]\\rm{A}(2,3,1)[/math]\u003Cbr\u003E এবং [math]\\mathrm{B}(4,2,-3)[/math]\u003Cbr\u003E [math]\\begin{array}{l} \\therefore \\quad \\overrightarrow{A B}=(4-2) \\hat{i}+(2-3) \\hat{j}+(-3-1) \\hat{k}=2 \\hat{i}-\\hat{j}-4 \\hat{k} \\\\ \\therefore \\quad|\\overrightarrow{A B}|=\\sqrt{2^{2}+(-1)^{2}+(-4)^{2}}=\\sqrt{4+1+16}=\\sqrt{21} \\end{array}[/math]\u003Cbr\u003Eঅতএব, [math]A[/math]\u003Cbr\u003E ও [math]B[/math]\u003Cbr\u003E সংযোগকারী ভেক্টরের মান [math]\\sqrt{21}[/math]\u003Cbr\u003E একক।",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দুটি বিন্দু A ও B যদি [math]A=(x_1,y_1)[/math] এবং [math]B=(x_2,y_2)[/math] হয়, তাহলে AB সংযোগকারী ভেক্টর হলো বিন্দু A থেকে B পর্যন্ত স্থানান্তর, অর্থাৎ [math]\\overrightarrow{AB}=(x_2-x_1,\\;y_2-y_1)[/math]। এটি কারণ ভেক্টরের উপাদানগুলো কোঅর্ডিনেটগুলোর পার্থক্য (শেষবিন্দু minus প্রারম্ভবিন্দু) বোঝায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 395779,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 395779,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 395779,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T05:27:25.000000Z",
+            "updated_at": "2025-08-19T05:27:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395778,
+      "value": {
+        "options": {
+          "ঘ": "[math](\\overrightarrow{\\mathrm{A}}-\\overrightarrow{\\mathrm{B}})[/math] ভেক্টরটি [math]\\rm{X}[/math] অক্ষের সাথে কত কোণ উৎপন্ন করে? প্রয়োজনীয় চিত্রসহ ব্যাখ্যা করো।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-1-02-cq-solve20lq20200007_1755581240_Te1PS7gv.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের চিত্রানুযায়ী [math]\\rm{\\overrightarrow{A}}, \\mathrm{Y}[/math]\u003Cbr\u003E অক্ষের সাথে [math]60^\\circ[/math]\u003Cbr\u003E কোণ উৎপন্ন করে অর্থাৎ, [math]\\rm{X}[/math]\u003Cbr\u003E-অক্ষের সাথে [math](90^\\circ - 60^\\circ) \\Rightarrow 30^\\circ[/math]\u003Cbr\u003E কোণ উৎপন্ন করে।এখানে,[math]\\quad\\begin{array}{l} |\\overrightarrow{\\mathrm{A}}|=5 \\mathrm{~N} \\\\ |\\overrightarrow{\\mathrm{B}}|=8 \\mathrm{~N} \\end{array}[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fimage-removebg-preview_1755581242_VMKEjwhA.png\" alt=\"\"\u003E\u003Cbr/\u003E[math]\\qquad~\\begin{array}{l} \\therefore \\overrightarrow{\\mathrm{A}}=\\left(\\mathrm{A} \\cos 30^{\\circ}\\right) \\hat{\\mathrm{i}}+\\left(\\mathrm{A} \\sin 30^{\\circ}\\right) \\hat{\\mathrm{j}} \\\\ \\qquad =\\left(5 \\cos 30^{\\circ}\\right) \\mathrm{i}+\\left(5 \\sin 30^{\\circ}\\right) \\hat{\\mathrm{j}} \\\\ \\qquad =\\left(\\dfrac{5 \\sqrt{3}}{2}\\right) \\hat{\\mathrm{i}}+\\left(\\dfrac{5}{2}\\right) \\hat{\\mathrm{j}} \\end{array}[/math]\u003Cbr\u003Eএখানে, [math]\\rm{\\overrightarrow{B}}[/math]\u003Cbr\u003E ভেক্টর [math]\\rm{X}[/math]\u003Cbr\u003E-অক্ষের সাথে [math]90^\\circ[/math]\u003Cbr\u003E কোণ উৎপন্ন করেছে। এবং [math]\\overrightarrow{\\mathrm{B}}=8 \\hat{\\mathrm{j}}[/math]\u003Cbr\u003E [math]\\therefore(\\overrightarrow{\\mathrm{A}}-\\overrightarrow{\\mathrm{B}})=\\left(\\dfrac{5 \\sqrt{3}}{2}\\right) \\hat{\\mathrm{i}}+\\left(\\dfrac{5}{2}\\right) \\hat{\\mathrm{j}}-8 \\hat{\\mathrm{j}} \\\\ \\qquad=(4.33) \\hat{\\mathrm{i}}-(5.5) \\hat{\\mathrm{j}}[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-1-02-cq-solve20lq20200009_1755581241_uciNiiml.png\" alt=\"\"\u003E\u003Cbr/\u003E[math](\\overrightarrow{\\mathrm{A}}-\\overrightarrow{\\mathrm{B}})[/math]\u003Cbr\u003E এর [math]\\rm{X}[/math]\u003Cbr\u003E-অক্ষের সাথে উৎপন্ন কোণ,[math]\\quad\\begin{array}{l} \\quad \\theta=\\cos ^{-1} \\dfrac{(4 \\cdot 33 \\hat{\\mathrm{i}}-5.5 \\hat{\\mathrm{j}} \\cdot \\hat{\\mathrm{i}})}{\\sqrt{4.33^{2}+(-5.5)^{2}}} \\\\ \\Rightarrow \\theta=\\cos ^{-1}\\left(\\dfrac{4.33}{7}\\right) \\\\ \\therefore ~\\theta=51.79^{\\circ} \\end{array}[/math]\u003Cbr\u003Eসুতরাং, [math](\\overrightarrow{\\mathrm{A}}-\\overrightarrow{\\mathrm{B}})[/math]\u003Cbr\u003E ভেক্টরটি [math]\\rm{X}[/math]\u003Cbr\u003E-অক্ষের ধনাত্মক দিকের সাথে ঘড়ির কাঁটার দিকে [math]51.79^\\circ[/math]\u003Cbr\u003E কোণ উৎপন্ন করে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ভেক্টরটিকে X অক্ষের সাথে উৎপন্ন কোণ হবে [math]\\theta=\\tan^{-1}\\!\\frac{(A_y-B_y)}{(A_x-B_x)}[/math], কারণ [math]\\overrightarrow{A}-\\overrightarrow{B}=(A_x-B_x)\\hat{i}+(A_y-B_y)\\hat{j}[/math] এবং অনুভূমিকের সাথে কোণ কোটার ঢাল দিয়ে দেওয়া যায়। চিত্রে যদি x‑উপাদান নেতিবাচক হয় তবে কোণের সঠিক মান নির্ণয়ে উপযুক্ত কোয়াড্রান্ট সমন্বয় (যেমন [math]\\theta+\\pi[/math]) করতে হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 395778,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 395778,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 395778,
+            "tag_id": 5,
+            "year": "2021",
+            "created_at": "2025-08-19T05:27:22.000000Z",
+            "updated_at": "2025-08-19T05:27:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395773,
+      "value": {
+        "options": {
+          "ক": "0°",
+          "খ": "90°",
+          "গ": "120°",
+          "ঘ": "180°"
+        },
+        "question": "[math]\\vec{P}=-\\vec{Q}[/math] হলে [math]\\vec{P}[/math] ও [math]\\vec{Q}[/math] এর মধ্যবর্তী কোণ কত?",
+        "solution": "যখন দুটি ভেক্টর [math]\\vec{P}[/math]\u003Cbr\u003E এবং [math]\\vec{Q}[/math]\u003Cbr\u003E এমনভাবে থাকে যে [math]\\vec{P} = -\\vec{Q}[/math]\u003Cbr\u003E, এর মানে হলো ভেক্টর দুটি একই রেখায় অবস্থিত কিন্তু বিপরীত দিকে ক্রিয়াশীল। দুটি ভেক্টর যখন বিপরীত দিকে ক্রিয়া করে তখন তাদের মধ্যবর্তী কোণ হয় 180 ডিগ্রি।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 395773,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395777,
+      "value": {
+        "options": {
+          "ঘ": "[math]\\rm{|\\overrightarrow{A}-\\overrightarrow{B}|\u003E|\\overrightarrow{B}-\\overrightarrow{C}|\u003E|\\overrightarrow{A}-\\overrightarrow{C}| ;}[/math] সঠিক [math]/[/math]সঠিক নয় [math]-[/math] যাচাই করো।"
+        },
+        "question": "[math]\\hspace{1.6 cm}\\begin{array}{l} \\overrightarrow{\\mathrm{A}}=4 \\hat{\\mathrm{i}}+\\hat{2 \\mathrm{j}}-\\hat{\\mathrm{k}} \\\\ \\overrightarrow{\\mathrm{B}}=\\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}} \\\\ \\overrightarrow{\\mathrm{C}}=4 \\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}+\\hat{\\mathrm{k}} \\end{array}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে প্রদত্ত তিনটি ভেক্টর হলো,[math]\\hspace{1 cm}\\begin{array}{l} \\overrightarrow{\\mathrm{A}}=4 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}} \\\\ \\overrightarrow{\\mathrm{B}}=\\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}} \\\\ \\overrightarrow{\\mathrm{C}}=4 \\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}+\\hat{\\mathrm{k}} \\end{array}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\begin{aligned} \\therefore \\rm{\\overrightarrow{A}-\\overrightarrow{B}} & =(4 \\hat{\\rm{i}}+2 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}})-(\\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}) \\\\ & =3 \\hat{\\mathrm{i}}+4 \\hat{\\mathrm{j}}\\\\ \\therefore \\rm{|\\overrightarrow{A}-\\overrightarrow{B}| }& =\\sqrt{3^{2}+4^{2}}=5 \\ldots\\ldots\\ldots\\rm{(i)} \\end{aligned}[/math]\u003Cbr\u003Eআবার,[math]\\hspace{1.5 cm}\\begin{aligned} \\rm{|\\overrightarrow{B}-\\overrightarrow{C}|} & =\\rm{\\hat{i}-2 \\hat{j}-\\hat{k})-(4 \\hat{i}-2 \\hat{j}+\\hat{k})} \\\\ & =\\rm{(-3 \\hat{i}-2 \\hat{k})}\\\\ \\therefore \\rm{|\\overrightarrow{B}-\\overrightarrow{C}|} & =\\rm{\\sqrt{(-3)^{2}+(-2)^{2}}=\\sqrt{13}}\\ldots\\ldots\\ldots\\rm{(ii)}\\end{aligned}[/math]\u003Cbr\u003Eআবার,[math]\\hspace{1.5 cm}\\begin{aligned} |\\overrightarrow{\\mathrm{A}}-\\overrightarrow{\\rm{C}}| & =\\rm{(4 \\hat{i}+2 \\hat{j}-\\hat{k})-(4 \\hat{i}-2 \\hat{j}+\\hat{k})} \\\\ & =\\rm{(4 \\hat{j}-2 \\hat{k})}\\\\ \\therefore \\rm{|\\overrightarrow{A}-\\overrightarrow{C}|} & =\\sqrt{4^{2}+(-2)^{2}}=2 \\sqrt{5} \\ldots\\ldots\\ldots\\rm{(iii)} \\end{aligned}[/math]\u003Cbr\u003E [math]\\rm{(i), ~(ii)}[/math]\u003Cbr\u003E এবং [math]\\rm{(iii)}[/math]\u003Cbr\u003E নং সমীকরণ তুলনা করে পাই,[math]\\hspace{1.5 cm}\\rm{|\\overrightarrow{A}-\\overrightarrow{B}|\u003E|\\overrightarrow{A}-\\overrightarrow{C}|\u003E|\\overrightarrow{B}-\\overrightarrow{C}|}[/math]\u003Cbr\u003Eসুতরাং, [math]\\rm{|\\overrightarrow{A}-\\overrightarrow{B}|\u003E|\\overrightarrow{B}-\\overrightarrow{C}|\u003E|\\overrightarrow{A}-\\overrightarrow{C}|}[/math]\u003Cbr\u003E সম্পর্কটি সঠিক নয়।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অনুযায়ী যাচাই করতে পার্থক্যগুলো বের করি: [math]\\overrightarrow A-\\overrightarrow B=(3,4,0),\\ \\overrightarrow B-\\overrightarrow C=(-3,0,-2),\\ \\overrightarrow A-\\overrightarrow C=(0,4,-2)[/math]. তাদের দৈর্ঘ্য হল [math]|\\overrightarrow A-\\overrightarrow B|=5,\\ |\\overrightarrow B-\\overrightarrow C|=\\sqrt{13},\\ |\\overrightarrow A-\\overrightarrow C|=\\sqrt{20}[/math], তাই সঠিক ক্রম হবে [math]5\u003E\\sqrt{20}\u003E\\sqrt{13}[/math]; প্রদত্ত প্রকাশ [math]|\\overrightarrow A-\\overrightarrow B|\u003E|\\overrightarrow B-\\overrightarrow C|\u003E|\\overrightarrow A-\\overrightarrow C|[/math] সঠিক নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 395777,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 395777,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 395777,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395776,
+      "value": {
+        "options": {
+          "A": "[math]\\vec{A}=0[/math]",
+          "B": "[math]\\vec{B}=0[/math]",
+          "C": "[math]\\vec{A} = \\vec{B}[/math]",
+          "D": "[math]\\vec{A}= - \\vec{B}[/math]"
+        },
+        "question": "[math]\\overrightarrow{\\mathbf{A}}+\\overrightarrow{\\mathbf{B}}=\\overrightarrow{\\mathbf{A}}-\\overrightarrow{\\mathbf{B}}[/math] সম্পর্কটা কোন শর্তে সঠিক?",
+        "solution": "প্রদত্ত সম্পর্কটি হল [math]\\overrightarrow{\\mathbf{A}}+\\overrightarrow{\\mathbf{B}}=\\overrightarrow{\\mathbf{A}}-\\overrightarrow{\\mathbf{B}}[/math]\u003Cbr\u003E।সমীকরণটিকে সরল করলে আমরা পাই:[math]\\overrightarrow{\\mathbf{A}}+\\overrightarrow{\\mathbf{B}}-\\overrightarrow{\\mathbf{A}} = -\\overrightarrow{\\mathbf{B}}[/math]\u003Cbr\u003E [math]\\overrightarrow{\\mathbf{B}} = -\\overrightarrow{\\mathbf{B}}[/math]\u003Cbr\u003E [math]2\\overrightarrow{\\mathbf{B}} = \\overrightarrow{\\mathbf{0}}[/math]\u003Cbr\u003E [math]\\overrightarrow{\\mathbf{B}} = \\overrightarrow{\\mathbf{0}}[/math]\u003Cbr\u003Eএই সম্পর্কটি তখনই সত্য হবে যখন ভেক্টর [math]\\overrightarrow{\\mathbf{B}}[/math]\u003Cbr\u003E শূন্য ভেক্টর হবে। শূন্য ভেক্টর হল এমন একটি ভেক্টর যার মান এবং দিক উভয়ই শূন্য বা অনির্ধারিত। ভেক্টর যোগের অভেদ উপাদান হল শূন্য ভেক্টর, অর্থাৎ যেকোনো ভেক্টরের সাথে শূন্য ভেক্টর যোগ করলে ভেক্টরটির কোনো পরিবর্তন হয় না ( [math]\\overrightarrow{\\mathbf{A}} + \\overrightarrow{\\mathbf{0}} = \\overrightarrow{\\mathbf{A}}[/math]\u003Cbr\u003E)। এখানে [math]\\overrightarrow{\\mathbf{B}}[/math]\u003Cbr\u003E শূন্য ভেক্টর হলে সমীকরণের উভয় পক্ষই [math]\\overrightarrow{\\mathbf{A}}[/math]\u003Cbr\u003E এর সমান হবে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 395776,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 343,
+          "full_name": "Viqarunnisa Noon School & College, Dhaka",
+          "short_name": "VNSC",
+          "slug": "vnsc",
+          "pivot": {
+            "question_bank_id": 395776,
+            "tag_id": 343,
+            "year": "2022",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395775,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "[math]\\vec{P}[/math] ও [math]\\vec{Q}[/math] ভেক্টর দুটি থেকে পাই,\n\n[math]\\begin{array}{l}\\text{i. } \\vec{P} \\times \\vec{Q}=\\vec{Q} \\times \\vec{P}\\\\\\text{ii. } \\vec{P}+\\vec{Q}=\\vec{Q}+\\vec{P}\\\\\\text{iii. } \\vec{P} \\cdot \\vec{Q}=\\vec{Q} \\cdot \\vec{P}\\end{array}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "ভেক্টর যোগের বিনিময় সূত্র অনুযায়ী, [math]\\vec{P}+\\vec{Q}=\\vec{Q}+\\vec{P}[/math]\u003Cbr\u003E এবং স্কেলার গুণনের বিনিময় সূত্র অনুযায়ী, [math]\\vec{P} \\cdot \\vec{Q}=\\vec{Q} \\cdot \\vec{P}[/math]\u003Cbr\u003E । কিন্তু ভেক্টর গুণনের ক্ষেত্রে বিনিময় সূত্র প্রযোজ্য নয়, অর্থাৎ [math]\\vec{P} \\times \\vec{Q} \\neq \\vec{Q} \\times \\vec{P}[/math]\u003Cbr\u003E । ভেক্টর গুণনের অ্যান্টি-কমিউটেটিভ ধর্ম রয়েছে, যেখানে [math]\\vec{P} \\times \\vec{Q} = -(\\vec{Q} \\times \\vec{P})[/math]\u003Cbr\u003E । তাই শুধুমাত্র ii এবং iii বিবৃতি দুটি সঠিক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 395775,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395774,
+      "value": {
+        "options": {
+          "ক": "0",
+          "খ": "[math]\\frac{\\pi}{2}[/math]",
+          "গ": "[math]\\pi[/math]",
+          "ঘ": "[math]2\\pi[/math]"
+        },
+        "question": "[math]\\vec{C}=\\vec{A}-\\vec{B}[/math] ভেক্টরটির মান (A + B)। [math]\\vec{A}[/math] এবং [math]\\vec{B}[/math] ভেক্টর দুটির মধ্যবতী কোণ–",
+        "solution": "এখানে দেওয়া আছে, [math]|\\vec{C}| = |\\vec{A}| - |\\vec{B}|[/math]\u003Cbr\u003E এবং [math]\\vec{C} = \\vec{A} - \\vec{B}[/math]\u003Cbr\u003E.সুতরাং, [math]|\\vec{A} - \\vec{B}| = |\\vec{A}| - |\\vec{B}|[/math]\u003Cbr\u003E.আমরা জানি, [math]|\\vec{A} - \\vec{B}|^2 = |\\vec{A}|^2 + |\\vec{B}|^2 - 2|\\vec{A}||\\vec{B}|\\cos\\theta[/math]\u003Cbr\u003E, যেখানে [math]\\theta[/math]\u003Cbr\u003E হলো [math]\\vec{A}[/math]\u003Cbr\u003E এবং [math]\\vec{B}[/math]\u003Cbr\u003E এর মধ্যবর্তী কোণ।আবার, [math](|\\vec{A}| - |\\vec{B}|)^2 = |\\vec{A}|^2 + |\\vec{B}|^2 - 2|\\vec{A}||\\vec{B}|[/math]\u003Cbr\u003E.এই দুটি সমীকরণ তুলনা করে পাই,[math]|\\vec{A}|^2 + |\\vec{B}|^2 - 2|\\vec{A}||\\vec{B}|\\cos\\theta = |\\vec{A}|^2 + |\\vec{B}|^2 - 2|\\vec{A}||\\vec{B}|[/math]\u003Cbr\u003E.[math]- 2|\\vec{A}||\\vec{B}|\\cos\\theta = - 2|\\vec{A}||\\vec{B}|[/math]\u003Cbr\u003E.[math]\\cos\\theta = 1[/math]\u003Cbr\u003E.সুতরাং, [math]\\theta = 0[/math]\u003Cbr\u003E.অর্থাৎ, ভেক্টর দুটি সমান্তরাল এবং একই দিকে ক্রিয়াশীল। এই শর্তে, [math]|\\vec{A} - \\vec{B}| = ||\\vec{A}| - |\\vec{B}||[/math]\u003Cbr\u003E হয়। যেহেতু প্রশ্ন অনুযায়ী [math]|\\vec{C}| = |\\vec{A}| - |\\vec{B}|[/math]\u003Cbr\u003E, ধরে নেওয়া হচ্ছে [math]|\\vec{A}| \\ge |\\vec{B}|[/math]\u003Cbr\u003E.",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 395774,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395772,
+      "value": {
+        "options": {
+          "ক": "[math]A-B[/math]",
+          "খ": "[math]A[/math]",
+          "গ": "[math]A+B[/math]",
+          "ঘ": "[math]\\sqrt{A^{2}+B^{2}}[/math]"
+        },
+        "question": "[math](\\vec{A}-\\vec{B})[/math] এর সর্বোচ্চ মান কত?",
+        "solution": "[math]\\vec{A}-\\vec{B}[/math]\u003Cbr\u003E এর সর্বোচ্চ মান ঘটে যখন [math]\\vec{A}[/math]\u003Cbr\u003E এবং [math]\\vec{B}[/math]\u003Cbr\u003E ভেক্টর দুটি বিপরীত দিকে থাকে। এই ক্ষেত্রে, ভেক্টর দুটির পার্থক্য তাদের মানের পার্থক্যের সমান হয়, অর্থাৎ [math]|\\vec{A}| - |-\\vec{B}| = A - (-B) = A+B[/math]\u003Cbr\u003E । এটি ভেক্টর যোগের ত্রিভুজ সূত্রের একটি বিশেষ রূপ যেখানে দুটি ভেক্টর বিপরীতমুখী। বিকল্পভাবে, ডট প্রোডাক্ট ব্যবহার করে দেখা যেতে পারে, [math](\\vec{A}-\\vec{B}) \\cdot (\\vec{A}-\\vec{B}) = |\\vec{A}|^2 - 2\\vec{A} \\cdot \\vec{B} + |\\vec{B}|^2 = A^2 - 2AB\\cos\\theta + B^2[/math]\u003Cbr\u003E. সর্বোচ্চ মানের জন্য [math]\\cos\\theta = -1[/math]\u003Cbr\u003E হতে হবে, অর্থাৎ [math]\\theta = 180^\\circ[/math]\u003Cbr\u003E. তখন [math]|\\vec{A}-\\vec{B}|^2 = A^2 + 2AB + B^2 = (A+B)^2[/math]\u003Cbr\u003E, সুতরাং [math]|\\vec{A}-\\vec{B}| = A+B[/math]\u003Cbr\u003E.",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 395772,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395760,
+      "value": {
+        "options": {
+          "A": "8.25",
+          "B": "7.43",
+          "C": "6.59",
+          "D": "2.24"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fadmission-phy-1-2-23-24-24-8-24-removebg-preview_1755581239_5LkY8Uwf.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[math]\\begin{array}{l}|\\vec{A}|=3 \\\\|\\vec{B}|=5 \\\\|\\vec{A}-\\vec{B}|=?\\end{array}[/math]",
+        "solution": "এখানে,[math]|\\vec{A}|=3,|\\vec{B}|=5[/math]\u003Cbr\u003E [math]\\vec{A}[/math]\u003Cbr\u003E ও [math]\\vec{B}[/math]\u003Cbr\u003E এর মধ্যবর্তী কোণ, [math]\\alpha=(90+45)^{\\circ}=135^{\\circ}[/math]\u003Cbr\u003Eএখন,[math]\\begin{aligned}|\\vec{A}-\\vec{B}| & =\\sqrt{\\mathrm{A}^{2}+\\mathrm{B}^{2}-2 \\mathrm{AB} \\cos \\alpha} \\\\& =\\sqrt{3^{2}+5^{2}-2 \\times 3 \\times 5 \\cos \\left(135^{\\circ}\\right)}\\\\\\therefore \\quad & =7.43\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 395760,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 395760,
+            "tag_id": 80,
+            "year": "23-24",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395761,
+      "value": {
+        "options": {
+          "A": "[math]2 \\sqrt{6}[/math]",
+          "B": "[math]2 \\sqrt{2}[/math]",
+          "C": "[math]\\sqrt{6}[/math]",
+          "D": "[math]\\sqrt{2}[/math]"
+        },
+        "question": "[math]\\vec{A}=3 \\hat{i}+\\hat{j}-2 \\hat{k}[/math] ও [math]\\overrightarrow{\\mathbf{B}}=\\hat{i}+3 \\hat{j}+2 \\hat{k}[/math] হলে, [math]|\\overrightarrow{\\mathbf{A B}}|[/math] কত?",
+        "solution": "[math]\\overrightarrow{\\mathrm{AB}}=\\overrightarrow{\\mathrm{B}}-\\overrightarrow{\\mathrm{A}}[/math]\u003Cbr\u003E [math]=(\\hat{i}+3 \\hat{j}+2 \\hat{k})[/math]\u003Cbr\u003E [math]-(3 \\hat{i}+\\hat{j}-2 \\hat{k})[/math]\u003Cbr\u003E [math]~~~~~~~~~~~~~~~~~~~~~~~~~~[/math]\u003Cbr\u003E [math]=-2 \\hat{i}+2 \\hat{j}+4 \\hat{k}[/math]\u003Cbr\u003E [math]|\\overrightarrow{\\mathrm{AB}}|[/math]\u003Cbr\u003E [math]=\\sqrt{(-2)^{2}+(2)^{2}+4^{2}}[/math]\u003Cbr\u003E [math]=2 \\sqrt{6}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 30,
+          "year": "2023-2024",
+          "pivot": {
+            "question_bank_id": 395761,
+            "year_id": 30
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 395761,
+            "tag_id": 11,
+            "year": "23-24",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395762,
+      "value": {
+        "options": {
+          "A": "[math]2 \\sqrt{6}[/math]",
+          "B": "[math]2 \\sqrt{2}[/math]",
+          "C": "[math]\\sqrt{6}[/math]",
+          "D": "[math]\\sqrt{2}[/math]"
+        },
+        "question": "[math]\\vec{A}=3 \\hat{i}+\\hat{j}-2 \\hat{k}[/math] ও [math]\\overrightarrow{\\mathbf{B}}=\\hat{\\mathbf{i}}+3 \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}[/math] হলে, [math]|\\overrightarrow{\\mathrm{AB}}|[/math] কত?",
+        "solution": "[math]\\begin{aligned}\\overrightarrow{A B}=\\vec{B}-\\vec{A} & =(\\hat{i}+3\\hat{j}+2 \\hat{k})-(3 \\hat{i}+\\hat{j}-2 \\hat{k}) \\\\& =-2 \\hat{i}+2 \\hat{j}+4 \\hat{k}\\end{aligned}[/math]\u003Cbr\u003E [math]|\\overrightarrow{A B}|=\\sqrt{(-2)^{2}+(2)^{2}+4^{2}}=2 \\sqrt{6}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 395762,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 395762,
+            "tag_id": 11,
+            "year": "22-23",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395763,
+      "value": {
+        "options": {
+          "A": "4",
+          "B": "-4",
+          "C": "8",
+          "D": "-8"
+        },
+        "question": "দুটি সমান্তরাল ভেক্টর [math]\\overrightarrow{\\mathrm{A}}=3 \\hat{\\mathbf{i}}-2 \\hat{\\mathbf{j}}+4 \\hat{\\mathbf{k}}[/math] এবং [math]\\vec{B}=12 \\hat{i}+m \\hat{j}+16 \\hat{k}[/math] হলে m=?",
+        "solution": "আমরা জানি,[math]\\frac{A_{x}}{B_{x}}=\\frac{A_{y}}{B_{y}}=\\frac{A_{z}}{B_{z}} \\Rightarrow \\frac{3}{12}=\\frac{-2}{m}=\\frac{4}{16}[/math]\u003Cbr\u003E [math]\\Rightarrow-\\frac{2}{m}=\\frac{1}{4} \\therefore m=-8[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 395763,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 58,
+          "full_name": "University of Rajshahi (A Unit)",
+          "short_name": "RU-A",
+          "slug": "ru-a",
+          "pivot": {
+            "question_bank_id": 395763,
+            "tag_id": 58,
+            "year": "19-20",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395764,
+      "value": {
+        "options": {
+          "ক": "16 N",
+          "খ": "20 N",
+          "গ": "24 N",
+          "ঘ": "32 N",
+          "ঙ": "No correct answer"
+        },
+        "question": "[math]20\\ kg[/math] ভরের একটি বস্তুর উপর কী পরিমাণ বল ক্রিয়া করলে তার বেগ [math]10\\ s[/math] এ [math](4 \\hat{i}-5 \\hat{j}-3 \\hat{k}) ms^{-1}[/math] হতে বৃদ্ধি পেয়ে [math](8 \\hat{i}+3 \\hat{j}-5 \\hat{k}) ms^{-1}[/math] হবে?",
+        "solution": "(সঠিক উত্তর নেই) [math]\\Delta \\vec{V}=(8 \\hat{i}+3 \\hat{j}-5 \\hat{k})-(4 \\hat{i}-5 \\hat{j}-3 \\hat{k})=4 \\hat{i}+8 \\hat{j}-2 \\hat{k} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E [math]\\vec{F}=m \\dfrac{\\Delta \\vec{V}}{\\Delta t} \\therefore|\\vec{F}|=\\dfrac{m}{\\Delta t}|\\Delta \\vec{V}|=\\dfrac{20}{10} \\times \\sqrt{4^{2}+8^{2}+2^{2}} \\mathrm{~N}=4 \\sqrt{21} \\mathrm{~N} \\therefore[/math]\u003Cbr\u003E উত্তর নেই।",
+        "explanation": "",
+        "correct_answer": "E. No correct answer"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 395764,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 16,
+          "full_name": "Sher-e-Bangla Agricultural University",
+          "short_name": "BAU",
+          "slug": "bau",
+          "pivot": {
+            "question_bank_id": 395764,
+            "tag_id": 16,
+            "year": "17-18",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395765,
+      "value": {
+        "options": {
+          "A": "[math]\\sqrt{12}[/math]",
+          "B": "[math]\\sqrt{13}[/math]",
+          "C": "[math]\\sqrt{14}[/math]",
+          "D": "[math]\\sqrt{15}[/math]"
+        },
+        "question": "[math]\\vec{a}=\\hat{i}+2 \\hat{j}+\\widehat{k}[/math] এবং [math]\\vec{b}=3 \\hat{i}+\\hat{j}+4 \\hat{k}[/math] দুটি ভেক্টর রাশি হলে, [math]|2 \\vec{a}-\\hat{b}|=[/math] কত?",
+        "solution": "[math]\\vec{a}=\\hat{i}+2 \\hat{j}+\\hat{k} ; \\vec{b}=3 \\hat{i}+\\hat{j}+4 \\hat{k} \\quad \\therefore|2 \\vec{a}-\\vec{b}|=\\sqrt{(-1)^{2}+3^{2}+(-2)^{2}}=\\sqrt{14}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 395765,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 395765,
+            "tag_id": 57,
+            "year": "14-15",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395766,
+      "value": {
+        "options": {
+          "A": "[math]\\sqrt{114}[/math]",
+          "B": "[math]\\sqrt{246}[/math]",
+          "C": "[math]\\sqrt{110}[/math]",
+          "D": "[math]\\sqrt{240}[/math]"
+        },
+        "question": "[math]\\overrightarrow{\\mathbf{a}}=\\hat{\\mathbf{i}}+\\mathbf{2} \\hat{\\mathbf{j}}+\\hat{\\mathbf{k}}[/math] এবং [math]\\overrightarrow{\\mathbf{b}}=3 \\hat{\\mathbf{i}}+\\hat{\\mathbf{j}}-4 \\hat{\\mathbf{k}}[/math] দুটি ভেক্টর রাশি হলে, [math]|2 \\vec{a}-3 \\vec{b}|=[/math] কত?",
+        "solution": "[math]\\begin{array}{l}2 \\vec{a}-3 \\vec{b}=-7 \\hat{i}+\\hat{j}+14 \\hat{k} \\\\|2 \\vec{a}-3 \\vec{b}|=\\sqrt{7^{2}+1^{2}+(14)^{2}}=\\sqrt{246}\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 395766,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 395766,
+            "tag_id": 57,
+            "year": "14-15",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395767,
+      "value": {
+        "options": [],
+        "question": "দুইটি সমান বল কোন একটি বিন্দুতে কার্যরত। যদি এদের লব্ধির মানের বর্গ এদের গুনফলের তিনগুন হয়, তবে বলদ্ব্যের মধ্যবর্তী কোণের মান কত?",
+        "solution": "[math]3 p^{2}=p^{2}+p^{2}+2 p^{2} \\cos \\alpha \\Rightarrow 3=2+2 \\cos \\alpha \\Rightarrow \\cos \\alpha=\\frac{1}{2} \\Rightarrow \\alpha=60^{\\circ}[/math]",
+        "explanation": "ব্যাখ্যা: দুইটি সমান বলের প্রতিটি ধরা যাক [math]F[/math], তখন লব্ধির বর্গ [math]R^2=F^2+F^2+2F^2\\cos\\theta=2F^2(1+\\cos\\theta)[/math]. শর্ত অনুযায়ী [math]2F^2(1+\\cos\\theta)=3F^2[/math] দিয়ে [math]2(1+\\cos\\theta)=3\\Rightarrow\\cos\\theta=1/2[/math], ফলে [math]\\theta=60^\\circ[/math].",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 395767,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 395767,
+            "tag_id": 480,
+            "year": "12-13",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395768,
+      "value": {
+        "options": {
+          "A": "[math]\\vec{A}[/math]",
+          "B": "[math]-\\vec{A}[/math]",
+          "C": "[math]|\\vec{A}|[/math]",
+          "D": "[math]A[/math]"
+        },
+        "question": "[math]\\vec{\\mathrm{QP}}=\\vec{\\mathrm{A}}[/math] হয়, তাহলে [math]\\vec{\\mathrm{PQ}}[/math] সমান কত?",
+        "solution": "ভেক্টর QP এবং ভেক্টর PQ পরস্পর বিপরীত দিকে কাজ করে, কিন্তু তাদের মান সমান। তাই যদি [math]\\vec{\\mathrm{QP}}=\\vec{\\mathrm{A}}[/math]\u003Cbr\u003E হয়, তাহলে [math]\\vec{\\mathrm{PQ}}[/math]\u003Cbr\u003E হবে [math]-\\vec{\\mathrm{A}}[/math]\u003Cbr\u003E। ভেক্টরের দিক পরিবর্তন করলে তার চিহ্ন পরিবর্তিত হয়। [math]|\\vec{A}|[/math]\u003Cbr\u003E ভেক্টরটির মান নির্দেশ করে, যা দিকের উপর নির্ভর করে না। A শুধুমাত্র একটি স্কেলার মান, যা ভেক্টরের দিককে বিবেচনা করে না।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 395768,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 395768,
+            "tag_id": 502,
+            "year": "11-12",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395769,
+      "value": {
+        "options": {
+          "A": "6",
+          "B": "4",
+          "C": "3",
+          "D": "5"
+        },
+        "question": "a এর মান নিচের কোনটি হলে [math]\\overrightarrow{\\mathrm{A}} \\text { ও } \\overrightarrow{\\mathrm{B}}[/math] পরষ্পর সমান্তরাল হবে। যেখানে, [math]\\vec{A}=5 \\hat{i}+2 \\hat{j}+3 \\hat{k} \\text { ও } \\vec{B}=15 \\hat{i}+a \\hat{j}+9 \\hat{k}[/math]",
+        "solution": "[math]\\begin{array}{l}\\text{Hints: } \\frac{a_{1}}{a_{2}}=\\frac{b_{1}}{b_{2}}=\\frac{c_{1}}{c_{2}}\\\\\\text{Solve: } \\frac{a_{1}}{a_{2}}=\\frac{b_{1}}{b_{2}}=\\frac{c_{1}}{c_{2}} \\\\\\Rightarrow \\frac{5}{15}=\\frac{2}{a}=\\frac{3}{9} \\\\\\Rightarrow 5 a=30 \\\\\\Rightarrow a=6\\end{array}[/math]",
+        "explanation": "[math]\\vec{A}=A x \\hat{i}+A y \\hat{j}+A z \\hat{k} \\text { - and, } \\vec{B}=B x \\hat{i}+B y \\hat{j}+B z \\hat{k}[/math]\u003Cbr\u003Eভেক্টর দুটি সমান্তরাল হলে ভেক্টর দুটির অনুরূপ একক ভেক্টরের সহগের অনুপাত সমান হবে।অর্থাৎ [math]\\frac{\\mathrm{Ax}}{\\mathrm{Bx}}=\\frac{\\mathrm{Ay}}{\\mathrm{By}}=\\frac{\\mathrm{Az}}{\\mathrm{Bz}}[/math]\u003Cbr\u003E",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 24,
+          "year": "2008-2009",
+          "pivot": {
+            "question_bank_id": 395769,
+            "year_id": 24
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 395769,
+            "tag_id": 73,
+            "year": "08-09",
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395770,
+      "value": {
+        "options": {
+          "ক": "নাল ভেক্টর",
+          "খ": "স্বাধীন ভেক্টর",
+          "গ": "সমরেখ ভেক্টর",
+          "ঘ": "অবস্থান ভেক্টর"
+        },
+        "question": "নিচের কোন ভেক্টরের পাদবিন্দু ও শীর্ষবিন্দু একই?",
+        "solution": "নাল ভেক্টরের পাদবিন্দু (initial point) এবং শীর্ষবিন্দু (terminal point) একই বিন্দুতে অবস্থিত হয়। এর মান শূন্য এবং এর কোনো নির্দিষ্ট দিক নেই। অন্যান্য ভেক্টর যেমন স্বাধীন ভেক্টর, সমরেখ ভেক্টর বা অবস্থান ভেক্টরের ক্ষেত্রে পাদবিন্দু এবং শীর্ষবিন্দু ভিন্ন ভিন্ন বিন্দুতে হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 395770,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395771,
+      "value": {
+        "options": {
+          "A": "i ও ii",
+          "B": "i ও iii",
+          "C": "ii ও iii",
+          "D": "i, ii ও iii"
+        },
+        "question": "[math]\\vec{A}=5 \\hat{i}[/math] ও [math]\\vec{B}=\\frac{1}{5} \\hat{i}[/math] ভেক্টরদ্বয়–\n\ni. সদৃশ ভেক্টর\n\nii. বিপ্রতীপ ভেক্টর\n\niii. বিপরীত দিকে ক্রিয়া করে\n\nনিচের কোনটি সঠিক?",
+        "solution": "ভেক্টর [math]\\vec{A}=5 \\hat{i}[/math]\u003Cbr\u003E এবং [math]\\vec{B}=\\frac{1}{5} \\hat{i}[/math]\u003Cbr\u003E উভয়ই [math]\\hat{i}[/math]\u003Cbr\u003E বরাবর একই দিকে ক্রিয়াশীল। তাই এরা সদৃশ ভেক্টর (i)।ভেক্টরদ্বয় একই দিকে হওয়ার কারণে এরা বিপ্রতীপ ভেক্টর (ii) নয়।যেহেতু ভেক্টরদ্বয় একই দিকে ক্রিয়াশীল, তাই এরা বিপরীত দিকে ক্রিয়া করে না (iii) ভুল।সুতরাং, কেবল সদৃশ ভেক্টর হওয়ার বিষয়টি সঠিক।ভেক্টর সদৃশ হওয়ার শর্ত হলো তাদের দিক একই হওয়া। এখানে, [math]\\vec{A}[/math]\u003Cbr\u003E এবং [math]\\vec{B}[/math]\u003Cbr\u003E উভয়েরই দিক ধনাত্মক x-অক্ষ বরাবর, যা [math]\\hat{i}[/math]\u003Cbr\u003E দ্বারা নির্দেশিত।অতিরিক্ত তথ্য: দুটি ভেক্টরকে সদৃশ বলা হয় যদি তাদের দিক একই হয়। দুটি ভেক্টরকে বিপ্রতীপ বলা হয় যদি তাদের মান সমান এবং দিক বিপরীত হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 395771,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T05:27:19.000000Z",
+            "updated_at": "2025-08-19T05:27:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395759,
+      "value": {
+        "options": {
+          "ক": "সাধারণ",
+          "খ": "সমান্তরাল",
+          "গ": "সামান্তরিক",
+          "ঘ": "উপাংশ"
+        },
+        "question": "কোনটি ভেক্টর রাশির বিয়োজনের সূত্র নয়?",
+        "solution": "ভেক্টর রাশির বিয়োজনের সূত্রগুলি হলো–\n\nক) সাধারণ নিয়ম\n\nখ) সামান্তরিক সূত্র\n\nগ) উপাংশ সূত্র",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 33,
+          "year": "2004-2005",
+          "pivot": {
+            "question_bank_id": 395759,
+            "year_id": 33
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3225,
+          "full_name": "Medical Admission Test (Dental)",
+          "short_name": "Dental",
+          "slug": "dental",
+          "pivot": {
+            "question_bank_id": 395759,
+            "tag_id": 3225,
+            "year": "04-05",
+            "created_at": "2025-08-19T05:27:17.000000Z",
+            "updated_at": "2025-08-19T05:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395758,
+      "value": {
+        "options": {
+          "ক": "সাধারণ",
+          "খ": "সমান্তরাল",
+          "গ": "সামান্তরিক",
+          "ঘ": "উপাংশ"
+        },
+        "question": "কোনটি ভেক্টর রাশির বিয়োজনের সূত্র নয়?",
+        "solution": "ভেক্টর রাশির বিয়োজনের সূত্রগুলো হল- ক) সাধারণ নিয়ম খ) সামান্তরিক সূত্র গ) উপাংশ সূত্র",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 33,
+          "year": "2004-2005",
+          "pivot": {
+            "question_bank_id": 395758,
+            "year_id": 33
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 395758,
+            "tag_id": 18,
+            "year": "04-05",
+            "created_at": "2025-08-19T05:27:17.000000Z",
+            "updated_at": "2025-08-19T05:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395757,
+      "value": {
+        "options": {
+          "A": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/options2fimages2fpodartho-bicitra-hsc-admission-chap-2-qs-4-du-1-1-removebg-preview_1755581233_vgiRZEoV.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "B": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/options2fimages2fpodartho-bicitra-hsc-admission-chap-2-qs-4-du-1-2_1755581234_CU6IuP48.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "C": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/options2fimages2fpodartho-bicitra-hsc-admission-chap-2-qs-4-du-1-3_1755581235_1DxTkFBQ.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "D": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/options2fimages2fpodartho-bicitra-hsc-admission-chap-2-qs-4-du-1-4_1755581236_JkXlaNIW.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+        },
+        "question": "নিচের কোন চিত্রটি [math]\\overrightarrow{\\mathbf{R}}=\\overrightarrow{\\mathbf{P}}-\\overrightarrow{\\mathbf{Q}}[/math] সমীকরণটি সঠিকভাবে উপস্থাপন করে ?",
+        "solution": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fpodartho-bicitra-hsc-admission-chap-2-qs-4-du-1-5_1755581231_CYGAyAv8.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, [math]\\overrightarrow{\\mathrm{P}}=\\overrightarrow{\\mathrm{R}}+\\overrightarrow{\\mathrm{Q}} \\quad \\therefore \\overrightarrow{\\mathrm{R}}=\\overrightarrow{\\mathrm{P}}-\\overrightarrow{\\mathrm{Q}}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 395757,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 395757,
+            "tag_id": 8,
+            "year": "11-12",
+            "created_at": "2025-08-19T05:27:17.000000Z",
+            "updated_at": "2025-08-19T05:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395756,
+      "value": {
+        "options": {
+          "ক": "[math]5 \\hat{i}+7 \\hat{j}+9 \\hat{k}[/math]",
+          "খ": "[math]6 \\hat{i}+12 \\hat{j}+25 \\hat{k}[/math]",
+          "গ": "[math]\\hat{i}+\\hat{j}[/math]",
+          "ঘ": "[math]\\hat{i}+\\hat{j}+\\hat{k}[/math]"
+        },
+        "question": "কোনো কণা P(2, 3, 5) বিন্দু থেকে Q(3, 4, 5) বিন্দুতে স্থানান্তরিত হলে এর সরণ ভেক্টর কী হবে?",
+        "solution": "[math]\\overrightarrow{\\mathrm{PQ}}=\\overrightarrow{\\mathrm{OQ}}-\\overrightarrow{\\mathrm{OP}}[/math]\u003Cbr\u003E [math]=(3 \\hat{\\mathrm{i}}+4 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}})[/math]\u003Cbr\u003E [math]-(2 \\hat{i}+3 \\hat{j}+5 \\hat{k})[/math]\u003Cbr\u003E [math]=\\hat{\\mathrm{i}}+\\hat{\\mathrm{j}}[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20admission20physic201st20paper2c20riyel20roy20chapter-12c20date-15-09-202420mcq2c20serial20no-2_1755581230_PuKNoZ8s.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 29,
+          "year": "2022-2023",
+          "pivot": {
+            "question_bank_id": 395756,
+            "year_id": 29
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 395756,
+            "tag_id": 8,
+            "year": "22-23",
+            "created_at": "2025-08-19T05:27:10.000000Z",
+            "updated_at": "2025-08-19T05:27:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395755,
+      "value": {
+        "options": {
+          "ক": "[math]\\sqrt{20}[/math]",
+          "খ": "[math]\\sqrt{29}[/math]",
+          "গ": "[math]\\sqrt{56}[/math]",
+          "ঘ": "[math]6\\sqrt{3}[/math]"
+        },
+        "question": "P ও Q এর স্থানাঙ্ক ( 3, –2, 1 ) এবং ( 3, –4, 5), PQ এর মান কত?",
+        "solution": "P ও Q এর স্থানাঙ্ক যতাক্রমে ( 3, –2, 1 ) এবং ( 3, –4, 5)[math]\\begin{array}{l}\\therefore \\vec{P}=3 \\hat{i}-2 \\hat{j}+\\hat{k} \\text { And } \\\\\\vec{Q}=3 \\hat{i}-4 \\hat{j}+5 \\hat{k} \\\\\\end{array}[/math]\u003Cbr\u003Eএখন,[math]\\begin{aligned}\\overrightarrow{P Q} & =\\vec{Q}-\\vec{P} \\\\& =(3 \\hat{i}-4 \\hat{j}+5 \\hat{k})-(3 \\hat{i}-2 \\hat{j}+\\hat{k}) \\\\& =3 \\hat{i}-4 \\hat{j}+5 \\hat{k}-3 \\hat{i}+2 \\hat{j}-\\hat{k} \\\\& =-2 \\hat{j}+4 \\hat{k}\\end{aligned}[/math]\u003Cbr\u003E [math]\\begin{aligned}\\therefore P Q & =|\\overrightarrow{P Q}| \\\\& =\\sqrt{(-2)^{2}+4^{2}} \\\\& =\\sqrt{4+16} \\\\& =\\sqrt{20}\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 395755,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 395755,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 395755,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T05:27:09.000000Z",
+            "updated_at": "2025-08-19T05:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395754,
+      "value": {
+        "options": {
+          "A": "0",
+          "B": "5 একক",
+          "C": "7.07 একক",
+          "D": "8.66 একক"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy1st202-1-2017-7-5-2024_1755581229_McfkRu6l.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nউপরের চিত্রে দুটি ভেক্টর [math]\\vec{\\mathbf{A}}[/math] ও [math]\\vec{\\mathbf{B}}[/math] এর প্রত্যেকের মান 5 একক তাদের মধ্যেকার কোণ 60° । [math]|\\vec{\\mathbf{A}}-\\vec{\\mathbf{B}}|[/math] নির্ণয় কর।",
+        "solution": "[math](|\\overrightarrow A - \\overrightarrow B|)^2 = |\\overrightarrow A|^2 - 2 \\overrightarrow A.\\overrightarrow B+|\\overrightarrow B|^2\\\\=5^2 - 2|\\overrightarrow A| |\\overrightarrow B| cos \\theta + 5^2\\\\=5^2 - 2 \\times 5 \\times 5 cos 60^\\circ +25\\\\=25 = \\sqrt 25 =5[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 395754,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 395754,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 395754,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T05:27:09.000000Z",
+            "updated_at": "2025-08-19T05:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395752,
+      "value": {
+        "options": {
+          "A": "[math]\\vec{B}=\\frac{1}{5} \\hat{i}[/math]",
+          "B": "[math]\\vec{B}=\\frac{1}{5} \\hat{j}[/math]",
+          "C": "[math]\\vec{B}=5 \\hat{j}[/math]",
+          "D": "[math]\\overrightarrow{\\mathrm{B}}=5 \\hat{\\mathrm{i}}[/math]"
+        },
+        "question": "[math]\\overrightarrow{\\mathbf{A}}=5 \\hat{\\mathbf{j}}[/math] এবং [math]\\overrightarrow{\\mathbf{B}}[/math] ভেক্টর A ভেক্টরের বিপ্রতীপ হলে—",
+        "solution": "দু'টি সমান্তরাল ভেক্টরের একটির মান অপরটির বিপরীত হলে, - তাদেরকে বিপ্রতীপ ভেক্টর বলে।যেহেতু [math]\\vec{B}[/math]\u003Cbr\u003E ভেক্টর [math]\\vec{A}[/math]\u003Cbr\u003E ভেক্টরের বিপ্রতীপ ভেক্টর। সুতরাং, [math]\\vec{B}=\\frac{1}{|\\vec{A}|} \\hat{j}=\\frac{1}{5} \\hat{j}[/math]\u003Cbr\u003E",
+        "explanation": "দুটি সমান্তরাল ভেক্টরের একটির মান অপরটির বিপরীত সংখ্যার সমান হলে তাদের বিপ্রতীপ ভেক্টর বলে ।অর্থাৎ, [math]\\overrightarrow{\\mathrm{A}}=\\mathrm{a} \\hat{\\mathrm{i}}[/math]\u003Cbr\u003E হলে, এর বিপ্রতীপ ভেক্টর B হলে [math]\\overrightarrow{\\mathrm{B}}=\\frac{1}{\\mathrm{a}} \\hat{\\mathrm{i}}[/math]\u003Cbr\u003Eসুতরাং , [math]\\vec{B}=\\frac{1}{5} \\hat{j}[/math]\u003Cbr\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 395752,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 395752,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 236,
+          "full_name": "Mymensingh Board",
+          "short_name": "MSB",
+          "slug": "mymensingh-board",
+          "pivot": {
+            "question_bank_id": 395752,
+            "tag_id": 236,
+            "year": "2023",
+            "created_at": "2025-08-19T05:27:08.000000Z",
+            "updated_at": "2025-08-19T05:27:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 395753,
+      "value": {
+        "options": {
+          "ক": "বিপরীত ভেক্টর",
+          "খ": "বিপ্রতীপ ভেক্টর",
+          "গ": "বিসদৃশ ভেক্টর",
+          "ঘ": "সদৃশ ভেক্টর"
+        },
+        "question": "অসম মানের এবং বিপরীতমুখী সমজাতীয় দুটি ভেক্টরকে বলে—",
+        "solution": "বিসদৃশ ভেক্টরের মান অসমান ও দিক বিপরীত।\n\nবিপরীত ভেক্টরের মান সমান কিন্তু দিক বিপরীত।\n\nবিপ্রতীপ ভেক্টরের মান পরস্পর বিপ্রতীপ কিন্তু দিক একই।\n\nসদৃশ ভেক্টরের মান অসমান কিন্তু দিক একই।",
+        "explanation": "",
+        "correct_answer": "C.বিসদৃশ ভেক্টর"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6318,
+      "created_at": "2025-08-19T05:27:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 395753,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 395753,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 395753,
+            "tag_id": 5,
+            "year": "2021",
+            "created_at": "2025-08-19T05:27:08.000000Z",
+            "updated_at": "2025-08-19T05:27:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6318&grade=1&lesson=6499&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6318&grade=1&lesson=6499&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6318&grade=1&lesson=6499&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 42,
+  "total": 42
+}

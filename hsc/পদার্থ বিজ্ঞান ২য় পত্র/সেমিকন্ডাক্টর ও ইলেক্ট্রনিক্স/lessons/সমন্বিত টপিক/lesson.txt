@@ -1,0 +1,564 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 436717,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের তথ্যানুসারে প্রবাহ দাত [math]100\\%[/math] পাওয়া সম্ভব কি-না গাণিতিক ব্যাখ্যা দাও।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-1020cq20letque20solve-8-de_1755589944_GwZLKAn9.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের ট্রানজিস্টরটি হলো pnp ট্রানজিস্টর বা কমন ইমিটার সংযোগে বিদ্যমান।এখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবেস প্রবাহ, [math]\\mathrm{I}_{\\mathrm{R}}=20 \\mu \\mathrm{A}=0.02 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eসংগ্রাহক প্রবাহ, [math]\\mathrm{I}_{\\mathrm{C}}=5 \\mathrm{~mA}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রবাহ লাভ, [math]\\beta = ?[/math]\u003Cbr\u003Eআমরা জনি,[math]\\hspace{1.5 cm}\\begin{aligned} \\beta & =\\frac{I_{C}}{I_{B}} \\\\ & =\\frac{5}{0.02} \\\\ & =250^{\\circ} \\end{aligned}[/math]\u003Cbr\u003Eদেখা যাচ্ছে, প্রবাহ লাভ 100 অপেক্ষা বেশি। সুতরাং উদ্দীপকের বর্তনী থেকে 100% প্রবাহ লাভ পাওয়া সম্ভব।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E না—শুধু আদর্শ সীমা কিংবা বিশেষ পরিমাণে সম্ভব। সমান্তরাল বিভাজকের জন্য [math]I_1=I\\frac{R_2}{R_1+R_2}[/math], তাই [math]I_1=I[/math] হলে দরকার [math]R_1=0[/math] (শর্ট) অথবা অন্য প্রতিরোধ [math]R_2\\to\\infty[/math] (ওপেন); বাস্তবে সঠিক [math]100\\%[/math] পেতে হলে এসব আদর্শ শর্ত আদায় করা দরকার, কনক্রিট অসীম/শূন্য মান থাকলে ছাড়া না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:52:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 436717,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 436717,
+            "tag_id": 47,
+            "year": "2021",
+            "created_at": "2025-08-19T07:52:24.000000Z",
+            "updated_at": "2025-08-19T07:52:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 436716,
+      "value": {
+        "options": {
+          "A": "p-n-p ট্রানজিস্টর",
+          "B": "n-p-n ট্রানজিস্টর",
+          "C": "pn ডায়োড",
+          "D": "L.E.D"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22031-10_1755589943_oWmufoFi.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nএটি কীসের প্রতীক?",
+        "solution": "n-p-n ট্রানজিস্টরের ক্ষেত্রে, তীরচিহ্নটি এমিটার (emitter) থেকে বাইরের দিকে নির্দেশ করে, যা এই প্রতীকের সাথে মেলে। p-n-p ট্রানজিস্টরের ক্ষেত্রে তীরচিহ্নটি ভিতরের দিকে নির্দেশ করে। ডায়োড এবং LED-এর প্রতীক ভিন্ন।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:52:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 436716,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T07:52:23.000000Z",
+            "updated_at": "2025-08-19T07:52:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 436713,
+      "value": {
+        "options": {
+          "A": "p-n-p ট্রানজিস্টর",
+          "B": "n-p-n ট্রানজিস্টর",
+          "C": "p-n জাংশন ডায়োড",
+          "D": "লজিক গেইট"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-22059-8_1755589942_AkDX2cex.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রটি কী নির্দেশ করে?",
+        "solution": "n-p-n ট্রানজিস্টরের একটি সাধারণ চিত্র হলো একটি বেস (p), একটি কালেক্টর (n), এবং একটি এমিটার (n) টার্মিনাল। তীরচিহ্নটি এমিটার থেকে বাইরের দিকে নির্দেশ করে, যা নির্দেশ করে এটি একটি n-p-n ট্রানজিস্টর। p-n জাংশনে দুটি টার্মিনাল থাকে, p-n-p ট্রানজিস্টরের তীরচিহ্নটি ভিতরের দিকে নির্দেশ করে এবং লজিক গেইট একটি ভিন্ন বর্তনী।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:52:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 436713,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:52:22.000000Z",
+            "updated_at": "2025-08-19T07:52:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 436714,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i এবং ii",
+          "গ": "ii এবং iii",
+          "ঘ": "i, ii এবং iii"
+        },
+        "question": "IC এর ক্ষেত্রে প্রযোজ্য—\n\ni. ক্ষুদ্র\n\nii. হালকা\n\niii. সস্তা\n\nনিচের কোনটি সঠিক?",
+        "solution": "IC (Integrated Circuit) গুলো আকারে ছোট (ক্ষুদ্র), ওজনে হালকা (হালকা) এবং দামে সাশ্রয়ী (সস্তা) হয়ে থাকে। তাই তিনটি বৈশিষ্ট্যই IC এর জন্য প্রযোজ্য।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:52:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 436714,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:52:22.000000Z",
+            "updated_at": "2025-08-19T07:52:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 436715,
+      "value": {
+        "options": {
+          "ক": "IC সাধারণত ক্ষুদ্র আকারের হয়",
+          "খ": "IC হালকা ওজনের হয়",
+          "গ": "IC-তে সংযোগ সংখ্যা খুব বেশি হয়",
+          "ঘ": "IC সস্তা হয়"
+        },
+        "question": "IC-এর ক্ষেত্রে কোনটি সঠিক নয়—",
+        "solution": "IC-এর ক্ষেত্রে সংযোগ সংখ্যা বেশি থাকা সঠিক নয়, কারণ IC-তে অসংখ্য ট্রানজিস্টর ও অন্যান্য উপাদান একটি ছোট স্থানে একত্রিত করা হয়, যার ফলে পিন সংখ্যা সীমিত থাকে এবং সংযোগ সংখ্যা সাধারণত কম হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:52:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 436715,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:52:22.000000Z",
+            "updated_at": "2025-08-19T07:52:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 436709,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সমন্বিত বর্তনীর ক্ষেত্রে-\n\ni. কম বিদ্যুতের প্রয়োজন হয়\n\nii. ওজন ও দাম কম\n\niii. কোনো যন্ত্রাংশ নষ্ট হলে সমস্ত চিপটি অকেজো হয় না\n\nনিচের কোনটি সঠিক?",
+        "solution": "সমন্বিত বর্তনীর সুবিধা-\n\nক. সংযোগ সংখ্যা কম কিন্তু নির্ভরযোগ্যতা বেশি\n\nখ. অত্যন্ত ক্ষুদ্রাকৃতি\n\nগ. ওজন কম\n\nঘ. কম বিদ্যুতের প্রয়োজন\n\nঙ. দাম কম",
+        "explanation": "",
+        "correct_answer": "A.i ও ii"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:52:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 436709,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 436709,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 436709,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-08-19T07:52:21.000000Z",
+            "updated_at": "2025-08-19T07:52:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 436710,
+      "value": {
+        "options": {
+          "ক": "ওজনে হালকা",
+          "খ": "অত্যন্ত ক্ষুদ্রাকৃতি",
+          "গ": "দামে কম",
+          "ঘ": "কম বিদ্যুৎ খরচ করে"
+        },
+        "question": "ইন্টিগ্রেটেড সার্কিট সম্পর্কে সত্য নয় কোনটি?",
+        "solution": "ইন্টিগ্রেটেড সার্কিট (IC): IC হলো একটি ছোট্ট ইলেকট্রনিক যন্ত্রাংশ যাতে অনেকগুলো ট্রানজিস্টর, ডায়োড, এবং অন্যান্য ইলেকট্রনিক উপাদান একত্রিত থাকে।[math]\\\\[/math]\u003Cbr\u003EIC-এর বৈশিষ্ট্য:সংযোগ সংখ্যা কম কিন্তু নির্ভরযোগ্যতা বেশি: IC-তে ব্যবহৃত ট্রানজিস্টরগুলোর সংযোগ সংখ্যা কম, যার ফলে IC-এর নির্ভরযোগ্যতা বেশি।অত্যন্ত ক্ষুদ্রাকৃতি: IC-এর আকার খুবই ছোট, যার ফলে এগুলোকে ছোট্ট ইলেকট্রনিক যন্ত্রাংশে ব্যবহার করা যায়।ওজন কম: IC-এর ওজন খুবই কম, যার ফলে এগুলোকে বহনযোগ্য ইলেকট্রনিক যন্ত্রাংশে ব্যবহার করা যায়।কম বিদ্যুৎ প্রয়োজন: IC-এর বিদ্যুৎ খরচ খুবই কম, যার ফলে এগুলোকে ব্যাটারি চালিত ইলেকট্রনিক যন্ত্রাংশে ব্যবহার করা যায়।দাম কম: IC-এর দাম তুলনামূলকভাবে বেশি।[math]\\\\[/math]\u003Cbr\u003Eকারণ:IC তৈরি প্রক্রিয়া জটিল এবং ব্যয়বহুল।IC তৈরিতে উচ্চমানের উপকরণ ব্যবহার করা হয়।IC-এর গবেষণা ও উন্নয়নে প্রচুর অর্থ ব্যয় করা হয়।[math]\\\\[/math]\u003Cbr\u003Eউল্লেখ্য:IC-এর দাম ক্রমশ কমে আসছে।IC-এর ব্যবহার ক্রমশ বৃদ্ধি পাচ্ছে।",
+        "explanation": "",
+        "correct_answer": "C.দামে কম"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:52:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 436710,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 436710,
+            "tag_id": 18,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:52:21.000000Z",
+            "updated_at": "2025-08-19T07:52:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 436711,
+      "value": {
+        "options": {
+          "ক": "Resistor",
+          "খ": "Capacitor",
+          "গ": "Transformer",
+          "ঘ": "Transistor"
+        },
+        "question": "[math]\\rm{IC}[/math] তে কোনটি অনুপস্থিত থাকে?",
+        "solution": "ট্রান্সফরমার সাধারণত IC তে অনুপস্থিত থাকে কারণ এটি আকারে বড় এবং IC-এর মধ্যে ইন্টিগ্রেট করা কঠিন। রেজিস্টর, ক্যাপাসিটর ও ট্রানজিস্টর IC তৈরীর অপরিহার্য উপাদান এবং এগুলো IC তে উপস্থিত থাকে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:52:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 436711,
+            "year_id": 31
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 436711,
+            "tag_id": 460,
+            "year": "13-14",
+            "created_at": "2025-08-19T07:52:21.000000Z",
+            "updated_at": "2025-08-19T07:52:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 436712,
+      "value": {
+        "options": {
+          "ক": "Resistor",
+          "খ": "diode",
+          "গ": "transistor",
+          "ঘ": "Inductor"
+        },
+        "question": "একটি সমাকলিত বর্তনীতে নিম্নের কোন উপাংশটি অনুপস্থিত?",
+        "solution": "ইন্টিগ্রেটেড সার্কিটে (Integrated Circuit) রেজিস্টর, ডায়োড এবং ট্রানজিস্টর এই তিনটি উপাদানই তৈরি করা যায়। কিন্তু ইন্ডাক্টর (inductor) তৈরি করা কঠিন এবং এর আকার অনেক বড় হওয়ার কারণে ইন্টিগ্রেটেড সার্কিটে সাধারণত ইন্ডাক্টর ব্যবহার করা হয় না।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:52:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 436712,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 436712,
+            "tag_id": 460,
+            "year": "11-12",
+            "created_at": "2025-08-19T07:52:21.000000Z",
+            "updated_at": "2025-08-19T07:52:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6717&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6717&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6717&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}

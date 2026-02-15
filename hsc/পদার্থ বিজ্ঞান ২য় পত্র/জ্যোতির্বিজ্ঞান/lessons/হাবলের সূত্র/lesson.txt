@@ -1,0 +1,1624 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 437750,
+      "value": {
+        "options": {
+          "গ": "[math]B[/math] গ্যালাক্সির দ্রুতি নির্ণয় কর।"
+        },
+        "question": "[math]A[/math] গ্যালাক্সি থেকে [math]B[/math] গ্যালাক্সি [math]5 \\times 10^{7} \\text { Ly }[/math] দূরে অবস্থিত। [math]A[/math] গ্যালাক্সির ভিতরে [math]4[/math] সৌর ভরের একটি কৃষ্ণগহ্বর আছে। কৃষ্ণ গহ্বরের দুই পার্শ্ব থেকে [math]10\\ km[/math] দূরে একটি উল্কা ও [math]15\\ km[/math] দূরে একটি ধুমকেতু অতিক্রম করছে। [math]\\left[\\mathrm{H}=2.3 \\times 10^{-18} \\mathrm{~s}^{-1}, M_{0}=2 \\times 10^{30} \\mathrm{~kg}, \\mathrm{G}=6.67 \\times 10^{-11} \\mathrm{~N} \\mathrm{~m}^{2} \\mathrm{~kg}^ {-2}\\right][/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, হাবল ধ্রুবক, [math]\\mathrm{H}=2.3 \\times 10^{-18} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{4cm}\\begin{array}{l}=\\frac{2.3 \\times 10^{-18} \\times 9.46 \\times 10^{12}}{1 \\mathrm{~Ly}} \\\\=2.176 \\times 10^{-5} \\mathrm{~k} \\mathrm{~ms}^{-1} / \\mathrm{~Ly}\\end{array}[/math]\u003Cbr\u003EB গ্যালাক্সির দূরত্ব, [math]d=5 \\times 10^{7} \\mathrm{~L y}[/math]\u003Cbr\u003Eআমরা জানি, [math]\\mathrm{v}=H d=2.176 \\times 10^{-5} \\mathrm{~kms}^{-1} / \\mathrm{~Ly} \\times 5 \\times 10^{7} \\mathrm{~Ly}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\therefore \\mathrm{v}=1087.9 \\mathrm{~k} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eঅতএব, উদ্দীপকের B গ্যালাক্সির দ্রুতি [math]1087.9 \\mathrm{~k} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: কসমিক বিস্তার হাবলের নিয়ম অনুসারে [math]v=H d[/math]. দূরত্বকে মিটারেঃ [math]d=5\\times10^7\\ \\text{ly}=5\\times10^7\\times9.468\\times10^{15}\\ \\text{m}=4.734\\times10^{23}\\ \\text{m}[/math], তাই [math]v=(2.3\\times10^{-18}\\ \\text{s}^{-1})(4.734\\times10^{23}\\ \\text{m})\\approx1.09\\times10^6\\ \\text{m/s}\\ (\\approx1089\\ \\text{km/s})[/math]. অতিরিক্ত প্রদত্ত কৃষ্ণগহ্বরের তথ্য এখানে প্রয়োজন হয়নি; ফলে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এর মান হলো উপরের দ্রুতি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437750,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 437750,
+            "tag_id": 3179,
+            "year": "2020",
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437749,
+      "value": {
+        "options": {
+          "গ": "পৃথিবী থেকে নক্ষত্রটির দূরত্ব কত?"
+        },
+        "question": "একটি নক্ষত্র পর্যবেক্ষণের সময় দেখা গেল এটি পৃথিবী থেকে [math]1000 \\mathrm{~km} \\mathrm{~s}^{-1}[/math] বেগে দূরে সরে যাচ্ছে। নক্ষত্রটির সোয়ার্জশিল্ড ব্যাসার্ধ [math]5.8\\ \\rm{km}[/math]। [হাবল ধ্রুবক, [math]\\mathrm{H}=70.4\\left(\\mathrm{~km} \\mathrm{~s}^{-1}\\right) / \\mathrm{ MPc}[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, বেগ [math]\\mathrm{v}=1000 \\mathrm{~km} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003Eহাবল ধ্রুবক, [math]\\mathrm{H}=70.4\\left(\\mathrm{k} \\mathrm{m} \\mathrm{s}^{-1}\\right) / \\mathrm{MPc}[/math]\u003Cbr\u003Eধরি, পৃথিবী থেকে নক্ষত্রের দূরত্ব dআমরা জানি, v = Hd[math]\\hspace{2cm}\\begin{aligned}\\mathrm{d}=\\frac{\\mathrm{v}}{\\mathrm{H}} & =\\frac{1000 \\mathrm{~km} \\mathrm{~s}^{-1}}{70.4\\left(\\mathrm{k} \\mathrm{m} \\mathrm{s}^{-1}\\right) / \\mathrm{MPc}} \\\\& =14.205 \\mathrm{MPc} \\\\& =14.205 \\times 3.084 \\times 10^{19} \\mathrm{~km} \\\\& =4.38 \\times 10^{20} \\mathrm{~km}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পৃথিবী থেকে নক্ষত্রের দূরত্ব [math]4.38 \\times 10^{20} \\mathrm{~km}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: হাবল-এর সূত্র অনুযায়ী [math]v=H\\,d[/math], তাই [math]d=\\dfrac{v}{H}[/math]. \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এর জন্য [math]d=\\dfrac{1000}{70.4}\\approx14.2\\ \\mathrm{Mpc}\\approx4.6\\times10^{7}\\ \\text{light years}[/math] এবং এখানে দেওয়া সোয়ার্জশিল্ড ব্যাসার্ধ এই দূরত্ব নিরূপণে প্রাসঙ্গিক নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437749,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3454,
+          "full_name": "Muminunnisa Govt. Mohila College",
+          "short_name": "MGWC",
+          "slug": "mgwc",
+          "pivot": {
+            "question_bank_id": 437749,
+            "tag_id": 3454,
+            "year": "2020",
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437748,
+      "value": {
+        "options": {
+          "গ": "দূরের গ্যালাক্সি আমাদের থেকে কত আলোকবর্ষ দূরে অবস্থিত?"
+        },
+        "question": "আমাদের গ্যালাক্সি থেকে অন্য কোন গ্যালাক্সি [math]500\\ \\mathrm{k} \\mathrm{ms}^{-1}[/math] বেগে দূরে সরে যেতে থাকলো। এখানে হাবল ধ্রুবকের গড় মান [math]\\left(H=60 \\dfrac{\\mathrm{Km}}{\\mathrm{sMPC}}\\right)[/math].",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, হাবল ধ্রুবক, [math]\\mathrm{H}=\\frac{60 \\mathrm{~km}}{5 \\mathrm{~MPc}}=\\frac{60 \\mathrm{~km} \\mathrm{~s}^{-1}}{3.26 \\times 10^{6} \\mathrm{~ly}}[/math]\u003Cbr\u003Eদূরগমনের বেগ, [math]\\mathrm{v}=500 \\mathrm{~km} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5cm}\\begin{array}{l}\\mathrm{v}=\\mathrm{Hd}\\\\\\Rightarrow d=\\frac{\\mathrm{v}}{\\mathrm{H}}\\\\=\\frac{500 \\mathrm{~km} \\mathrm{~s}^{-1}}{\\frac{60 \\mathrm{~km} \\mathrm{~s}^{-1}}{3.26 \\times 10^{6} \\mathrm{~ly}}}\\\\\\Rightarrow d=2.72 \\times 10^{7} \\mathrm{~ly}\\end{array}[/math]\u003Cbr\u003Eঅতএব, দূরের গ্যালাক্সি আমাদের থেকে [math]2.72 \\times 10^{7}[/math]\u003Cbr\u003E আলোকবর্ষ দূরে । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: হাবলের সূত্র অনুযায়ী দূরত্ব [math]d = \\dfrac{v}{H}[/math] হবে, তাই [math]d = \\dfrac{500}{60} \\approx 8.33\\ \\mathrm{Mpc}[/math]. \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এটিকে আলোকবর্ষে রূপান্তর করলে [math]1\\ \\mathrm{Mpc}=3.26\\times10^{6}\\ \\mathrm{ly}[/math], ফলে [math]d\\approx8.33\\times3.26\\times10^{6}\\approx2.72\\times10^{7}\\ \\mathrm{ly}[/math] (প্রায় 27.2 মিলিয়ন আলোকবর্ষ)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 437748,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 237,
+          "full_name": "Holy Cross College, Dhaka",
+          "short_name": "HCCD",
+          "slug": "hccd",
+          "pivot": {
+            "question_bank_id": 437748,
+            "tag_id": 237,
+            "year": "2020",
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437747,
+      "value": {
+        "options": [],
+        "question": "ভার্গোমণ্ডলের নীহারিকাগুচ্ছ আমাদের গ্যালাক্সি থেকে [math]7.8 \\times 10^{7}[/math] আলোকবর্ষ দূরে অবস্থিত। হাবল ধ্রুবকের মান [math]\\text { 67. } \\frac{\\mathrm{kms}^{-1}}{\\mathrm{Mpc}}[/math] ধরলে ভার্গোমন্ডল আমাদের থেকে কত বেগে দূরে সরে যাচ্ছে?",
+        "solution": "[math]1633.125 \\ kms^{-1}[/math]",
+        "explanation": "ব্যাখ্যা: হাবলের সূত্র [math]v=H_0 d[/math] প্রয়োগ করতে দূরত্বকে Mpc-এ বদল করতে হবে, যেখানে [math]1\\ \\text{Mpc}=3.26\\times10^6\\ \\text{ly}[/math]; তাই [math]d=\\dfrac{7.8\\times10^7\\ \\text{ly}}{3.26\\times10^6\\ \\text{ly/Mpc}}\\approx23.9\\ \\text{Mpc}[/math]. ফলে [math]v=67\\ \\dfrac{\\text{km s}^{-1}}{\\text{Mpc}}\\times23.9\\ \\text{Mpc}\\approx1.60\\times10^3\\ \\text{km s}^{-1}[/math] (প্রায় [math]1600\\ \\text{km/s}[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 437747,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437746,
+      "value": {
+        "options": [],
+        "question": "উরসা মেজর গ্যালাক্সিগুচ্ছ আমাদের গ্যলাক্সি থেকে [math]10^{9}[/math] আলোকবর্ষ দূরত্বে অবস্থিত। উরসা মে জর গ্যালাক্সিগুচ্ছ আমাদের নিকট থেকে কত বেগে দূরে সরে যাচ্ছে? [math](H = 67 kms^{-1}/MPc)[/math]",
+        "solution": "[math]20.55 \\ kms^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eদেওয়া আছে,দূরত্ব, [math]D=10^{9}ly[/math]\u003Cbr\u003Eহাবল ধ্রুবক,[math]\\begin{aligned} \\mathrm{H}_{\\mathrm{o}} & =67 \\mathrm{kms}^{-1} \\cdot \\mathrm{Mpc}^{-1} \\\\ & =\\frac{67 \\mathrm{kms}^{-1}}{3.26 \\times 10^{6} l \\mathrm{y}} \\end{aligned}[/math]\u003Cbr\u003Eদূরে গমনের বেগ, [math]v=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned} v & =H_{\\mathrm{o}} \\mathrm{D} \\\\ & =\\frac{67 \\mathrm{kms}^{-1} \\times 10^{9} \\mathrm{ly}}{3.26 \\times 10^{6} \\mathrm{ly}} \\\\ & =20.55 \\mathrm{kms}^{-1} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: হাবলের সূত্র অনুযায়ী [math]v=H_0 d[/math]. প্রথমে দূরত্বকে Mpc-এ বদলাও: [math]10^9\\ \\text{ly}=\\dfrac{10^9}{3.26\\times10^6}\\ \\text{Mpc}\\approx307\\ \\text{Mpc}[/math]. তাই [math]v=67\\ \\mathrm{km\\,s^{-1}Mpc^{-1}}\\times307\\ \\mathrm{Mpc}\\approx2.06\\times10^4\\ \\mathrm{km\\,s^{-1}}[/math], অর্থাৎ প্রায় [math]2.1\\times10^4\\ \\mathrm{km\\,s^{-1}}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437746,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437745,
+      "value": {
+        "options": [],
+        "question": "যদি [math]NGC \\ 4472[/math] গ্যালাক্সি পৃথিবী হতে [math]770 \\ km/s[/math] দ্রুতিতে পশ্চাদপসারণ করে তবে পৃথি বী হতে গ্যালাক্সিটির দূরত্ব নির্ণয় কর। [এখানে [math]H = 71 (kms^{-1})/Mpc[/math]]",
+        "solution": "[math]10.89 \\ Mpc[/math]",
+        "explanation": "ব্যাখ্যা: হাবলের সূত্র অনুযায়ী [math]v=H\\,d[/math], তাই দূরত্ব [math]d=\\dfrac{v}{H}[/math]। এখানে [math]d=\\dfrac{770}{71}\\approx10.85\\ \\text{Mpc}[/math] (প্রায় [math]10.8\\ \\text{Mpc}[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437745,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437744,
+      "value": {
+        "options": [],
+        "question": "একটি কোয়েসার গ্যালাক্সি হতে আগত রশ্মি বিশ্লেষণ করে দেখা যায় এটি পৃথিবী হতে [math]2.8 \\times 10^{8}ms^{-1}[/math] বেগে দূরে সরে যাচ্ছে। পৃথিবী হতে কোয়েসারটির দূরত্ব কত? [math]\\left[\\mathrm{H}=71 \\mathrm{kms}^{-1} / \\mathrm{Mpc}\\right][/math]",
+        "solution": "[math]3.94 \\times 10^{3}Mpc[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003E এখানে,বেগ, [math]\\mathrm{v}=2.8 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eহাবল ধ্রুবক,[math]\\begin{aligned} \\mathrm{H} & =71 \\mathrm{kms}^{-1} / \\mathrm{Mpc} \\\\ & =71 \\times 10^{3} \\mathrm{~ms}^{-1} / \\mathrm{Mpc} \\end{aligned}[/math]\u003Cbr\u003Eদূরত্ব, [math]d=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]v=Hd[/math]\u003Cbr\u003E [math]\\begin{aligned} \\Rightarrow d & =\\frac{v}{H} \\\\ & =\\frac{2.8 \\times 10^{8} \\mathrm{~ms}^{-1}}{71 \\times 10^{3} \\mathrm{~ms}^{-1} / \\mathrm{Mpc}} \\\\ & =3.94 \\times 10^{3} \\mathrm{Mpc} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: হাবলের সূত্র [math]v=H_0 d[/math] ব্যবহার করে দূরত্ব পাওয়া যায়; প্রথমে বেগকে কিমি/সে-এ বদলান: [math]2.8\\times10^8\\ \\mathrm{m\\,s^{-1}}=2.8\\times10^5\\ \\mathrm{km\\,s^{-1}}[/math]. তাই [math]d=\\dfrac{v}{H_0}=\\dfrac{2.8\\times10^5}{71}\\approx3.94\\times10^3\\ \\mathrm{Mpc}\\), যা প্রায় [math]1.29\\times10^{10}\\ \\text{আলোকবর্ষ}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437744,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437743,
+      "value": {
+        "options": [],
+        "question": "পর্যবেক্ষণ করে দেখা গেল কোনো তারার হাইড্রোজেন বৰ্ণালী [math]486.1 \\times 10^{-9}m[/math] থেকে [math]485.7 \\times 10^{-9} m[/math] এ বিচ্যুতি হয়েছে। তারাটি দর্শকের দিকে এগোচ্ছে নাকি দূরে সরে যাচ্ছে, কত বেগে ?",
+        "solution": "[math]246.86 \\ kms^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,আদি তরঙ্গ দৈর্ঘ্য, [math]\\lambda_{0}=486.1 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003Eচূড়ান্ত তরঙ্গ দৈর্ঘ্য, [math]\\lambda=485.7 \\times 10^{-9} \\mathrm{~m}[/math]\u003Cbr\u003Eবিচ্যুতি,[math]\\begin{aligned} \\Delta \\lambda & =\\lambda_{0}-\\lambda \\\\ & =486.1 \\times 10^{-9}-485.7 \\times 10^{-9} \\\\ & =4 \\times 10^{-10} \\mathrm{~m} \\end{aligned}[/math]\u003Cbr\u003Eআলোর বেগ, [math]c=3 \\times 10^{8}ms^{-1}[/math]\u003Cbr\u003Eনক্ষত্রের বেগ, [math]v=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned} \\frac{v}{c} & =\\frac{\\Delta \\lambda}{\\lambda_{0}} \\\\ \\Rightarrow v & =\\frac{\\Delta \\lambda}{\\lambda_{0}} \\times \\mathrm{c} \\\\ & =\\frac{4 \\times 10^{-10}}{486.1 \\times 10^{-9}} \\times 3 \\times 10^{8} \\\\ & =246.86 \\times 10^{3} \\mathrm{~ms}^{-1} \\\\ & =246.86 \\mathrm{kms}^{-1}(\\mathrm{Ans.}) \\end{aligned}[/math]\u003Cbr\u003Eযেহেতু তরঙ্গদৈর্ঘ্য কমে গেছে,তাই তারাটি দর্শকের দিকে এগোচ্ছে।",
+        "explanation": "ওই তারাটির বর্ণালী ক্ষুদ্র হয়ে হয়েছে (486.1→485.7 nm), তাই এটি নীলমুখী সরে এসেছে এবং দর্শকের দিকে এগোচ্ছে। গণনা করতে নন-রিলেটিভিস্টিক ডপলার সূত্র ব্যবহার করলে: [math]\\Delta\\lambda=485.7\\times10^{-9}-486.1\\times10^{-9}=-4.0\\times10^{-10}\\,\\text{m}[/math] এবং [math]v=c\\frac{\\Delta\\lambda}{\\lambda}=3.00\\times10^8\\frac{-4.0\\times10^{-10}}{4.861\\times10^{-7}}\\approx-2.47\\times10^5\\ \\text{m/s}[/math], অর্থাৎ প্রায় [math]2.47\\times10^5\\ \\text{m/s}[/math] গতিতে আমাদের দিকে এগোচ্ছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437743,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437742,
+      "value": {
+        "options": {
+          "ঘ": "নিউটন তারকার গঠন সম্বন্ধে জ্যোতির্বিজ্ঞানীদের ব্যাখ্যা বর্ণনা করো।"
+        },
+        "question": "কোনো কোয়াসার থেকে আগত আলোক রশ্মি অনুযায়ী প্রতীয়মান হয় যে পৃথিবী থেকে কোয়াসারটি [math]2.7 \\times 10^{8}ms^{-1}[/math]বেগে সরে যাচ্ছে। [math]\\left[H=72 \\mathrm{kms}^{-1} / \\mathrm{Mpc}\\right][/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eসুপারনোভা বিস্ফোরণের পর নক্ষত্রের মূল অংশের ভর যদি 1.4 [math]M_0[/math]\u003Cbr\u003E-এর বেশি এবং 3 [math]M_0[/math]\u003Cbr\u003E এর কম হয় তবে মহাকর্ষজনিত কেন্দ্রমুখী আকর্ষণ বলের জন্য মূল অংশ এতটা সংকোচিত হয় যে ইলেকট্রন ও প্রোটন নিম্নের বিক্রিয়ায় নিউট্রন গঠন করে ।[math]\\mathrm{P}^{+}+\\mathrm{e}^{-} \\longrightarrow \\mathrm{n}+\\dot{\\gamma}[/math]\u003Cbr\u003Eএভাবে নিউট্রন গ্যাস উৎপন্ন হয় । [এখানে, M = সূর্যের ভর]সংকোচনের ফলে মূল অংশের ঘনত্ব যখন [math]10^19 kg/m^3[/math]\u003Cbr\u003E মানে পৌঁছায় তখন নিউট্রন ডিজেনারেট অবস্থার সৃষ্টি হয় এবং নিউট্রন কঠিন পদার্থের দেওয়ালের মতো আচরণ করে। এই অবস্থায় নিউট্রন সংকোচন প্রক্রিয়াকে বাধা প্রদান করে। অর্থাৎ নিউট্রন গ্যাস বর্হিমুখী চাপ সৃষ্টি করে এবং এই চাপের দ্বারা মহাকর্ষীয় সংকোচনকে প্রতিহত করে সুস্থিত অবস্থায় আসে। এভাবে নিউট্রন তারকা সৃষ্টি হয়। নিউট্রন তারকা দ্রুত ঘূর্ণন গতিসম্পন্ন এবং এর অত্যন্ত শক্তিশালী চৌম্বক ক্ষেত্র রয়েছে। উপরোক্ত আলোচনাই মূলত নিউট্রন তারকার গঠন সম্বন্ধে জ্যোতির্বিজ্ঞানীদের ব্যাখ্যা।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E জ্যোতির্বিজ্ঞানীরা ব্যাখ্যা করেন যে একটি প্রায় [math]8M_\\odot[/math]–এর বেশি ভরের নক্ষত্র যখন কোরের জ্বালানি শেষ করে তখন কোরকে মলিন করে সুপারনোভা বিস্ফোরণের মাধ্যমে জমাটবদ্ধ হয় এবং প্রোটন ও ইলেকট্রন মিলিয়ে নিউট্রনে রুপান্তরিত হয়ে অত্যন্ত ঘন নিউট্রন পদার্থ তৈরি করে। এই কোরটি নিউট্রন-ডেজেনারেসি চাপ দ্বারা সমর্থিত হয়ে একটি নিউট্রন তারকা গঠন করে, যার ভর প্রায় [math]1.4M_\\odot[/math] (চাঁদ্রেশেখর সীমা) থেকে ~[math]2M_\\odot[/math] এবং ব্যাসার্ধ সাধারণত ~[math]10\\ \\mathrm{km}[/math]। ফলে এই বস্তু খুব দ্রুত ঘুরে শক্তিশালী চৌম্বকক্ষেত্র সৃষ্টি করে, যা পালসার হিসেবে দেখা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437742,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437741,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের কোয়াসারটির পৃথিবী হতে দূরত্ব নির্ণয় করো ।"
+        },
+        "question": "কোনো কোয়াসার থেকে আগত আলোক রশ্মি অনুযায়ী প্রতীয়মান হয় যে পৃথিবী থেকে কোয়াসারটি [math]2.7 \\times 10^{8}ms^{-1}[/math]বেগে সরে যাচ্ছে। [math]\\left[H=72 \\mathrm{kms}^{-1} / \\mathrm{Mpc}\\right][/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,কোয়াসারটির বেগ, v = 2.7 [math]\\times 10^8 ms^{-1}[/math]\u003Cbr\u003Eহাবল ধ্রুবক, H=72 km [math]s^{-1}/Mpc[/math]\u003Cbr\u003E= 72 × [math]10^3 ms^{-1}[/math]\u003Cbr\u003E/Mpc.পৃথিবী হতে কোয়াসার দূরত্ব, d = ?.আমরা জানি,[math]\\begin{array}{l}v=\\mathrm{Hd}\\\\\\begin{array}{l}\\text { } d=\\frac{v}{H} \\text {. } \\\\=\\frac{2.7 \\times 10^{8}}{72 \\times 10^{3}} \\\\=3.75 \\times 10^{3} \\mathrm{Mpc} \\text { (Ans.) } \\\\\\end{array}\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E হাবলের সূত্র অনুযায়ী [math]v=H_0 d[/math], তাই [math]d=\\dfrac{v}{H_0}=\\dfrac{2.7\\times10^8\\ \\mathrm{m/s}}{72\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}}=\\dfrac{2.7\\times10^8}{7.2\\times10^4}\\ \\mathrm{Mpc}=3.75\\times10^3\\ \\mathrm{Mpc}।  \nএই দূরত্ব প্রায় [math]3.75\\times10^3\\ \\mathrm{Mpc}\\approx1.22\\times10^{10}\\ \\mathrm{light\\ years}[/math], তাই কোয়াসারটি আমাদের থেকে প্রায় ১২.২ বিলিয়ন আলোকবর্ষ দূরে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437741,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437740,
+      "value": {
+        "options": [],
+        "question": "একটি কোয়াসা গ্যালাক্সি হতে আগত রশ্মি বিশ্লেষণ করে দেখা যায় যে এটি পৃথিবী হতে [math]2.8 \\ ms ^{-1}[/math] বেগে দূরে সরে যাচ্ছে। পৃথিবী হতে কোয়াসার দূরত্ব কত?",
+        "solution": "[math]3.88 \\times 10^{-5}Mpc[/math]",
+        "explanation": "ব্যাখ্যা: কোয়াসারের দূরত্ব হাবলের নিয়ম থেকে পাওয়া যায়, [math]v=H_0 d[/math] তাই [math]d=\\dfrac{v}{H_0}[/math]। যদি [math]H_0=70\\ \\text{km s}^{-1}\\text{Mpc}^{-1}[/math] এবং [math]v=2.8\\times10^5\\ \\text{m s}^{-1}=280\\ \\text{km s}^{-1}[/math] ধরা হয়, তবে [math]d=\\dfrac{280}{70}=4\\ \\text{Mpc}[/math] (প্রায় [math]4\\times3.26\\times10^6\\ \\text{ly}\\approx1.3\\times10^7\\ \\text{ly}[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 437740,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437739,
+      "value": {
+        "options": {
+          "ঘ": "জ্যোতির্বিজ্ঞানীর নির্ণয়কৃত বয়স কত হতে পারে এবং তা কতটুকু নিখুঁত হবে বলে তোমার ধারণা ব্যক্ত কর ।"
+        },
+        "question": "১৯২৯ সালে মার্কিন বিজ্ঞানী এডুইন পি. হাবল প্রমাণ করেন যে, যে গ্যালাক্সীসমূহ পরস্পর হতে দূরে সরে যাচ্ছে এবং এই দূরে সরে যাবার দ্রুতি এদের মধ্যকার দূরত্বের সমানুপাতিক। এই সমানুপাতিক ধ্রুবককে হাবল ধ্রুবক বলা হয় এবং এর মান [math]H = 2.3 \\times 10^{18}s^{-1}[/math] একজন সৌখিন জ্যোতির্বিজ্ঞানী একটি কোয়াসারের দূরে সরে যাবার দ্রুতি [math]2.8 \\times 10^{8} m/s[/math] এবং হাবলের সূত্র হতে মহাজগৎ এর বয়স নির্ণয় করলেন।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eহাবলের সূত্র ব্যবহার করে মহাজগৎ এর বয়স নির্ধারণ করতে চাইলে সর্বাধিক দূরে অবস্থিত জ্যোতিষ্কের সরে যাওয়ার হার বা দুতিনির্ণয় করতে হবে।উদ্দীপকের বিজ্ঞানীর হিসাব মতে, সর্বোচ্চ এ দ্রুতির মান,[math]v_{\\max }=3 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eতাহলে, পৃথিবী হতে সর্বাধিক দূরে অবস্থিত জ্যোতিষ্কের দূরত্ব,[math]\\begin{aligned}\\mathrm{r}_{\\max }= & \\frac{\\mathrm{V}_{\\max }}{\\mathrm{H}}=\\frac{3 \\times 10^{8} \\mathrm{~ms}^{-1}}{2.3 \\times 10^{-18} \\mathrm{~s}^{-1}} \\\\& =1.304348 \\times 10^{26} \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eতাহলে, উদ্দীপকের জ্যোতির্বিজ্ঞানীর দ্বারা নির্ণয়কৃত মহাবিশ্বের বয়স = [math]r_{max}[/math]\u003Cbr\u003E বা 1.304348 × [math]10^26[/math]\u003Cbr\u003E m দূরত্ব অতিক্রমে আলোর প্রয়োজনীয় সময় = 1.304348 × [math]10^26[/math]\u003Cbr\u003Em / শূন্যস্থানে আলোর দ্রুতি[math]\\begin{aligned}=\\frac{1.304348 \\times 10^{26} \\mathrm{~m}}{3 \\times 10^{8} \\mathrm{~ms}^{-1}}= & 4.347826 \\times 10^{17} \\mathrm{sec} \\\\& =5.032206 \\times 10^{12} \\mathrm{day} \\\\& =1.3787 \\times 10^{10} \\text { year } \\\\& \\approx 14 \\times 10^{9} \\text { years }\\end{aligned}[/math]\u003Cbr\u003Eনির্ণয়কৃত এ বয়স নিখুঁত হবে না, কারণ এক্ষেত্রে কেবল ‘হাবল গোলক' এর অভ্যন্তরে অবস্থিত জ্যোতিষ্কসমূহ বিবেচনা করা হয়েছে, এর বাইরে অবস্থিত জ্যোতিষ্কসমূহ বিবেচনা করা হয়নি। তদুপরি এখন পর্যন্ত বিজ্ঞানীগণ নিশ্চিত হতে পারেননি, মহাবিশ্ব সসীম না অসীম। মহাবিশ্ব অসীম হলে ওপরোক্ত উপায়ে নির্ণীত বয়স কোনোমতেই সঠিক নয় । -",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হাবলের সূত্রে মহাজগতের আনুমানিক বয়স [math]t\\approx 1/H[/math], তাই [math]t\\approx \\frac{1}{2.3\\times10^{-18}\\,\\text{s}^{-1}}\\approx4.35\\times10^{17}\\,\\text{s}\\approx1.4\\times10^{10}\\,\\text{বছর}[/math]. কোয়াসারের গতি থেকে আমরা দূরত্ব পেতে পারি ([math]d=v/H[/math]) তবে মোট মহাজগতের বয়স H-এর বিপরীতের মান দ্বারা নির্ধারিত হয়। হাবল ধ্রুবকে সাধারণত প্রায় ১০–২০% অনিশ্চয়তা থাকায় বয়সের এই অনুমানটিও প্রায় সেই অনুপাতে নির্ভরযোগ্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 437739,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437736,
+      "value": {
+        "options": [],
+        "question": "একটি কোয়েসার গ্যালাক্সি হতে আগত রশ্মি বিশ্লেষণ করে দেখা যায় এটি পৃথিবী হতে [math]2.8 \\times 10^{8}ms^{-1}[/math] বেগে দূরে সরে যাচ্ছে। পৃথিবী হতে কোয়েসারটির দূরত্ব কত? [math]\\left[\\mathrm{H}=71 \\mathrm{kms}^{-1} / \\mathrm{Mpc}\\right][/math]",
+        "solution": "[math]3.94 \\times 10^{3}Mpc[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,বেগ, [math]\\mathrm{v}=2.8 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eহাবল ধ্রুবক,[math]\\begin{aligned} \\mathrm{H} & =71 \\mathrm{kms}^{-1} / \\mathrm{Mpc} \\\\ & =71 \\times 10^{3} \\mathrm{~ms}^{-1} / \\mathrm{Mpc} \\end{aligned}[/math]\u003Cbr\u003Eদূরত্ব, [math]d=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]v=Hd[/math]\u003Cbr\u003E [math]\\begin{aligned} \\Rightarrow d & =\\frac{v}{H} \\\\ & =\\frac{2.8 \\times 10^{8} \\mathrm{~ms}^{-1}}{71 \\times 10^{3} \\mathrm{~ms}^{-1} / \\mathrm{Mpc}} \\\\ & =3.94 \\times 10^{3} \\mathrm{Mpc} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "Hubble-এর সূত্র ব্যবহার করলে [math]v=Hd[/math] হয়, তাই [math]d=v/H[/math]। এখানে [math]H=71\\ \\mathrm{km\\,s^{-1}\\,Mpc^{-1}}=71\\times10^3/(3.086\\times10^{22})\\ \\mathrm{s^{-1}}=2.30\\times10^{-18}\\ \\mathrm{s^{-1}}[/math], তাই [math]d=\\dfrac{2.8\\times10^8}{2.30\\times10^{-18}}=1.22\\times10^{26}\\ \\mathrm{m}\\approx3.95\\times10^3\\ \\mathrm{Mpc}[/math] — এই কারণে ঐ মানই সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 437736,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T08:01:11.000000Z",
+            "updated_at": "2025-08-19T08:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437738,
+      "value": {
+        "options": {
+          "গ": "কোয়াসারটির আনুমানিক দূরত্ব কত ছিল?"
+        },
+        "question": "১৯২৯ সালে মার্কিন বিজ্ঞানী এডুইন পি. হাবল প্রমাণ করেন যে, যে গ্যালাক্সীসমূহ পরস্পর হতে দূরে সরে যাচ্ছে এবং এই দূরে সরে যাবার দ্রুতি এদের মধ্যকার দূরত্বের সমানুপাতিক। এই সমানুপাতিক ধ্রুবককে হাবল ধ্রুবক বলা হয় এবং এর মান [math]H = 2.3 \\times 10^{18}s^{-1}[/math] একজন সৌখিন জ্যোতির্বিজ্ঞানী একটি কোয়াসারের দূরে সরে যাবার দ্রুতি [math]2.8 \\times 10^{8} m/s[/math] এবং হাবলের সূত্র হতে মহাজগৎ এর বয়স নির্ণয় করলেন।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,কোয়াসারটির সরে যাওয়ার দ্রুতি, v = 2.8 [math]\\times 10^8 m/s[/math]\u003Cbr\u003Eহাবলের ধ্রুবক, H = 2.3 × [math]10^{-18} s^{-1}[/math]\u003Cbr\u003Eকোয়াসারটির দূরত্ব, r =?আমরা জানি,[math]\\begin{array}{l}\\mathrm{v}=\\mathrm{Hr} \\\\\\therefore \\mathrm{r}=\\frac{\\mathrm{v}}{\\mathrm{H}}=\\frac{2.8 \\times 10^{8} \\mathrm{~ms}^{-1}}{2.3 \\times 10^{-18} \\mathrm{~s}^{-1}} \\\\=1.217 \\times 10^{26} \\mathrm{~m} \\text {,(Ans.) } \\\\\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E হাবলের সূত্র অনুযায়ী [math]v=Hd[/math], তাই [math]d=\\dfrac{v}{H}[/math] গ্রহণ করলে (হাবলের ধ্রুবকটির প্রায় সঠিক মান হচ্ছে [math]2.3\\times10^{-18}\\,s^{-1}[/math])  \n[math]d=\\dfrac{2.8\\times10^{8}}{2.3\\times10^{-18}}\\approx1.22\\times10^{26}\\ \\text{m}\\approx1.3\\times10^{10}\\ \\text{আলোকবর্ষ}[/math]; তাই কোয়াসারটির আনুমানিক দূরত্ব প্রায় [math]1.2\\times10^{26}\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 437738,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T08:01:12.000000Z",
+            "updated_at": "2025-08-19T08:01:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437737,
+      "value": {
+        "options": [],
+        "question": "একটি গ্যালাক্সির পশ্চাদপসরণ দ্রুতি [math]770kms^{-1}[/math] হলে গ্যালাক্সিটির দূরত্ব কত? [হাবলের ধ্রুবক , [math]H = 55 kms^{-1} / Mpc[/math]]",
+        "solution": "[math]14 \\ Mpc[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,পশ্চাদপসরণ দ্রুতি, [math]v=770 \\ kms^{-1}[/math]\u003Cbr\u003Eহাবলের ধ্রুবক, [math]\\mathrm{H}=55 \\mathrm{kms}^{-1} / \\mathrm{Mpc}[/math]\u003Cbr\u003Eগ্যালাক্সির দূরত্ব, [math]d=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]v=Hd[/math]\u003Cbr\u003E [math]\\Rightarrow d=\\frac{v}{H}[/math]\u003Cbr\u003E [math]\\begin{aligned} \\Rightarrow \\mathrm{d} & =\\frac{770 \\mathrm{kms}^{-1}}{55 \\mathrm{kms}^{-1} / \\mathrm{Mpc}} \\\\ & =14 \\mathrm{Mpc} .(\\text { Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: হাবলের সূত্র [math]v = H\\,d[/math] থেকে [math]d = \\dfrac{v}{H} = \\dfrac{770}{55} = 14\\ \\text{Mpc}[/math]। ব্যাখ্যা: হাবলের ধ্রুবক গ্যালাক্সির পশ্চাদপসরণ দ্রুতি ও তার দূরত্বের সরল অনুপাত নির্দেশ করে, তাই দ্রুতি জানা থাকলে দূরত্ব সরাসরি পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 437737,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T08:01:11.000000Z",
+            "updated_at": "2025-08-19T08:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437735,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের নক্ষত্র থেকে আগত তরঙ্গ দৈর্ঘ্যের পরিবর্তন দেয় তরঙ্গ দৈর্ঘ্যের [math]\\frac{1}{15}[/math] অংশ । পৃথিবী থেকে নক্ষত্রের দূরত্ব নির্ণয় কর। [math]\\left[H_{0}=2 \\times 10^{-18} s^{-1}\\right][/math]"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy-220part-2201-11_1755590471_B8QPokhv.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eডপলার ক্রিয়া অনুসারে, [math]\\frac{f^{\\prime}}{f}=\\frac{c+0}{c+v}[/math]\u003Cbr\u003E [এখানে, v = নক্ষত্রের গতিবেগ]শর্তমতে, [math]\\lambda^{\\prime}=\\lambda+\\lambda \\times \\frac{1}{15}[/math]\u003Cbr\u003E [math]\\frac{c / \\lambda^{\\prime}}{c / \\lambda}=\\frac{c}{c+v} \\Rightarrow\\text { } \\frac{\\lambda}{\\lambda^{\\prime}}=\\frac{c}{c+v} \\Rightarrow\\text { } \\frac{\\lambda^{\\prime}}{\\lambda}=\\frac{c+v}{c}=1+\\frac{v}{c}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow\\text{ } \\frac{\\lambda+\\lambda \\times \\frac{1}{15}}{\\lambda}=1+\\frac{\\mathrm{v}}{\\mathrm{c}} \\Rightarrow\\text{ } \\frac{16}{15}=1+\\frac{\\mathrm{v}}{\\mathrm{c}}\\\\\\Rightarrow\\text{ } \\frac{v}{c}=\\frac{16}{15}-1=\\frac{1}{15} \\text{.}\\\\\\therefore \\quad\\mathrm{v}=\\frac{\\mathrm{c}}{15}=\\frac{3 \\times 10^{8} \\mathrm{~ms}^{-1}}{15}=2 \\times 10^{7} \\mathrm{~ms}^{-1}\\end{array}[/math]\u003Cbr\u003Eহাবলের ধ্রুবক, [math]\\mathrm{H}_{0}=72 \\mathrm{kms}^{-1} / \\mathrm{mp}_{\\mathrm{c}}[/math]\u003Cbr\u003E [math]1 \\mathrm{mp}_{\\mathrm{c}}=3.084 \\times 10^{9} \\mathrm{~km}[/math]\u003Cbr\u003Eপৃথিবী থেকে নক্ষত্রের দূরত্ব,[math]\\mathrm{d}=\\frac{\\mathrm{v}}{\\mathrm{H}}=\\frac{2 \\times 10^{7} \\mathrm{~ms}^{-1}}{72 \\mathrm{kms}^{-1} / \\mathrm{mp}_{\\mathrm{c}}}=\\frac{2 \\times 10^{7} \\mathrm{~ms}^{-1} \\times 3.084 \\times 10^{19} \\mathrm{~km}}{72 \\mathrm{kms}^{-1}}[/math]\u003Cbr\u003E [math]=8.56 × 10^21 km (Ans.)[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: লালবিচ্যুতি [math]z=\\Delta\\lambda/\\lambda=1/15[/math] এবং ছোট [math]z[/math]-এর ক্ষেত্রে [math]v\\approx zc[/math] ও হাবল–আইন [math]v=H_0 d[/math] প্রয়োগ করলে [math]d=\\dfrac{zc}{H_0}[/math]। এই মান বসালে [math]d=\\dfrac{(1/15)(3\\times10^8)}{2\\times10^{-18}}=1\\times10^{25}\\ \\text{m}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 437735,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T08:01:11.000000Z",
+            "updated_at": "2025-08-19T08:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437734,
+      "value": {
+        "options": {
+          "গ": "[math]X[/math] গ্যালাক্সি আমাদের থেকে কত দূরে অবস্থিত আলোকবর্ষের মাধ্যমে নির্ণয় কর।"
+        },
+        "question": "আমাদের মিল্কিওয়ে গ্যালাক্সি থেকে অন্য একটি গ্যালাক্সি [math](X)\\ 1000\\ kms^{-1}[/math] বেগে দূরে সরে যাচ্ছে। [math]X[/math] গ্যালাক্সিতে একটি [math]5\\ M_0[/math] ভরের কৃষ্ণবিবর আছে। [হাবল ধ্রুবক, [math]\\mathrm{H}=2.3 \\times 10^{-18} \\mathrm{~s}^{-1}[/math]; [math]1[/math] সৌর ভর, [math]M_{0}=1.99 \\times 10^{30} \\mathrm{~kg} ; \\mathrm{c}=3 \\times 10^{8} \\mathrm{~ms}^{-1}[/math]; [math]1[/math] আলোকবর্ষ [math]=9.46 \\times 10^{12} \\mathrm{~km}[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপৃথিবী থেকে গ্যালাক্সির দূরে সরে যাওয়ার দ্রুতি, [math]\\mathrm{v}=1000 \\mathrm{~km} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহাবল ধ্রুবক, [math]\\mathrm{H}=2.3 \\times 10^{-18} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eআলোক বর্ষ, [math]=9.46 \\times 10^{12} \\mathrm{~km}[/math]\u003Cbr\u003Eধরি, X গ্যালাক্সি আমাদের থেকে তথা পৃথিবী থেকে d দূরে অবস্থিত,আমরা জানি,[math]\\hspace{1.6 cm}\\begin{aligned} \\mathrm{d ~} & =\\frac{\\mathrm{H}}{\\mathrm{H}} \\\\ & =\\frac{1000 \\mathrm{~km} \\mathrm{~s}^{-1}}{2.3 \\times 10^{-18} \\mathrm{~s}^{-1}} \\\\ & =4.348 \\times 10^{20} \\mathrm{~km} \\\\ & =\\frac{4.348 \\times 10^{20}}{9.46 \\times 10^{12}} \\end{aligned}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}\\therefore \\quad d=45960106.63[/math]\u003Cbr\u003E আলোকবর্ষঅতএব, X গ্যালাক্সি আমাদের থেকে 45960106.63 আলোকবর্ষ দূরে অবস্থিত।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E হাব্বল–আইন ব্যবহার করে [math]d=v/H[/math]; এখানে [math]v=1000\\ \\mathrm{km\\,s^{-1}}=1.0\\times10^{6}\\ \\mathrm{m\\,s^{-1}}[/math] এবং [math]H=2.3\\times10^{-18}\\ \\mathrm{s^{-1}}[/math], তাই [math]d=\\dfrac{1.0\\times10^{6}}{2.3\\times10^{-18}}=4.35\\times10^{23}\\ \\mathrm{m}[/math]. মিটারকে আলোকবর্ষে রূপান্তর করলে [math]d=4.35\\times10^{23}\\ \\mathrm{m}=4.35\\times10^{20}\\ \\mathrm{km}\\approx\\dfrac{4.35\\times10^{20}}{9.46\\times10^{12}}=4.6\\times10^{7}\\ \\text{আলোকবর্ষ}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 437734,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 149,
+          "full_name": "All Board",
+          "short_name": "AB",
+          "slug": "ab",
+          "pivot": {
+            "question_bank_id": 437734,
+            "tag_id": 149,
+            "year": "2018",
+            "created_at": "2025-08-19T08:01:10.000000Z",
+            "updated_at": "2025-08-19T08:01:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437733,
+      "value": {
+        "options": {
+          "ক": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-10-teste20mcq-6-d_1755590465_eQ6eKN8O.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "খ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-10-teste20mcq-6-d-201_1755590466_2bKrKOox.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "গ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-10-teste20mcq-6-d-202_1755590467_2fvnMZgy.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "ঘ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-10-teste20mcq-6-d-203_1755590469_tCRLv7m2.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+        },
+        "question": "হাবলের সূত্রানুসারে নিচের কোন লেখচিত্রটি সঠিক?",
+        "solution": "হাবলের সূত্রানুসারে, ছায়াপথের বেগ (recessional velocity, v) এবং দূরত্ব (distance, d) এর মধ্যে একটি সরলরৈখিক সম্পর্ক বিদ্যমান, যা [math]v = H_0d[/math]\u003Cbr\u003E দ্বারা প্রকাশ করা হয়। এখানে [math]H_0[/math]\u003Cbr\u003E হলো হাবল ধ্রুবক। তাই, বেগ এবং দূরত্বের মধ্যে লেখচিত্রটি একটি মূলবিন্দুগামী সরলরেখা হবে।",
+        "explanation": "",
+        "correct_answer": "D.\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-10-teste20mcq-6-d-203_1755590470_XRCRmcjE.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 437733,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 339,
+          "full_name": "Gazipur Cantonment College",
+          "short_name": "GCC",
+          "slug": "gcc",
+          "pivot": {
+            "question_bank_id": 437733,
+            "tag_id": 339,
+            "year": "2022",
+            "created_at": "2025-08-19T08:01:10.000000Z",
+            "updated_at": "2025-08-19T08:01:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437722,
+      "value": {
+        "options": {
+          "ক": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-2-11-board-mcq-000-1_1755590460_kY24yRRO.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "খ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-2-11-board-mcq-000-2_1755590462_hXTt6LuW.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "গ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-2-11-board-mcq-000-3_1755590462_ayH5R8yR.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "ঘ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-2-11-board-mcq-000-4_1755590463_uf2pETjd.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+        },
+        "question": "হাবলের সূত্রানুসারে নিচের কোন লেখচিত্রটি সঠিক?",
+        "solution": "হাবলের সূত্রটি হলো [math]\\text { v }=\\mathrm{Hr} \\Rightarrow \\text { v = Hd. }[/math]\u003Cbr\u003E [math]\\rm{H}[/math]\u003Cbr\u003E হলো হাবলের ধ্রুব[math]\\rm{H}[/math]\u003Cbr\u003E ধ্রুবক হওয়ায় [math]\\rm{v \\propto d,}[/math]\u003Cbr\u003Eএ ধরনের সমানুপাতিক সম্পর্ক মূলবিন্দুগামী সরলরেখা দ্বারা বুঝায়।",
+        "explanation": "",
+        "correct_answer": "A.\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-2-11-board-mcq-000-1_1755590464_aGAk3BuK.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 437722,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 437722,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T08:01:04.000000Z",
+            "updated_at": "2025-08-19T08:01:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437732,
+      "value": {
+        "options": {
+          "ক": "i,ii",
+          "খ": "ii,iii",
+          "গ": "i,iii",
+          "ঘ": "i,ii,iii"
+        },
+        "question": "নিচেরগুলো নির্দেশ করে মহাবিশ্ব সম্প্রসারিত হচ্ছে\n\ni. লাল অপসারণ\n\nii. হাবলের সূত্র\n\niii.কসমিক মাইক্রো ওয়েভ রেডিয়েশন\n\nনিচের কোনটি সঠিক?",
+        "solution": "লাল অপসারণ (redshift) মহাবিশ্বের প্রসারণের একটি প্রধান প্রমাণ, কারণ এটি দেখায় যে দূরবর্তী গ্যালাক্সিগুলো আমাদের থেকে দূরে সরে যাচ্ছে। হাবলের সূত্র এই প্রসারণের হারকে গাণিতিকভাবে প্রকাশ করে। কসমিক মাইক্রোওয়েভ ব্যাকগ্রাউন্ড রেডিয়েশন (CMB) মহাবিশ্বের জন্মের পরের অবস্থা সম্পর্কে ধারণা দেয় এবং এর বৈশিষ্ট্যগুলো মহাবিশ্বের প্রসারণ তত্ত্বের সাথে সঙ্গতিপূর্ণ। তাই i, ii, ও iii তিনটিই মহাবিশ্বের প্রসারণের ইঙ্গিত দেয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 437732,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T08:01:04.000000Z",
+            "updated_at": "2025-08-19T08:01:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437731,
+      "value": {
+        "options": {
+          "ক": "14MPc",
+          "খ": "77MPc",
+          "গ": "455PMc",
+          "ঘ": "28MPc"
+        },
+        "question": "[math]NGC \\ 4472[/math] আমাদের গ্যালাক্সি সাপেক্ষে [math]770 \\ kms^{-1}[/math]দ্রুতিতে দূরে সরে যাচ্ছে। হাবল ধ্রুবক [math]55 (kms^{-1}) MPc[/math] হলে আমাদের গ্যালাক্সি থেকে ওই গ্যালাক্সির দূরত্ব কত?",
+        "solution": "হাবলের সূত্র অনুসারে, [math]v = H_0 d[/math]\u003Cbr\u003E, যেখানে [math]v[/math]\u003Cbr\u003E হল গ্যালাক্সির দ্রুতি, [math]H_0[/math]\u003Cbr\u003E হল হাবল ধ্রুবক এবং [math]d[/math]\u003Cbr\u003E হল দূরত্ব। এখানে, [math]v = 770 \\ kms^{-1}[/math]\u003Cbr\u003E এবং [math]H_0 = 55 \\ (kms^{-1}) MPc^{-1}[/math]\u003Cbr\u003E। সুতরাং, দূরত্ব [math]d = \\frac{v}{H_0} = \\frac{770 \\ kms^{-1}}{55 \\ (kms^{-1}) MPc^{-1}} = 14 \\ MPc[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437731,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T08:01:04.000000Z",
+            "updated_at": "2025-08-19T08:01:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437730,
+      "value": {
+        "options": {
+          "ক": "[math]H=vd[/math]",
+          "খ": "[math]v=Hd[/math]",
+          "গ": "[math]v=Hd^{2}[/math]",
+          "ঘ": "[math]H=vd^{2}[/math]"
+        },
+        "question": "হাবল সূত্র অনুযায়ী—",
+        "solution": "হাবলের সূত্র অনুসারে একটি গ্যালাক্সির বেগ ( [math]v[/math]\u003Cbr\u003E) তার দূরত্ব ( [math]d[/math]\u003Cbr\u003E) এর সমানুপাতিক। এখানে [math]H[/math]\u003Cbr\u003E হলো হাবল ধ্রুবক। তাই সঠিক সম্পর্কটি হলো [math]v = Hd[/math]\u003Cbr\u003E ।",
+        "explanation": "",
+        "correct_answer": "B.[math]v=Hd[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437730,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T08:01:04.000000Z",
+            "updated_at": "2025-08-19T08:01:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437729,
+      "value": {
+        "options": {
+          "ক": "ব্যস্তানুপাতিক",
+          "খ": "বর্গের সমানুপাতিক",
+          "গ": "সমানুপাতিক",
+          "ঘ": "বর্গের ব্যস্তানুপাতিক"
+        },
+        "question": "হাবল বিধি অনুসারে ছায়াপথগুলোর অপসারণ 'বেগ দূরত্বের—",
+        "solution": "হাবল বিধি অনুসারে, ছায়াপথের অপসারণ বেগ [math](v)[/math]\u003Cbr\u003E সরাসরি তাদের দূরত্ব [math](d)[/math]\u003Cbr\u003E-এর সাথে সমানুপাতিক। অর্থাৎ, [math]v \\propto d[/math]\u003Cbr\u003E । তাই দূরত্ব বাড়লে বেগও বাড়ে।",
+        "explanation": "",
+        "correct_answer": "C. সমানুপাতিক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 437729,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T08:01:04.000000Z",
+            "updated_at": "2025-08-19T08:01:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437728,
+      "value": {
+        "options": {
+          "ক": "Newton",
+          "খ": "Doppler",
+          "গ": "Hubble",
+          "ঘ": "Laplace"
+        },
+        "question": "কোন বিজ্ঞানী প্রমাণ করেন যে, গ্যালাক্সিগুলোর দূরে সরে যাওয়ার বেগ পৃথিবী থেকে গ্যালাক্সি গুলোর দূরত্বের বর্গের সমানুপাতিক?",
+        "solution": "হাবল প্রমাণ করেন যে গ্যালাক্সিগুলোর দূরে সরে যাওয়ার বেগ পৃথিবী থেকে গ্যালাক্সিগুলোর দূরত্বের সমানুপাতিক, বর্গের নয়। হাবলের সূত্র অনুযায়ী [math]v = H_0d[/math]\u003Cbr\u003E, যেখানে [math]v[/math]\u003Cbr\u003E হলো গ্যালাক্সির বেগ, [math]H_0[/math]\u003Cbr\u003E হাবল ধ্রুবক, এবং [math]d[/math]\u003Cbr\u003E হলো দূরত্ব।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 437728,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 460,
+          "full_name": "Pabna University of Science and Technology (B Unit)",
+          "short_name": "PUST-B",
+          "slug": "pust-b",
+          "pivot": {
+            "question_bank_id": 437728,
+            "tag_id": 460,
+            "year": "11-12",
+            "created_at": "2025-08-19T08:01:04.000000Z",
+            "updated_at": "2025-08-19T08:01:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437727,
+      "value": {
+        "options": {
+          "ক": "[math]5.56 \\times 10^{20}[/math]",
+          "খ": "[math]2.25 \\times 10^{22}[/math]",
+          "গ": "[math]1.05 \\times 10^{23}[/math]",
+          "ঘ": "[math]4.48 \\times 10^{24}[/math]",
+          "ঙ": "[math]1.16 \\times 10^{24}[/math]"
+        },
+        "question": "কোনো কোয়াসার থেকে আগত আলোকরশ্মি অনুযায়ী প্রতীয়মান হয় যে পৃথিবী থেকে কোয়াসারটি [math]2.7 \\times 10^{8} \\mathrm{~ms}^{-1}[/math] বেগে সরে যাচ্ছে। পৃথিবী হতে কোয়াসারটির দূরত্ব কত [math]\\rm{km}[/math]?",
+        "solution": "হাবল ধ্রুবক, [math]\\mathrm{H}=72 \\mathrm{kms}^{-1} / \\mathrm{MPc}[/math]\u003Cbr\u003E [math]\\begin{array}{l} =2.33463 \\times 10^{-18} \\mathrm{~s}^{-1} \\quad\\left[\\because 1 \\mathrm{MPc}=3.084 \\times 10^{19} \\mathrm{~km}\\right] \\\\ \\mathrm{v=Hd} \\therefore \\mathrm{d}=1.16 \\times 10^{23} \\mathrm{~km} \\end{array}[/math]\u003Cbr\u003Eকাছাকাছি উত্তর : [math]1.05 \\times 10^{23} \\mathrm{~km}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 437727,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 437727,
+            "tag_id": 73,
+            "year": "16-17",
+            "created_at": "2025-08-19T08:01:04.000000Z",
+            "updated_at": "2025-08-19T08:01:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437726,
+      "value": {
+        "options": {
+          "ক": "Red shift থেকে",
+          "খ": "Blue shift থেকে",
+          "গ": "সূর্যের ভর থেকে",
+          "ঘ": "অভিকর্ষণ তুরণ থেকে"
+        },
+        "question": "মহাবিশ্ব যে সম্প্রসারণশীল তা বোঝা যায়–",
+        "solution": "Red shift থেকে বোঝা যায় যে নক্ষত্র বা গ্যালাক্সি আমাদের থেকে দূরে সরে যাচ্ছে। আলোর তরঙ্গদৈর্ঘ্য বৃদ্ধি পাওয়ার কারণে বর্ণালীতে লাল রঙের দিকে সরে যায়, যা মহাবিশ্বের সম্প্রসারণের প্রমাণ দেয়।",
+        "explanation": "",
+        "correct_answer": "A. Red shift থেকে"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 437726,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 437726,
+            "tag_id": 11,
+            "year": "17-18",
+            "created_at": "2025-08-19T08:01:04.000000Z",
+            "updated_at": "2025-08-19T08:01:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437725,
+      "value": {
+        "options": {
+          "ক": "বর্গের সমানুপাতিক",
+          "খ": "ব্যস্তানুপাতিক",
+          "গ": "সমানুপাতিক",
+          "ঘ": "বর্গের সমানুপাতিক"
+        },
+        "question": "গ্যালাক্সীগুলির দূরে সরে যাওয়ার বেগ পৃথিবী থেকে এদের দূরত্বের–",
+        "solution": "গ্যালাক্সীগুলির দূরে সরে যাওয়ার বেগ পৃথিবী থেকে এদের দূরত্বের সমানুপাতিক । এই সম্পর্ক হাবলের নীতি নামে পরিচিত।[math]\\\\[/math]\u003Cbr\u003Eহাবলের নীতি অনুসারে:দুটি গ্যালাক্সির মধ্যে দূরত্ব যত বেশি হবে, তাদের মধ্যে বিচ্ছেদের হারও তত বেশি হবে।এই বিচ্ছেদের হারকে হাবল ধ্রুবক বলা হয়।হাবল ধ্রুবকের বর্তমান মান প্রায় 70 কিলোমিটার প্রতি সেকেন্ড প্রতি মেগাপারসেক ।[math]\\\\[/math]\u003Cbr\u003Eউদাহরণ:ধরুন, দুটি গ্যালাক্সি A এবং B রয়েছে। A গ্যালাক্সি পৃথিবী থেকে 1 মেগাপারসেক দূরে এবং B গ্যালাক্সি 2 মেগাপারসেক দূরে।হাবলের নীতি অনুসারে, B গ্যালাক্সি A গ্যালাক্সির চেয়ে দ্বিগুণ দ্রুত দূরে সরে যাবে।A গ্যালাক্সির দূরে সরে যাওয়ার বেগ = 70 কিলোমিটার প্রতি সেকেন্ডB গ্যালাক্সির দূরে সরে যাওয়ার বেগ = 2 * 70 কিলোমিটার প্রতি সেকেন্ড = 140 কিলোমিটার প্রতি সেকেন্ড",
+        "explanation": "",
+        "correct_answer": "C.সমানুপাতিক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 35,
+          "year": "2000-2001",
+          "pivot": {
+            "question_bank_id": 437725,
+            "year_id": 35
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 437725,
+            "tag_id": 18,
+            "year": "00-01",
+            "created_at": "2025-08-19T08:01:04.000000Z",
+            "updated_at": "2025-08-19T08:01:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437724,
+      "value": {
+        "options": {
+          "ক": "14 Mpc",
+          "খ": "77 Mpc",
+          "গ": "55 Mpc",
+          "ঘ": "28 Mpc"
+        },
+        "question": "[math]NGC\\ 4472[/math] গ্যালারি আমাদের গ্যালারির সাপেক্ষে [math]770\\ km/s[/math] দ্রুতিতে দূরে সরে যাচ্ছে। হাবল ধ্রুবক [math]55\\ (km/s)/Mpc[/math] হলে আমাদের গ্যালাক্সি থেকে [math]NGC\\ 4472[/math] গ্যালাক্সীর দূরত্ব কত?",
+        "solution": "[math]v=H d \\Rightarrow d=\\dfrac{v}{H}=\\dfrac{770}{55} \\mathrm{Mpc}=14 \\mathrm{Mpc}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 437724,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 437724,
+            "tag_id": 8,
+            "year": "15-16",
+            "created_at": "2025-08-19T08:01:04.000000Z",
+            "updated_at": "2025-08-19T08:01:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 437723,
+      "value": {
+        "options": {
+          "ক": "স্টিফেন হকিং",
+          "খ": "এডুইন হাবল",
+          "গ": "ফ্রিডম্যান",
+          "ঘ": "আইনস্টাইন"
+        },
+        "question": "মহাবিশ্ব প্রতিনিয়ত প্রসারিত হচ্ছে— এ বিষয়টি উপস্থাপন করেন—",
+        "solution": "এডুইন হাবল দূরবর্তী ছায়াপথগুলোর লাল সরণ (redshift) পর্যবেক্ষণ করে প্রমাণ করেন যে মহাবিশ্ব প্রসারিত হচ্ছে। অন্য বিজ্ঞানীরা এই প্রসারণের কারণ এবং পরিণতি নিয়ে কাজ করেছেন, কিন্তু হাবলের পর্যবেক্ষণই প্রসারণের প্রথম প্রমাণ দেয়।",
+        "explanation": "",
+        "correct_answer": "B. এডুইন হাবল"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6337,
+      "created_at": "2025-08-19T08:01:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 437723,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 437723,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 437723,
+            "tag_id": 6,
+            "year": "2015",
+            "created_at": "2025-08-19T08:01:04.000000Z",
+            "updated_at": "2025-08-19T08:01:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6337&grade=1&lesson=6727&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6337&grade=1&lesson=6727&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6337&grade=1&lesson=6727&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 29,
+  "total": 29
+}

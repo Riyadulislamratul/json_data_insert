@@ -1,0 +1,799 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 394414,
+      "value": {
+        "options": {
+          "গ": "সিলিন্ডারটির ব্যাস নির্ণয় কর।"
+        },
+        "question": "স্লাইড ক্যালিপার্সের সাহায্যে একটি সিলিন্ডারের দৈর্ঘ্যের ৫টি পাঠ যথাক্রমে 6.20 cm, 6.22 cm, 6.23 cm, 6.24 cm, 6.19 cm এবং স্কুগজের সাহায্যে ব্যাস নির্ণয়ের ক্ষেত্রে প্রধান স্কেল পাঠ 4.5 mm ও বৃত্তাকার স্কেলের ভাগ সংখ্যা 37 পাওয়া গেল। স্ক্রু গজটির পীচ 0.5 mm এবং বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা 50।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,স্কুগজের প্রধান স্কেলের পাঠ, M = 4.5mmবৃত্তাকার স্কেলের পাঠ, C = 37স্কুগজের পীচ = 0.5 mmবৃত্তাকার স্কেলের মোট ভাগসংখ্যা = 50\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy1-11-panjeri2-23_1755580773_6brYByPG.png\" alt=\"\"\u003E\u003Cbr/\u003E[math]\\begin{array}{l}=\\frac{0.5}{50} \\mathrm{~mm} \\\\=0.01 \\mathrm{~mm}\\end{array}[/math]\u003Cbr\u003Eআমরা জানি,সিলিন্ডারের ব্যাস = d হলে এক্ষেত্রে,[math]\\begin{aligned}\\mathrm{d} & =\\mathrm{M}+\\mathrm{C} \\times \\mathrm{L} . \\mathrm{C} \\\\& =4.5+37 \\times 0.01 \\\\& =4.5+0.37 \\\\& =4.87 \\mathrm{~mm}\\end{aligned}[/math]\u003Cbr\u003Eসিলিন্ডারটির ব্যাস [math]=4.87 \\mathrm{~mm} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাস = প্রধান স্কেল পাঠ + বৃত্তাকার স্কেল পাঠ × (পীচ/মোট ভাগ) = [math]4.5 + 37 \\times \\frac{0.5}{50} = 4.5 + 0.37 = 4.87\\ \\text{mm}[/math]. কারণ স্ক্রুগজে প্রতিটি বৃত্তাকার ভাগের মান [math]\\frac{0.5}{50}=0.01\\ \\text{mm}[/math] এবং সেটি বৃত্তাকার স্কেলের পড়ার সঙ্গে গুণ করে প্রধান স্কেলের সঙ্গে যোগ করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 394414,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T05:19:33.000000Z",
+            "updated_at": "2025-08-19T05:19:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394415,
+      "value": {
+        "options": [],
+        "question": "দুটি স্লাইড ক্যালিপার্সের প্রত্যেকটির প্রধান স্কেলের ক্ষুদ্রতম ভাগের দৈর্ঘ্য 1 mm। যন্ত্রদ্বয়ের ভার্নিয়ার স্কেলের 10 ও 20 ভাগ প্রধান স্কেলের যথাক্রমে 9 ও 19 ভাগের সমান। 1.36 mm প্রকৃত দৈর্ঘ্যের কোনো দণ্ডের দৈর্ঘ্য নির্ণয়ে যন্ত্রদ্বয়ের শতকরা ত্রুটি কত হবে?",
+        "solution": "(Answer : 2.94% ও 0.735%)এখানে ,যন্ত্রদ্বয়ের প্রধান স্কেলের ক্ষুদ্রতম ভাগের মান, s = 1 mmপ্রথম যন্ত্রের ভার্নিয়ার ধ্রুবক, [math]V . C_{1}=s\\left(1-\\frac{9}{10}\\right) \\mathrm{mm}=0.1 \\mathrm{~mm}[/math]\u003Cbr\u003Eদ্বিতীয় যন্ত্রের ভার্নিয়ার ধ্রুবক, [math]V . C_{2}=s\\left(1-\\frac{19}{20}\\right) \\mathrm{mm}=0.05 \\mathrm{~mm}[/math]\u003Cbr\u003Eদণ্ডের প্রকৃত দৈর্ঘ্য, L = 1.36 mm ।যেহেতু যন্ত্রদ্বয়ের প্রত্যেকের প্রধান স্কেলের ক্ষুদ্রতম ভাগের মান, s = 1 mmতাই [math]M_{1}=M_{2}=1 \\mathrm{~mm}[/math]\u003Cbr\u003Eযন্ত্রদ্বয় কর্তৃক পরিমাপকৃত ভার্নিয়ার সমপাতন যথাক্রমে [math]V_1[/math]\u003Cbr\u003E ও [math]V_2[/math]\u003Cbr\u003E হলে,[math]L=M+V_1\\times V.C_1[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]1+V_{1} \\times 0.02^{\\prime}=1.36[/math]\u003Cbr\u003E [math]\\therefore \\quad V_{1}=\\frac{0.36}{0.1}=3.6[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ১ম যন্ত্রের প্রকৃত ভার্নিয়ার সমপাতন, [math]V_{1}^{\\prime}=4[/math]\u003Cbr\u003Eসুতরাং, ১ম যন্ত্র কর্তৃক পরিমাপকৃত দৈর্ঘ্য, [math]\\begin{aligned}\\mathrm{L}_{1}^{\\prime} & =\\mathrm{M}+\\mathrm{V} \\cdot \\mathrm{C}_{1} \\times \\mathrm{V}_{1}^{\\prime} \\\\& =1+0.1 \\times 4 \\mathrm{~mm} \\\\& =1.4 \\mathrm{~mm}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ১ম যন্ত্রে পরিমাপের শতকরা ত্রুটি , [math]\\begin{array}{l}=\\frac{1.4-1.36}{1.36} \\times 100 \\% \\\\=2.94 \\% \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003Eআবার ,[math]L=M+V_{2} \\times V \\cdot C_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]1+V_{2} \\times 0.05=1.36[/math]\u003Cbr\u003E [math]\\therefore \\quad V_{2}=\\frac{0.36}{0.05}=7.2[/math]\u003Cbr\u003E যা অসম্ভব ।[math]\\therefore[/math]\u003Cbr\u003E দ্বিতীয় যন্ত্রের প্রকৃত ভার্নিয়ার সমপাতন, [math]\\mathrm{v}_{2}^{\\prime}=7[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E দ্বিতীয় যন্ত্র কর্তৃক পরিমাপকৃত দৈর্ঘ্য, [math]L_{2}^{\\prime}=M+V \\cdot C_{2} \\times V_{2}^{\\prime}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]L_{2}^{\\prime}=1+0.05 \\times 7=1.35[/math]\u003Cbr\u003Eদ্বিতীয় যন্ত্র কর্তৃক পরিমাপে শতকরা ত্রুটি ,[math]\\begin{array}{l}=\\frac{1.35-1.36}{1.36} \\times 100 \\% \\\\=0.735 \\% \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথম যন্ত্রের লিস্ট কাউন্ট [math]LC_1=1-\\tfrac{9}{10}=0.1\\ \\text{mm}[/math], দ্বিতীয় যন্ত্রের জন্য [math]LC_2=1-\\tfrac{19}{20}=0.05\\ \\text{mm}[/math]. গ্রহণযোগ্য অনিশ্চয়তা ধরা হয় ±[math]LC/2[/math], তাই শতকরা ত্রুটি হবে [math]\\frac{0.05}{1.36}\\times100\\%=3.68\\%\\ (\\text{প্রায়})[/math] এবং [math]\\frac{0.025}{1.36}\\times100\\%=1.84\\%\\ (\\text{প্রায়})[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 394415,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T05:19:33.000000Z",
+            "updated_at": "2025-08-19T05:19:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394416,
+      "value": {
+        "options": [],
+        "question": "ভার্নিয়ার ক্যালিপার্সে সাধারণত 1 cm কে 10 টি সমান ভাগে ভাগ করা থাকে। যদি ভার্নিয়ার স্কেলের 10 ভাগ প্রধান স্কেলের 8 ভা গের সমান হয় তবে লঘিষ্ঠ গণন কত?",
+        "solution": "(0.02 cm)ভার্নিয়ার ক্যালিপার্সের প্রধান স্কেলের ক্ষুদ্রতম 1 ভাগের মান [math]=\\frac{1}{10} \\mathrm{~cm} = 0.1 \\mathrm{~cm}[/math]\u003Cbr\u003Eভার্নিয়ার স্কেলের 10 ভাগ = প্রধান স্কেলের ৪ ভাগ[math]=8 \\times 0.1 \\mathrm{~cm}=0.8 \\mathrm{~cm}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ভার্নিয়ার স্কেলের 1 ভাগ [math]=\\frac{0.8}{10} \\mathrm{~cm}=0.08 \\mathrm{~cm}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ভার্নিয়ার ধ্রুবক = প্রধান স্কেলের ক্ষুদ্রতম এক ভাগের মান - ভার্নিয়ার স্কেলের এক ভাগের মান [math]=0.1cm- 0.08 cm = 0.02cm[/math]\u003Cbr\u003E (ans.)",
+        "explanation": "প্রধান স্কেলের এক ভাগের মান [math]=\\frac{1\\ \\text{cm}}{10}=0.1\\ \\text{cm}[/math]। কারণ 10টি ভার্নিয়ার ভাগ = 8টি প্রধান স্কেল ভাগ, তাই একটি ভার্নিয়ার ভাগের মান [math]=\\frac{8\\times0.1}{10}=0.08\\ \\text{cm}[/math] এবং লঘিষ্ঠ গণন = [math]0.1-0.08=0.02\\ \\text{cm}[/math]।",
+        "correct_answer": "(0.02 cm)ভার্নিয়ার ক্যালিপার্সের প্রধান স্কেলের ক্ষুদ্রতম 1 ভাগের মান [math]=\\frac{1}{10} \\mathrm{~cm} = 0.1 \\mathrm{~cm}[/math]"
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 394416,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:19:33.000000Z",
+            "updated_at": "2025-08-19T05:19:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394417,
+      "value": {
+        "options": [],
+        "question": "একটি স্লাইড ক্যালিপার্সের প্রধান স্কেলের ক্ষুদ্র ঘরের মান 1mm এবং ভার্নিয়ার স্কেলের 40 ঘর প্রধান স্কেলের 39 ঘরের সমান ।",
+        "solution": "(Answer : 0.025 mm)",
+        "explanation": "ব্যাখ্যা: একটি ভার্নিয়ার ঘর = [math]\\dfrac{39}{40}\\ \\text{mm} = 0.975\\ \\text{mm}[/math]। তাই লিস্ট কাউন্ট = প্রধান স্কেল এক ঘর − ভার্নিয়ার এক ঘর = [math]1 - 0.975 = 0.025\\ \\text{mm}[/math] (বা 25 মাইক্রোমিটার)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 394417,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T05:19:33.000000Z",
+            "updated_at": "2025-08-19T05:19:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394418,
+      "value": {
+        "options": [],
+        "question": "একটি স্লাইড ক্যালিপার্সের প্রধান স্কেলের ক্ষুদ্র ঘরের মান 1mm এবং ভার্নিয়ার স্কেলের 10 ঘর প্রধান স্কেলের 9 ঘরের সমান। ঐ স্কেলের ভার্নিয়ার ধ্রুবক কত?",
+        "solution": "(Answer : 0.1 mm)",
+        "explanation": "ব্যাখ্যা: প্রধান স্কেলের প্রতি ক্ষুদ্র ঘরের মান [math]1\\ \\text{mm}[/math], এবং ভার্নিয়ারের 10 ঘর = প্রধান স্কেলের 9 ঘর হওয়ায় প্রতিটি ভার্নিয়ার ঘর = [math]\\frac{9}{10}\\ \\text{mm}=0.9\\ \\text{mm}[/math]. তাই ভার্নিয়ার ধ্রুবক = প্রধান স্কেলের এক ঘর − ভার্নিয়ারের এক ঘর = [math]1-0.9=0.1\\ \\text{mm}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 394418,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T05:19:33.000000Z",
+            "updated_at": "2025-08-19T05:19:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394410,
+      "value": {
+        "options": {
+          "ক": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2011-panjeri-2-2002_1755580769_7R5PvuuJ.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "খ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy201120panjeri-2-03_1755580770_p9YeWYFx.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "গ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy20panjeri-2-04_1755580770_twXTTIJj.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "ঘ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy2011-20panjeri-2-2005_1755580771_g9VuJQrG.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+        },
+        "question": "চিত্রে একটি সীটের দৈর্ঘ্য, প্রস্থ ও বেধের কাছাকাছি মান দেখানো আছে। এর দৈর্ঘ্য, প্রস্থ ও বেধ পরিমাপের জন্য তুমি নিচের কোন সেট ব্যবহার করবে?  \n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-11-panjeri-2-01_1755580767_kpcBvK1e.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "একটি সূক্ষ্ম স্কেল বা ভার্নিয়ার ক্যালিপার ব্যবহার করা উচিত। এই যন্ত্রগুলি সাধারণ মিটার রুল বা টেপের চেয়ে অনেক বেশি নির্ভুলভাবে ছোট দৈর্ঘ্য পরিমাপ করতে পারে, যা সীটের বেধের মতো সূক্ষ্ম পরিমাপের জন্য অপরিহার্য। সাধারণ মিটার রুল বা টেপ দিয়ে এই ধরনের সূক্ষ্ম পরিমাপ করা সম্ভব নয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 394410,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T05:19:32.000000Z",
+            "updated_at": "2025-08-19T05:19:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394411,
+      "value": {
+        "options": {
+          "ক": "লঘিষ্ঠ গণন",
+          "খ": "পিচ",
+          "গ": "ভার্নিয়ার ধ্রুবক",
+          "ঘ": "খণ্ডাংশ"
+        },
+        "question": "একটি ভার্নিয়ার স্কেলের প্রধান স্কেলে ক্ষুদ্রতম এক ঘর এবং ভার্নিয়ার স্কেলের এক ঘরের দৈর্ঘ্যের পার্থক্যকে কী বলে?",
+        "solution": "ভার্নিয়ার স্কেলের প্রধান স্কেলে ক্ষুদ্রতম এক ঘর এবং ভার্নিয়ার স্কেলের এক ঘরের দৈর্ঘ্যের পার্থক্যকে লঘিষ্ঠ গণন (Least Count) বলা হয়। এটি যেকোনো পরিমাপ যন্ত্রের সর্বোচ্চ নির্ভুলতা নির্দেশ করে। পিচ সাধারণত স্ক্রু বা গিয়ারের মতো যন্ত্রে ব্যবহৃত হয় এবং এটি একটি পূর্ণ ঘূর্ণনে স্ক্রু কতটা অগ্রসর হয় তা বোঝায়। ভার্নিয়ার ধ্রুবক (Vernier Constant) লঘিষ্ঠ গণনের সমার্থক এবং এর মাধ্যমে দুটি স্কেলের পার্থক্যকে বোঝানো হয়। খণ্ডাংশ (Fraction) হলো পূর্ণ সংখ্যার ছোট ভাগ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 394411,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:19:32.000000Z",
+            "updated_at": "2025-08-19T05:19:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394412,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{N}[/math]",
+          "খ": "[math](\\mathrm{N}-1)[/math]",
+          "গ": "[math]\\frac{1}{10 \\mathrm{~N}}[/math]",
+          "ঘ": "[math]\\left(\\frac{1}{N}-1\\right)[/math]"
+        },
+        "question": "একটি ভার্নিয়ার কালিপার্সে ভার্নিয়ারের N সংখ্যক ভাগের সাথে প্রধান স্কেলের (N–1) সংখ্যক ভাগ মিলিত হয় যার ক্ষুদ্র এক ভাগের দৈর্ঘ্য 1mm। যন্ত্রটির লঘিষ্ঠ গণন সেমি. এককে–",
+        "solution": "ভার্নিয়ার স্কেলের N সংখ্যক ভাগ প্রধান স্কেলের (N–1) সংখ্যক ভাগের সমান হলে, ভার্নিয়ার স্কেলের এক ভাগের মান = [math]\\frac{(N-1)}{N}[/math]\u003Cbr\u003E গুণ প্রধান স্কেলের এক ভাগের মান।প্রধান স্কেলের ক্ষুদ্রতম এক ভাগের দৈর্ঘ্য 1 mm.সুতরাং, ভার্নিয়ার স্কেলের এক ভাগের মান = [math]\\frac{(N-1)}{N} \\times 1 \\text{ mm} = \\frac{(N-1)}{N} \\text{ mm}[/math]\u003Cbr\u003E.যন্ত্রটির লঘিষ্ঠ গণন (Least Count) হল প্রধান স্কেলের ক্ষুদ্রতম এক ভাগের মান বিয়োগ ভার্নিয়ার স্কেলের এক ভাগের মান।লঘিষ্ঠ গণন = প্রধান স্কেলের ক্ষুদ্রতম এক ভাগের মান - ভার্নিয়ার স্কেলের এক ভাগের মানলঘিষ্ঠ গণন = [math]1 \\text{ mm} - \\frac{(N-1)}{N} \\text{ mm}[/math]\u003Cbr\u003Eলঘিষ্ঠ গণন = [math]\\left(1 - \\frac{N-1}{N}\\right) \\text{ mm}[/math]\u003Cbr\u003Eলঘিষ্ঠ গণন = [math]\\left(\\frac{N - (N-1)}{N}\\right) \\text{ mm}[/math]\u003Cbr\u003Eলঘিষ্ঠ গণন = [math]\\left(\\frac{N - N + 1}{N}\\right) \\text{ mm}[/math]\u003Cbr\u003Eলঘিষ্ঠ গণন = [math]\\frac{1}{N} \\text{ mm}[/math]\u003Cbr\u003E.প্রশ্নানুসারে, লঘিষ্ঠ গণন সেন্টিমিটার এককে নির্ণয় করতে হবে।আমরা জানি, 1 cm = 10 mm.সুতরাং, 1 mm = [math]\\frac{1}{10}[/math]\u003Cbr\u003E cm.অতএব, লঘিষ্ঠ গণন সেন্টিমিটার এককে = [math]\\frac{1}{N} \\times \\frac{1}{10} \\text{ cm} = \\frac{1}{10N} \\text{ cm}[/math]\u003Cbr\u003E.ভার্নিয়ার ক্যালিপার একটি সূক্ষ্ম পরিমাপক যন্ত্র যা দৈর্ঘ্য মাপতে ব্যবহৃত হয়। এর লঘিষ্ঠ গণন যন্ত্রটির নির্ভুলতা নির্দেশ করে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 394412,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:19:32.000000Z",
+            "updated_at": "2025-08-19T05:19:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394413,
+      "value": {
+        "options": {
+          "ক": "[math]\\text { x mm }[/math]",
+          "খ": "[math](\\mathrm{n}-1 ) \\mathrm{mm}[/math]",
+          "গ": "[math]\\frac{1}{n+1} \\mathrm{~mm}[/math]",
+          "ঘ": "[math]\\frac{1}{10 \\mathrm{\\ n}} \\mathrm{mm}[/math]"
+        },
+        "question": "একটি স্লাইড ক্যালিপার্সের ভার্নিয়ার স্কেলের n ভাগ মূল স্কেলের (n – 1) ভাগের সাথে মিলে যায়। মূল স্কেলে 1 ভাগের মান 1 mm। যন্ত্রের ভার্নিয়ার ধ্রুবক কত?",
+        "solution": "ভার্নিয়ার ধ্রুবক হলো মূল স্কেলের ক্ষুদ্রতম এক ভাগের মান এবং ভার্নিয়ার স্কেলের ক্ষুদ্রতম এক ভাগের মানের পার্থক্য। এখানে, মূল স্কেলের 1 ভাগের মান 1 mm। ভার্নিয়ার স্কেলের n ভাগ মূল স্কেলের (n – 1) ভাগের সাথে মিলে যায়। অর্থাৎ, n ভার্নিয়ার ভাগ = (n – 1) মূল স্কেল ভাগ। তাহলে, 1 ভার্নিয়ার ভাগ = [math]\\frac{n-1}{n}[/math]\u003Cbr\u003E মূল স্কেল ভাগ। যেহেতু 1 মূল স্কেল ভাগ = 1 mm, তাই 1 ভার্নিয়ার ভাগ = [math]\\frac{n-1}{n}[/math]\u003Cbr\u003E mm। ভার্নিয়ার ধ্রুবক = মূল স্কেলের ক্ষুদ্রতম এক ভাগের মান – ভার্নিয়ার স্কেলের ক্ষুদ্রতম এক ভাগের মান = [math]1 \\mathrm{~mm} - \\frac{n-1}{n} \\mathrm{~mm} = \\frac{n - (n-1)}{n} \\mathrm{~mm} = \\frac{1}{n} \\mathrm{~mm}[/math]\u003Cbr\u003E।ভার্নিয়ার ধ্রুবক (Least Count) হলো কোনো পরিমাপ যন্ত্রের সাহায্যে নির্ণয় করা যায় এমন ক্ষুদ্রতম পরিমাপ। এটি সাধারণত মূল স্কেলের ক্ষুদ্রতম ভাগের মানকে ভার্নিয়ার স্কেলের মোট ভাগের সংখ্যা দিয়ে ভাগ করে নির্ণয় করা হয়, তবে এক্ষেত্রে ভার্নিয়ার স্কেলের ভাগগুলো মূল স্কেলের সাথে কীভাবে সম্পর্কিত তা জানা প্রয়োজন।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 394413,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:19:32.000000Z",
+            "updated_at": "2025-08-19T05:19:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394405,
+      "value": {
+        "options": {
+          "ক": "0.01",
+          "খ": "0.001",
+          "গ": "0.1",
+          "ঘ": "0.0001"
+        },
+        "question": "একটি স্লাইড ক্যালিপার্সের মূল স্কেলের 99 ভাগ ভার্নিয়ার স্কেলের 100 ভাগের সমান। ভার্নিয়ার ধ্রুবকের মান কত?",
+        "solution": "ভার্নিয়ার ধ্রুবক = [math]\\left(1-\\frac{99}{100}\\right)=0.01[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 394405,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 394405,
+            "tag_id": 8,
+            "year": "11-12",
+            "created_at": "2025-08-19T05:19:26.000000Z",
+            "updated_at": "2025-08-19T05:19:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394406,
+      "value": {
+        "options": {
+          "ক": "[math]100\\mu \\mathrm{m}[/math]",
+          "খ": "[math]1000\\mu \\mathrm{m}[/math]",
+          "গ": "[math]10\\mu \\mathrm{m}[/math]",
+          "ঘ": "[math]1\\mu \\mathrm{m}[/math]"
+        },
+        "question": "একটি ভার্নিয়ার ক্যালিপার্সের ভার্নিয়ার স্কেলে [math]50[/math] টি ভাগ আছে যা প্রধান স্কেলের 49 ভাগের সাথে মিলে যায়। ভার্নিয়ার ধ্রুবক কত? [দেয়া আছে, প্রতি সে.মি. এ প্রধান স্কেলে [math]20[/math] টি ভাগ।]",
+        "solution": "[math]\\mathrm{VC}=\\dfrac{\\frac{1}{20}}{50} \\mathrm{~cm}=1 \\times 10^{-3} \\mathrm{~cm}=10 \\mu \\mathrm{m}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 394406,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 49,
+          "full_name": "University of Chittagong (Unit A)",
+          "short_name": "CU-A",
+          "slug": "cu-a",
+          "pivot": {
+            "question_bank_id": 394406,
+            "tag_id": 49,
+            "year": "18-19",
+            "created_at": "2025-08-19T05:19:26.000000Z",
+            "updated_at": "2025-08-19T05:19:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394407,
+      "value": {
+        "options": {
+          "ক": "0.5",
+          "খ": "0.01",
+          "গ": "0.05",
+          "ঘ": "0.1"
+        },
+        "question": "একটি স্লাইড ক্যালিপার্সের প্রধান স্কেলের ক্ষুদ্রতম এক ঘরের মান 1 mm, ভার্নিয়ার স্কেলের 20 ঘর প্রধান ক্ষেলের 19 ঘরের সমান। ঐ স্কেলের ভার্নিয়ার ধ্রুবক হবে?",
+        "solution": "ভার্নিয়ার ধ্রুবক [math]=\\frac{1}{20}=0.05[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 394407,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 394407,
+            "tag_id": 57,
+            "year": "15-16",
+            "created_at": "2025-08-19T05:19:26.000000Z",
+            "updated_at": "2025-08-19T05:19:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394408,
+      "value": {
+        "options": {
+          "ক": "1 mm",
+          "খ": "0.01 mm",
+          "গ": "0.1 mm",
+          "ঘ": "ভার্নিয়ার ধ্রুবক"
+        },
+        "question": "স্লাইড ক্যালিপার্স দ্বারা ন্যূনতম কত দূরত্ব মাপা যায়?",
+        "solution": "স্ক্রু-গজের সাহায্যে ক্ষুদ্রতম যে দৈর্ঘ্য পরিমাপ করা যায় তাই হচ্ছে যন্ত্রের লঘিষ্ঠ গণন বা যন্ত্রের ন্যূনাঙ্ক ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 394408,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 58,
+          "full_name": "University of Rajshahi (A Unit)",
+          "short_name": "RU-A",
+          "slug": "ru-a",
+          "pivot": {
+            "question_bank_id": 394408,
+            "tag_id": 58,
+            "year": "14-15",
+            "created_at": "2025-08-19T05:19:26.000000Z",
+            "updated_at": "2025-08-19T05:19:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 394409,
+      "value": {
+        "options": {
+          "ক": "0.010mm",
+          "খ": "0.020mm",
+          "গ": "0.025mm",
+          "ঘ": "0.100mm"
+        },
+        "question": "একটি স্লাইড ক্যালিপার্সের প্রধান স্কেলের [math]39[/math] ভাগ ভার্ণিয়ার স্কেলের [math]40[/math] ভাগের সমান। প্রধান স্কেলের এক ভাগের মান [math]1.00\\ mm[/math] ভার্ণিয়ার ধ্রুবক কত?",
+        "solution": "ভার্নিয়ার স্কেলের 1 ভাগের মান [math]=\\dfrac{39}{40} \\mathrm{~mm}=0.975 \\mathrm{~mm}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ভার্নিয়ার ধ্রুবক [math]=(1-0.975) \\mathrm{mm}=0.025 \\mathrm{~mm}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:19:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 25,
+          "year": "2006-2007",
+          "pivot": {
+            "question_bank_id": 394409,
+            "year_id": 25
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 394409,
+            "tag_id": 88,
+            "year": "06-07",
+            "created_at": "2025-08-19T05:19:26.000000Z",
+            "updated_at": "2025-08-19T05:19:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6317&grade=1&lesson=6490&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6317&grade=1&lesson=6490&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6317&grade=1&lesson=6490&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 14,
+  "total": 14
+}

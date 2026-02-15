@@ -1,0 +1,1860 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 413510,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকে প্রদত্ত তরঙ্গদ্বয়ের মধ্যে উপরিপাতনের ফলে কোন ধরনের তরঙ্গ সৃষ্টি হবে? গাণিতিক বিশ্লেষণের সাহায্যে উত্তর দাও।"
+        },
+        "question": "দুটি অগ্রগামী তরঙ্গের সমীকরণ যথাক্রমে—\n\n[math]Y_{1}=0.1 \\sin \\pi\\left(200 \\pi t-\\dfrac{20 \\pi x}{17}\\right) \\\\ Y_{2}=0.1 \\sin \\pi \\left(200 \\pi t+\\dfrac{20 \\pi x}{17}\\right)[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের ১ম তরঙ্গটি হলো,[math]\\hspace{1.5cm}\\mathrm{Y_1}=\\mathrm{0.1\\sin\\left(200\\pi t-\\frac{20\\pi x}{17}\\right)}[/math]\u003Cbr\u003Eযা x অক্ষের অভিমুখে একটি অগ্রগামী তরঙ্গ,আবার, ২য় তরঙ্গটি হলো, [math]\\mathrm{Y_2}=\\mathrm{0.1\\sin\\left(200\\pi t+\\frac{20\\pi}{17}{x}\\right)}[/math]\u003Cbr\u003Eএটি ধনাত্মক x-অক্ষ অভিমুখে অগ্রগামী তরঙ্গের সমীকরণ। এখন, তরঙ্গ দুটি উপরিপাতিত হলে তাদের লব্ধি সরণ হবে,[math]\\hspace{1cm}\\begin{array}{l}\\begin{aligned}\\mathrm{Y}&=\\mathrm{Y}_1+\\mathrm{Y}_2\\\\&=0.1\\sin\\left(200\\pi\\mathrm{t}-\\frac{20\\pi}{17}\\mathrm{x}\\right)+0.1\\sin\\left(200\\pi\\mathrm{t}+\\frac{20\\pi}{17}\\mathrm{x}\\right)\\\\&=0.1\\sin\\frac{2\\pi}{\\lambda}\\left(100\\lambda\\mathrm{t}-\\frac{10\\lambda}{17}\\mathrm{x}\\right)+0.1\\sin\\frac{2\\pi}{\\lambda}\\left(100\\lambda\\mathrm{t}+\\frac{10\\lambda}{17}\\mathrm{x}\\right)\\\\&=2\\times0.1\\sin\\frac{2\\pi}{\\lambda}\\cdot100\\lambda\\mathrm{t}\\cdot\\cos\\frac{2\\pi}{\\lambda}\\cdot\\frac{10\\lambda}{17}\\mathrm{x}\\\\&=0.2\\sin\\frac{2\\pi}{\\lambda}\\cdot100\\lambda\\mathrm{t}\\end{aligned}\\end{array}[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\Rightarrow \\mathrm{y}= \\mathrm{A\\sin\\omega t}\\hspace{1.5cm}[/math]\u003Cbr\u003E [এখানে, [math]\\mathrm{A}=0.2, \\omega=\\frac{2 \\pi}{\\lambda} \\cdot 100 \\lambda \\text { ] }[/math]\u003Cbr\u003Eএখানে, সমাপতিত তরঙ্গ দুটি একটি সরলছন্দিত গতি সম্পন্ন তরঙ্গ উৎপন্ন করে। এ সরলছন্দিত গতিটি অগ্রগামী তরঙ্গ নয়। কারণ এতে অগ্রগামী তরঙ্গের ন্যায় দশার কোনো পার্থক্য নেই। অর্থাৎ, অগ্রগামী তরঙ্গের ন্যায় দশা কোণের ভিতর [math]\\mathrm{(vt-x)}[/math]\u003Cbr\u003E জাতীয় কোনো রাশি অন্তর্ভুক্ত নেই। সুতরাং এ সমীকরণটি দুটি তরঙ্গের উপরিপাতনের ফলে সৃষ্ট স্থির তরঙ্গ প্রকাশ করে ৷ [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দুটি তরঙ্গের যোগ করলে\n\n[math]Y=Y_1+Y_2=0.1\\{\\sin A+\\sin B\\}=0.2\\sin\\big(200\\pi^2 t\\big)\\cos\\!\\left(\\dfrac{20\\pi^2 x}{17}\\right),[/math]\n\nযা সময়-নির্ভর সাইন এবং স্থান-নির্ভর কসমের গুণফল; তাই উপরি-পাতনের ফলে একটি স্থায়ী (standing) তরঙ্গ সৃষ্টি হয় (নোড যেখানে [math]\\cos\\!\\left(\\dfrac{20\\pi^2 x}{17}\\right)=0[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 413510,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 413510,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 413510,
+            "tag_id": 7,
+            "year": "2020",
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413509,
+      "value": {
+        "options": {
+          "ঘ": "উল্লেখিত তরঙ্গের সাথে বিপরীতমুখী তরঙ্গের উপরিপাতন হলে তারটির সকল বিন্দুর স্পন্দন সমান হবে কী? গাণিতিক বিশ্লেষণ কর।"
+        },
+        "question": "সালমা একটি তারের এক প্রান্ত একটি খুঁটির সাথে বেঁধে অপর প্রান্তে হাত দিয়ে ঝাঁকুনি দিল। এতে তারের মধ্যে একটি অগ্রগামী তরঙ্গের সৃষ্টি হলো। যার সমীকরণ হলো [math]y=0.5 \\sin \\pi\\left(100 t-\\dfrac{x}{3.4}\\right)[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপ্রদত্ত তরঙ্গের সমীকরণ,[math]\\hspace{1cm}\\mathrm{Y_1}=\\mathrm{0.5\\sin\\pi\\left(100t-\\frac{x}{3.4}\\right)}...................\\text{(i)}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E প্রদত্ত তরঙ্গের বিপরীতমুখী তরঙ্গের সমীকরণ[math]\\hspace{1cm}\\mathrm{Y_2}=\\mathrm{0.5\\sin\\pi\\left(100t+\\frac{x}{3.4}\\right)}...................\\text{(ii)}[/math]\u003Cbr\u003Eঅতএব, (i) ও (ii) নং তরঙ্গদ্বয়ের উপরিপাতনের সৃষ্টি লব্ধিতরঙ্গের সরণ [math]\\mathrm{Y}=\\mathrm{Y_1+Y_2}[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\begin{array}{l}\\Rightarrow\\mathrm{Y}=\\mathrm{0.5\\sin\\pi\\left(100t-\\frac{x}{3.4}\\right)+0.5\\sin\\pi\\left(100t+\\frac{x}{3.4}\\right)}\\\\\\Rightarrow\\mathrm{Y}=\\mathrm{0.5\\left\\{\\sin\\pi\\left(100t-\\frac{x}{3.4}\\right)+\\sin\\pi\\left(100t+\\frac{x}{3.4}\\right)\\right\\}}\\\\\\Rightarrow\\mathrm{Y}=\\mathrm{0.5\\left\\{\\sin\\left(100\\pi t-\\frac{x\\pi}{3.4}\\right)+\\sin\\left(100\\pi t+\\frac{x\\pi}{3.4}\\right)\\right\\}}\\\\\\Rightarrow\\mathrm{Y}=\\mathrm{0.5\\left(2\\sin100\\pi t\\cos\\frac{x\\pi}{3.4}\\right)}\\\\\\Rightarrow\\mathrm{Y}=\\mathrm{s\\sin100\\pi t\\cos\\frac{x\\pi}{3.4}}\\\\\\Rightarrow\\mathrm{Y}=\\mathrm{A\\sin100\\pi t}...................\\text{(iii)}\\end{array}[/math]\u003Cbr\u003E [math]\\hspace{6.5cm}[/math]\u003Cbr\u003E [A= লব্ধি তরঙ্গের বিস্তার [math]=\\cos \\frac{x \\pi}{3.4}[/math]\u003Cbr\u003E](iii) নং সমীকরণটি একটি স্থির তরঙ্গের সমীকরণ।আমরা জানি, স্থির তরঙ্গের সকল বিন্দুতে স্পন্দন সমান হয় তাই বলা যায়, উদ্দীপকে উল্লেখিত তরঙ্গের সাথে অনুরুপ বিপরীতমুখী তরঙ্গের উপরিপাতন হলে তারটির সকল বিন্দুর স্পন্দন সমান হবে । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E না—সমজাতীয় বিপরীতমুখী তরঙ্গের সুপারপজিশনে দাঁড় তরঙ্গ গঠন হয়, কিন্তু প্রতিটি বিন্দুর স্পন্দন সমান হয় না। যদি সামনে যাওয়া তরঙ্গটা [math]y_1=0.5\\sin\\pi(100t-\\tfrac{x}{3.4})[/math] এবং বিপরীতমুখী একই তরঙ্গটা [math]y_2=0.5\\sin\\pi(100t+\\tfrac{x}{3.4})[/math] হয়, তাহলে যোগ করলে পাওয়া যায়  \n[math]y=y_1+y_2=\\sin(\\pi\\cdot100t)\\cos\\!\\left(\\frac{\\pi x}{3.4}\\right).[/math] ফলে স্পন্দনের প্রাকাংক (অ্যামপ্লিটিউড) [math]|\\cos(\\tfrac{\\pi x}{3.4})|[/math] উপর নির্ভর করে এবং কিছু বিন্দুতে (নোডে) শূন্য, অন্যত্র সর্বোচ্চ হয়—তাই সমান নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 413509,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3515,
+          "full_name": "Central Women's College,",
+          "short_name": "CWC",
+          "slug": "cwc",
+          "pivot": {
+            "question_bank_id": 413509,
+            "tag_id": 3515,
+            "year": "2020",
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413508,
+      "value": {
+        "options": {
+          "গ": "যে দুটি তরঙ্গ মিলে এই স্থির তরঙ্গটি সৃষ্টি হয়েছে তাদের সমীকরণ লেখ।"
+        },
+        "question": "[math]y=12 \\sin 4 x \\cos 4 t[/math] একটি স্থির তরঙ্গের সমীকরণ যেখানে [math]x[/math] ও [math]y[/math] মিটারে এবং [math]t[/math] সেকেন্ডে প্রকাশিত।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eআমরা জানি, স্থির তরঙ্গের সমীকরণ,[math]\\hspace{1.5cm}\\mathrm{y}=\\mathrm{2a\\sin\\frac{2\\pi}{\\lambda}x\\cos\\frac{2\\pi}{\\lambda}(vt)}....................\\text{(i)}[/math]\u003Cbr\u003Eউদ্দীপক হতে পাই, স্থির তরঙ্গের সমীকরণ,[math]\\hspace{1.5cm}\\begin{aligned}\\mathrm{y} & =\\mathrm{12 \\sin 4 x \\cos 4 t} \\\\& =12 \\sin \\frac{2 \\pi}{1.57} \\times \\cos \\frac{2 \\pi}{1.57} \\times 1 \\times\\mathrm{(v t)}....................\\text{(ii)}\\end{aligned}[/math]\u003Cbr\u003E(i) নং ও (ii) নং সমীকরণ তুলনা করে পাই,[math]\\hspace{1.5cm}\\begin{aligned}& 2 a=12 \\\\\\therefore \\quad & a=6 \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eআবার, [math]\\frac{2 \\pi}{\\lambda} x=\\frac{2 \\pi}{1.57} x[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\therefore \\lambda=1.57 \\mathrm{~m}[/math]\u003Cbr\u003Eএবং [math]1 \\times \\frac{2 \\pi}{1.57}=\\frac{2 \\pi}{\\lambda} \\mathrm{v}[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\therefore \\quad \\mathrm{v}=1 \\mathrm{~m} / \\mathrm{s}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E যে দুটি তরঙ্গ মিলে স্থির তরঙ্গ সৃষ্টি হয়েছে তাদের সমীকরণযথাক্রমে [math]\\mathrm{y}_{1}=6 \\sin \\frac{2 \\pi}{1.57}(1 \\times \\mathrm{t}-\\mathrm{x})[/math]\u003Cbr\u003E ও [math]\\mathrm{y}_{2}=6 \\sin \\frac{2 \\pi}{1.57}(1 \\times \\mathrm{t}+\\mathrm{x})[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]12\\sin4x\\cos4t=6\\big[\\sin(4x+4t)+\\sin(4x-4t)\\big][/math] হওয়ায় দুটি ভ্রমণ তরঙ্গ হলো [math]y_1=6\\sin(4x-4t)[/math] এবং [math]y_2=6\\sin(4x+4t)[/math]; এখানে প্রতিটি তরঙ্গের আম্প্লিটিউড 6 এবং একটি +x দিকে, অন্যটি −x দিকে চলমান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 413508,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3405,
+          "full_name": "Govt. Majid Mammorial City College. Khulna",
+          "short_name": "GMMCCK",
+          "slug": "gmmcck",
+          "pivot": {
+            "question_bank_id": 413508,
+            "tag_id": 3405,
+            "year": "2020",
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413507,
+      "value": {
+        "options": [],
+        "question": "একটি স্থির তরঙ্গের সমীকরণ [math]y=8 \\sin \\frac{\\pi x}{6} \\cos 64 \\pi t[/math];\n\nএখানে x ও y সেন্টিমিটারে ও সেকেন্ডে দেয়া হয়েছে। যে দুটি তরঙ্গের মিলিত ক্রিয়ায় স্থির তরঙ্গটির উৎপত্তি হয়েছে তাদের বিস্তার, কম্পাঙ্ক ও বেগ নির্ণয় করো।",
+        "solution": "( Answer : [math]0.04 \\mathrm{~m}[/math]\u003Cbr\u003E , [math]3.84 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E , [math]32 \\mathrm{~Hz}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :প্রদত্ত সমীকরণ,[math]y=8 \\sin \\frac{\\pi x}{6} \\cos 64 \\pi t[/math]\u003Cbr\u003E ........(i)আমরা জানি, [math]y=2 a \\sin \\frac{2 \\pi x}{\\lambda} \\cos \\frac{2 \\pi}{\\lambda} \\mathrm{v} t[/math]\u003Cbr\u003E .......(ii)সমীকরণ (i) ও (ii) তুলনা করে পাই,[math]\\begin{array}{r}2 a=8 \\\\\\therefore \\quad a=\\frac{8}{2}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E বিস্তার [math]\\mathrm{a}=4 \\mathrm{~cm}=0.04 \\mathrm{~m} \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\frac{2 \\pi \\mathrm{x}}{\\lambda}=\\frac{\\pi \\mathrm{x}}{6}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{2 \\pi}{\\lambda}=\\frac{\\pi}{6}[/math]\u003Cbr\u003E [math]\\therefore \\quad \\lambda=12 \\mathrm{~cm}=0 .12 \\mathrm{~m}[/math]\u003Cbr\u003Eআবার, [math]\\frac{2 \\pi v t}{\\lambda}=64 \\pi t[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]2 \\mathrm{v}=64 \\lambda[/math]\u003Cbr\u003E [math]\\therefore \\quad \\mathrm{v}=\\frac{64 \\times 0.12}{2} \\mathrm{~ms}^{-1}=3.84 \\mathrm{~ms}^{-1} \\text { (Ans.) }[/math]\u003Cbr\u003Eকম্পাঙ্ক, [math]\\mathrm{f}=\\frac{\\mathrm{v}}{\\lambda}=\\frac{3 \\cdot 84}{0 \\cdot 12} \\mathrm{~Hz}=32 \\mathrm{~Hz} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: স্থির তরঙ্গকে দুইটি সমমিত ভ্রমণরত তরঙ্গের যোগফল হিসেবে লেখলে [math]y=4\\sin\\left(\\frac{\\pi x}{6}-64\\pi t\\right)+4\\sin\\left(\\frac{\\pi x}{6}+64\\pi t\\right)=8\\sin\\frac{\\pi x}{6}\\cos64\\pi t[/math], তাই প্রতিটি মূল তরঙ্গের আম্প্লিটিউড [math]4\\ \\text{cm}[/math] এবং তারা যথাক্রমে +x ও −x দিকে বিস্তার করে। কম্পাঙ্ক [math]f=\\frac{\\omega}{2\\pi}=\\frac{64\\pi}{2\\pi}=32\\ \\text{Hz}[/math] এবং তরঙ্গদৈর্ঘ্য [math]\\lambda=\\frac{2\\pi}{k}=\\frac{2\\pi}{\\pi/6}=12\\ \\text{cm}[/math]। গতি হবে [math]v=f\\lambda=\\frac{\\omega}{k}=\\frac{64\\pi}{\\pi/6}=384\\ \\text{cm/s}=3.84\\ \\text{m/s}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 413507,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413506,
+      "value": {
+        "options": {
+          "ঘ": "তরঙ্গদ্বয়ের উপরিপাতনের ফলে কোন ধরনের তরঙ্গ সৃষ্টি হবে?— গাণিতিকভাবে তোমার মতামত ব্যাখ্যা কর।"
+        },
+        "question": "[math]y_{1}=0.1 \\sin \\left(200 \\pi t-\\frac{20 \\pi}{17} x\\right), y_{2}=0.1 \\sin[/math] [math]\\left(200 \\pi t+\\frac{20 \\pi}{17} x\\right)[/math] তরঙ্গ দুটি t সময় ধরে একই সাথে সঞ্চালিত হচ্ছে।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকে তরঙ্গদ্বয়ের মধ্যে উপরিপাতনের ফলে স্থির তরঙ্গ সৃষ্টি হবে।",
+        "explanation": "ব্যাখ্যা: দুইটি তরঙ্গের যোগফল দিয়ে আমরা পাই  \n[math]y=y_{1}+y_{2}=0.1\\sin\\left(200\\pi t-\\frac{20\\pi}{17}x\\right)+0.1\\sin\\left(200\\pi t+\\frac{20\\pi}{17}x\\right)=0.2\\sin(200\\pi t)\\cos\\left(\\frac{20\\pi}{17}x\\right)[/math].  \nএটি একটি স্থিত তরঙ্গ, কারণ সময়নির্ভর অংশ [math]\\sin(200\\pi t)[/math] এবং স্থাননির্ভর স্থিত অংশ [math]\\cos\\left(\\frac{20\\pi}{17}x\\right)[/math] আলাদা; নোড আসে যেখানে [math]\\cos\\left(\\frac{20\\pi}{17}x\\right)=0[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 413506,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413505,
+      "value": {
+        "options": {
+          "ঘ": "মূল তরঙ্গদুটির সমীকরণ নির্ণয় করে তাদের উপরিপাতনে কীভাবে উপরিউক্ত স্থির তরঙ্গ উৎপন্ন হ য়েছে তার যুক্তিসঙ্গত ব্যাখ্যা দাও।"
+        },
+        "question": "একটি তারে উৎপন্ন স্থির তরঙ্গের সমীকরণ [math]y=(0.30[/math] [math]\\text { m) } \\sin (0.25 \\mathrm{x}) \\cos (120 \\pi t)[/math] দ্বারা প্রকাশ করা হল, যেখানে x মিটারে এবং t সেকেন্ডে প্রকাশিত।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,(গ) হতে প্রাপ্ত, [math]f=60 \\mathrm{~Hz}[/math]\u003Cbr\u003Eকম্পাঙ্ক, [math]\\lambda=25.13 \\mathrm{~m}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]A_{0}=\\frac{0.30}{2}=0.15 \\mathrm{~m}[/math]\u003Cbr\u003Eবিস্তার, [math]\\mathrm{A}_{\\mathrm{o}}=\\frac{0.30}{2}=0.15 \\mathrm{~m}[/math]\u003Cbr\u003Eবেগ, [math]\\mathrm{v}=1507.8 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eকৌণিক বেগ,[math]\\begin{aligned}\\omega & =2 \\pi f \\\\& =2 \\pi \\times 60 \\\\& =120 \\pi \\mathrm{rads}^{-1}\\end{aligned}[/math]\u003Cbr\u003Eমূল তরঙ্গ দুটির সমীকরণ,[math]\\begin{aligned}y_{1} & =-A_{0} \\sin \\frac{2 \\pi}{\\lambda}(v t-x) \\\\& =-0.15 \\sin \\frac{2 \\pi}{25.13}(1507.8 \\mathrm{t}-\\mathrm{x})\\end{aligned}[/math]\u003Cbr\u003Eএবং [math]\\mathrm{y}_{2}=\\mathrm{A}_{0} \\sin \\frac{2 \\pi}{\\lambda}(v \\mathrm{t}+\\mathrm{x})[/math]\u003Cbr\u003E [math]=0.15 \\sin \\frac{2 \\pi}{25.13}(1507.8 \\mathrm{t}+\\mathrm{x})[/math]\u003Cbr\u003E [math]\\mathrm{y}_{1}[/math]\u003Cbr\u003E ও [math]\\mathrm{y}_{2}[/math]\u003Cbr\u003E তরঙ্গদ্বয় পরস্পর বিপরীত দিক থেকে এসে উপরিপাতিত হয়ে স্থির তরঙ্গ y সৃষ্টি করে।[math]y=y_{1}+y_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=-0.15 \\sin \\frac{2 \\pi}{25.13}(1507.8 t-x)+0.15 \\sin \\frac{2 \\pi}{25.13}(1507.8 t+x)[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=-0.15\\left\\{\\sin \\frac{2 \\pi}{25.13}(1507.8 t-x)-\\sin \\frac{2 \\pi}{25.13}(1507.8 t+x)\\right\\}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=-0.15\\left\\{2 \\cos \\left(\\frac{2 \\pi}{25.13} 1507.8 t\\right) \\sin \\left(-\\frac{2 \\pi}{25.13} x\\right)\\right\\}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{y}=0.30 \\sin (0.25 \\mathrm{x}) \\cos (120 \\pi \\mathrm{t})[/math]\u003Cbr\u003E [math]0.30 \\sin (0.25 x)[/math]\u003Cbr\u003E হলো তরঙ্গের বিস্তার যা অবস্থানভেদে পরিবর্তিত হয় এবং [math]\\cos (120 \\pi \\mathrm{t})[/math]\u003Cbr\u003E দ্বারা বুঝায়, তরঙ্গটি অগ্রসর হয় না। সুতরাং ইহাই উৎপন্ন স্থির তরঙ্গ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মূল দুইটি ভ্রমণরত তরঙ্গ হতে পারে [math]y_1=(0.15\\ \\text{m})\\sin(0.25x-120\\pi t)[/math] এবং [math]y_2=(0.15\\ \\text{m})\\sin(0.25x+120\\pi t)[/math]. কারণ তাদের যোগফল হলে [math]y=y_1+y_2=2(0.15\\ \\text{m})\\sin(0.25x)\\cos(120\\pi t)=(0.30\\ \\text{m})\\sin(0.25x)\\cos(120\\pi t)[/math], অর্থাৎ সমান অ্যামপ্লিটিউড এবং বিপরীত দিকে চলমান একই আপাতদ্রুততা ও তরঙ্গসংখ্যার তরঙ্গগুলো একসাথে মিলে স্থির তরঙ্গ গঠন করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 413505,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413504,
+      "value": {
+        "options": {
+          "ঘ": "দেখাও যে, তরঙ্গ দুটির লব্ধি সরণ একটি সাইন সদৃশ তরঙ্গকে প্রকাশ করে এবং এই তরঙ্গের বি স্তার ও দশা নির্ণয় কর।"
+        },
+        "question": "দুইটি তরঙ্গকে যথাক্রমে [math]y_{1}=5 \\sin (10 t-2 x)[/math] এবং [math]y_{2}=10 \\cos (10 t-2 x)[/math] দ্বারা প্রকাশ করা হল, যেখানে x ও y মিটারে এবং সেকেন্ডে প্রকাশিত।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,১ম তরঙ্গ, [math]y_{1}=5 \\sin (10 t-2 x) m[/math]\u003Cbr\u003E২য় তরঙ্গ, [math]y_{2}=10 \\cos (10 t-2 x) m[/math]\u003Cbr\u003Eতরঙ্গদ্বয়ের লব্ধি সরণ, [math]y=y_{1}+y_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=5 \\sin (10 t-2 x)+10 \\cos (10 t-2 x)[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{y}{5 \\sqrt{5}}=\\frac{5}{5 \\sqrt{5}} \\sin (10 t-2 x) +\\frac{10}{5 \\sqrt{5}} \\cos (10 t-2 x)[/math]\u003Cbr\u003E [math]\\left[\\because \\sqrt{5^{2}+10^{2}}=5 \\sqrt{5}\\right][/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{y}{5 \\sqrt{5}}=\\frac{1}{\\sqrt{5}} \\sin (10 t-2 x)+\\frac{2}{\\sqrt{5}} \\cos (10 t-2 x)[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{y}{5 \\sqrt{5}}=\\cos A \\sin (10 t-2 x)+\\sin A \\cos (10 t-2 x)[/math]\u003Cbr\u003E [math]\\left[\\cos A=\\frac{1}{\\sqrt{5}}\\right.[/math]\u003Cbr\u003E ধরে [math]\\sin A=\\frac{2}{\\sqrt{5}}][/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{y}{5 \\sqrt{5}}=\\sin (A+10 t-2 x)[/math]\u003Cbr\u003E [math]\\therefore y=5 \\sqrt{5} \\sin (10 t-2 x+A)[/math]\u003Cbr\u003E [ যেখানে [math]A=\\cos ^{-1} \\frac{1}{\\sqrt{5}}[/math]\u003Cbr\u003E ]যা একটি সাইন সদৃশ তরঙ্গ।সুতরাং, তরঙ্গ দুটির লব্ধি সরণ একটি সাইন সদৃশ তরঙ্গকে প্রকাশ করে। এই তরঙ্গের বিস্তার হলো [math]A=5 \\sqrt{5} \\mathrm{~m}[/math]\u003Cbr\u003E এবং দশা [math]=(10 t-2 x + \\text { A) rad. }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দুই তরঙ্গের কোণীয় কম্পাঙ্ক ও তরঙ্গসংখ্যা সমান হওয়ায় তাদের যোগফলও একটি একক সাইন সদৃশ তরঙ্গ হবে। একটি ফলাফলে লিখলে [math]y=5\\sin(10t-2x)+10\\cos(10t-2x)=5\\sin\\phi+10\\sin(\\phi+\\pi/2)[/math] (যেখানে [math]\\phi=10t-2x[/math]) এবং ফেজোর যোগফল থেকে ফলাফলী উদ্বৃত্তি ও ধাপ পাওয়া যায়: [math]B=\\sqrt{5^{2}+10^{2}}=5\\sqrt{5}[/math] এবং [math]\\delta=\\tan^{-1}\\!\\frac{10}{5}=\\tan^{-1}2\\approx1.107\\ \\text{rad}[/math], অতএব [math]y=5\\sqrt{5}\\sin(10t-2x+\\tan^{-1}2)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 413504,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413503,
+      "value": {
+        "options": {
+          "গ": "গণনা শুরু করার কতক্ষণ পর একটি নির্দিষ্ট বিন্দুতে তরঙ্গ দুটির সরণ একই হবে?"
+        },
+        "question": "দুইটি তরঙ্গকে যথাক্রমে [math]y_{1}=5 \\sin (10 t-2 x)[/math] এবং [math]y_{2}=10 \\cos (10 t-2 x)[/math] দ্বারা প্রকাশ করা হল, যেখানে x ও y মিটারে এবং সেকেন্ডে প্রকাশিত।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,প্রথম তরঙ্গ, [math]\\mathrm{y}_{1}=5 \\sin (10 \\mathrm{t}-2 \\mathrm{x})[/math]\u003Cbr\u003Eদ্বিতীয় তরঙ্গ [math]y_{2}=10 \\cos (10 t-2 x)[/math]\u003Cbr\u003Eকোনো বিন্দুতে তরঙ্গদ্বয়ের সরণ একই হলে,[math]\\mathrm{y}_{1}=\\mathrm{y}_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]5 \\sin (10 t-2 x)=10 \\cos (10 t-2 x)[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\sin (10 t-2 x)}{\\cos (10 t-2 x)}=\\frac{1}{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\tan (10 t-2 x)=\\frac{1}{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]10 t-2 x=\\tan ^{-1}\\left(\\frac{1}{2}\\right)[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]10 t-2 x=0.46[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{t}=\\frac{2 \\mathrm{x}+0.46}{10}[/math]\u003Cbr\u003Eঅর্থাৎ, কোনো বিন্দুতে উভয় তরঙ্গের সরণ একই হওয়ার সময় ঐ বিন্দুর অবস্থানের উপর নির্ভর করে। যেমন : কোনো বিন্দুতে x = 1mহলে, [math]\\mathrm{t}=\\frac{2 \\times 1+0.46}{10}=0.246 \\mathrm{~s} \\text { (Ans.) }[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E একটি নির্দিষ্ট বিন্দুতে সমান করতে [math]5\\sin(10t-2x)=10\\cos(10t-2x)[/math] সমীকরণটি পূরণ করতে হবে, য Fritz থেকে [math]\\tan(10t-2x)=2[/math] পাওয়া যায়। তাই সাধারণ সমাধান [math]10t-2x=\\arctan 2+n\\pi[/math] এবং [math]t=\\dfrac{2x+\\arctan 2+n\\pi}{10}[/math] (যেখানে [math]n[/math] পূর্ণ সংখ্যা), অর্থাৎ পরপর সময়গুলোর পার্থক্য [math]\\pi/10[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 413503,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413502,
+      "value": {
+        "options": {
+          "ঘ": "উৎপন্ন স্থির তরঙ্গের সমীকরণ নির্ণয় করে তরঙ্গটির সর্বোচ্চ বিস্তার এবং কম্পাঙ্ক নির্ণয় কর।"
+        },
+        "question": "দৃটি অগ্রগামী তরঙ্গকে যথাক্রমে [math]y_{1}=(3 \\mathrm{~cm}) \\sin \\pi(0.6 t+x)[/math] এবং [math]y_{2}=(3 \\mathrm{~cm}) \\sin \\pi(0.6 t-x)[/math] দ্বারা প্রকাশ করা হল, যেখানে সেমি-তে এবং t সেকেন্ডে প্রকাশিত। তরল দুটি একই রেখা বরাবর বিপরীত দিক হতে অগ্রসর হয়ে পরস্পরের উপর আপতিত হয়ে স্থির তরঙ্গ উৎপন্ন করল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E‘গ’ হতে পাই, [math]y=6 \\cos \\frac{2 \\pi x}{2} \\sin \\frac{2 \\pi 0.6 t}{2}[/math]\u003Cbr\u003E ............(i)[math]\\therefore \\mathrm{y}=(6 \\mathrm{~cm}) \\cos (\\pi \\mathrm{x}) \\sin (0.6 \\pi) \\mathrm{t}[/math]\u003Cbr\u003Eতরঙ্গের সাধারণ সমীকরণ [math]y=2 a \\cos \\frac{2 \\pi x}{\\lambda} \\sin \\frac{2 \\pi v t}{\\lambda}[/math]\u003Cbr\u003E কে (i) নংসমীকরণের সাথে তুলনা করে পাই,সর্বোচ্চ বিস্তার, [math]y_{\\max }=6 \\mathrm{~cm}[/math]\u003Cbr\u003Eতরঙ্গদৈর্ঘ্য, [math]\\lambda=2 \\mathrm{~cm}[/math]\u003Cbr\u003Eতরঙ্গবেগ, [math]\\mathrm{v}=0.6 \\mathrm{\\ cms}^{-1}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E কম্পাঙ্ক, [math]\\mathrm{n}=\\frac{\\mathrm{v}}{\\lambda}=\\frac{0.6}{2}=0.3 \\mathrm{~Hz}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দুটি তরঙ্গ যোগ করে সূত্র [math]\\sin A+\\sin B=2\\sin\\frac{A+B}{2}\\cos\\frac{A-B}{2}[/math] প্রয়োগ করলে পাওয়া যায় [math]y=6\\ \\text{cm}\\,\\sin[\\pi(0.6t)]\\cos(\\pi x)[/math]। অতএব স্থির তরঙ্গের স্থানীয় সর্বোচ্চ অ্যামপ্লিটিউড [math]A_{\\max}=6\\ \\text{cm}[/math] (যেখানে [math]\\cos\\pi x=\\pm1[/math]) এবং কোণীয় কম্পাঙ্ক [math]\\omega=0.6\\pi\\ \\text{rad/s}[/math], ফলে ফ্রিকোয়েন্সি [math]f=\\omega/2\\pi=0.3\\ \\text{Hz}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 413502,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413501,
+      "value": {
+        "options": {
+          "গ": "উৎপন্ন স্থির তরঙ্গের পরপর দুটি সুস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব নির্ণয় কর।"
+        },
+        "question": "দৃটি অগ্রগামী তরঙ্গকে যথাক্রমে [math]y_{1}=(3 \\mathrm{~cm}) \\sin \\pi(0.6 t+x)[/math] এবং [math]y_{2}=(3 \\mathrm{~cm}) \\sin \\pi(0.6 t-x)[/math] দ্বারা প্রকাশ করা হল, যেখানে সেমি-তে এবং t সেকেন্ডে প্রকাশিত। তরল দুটি একই রেখা বরাবর বিপরীত দিক হতে অগ্রসর হয়ে পরস্পরের উপর আপতিত হয়ে স্থির তরঙ্গ উৎপন্ন করল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে,[math]\\begin{array}{l}\\mathrm{y}_{1}=(3 \\mathrm{~cm}) \\sin \\pi(0.6 \\mathrm{t}+\\mathrm{x}) \\\\\\mathrm{y}_{2}=(3 \\mathrm{~cm}) \\sin \\pi(0.6 \\mathrm{t}-\\mathrm{x})\\end{array}[/math]\u003Cbr\u003Eতরঙ্গের উপরিপাতনের নীতি অনুসারে,[math]\\mathrm{y}=\\mathrm{y}_{1}+\\mathrm{y}_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=(3 \\mathrm{~cm}) \\sin \\pi(0.6 \\mathrm{t}+\\mathrm{x})+(3 \\mathrm{~cm}) \\sin \\pi(0.6 \\mathrm{t}-\\mathrm{x})[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=3[\\sin \\pi(0.6 t+x)+\\sin \\pi(0.6 t-x)][/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=3 \\times 2\\left[\\sin \\pi\\left(\\frac{0.6 t+x+0.6 t-x}{2}\\right) \\cos \\pi\\left(\\frac{0.6 t+x-0.6 t+x}{2}\\right)\\right][/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=6 \\cos \\frac{2 \\pi x}{2} \\sin \\frac{2 \\pi 0.6 t}{2}[/math]\u003Cbr\u003E ............(i)আমরা জানি, স্থির তরঙ্গের সাধারণ সমীকরণ,[math]y=2 a \\cos \\frac{2 \\pi x}{\\lambda} \\sin \\frac{2 \\pi v t}{\\lambda}[/math]\u003Cbr\u003E ....... (ii)সমীকরণ (i) ও (ii) তুলনা করে পাই, তরঙ্গদৈর্ঘ্য, [math]\\lambda=2 \\mathrm{~cm}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E উৎপন্ন স্থির তরঙ্গের পরপর দুটি সুস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব = [math]\\frac{\\lambda}{2}=\\frac{2 \\mathrm{~cm}}{2}=1 \\mathrm{~cm}[/math]\u003Cbr\u003Eসুতরাং, উৎপন্ন স্থির তরঙ্গের পরপর দুটি সুস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব 1 cm। (Ans.) [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E তরঙ্গের প্রথম অংশের বাহ্যিক দলিল [math]\\pi(0.6t+x)[/math] থেকে [math]k=\\pi\\ \\text{rad/cm}[/math] থাকা বোঝা যায়, তাই [math]\\lambda=2\\pi/k=2\\ \\text{cm}[/math].  \nঅতএব পরপর দুটি সুস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব = [math]\\lambda/2=1\\ \\text{cm}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 413501,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413500,
+      "value": {
+        "options": {
+          "ঘ": "যে দুটি অগ্রগামী তরঙ্গ উপরিপাতিত হয়ে স্থির তরঙ্গ উৎপন্ন করেছে তাদের সমীকরণ নির্ণয় করে ঐ তরঙ্গদ্বয়ের মাধ্যমে উদ্দীপকে উল্লিখিত স্থির তরঙ্গটি উৎপন্ন হয়েছে কি– না তার যুক্তিসঙ্গত ব্যাখ্যা দাও।"
+        },
+        "question": "পরস্পর বিপরীত দিক হতে আগত দুটি অগ্রগামী তরঙ্গ উপরিপাতিত হয়ে যে স্থির তরঙ্গ তৈরি করে তাকে [math]y=(-1.5 \\mathrm{~m})[/math] [math]\\sin (0.4 x) \\cos (200 t)[/math] সমীকরণ দ্বারা প্রকাশ করা যায়, যেখানে x মিটারে এবং t সেকেন্ডে প্রকাশিত।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E [math]\\begin{array}{l}y_{1}=0.75 \\sin 0.4(500 t-x) \\\\y_{2}=-0.75 \\sin 0.4(500 t-x)\\end{array}[/math]",
+        "explanation": "ব্যাখ্যা: প্রদত্ত [math]y=-1.5\\sin(0.4x)\\cos(200t)[/math]-কে পরিচিত পরিচয় [math]\\sin a\\cos b=\\tfrac{1}{2}[\\sin(a+b)+\\sin(a-b)][/math] প্রয়োগ করলে পাওয়া যায় [math]y=-0.75[\\sin(0.4x+200t)+\\sin(0.4x-200t)].[/math] এখানে [math]k=0.4,\\ \\omega=200[/math] হলে তরঙ্গদ্বয়ের একক আয়তন হবে [math]0.75[/math] এবং বেগ [math]v=\\omega/k=500\\ \\text{m/s},[/math] তাই ভগ্নাংশসমূহকে ভ্রাম্য তরঙ্গ হিসেবে লেখা যায় যেমন [math]y_1=0.75\\sin[0.4(500t-x)][/math] ও [math]y_2=-0.75\\sin[0.4(500t+x)][/math] এবং এগুলোর সুক্ষ্ম যোগেই মূল স্থির তরঙ্গটি পাওয়া যায়।",
+        "correct_answer": "[math]\\begin{array}{l}y_{1}=0.75 \\sin 0.4(500 t-x) \\\\y_{2}=-0.75 \\sin 0.4(500 t-x)\\end{array}[/math]"
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 413500,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413499,
+      "value": {
+        "options": {
+          "ঘ": "উপরিপাতনে সৃষ্ট নতুন তরঙ্গটির সাথে আদি তরঙ্গদ্বয়ের কী মৌলিক পার্থক্য বিদ্যমান বিশ্লেষণ কর ।"
+        },
+        "question": "জাতীয় দিবসের প্যারেডের মহড়ায় বাদক দলের দুই সদস্য পরস্পর ঠিক মুখোমুখি ও কাছাকাছি দাঁড়িয়ে বিউগিল বাজাচ্ছেন। বিউগিল দুটি হতে একই কম্পাঙ্ক, [math]10^{-8} \\mathrm{~m}[/math] বিস্তার এবং 3m তরঙ্গেদৈর্ঘ্যের শব্দ নির্গত হচ্ছে। শব্দের বেগ [math]350 \\mathrm{~ms}^{-1}[/math]।",
+        "solution": "",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মৌলিক পার্থক্য হলো উপরিপাতনে দুইটি চলমান তরঙ্গের সংমিশ্রণে যে তরঙ্গটি তৈরি হয় তা এক স্থায়ী দাঁড়ানো তরঙ্গ (standing wave) — মূল তরঙ্গ দুটো একে অপরের বিপরীত দিক দিয়ে চলে, কিন্তু সমন্বয়ে তরঙ্গটি চলতে থাকে না বরং স্থির নোড ও অ্যান্টিনোড তৈরি করে। মৌলিক পরিমাপগুলো যেমন কম্পাঙ্ক ও তরঙ্গদৈর্ঘ্য অপরিবর্তিত থেকে যায়, (অর্থাৎ [math]f=v/λ=350/3\\approx116.7\\ \\mathrm{Hz}[/math] ও [math]\\lambda=3\\ \\mathrm{m}[/math]) নোড-নোড অনূত্তর হচ্ছে [math]\\lambda/2=3/2=1.5\\ \\mathrm{m}[/math], এবং তার ক্লান্তি অনুযায়ী প্রকৃত আদি বিস্তার [math]A=10^{-8}\\ \\mathrm{m}[/math] হলে অ্যান্টিনোডে সর্বোচ্চ বিস্তার হয় [math]2A=2\\times10^{-8}\\ \\mathrm{m}[/math]; এছাড়া দাঁড়ানো তরঙ্গের মাধ্যমে তাগাদা ট্রান্সপোর্ট হয় না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 413499,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413498,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে উল্লেখিত তরঙ্গ দুটির সম্মিলিত বিস্তার গাণিতিকভাবে প্রকাশ কর।"
+        },
+        "question": "জাতীয় দিবসের প্যারেডের মহড়ায় বাদক দলের দুই সদস্য পরস্পর ঠিক মুখোমুখি ও কাছাকাছি দাঁড়িয়ে বিউগিল বাজাচ্ছেন। বিউগিল দুটি হতে একই কম্পাঙ্ক, [math]10^{-8} \\mathrm{~m}[/math] বিস্তার এবং 3m তরঙ্গেদৈর্ঘ্যের শব্দ নির্গত হচ্ছে। শব্দের বেগ [math]350 \\mathrm{~ms}^{-1}[/math]।",
+        "solution": "",
+        "explanation": "ব্যাখ্যা: দুইটি সমমানের বিপরীত দিশায় চলমান তরঙ্গ একসাথে মিললে স্থায়ী তরঙ্গ গড়ে ওঠে যার স্থানিক অম্পলিটিউড হবে [math]2A\\cos(kx)[/math].  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সম্মিলিত বিস্তার: [math]A_{\\rm res}=2A\\cos(kx)=2\\times10^{-8}\\cos\\!\\left(\\frac{2\\pi}{3}x\\right)\\ \\mathrm{m},\\quad k=\\frac{2\\pi}{\\lambda}=\\frac{2\\pi}{3}\\ \\mathrm{m^{-1}}.",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 413498,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413497,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকে উল্লেখিত তরঙ্গে সুস্পন্দ বিন্দু ও নিস্পন্দ বিন্দু সৃষ্টির শর্ত আলোচনা কর।"
+        },
+        "question": "নিচের চিত্রটি লক্ষ কর।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-19-panjeri2-2008-02_1755586366_T7Yuc3fr.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eধরা যাক, যেকোনো একটি স্থিতিস্থাপক মাধ্যমে কণাগুলো বিভিন্ন - স্তরে সাম্যাবস্থায় রয়েছে। [চিত্র-১(ক)] যাদের সমান দূরত্বের সমান্তরাল কতগুলো রেখা দিয়ে দেখানো হয়েছে। লম্বিক তরঙ্গের ক্ষেত্রে, মাধ্যমের কণাগুলো সাম্যাবস্থানের উভয় পাশে তরঙ্গের গতিপথের সাথে সমান্তরালে কম্পিত হয়, ফলে তরঙ্গ শীর্ষ বা তরঙ্গপাদ সৃষ্টি হয় না । এক্ষেত্রে কম্পনের সময় কিছু কণা কাছাকাছি চলে আসে আবার কোথাও দূরে সরে যায়। কণাগুলো কাছাকাছি আসার মাধ্যমের সংকোচন হয় এবং দূরে সরে গেলে মাধ্যমের প্রসারণ ঘটে, [চিত্র-১(খ)]।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-19-panjeri2-2029-3_1755586368_ohuTNxfP.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএভাবে, সংকোচন ও প্রসারণের মাধ্যমে লম্বিক তরঙ্গ সঞ্চালিত হয়। উল্লেখ্য, শুধু স্থিতিস্থাপক ধর্মসম্পন্ন (যেমন: বায়ু) মাধ্যমে লম্বিক তরঙ্গ উৎপন্ন হয়। এক প্রান্ত দৃঢ় অবলম্বনের সাথে বাঁধা একটি স্প্রিং-এর অপর প্রান্তে একটি সুরশলাকার এক বাহুর সাথে বেঁধে দিয়ে সুরশলাকার বাহুকে স্পন্দিত করলে দুই ধরনের ঘটনা ঘটতে পারে। ঘটনা-১: যদি সুরশলাকার কম্পনের দিক স্প্রিং এর দৈর্ঘ্যের সমান্তরালে হয় তখন স্প্রিং এ লম্বিক তরঙ্গ সৃষ্টি হয়, [চিত্র-২(ক)]\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-19-panjeri2-2030-3_1755586367_AdrtsW2P.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eঘটনা-২: যদি সুরশলাকার কম্পনের দিক স্প্রিং এর দৈর্ঘ্যের সাথে লম্ব হয় তখন স্প্রিং এ আড় তরঙ্গের সৃষ্টি হয়, [চিত্ৰ-২(খ)] উভয় ক্ষেত্রেই সৃষ্ট তরঙ্গ দৃঢ় তলে প্রতিফলিত হয়ে ফিরে আসে এবং স্থির তরঙ্গের সৃষ্টি করে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দুইটি সমমান ও বিপরীত দিকের তরঙ্গের সুপারপজিশনে দাঁড়ানো তরঙ্গ তৈরি হয় যার ফলিত পার্শ্বদৈর্ঘ্য: [math]y=2A\\sin(kx)\\cos(\\omega t)[/math]. নোড সেখানে যেখানে সবসময় আয়ত্ব শূন্য থাকে, তাই [math]\\sin(kx)=0\\Rightarrow kx=n\\pi\\Rightarrow x=n\\frac{\\lambda}{2}[/math]. সুস্পন্দ বিন্দু সেখানে যেখানে আয়ত্ব সর্বোচ্চ হয়, তাই [math]\\sin(kx)=\\pm1\\Rightarrow kx=(2n+1)\\frac{\\pi}{2}\\Rightarrow x=\\frac{\\lambda}{4}+n\\frac{\\lambda}{2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 413497,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:52:48.000000Z",
+            "updated_at": "2025-08-19T06:52:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413495,
+      "value": {
+        "options": [],
+        "question": "দুটি [math]\\pi/2\\ rad[/math] দৃশ্য পার্থক্যের সদৃশ অগ্রগামী তরঙ্গ একই দিকে ধাবিত হচ্ছে। যদি তরঙ্গ দুটির প্রত্যেকটির বিস্মর [math]y_m[/math] লব্ধি তরঙ্গটির বিস্তার কত?",
+        "solution": "Solution : [math]A_{R}=\\sqrt{A_{1}^{2}+A_{2}^{2}+2 A_{1} A_{2} \\cos (\\alpha)} \\\\ =\\sqrt{y_{m}^{2}+y_{m}^{2}+2 y_{m}^{2} \\cos \\left(\\dfrac{\\pi}{2}\\right)} \\\\=\\sqrt{2 y_{m}^{2}+0}=\\sqrt{2} y_{m} \\text { (Ans.) }[/math]",
+        "explanation": "ব্যাখ্যা: দুটি সমান ам্প্লিটিউডের তরঙ্গের ফলিক ам্প্লিটিউড ভেক্টর যোগ দ্বারা পাওয়া যায়, তাই ব্যবহার করা যায় [math]A=\\sqrt{A_1^2+A_2^2+2A_1A_2\\cos\\Delta\\phi}[/math]. এখানে [math]A_1=A_2=y_m[/math] এবং [math]\\Delta\\phi=\\pi/2[/math], তাই [math]A=\\sqrt{y_m^2+y_m^2+2y_m^2\\cos(\\pi/2)}=\\sqrt{2y_m^2}=y_m\\sqrt{2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 413495,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 413495,
+            "tag_id": 80,
+            "year": "14-15",
+            "created_at": "2025-08-19T06:52:45.000000Z",
+            "updated_at": "2025-08-19T06:52:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413496,
+      "value": {
+        "options": {
+          "ঘ": "তরান্বয়ের উপরিপাতনের ফলে কী ঘটবে পাণিতিক যুক্তিসহ মতামত দাও।"
+        },
+        "question": "দুটি অগ্রগামী তরঙ্গের সমীকরণ যথাক্রমে [math]y_{1}=0.4 \\mathrm{sin}[/math] [math]\\left(500 \\pi t+\\frac{50 \\pi}{35} x\\right)[/math] এবং [math]y_{2}=0.4 \\sin \\left(500 \\pi t-\\frac{50 \\pi}{35} x\\right)[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, অগ্রগামী তরঙ্গ দুইটির সমীকরণ,[math]\\begin{array}{l}\\mathrm{y}_{1}=0.4 \\sin \\left(500 \\pi \\mathrm{t}+\\frac{50 \\pi}{35} \\mathrm{x}\\right) \\\\\\mathrm{y}_{2}=0.4 \\sin \\left(500 \\pi \\mathrm{t}-\\frac{50 \\pi}{35} \\mathrm{x}\\right)\\end{array}[/math]\u003Cbr\u003Eউপরিপাতন নীতি মতে, [math]y=y_{1}+y_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=0.4\\left\\{\\sin \\left(500 \\pi t+\\frac{50 \\pi}{35} x\\right)+\\sin \\left(500 \\pi t-\\frac{50 \\pi}{35} x\\right)\\right\\}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=(2 \\times 0.4) \\sin \\left(\\frac{500 \\pi t+\\frac{50 \\pi}{35} x+500 \\pi t-\\frac{50 \\pi}{35} x}{2}\\right) \\\\\\cos \\left(\\frac{500 \\pi t+\\frac{50 \\pi}{35} x+500 \\pi t-\\frac{50 \\pi}{35} x}{2}\\right) \\\\=0.8 \\sin 500 \\pi t \\cos \\frac{50 \\pi}{35} x=A \\sin 500 \\pi t\\end{array}[/math]\u003Cbr\u003Eএখানে , [math]A=0.8 \\cos \\frac{50 \\pi}{35} x[/math]\u003Cbr\u003Eএখানে দেখা যায়, উপরিপাতনের ফলে সৃষ্ট তরঙ্গটি স্থির তরঙ্গ।[কেননা দশা কোণের ভিতর (vt – x) নাই]অতএব, উভয় তরঙ্গের যদি উপরিপাতন ঘটে তাহলে লব্ধি তরঙ্গটি স্থির তরঙ্গ হবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সমস্যমিলে পাওয়া যায় যে\n[math]y=y_{1}+y_{2}=0.4[\\sin(500\\pi t+\\tfrac{10\\pi}{7}x)+\\sin(500\\pi t-\\tfrac{10\\pi}{7}x)]\n=0.8\\sin(500\\pi t)\\cos\\!\\left(\\tfrac{10\\pi}{7}x\\right).[/math]\nঅতএব দুটি সমন্বিত অগ্রগামী তরঙ্গের উপরিপাতনে একটি স্থিততরঙ্গ (standing wave) সৃষ্টি হয় যার স্থানীয় প্রস্থতা [math]0.8|\\cos(\\tfrac{10\\pi}{7}x)|[/math]; নোড যেখানে [math]\\cos(\\tfrac{10\\pi}{7}x)=0[/math], অর্থাৎ [math]x=\\dfrac{7(2n+1)}{20}\\ \\text{m}[/math] এবং অ্যানটিনোড যেখানে [math]x=\\dfrac{7n}{10}\\ \\text{m}[/math] (n পূর্ণ সংখ্যা)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 413496,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:52:45.000000Z",
+            "updated_at": "2025-08-19T06:52:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413494,
+      "value": {
+        "options": [],
+        "question": "একটি সুতায় দুটি তরঙ্গের মিলনের ফলে যে স্থি র তরঙ্গের সৃষ্টি হয় তার সমীকরণ হচ্ছে [math]y=5 \\sin \\dfrac{\\pi x}{3} \\cos 40 \\pi t[/math], যেখানে [math]x[/math] ও [math]y[/math] হল সে.মি. [math]-[/math]এ এবং [math]t[/math] হল সেকেন্ডে। [math](a)[/math] তরঙ্গ দুইটির প্রত্যেকটির বিস্তার ও বেগ কত? [math](b)[/math] দুটি পর পর নিষ্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব কত?",
+        "solution": "(Answer : [math]3 \\mathrm{~cm}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : স্থির তরঙ্গের সাধারণ সমীকরণ, [math]y=2 a \\sin \\left(\\dfrac{2 \\pi vt}{\\lambda}\\right) \\cos \\left(\\dfrac{2 \\pi x}{\\lambda}\\right)[/math]\u003Cbr\u003Eযেখানে, মূল তরঙ্গদ্বয়, [math]y_{1}=\\operatorname{asin} \\dfrac{2 \\pi}{\\lambda}(v t-x) ; y_{2}=a \\sin \\dfrac{2 \\pi}{\\lambda}(v t+x) ; y=5 \\sin \\left(\\dfrac{\\pi x}{3}\\right) \\cos (40 \\pi t)[/math]\u003Cbr\u003Eএখানে, [math]\\text { sine }[/math]\u003Cbr\u003E এবং [math]\\text { cosine }[/math]\u003Cbr\u003E উভয়েই [math]\\text { sinusoidal function }[/math]\u003Cbr\u003E তাই প্রদত্ব স্থির তরঙ্গের সমীকরনের [math]x[/math]\u003Cbr\u003E ও [math]t[/math]\u003Cbr\u003E এর সহগ সাধারন সমীকরণের সাথে তুলনা করা যায়।[math]\\therefore \\dfrac{2 \\pi}{\\lambda} v=40 \\pi, \\dfrac{2 \\pi}{\\lambda}=\\dfrac{\\pi}{3}, 2 a=5[/math]\u003Cbr\u003E [math](a)[/math]\u003Cbr\u003E তরঙ্গ দুটির প্রত্যেকের বিস্তার [math]=\\dfrac{5}{3} \\mathrm{~cm},[/math]\u003Cbr\u003E বেগ [math]=120 \\mathrm{cms}^{-1}[/math]\u003Cbr\u003E [math](b)[/math]\u003Cbr\u003E [math]\\lambda=6 \\mathrm{~cm}\\ \\therefore[/math]\u003Cbr\u003E পরস্পর দুটি নিস্পন্দ বিন্দুর দূরত্ব [math]=\\dfrac{\\lambda}{2}=3 \\mathrm{~cm} \\text { (Ans) }[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তুলনা করলে [math]y=2A\\sin kx\\cos\\omega t[/math] থেকে [math]2A=5\\Rightarrow A=2.5\\ \\text{cm},\\ k=\\pi/3\\Rightarrow \\lambda=2\\pi/k=6\\ \\text{cm},\\ \\omega=40\\pi\\Rightarrow f=\\omega/2\\pi=20\\ \\text{Hz},\\ v=\\omega/k=120\\ \\text{cm/s}=1.2\\ \\text{m/s}। দুই তরঙ্গ বিপরীত দিকে ভ্রমণ করে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E নিস্পন্দ বিন্দুতে [math]\\sin kx=0[/math], তাই পর পর নিষ্পন্দ বিন্দুর দূরত্ব [math]\\Delta x=\\pi/k=\\;3\\ \\text{cm}\\;(=\\lambda/2)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 413494,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 413494,
+            "tag_id": 80,
+            "year": "16-17",
+            "created_at": "2025-08-19T06:52:45.000000Z",
+            "updated_at": "2025-08-19T06:52:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413493,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকে তরঙ্গদ্বয়ের মধ্যে উপরিপাতনের ফলে কোন ধরনের তরঙ্গ সৃষ্টি হবে গাণিতিক বিশ্লেষণের মাধ্যমে তোমার মতামতের ব্যাখ্যা কর।"
+        },
+        "question": "[math]\\rm{y_{1}=0.1 \\sin \\left(200 \\pi t-\\dfrac{20 \\pi}{17} x\\right) ; y_{2}=0.1 \\sin \\left(200 \\pi t+\\dfrac{20 \\pi}{17} x\\right)}[/math]\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy201920tp20cq-6_1755586365_p0BqDCaR.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nউদ্দীপকে [math]x[/math] ও [math]y[/math] মিটারে এবং সময়। সেকেন্ডে ধরে নিম্নলিখিত প্রশ্নের উত্তর দাও :",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের ১ম তরঙ্গটি হলো,[math]\\hspace{1.5 cm}\\rm{y_{1}=0.1 \\sin \\left(200 \\pi t-\\dfrac{20 \\pi}{17} x\\right)}[/math]\u003Cbr\u003Eযা [math]\\rm{x}[/math]\u003Cbr\u003E অক্ষের অভিমুখে একটি অগ্রগামী তরঙ্গ,আবার, ২য় তরঙ্গটি হলো, [math]\\rm{y_{2}=0.1 \\sin \\left(200 \\pi t+\\dfrac{20 \\pi}{17} x\\right)}[/math]\u003Cbr\u003Eএটি ধনাত্মক [math]\\rm{x}[/math]\u003Cbr\u003E-অক্ষ অভিমুখে অগ্রগামী তরঙ্গের সমীকরণ। এখন, তরঙ্গ দুটি উপরিপাতিত হলে তাদের লব্ধি সরণ হবে,[math]\\hspace{1.5 cm}\\begin{aligned} \\rm{y} & =\\rm{y_{1}+y_{2} }\\\\ & =\\rm{0.1 \\sin \\left(200 \\pi t-\\frac{20 \\pi}{17} x\\right)+0.1 \\sin \\left(200 \\pi t+\\frac{20 \\pi}{17} x\\right) }\\\\ & =\\rm{0.1 \\sin \\frac{2 \\pi}{\\lambda}\\left(100 \\lambda t-\\frac{10 \\lambda}{17} x\\right)+0.1 \\sin \\frac{2 \\pi}{\\lambda}\\left(100 \\lambda t+\\frac{10 \\lambda}{17} x\\right) }\\\\ & =\\rm{2 \\times 0.1 \\sin \\frac{2 \\pi}{\\lambda} \\cdot 100 \\lambda t \\cdot \\cos \\frac{2 \\pi}{\\lambda} \\cdot \\frac{10 \\lambda}{17} x }\\\\ & =\\rm{0.2 \\sin \\frac{2 \\pi}{\\lambda} \\cdot 100 \\lambda t}\\end{aligned}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\Rightarrow \\rm{y=A \\sin \\omega t}\\quad [[/math]\u003Cbr\u003E এখানে, [math]\\mathrm{A}=0.2, \\omega=\\dfrac{2 \\pi}{\\lambda} \\cdot 100 \\lambda][/math]\u003Cbr\u003Eএখানে, সমাপতিত তরঙ্গ দুটি একটি সরলছন্দিত গতি সম্পন্ন তরঙ্গ উৎপন্ন করে। এ সরলছন্দিত গতিটি অগ্রগামী তরঙ্গ নয়। কারণ এতে অগ্রগামী তরঙ্গের ন্যায় দশার কোনো পার্থক্য নেই। অর্থাৎ, অগ্রগামী তরঙ্গের ন্যায় দশা কোণের ভিতর [math]\\rm{(vt – x)}[/math]\u003Cbr\u003E জাতীয় কোনো রাশি অন্তর্ভুক্ত নেই। সুতরাং এ সমীকরণটি দুটি তরঙ্গের উপরিপাতনের ফলে সৃষ্ট স্থির তরঙ্গ প্রকাশ করে।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দুটি সমদৈর্ঘ্য ও সমকম্পাংক, বিপরীত দিকের চলমান তরঙ্গের সুপারপজিশনের ফলে দাঁড় তরঙ্গ সৃষ্টি হবে।  \n[math]y=y_1+y_2=0.1[\\sin(200\\pi t-\\tfrac{20\\pi}{17}x)+\\sin(200\\pi t+\\tfrac{20\\pi}{17}x)]=0.2\\sin(200\\pi t)\\cos\\!\\left(\\tfrac{20\\pi}{17}x\\right)[/math], যা স্পষ্টভাবে দাঁড় তরঙ্গকে নির্দেশ করে।  \nএখানে নোডগুলোতে [math]\\cos\\!\\left(\\tfrac{20\\pi}{17}x\\right)=0[/math] বা [math]x=\\dfrac{17(2n+1)}{40}\\ \\text{m}[/math] এবং অ্যান্টিনোডগুলোতে [math]x=\\dfrac{17n}{20}\\ \\text{m}[/math] হয়, তাই \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 413493,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 413493,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 413493,
+            "tag_id": 5,
+            "year": "2015",
+            "created_at": "2025-08-19T06:52:45.000000Z",
+            "updated_at": "2025-08-19T06:52:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413492,
+      "value": {
+        "options": {
+          "ঘ": "যদি এরূপ আর একটি তরঙ্গ বিপরীত দিক হতে পরস্পরের উপর আপতিত হয় তবে সৃষ্ট তরঙ্গটি কিরূপ হবে? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।"
+        },
+        "question": "[math]y=0.5 \\sin 2 \\pi(50 t-0.75 x)[/math] একটি অগ্রগামী তরঙ্গের সমীকরণ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক হতে পাই,[math]\\hspace{1.5 cm}\\begin{aligned} \\rm{y} & =\\rm{0.5 \\sin 2 \\pi(50 t-0.75 x)}\\\\ & =0.5 \\sin \\frac{2 \\pi}{1.33}(66.67 \\mathrm{t}-\\mathrm{x}) \\ldots\\ldots\\ldots\\rm{(i)}\\end{aligned}[/math]\u003Cbr\u003Eবিপরীত দিক থেকে আগত আর একটি তরঙ্গ,[math]\\hspace{1.5 cm}\\rm{y^{\\prime}=0.5 \\sin \\dfrac{2 \\pi}{1.33}(66.67 t+x)}\\ldots\\ldots\\ldots\\rm{(ii)}[/math]\u003Cbr\u003Eসমীকরণ [math]\\rm{(i) ~ও~ (ii)}[/math]\u003Cbr\u003E নং এর তরঙ্গদ্বয় উপরিপাতনের ফলে সৃষ্ট তরঙ্গ [math]\\rm{Y}[/math]\u003Cbr\u003E হলে,[math]\\hspace{1.5 cm}\\begin{aligned}\\rm{Y} & =\\rm{y+y^{\\prime} }\\\\ & =0.5 \\sin \\frac{2 \\pi}{1.33}(66.67 \\mathrm{t}-\\mathrm{x})+0.5 \\sin \\frac{2 \\pi}{1.33}(66.67 \\mathrm{t}+\\mathrm{x}) \\\\ & =0.5\\left[\\sin \\frac{2 \\pi}{1.33}(66.67 \\mathrm{t}-\\mathrm{x})+\\sin \\frac{2 \\pi}{1.33}(66.67 \\mathrm{t}+\\mathrm{x})\\right] \\\\ & =\\sin \\left(\\frac{2 \\pi}{1.33} \\times 66.67 \\mathrm{t}\\right) \\cos \\left(\\frac{2 \\pi \\rm{x}}{1.33}\\right) \\\\ & =\\mathrm{A} \\sin (314.9 \\mathrm{t}) \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\text { (iii) } \\end{aligned}[/math]\u003Cbr\u003Eযেখানে, [math]\\rm{A=\\cos \\left(\\dfrac{2 \\pi t}{1.33}\\right)=\\cos (4.724 x)}[/math]\u003Cbr\u003Eউপরিউক্ত [math]\\rm{(iii)}[/math]\u003Cbr\u003E নং সমীকরণটিই হলো একটি স্থির তরঙ্গের সমীকরণ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: বিপরীত দিক থেকে সমান তরঙ্গ হলে [math]y_2=0.5\\sin[2\\pi(50t+0.75x)][/math] হবে, তাই যোগফল হচ্ছে  \n[math]y=y_1+y_2=0.5[\\sin(2\\pi(50t-0.75x))+\\sin(2\\pi(50t+0.75x))]=\\sin(2\\pi\\;50t)\\cos(2\\pi\\;0.75x).[/math]  \nএটি একটি স্ট্যান্ডিং তরঙ্গ, যার অ্যাম্প্লিটিউড স্থানানুসারে [math]\\cos(2\\pi\\;0.75x)[/math] দ্বারা পরিবর্তিত; নোড সেখানে যেখানে [math]\\cos(2\\pi\\;0.75x)=0[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 413492,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 413492,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 413492,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-08-19T06:52:44.000000Z",
+            "updated_at": "2025-08-19T06:52:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413491,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকে সৃষ্ট নতুন তরঙ্গটিতে সর্বোচ্চ বিস্তারের অবস্থানগুলো নির্ণয় করা সম্ভব কি-না- গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "উদ্দীপকের তরঙ্গটি বাধা পেয়ে প্রতিফলিত হয়ে একই পথে বিপরীত দিকে ফিরে এসে একটি নতুন তরঙ্গ সৃষ্টি হলো। [সব কয়টি রাশি [math]SI[/math] এককে প্রকাশিত]\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy201920tp20cq-1_1755586364_Mx9Safcy.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের তরঙ্গের সমীকরণ, [math]\\rm{Y_{1}=100 \\sin \\pi(100 t-5 x)}[/math]\u003Cbr\u003Eনতুন তরঙ্গের সমীকরণ হবে, [math]\\rm{Y_{2}=-100 \\sin \\pi(100 t+5 x)}[/math]\u003Cbr\u003Eলব্ধি সরণ,[math]\\hspace{1.5 cm}\\begin{aligned}\\rm{Y} &= \\rm{Y_{1}+Y_{2}} \\\\ &=\\rm{100 \\sin \\pi(100 t-5 x)-100 \\sin \\pi(100 t+5 x) }\\\\ & =\\rm{100[\\sin \\pi(100 t-5 x)-\\sin \\pi(100 t+5 x)]} \\\\ & =\\rm{100[2 \\cos \\pi(100 t) \\sin \\pi(5 x)]} \\\\ & =\\rm{200 \\cos (100 \\pi t) \\sin (5 \\pi x)}\\end{aligned}[/math]\u003Cbr\u003E [math]\\mathrm{Y}=\\mathrm{A} \\cos (100 \\pi \\mathrm{t});[/math]\u003Cbr\u003E যেখনে, [math]\\rm{A=200 \\sin (5 \\pi x)}[/math]\u003Cbr\u003Eসর্বোচ্চ বিস্তারের অবস্থানের ক্ষেত্রে, [math]\\rm{A}= \\pm 200[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\begin{array}{l} \\Rightarrow 200 \\sin (5 \\pi x)= \\pm 200 \\\\ \\Rightarrow \\sin (5 \\pi x)= \\pm 1 \\\\ \\Rightarrow \\sin (5 \\pi x)=1 \\\\ \\Rightarrow \\sin (5 \\pi x)=(2 n+1) \\dfrac{\\pi}{2}=(2 n+1) \\dfrac{1}{10} \\end{array}[/math]\u003Cbr\u003Eযেখানে, [math]\\mathrm{n}=0,1,2,3, \\ldots \\ldots \\ldots[/math]\u003Cbr\u003E [math]\\therefore \\rm{~x}=\\dfrac{1}{10}, \\dfrac{3}{10}, \\dfrac{5}{10}, \\ldots\\ldots\\ldots[/math]\u003Cbr\u003Eঅর্থাৎ, [math]\\dfrac{1}{10}, \\dfrac{3}{10}, \\dfrac{5}{10} \\ldots\\ldots\\ldots[/math]\u003Cbr\u003E হবে তরঙ্গটির সর্বোচ্চ বিস্তারের অবস্থান।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হ্যাঁ — প্রতিফলনে ফেজ পাল্টে নাকি না তা জানা থাকলে গাণিতিকভাবে নির্ণয় করা যায়। যদি ফেজ বদল না ঘটে, তখন স্ট্যান্ডিং তরঙ্গের অভিব্যক্তি [math]y=2A\\cos(kx)\\sin(\\omega t)[/math] হয় এবং সর্বোচ্চ বিস্তার সেখানে যেখানে [math]\\cos(kx)=\\pm1[/math], অর্থাৎ [math]kx=n\\pi\\Rightarrow x=n\\lambda/2[/math]. প্রতিফলনে ফেজ π বদলে গেলে [math]y=2A\\sin(kx)\\sin(\\omega t)[/math] এবং সর্বোচ্চ বিস্তার হবে [math]kx=(2n+1)\\pi/2\\Rightarrow x=(2n+1)\\lambda/4[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 413491,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 413491,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 413491,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-08-19T06:52:44.000000Z",
+            "updated_at": "2025-08-19T06:52:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413490,
+      "value": {
+        "options": {
+          "ক": "[math]\\pm 2 \\mathrm{~A}[/math]",
+          "খ": "[math]\\pm \\mathrm{~A}[/math]",
+          "গ": "[math]\\pm \\dfrac{1}{2} \\mathrm{~A}[/math]",
+          "ঘ": "[math]0[/math]"
+        },
+        "question": "স্থির তরঙ্গ সৃষ্টিকারী প্রত্যেকটি অগ্রগামী তরঙ্গের বিস্তার [math]\\rm{A}[/math] হলে স্থির তরঙ্গের সুস্পন্দ বিন্দুর সরণ হবে—",
+        "solution": "স্থির তরঙ্গে, সুস্পন্দ বিন্দুতে (antinode) দুটি অগ্রগামী তরঙ্গের বিস্তার যোগ হয়। যেহেতু প্রত্যেকটি অগ্রগামী তরঙ্গের বিস্তার [math]\\rm{A}[/math]\u003Cbr\u003E , তাই সুস্পন্দ বিন্দুতে মোট বিস্তার হবে [math]\\rm{A + A = 2A}[/math]\u003Cbr\u003E । এই বিন্দুতে সরণের সর্বোচ্চ মান [math]\\pm 2A[/math]\u003Cbr\u003E ।স্থির তরঙ্গের ক্ষেত্রে, নিস্পন্দ বিন্দুতে (node) সরণ শূন্য হয়, কারণ সেখানে দুটি তরঙ্গের বিস্তার একে অপরের প্রভাবকে নাকচ করে দেয়। সুস্পন্দ বিন্দুতে সরণ সর্বোচ্চ হয়।",
+        "explanation": "",
+        "correct_answer": "A.[math]\\pm 2 \\mathrm{~A}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 413490,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 255,
+          "full_name": "Dhaka City College",
+          "short_name": "DC",
+          "slug": "dc",
+          "pivot": {
+            "question_bank_id": 413490,
+            "tag_id": 255,
+            "year": "2022",
+            "created_at": "2025-08-19T06:52:43.000000Z",
+            "updated_at": "2025-08-19T06:52:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413489,
+      "value": {
+        "options": {
+          "ক": "সমদশায় মিলিত হয়",
+          "খ": "বিপরীত দশায় মিলিত হয়",
+          "গ": "তরঙ্গদ্বয়ের দশা পার্থক্য [math]\\frac{\\pi}{2}[/math] হয়",
+          "ঘ": "তরঙ্গদ্বয়ের দশা পার্থক্য [math]\\frac{\\pi}{4}[/math] হয়"
+        },
+        "question": "গঠনমূলক ব্যতিচারের ক্ষেত্রে তরঙ্গদ্বয়–",
+        "solution": "গঠনমূলক ব্যতিচারের জন্য তরঙ্গদ্বয়কে একই দশায় (in phase) মিলিত হতে হয়। এর ফলে এদের বিস্তার যোগ হয়ে সর্বোচ্চ হয়। বিপরীত দশায় মিলিত হলে ধ্বংসাত্মক ব্যতিচার ঘটে, যেখানে বিস্তার সর্বনিম্ন হয়। দশা পার্থক্য [math]\\frac{\\pi}{2}[/math]\u003Cbr\u003E বা [math]\\frac{\\pi}{4}[/math]\u003Cbr\u003E হলে সাধারণ ব্যতিচার সৃষ্টি হয়, যা গঠনমূলক বা ধ্বংসাত্মক কোনটিই নয়।",
+        "explanation": "",
+        "correct_answer": "A.সমদশায় মিলিত হয়"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 413489,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:52:43.000000Z",
+            "updated_at": "2025-08-19T06:52:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413488,
+      "value": {
+        "options": {
+          "ক": "[math]5 \\sqrt{3}[/math] একক",
+          "খ": "[math]5 \\sqrt{7}[/math] একক",
+          "গ": "15 একক",
+          "ঘ": "175 একক"
+        },
+        "question": "[math]y_{1}=5 \\sin \\left(\\omega t-15^{\\circ}\\right)[/math] এবং [math]y_{2}=10 \\sin \\left(\\omega t-75^{\\circ}\\right)[/math] তরঙ্গ দুটি একই দিকে চলমান হয়ে উপরিপাতিত হলো। লব্ধি বিস্তারের মান:",
+        "solution": "দুটি তরঙ্গের বিস্তার ( [math]A_1=5[/math]\u003Cbr\u003E, [math]A_2=10[/math]\u003Cbr\u003E) এবং দশা পার্থক্য ( [math]\\delta = -15^\\circ - (-75^\\circ) = 60^\\circ[/math]\u003Cbr\u003E) জানা থাকলে, লব্ধি বিস্তার ( [math]R[/math]\u003Cbr\u003E) নির্ণয়ের সূত্রটি হলো [math]R = \\sqrt{A_1^2 + A_2^2 + 2A_1A_2 \\cos \\delta}[/math]\u003Cbr\u003E।এখানে, [math]A_1 = 5[/math]\u003Cbr\u003E, [math]A_2 = 10[/math]\u003Cbr\u003E, এবং [math]\\delta = 60^\\circ[/math]\u003Cbr\u003E।সুতরাং, [math]R = \\sqrt{5^2 + 10^2 + 2 \\times 5 \\times 10 \\times \\cos 60^\\circ}[/math]\u003Cbr\u003E [math]R = \\sqrt{25 + 100 + 100 \\times \\frac{1}{2}}[/math]\u003Cbr\u003E [math]R = \\sqrt{25 + 100 + 50}[/math]\u003Cbr\u003E [math]R = \\sqrt{175}[/math]\u003Cbr\u003E [math]R = \\sqrt{25 \\times 7}[/math]\u003Cbr\u003E [math]R = 5\\sqrt{7}[/math]\u003Cbr\u003E একক।তরঙ্গ উপরিপাতনের ক্ষেত্রে লব্ধি বিস্তার নির্ভর করে পৃথক তরঙ্গগুলির বিস্তার এবং তাদের মধ্যেকার দশা পার্থক্যের উপর। দশা পার্থক্য যত বেশি হবে, লব্ধি বিস্তার তত কম হবে (যদি বিস্তার একই থাকে)। এক্ষেত্রে দশা পার্থক্য [math]60^\\circ[/math]\u003Cbr\u003E, যা একটি গুরুত্বপূর্ণ কোণ এবং [math]\\cos 60^\\circ = 1/2[/math]\u003Cbr\u003E মানটি সরলীকরণে সাহায্য করে।",
+        "explanation": "",
+        "correct_answer": "B.[math]5 \\sqrt{7}[/math] একক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 413488,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:52:43.000000Z",
+            "updated_at": "2025-08-19T06:52:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413487,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{v} t / \\pi[/math]",
+          "খ": "[math]\\mathrm{v} t / 2\\pi[/math]",
+          "গ": "[math]\\pi / 2 k[/math]",
+          "ঘ": "[math]\\pi / k[/math]"
+        },
+        "question": "দুটি অগ্রগামী তরঙ্গকে যথাক্রমে, [math]y_{1}=A \\sin (x-v t)[/math] এবং [math]y_{2}=A[/math] [math]\\sin k(x+v t)[/math]। কোনো মাধ্যমে উপরিপাতিত হলে পরপর দুটি নিস্পন্দ বিন্দুর মধ্যে দূরত্ব -",
+        "solution": "এখানে দুটি অগ্রগামী তরঙ্গের উপরিপাতনের ফলে স্থির তরঙ্গ সৃষ্টি হবে। স্থির তরঙ্গে পরপর দুটি নিস্পন্দ বিন্দুর (node) মধ্যে দূরত্ব তরঙ্গদৈর্ঘ্যের অর্ধেক ( [math]\\lambda/2[/math]\u003Cbr\u003E) এর সমান হয়।প্রদত্ত তরঙ্গ দুটি হলো:[math]y_{1}=A \\sin (x-v t)[/math]\u003Cbr\u003E [math]y_{2}=A \\sin k(x+v t)[/math]\u003Cbr\u003Eআমরা জানি, [math]y_{1}=A \\sin (kx - \\omega t)[/math]\u003Cbr\u003E এবং [math]y_{2}=A \\sin (kx + \\omega t)[/math]\u003Cbr\u003E আকারে লেখা যায়।এখানে, [math]k[/math]\u003Cbr\u003E হলো তরঙ্গ সংখ্যা (wave number)।প্রথম তরঙ্গ [math]y_{1}=A \\sin (x-v t)[/math]\u003Cbr\u003E কে [math]y_{1}=A \\sin (k_1x - \\omega_1 t)[/math]\u003Cbr\u003E আকারের সাথে তুলনা করলে, [math]k_1 = 1[/math]\u003Cbr\u003E এবং [math]\\omega_1 = v[/math]\u003Cbr\u003E হয়।দ্বিতীয় তরঙ্গ [math]y_{2}=A \\sin k(x+v t)[/math]\u003Cbr\u003E কে [math]y_{2}=A \\sin (k_2x + \\omega_2 t)[/math]\u003Cbr\u003E আকারের সাথে তুলনা করলে, [math]k_2 = k[/math]\u003Cbr\u003E এবং [math]\\omega_2 = kv[/math]\u003Cbr\u003E হয়।এই দুটি তরঙ্গের উপরিপাতনে স্থির তরঙ্গ সৃষ্টি হয়, যেখানে [math]k[/math]\u003Cbr\u003E (তরঙ্গ সংখ্যা) গুরুত্বপূর্ণ।পরপর দুটি নিস্পন্দ বিন্দুর মধ্যে দূরত্ব হয় [math]\\frac{\\lambda}{2}[/math]\u003Cbr\u003E।আমরা জানি, তরঙ্গ সংখ্যা [math]k = \\frac{2\\pi}{\\lambda}[/math]\u003Cbr\u003E।সুতরাং, [math]\\lambda = \\frac{2\\pi}{k}[/math]\u003Cbr\u003E।তাহলে, পরপর দুটি নিস্পন্দ বিন্দুর মধ্যে দূরত্ব হবে:[math]\\frac{\\lambda}{2} = \\frac{1}{2} \\times \\frac{2\\pi}{k} = \\frac{\\pi}{k}[/math]\u003Cbr\u003E।তাই, সঠিক উত্তর হলো [math]\\pi/k[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "D.[math]\\pi / k[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 413487,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:52:43.000000Z",
+            "updated_at": "2025-08-19T06:52:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413486,
+      "value": {
+        "options": {
+          "ক": "i ও iii",
+          "খ": "ii",
+          "গ": "i",
+          "ঘ": "iii"
+        },
+        "question": "স্থির তরঙ্গ সৃষ্টি হয় যখন —\n\ni. সমান তরঙ্গদৈর্ঘ্যবিশিষ্ট দুটি তরঙ্গ বিপরীত দিক থেকে এসে পরস্পরের উপর উপরি পতিত হয়\n\nii. সমান তরঙ্গদৈর্ঘ্যবিশিষ্ট দুটি তরঙ্গ একই দিকে ধাবমান হয়\n\niii. ভিন্ন তরঙ্গদৈর্ঘ্যবিশিষ্ট দুটি তরঙ্গ পরস্পরের উপর উপরি পতিত হয়\n\nনিচের কোনটি সঠিক?",
+        "solution": "স্থির তরঙ্গ সৃষ্টির জন্য দুটি শর্ত প্রয়োজন: তরঙ্গগুলির বিস্তার সমান হতে হবে (যদিও প্রশ্নে এটি উল্লেখ করা হয়নি, তবে এটি একটি সাধারণ নিয়ম), তরঙ্গদৈর্ঘ্য সমান হতে হবে এবং দুটি তরঙ্গ বিপরীত দিক থেকে এসে পরস্পরের উপর উপরিপাতিত হতে হবে। যখন দুটি সমান তরঙ্গদৈর্ঘ্যের এবং সমান বিস্তারের তরঙ্গ একই মাধ্যম দিয়ে বিপরীত দিকে অগ্রসর হয়, তখন তারা একে অপরের উপর উপরিপাতিত হয়ে স্থির তরঙ্গ সৃষ্টি করে। ভিন্ন তরঙ্গদৈর্ঘ্যের তরঙ্গ উপরিপাতিত হলে স্থির তরঙ্গ সৃষ্টি হয় না, বরং একটি জটিল তরঙ্গরূপ তৈরি হয়। একই দিকে ধাবমান দুটি তরঙ্গ স্থির তরঙ্গ সৃষ্টি করে না।\n\nTherefore, only statement (i) is correct.",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 413486,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:52:43.000000Z",
+            "updated_at": "2025-08-19T06:52:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413485,
+      "value": {
+        "options": {
+          "ক": "[math]a[/math]",
+          "খ": "[math]\\frac{3}{2} a[/math]",
+          "গ": "[math]2a[/math]",
+          "ঘ": "[math]4a[/math]"
+        },
+        "question": "a বিস্তার সম্পন্ন দুটি তরঙ্গের উপরিপাতনের ফলে সৃষ্ট লব্ধি তরঙ্গের সর্বোচ্চ বিস্তারের মান কত?",
+        "solution": "দুটি একই কম্পাঙ্কের তরঙ্গের উপরিপাতনের ফলে সৃষ্ট লব্ধি তরঙ্গের সর্বোচ্চ বিস্তার দুটি তরঙ্গের বিস্তারের যোগফলের সমান হয়। এক্ষেত্রে, প্রতিটি তরঙ্গের বিস্তার [math]a[/math]\u003Cbr\u003E, তাই লব্ধি তরঙ্গের সর্বোচ্চ বিস্তার হবে [math]a + a = 2a[/math]\u003Cbr\u003E । উপরিপাতনের ক্ষেত্রে, তরঙ্গের সাম্যাবস্থা থেকে সর্বোচ্চ বিচ্যুতিই হল বিস্তার। যখন দুটি তরঙ্গের শিখর একে অপরের উপর পড়ে, তখন বিস্তার সর্বোচ্চ হয়।",
+        "explanation": "",
+        "correct_answer": "C.[math]2a[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 413485,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:52:43.000000Z",
+            "updated_at": "2025-08-19T06:52:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413484,
+      "value": {
+        "options": {
+          "ক": "2A",
+          "খ": "0.5A",
+          "গ": "0",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "λ তরঙ্গদৈর্ঘ্য বিশিষ্ট দুইটি তরঙ্গের বিস্তার যথাক্রমে A এবং A/2। তরঙ্গদ্বয় 180° দশা বৈষম্য নিয়ে কোন মাধ্যমে আপতিত হলে যে নতুন তরঙ্গ সৃষ্টি হবে তার বিস্তার হবে-",
+        "solution": "দশা পার্থক্য = 180° অর্থাৎ‍ বিপরীত দশাসম্পন্ন। [math]\\therefore[/math]\u003Cbr\u003Eনতুন বিস্তার [math]=A-\\frac{A}{2}=\\frac{a}{2}=0.5 \\mathrm{~A}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 413484,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 77,
+          "full_name": "Khulna University (A Unit)",
+          "short_name": "KU-A",
+          "slug": "ku-a",
+          "pivot": {
+            "question_bank_id": 413484,
+            "tag_id": 77,
+            "year": "16-17",
+            "created_at": "2025-08-19T06:52:43.000000Z",
+            "updated_at": "2025-08-19T06:52:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413483,
+      "value": {
+        "options": {
+          "ক": "[math]y_m[/math]",
+          "খ": "[math]2y_m[/math]",
+          "গ": "[math]\\sqrt{2}y_m[/math]",
+          "ঘ": "[math]3 y_{m}[/math]"
+        },
+        "question": "[math]\\pi/2[/math] দশা পার্থক্যের দুটি সদৃশ অগ্র গামী তরঙ্গ একই দিকে ধাবিত হচ্ছে। যদি তরঙ্গ দুটির প্রত্যেকটির বিস্তার [math]Y_m[/math] হয়, তবে লব্ধি তরঙ্গটির বিস্তার হবে-",
+        "solution": "[math]y_{R}=\\sqrt{y_{m}^{2}+y_{m}^{2}+2 \\cdot y_{m} \\cdot y_{m} \\cdot \\cos \\left(\\frac{\\pi}{2}\\right)}=y_{m} \\sqrt{2}[/math]",
+        "explanation": "",
+        "correct_answer": "C.[math]\\sqrt{2}y_m[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 413483,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 413483,
+            "tag_id": 57,
+            "year": "19-20",
+            "created_at": "2025-08-19T06:52:43.000000Z",
+            "updated_at": "2025-08-19T06:52:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413482,
+      "value": {
+        "options": {
+          "ক": "তাদের একই তরঙ্গ দৈর্ঘ্য এবং দশা বিদ্যমান",
+          "খ": "তাদের বেগ একই হয়",
+          "গ": "তাদের বিস্তার একই হয়",
+          "ঘ": "তাদের তরঙ্গ দৈর্ঘ্য একই হয়"
+        },
+        "question": "দুটি তরঙ্গের মধ্যে বিস্তার ঘটে যখন-",
+        "solution": "কোন একটি কম্পমান বস্তু তার সাম্যাবস্থান হতে ডানে বা বামে অথবা উপরে বা নিচে যে সর্বাধিক দূরত্ব অতিক্রম করে তাকে এর বিস্তার বলে। দুটি তরঙ্গের মধ্যে বিস্তার ঘটে যখন তাদের একই তরঙ্গ দৈর্ঘ্য ও দশা বিদ্যমান।",
+        "explanation": "",
+        "correct_answer": "A. তাদের একই তরঙ্গ দৈর্ঘ্য এবং দশা বিদ্যমান"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 35,
+          "year": "2000-2001",
+          "pivot": {
+            "question_bank_id": 413482,
+            "year_id": 35
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 413482,
+            "tag_id": 18,
+            "year": "00-01",
+            "created_at": "2025-08-19T06:52:43.000000Z",
+            "updated_at": "2025-08-19T06:52:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413481,
+      "value": {
+        "options": {
+          "ক": "মুক্ত কম্পন",
+          "খ": "পরবশ কম্পন",
+          "গ": "অনুনাদ",
+          "ঘ": "স্বরকম্প"
+        },
+        "question": "শব্দের উপরিপাতন নীতির উপর ভিত্তি করে নিচের কোনটি ব্যাখ্যা করা যায়?",
+        "solution": "শব্দের উপরিপাতন নীতি (superposition principle) অনুসারে, একাধিক শব্দ তরঙ্গ একসাথে মিলিত হলে প্রতিটি তরঙ্গের পৃথক প্রভাবের বীজগাণিতিক যোগফলই হয় লব্ধি তরঙ্গের প্রভাব। এই নীতি অনুনাদ (resonance) ব্যাখ্যা করতে সরাসরি ব্যবহৃত হয় না। অনুনাদ ঘটে যখন কোনো বস্তুকে তার স্বাভাবিক কম্পাঙ্কের কাছাকাছি কম্পাঙ্কের কোনো বাহ্যিক বল দ্বারা চালিত করা হয়, ফলে বস্তুটি সর্বোচ্চ বিস্তারে কম্পিত হয়।\n\nঅন্যদিকে, মুক্ত কম্পন (free vibration) হল বাহ্যিক বল অপসারণের পর কোনো বস্তুর স্বাভাবিক কম্পাঙ্কে কম্পন। পরবশ কম্পন (forced vibration) হল বাহ্যিক বলের প্রভাবে বস্তুর কম্পন, যেখানে বাহ্যিক বলের কম্পাঙ্ক বস্তুর স্বাভাবিক কম্পাঙ্কের সমান বা কাছাকাছি হলে অনুনাদ ঘটে। স্বরকম্প (harmonic vibration) হল পর্যায়বৃত্ত কম্পন যা সাইন বা কোসাইন ফাংশন দ্বারা বর্ণনা করা যায়, এবং এদের উপরিপাতন একটি জটিল তরঙ্গ তৈরি করতে পারে।\n\nতাই, যদিও উপরিপাতন নীতির মাধ্যমে জটিল তরঙ্গ সৃষ্টি বা বিশ্লেষণ করা যায়, তবে সরাসরি এই নীতির উপর ভিত্তি করে বিশেষভাবে ব্যাখ্যা করা হয় স্বরকম্প। কারণ, বিভিন্ন মৌলিক সাইনুসয়েডাল তরঙ্গের (যা স্বরকম্পের বৈশিষ্ট্য) উপরিপাতনের ফলেই জটিল শব্দ বা তরঙ্গ সৃষ্টি হয়, যা ফুরিয়ার উপরিপাতন তত্ত্বের (Fourier analysis) মূল ভিত্তি।",
+        "explanation": "",
+        "correct_answer": "D.স্বরকম্প"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 413481,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 413481,
+            "tag_id": 18,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:52:43.000000Z",
+            "updated_at": "2025-08-19T06:52:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413480,
+      "value": {
+        "options": {
+          "A": "[math]Y=0.04 \\cos 5 \\pi x \\sin 100 \\pi t[/math]",
+          "B": "[math]Y=0.04 \\cos 5 \\pi x \\sin 200 \\pi t[/math]",
+          "C": "[math]Y=0.04 \\cos 5 \\pi x \\sin 300 \\pi t[/math]",
+          "D": "[math]Y=0.04 \\cos 5 \\pi x \\sin 400 \\pi t[/math]"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20PHY%2019%20bOard%20MCQ-'_8-d-%20(1).png?alt=media&token=4486db9f-5903-41c9-a74f-feea54c342a7\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রে একটি অগ্রগামী তরঙ্গ দেখানো হয়েছে।\n\nউদ্দীপকের তথ্যের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\nচিত্রে প্রদর্শিত তরঙ্গের অনুরূপ আরেকটি তরঙ্গ বিপরীত দিক হতে সঞ্চালিত হয়ে উদ্দীপকের তরঙ্গটির উপর আপতিত হয়ে যে তরঙ্গ সৃষ্টি করে [math]\\rm{x}[/math] দূরত্বে তার সমীকরণ—",
+        "solution": "তরঙ্গ অধ্যায়ন সংক্রান্ত প্রশ্নটিতে দুটি সম амплиচিউড ( [math]A=0.04[/math]\u003Cbr\u003E m) এবং সম কম্পাঙ্ক ( [math]f[/math]\u003Cbr\u003E) বিশিষ্ট অগ্রগামী তরঙ্গ যখন বিপরীত দিক থেকে এসে একে অপরের উপর আপতিত হয়, তখন স্থির তরঙ্গ (stationary wave) সৃষ্টি হয়। স্থির তরঙ্গের সাধারণ সমীকরণ হল [math]Y = 2A \\cos(kx) \\sin(\\omega t)[/math]\u003Cbr\u003E অথবা [math]Y = 2A \\sin(kx) \\cos(\\omega t)[/math]\u003Cbr\u003E।চিত্রে প্রদর্শিত অগ্রগামী তরঙ্গের সাধারণ সমীকরণ [math]y_1 = A \\sin(kx - \\omega t)[/math]\u003Cbr\u003E অথবা [math]y_1 = A \\cos(kx - \\omega t)[/math]\u003Cbr\u003E জাতীয় হবে। প্রশ্নে [math]Y=0.04 \\cos 5 \\pi x \\sin 100 \\pi t[/math]\u003Cbr\u003E এর মতো সমীকরণ দেওয়ায়, ধরে নিতে পারি যে প্রাথমিক তরঙ্গের সমীকরণ ছিল [math]y_1 = 0.02 \\cos(5\\pi x - \\omega t)[/math]\u003Cbr\u003E বা [math]y_1 = 0.02 \\sin(5\\pi x - \\omega t)[/math]\u003Cbr\u003E।যদি বিপরীত দিক থেকে আসা তরঙ্গের সমীকরণ [math]y_2 = 0.02 \\cos(5\\pi x + \\omega t)[/math]\u003Cbr\u003E হয়, তবে সুপারপজিশনের ফলে সৃষ্ট স্থির তরঙ্গের সমীকরণ হবে:[math]Y = y_1 + y_2 = 0.02 \\cos(5\\pi x - \\omega t) + 0.02 \\cos(5\\pi x + \\omega t)[/math]\u003Cbr\u003E [math]Y = 0.02 [ \\cos(5\\pi x - \\omega t) + \\cos(5\\pi x + \\omega t) ][/math]\u003Cbr\u003Etrigonometric identity [math]\\cos(A-B) + \\cos(A+B) = 2 \\cos A \\cos B[/math]\u003Cbr\u003E ব্যবহার করে পাই:[math]Y = 0.02 [ 2 \\cos(5\\pi x) \\cos(\\omega t) ][/math]\u003Cbr\u003E [math]Y = 0.04 \\cos(5\\pi x) \\cos(\\omega t)[/math]\u003Cbr\u003Eকিন্তু বিকল্পগুলিতে [math]\\sin(\\omega t)[/math]\u003Cbr\u003E আছে। তাই ধরে নিতে পারি, প্রাথমিক তরঙ্গের একটি সমীকরণ [math]y_1 = 0.02 \\sin(5\\pi x - \\omega t)[/math]\u003Cbr\u003E।বিপরীত দিক থেকে আসা তরঙ্গের সমীকরণ [math]y_2 = 0.02 \\sin(5\\pi x + \\omega t)[/math]\u003Cbr\u003E।[math]Y = y_1 + y_2 = 0.02 \\sin(5\\pi x - \\omega t) + 0.02 \\sin(5\\pi x + \\omega t)[/math]\u003Cbr\u003Etrigonometric identity [math]\\sin(A-B) + \\sin(A+B) = 2 \\sin A \\cos B[/math]\u003Cbr\u003E ব্যবহার করে পাই:[math]Y = 0.02 [ 2 \\sin(5\\pi x) \\cos(\\omega t) ][/math]\u003Cbr\u003E [math]Y = 0.04 \\sin(5\\pi x) \\cos(\\omega t)[/math]\u003Cbr\u003Eআবার, যদি অগ্রগামী তরঙ্গের সমীকরণ [math]y_1 = A \\sin(\\omega t - kx)[/math]\u003Cbr\u003E হয়, তবে বিপরীত দিক থেকে আসা তরঙ্গের সমীকরণ [math]y_2 = A \\sin(\\omega t + kx)[/math]\u003Cbr\u003E হবে।[math]Y = y_1 + y_2 = A \\sin(\\omega t - kx) + A \\sin(\\omega t + kx)[/math]\u003Cbr\u003E [math]Y = A [\\sin(\\omega t - kx) + \\sin(\\omega t + kx)][/math]\u003Cbr\u003Etrigonometric identity [math]\\sin(A-B) + \\sin(A+B) = 2 \\sin A \\cos B[/math]\u003Cbr\u003E ব্যবহার করে পাই:[math]Y = A [2 \\sin(\\omega t) \\cos(kx)][/math]\u003Cbr\u003E [math]Y = 2A \\sin(\\omega t) \\cos(kx)[/math]\u003Cbr\u003Eপ্রশ্নে প্রদর্শিত তরঙ্গের সাধারণ রূপ [math]Y = 0.04 \\cos(5\\pi x) \\sin(\\omega t)[/math]\u003Cbr\u003E ।এখানে [math]2A = 0.04[/math]\u003Cbr\u003E, সুতরাং [math]A=0.02[/math]\u003Cbr\u003E এবং [math]k = 5\\pi[/math]\u003Cbr\u003E.তরঙ্গের সমীকরণে [math]\\omega t[/math]\u003Cbr\u003E অর্থাৎ কম্পাঙ্ক [math]f[/math]\u003Cbr\u003E এর সাথে [math]t[/math]\u003Cbr\u003E এর গুণফল হল [math]\\omega[/math]\u003Cbr\u003E.বিকল্পগুলিতে [math]100\\pi t, 200\\pi t, 300\\pi t, 400\\pi t[/math]\u003Cbr\u003E রয়েছে।অর্থাৎ [math]\\omega = 100\\pi, 200\\pi, 300\\pi, 400\\pi[/math]\u003Cbr\u003E.প্রশ্নে 'চিত্রটি একটি অগ্রগামী তরঙ্গ দেখায়' বলা হয়েছে, কিন্তু চিত্রটি অনুপস্থিত। তবে, যে বিকল্পটি সঠিক বলে ধরা হচ্ছে, তা হলো A।যদি [math]\\omega = 100\\pi[/math]\u003Cbr\u003E হয়, তাহলে [math]Y = 0.04 \\cos(5\\pi x) \\sin(100\\pi t)[/math]\u003Cbr\u003E হয়।এই ক্ষেত্রে, [math]k = 5\\pi[/math]\u003Cbr\u003E এবং [math]\\omega = 100\\pi[/math]\u003Cbr\u003E.তরঙ্গের বেগ [math]v = \\frac{\\omega}{k} = \\frac{100\\pi}{5\\pi} = 20[/math]\u003Cbr\u003E m/s.সুতরাং, যদি একটি অগ্রগামী তরঙ্গের সমীকরণ [math]y = 0.02 \\sin(100\\pi t - 5\\pi x)[/math]\u003Cbr\u003E বা [math]y = 0.02 \\cos(5\\pi x - 100\\pi t)[/math]\u003Cbr\u003E জাতীয় হয়, তবে বিপরীত দিক থেকে আসা তরঙ্গের সাথে মিলিত হয়ে উপরিউক্ত স্থির তরঙ্গের সমীকরণ পাওয়া যাবে।যেহেতু প্রশ্নটি একটি নির্দিষ্ট চিত্র থেকে দেওয়া এবং চিত্রটি অনুপস্থিত, তাই কেবল সমীকরণের সাধারণ রূপ এবং বিকল্পগুলির উপর ভিত্তি করে উত্তর নির্বাচন করতে হবে। এখানে, [math]k[/math]\u003Cbr\u003E এর মান [math]5\\pi[/math]\u003Cbr\u003E স্থির রয়েছে, এবং [math]\\omega[/math]\u003Cbr\u003E এর বিভিন্ন মান দেওয়া আছে। যদি [math]\\omega = 100\\pi[/math]\u003Cbr\u003E হয়, তবে বিকল্প A সঠিক হবে।বিশেষভাবে, যদি একটি অগ্রগামী তরঙ্গের সমীকরণ [math]y_1 = 0.02 \\sin(100\\pi t - 5\\pi x)[/math]\u003Cbr\u003E হয়, তবে বিপরীত দিক থেকে আসা তরঙ্গের সমীকরণ [math]y_2 = 0.02 \\sin(100\\pi t + 5\\pi x)[/math]\u003Cbr\u003E হবে।[math]Y = y_1 + y_2 = 0.02[\\sin(100\\pi t - 5\\pi x) + \\sin(100\\pi t + 5\\pi x)][/math]\u003Cbr\u003E [math]Y = 0.02 [2 \\sin(100\\pi t) \\cos(5\\pi x)][/math]\u003Cbr\u003E [math]Y = 0.04 \\sin(100\\pi t) \\cos(5\\pi x)[/math]\u003Cbr\u003Eএই সমীকরণটি বিকল্প A এর অনুরূপ, কেবল [math]\\sin[/math]\u003Cbr\u003E এবং [math]\\cos[/math]\u003Cbr\u003E এর অবস্থান পরিবর্তিত।যদি প্রাথমিক তরঙ্গের সমীকরণ [math]y_1 = 0.02 \\cos(5\\pi x - 100\\pi t)[/math]\u003Cbr\u003E হয়, তবে [math]y_2 = 0.02 \\cos(5\\pi x + 100\\pi t)[/math]\u003Cbr\u003E হবে।[math]Y = y_1 + y_2 = 0.02[\\cos(5\\pi x - 100\\pi t) + \\cos(5\\pi x + 100\\pi t)][/math]\u003Cbr\u003E [math]Y = 0.02[2 \\cos(5\\pi x) \\cos(100\\pi t)][/math]\u003Cbr\u003E [math]Y = 0.04 \\cos(5\\pi x) \\cos(100\\pi t)[/math]\u003Cbr\u003Eসুতরাং, যেহেতু বিকল্প A এ [math]Y=0.04 \\cos 5 \\pi x \\sin 100 \\pi t[/math]\u003Cbr\u003E দেওয়া আছে, এটি একটি স্থির তরঙ্গের সমীকরণ যেখানে [math]\\cos(kx)[/math]\u003Cbr\u003E অংশটি অবস্থান এবং [math]\\sin(\\omega t)[/math]\u003Cbr\u003E অংশটি সময় নির্ভর। এটি একটি নির্দিষ্ট ধরনের স্থির তরঙ্গের সাধারণ রূপ। [math]k=5\\pi[/math]\u003Cbr\u003E এবং [math]\\omega=100\\pi[/math]\u003Cbr\u003E এই মানগুলির জন্য বিকল্প A সঠিক। অন্য বিকল্পগুলিতে [math]\\omega[/math]\u003Cbr\u003E এর মান ভিন্ন, যা ভিন্ন কম্পাঙ্কের নির্দেশ করে।অতএব, প্রদত্ত বিকল্পগুলির মধ্যে, [math]Y=0.04 \\cos 5 \\pi x \\sin 100 \\pi t[/math]\u003Cbr\u003E একটি স্থির তরঙ্গের প্রতিনিধিত্ব করে, যেখানে [math]\\cos(kx)[/math]\u003Cbr\u003E পদটি নোড এবং অ্যান্টি-নোডের অবস্থান নির্দেশ করে এবং [math]\\sin(\\omega t)[/math]\u003Cbr\u003E পদটি সময়ের সাথে বিস্তার পরিবর্তন নির্দেশ করে। এখানে [math]k = 5\\pi[/math]\u003Cbr\u003E এবং [math]\\omega = 100\\pi[/math]\u003Cbr\u003E.চূড়ান্ত উত্তর হিসেবে, বিকল্প A সঠিক কারণ এটি স্থির তরঙ্গের সাধারণ রূপ [math]Y = 2A \\cos(kx) \\sin(\\omega t)[/math]\u003Cbr\u003E অথবা [math]Y = 2A \\sin(kx) \\cos(\\omega t)[/math]\u003Cbr\u003E এর সাথে সামঞ্জস্যপূর্ণ। এখানে [math]2A=0.04[/math]\u003Cbr\u003E, [math]k=5\\pi[/math]\u003Cbr\u003E, এবং [math]\\omega=100\\pi[/math]\u003Cbr\u003E. স্থির তরঙ্গের গঠনে দুটি অগ্রগামী তরঙ্গের উপরিপাতন ঘটে, যেখানে একটি তরঙ্গের সমীকরণ [math]y_1 = A \\sin(\\omega t - kx)[/math]\u003Cbr\u003E এবং অন্যটির [math]y_2 = A \\sin(\\omega t + kx)[/math]\u003Cbr\u003E হলে, তাদের যোগফল [math]Y = 2A \\sin(\\omega t) \\cos(kx)[/math]\u003Cbr\u003E হয়। বিকল্প A তে এই রূপটি রয়েছে।",
+        "explanation": "",
+        "correct_answer": "A.[math]Y=0.04 \\cos 5 \\pi x \\sin 100 \\pi t[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 413480,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 413480,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 413480,
+            "tag_id": 4,
+            "year": "2017",
+            "created_at": "2025-08-19T06:52:43.000000Z",
+            "updated_at": "2025-08-19T06:52:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 413479,
+      "value": {
+        "options": {
+          "A": "i ও ii",
+          "B": "ii ও iii",
+          "C": "i ও iii",
+          "D": "i, ii ও iii"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20PHY%2019%20bOard%20MCQ-'_5--.png?alt=media&token=83755ba3-02fd-424b-9ff9-20c80784597f\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nউদ্দীপকের চিত্রের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\nউদ্দীপকটির ক্ষেত্রে প্রযোজ্য—\n\n[math]\\hspace{2 cm}[/math]i. এটি একটি স্থির তরঙ্গ\n\n[math]\\hspace{2 cm}[/math]ii. দুটি অগ্রগামী তরঙ্গের দ্বারা সৃষ্ট\n\n[math]\\hspace{2 cm}[/math]iii. এক লুপের শক্তি অন্য লুপে স্থানান্তরিত হয়\n\n[math]\\hspace{1 cm}[/math]নিচের কোনটি সঠিক?",
+        "solution": "দুটি সদৃশ তরঙ্গ পরস্পর বিপরীত দিক থেকে এসে উপরিপাতিত হলে স্থির তরঙ্গের উদ্ভব হয়।স্থির তরঙ্গ তথ্য ও শক্তি স্থানান্তর করে না বিধায় এদের এরূপ নামকরণ হয়েছে।স্থির তরঙ্গ সৃষ্টিকারী মূল তরান্বয়ের বিস্তার, কম্পাঙ্ক, তরঙ্গদৈর্ঘ্য ও তরঙ্গ বেগ সমান থাকে।",
+        "explanation": "",
+        "correct_answer": "A.i ও ii"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 413479,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 413479,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 413479,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T06:52:42.000000Z",
+            "updated_at": "2025-08-19T06:52:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6588&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6588&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6588&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 32,
+  "total": 32
+}

@@ -1,0 +1,2141 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 425833,
+      "value": {
+        "options": {
+          "ঘ": "[math]PQ[/math] তারে প্রবাহ বিপরীতমুখী করলে [math]ABCD[/math] বর্গের উপর প্রযুক্ত বলের কিরূপ পরিবর্তন হবে— গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "[math]5[/math] অ্যাম্পিয়ার তড়িৎবাহী একটি বর্গাকার কুণ্ডলী [math]ABCD[/math] যার প্রতি বাহুর দৈর্ঘ্য [math]15\\ cm[/math] এর সাথে একই তলে এবং পার্শ্ববর্তী বাহু [math]AD[/math] হতে [math]5\\ cm[/math] দূরে একটি অতি দীর্ঘ [math]10[/math] অ্যাম্পিয়ার তড়িৎবাহী তার [math]AD[/math] এর সমান্তরালে রাখা আছে।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-28_1755588891_qePwIIA9.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক অনুসারে, ABCD বর্গের প্রতি একক দৈর্ঘ্যের উপর প্রযুক্ত বল[math]\\begin{array}{l}=\\frac{\\mu_{0} i_{1} i_{2}}{2 \\pi \\mathrm{r}} \\\\=\\frac{4 \\pi \\times 10^{-7} \\times 5 \\times 10}{2 \\pi \\times 0.05} \\\\=2 \\times 10^{-4} \\cdot \\mathrm{N} \\mathrm{m}^{-1}\\end{array}[/math]এর দিক PQ এর দিকে।PQ এর প্রবাহের দিক পরিবর্তন করলে বলের মান একই হবে কিন্তু বলের দিক হবে PQ এর বিপরীত দিকে।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কেসে বর্গের দুইটি সমান্তরাল বাহু (AD ও BC)–এর উপর মাত্রা অনুযায়ী বল আছে; মোট বলের অভিব্যক্তি হল  \n[math]F_{\\rm net}=\\frac{\\mu_0 I_{\\rm coil} I_{\\rm wire} L}{2\\pi}\\Big(\\frac{1}{r_{AD}}-\\frac{1}{r_{BC}}\\Big)[/math]. এখানে [math]r_{AD}=0.05\\ \\text{m},\\ r_{BC}=0.20\\ \\text{m},\\ I_{\\rm coil}=5\\ \\text{A},\\ I_{\\rm wire}=10\\ \\text{A},\\ L=0.15\\ \\text{m}[/math], ফলে  \n[math]F_{\\rm net}=2.25\\times10^{-5}\\ \\text{N}[/math]. যদি PQ তারে প্রবাহের দিক উল্টে যায় (অর্থাৎ [math]I_{\\rm wire}\\to -I_{\\rm wire}[/math]) তাহলে [math]F_{\\rm net}[/math]–এর চিহ্ন উল্টে যাবে কিন্তু মান অপরিবর্তিত থাকবে (মাত্র [math]2.25\\times10^{-5}\\ \\text{N}[/math], কেবল দিক বিপরীত)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425833,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1190,
+          "full_name": "Sylhet MC College",
+          "short_name": "SMC",
+          "slug": "smc",
+          "pivot": {
+            "question_bank_id": 425833,
+            "tag_id": 1190,
+            "year": "2020",
+            "created_at": "2025-08-19T07:34:51.000000Z",
+            "updated_at": "2025-08-19T07:34:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425832,
+      "value": {
+        "options": {
+          "ঘ": "[math]B[/math] তারের প্রবাহ বিপরীতমুখী করলে [math]P[/math] বিন্দুতে চৌম্বকক্ষেত্র পরিবর্তন হবে কী? গাণিতিকভাবে মতামত ব্যাখ্যা কর।"
+        },
+        "question": "চিত্রে সমান্তরাল [math]3\\ m[/math] সমদৈর্ঘ্যের প্রবাহবাহী দুটি পরিবাহীর মধ্যবর্তী দূরত্ব [math]6\\ cm[/math]। [math]P[/math] বিন্দুটি তার দুটির মধ্যবিন্দুতে অবস্থিত।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-25_1755588890_eRyixdcC.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E১ম ক্ষেত্রে, [math]I_1 = 5 A; I_2 = 8A[/math]\u003Cbr\u003E [math]\\mathrm{a}=\\frac{6}{2}=3 \\mathrm{~cm}=3 \\times 10^{-2} \\mathrm{~m}[/math]\u003Cbr\u003EA তারে তড়িৎ প্রবাহের জন্য P বিন্দুতে চৌম্বক ক্ষেত্রের মান,[math]\\mathrm{B}_{1}=\\frac{\\mu_{0} \\mathrm{I}_{1}}{2 \\pi \\mathrm{a}}=\\frac{4 \\pi \\times 10^{-7} \\times 5}{2 \\pi \\times 3 \\times 10^{-2}}=3.33 \\times 10^{-5} \\mathrm{~T}[/math]\u003Cbr\u003E [math]B_1[/math]\u003Cbr\u003E এর দিক ঘড়ির কাঁটার দিকেB তারে তড়িৎ প্রবাহের জন্য P বিন্দুতে চৌম্বক ক্ষেত্রের মান,[math]\\mathrm{B}_{2}=\\frac{\\mu_{0} \\mathrm{I}_{2}}{2 \\pi \\mathrm{a}}=\\frac{4 \\pi \\times 10^{-7} \\times 8}{2 \\pi \\times 3 \\times 10^{-2}}=5.33 \\times 10^{-5} \\mathrm{~T}[/math]\u003Cbr\u003E [math]B_2[/math]\u003Cbr\u003E এর দিক ঘড়ির কাঁটার বিপরীত দিকে[math]\\therefore[/math]\u003Cbr\u003E P বিন্দুতে লব্ধি চৌম্বক ক্ষেত্রের মান,[math]\\mathrm{B}=\\mathrm{B}_{2}-\\mathrm{B}_{1}=5.33 \\times 10^{-5}-3.33 \\times 10^{-5}=2 \\times 10^{-5} \\mathrm{~T}[/math]\u003Cbr\u003E২য় ক্ষেত্রে, B তারের প্রবাহ বিপরীতমুখী করলে [math]B_2[/math]\u003Cbr\u003E এর দিক ঘড়ির কাঁটার দিকে হবে[math]\\therefore[/math]\u003Cbr\u003E ২য় ক্ষেত্রে P বিন্দুতে লব্ধি চৌম্বক ক্ষেত্রের মান[math]\\mathrm{B}^{\\prime}=\\mathrm{B}_{1}+\\mathrm{B}_{2}\\\\\\mathrm{B}^{\\prime}=3.33 \\times 10^{-5}+5.33 \\times 10^{-5}=8.66 \\times 10^{-5} \\mathrm{~T}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E B তারের প্রবাহ বিপরীতমুখী করলেP বিন্দুতে চৌম্বক ক্ষেত্রের পরিবর্তন হবে[math]\\begin{array}{l}=\\left(8.66 \\times 10^{-5}-2 \\times 10^{-5}\\right) \\mathrm{T} \\\\=6.66 \\times 10^{-5} \\mathrm{~T}\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রতিটি তারে P বিন্দুতে উৎপাদিত চৌম্বকক্ষেত্রের মান [math]B_1=\\frac{\\mu_0 I}{2\\pi r}[/math], যেখানে [math]r=\\tfrac{6\\ \\text{cm}}{2}=3\\ \\text{cm}=0.03\\ \\text{m}[/math]. যদি প্রথমে দুই তারের প্রবাহ একই দিকের হলে তাদের ক্ষেত্রগুলো বিপরীত দিকের হয়ে মিলিয়ে শূন্য হবে; B তারের প্রবাহ উল্টালে তাদের ক্ষেত্র একই দিকে যোগ করবে এবং মোট হবে [math]B_{\\rm net}=2B_1=\\frac{\\mu_0 I}{\\pi r}[/math] (দিকটি রাইট‑হ্যান্ড রুল অনুযায়ী নির্ধারিত)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425832,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3479,
+          "full_name": "Chittagong Government Women's College",
+          "short_name": "CGWC",
+          "slug": "cgwc",
+          "pivot": {
+            "question_bank_id": 425832,
+            "tag_id": 3479,
+            "year": "2020",
+            "created_at": "2025-08-19T07:34:50.000000Z",
+            "updated_at": "2025-08-19T07:34:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425831,
+      "value": {
+        "options": {
+          "গ": "[math]A[/math] তারের প্রতি একক দৈর্ঘ্যের চৌম্বকবলের মান কত?"
+        },
+        "question": "চিত্রে সমান্তরাল [math]3\\ m[/math] সমদৈর্ঘ্যের প্রবাহবাহী দুটি পরিবাহীর মধ্যবর্তী দূরত্ব [math]6\\ cm[/math]। [math]P[/math] বিন্দুটি তার দুটির মধ্যবিন্দুতে অবস্থিত।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-25_1755588889_9R85QO1p.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে, [math]I_1 = 5 A; I_2 = 8A[/math]\u003Cbr\u003E [math]r = 6 cm = 6 \\times 10^{-2} m; l = 1[/math]\u003Cbr\u003E এককএকক দৈর্ঘ্যে চৌম্বকবল, [math]F_m = ?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{l}\\mathrm{F}_{\\mathrm{m}}=\\frac{\\mu_{0} \\mathrm{I}_{1} \\mathrm{I}_{2} l}{2 \\pi \\mathrm{r}}=\\frac{4 \\pi \\times 10^{-7} \\times 5 \\times 8 \\times 1}{2 \\pi \\times 6 \\times 10^{-2}} \\\\\\therefore \\mathrm{F}_{\\mathrm{m}}=1.33 \\times 10^{-4} \\mathrm{~N} \\mathrm{~m}^{-1}\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমান্তরাল দুই তারের মধ্যে প্রতি একক দৈর্ঘ্যের চৌম্বকবল (force per unit length) নিদিষ্ট সূত্র [math]F/L=\\dfrac{\\mu_0 I_1 I_2}{2\\pi d}[/math] দ্বারা গণনা করা যায়; এখানে [math]I_1=I_2=3\\ \\mathrm{A}[/math] এবং [math]d=0.06\\ \\mathrm{m}[/math]. তাই [math]F/L=\\dfrac{4\\pi\\times10^{-7}\\times3\\times3}{2\\pi\\times0.06}=3\\times10^{-5}\\ \\mathrm{N/m}[/math] (একই দিকে প্রবাহ করলে আকর্ষণীয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425831,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3479,
+          "full_name": "Chittagong Government Women's College",
+          "short_name": "CGWC",
+          "slug": "cgwc",
+          "pivot": {
+            "question_bank_id": 425831,
+            "tag_id": 3479,
+            "year": "2020",
+            "created_at": "2025-08-19T07:34:49.000000Z",
+            "updated_at": "2025-08-19T07:34:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425830,
+      "value": {
+        "options": {
+          "ঘ": "প্রদত্ত চিত্রের [math]O[/math] বিন্দুতে না-কি সমান্তরাল পরিবাহী দুটির মধ্যবিন্দুতে চৌম্বক ক্ষেত্রের মান বেশি গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "একই তলে অবস্থিত সমকেন্দ্রিক দুটি পরিবাহী লুপের মধ্যদিয়ে চিত্রের ন্যায় বিপরীত অভিমুখে সমমানের [math](2\\ amp)[/math] তড়িৎ প্রবাহিত করা হলো। অতঃপর পরিবাহী লুপ দুটিকে সোজা করে পরস্পরের সমান্তরালে 20cm দূরে স্থাপন করে বিপরীত অভিমুখে একই মানের তড়িৎ প্রবাহিত করা হলো। (যেখানে [math]r_{1}=20 \\mathrm{~cm}[/math] এবং [math]r_{2}=40 \\mathrm{~cm}[/math])\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-23_1755588887_VjiCxHiA.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eগোলকের পরিবাহী লুপ দুটির পরিধি হবে যথাকমে,[math]l_1 = 2\\pi r_1[/math]\u003Cbr\u003E ও [math]l_2 = 2\\pi r_2[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পরিবাহী দুটিকে সমান্তরালে সাজালে নিম্নরূপ চিত্র হবে-\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2frsz-screenshot-1-removebg-preview_1755588888_qMWvbJRX.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখন, [math]l_1[/math]\u003Cbr\u003E পরিবাহির জন্য O বিন্দুতে চৌম্বক ক্ষেত্ৰ,তড়িৎ প্রবাহ, I = 2A, দূরত্ব, [math]a_1 = 10 cm = 0.1m[/math]\u003Cbr\u003E [math]\\begin{aligned}\\mathrm{B}_{1} & =\\frac{\\mu_{0} \\mathrm{I}}{2 \\pi \\mathrm{a}_{1}} \\\\& =\\frac{4 \\pi \\times 10^{-7} \\times 2}{2 \\pi \\times 0.1} \\mathrm{~T} \\\\\\Rightarrow \\mathrm{B}_{1} & =40 \\times 10^{-7} \\mathrm{~T}\\end{aligned}[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, I = 2A, দূরত্ব, [math]a_2 = 10 cm = 0.1m[/math]\u003Cbr\u003Eএবং [math]l_2[/math]\u003Cbr\u003E পরিবাহির জন্য O বিন্দুতে চৌম্বক ক্ষেত্র,[math]\\begin{aligned}\\mathrm{B}_{2} & =\\frac{\\mu_{0} \\mathrm{I}}{2 \\pi \\mathrm{a}_{2}} \\\\& =\\frac{4 \\pi \\times 10^{-7} \\times 2}{2 \\pi \\times 0.1} \\mathrm{~T} \\\\\\Rightarrow \\mathrm{B}_{2} & =40 \\times 10^{-7} \\mathrm{~T}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E O বিন্দুতে মোট চৌম্বকক্ষেত্রে মান,[math]\\begin{aligned}\\mathrm{B} & =\\mathrm{B}_{1}+\\mathrm{B}_{2} \\\\& =\\left(40 \\times 10^{-7}+40 \\times 10^{-7}\\right) \\mathrm{T} \\\\& =80 \\times 10^{-7} \\mathrm{~T} \\\\& =8 \\times 10^{-6} \\mathrm{~T}\\end{aligned}[/math]\u003Cbr\u003Eসুতরাং আমরা ‘গ’ হতে প্রাপ্ত চৌম্বক ক্ষেত্র B এর মান এবং সমান্তরাল পরিবাহির মধ্যবিন্দুতে চৌম্বক ক্ষেত্রের মানের তুলনা থেকে পাই যে, বৃত্তাকার পরিবাহী কেন্দ্রের চৌম্বক ক্ষেত্রের মান বেশি।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মূল অবস্থায় কেন্দ্র O‑তে নেট চৌম্বক ক্ষেত্রের মান হচ্ছে [math]B_{O}=\\frac{\\mu_{0}I}{2}\\Big(\\frac{1}{r_{1}}-\\frac{1}{r_{2}}\\Big)[/math] (কেননা সমকেন্দ্রিক লুপ দুটির ক্ষেত্র বিপরীত দিকের ফলে পার্থক্য হিসেবে থাকে)। লুপ দুটোকে পরস্পর সমান্তরালে [math]20\\ \\text{cm}[/math] দূরে রেখেই মাঝবিন্দুতে ক্ষেত্র হচ্ছে [math]B_{m}=\\frac{\\mu_{0}I}{2}\\Big(\\frac{r_{1}^{2}}{(r_{1}^{2}+x^{2})^{3/2}}-\\frac{r_{2}^{2}}{(r_{2}^{2}+x^{2})^{3/2}}\\Big)[[/math] যেখানে [math]x=0.1\\ \\text{m}[/math], এবং সংখ্যাগতভাবে [math]B_{O}\u003EB_{m}[/math]; অতএব O‑তে ক্ষেত্র বেশি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425830,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3443,
+          "full_name": "Rajshahi Govt. Women's College. Rajshahi",
+          "short_name": "RGWC",
+          "slug": "rgwc",
+          "pivot": {
+            "question_bank_id": 425830,
+            "tag_id": 3443,
+            "year": "2020",
+            "created_at": "2025-08-19T07:34:48.000000Z",
+            "updated_at": "2025-08-19T07:34:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425829,
+      "value": {
+        "options": {
+          "গ": "একক দৈর্ঘ্যের ক্রিয়াশীল বলের মান কত?"
+        },
+        "question": "চিত্রে প্রদর্শিত দুটি সমান্তরাল তারের মধ্য দিয়ে যথাক্রমে [math]2 A[/math] ও [math]3 A[/math] তড়িৎ প্রবাহিত হচ্ছে। [math]AB[/math] ও [math]CD[/math] তারের দৈর্ঘ্য [math]10\\ m[/math] এবং [math]20\\ m[/math]।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-22_1755588885_UmQ6JVzN.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\begin{array}{l}\\mathrm{I}_{1}=2 \\mathrm{~A} \\\\\\mathrm{I}_{2}=3 \\mathrm{~A} \\\\l_{1}=10 \\mathrm{~m} \\\\l_{2}=20 \\mathrm{~m} \\\\\\mathrm{~d}=5 \\mathrm{~m} \\\\\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1} \\\\\\mathrm{~F}=?\\end{array}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned}F & =\\frac{\\mu I_{1} I_{2}}{2 \\pi d} \\\\& =\\frac{4 \\pi \\times 10^{-7} \\times 2 \\times 3}{2 \\pi \\times 5} \\\\& =2.4 \\times 10^{-7} \\mathrm{~N}\\end{aligned}[/math]\u003Cbr\u003Eঅতএব, একক দৈর্ঘ্যে ক্রিয়াশীল বল [math]2.4 \\times 10^{-7} \\mathrm{~N}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E একক দৈর্ঘ্যের ক্রিয়াশীল বলের মান দেওয়া হয় [math]f=\\dfrac{\\mu_0 I_1 I_2}{2\\pi r}[/math], এখানে [math]I_1=2\\ \\text{A},\\ I_2=3\\ \\text{A}[/math] হলে [math]f=\\dfrac{\\mu_0\\times2\\times3}{2\\pi r}=\\dfrac{3\\mu_0}{\\pi r}[/math]. AB ও CD এর মোট দৈর্ঘ্য এই একক-দৈর্ঘ্যের মানে প্রভাব ফেলে না; তাছাড়া দুইটি তারে প্রবাহ একই দিক হলে আকর্ষণ এবং বিপরীত দিক হলে প্রত্যাহারী বল হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 425829,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3535,
+          "full_name": "GRCF",
+          "short_name": "GRCF",
+          "slug": "grcf",
+          "pivot": {
+            "question_bank_id": 425829,
+            "tag_id": 3535,
+            "year": "2020",
+            "created_at": "2025-08-19T07:34:45.000000Z",
+            "updated_at": "2025-08-19T07:34:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425828,
+      "value": {
+        "options": [],
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun201620202-4_1755588884_vsEUkNRc.png\" alt=\"\"\u003E\u003Cbr/\u003E\n\nগ. তার দুটির প্রতি একক দৈর্ঘ্যে ক্রিয়াশীল বল কত হবে?",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর : 7.2 × [math]10^{-7} Nm^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E একটি অসীম সরল তার d দুরত্বে চৌম্বকক্ষেত্র সৃষ্টি করে যা [math]B=\\frac{\\mu_0 I_1}{2\\pi d}[/math]। অন্য তার উপর দীর্ঘতা L ও প্রবাহ [math]I_2[/math] থাকলে সেই ক্ষেত্রের কারণে বল [math]F=I_2LB[/math] হবে, ফলে প্রতি একক দৈর্ঘ্যে [math]\\displaystyle \\frac{F}{L}=\\frac{\\mu_0 I_1I_2}{2\\pi d}[/math]। একই দিকের প্রবাহ হলে তারা আকর্ষণ করে, বিপরীত হলে পরস্পর প্রত্যাহিত করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425828,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:34:44.000000Z",
+            "updated_at": "2025-08-19T07:34:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425827,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকে তারদ্বয়ের মধ্য বিন্দু P-তে লব্ধি চৌম্বক ক্ষেত্রের মান ও দিক নির্ণয় করো।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2014202-4_1755588883_5o6XyEJH.png\" alt=\"\"\u003E\u003Cbr/\u003E\n\nওপরের চিত্র লক্ষ করো এবং নিম্নের প্রশ্নগুলোর উত্তর দাও :",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউত্তর : 1.667 × [math]10^{-5}[/math] T, দিক হল প্রশ্নের সমতল থেকে উপরের দিকে ।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রতিটি তার থেকে P-র দূরত্ব ধরলে প্রতিটি তারের তৈরি চৌম্বক ক্ষেত্রের মান [math]B_i=\\dfrac{\\mu_0 I_i}{2\\pi d}[/math] হয়। তাই লব্ধি ক্ষেত্রের পরিমাপ হবে [math]B=\\dfrac{\\mu_0}{2\\pi d}\\big|I_1-I_2\\big|[/math] এবং দিক নির্ণয়ের জন্য রাইট-হ্যান্ড রুল প্রয়োগ করো — যদি দুইটির ক্ষেত্র বিপরীত দিকের হয় তাহলে বড় কারেন্টের ক্ষেত্রের দিকটিই লব্ধি ক্ষেত্রে থাকবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425827,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:34:43.000000Z",
+            "updated_at": "2025-08-19T07:34:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425826,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে তার দুটির একক দৈর্ঘ্যে ক্রিয়াশীল বলের মান নির্ণয় করো।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2014202-4_1755588882_pGVPfgv1.png\" alt=\"\"\u003E\u003Cbr/\u003E\n\nওপরের চিত্র লক্ষ করো এবং নিম্নের প্রশ্নগুলোর উত্তর দাও :",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর: 8.33 × [math]10^{-5} Nm^{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দুটি ধারাবাহিক তার একে অপরের তৈরি চৌম্বকক্ষেত্রের মধ্যে অবস্থান করে; একটি তারের কাছাকাছি দূরত্বে অন্য তারের উপর চৌম্বক বল দিয়ে থাকে। একটি লম্বা সরল ধারায় দূরত্ব [math]d[/math] এ বায়োট–সাভার সূত্র অনুযায়ী চৌম্বক ক্ষেত্রের মান [math]B=\\dfrac{\\mu_0 I_1}{2\\pi d}[/math] এবং তাই অন্য তারে একক দৈর্ঘ্যে ক্রিয়াশীল বলের মান হয় [math]f=I_2B=\\dfrac{\\mu_0 I_1I_2}{2\\pi d}[/math]; একই দিশায় প্রবাহিত হলে আকর্ষণ এবং বিপরীতে প্রতিকর্ষণ হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425826,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:34:42.000000Z",
+            "updated_at": "2025-08-19T07:34:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425825,
+      "value": {
+        "options": {
+          "ঘ": "[math]B[/math]-তারের প্রবাহ বিপরীতমুখী করলে [math]P[/math] বিন্দুতে চৌম্বকক্ষেত্র পরিবর্তিত হবে কি? গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2013202-4_1755588881_squ8ttj9.png\" alt=\"\"\u003E\u003Cbr/\u003E\n\nচিত্রে পরস্পরের সমান্তরালে [math]10m[/math] সমদৈর্ঘ্যের প্রবাহধারী দুটি পরিবাহ মধ্যবর্তী দূরত্ব [math]5cm[/math] । [math]P[/math] বিন্দুটি তাঁর দুটির মধ্যবিন্দুতে অবস্থিত।\n\n[math]\\left(\\mu_{0}=4 \\times 10^{-7} \\mathrm{TmA}^{-1}\\right)[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,A-তারে তড়িৎ প্রবাহ, [math]i_1[/math]\u003Cbr\u003E = 12AB-তারে তড়িৎ প্রবাহ, [math]i_2[/math]\u003Cbr\u003E = 15Aতারদ্বয়ের মধ্যবর্তী দূরত্ব, r = 5cm = 0.05mA তার হতে P বিন্দুর দূরত্ব = B তার হতে P বিন্দুর দূরত্ব, d = 0.025mA তারের জন্য P বিন্দুর চৌম্বকক্ষেত্রের প্রাবল্য,[math]\\begin{aligned}\\mathrm{B}_{1}=\\frac{\\mu_{0} \\mathrm{i}_{1}}{2 \\pi \\mathrm{d}} & =\\frac{4 \\pi \\times 10^{-7} \\mathrm{~Wb} / \\mathrm{mA} \\times 12 \\mathrm{~A}}{2 \\pi \\times 0.025} \\\\& =9.6 \\times 10^{-5} \\mathrm{~Wb} / \\mathrm{m}^{23}\\end{aligned}[/math]\u003Cbr\u003Eফ্লেমিং এর ডানহস্ত নিয়মানুযায়ী, B, এর দিক কাগজ তলের লম্ব বরাবর ভেতরের দিকে ।আবার,B তারের জন্য P বিন্দুতে চৌম্বকক্ষেত্রের প্রাবল্য, [math]\\begin{aligned}\\mathrm{B}_{2}=\\frac{\\mu_{0} \\mathrm{i}_{1}}{2 \\pi \\mathrm{d}} & =\\frac{4 \\pi \\times 10^{-7} \\mathrm{~Wb} / \\mathrm{Am} \\times 15 \\mathrm{~A}}{2 \\pi \\times 0.025 \\mathrm{~m}} \\\\& =1.2 \\times 10^{-4} \\mathrm{~Wb} / \\mathrm{m}^{2}\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হ্যাঁ, পরিবর্তিত হবে। একটি সমদৈর্ঘ্য সরল তারের মাধ্যমে দূর [math]d[/math]-এ চৌম্বকক্ষেত্র (কেন্দ্রীয় বিন্দুতে) হলো [math]B_{\\text{single}}=\\frac{\\mu_0 I}{2\\pi d}\\sin\\theta[/math], যেখানে [math]\\sin\\theta=\\dfrac{L/2}{\\sqrt{(L/2)^2+d^2}}[/math]. P-এ দুই তারের থেকে ক্ষেত্রের মান সমান হলেও একই দিকের প্রবাহ থাকলে ক্ষেত্রের দিক বিপরীত হয়ে পরস্পরের নিকটস্থ স্থানটিতে শূন্য হয় ([math]B_{\\text{net}}=B_A-B_B=0[/math]); B-তারের প্রবাহ বিপরীত করলে ক্ষেত্র দুটো একই দিকে হয় এবং যোগ হয়ে যায়, ফলে [math]B_{\\text{net}}=2B_{\\text{single}}=\\frac{\\mu_0 I}{\\pi d}\\sin\\theta[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425825,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:34:41.000000Z",
+            "updated_at": "2025-08-19T07:34:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425824,
+      "value": {
+        "options": {
+          "গ": "[math]A[/math] তারের প্রতি একক দৈর্ঘ্যে চৌম্বক বলের মান কত?"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2013202-4_1755588881_aH11jFaG.png\" alt=\"\"\u003E\u003Cbr/\u003E\n\nচিত্রে পরস্পরের সমান্তরালে [math]10m[/math] সমদৈর্ঘ্যের প্রবাহধারী দুটি পরিবাহ মধ্যবর্তী দূরত্ব [math]5cm[/math] । [math]P[/math] বিন্দুটি তাঁর দুটির মধ্যবিন্দুতে অবস্থিত।\n\n[math]\\left(\\mu_{0}=4 \\times 10^{-7} \\mathrm{TmA}^{-1}\\right)[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর: 7.2 × [math]10{-4}[/math]\u003Cbr\u003E V ।[math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দুই সমান্তরাল তারের মধ্যে একজন তারের তৈরি চৌম্বক ক্ষেত্র অন্য তারে বল দেয়; অন্য তারের কাছাকাছি ক্ষেত্রের মান হল [math]B=\\frac{\\mu_0 I}{2\\pi d}[/math]। তাই প্রতি একক দৈর্ঘ্যে চৌম্বক বলের মান হবে [math]\\frac{F}{L}=I_1B=\\frac{\\mu_0 I_1I_2}{2\\pi d}[/math] (দিক নির্ভর করে প্রবাহের অভিমুখ — একই হলে আকর্ষণ, বিপরীত হলে ঠেলায়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425824,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:34:41.000000Z",
+            "updated_at": "2025-08-19T07:34:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425823,
+      "value": {
+        "options": [],
+        "question": "দুটি সমান্তরাল তার পরস্পর [math]5 \\ cm[/math] দূরে অবস্থিত এবং প্রতিটি তারের মধ্যে দিয়ে [math]150 \\ A[/math] তড়িৎ প্রবাহিত হচ্ছে। [math]0.01 \\ m[/math] দৈর্ঘ্যে তারের আকর্ষণ বল নির্ণয় করো।",
+        "solution": "[math]9 \\times 10^{-4}N[/math]",
+        "explanation": "ব্যাখ্যা: সমান্তরাল দুই তারে একই দিকের ধারা থাকলে তারা আকর্ষণ করে এবং শক্তি per একক দৈর্ঘ্যের সূত্র হচ্ছে [math]\\frac{F}{L}=\\frac{\\mu_0 I_1 I_2}{2\\pi d}[/math]. এখানে [math]\\mu_0=4\\pi\\times10^{-7}\\ \\mathrm{H/m}[/math], তাই [math]F= \\frac{\\mu_0 I^2 L}{2\\pi d}=2\\times10^{-7}\\times(150)^2\\times\\frac{0.01}{0.05}=9.0\\times10^{-4}\\ \\mathrm{N}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 425823,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:34:40.000000Z",
+            "updated_at": "2025-08-19T07:34:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425822,
+      "value": {
+        "options": [],
+        "question": "দুটি সমান্তরাল তার পরস্পর [math]4 cm[/math] দূরে অবস্থিত এবং প্রতিটি তারের মধ্য দিয়ে একই দিকে [math]100 \\ A[/math] তড়িৎ প্রবাহিত হচ্ছে। প্রতি মিটার দৈর্ঘ্যে তারের আকর্ষণ বল নির্ণয় করো।",
+        "solution": "[math]0.05 \\ N[/math]",
+        "explanation": "কারেন্ট একই দিকে 흐লে দুই তার একে অপরকে আকর্ষণ করে; সূত্র হল [math]F/L=\\dfrac{\\mu_0 I_1 I_2}{2\\pi d}[/math]. এখানে [math]\\mu_0=4\\pi\\times10^{-7}\\ \\text{H/m}[/math], তাই [math]F/L=\\dfrac{4\\pi\\times10^{-7}\\times100^2}{2\\pi\\times0.04}=0.05\\ \\text{N/m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 425822,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T07:34:40.000000Z",
+            "updated_at": "2025-08-19T07:34:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425821,
+      "value": {
+        "options": [],
+        "question": "[math]3 \\ cm[/math] দূরত্বে অবস্থিত দুটি দীর্ঘ সরল সমান্তরাল তারের মধ্যদিয়ে যথাক্রমে [math]4 A[/math] এবং [math]6 A[/math] তড়িৎ প্রবাহ চলছে । দ্বিতীয় তারের প্রবাহের জন্য প্রথম তারের প্রতি একক দৈর্ঘ্যে ক্রিয়াশীল বলের মান নির্ণয় কর।",
+        "solution": "[math](1.6 \\times 10^{-4}N.m^{-1})[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,সমান্তরাল তারদ্বয়ের দূরত্ব,[math]\\begin{aligned} \\mathrm{r} & =3 \\mathrm{~cm} \\\\ & =3 \\times 10^{-2} \\mathrm{~m} \\end{aligned}[/math]\u003Cbr\u003Eপ্রথম তারে প্রবাহ, [math]I_{1}=4A[/math]\u003Cbr\u003Eদ্বিতীয় তারে প্রবাহ, [math]I_{2}=6A[/math]\u003Cbr\u003E [math]\\mu_{0}=4 \\pi \\times 10^{-7} \\text { T.m. } \\mathrm{A}^{-1}[/math]\u003Cbr\u003Eপ্রথম তারে ক্রিয়াশীল বল, [math]F=?[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{aligned} \\mathrm{F} & =\\frac{\\mu_{0} I_{1} \\mathrm{I}_{2}}{2 \\pi \\mathrm{r}} \\\\ & =\\frac{\\left(4 \\pi \\times 10^{-7} \\mathrm{~T} \\cdot \\mathrm{m} \\cdot \\mathrm{A}^{-1}\\right) \\cdot(4 \\mathrm{~A}) \\cdot(6 \\mathrm{~A})}{2 \\pi\\left(3 \\times 10^{-2} \\mathrm{~m}\\right)} \\\\ & =1.6 \\times 10^{-4} \\cdot \\mathrm{N} \\cdot \\mathrm{m}^{-1} \\text { (Ans.) } \\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "দুইটি সমান্তরাল তারের মধ্যে একক দৈর্ঘ্যে চৌম্বকীয় বলের মান হল [math]f=\\frac{\\mu_0 I_1 I_2}{2\\pi r}[/math] যেখানে [math]\\mu_0=4\\pi\\times10^{-7}\\ \\mathrm{H/m}[/math]।  \nঅতএব [math]f=\\frac{4\\pi\\times10^{-7}\\times4\\times6}{2\\pi\\times0.03}=1.6\\times10^{-4}\\ \\mathrm{N/m}[/math]; একই দিকের প্রবাহ হলে তারা আকর্ষণ করে, বিপরীত হলে প্রত্যাহার করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 425821,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:34:40.000000Z",
+            "updated_at": "2025-08-19T07:34:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425820,
+      "value": {
+        "options": [],
+        "question": "পরস্পর হতে [math]25 \\times 10^{-2}m[/math] ব্যবধানে অবস্থিত [math]5m[/math] দৈর্ঘ্যের দুটি তারের উভয়ের মধ্য দিয়ে [math]50A[/math] বিদ্যুৎ প্রবাহিত হলে এদের মধ্যে ক্রিয়াশীল বলের মান নির্ণয় কর।",
+        "solution": "[math](0.01 \\ N)[/math]",
+        "explanation": "ব্যাখ্যা: সমান্তরাল তারে একই দিকে কারেন্ট প্রবাহ করলে তারা আকর্ষণীয় এবং প্রতি ইউনিট দৈর্ঘ্যে বলের সূত্র [math]F/L=\\dfrac{\\mu_0 I_1 I_2}{2\\pi d}[/math] প্রয়োগ করা হয়। এখানে [math]\\mu_0=4\\pi\\times10^{-7}\\,N/A^2, I_1=I_2=50\\,A, d=25\\times10^{-2}=0.25\\,m, L=5\\,m[/math], ফলে [math]F/L=0.002\\,N/m[/math] এবং মোট বল [math]F=(0.002)(5)=0.01\\,N[/math] (আকর্ষণীয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 425820,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:34:40.000000Z",
+            "updated_at": "2025-08-19T07:34:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425819,
+      "value": {
+        "options": {
+          "ঘ": "চুম্বক স্থলাকার [math]5A[/math] এর বিপরীত দিকে [math]3A[/math] তড়িৎবাহী তাই অপর একটি অসীম দৈর্ঘ্যের তার স্থাপন করা হলে কী ঘটবে গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "চিত্রে একটি শলাকা মুক্তভাবে অবস্থান করছে শলাকাটির সমান্তরালে [math]3 \\ cm[/math] উপর দিয়ে একটি অসীম দৈর্ঘ্যের পরিবাহী তার স্থাপন করা হলো।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun20103202-3_1755588880_E1hNnmEU.png\" alt=\"\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউত্তর: উভয় তার পরস্পরকে 10+ N.m\" বলে বিকর্ষণ করবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কারেন্ট দুইটি বিপরীত দিকে হলে তারা একে অপরকে বিকর্ষণ করবে (প্যারালেল তারে বিপরীত দিক।)। গাণিতিকভাবে প্রতি একক দৈর্ঘ্যের বল হলো [math] \\frac{F}{L}=\\frac{\\mu_0 I_1 I_2}{2\\pi r}[/math]; এখানে [math]\\mu_0=4\\pi\\times10^{-7}\\,\\mathrm{H/m},\\ I_1=5\\,\\mathrm{A},\\ I_2=3\\,\\mathrm{A},\\ r=0.03\\,\\mathrm{m}[/math]। এই মান বসালে [math]\\frac{F}{L}=\\frac{2\\times10^{-7}\\times15}{0.03}=1.0\\times10^{-4}\\ \\mathrm{N/m}[/math] পাওয়া যায়, অর্থাৎ শলাকার উপর প্রতি মিটার নিয়ে [math]1.0\\times10^{-4}\\ \\mathrm{N}[/math] বিকর্ষণমূলক বল প্রয়োগ করবে এবং তা দূরে সরে যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 425819,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:34:40.000000Z",
+            "updated_at": "2025-08-19T07:34:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425818,
+      "value": {
+        "options": [],
+        "question": "(ক)তড়িৎও চৌম্বকীয় ক্ষেত্রে একটি আধান রাখলে আধানটির উপর ক্রিয়াশীল বলের সমীকরণ লিখ। (খ) দেখাও যে শূন্যস্থানে এক মিটার দূরত্বে অবস্থিত অসীম দৈর্ঘ্যের এবং উপেক্ষনীয় গ্রন্থচ্ছেদের দুটি সমান্তরাল পরিবাহকের প্রত্যেকটিতে এক অ্যাম্পিয়ার তড়িৎ প্রবাহ চললে পরিবাহক দুটির পরস্পরের মধ্যে প্রতি মিটার দৈর্ঘ্যে [math]2\\times 10^{-7}N[/math] মানের বল উৎপন্ন হয়।",
+        "solution": "Solution : (ক) [math]\\overrightarrow{\\mathrm{F}}=q \\overrightarrow{\\mathrm{E}}+q \\vec{\\text{v}} \\times \\overrightarrow{\\mathrm{B}}[/math]\u003Cbr\u003E(খ) অ্যাম্পিয়ারের সূত্র থেকে, [math]\\mathrm{F}=\\dfrac{\\mu_{0} I_{1} I_{2} \\ell}{2 \\pi r} \\cdot[/math]\u003Cbr\u003E যদি [math]\\mathrm{I}_{1}=\\mathrm{I}_{2}=1 \\mathrm{amp}.[/math]\u003Cbr\u003E [math]r=1 m[/math]\u003Cbr\u003E হয় তবে, [math]\\mathrm{F} / \\ell=\\dfrac{\\mu_{0}}{2 \\pi}=2 \\times 10^{-7} \\mathrm{Nm}^{-1} \\text { (Showed) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তড়িতে ও চৌম্বকীয় ক্ষেত্রে একটি আধানের উপর ক্রিয়ার সমীকরণ হলো লরেন্টজ বল: [math]\\mathbf{F}=q(\\mathbf{E}+\\mathbf{v}\\times\\mathbf{B})[/math]; এখানে প্রথম অংশ [math]q\\mathbf{E}[/math] বিদ্যুত্‌ক্ষেত্রের সরাসরি বল এবং [math]q(\\mathbf{v}\\times\\mathbf{B})[/math] গতিসূচক ও চৌম্বক ক্ষেত্রের দিকে লম্ব বল (চৌম্বক অংশ কাজ করে না কারণ তা বেগের সঙ্গে লম্ব)।\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E অসীম লম্ব পরিবাহক একটি থেকে দূরে [math]r[/math] তে চৌম্বকক্ষেত্রের মান [math]B=\\dfrac{\\mu_0 I}{2\\pi r}[/math] এবং অন্য পরিবাহকে প্রতি একক দৈর্ঘ্যে বল হবে [math]\\dfrac{F}{L}=I B=\\dfrac{\\mu_0 I^2}{2\\pi r}[/math]; [math]\\mu_0=4\\pi\\times10^{-7}[/math], [math]I=1\\,\\text{A}[/math], [math]r=1\\,\\text{m}[/math] বসালে [math]\\dfrac{F}{L}=\\dfrac{4\\pi\\times10^{-7}}{2\\pi}=2\\times10^{-7}\\,\\text{N/m}[/math] (একই দিকে প্রবাহ করলে আকর্ষণ)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 32,
+          "year": "2003-2004",
+          "pivot": {
+            "question_bank_id": 425818,
+            "year_id": 32
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 425818,
+            "tag_id": 109,
+            "year": "03-04",
+            "created_at": "2025-08-19T07:34:38.000000Z",
+            "updated_at": "2025-08-19T07:34:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425817,
+      "value": {
+        "options": [],
+        "question": "[math]P[/math] এবং [math]Q[/math] দুটি তারের মধ্যবর্তী দূরত্ব [math]24cm[/math] এবং এদের মধ্য দিয়ে যথাক্রমে [math]5A[/math] এবং [math]7A[/math] বিদ্যুৎ পরস্পরের বিপরীত দিকে প্রবাহিত হচ্ছে। [math]P[/math] তারটি হতে এমন একটি বিন্দু নির্ণয় কর যেখানে চৌম্বকক্ষেত্রের মান শূন্য হবে?",
+        "solution": "( Answer : [math]P[/math]\u003Cbr\u003E তারের বামদিকে [math]P[/math]\u003Cbr\u003E হতে [math]60cm[/math]\u003Cbr\u003E দূরে চৌম্বকক্ষেত্রের মান শূন্য হবে। )[math]\\\\[/math]\u003Cbr\u003ESolution :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a685e0a6a7e0a78de0a6afe0a6bee0a6afe0a6bc20e0a7aa20e0a6a4e0a6a1e0a6bce0a6bfe0a78e20e0a6aae0a78de0a6b0e0a6ace0a6bee0a6b9e0a787e0a6b020e0a69ae0a781e0a6aee0a78de0a6ace0a69520e0a695e0a78de0a6b0e0a6bfe0a6afe0a6bce0a6be20e0a69320e0a69ae0a78ce0a6aee0a78de0a6ace0a695e0a6a4e0a78de0a6ac-12_1755588878_uTuC7kot.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]P[/math]\u003Cbr\u003E ও [math]Q[/math]\u003Cbr\u003E তার দুটির মধ্যদিয়ে পরস্পর বিপরীত দিকে তড়িৎ প্রবাহিত হচ্ছে।সুতরাং, ডান হাতের স্ক্রু নিয়মের সাহায্যে তারের চারদিকে চৌম্বক ক্ষেত্রের দিক নির্ণয় করা যায়।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a685e0a6a7e0a78de0a6afe0a6bee0a6afe0a6bc20e0a7aa20e0a6a4e0a6a1e0a6bce0a6bfe0a78e20e0a6aae0a78de0a6b0e0a6ace0a6bee0a6b9e0a787e0a6b020e0a69ae0a781e0a6aee0a78de0a6ace0a69520e0a695e0a78de0a6b0e0a6bfe0a6afe0a6bce0a6be20e0a69320e0a69ae0a78ce0a6aee0a78de0a6ace0a695e0a6a4e0a78de0a6ac-122_1755588877_zW1bK1aV.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eদেখা যাচ্ছে, তারদ্বয়ের মাঝে যেকোনো বিন্দুতে তার দুইটির প্রবাহের ফলে সৃষ্ট চৌম্বকক্ষেত্রের দিক একই। অর্থাৎ তারদ্বয়ের মাঝে কখনও লব্ধি চৌম্বকক্ষেত্র শূন্য হওযা সম্ভব নয়।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a685e0a6a7e0a78de0a6afe0a6bee0a6afe0a6bc20e0a7aa20e0a6a4e0a6a1e0a6bce0a6bfe0a78e20e0a6aae0a78de0a6b0e0a6ace0a6bee0a6b9e0a787e0a6b020e0a69ae0a781e0a6aee0a78de0a6ace0a69520e0a695e0a78de0a6b0e0a6bfe0a6afe0a6bce0a6be20e0a69320e0a69ae0a78ce0a6aee0a78de0a6ace0a695e0a6a4e0a78de0a6ac-13_1755588876_Ck6DjIwC.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখন ধরি, [math]Q[/math]\u003Cbr\u003E তারের ডানদিকে [math]Q[/math]\u003Cbr\u003E হতে [math]x[/math]\u003Cbr\u003E দূরত্বে চৌম্বকক্ষেত্রের মান শূন্য হওয়া সম্ভব।[math]\\therefore\\ P[/math]\u003Cbr\u003E তারের প্রবাহের দরুণ চৌম্বকক্ষেত্র, [math]B_{P}=\\dfrac{\\mu_{0} I_{1}}{2 \\pi(24+x)}[/math]\u003Cbr\u003E [math]Q[/math]\u003Cbr\u003E তারে প্রবাহের দরুণ চৌম্বকক্ষেত্র, [math]B_{Q}=\\dfrac{\\mu_{0} I_{2}}{2 \\pi x}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{B}_{\\mathrm{P}}=\\mathrm{B}_{\\mathrm{Q}} \\Rightarrow \\dfrac{\\mathrm{I}_{1}}{24+\\mathrm{x}}=\\dfrac{\\mathrm{I}_{2}}{\\mathrm{x}} \\Rightarrow \\dfrac{5}{24+\\mathrm{x}}=\\dfrac{7}{\\mathrm{x}} \\Rightarrow 5 \\mathrm{x}=168+7 \\mathrm{x} \\Rightarrow 2 \\mathrm{x}=-168 \\Rightarrow \\mathrm{x}=-84 \\mathrm{~cm}[/math]\u003Cbr\u003E [math]x[/math]\u003Cbr\u003E এর মান ঋণাত্বক হাওয়া নির্দেশ করছে [math]Q[/math]\u003Cbr\u003E তারের বামে চৌম্বকক্ষেত্র শূন্য হবে। [math]Q[/math]\u003Cbr\u003E তারের বামে [math]84cm[/math]\u003Cbr\u003E অর্থাৎ‍ [math]P[/math]\u003Cbr\u003E তারের বামে [math](84 – 24) = 60cm[/math]\u003Cbr\u003E দূরে চৌম্বকক্ষেত্রের মান শূন্য হবে। এটি নিতুরূপেও বের করা যায়–\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fe0a685e0a6a7e0a78de0a6afe0a6bee0a6afe0a6bc20e0a7aa20e0a6a4e0a6a1e0a6bce0a6bfe0a78e20e0a6aae0a78de0a6b0e0a6ace0a6bee0a6b9e0a787e0a6b020e0a69ae0a781e0a6aee0a78de0a6ace0a69520e0a695e0a78de0a6b0e0a6bfe0a6afe0a6bce0a6be20e0a69320e0a69ae0a78ce0a6aee0a78de0a6ace0a695e0a6a4e0a78de0a6ac-14_1755588875_0yQvPgOI.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\therefore\\ M[/math]\u003Cbr\u003E বিন্দুতে প্রাবল্য শূন্য হলে [math]B_{P}-B_{Q}=0[/math]\u003Cbr\u003E [math]\\Rightarrow \\dfrac{\\mu_{0} I_{1}}{2 \\pi y}-\\dfrac{\\mu_{0} I_{2}}{2 \\pi(24+y)}=0 \\Rightarrow \\dfrac{5}{y}=\\dfrac{7}{24+y} \\Rightarrow 7 y=120+5 y \\Rightarrow 2 y=120 \\Rightarrow y=60 \\mathrm{~cm}[/math]\u003Cbr\u003Eঅর্থাৎ, [math]P[/math]\u003Cbr\u003E তারের বামদিকে [math]P[/math]\u003Cbr\u003E হতে [math]60cm[/math]\u003Cbr\u003E দূরে চৌম্বকক্ষেত্রের মান শূন্য হবে।",
+        "explanation": "ব্যাখ্যা: প্রবাহ পরস্পরের বিপরীত হওয়ায় মাঝখানে ক্ষেত্র একে অপরকে বৃদ্ধি করে, তাই শূন্য হওয়ার জন্য পয়েন্টটি তারগুলোর বাইরে, ছোট প্রবাহের (P) পাশেই হবে। ক্ষেত্রের পরিমাপ সমান হলে [math]\\dfrac{I_1}{x}=\\dfrac{I_2}{d+x}[/math] যেখানে [math]I_1=5\\text{ A},\\ I_2=7\\text{ A},\\ d=24\\text{ cm}[/math]; ফলে [math]x=\\dfrac{I_1 d}{I_2-I_1}=\\dfrac{5\\times24}{7-5}=60\\text{ cm}[/math]. তাই P থেকে 60 cm দূরে, P-এর বিপরীত দিকেই ক্ষেত্র শূন্য হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 425817,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 425817,
+            "tag_id": 474,
+            "year": "20-21",
+            "created_at": "2025-08-19T07:34:38.000000Z",
+            "updated_at": "2025-08-19T07:34:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425816,
+      "value": {
+        "options": {
+          "ঘ": "চিত্র-১ ও চিত্র-২ এর [math]RS[/math] পরিবাহীর একক দৈর্ঘ্যের উপর ক্রিয়াশীল বলের দিক একই হবে না— উপযুক্ত সূত্র প্রয়োগে ব্যাখ্যা কর।"
+        },
+        "question": "চিত্র-১ ও চিত্র-২ এ [math]PQ[/math] ও [math]RS[/math] দুটি সমান্তরাল তড়িৎ প্রবাহবাহী তার।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-11_1755588874_ZXyVSN0d.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, চিত্র-১ ও চিত্র-২ এ PQ ও RS দুটি তার পরস্পর থেকে a = 6 cm দূরে সমান্তরালে অবস্থিত, PQ তারের মধ্যদিয়ে প্রবাহমাত্রা [math]\\mathrm{I}_{1}=1 \\mathrm{~A}[/math]\u003Cbr\u003E এবং [math]\\mathrm{RS}[/math]\u003Cbr\u003E তারের মধ্যদিয়ে প্রবাহমাত্রা [math]I_2[/math]\u003Cbr\u003E = 5A। এখন চিত্র-১ এ RS তারের প্রবাহের জন্য PQ তারে সৃষ্ট চৌম্বক ক্ষেত্র, [math]B_{1}=\\dfrac{\\mu_{0} I_{1}}{2 \\pi a}[/math]\u003Cbr\u003E। এই চৌম্বক ক্ষেত্রের দরুন PQ তারটি বল অনুভব করে, PQ তারটির একক দৈর্ঘ্যে ক্রিয়াশীল বল [math]\\mathrm{F}_{1}=\\dfrac{\\mu_{0} I_{1} I_{2}}{2 \\pi a}[/math]\u003Cbr\u003E সূত্রানুযায়ী পাওয়া যায়, যার দিক ডানদিকে। অনুরূপভাবে PQ তারের প্রবাহের জন্য RS তারের একক দৈর্ঘ্যে সৃষ্ট বল।[math]\\mathrm{F}_{2}=\\dfrac{\\mu_{0} \\mathrm{I}_{1} \\mathrm{I}_{2}}{2 \\pi \\mathrm{a}}[/math]\u003Cbr\u003E থেকে পাওয়া যায়। এই বলের দিক হবে বামদিকে।কিন্তু, চিত্র-২ এর ক্ষেত্রে AB তারের একক দৈর্ঘ্যে ক্রিয়াশীল বলের দিক ডানদিকে হলে ও RS তারের তড়িৎ প্রবাহের অভিমুখ। নিচের দিকে হওয়ায় এর একক দৈর্ঘ্যে ক্রিয়াশীল বলের দিক ও ডানদিকে হবে। ফলে চিত্র-১ ও চিত্র-২ এর RS পরিবাহীর একক দৈর্ঘ্যের উপর ক্রিয়াশীল বলের দিক একই হবে না।",
+        "explanation": "ব্যাখ্যা: দুইটি দীর্ঘ সমান্তরাল কারেন্টের প্রতি একক দৈর্ঘ্যে ক্রিয়াশীল বলের মান হলো [math]\\frac{F}{L}=\\frac{\\mu_0 I_1 I_2}{2\\pi r}[/math], এবং এর দিক নির্ভর করে [math]I_1I_2[/math]–এর চিহ্নে — একই দিকের কারেন্ট হলে আকর্ষণ, বিপরীত হলে বিকর্ষণ। চিত্র-১ ও চিত্র-২-এ [math]PQ[/math] ও [math]RS[/math]–এর কারেন্টের আপেক্ষিক দিক আলাদা হওয়ায় [math]RS[/math]–এর প্রতি একক দৈর্ঘ্যে ক্রিয়াশীল বলের দিক একই হবে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 425816,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 425816,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T07:34:34.000000Z",
+            "updated_at": "2025-08-19T07:34:34.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425815,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের তার দুটির প্রতি একক দৈর্ঘ্যে ক্রিয়াশীল বলের মান নির্ণয় কর।"
+        },
+        "question": "চিত্র-১ ও চিত্র-২ এ [math]PQ[/math] ও [math]RS[/math] দুটি সমান্তরাল তড়িৎ প্রবাহবাহী তার।\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-11_1755588873_HwKVWqwK.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003EPQ তারে প্রবাহ, [math]\\mathrm{I}_{1}=10 \\mathrm{~A}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003ERS তারে প্রবাহ, [math]I_2[/math]\u003Cbr\u003E = 5 A[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতারের মধ্যবর্তী দূরত্ব, r = 6 cm = 0.06 m[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eএকক দৈর্ঘ্যে ক্রিয়াশীল বল, F = ?আমরা জানি,[math]\\begin{array}{l} \\mathrm{F}=\\frac{\\mu_{0} I_{1} I_{2}}{2 \\pi \\mathrm{r}} \\\\ =\\frac{4 \\pi \\times 10^{-7} \\mathrm{Tm} \\mathrm{A}^{-1} \\times 10 \\mathrm{~A} \\times 5 \\mathrm{~A}}{2 \\pi \\times 0.06 \\mathrm{~m}} \\\\ =1.67 \\times 10^{-4} \\mathrm{~N} \\\\ \\end{array}[/math]\u003Cbr\u003Eনির্ণেয় বল [math]1.67 \\times 10^{-4} \\mathrm{~N}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সমস্যাটির সমাধান এম্পিয়ার ও লরিন্জ বল থেকে করা যায়; একটি তার দ্বারা অন্য তারে উৎপন্ন চৌম্বকক্ষেত্র হবে [math]B=\\dfrac{\\mu_0 I_1}{2\\pi d}[/math]। সেইক্ষেত্রে দ্বিতীয় তারে প্রতি একক দৈর্ঘ্যে ক্রিয়াশীল বলের পরিমাণ হবে [math]f=\\dfrac{F}{L}=I_2B=\\dfrac{\\mu_0 I_1I_2}{2\\pi d}[/math] এবং দুই তারে ক্রিয়া-প্রতিক্রিয়া সমান ও বিপরীত; কারেন্ট একই দিকে হলে আকর্ষণ, বিপরীত হলে বিকর্ষণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 425815,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 425815,
+            "tag_id": 3179,
+            "year": "2017",
+            "created_at": "2025-08-19T07:34:33.000000Z",
+            "updated_at": "2025-08-19T07:34:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425814,
+      "value": {
+        "options": {
+          "ঘ": "ব্যবস্থা- [math]\\mathrm{a}[/math] এবং ব্যবস্থা- [math]\\mathrm{b}[/math] এর তারগুলোর মধ্যে কোনো পার্থক্য সৃষ্টি হবে কি? গাণিতিক বিশ্লেষণসহ মন্তব্য কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202420tp20cq-5_1755588871_WabvroUR.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\n[math]1,\\ 2,\\ 3,\\ 4[/math] প্রত্যেক ধাতব তারের মধ্যদিয়ে উদ্দীপক অনুসারে তড়িৎ প্রবাহিত হচ্ছে। [math]I_{1}=I_{2}=I_{3}=I_{4}=1 \\mathrm{amp} ;\\ d_{1}=d_{2}=0.5 \\mathrm{~m};[/math] প্রত্যেক তারের দৈর্ঘ্য [math]10 \\rm{~m}[/math] এবং [math]\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{~WbA} ^{-1} \\mathrm{~m}^{-1}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচৌম্বক প্রবেশ্যতা, [math]\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{~W} \\mathrm{b} \\mathrm{A}^{-1} \\mathrm{~m}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, [math]I_{1}=1 \\mathrm{~A} ;[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eদূরত্ব, [math]d=0.5 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচৌম্বকক্ষেত্র, [math]B=?[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad B=\\dfrac{\\mu_{0} \\mathrm{I}}{2 \\pi \\mathrm{d}}=\\dfrac{4 \\pi \\times 10^{-7} \\mathrm{~Wb} \\mathrm{~A}^{-1} \\mathrm{~m}^{-1} \\times 1 \\mathrm{~A}}{2 \\pi \\times 0.5 \\mathrm{~m}} \\\\ \\therefore \\mathrm{B}=4 \\times 10^{-7} \\mathrm{~Wb} \\mathrm{~m}^{-2} \\end{array}[/math]\u003Cbr\u003Eসুতরাং ব্যবস্থা [math]a[/math]\u003Cbr\u003E এর [math]p[/math]\u003Cbr\u003E বিন্দুতে সৃষ্ট চৌম্বক ক্ষেত্রের মান [math]4 \\times 10^{-7} \\mathrm{~Wb~m}^{-2}[/math]\u003Cbr\u003Eএবং বল,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{F}_{1} & =\\frac{\\mu_{0} I_{1} I_{2}}{2 \\pi \\mathrm{d}} \\\\ & =\\frac{4 \\pi \\times 10^{-7} \\mathrm{~Wb} \\mathrm{~A} \\mathrm{~A}^{-1} \\mathrm{~m}^{-1} \\times 1 \\mathrm{~A} \\times 1 \\mathrm{~A}}{2 \\pi \\times 0.5 \\mathrm{~m}} \\end{aligned}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\qquad ~~ =4 \\times 10^{-7} \\mathrm{~N};[/math]\u003Cbr\u003E দিক হবে [math]2[/math]\u003Cbr\u003E নং তারের লম্ব বরাবর [math]1[/math]\u003Cbr\u003E নং এর দিকে।অনুরূপভাবে [math]2[/math]\u003Cbr\u003E নং তারে তড়িৎ প্রবাহের জন্য [math]1[/math]\u003Cbr\u003E নং তারে চৌম্বক ক্ষেত্র, [math]\\mathrm{B}_{2}=4 \\times 10^{-7} \\mathrm{~Wb} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003E এবং বল, [math]\\mathrm{F}_{2}=4 \\times 10^{-7} \\mathrm{~N}[/math]\u003Cbr\u003E দিক হবে [math]1[/math]\u003Cbr\u003E নং তারের লম্ব বরাবর [math]2[/math]\u003Cbr\u003E নং এর দিকে।এক্ষেত্রে [math]1[/math]\u003Cbr\u003E নং ও [math]2[/math]\u003Cbr\u003E নং তার পরস্পরকে আকর্ষণ করবে।ব্যবস্থা [math]B[/math]\u003Cbr\u003E এর ক্ষেত্রে, [math]3[/math]\u003Cbr\u003E নং তারে তড়িৎ প্রবাহের জন্য [math]4[/math]\u003Cbr\u003E নং তারে চৌম্বক ক্ষেত্র, [math]\\mathrm{B}_{3}=4 \\times 10^{-7} \\mathrm{~Wb} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003E এবং বল, [math]\\mathrm{F}_{3}=4 \\times 10^{-7} \\mathrm{~N} \\text {; }[/math]\u003Cbr\u003E দিক হবে [math]4[/math]\u003Cbr\u003E নং এর লম্ব বরাবর [math]3[/math]\u003Cbr\u003E নং এর বিপরীত দিকে।এবং [math]4[/math]\u003Cbr\u003E নং তারে তড়িৎ প্রবাহের জন্য [math]3[/math]\u003Cbr\u003E নং তারে চৌম্বক ক্ষেত্র, [math]B_4 =4 \\times 10^{-7} \\mathrm{~Wb} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003E এবং বল, [math]\\mathrm{F}_{4}=4 \\times 10^{-7} \\mathrm{~N};[/math]\u003Cbr\u003E দিক হবে [math]3[/math]\u003Cbr\u003E নং তারের লম্ব বরাবর [math]4[/math]\u003Cbr\u003E নং এর বিপরীত দিকে।এক্ষেত্রে [math]3[/math]\u003Cbr\u003E নং ও [math]4[/math]\u003Cbr\u003E নং তার পরস্পরকে বিকর্ষণ করবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পার্থক্য হবে না — কারণ সমান্তরাল তার দুইটোর মধ্যে চুম্বকীয় বল কেবল তাদের প্রতিটি কারেন্ট এবং দু'টার মধ্যকার দুরত্বের ওপর নির্ভর করে, সাজানো কিভাবে তারগুলো রাখা আছে তার ওপর নয়। সূত্র [math]F/L=\\frac{\\mu_0 I_1I_2}{2\\pi d}[/math] ব্যবহার করলে প্রতি জোড়ার জন্য [math]F/L= \\frac{4\\pi\\times10^{-7}\\times1\\times1}{2\\pi\\times0.5}=4\\times10^{-7}\\ \\mathrm{N/m}[/math] এবং [math]L=10\\ \\mathrm{m}[/math] হলে [math]F=4\\times10^{-6}\\ \\mathrm{N}[/math]; যেহেতু সব কারেন্ট ও দূরত্ব একই, উভয় ব্যবস্থায় সমান জোড়া-বল এবং তাই কোনো পার্থক্য নেই।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 425814,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425814,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 425814,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T07:34:31.000000Z",
+            "updated_at": "2025-08-19T07:34:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425813,
+      "value": {
+        "options": {
+          "ক": "বায়োট-স্যাভার্ট সূত্রটি লিখ।",
+          "খ": "তারের মধ্য দিয়ে প্রবাহিত বিদ্যুতের দরুন সৃষ্ট চৌম্বক ক্ষেত্রের দিক ব্যাখ্যা করো।",
+          "গ": "উদ্দীপকে তার দুটির একক দৈর্ঘ্যে ক্রিয়াশীল বলের মান নির্ণয় করো ।",
+          "ঘ": "উদ্দীপকে তারদ্বয়ের মধ্য বিন্দু P-তে লব্ধি চৌম্বক ক্ষেত্রের মান ও দিক নির্ণয় করো।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2014202-4_1755588869_u6ESjKVI.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nওপরের চিত্র লক্ষ করো এবং নিম্নের প্রশ্নগুলোর উত্তর দাও :",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eবায়ো-স্যাভোর সূত্র: “নির্দিষ্ট মাধ্যমে কোনো পরিবাহীর ক্ষুদ্র দৈর্ঘ্যের ভেতর দিয়ে তড়িৎপ্রবাহ চলার ফলে এর আশেপাশে কোন বিন্দুতে সৃষ্ট চৌম্বকক্ষেত্রের মান পরিবাহীর দৈর্ঘ্যের সমানুপাতিক, তড়িৎপ্রবাহের সমানুপাতিক, পরিবাহীর ঐ অংশের মধ্যবিন্দু থেকে ঐ বিন্দুর দূরত্বের বর্গের ব্যস্তানুপাতিক, পরিবাহী এবং পরিবাহীর ঐ অংশের মধ্যবিন্দু ও ঐ বিবেচিত বিন্দুর সংযোজক সরলরেখার অন্তর্ভুক্ত কোণের সাইনের সমানুপাতিক।”[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eতারের মধ্যদিয়ে বিদ্যুৎ প্রবাহের ফলে উৎপন্ন চৌম্বকক্ষেত্রের দিক ফ্লেমিং এর দক্ষিণ হস্ত নিয়ম দ্বারা বের করা যায়। এই নিয়ম অনুযায়ী ডান হাতের বুড়ো আঙ্গুল প্রসারিত করে অন্য আঙ্গুলগুলো মুষ্টিবদ্ধ করলে বৃদ্ধাঙ্গুলি যদি তড়িৎ প্রবাহের দিক নির্দেশ করে, তবে মুষ্টিবদ্ধ অন্যান্য আঙ্গুলের মাথা দ্বারা চৌম্বকক্ষেত্রের দিক নির্দেশিত হয়। নিচে চিত্রের সাহায্যে দেখানো হলো :\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture_1755588870_p5916ob9.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003Eচিত্র থেকে প্রতীয়মান হয় যে, তড়িৎ প্রবাহ যদি কাগজ তলের লম্ব বরাবর নিচ থেকে উপর দিকে হয়, তবে চৌম্বকক্ষেত্র রেখাগুলোর দিক হবে ঘড়ি বিসমাবর্তী। আর যদি প্রবাহ কাগজ তলের উপর থেকে নিচের দিকে হয়, তবে চৌম্বক বলরেখাগুলো হবে ঘড়ি সমাবতী ।[math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউত্তর: 8.33 × [math]10^{-5} Nm{-1}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউত্তর : 1.667 × [math]10^{-5}[/math]\u003Cbr\u003E T, দিক হল প্রশ্নের সমতল থেকে উপরের দিকে ।-",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বায়োট-স্যাভার্ট সূত্র: একটি সরলগত ধারা উপাদান [math]d\\mathbf{l}[/math] দ্বারা দূরত্ব [math]r[/math] তে সংকেতিত পয়েন্টে সৃষ্ট সুক্ষ চৌম্বকক্ষেত্র হচ্ছে  \n[math]d\\mathbf{B}=\\frac{\\mu_0}{4\\pi}\\frac{I\\,d\\mathbf{l}\\times\\hat{\\mathbf{r}}}{r^2},[/math]  \nএখানে [math]\\hat{\\mathbf{r}}[/math] হচ্ছে ধারা উপাদান থেকে ক্ষেত্রবিন্দু পর্যন্ত একক ভেক্টর এবং [math]\\mu_0[/math] হলো ছিদ্র-চৌম্বকীয় ধারক।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E তারের মধ্য দিয়ে ধারা প্রবাহিত হলে চৌম্বক ক্ষেত্র তারকে কেন্দ্র করে বৃত্তাকারভাবে সৃষ্টি হয়; নির্দেশ নির্ণয়ের জন্য ডানহাতের নিয়ম ব্যবহার করতে হয় — থামটে চলছে ধারা অনুযায়ী আঙুলগুলো বেঁকে রাখলে তর্জনী দেয়া দিক চৌম্বক ক্ষেত্রের দিক দেখায়। চৌম্বকক্ষেত্রের পরিমাণ সরল অসীম লম্বা তারে [math]B=\\dfrac{\\mu_0 I}{2\\pi r}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দুইটি সমান্তরাল তারের প্রতি একক দৈর্ঘ্যে ক্রিয়াশীল বলের মানের সূত্র হচ্ছে  \n[math]\\frac{F}{L}=\\frac{\\mu_0 I_1 I_2}{2\\pi d},[/math]  \nএখানে [math]d[/math] হলো দুই তারের মধ্যেকার দূরত্ব; একই দিকের ধারা হলে বলটি আকর্ষণমূলক, বিপরীত হলে প্রত্যাহারক (repulsive)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বিন্দু P-তে মোট চৌম্বকক্ষেত্র হলো প্রতিটি তারের ক্ষেত্রের সুপারপোজিশন: যদি P থেকে প্রতিটি তারের দূরত্ব যথাক্রমে [math]r_1,r_2[/math] হয় তবে  \n[math]B_P=\\left|\\frac{\\mu_0 I_1}{2\\pi r_1}\\pm\\frac{\\mu_0 I_2}{2\\pi r_2}\\right|,[/math]  \nচিহ্ন নির্ভর করে ক্ষেত্রের দিকের ওপর — একই ধারা হলে পয়েন্টে দুই ক্ষেত্রের দিশা বিপরীত হওয়ায় বিচ্যুতি (difference), বিপরীত ধারা হলে যোগ (sum) হবে; দিক জানার জন্য ডানহাতের নিয়ম প্রয়োগ কর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425813,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:34:30.000000Z",
+            "updated_at": "2025-08-19T07:34:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425812,
+      "value": {
+        "options": {
+          "ক": "[math]0.32 \\mathrm{~ms}^{-2}[/math]",
+          "খ": "[math]0.64 \\mathrm{~ms}^{-2}[/math]",
+          "গ": "[math]0.72 \\mathrm{~ms}^{-2}[/math]",
+          "ঘ": "[math]0.96 \\mathrm{~ms}^{-2}[/math]"
+        },
+        "question": "উদ্দীপকের তথ্যের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\n[math]1.5 \\rm{~m}[/math] লম্বা দুইটি সমান্তরাল তারের মধ্যবর্তী দূরত্ব [math]0.03\\rm{~m}[/math] এবং প্রতিটি তারে [math]120\\rm{~A}[/math] প্রবাহমাত্রা চলছে।\n\nতারগুলো মুক্তভাবে চলতে সক্ষম হলে এবং প্রতিটি তারের ভর [math]150\\rm{~gm}[/math] হলে প্রতিটি তারের আদি ত্বরণ নিচের কোনটি?",
+        "solution": "[math]\\mathrm{a}=\\dfrac{\\mathrm{F}^{\\prime}}{\\mathrm{m}}=\\dfrac{\\mathrm{F} \\times \\ell}{\\mathrm{m}}=\\dfrac{9.6 \\times 10^{-2} \\times 1.5}{0.150}=0.96 \\mathrm{~ms}^{-2}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 425812,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3478,
+          "full_name": "Abdul Kadir Molla City College",
+          "short_name": "AKMCC",
+          "slug": "akmcc",
+          "pivot": {
+            "question_bank_id": 425812,
+            "tag_id": 3478,
+            "year": "2022",
+            "created_at": "2025-08-19T07:34:28.000000Z",
+            "updated_at": "2025-08-19T07:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425811,
+      "value": {
+        "options": {
+          "ক": "[math]3.2 \\times 10^{-2} \\mathrm{~N}[/math]",
+          "খ": "[math]6.4 \\times 10^{-2} \\mathrm{~N}[/math]",
+          "গ": "[math]7.2 \\times 10^{-2} \\mathrm{~N}[/math]",
+          "ঘ": "[math]9.2 \\times 10^{-2} \\mathrm{~N}[/math]"
+        },
+        "question": "উদ্দীপকের তথ্যের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\n[math]1.5 \\rm{~m}[/math] লম্বা দুইটি সমান্তরাল তারের মধ্যবর্তী দূরত্ব [math]0.03\\rm{~m}[/math] এবং প্রতিটি তারে [math]120\\rm{~A}[/math] প্রবাহমাত্রা চলছে।\n\nযেকোন একটি তারের [math]1\\rm{~m}[/math] দৈর্ঘ্যের ওপর ক্রিয়ারত বলের মান প্ৰায়—",
+        "solution": "[math]\\rm{\\mathrm{F}=\\dfrac{\\mu_{0} I_{1} I_{2}}{2 \\pi \\mathrm{r}}=\\dfrac{\\mu_{0} \\times 120 \\times 120}{2 \\pi \\times 0.03}=9.6 \\times 10^{-2} \\mathrm{~N}}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 425811,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3478,
+          "full_name": "Abdul Kadir Molla City College",
+          "short_name": "AKMCC",
+          "slug": "akmcc",
+          "pivot": {
+            "question_bank_id": 425811,
+            "tag_id": 3478,
+            "year": "2022",
+            "created_at": "2025-08-19T07:34:28.000000Z",
+            "updated_at": "2025-08-19T07:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425810,
+      "value": {
+        "options": {
+          "ক": "শূন্য",
+          "খ": "[math]\\dfrac{\\mu_{0} \\mathrm{l}}{\\mathrm{ml}}[/math]",
+          "গ": "[math]\\dfrac{2\\mu_{0} \\mathrm{l}}{\\mathrm{ml}}[/math]",
+          "ঘ": "[math]\\dfrac{2 \\pi \\rm{I}}{\\mu_0 \\rm{d}}[/math]"
+        },
+        "question": "পরস্পর [math]\\rm{d}[/math] দূরত্বে থাকা সমান্তরাল দুটি দীর্ঘ তারের মধ্য দিয়ে সমমানের বিপরীতমুখী প্রবাহ ( [math]1[/math]) প্রবাহিত হলে, এদের ঠিক মধ্যবর্তী কোন বিন্দুতে চৌম্বক আবেশের মান কত হবে?",
+        "solution": "সমান্তরাল তারের জন্য, একটি তারের জন্য চৌম্বক ক্ষেত্র হল [math]B = \\frac{\\mu_0 I}{2 \\pi r}[/math]\u003Cbr\u003E, যেখানে [math]r[/math]\u003Cbr\u003E হল উৎস থেকে দূরত্ব। মধ্যবর্তী বিন্দুতে, প্রতিটি তার থেকে দূরত্ব হল [math]\\frac{d}{2}[/math]\u003Cbr\u003E। যেহেতু প্রবাহ বিপরীতমুখী, তাই চৌম্বক ক্ষেত্র দুটি একই দিকে যোগ হবে। সুতরাং, মোট চৌম্বক আবেশ হল [math]B_{total} = B_1 + B_2 = \\frac{\\mu_0 I}{2 \\pi (d/2)} + \\frac{\\mu_0 I}{2 \\pi (d/2)} = \\frac{\\mu_0 I}{\\pi d} + \\frac{\\mu_0 I}{\\pi d} = \\frac{2 \\mu_0 I}{\\pi d}[/math]\u003Cbr\u003E। এখানে প্রশ্নে প্রবাহের মান 'I' কে 'I' ধরা হয়েছে এবং তারের মধ্যবর্তী দূরত্ব 'd' কে 'd' ধরা হয়েছে।এই সমস্যাটি অ্যাম্পিয়ারের সূত্র এবং চৌম্বকত্বের নীতি ব্যবহার করে সমাধান করা হয়। অ্যাম্পিয়ারের সূত্র একটি বদ্ধ লুপ বরাবর চৌম্বক ক্ষেত্র এবং সেই লুপ দ্বারা আবদ্ধ তড়িৎপ্রবাহের মধ্যে সম্পর্ক স্থাপন করে। দুটি তারের মধ্যবর্তী বিন্দুতে চৌম্বক ক্ষেত্র প্রতিটি তারের দ্বারা সৃষ্ট চৌম্বক ক্ষেত্রের ভেক্টর যোগফল দ্বারা নির্ধারিত হয়। বিপরীতমুখী প্রবাহের কারণে, প্রতিটি তারের দ্বারা সৃষ্ট চৌম্বক ক্ষেত্র একই দিকে কাজ করে, তাই তাদের মান যোগ হয়।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy-2-4-teste-mcq-1_1755588868_kz98yE5V.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 425810,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 237,
+          "full_name": "Holy Cross College, Dhaka",
+          "short_name": "HCCD",
+          "slug": "hccd",
+          "pivot": {
+            "question_bank_id": 425810,
+            "tag_id": 237,
+            "year": "2022",
+            "created_at": "2025-08-19T07:34:28.000000Z",
+            "updated_at": "2025-08-19T07:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425806,
+      "value": {
+        "options": {
+          "ক": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2094202-3_1755588864_kyMOVLRP.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "খ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2095202-3_1755588864_vbgTFo0P.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "গ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2096202-3_1755588865_ol5XwSOK.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "ঘ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun2097202-3_1755588866_fvcVIDsK.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+        },
+        "question": "দুটি তড়িৎবাহী তারের মধ্যে ক্রিয়াশীল বলের দিক কোনটিতে সঠিকভাবে দেখানো হয়েছে?",
+        "solution": "সঠিক উত্তরটি হল যে দুটি সমান্তরাল তড়িৎবাহী তারের মধ্যে ক্রিয়াশীল বলের দিক সঠিকভাবে দেখানো হয়েছে। যখন দুটি সমান্তরাল তড়িৎবাহী তারের মধ্য দিয়ে একই দিকে তড়িৎ প্রবাহিত হয়, তখন তারা একে অপরকে আকর্ষণ করে। আর যদি তড়িৎ বিপরীত দিকে প্রবাহিত হয়, তবে তারা একে অপরকে বিকর্ষণ করে। এই বলের সূত্রটি হল লরেঞ্জ বলের একটি বিশেষ রূপ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 425806,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:34:27.000000Z",
+            "updated_at": "2025-08-19T07:34:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425807,
+      "value": {
+        "options": {
+          "ক": "[math]3.2 \\times 10^{-2} N[/math]",
+          "খ": "[math]6.4 \\times 10^{-2} N[/math]",
+          "গ": "[math]\\text { 7. } 2 \\times 10^{-2} N[/math]",
+          "ঘ": "[math]9.6 \\times 10^{-2} \\mathrm{~N}[/math]"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং নং প্রশ্নের উত্তর দাও।\n\n[math]1.5 \\ m[/math] লম্বা দুটি সমান্তরাল তারের মধ্যবর্তী দূরত্ব [math]0.03 m[/math] এবং প্রতিটি তারে [math]120 \\ amp[/math] প্রবাহমাত্রা চলছে।\n\nযেকোনো একটি তারের [math]1 \\ m[/math] দৈর্ঘ্যের ওপর ক্রিয়ারত বলের মান প্ৰায় কত?",
+        "solution": "দুটি সমান্তরাল পরিবাহীর প্রতি একক দৈর্ঘ্যের উপর প্রযুক্ত বলের সূত্র হলো [math]F/L = (\\mu_0 I_1 I_2) / (2\\pi d)[/math]\u003Cbr\u003E. এখানে, [math]\\mu_0[/math]\u003Cbr\u003E হলো শূন্যস্থানের প্রবেশ্যতা যার মান [math]4\\pi \\times 10^{-7} \\ Tm/A[/math]\u003Cbr\u003E. প্রশ্নানুসারে, [math]I_1 = I_2 = 120 \\ A[/math]\u003Cbr\u003E এবং [math]d = 0.03 \\ m[/math]\u003Cbr\u003E. যেকোনো একটি তারের [math]1 \\ m[/math]\u003Cbr\u003E দৈর্ঘ্যের ওপর ক্রিয়ারত বলের মান বের করতে হবে, অর্থাৎ [math]F/L[/math]\u003Cbr\u003E এর মান নির্ণয় করতে হবে।গণনা:[math]F/L = (4\\pi \\times 10^{-7} \\ Tm/A \\times 120 \\ A \\times 120 \\ A) / (2\\pi \\times 0.03 \\ m)[/math]\u003Cbr\u003E [math]F/L = (2 \\times 10^{-7} \\times 14400) / 0.03 \\ N/m[/math]\u003Cbr\u003E [math]F/L = 28800 \\times 10^{-7} / 0.03 \\ N/m[/math]\u003Cbr\u003E [math]F/L = 0.00288 / 0.03 \\ N/m[/math]\u003Cbr\u003E [math]F/L = 0.096 \\ N/m[/math]\u003Cbr\u003Eসুতরাং, [math]1 \\ m[/math]\u003Cbr\u003E দৈর্ঘ্যের ওপর ক্রিয়ারত বলের মান প্রায় [math]0.096 \\ N[/math]\u003Cbr\u003E বা [math]9.6 \\times 10^{-2} \\ N[/math]\u003Cbr\u003E.এই সূত্রটি ব্যবহার করা হয় যখন দুটি সমান্তরাল পরিবাহীর মধ্যে চৌম্বকীয় বল গণনা করা হয়। পরিবাহীগুলির মধ্যে প্রবাহের দিক একই হলে আকর্ষণ বল এবং বিপরীত দিকে হলে বিকর্ষণ বল প্রযুক্ত হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 425807,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:34:27.000000Z",
+            "updated_at": "2025-08-19T07:34:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425808,
+      "value": {
+        "options": {
+          "ক": "[math]0.32 \\ m.s^{-2}[/math]",
+          "খ": "[math]0.64 \\ m.s^{-2}[/math]",
+          "গ": "[math]0.72 \\ m.s^{-2}[/math]",
+          "ঘ": "[math]0.96 \\ m.s^{-2}[/math]"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নের উত্তর দাও।\n\n[math]1.5 \\ m[/math] লম্বা দুটি সমান্তরাল তারের মধ্যবর্তী দূরত্ব [math]0.03.m[/math] এবং প্রতিটি তারে [math]120 \\ amp[/math] প্রবাহমাত্রা চলছে।\n\nতারগুলো মুক্তভাবে চলতে সক্ষম হলে, এবং প্রতিটি তারের ভর [math]150 \\ gm[/math] হলে প্রতিটি তারের আদি ত্বরণ কত হবে?",
+        "solution": "দুটি সমান্তরাল তারের মধ্যে আকর্ষণ বা বিকর্ষণ বলের সূত্র হল [math]F/L = (\\mu_0 I^2)/(2\\pi d)[/math]\u003Cbr\u003E, যেখানে [math]F[/math]\u003Cbr\u003E হল বল, [math]L[/math]\u003Cbr\u003E হল তারের দৈর্ঘ্য, [math]\\mu_0[/math]\u003Cbr\u003E হল শূন্যস্থানের প্রবেশ্যতা ( [math]4\\pi \\times 10^{-7} \\ T.m/A[/math]\u003Cbr\u003E), [math]I[/math]\u003Cbr\u003E হল প্রবাহমাত্রা এবং [math]d[/math]\u003Cbr\u003E হল তার দুটির মধ্যবর্তী দূরত্ব।এখানে দেওয়া আছে:[math]L = 1.5 \\ m[/math]\u003Cbr\u003E [math]d = 0.03 \\ m[/math]\u003Cbr\u003E [math]I = 120 \\ amp[/math]\u003Cbr\u003Eতারের ভর [math]m = 150 \\ gm = 0.150 \\ kg[/math]\u003Cbr\u003Eপ্রথমে, প্রতি একক দৈর্ঘ্যে বল বের করা যাক:[math]F/L = (4\\pi \\times 10^{-7} \\ T.m/A \\times (120 \\ amp)^2) / (2\\pi \\times 0.03 \\ m)[/math]\u003Cbr\u003E [math]F/L = (2 \\times 10^{-7} \\times 14400) / 0.03[/math]\u003Cbr\u003E [math]F/L = (28800 \\times 10^{-7}) / 0.03[/math]\u003Cbr\u003E [math]F/L = 0.00288 / 0.03[/math]\u003Cbr\u003E [math]F/L = 0.096 \\ N/m[/math]\u003Cbr\u003Eএবার, তারের উপর মোট বল হবে [math]F = (F/L) \\times L[/math]\u003Cbr\u003E [math]F = 0.096 \\ N/m \\times 1.5 \\ m[/math]\u003Cbr\u003E [math]F = 0.144 \\ N[/math]\u003Cbr\u003Eনিউটনের দ্বিতীয় গতিসূত্র অনুযায়ী, ত্বরণ ( [math]a[/math]\u003Cbr\u003E) = বল ( [math]F[/math]\u003Cbr\u003E) / ভর ( [math]m[/math]\u003Cbr\u003E)[math]a = 0.144 \\ N / 0.150 \\ kg[/math]\u003Cbr\u003E [math]a = 0.96 \\ m/s^2[/math]\u003Cbr\u003Eসুতরাং, প্রতিটি তারের আদি ত্বরণ হবে [math]0.96 \\ m/s^2[/math]\u003Cbr\u003E. তার দুটি একই দিকে প্রবাহিত হওয়ায় একে অপরকে আকর্ষণ করবে এবং এই আকর্ষণের ফলেই ত্বরণ সৃষ্টি হবে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 425808,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:34:27.000000Z",
+            "updated_at": "2025-08-19T07:34:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425809,
+      "value": {
+        "options": {
+          "ক": "কোনো বল অনুভব করে না",
+          "খ": "এরা পরস্পর আকর্ষণ অনুভব করবে",
+          "গ": "এরা পরস্পর বিকর্ষণ অনুভব করবে",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "দুটি তড়িৎবাহী তারে। এবং প্রবাহ বিপরীত দিকে প্রবাহিত হচ্ছে। এরা—",
+        "solution": "দুটি সমান্তরাল তারে বিপরীত দিকে তড়িৎ প্রবাহিত হলে তারা পরস্পর বিকর্ষণ বল অনুভব করে। এটি অ্যাম্পিয়ারের সলিনয়েড সূত্রের একটি ফলাফল। যখন দুটি পরিবাহী তারের মধ্য দিয়ে তড়িৎ প্রবাহিত হয়, তখন তাদের চারপাশে চৌম্বক ক্ষেত্র তৈরি হয়। যদি প্রবাহ একই দিকে হয় তবে তারা আকর্ষণ করে, আর বিপরীত দিকে হলে বিকর্ষণ করে।",
+        "explanation": "",
+        "correct_answer": "C.এরা পরস্পর বিকর্ষণ অনুভব করবে"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 425809,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:34:27.000000Z",
+            "updated_at": "2025-08-19T07:34:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425797,
+      "value": {
+        "options": {
+          "ক": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-420board20mcq-8-e0a6aa_1755588859_jvuT6Jqq.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "খ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-420board20mcq-8-e0a6aa201_1755588860_XMCHKmDo.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "গ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-420board20mcq-8-e0a6aa202_1755588861_WEMiFfov.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+          "ঘ": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20phy202-420board20mcq-8-e0a6aa203_1755588862_Z8kNfvqj.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E"
+        },
+        "question": "দুটি সমান্তরাল পরিবাহী তার [math]\\rm{A}[/math] ও [math]\\rm{B}[/math] এর মধ্য দিয়ে একই তড়িৎ প্রবাহ একই দিকে প্রবাহিত হচ্ছে। কোন চিত্রটি তার দুটির উপর ক্রিয়াশীল বল নির্দেশ করে?",
+        "solution": "দুটি সমান্তরাল পরিবাহী তারের মধ্য দিয়ে একই দিকে তড়িৎ প্রবাহ প্রবাহিত হলে, তারা একে অপরকে আকর্ষণ করে। এটি তড়িৎচুম্বকীয় বলের নীতি অনুসারে ঘটে। যখন দুটি তারের মধ্যে দিয়ে একই দিকে কারেন্ট প্রবাহিত হয়, তখন একটি তারের দ্বারা উত্পন্ন চৌম্বক ক্ষেত্র অন্য তারের উপর এমনভাবে বল প্রয়োগ করে যা তাদের একে অপরের দিকে আকর্ষণ করে। এর বিপরীতভাবে, যদি কারেন্ট বিপরীত দিকে প্রবাহিত হয়, তবে তার দুটি একে অপরকে বিকর্ষণ করবে। প্রশ্নানুসারে, তড়িৎ প্রবাহ একই দিকে হওয়ায়, তার দুটি পরস্পরকে আকর্ষণ করবে, যা চিত্রটিতে দেখানো হয়েছে। এই আকর্ষণ বলের মান [math]\\rm{F} = \\frac{\\mu_0 I_1 I_2 l}{2\\pi r}[/math]\u003Cbr\u003E দ্বারা প্রকাশ করা হয়, যেখানে [math]\\mu_0[/math]\u003Cbr\u003E হলো শূন্য মাধ্যমের ভেদনযোগ্যতা, [math]I_1[/math]\u003Cbr\u003E ও [math]I_2[/math]\u003Cbr\u003E হলো তার দুটির মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহের মান, [math]l[/math]\u003Cbr\u003E হলো তার দুটির দৈর্ঘ্যের অংশ এবং [math]r[/math]\u003Cbr\u003E হলো তাদের মধ্যবর্তী দূরত্ব।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 425797,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 425797,
+            "tag_id": 3179,
+            "year": "2016",
+            "created_at": "2025-08-19T07:34:23.000000Z",
+            "updated_at": "2025-08-19T07:34:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425805,
+      "value": {
+        "options": {
+          "ক": "পরস্পরকে আকর্ষণ করবে",
+          "খ": "পরস্পরকে বিকর্ষণ করবে",
+          "গ": "কোন বল অনুভব করবে না",
+          "ঘ": "শীতল হয়ে যাবে"
+        },
+        "question": "পাশাপাশি স্থাপিত দুটি পরিবাহী তারের মধ্যে ভিন্ন ভিন্ন উৎস হতে একই দিকে তড়িৎ প্রবাহ চালালে উহারা–",
+        "solution": "দুটি পরিবাহী তারের মধ্যে তড়িৎ প্রবাহ একই দিকে প্রবাহিত হলে তারা একে অপরকে আকর্ষণ করে। এটি তড়িৎচুম্বকীয় বলের একটি নীতি, যা অ্যাম্পিয়ারের বল সূত্র দ্বারা ব্যাখ্যা করা যায়। এই নীতিটি তড়িৎ মোটরের কার্যকারিতার ভিত্তি। যদি তড়িৎ প্রবাহ বিপরীত দিকে প্রবাহিত হয় তবে তার দুটি একে অপরকে বিকর্ষণ করবে।",
+        "explanation": "",
+        "correct_answer": "A. পরস্পরকে আকর্ষণ করবে"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 425805,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 425805,
+            "tag_id": 11,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:34:23.000000Z",
+            "updated_at": "2025-08-19T07:34:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425804,
+      "value": {
+        "options": {
+          "ক": "পরিবাহী দুটিতে প্রবাহ একই দিকে",
+          "খ": "দুটিই চৌম্বকক্ষেত্র সৃষ্টি করছে",
+          "গ": "পরিবাহীদুটির মধ্যে ক্রিয়াশীল বল প্রবাহদ্বয়ের গুণফলের সমানুপাতিক",
+          "ঘ": "প্রবাহদ্বয় বিপরীতমুখী",
+          "ঙ": "উভয় পরিবাহীতে ঋণাত্মক আধান চলমান"
+        },
+        "question": "তড়িৎবাহী দুটি সরল সমান্তরাল পরিবাহীর মধ্য দিয়ে প্রবাহ এমন যে এরা পরস্পরকে আকর্ষণ করে। এক্ষেত্রে কোনটি সঠিক?",
+        "solution": "Hints: ডান হস্ত নিয়মে চৌম্বক ক্ষেত্রের দিক এবং ফ্লেমিংয়ের বাম হস্ত নিয়মে ঐ চৌম্বক ক্ষেত্রের জন্য বলের দিক নির্ণয় করতে হবে ।\n\nSolve : সমান্তরাল দুটি তারে প্রবাহ একই দিকে হলে আকর্ষন এবং প্রবাহ বিপরীত দিকে হলে বিকর্ষন হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 425804,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 425804,
+            "tag_id": 73,
+            "year": "15-16",
+            "created_at": "2025-08-19T07:34:23.000000Z",
+            "updated_at": "2025-08-19T07:34:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425803,
+      "value": {
+        "options": {
+          "ক": "[math]0[/math]",
+          "খ": "[math]4 \\times 10^{-7} \\mathrm{~T}[/math] এবং আকর্ষণ",
+          "গ": "[math]4 \\times 10^{-7} \\mathrm{~T}[/math] এবং বিকর্ষণ বল",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "[math]1\\ m[/math] দীর্ঘ দুটি তার [math]10\\ cm[/math] দূরত্বে রাখা হলো। উভয়েই [math]10\\ A[/math] বিদ্যুত একই দিকে প্রবাহিত হলে, দুটি তারের মাঝামাঝি স্থানে লব্ধি চৌম্বক ক্ষেত্রের মান এবং তারের উপর প্রযুক্ত বল হবে–",
+        "solution": "লব্ধি চৌম্বক ক্ষেত্রের মান শূন্য এবং আকর্ষণ বল।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 425803,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 425803,
+            "tag_id": 57,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:34:23.000000Z",
+            "updated_at": "2025-08-19T07:34:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425802,
+      "value": {
+        "options": {
+          "ক": "[math]4 \\times 10^{-5}[/math]",
+          "খ": "[math]2 \\times 10^{-5}[/math]",
+          "গ": "[math]4 \\times 10^{-4}[/math]",
+          "ঘ": "[math]2 \\times 10^{-4}[/math]"
+        },
+        "question": "[math]0.5\\ m[/math] ব্যবধানে অবস্থিত দু'টি সমান্তরাল তারের উভয়ের মধ্য দিয়ে [math]10\\ A[/math] বিদ্যুৎ প্রবাহিত হচ্ছে। উভয় তারের দৈর্ঘ্য [math]0.5\\ m[/math] হলে এদের মধ্যে ক্রিয়াশীল বলের মান কত নিউটন [math](N)[/math]? [math]\\left[\\mu_{0}=4 \\pi \\times 10^{-7} \\mathrm{TmA}^{-1}\\right][/math]",
+        "solution": "এখানে, তারের দৈর্ঘ্য, [math]l=0.5 \\mathrm{~m}[/math]\u003Cbr\u003Eবিদ্যুৎ প্রবাহ, [math]\\mathrm{I}_{1}=\\mathrm{I}_{2}=10 \\mathrm{~A};[/math]\u003Cbr\u003E ব্যবধান, [math]\\mathrm{r}=0.5 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\mathrm{F}=\\dfrac{\\mu_{0} I_{1} I_{2}}{2 \\pi r} \\times \\ell=\\dfrac{4 \\pi \\times 10^{-7} \\times 10 \\times 10}{2 \\pi \\times 0.5} \\times 0.5 \\mathrm{~N} \\therefore \\mathrm{F}=2 \\times 10^{-5} \\mathrm{~N}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 425802,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 119,
+          "full_name": "General and Science Technology (A Unit)",
+          "short_name": "GST-A",
+          "slug": "gst-a",
+          "pivot": {
+            "question_bank_id": 425802,
+            "tag_id": 119,
+            "year": "20-21",
+            "created_at": "2025-08-19T07:34:23.000000Z",
+            "updated_at": "2025-08-19T07:34:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425801,
+      "value": {
+        "options": {
+          "ক": "প্রবাহের মধ্যে কোন বল কাজ করে না",
+          "খ": "একে অপরকে বিকর্ষণ করে",
+          "গ": "একে অপরকে আকর্ষণ করে",
+          "ঘ": "পরস্পরের বিপরীতমুখী হয়"
+        },
+        "question": "দুইটি সমান্তরাল তার দিয়ে একই দিকে বিদ্যুৎ প্রবাহিত হলে–",
+        "solution": "দুটি সমান্তরাল তার দিয়ে একই দিকে বিদ্যুৎ প্রবাহিত হলে তারা একে অপরকে আকর্ষণ করে। এর কারণ হলো, যখন তার দুটির মধ্যে একই দিকে বিদ্যুৎ প্রবাহিত হয়, তখন তাদের চারপাশে সৃষ্ট চৌম্বক ক্ষেত্র এমনভাবে বিন্যস্ত হয় যা একে অপরের প্রতি আকর্ষণ বল তৈরি করে। এটি বিদ্যুৎ ও চুম্বকত্বের একটি মৌলিক নীতি যা অ্যাম্পিয়ারের সূত্র দ্বারা ব্যাখ্যা করা হয়। বিদ্যুৎ প্রবাহের দিক বিপরীত হলে তারা বিকর্ষণ করত।",
+        "explanation": "",
+        "correct_answer": "C. একে অপরকে আকর্ষণ করে"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 425801,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 425801,
+            "tag_id": 18,
+            "year": "15-16",
+            "created_at": "2025-08-19T07:34:23.000000Z",
+            "updated_at": "2025-08-19T07:34:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425800,
+      "value": {
+        "options": {
+          "ক": "2F/3",
+          "খ": "4F/3",
+          "গ": "2F/9",
+          "ঘ": "4F/9"
+        },
+        "question": "দুইটি সমান্তরাল তারের মধ্যে একই মানের তড়িৎ প্রবাহিত হয় এবং তার দুইটি প্রতি একক দৈর্ঘ্যে [math]F[/math] বল দ্বারা একে অপরকে বিকর্ষণ করে। যদি প্রবাহিত তড়িৎ দ্বিগুণ এবং তারদ্বয়ের মধ্যে দূরত্বকে তিন গুণ করা হয় তবে প্রতি একক দৈর্ঘ্যে বলের মান হবে–",
+        "solution": "[math]\\dfrac{F}{L}=\\dfrac{\\mu_{0} I_{1} I_{2}}{d} \\Rightarrow F \\propto \\dfrac{I_{1} I_{2}}{d} \\Rightarrow F_{2}=\\dfrac{2 \\times 2}{3} F=\\dfrac{4}{3} F[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 425800,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 8,
+          "full_name": "University of Dhaka (A Unit)",
+          "short_name": "DU-A",
+          "slug": "du-a",
+          "pivot": {
+            "question_bank_id": 425800,
+            "tag_id": 8,
+            "year": "18-19",
+            "created_at": "2025-08-19T07:34:23.000000Z",
+            "updated_at": "2025-08-19T07:34:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425799,
+      "value": {
+        "options": {
+          "ক": "iii",
+          "খ": "i ও ii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "দুটি সমান্তরাল পরিবাহী তারের মধ্যে তড়িৎ প্রবাহিত হলে, তার দুটি —\n\n[math]\\hspace{1 cm}[/math]i. পরস্পরকে আকর্ষণ করবে\n\n[math]\\hspace{1 cm}[/math]ii. পরস্পরকে বিকর্ষণ করবে\n\n[math]\\hspace{1 cm}[/math]iii. পরস্পরের দ্বারা প্রভাবিত হবে না\n\nনিচের কোনটি সঠিক?",
+        "solution": "সমান্তরাল পরিবাহী তারের মধ্যে তড়িৎ প্রবাহিত হলে, যদি তড়িৎ প্রবাহের অভিমুখ একই হয়, তবে তারা পরস্পরকে আকর্ষণ করে। অন্যদিকে, যদি তড়িৎ প্রবাহের অভিমুখ বিপরীত হয়, তবে তারা পরস্পরকে বিকর্ষণ করে। তাই, তার দুটি একে অপরকে প্রভাবিত করবেই, সে আকর্ষণ বা বিকর্ষণ যাই হোক না কেন। অপশন (i) এবং (ii) উভয়ই সম্ভব।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 425799,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 425799,
+            "tag_id": 47,
+            "year": "2016",
+            "created_at": "2025-08-19T07:34:23.000000Z",
+            "updated_at": "2025-08-19T07:34:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 425798,
+      "value": {
+        "options": {
+          "ক": "[math]2 \\times 10^{-7} \\mathrm{~N}[/math]",
+          "খ": "[math]4 \\times 10^{-7} \\mathrm{~N}[/math]",
+          "গ": "[math]2\\pi \\times 10^{-7} \\mathrm{~N}[/math]",
+          "ঘ": "[math]4\\pi \\times 10^{-7} \\mathrm{~N}[/math]"
+        },
+        "question": "পরস্পর থেকে [math]1 \\mathrm{~m}[/math] দূরত্বে অবস্থিত [math]1 \\mathrm{~A}[/math] তড়িৎ প্রবাহবাহী তারের প্রতি [math]1 \\mathrm{~m}[/math] দৈর্ঘ্যে যে বল ক্রিয়া করে তার মান—",
+        "solution": "দুটি সমান্তরাল তড়িৎবাহী তারের প্রতি একক দৈর্ঘ্যে ক্রিয়াশীল বলের সূত্র হলো [math]F/l = (\\mu_0 I_1 I_2) / (2\\pi d)[/math]\u003Cbr\u003E, যেখানে [math]\\mu_0[/math]\u003Cbr\u003E হলো শূন্য মাধ্যমের প্রবেশ্যতা, [math]I_1[/math]\u003Cbr\u003E ও [math]I_2[/math]\u003Cbr\u003E হলো তার দুটির মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহ এবং [math]d[/math]\u003Cbr\u003E হলো তাদের মধ্যবর্তী দূরত্ব। প্রদত্ত প্রশ্নে, [math]I_1 = I_2 = 1 \\mathrm{~A}[/math]\u003Cbr\u003E এবং [math]d = 1 \\mathrm{~m}[/math]\u003Cbr\u003E। [math]\\mu_0[/math]\u003Cbr\u003E-এর মান হলো [math]4\\pi \\times 10^{-7} \\mathrm{~T m / A}[/math]\u003Cbr\u003E। তাই, [math]F/l = (4\\pi \\times 10^{-7} \\mathrm{~T m / A} \\times 1 \\mathrm{~A} \\times 1 \\mathrm{~A}) / (2\\pi \\times 1 \\mathrm{~m}) = 2 \\times 10^{-7} \\mathrm{~N/m}[/math]\u003Cbr\u003E। এই মানটি অ্যাম্পিয়ার (Ampere) সংজ্ঞা নির্ধারণে ব্যবহৃত হয়, যেখানে [math]1 \\mathrm{~m}[/math]\u003Cbr\u003E দূরত্বে অবস্থিত দুটি অসীম দৈর্ঘ্যের সমান্তরাল তারের মধ্যে প্রতি [math]1 \\mathrm{~m}[/math]\u003Cbr\u003E দৈর্ঘ্যে [math]2 \\times 10^{-7} \\mathrm{~N}[/math]\u003Cbr\u003E বল ক্রিয়া করলে প্রত্যেক তারের মধ্য দিয়ে [math]1 \\mathrm{~A}[/math]\u003Cbr\u003E তড়িৎ প্রবাহিত হচ্ছে বলে ধরা হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6330,
+      "created_at": "2025-08-19T07:34:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 425798,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 425798,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 425798,
+            "tag_id": 7,
+            "year": "2016",
+            "created_at": "2025-08-19T07:34:23.000000Z",
+            "updated_at": "2025-08-19T07:34:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6330&grade=1&lesson=6647&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6330&grade=1&lesson=6647&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6330&grade=1&lesson=6647&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 37,
+  "total": 37
+}

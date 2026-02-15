@@ -1,0 +1,532 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 400704,
+      "value": {
+        "options": {
+          "গ": "ক্যাপসুলটির অনুভূমিক সরণ কত?"
+        },
+        "question": "একটি উদ্ধারকারী উড়োজাহাজ সমুদ্র পৃষ্ঠের 500m উপর দিয়ে 198 km/h ধ্রুব বেগে চলার সময় পাইলট একটি দূর্ঘটনার শিকার নৌকাকে দেখতে পেল। পাইলট নৌকার যাত্রীর জন্য একটি উদ্ধারকারী ক্যাপসুল নামিয়ে দিল যেন ক্যাপসুলটি নৌকার খুব কাছে পতিত হয়।\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-13-panjeri2-67-01_1755582988_0tIYfkXk.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,উচ্চতা, h = 500 mআদিবেগ,[math]\\begin{aligned}\\mathrm{v}_{\\mathrm{x}_{0}} & =198 \\mathrm{kmh}^{-1} \\\\& =\\frac{198 \\times 1000}{3600} \\\\& =55 \\mathrm{~ms}^{-1}\\end{aligned}[/math]\u003Cbr\u003Eঅনুভূমিক ত্বরণ, [math]a_{x}=0[/math]\u003Cbr\u003Eউল্লম্ব ত্বরণ, [math]\\mathrm{a}_{\\mathrm{y}}=\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eউল্লম্ব আদিবেগ, [math]\\mathrm{v}_{\\mathrm{y}_{0}}=0[/math]\u003Cbr\u003Eআমরা জানি, [math]h=v_{y_{0}} t+\\frac{1}{2} a_{y} t^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]500=0+\\frac{1}{2} \\times 9.8 \\times \\mathrm{t}^{2}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{t}=10.1 \\mathrm{~s}[/math]\u003Cbr\u003Eআবার, [math]\\mathrm{x}-\\mathrm{x}_{0}=\\mathrm{d}[/math]\u003Cbr\u003E [math]=v_{x_{0}} t+\\frac{1}{2} a_{x} t^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]d=55 \\times 10.1+0[/math]\u003Cbr\u003E [math]=555.5 \\mathrm{~m}[/math]\u003Cbr\u003Eঅতএব, ক্যাপসুলটির অনুভূমিক সরণ 555.5 m (Ans.) [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কারণ উল্লম্ব ও অনুভূমিক গতিধারা স্বাধীন; ক্যাপসুলটির অনুভূমিক বেগ ধ্রুব থাকায় অনুভূমিক সরণ হবে [math]x=v_x t[/math]। \nগতি পরিবর্তন করে কিম্বা হাওয়ার প্রতিক্রিয়া না ধরে, [math]198\\ \\text{km/h}=55\\ \\text{m/s}[/math], [math]t=\\sqrt{\\tfrac{2h}{g}}=\\sqrt{\\tfrac{2\\times500}{9.8}}\\approx10.10\\ \\text{s}[/math], সুতরাং [math]x=55\\times10.10\\approx555.6\\ \\text{m}\\ (\\approx556\\ \\text{m}).[/math}",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 400704,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:56:28.000000Z",
+            "updated_at": "2025-08-19T05:56:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400705,
+      "value": {
+        "options": [],
+        "question": "একটি বস্তুকে অনুভূমিকের সাথে 30° কোণে নিচের দিকে 170m উঁচু কোন ভবনের শীর্ষ হতে 40 m/s দ্রুতিতে নিক্ষেপ করা হল।\n\n(ক) কত সময় পর গুলিটি ভূমিতে এসে আঘাত করবে?\n\n(খ) বস্তুটির অনুভূমিক সরণ কত হবে?\n\n(গ) ভূমিতে কত কোণে বস্তুটি আঘাত করবে?",
+        "solution": "( Answer : (ক) [math]8.27 \\mathrm{sec}[/math]\u003Cbr\u003E (খ) [math]286.48 \\mathrm{~m}[/math]\u003Cbr\u003E (গ) [math]71.08^{\\circ}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,ভবনের উচ্চতা, h = 170 mনিক্ষেপণ বেগ, [math]v_{0}=40 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eনিক্ষেপণ কোণ, [math]\\theta_{\\mathrm{o}}=30^{\\circ}[/math]\u003Cbr\u003E(ক)[math]\\mathrm{h}=-\\mathrm{v}_{0} \\sin \\theta_{0} \\mathrm{t}+\\frac{1}{2} g \\mathrm{t}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]170=-40 \\sin 30 t+\\frac{1}{2} \\times 9.8 t^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]170=-20 t+4.9 t^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]4.9+t^{2}-20 t-170=0[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{t}=8.27,-4.193[/math]\u003Cbr\u003E [ঋণাত্মক মান গ্রহণযোগ্য নহে][math]\\therefore[/math]\u003Cbr\u003E ভূমিতে আঘাত করার সময়, [math]t=8.27 \\mathrm{sec} \\text { (Ans.) }[/math]\u003Cbr\u003E(খ) বস্তুটির অনুভূমিক সরণ,[math]\\begin{aligned}x & =v_{0} \\cos \\theta t \\\\& =40 \\cos 30^{\\circ} \\times 8.27 \\\\& =286.48 \\mathrm{~m} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E(গ) এখন, [math]v_{x}=v_{0} \\cos \\theta_{0}=40 \\cos 30^{\\circ}=34.64 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E [math]\\begin{array}{l}v_{y}=v_{o} \\sin \\theta_{0}+g t=40 \\sin 30^{\\circ}+9.8 \\times 8.27=101.046 \\mathrm{~ms}^{-1} \\\\\\therefore \\mathrm{v}=\\sqrt{v_{\\mathrm{x}}^{2}+\\mathrm{v}_{\\mathrm{y}}^{2}}=\\sqrt{(34.64)^{2}+(101.046)^{2}}=106.82 \\mathrm{~ms}^{-1} \\\\\\therefore \\theta_{\\mathrm{o}}=\\tan ^{-1}\\left(\\frac{v_{y}}{v_{\\mathrm{x}}}\\right)=\\tan ^{-1}\\left(\\frac{101.046}{34.64}\\right)=71.08^{\\circ}\\end{array}[/math]\u003Cbr\u003Eসুতরাং বস্তুটি [math]106.82 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E বেগে 71.08° কোণে ভূমিতে আঘাত করবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E অনুভূমিক ও উল্লম্ব গতি পৃথকভাবে বিবেচনা করলে উল্লম্বের জন্য [math]v_{0y}=40\\sin30^\\circ=20\\ \\text{m/s}[/math] এবং [math]170=20t+\\tfrac{1}{2}(9.8)t^2[/math] হওয়ার ফলে [math]t=\\frac{-20+\\sqrt{20^2+4(4.9)(170)}}{2(4.9)}\\approx4.19\\ \\text{s}[/math]। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E অনুভূমিক গতি স্থির থাকে: [math]v_{0x}=40\\cos30^\\circ=20\\sqrt{3}\\ \\text{m/s}[/math], ফলে সরণ [math]x=v_{0x}t=20\\sqrt{3}\\times4.19\\approx145.3\\ \\text{m}[/math]। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রভাবের সময় উল্লম্ব বেগ [math]v_y=20+9.8\\times4.19\\approx61.09\\ \\text{m/s}[/math] এবং কোণ [math]\\theta=\\tan^{-1}\\frac{v_y}{v_x}=\\tan^{-1}\\frac{61.09}{20\\sqrt{3}}\\approx60.4^\\circ[/math], কারণ কোণ অনুভূমিক ও উল্লম্ব বেগের অনুপাত দ্বারা নির্ধারিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 400705,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:56:28.000000Z",
+            "updated_at": "2025-08-19T05:56:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400703,
+      "value": {
+        "options": {
+          "ঘ": "জিসান যদি বস্তুটিকে অনুভূমিক বরাবর নিক্ষেপ করতো তাহলে তার গতিপথ কীরূপ হতো বিশ্লেষ ণ কর।"
+        },
+        "question": "জিসান 100 m উঁচু দালানের ছাদ থেকে অনুভূমিকের সাথে 60° কোণে নিচের দিকে একটি বস্তু নিক্ষেপ করলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-13-panjeri2-115-1_1755582986_AcgM9FZ8.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eঅনুভূমিকের সমান্তরালে নিক্ষিপ্ত কোনো বস্তুর আদিবেগ [math]V_{0}[/math]\u003Cbr\u003E হলে,অনুভূমিক বরাবর আদিবেগের উপাংশ,[math]\\begin{aligned}\\mathrm{v}_{\\mathrm{y}_{0}} & =\\mathrm{v}_{0} \\cos 0^{\\circ} \\\\& =\\mathrm{v}_{0}\\end{aligned}[/math]\u003Cbr\u003Eও উল্লম্ব বরাবর আদিবেগের উপাংশ,[math]\\begin{aligned}\\mathrm{v}_{\\mathrm{y}_{0}} & =\\mathrm{v}_{0} \\cos 0^{\\circ} \\\\& =0\\end{aligned}[/math]\u003Cbr\u003Et সময়ে প্রাসটি x দূরত্ব অতিক্রম করলে,[math]x=v_{x_{0}} t=v_{0} t[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]t=\\frac{x}{v_{0}}[/math]\u003Cbr\u003Eআবার, t সময়ে বস্তুটি y উচ্চতা অতিক্রম করলে,[math]y=v_{y_{0}} t+\\frac{1}{2} g^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=0 \\times t+\\frac{1}{2} g t^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{y}=\\frac{1}{2} \\mathrm{gt}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=\\frac{1}{2} g\\left(\\frac{x}{v_{0}}\\right)^{2}[/math]\u003Cbr\u003E [math]\\therefore \\quad \\mathrm{y}=\\frac{\\mathrm{g}}{2 \\mathrm{v}_{0}^{2}} \\mathrm{x}^{2}[/math]\u003Cbr\u003Eএ সমীকরণ যে কোনো মুহূর্তে x ও y এর সম্পর্ক নির্দেশ করে। এই সমীকরণই হলো অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর চলরেখের সমীকরণ।এখানে g ও [math]\\mathrm{v}_{0}[/math]\u003Cbr\u003E ধ্রুবক বলে [math]\\frac{\\mathrm{g}}{2 \\mathrm{v}_{0}^{2}}=\\mathrm{c}[/math]\u003Cbr\u003E লিখলে,[math]y=c x^{2}[/math]\u003Cbr\u003Eযা একটি পরাবৃত্তের সমীকরণ অতএব, অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর চলরেখ বা গতিপথ হচ্ছে একটি পরাবৃত্ত।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বস্তুটি অনুভূমিকভাবে নিক্ষেপ করলে প্রাথমিক খাড়া গতির উপাদান শূন্য থাকবে এবং অনুভূমিক গতির উপাদান স্থির থাকবে; ফলে তার পথ হবে একটি প্যারাবোলা যার শুরুতেই ঢাল শূন্য। পড়ার সময় কেবল উচ্চতার উপর নির্ভর করে [math]t=\\sqrt{2h/g}[/math] হবে এবং আনুভূমিক পরিসর হলো [math]x=u_x\\,t[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 400703,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:56:26.000000Z",
+            "updated_at": "2025-08-19T05:56:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400700,
+      "value": {
+        "options": {
+          "ক": "গড় মুক্ত পথ কী?",
+          "খ": "মহাকর্ষীয় ধ্রুবক G কে সর্বজনীন বলা হয় কেন?",
+          "গ": "উদ্দীপক অনুসারে গোলা নিক্ষেপের মুহূর্তে বিমানের উচ্চতা কত ছিল?",
+          "ঘ": "উদ্দীপকের গোলাটি নিক্ষেপণ কোণের সমান কোণে ভূমিতে আঘাত করবে কি না— গাণিতিক বিশ্লেষণসহ যাচাই কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview2043_1755582983_jzBYdJ5O.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eকোনো অণুর পর পর দুটি সংঘর্ষের মধ্যবর্তী দূরত্বগুলোর গড় নিলে যে দূরত্ব পাওয়া যায়, তাকেই গড় মুক্ত পথ বলে । [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003EG হলো মহাকর্ষীয় ধ্রুবক। [math]m_1[/math]\u003Cbr\u003E ও [math]m_2[/math]\u003Cbr\u003E ভরের দুটি বস্তু r দূরত্বে থাকলে এবং এদের মধ্যকার বল F হলে, [math]\\mathrm{G}=\\frac{\\mathrm{Fr}^{2}}{\\mathrm{~m}_{1} \\mathrm{~m}_{2}}[/math]\u003Cbr\u003E হয়। G এর মান বস্তু দুটির প্রকৃতি এবং এদের মধ্যকার মাধ্যমের প্রকৃতির উপর নির্ভর করে না। বস্তুর আকার, আকৃতি, ভর, দূরত্ব ইত্যাদির পরিবর্তন ঘটলেও G এর মানের কোনো তারতম্য ঘটে না। অর্থাৎ G এর মান সবসময় এবং সব জায়গার জন্য ধ্রুবক এবং এই মান [math]6.673\\times10^{-11}\\mathrm{Nm}^2\\mathrm{~kg}^{-2}[/math]\u003Cbr\u003E। এজন্য G কে সর্বজনীন ধ্রুবক বলা হয় । [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcamscanner-09-26-2023-1004-2-removebg-preview_1755582985_Fj4wHqn0.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএখানে, [math]\\mathrm v_{0}=255 \\mathrm{~km} \\mathrm{~h}^{-1}=70.8 \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E [math]\\begin{array}{l}A B=2560 \\mathrm{~m}=x \\\\\\mathrm v_{x_{0}}=\\mathrm v_{0} \\cos 33^{\\circ}=70.8 \\times \\cos 33^{\\circ} \\\\\\mathrm v_{y_{0}}=\\mathrm v_{0} \\sin 35^{\\circ}=70.8 \\times \\sin 33^{\\circ}=38.56 \\mathrm{~m} \\mathrm{~s}^{-1}\\end{array}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1cm}\\begin{aligned}\\mathrm{x} & =\\mathrm{v}_{0} \\cos \\theta_{0} \\mathrm{t} \\\\\\therefore \\quad \\mathrm{t} & =\\frac{\\mathrm{x}_{1}}{\\mathrm{v}_{0} \\cos \\theta_{0}}=\\frac{2560}{59.38}=43 \\mathrm{~s}\\end{aligned}[/math]\u003Cbr\u003Eআবার, [math]Y=\\mathrm y_{0}+\\mathrm v_{y_{0}} t-\\frac{1}{2} \\mathrm g t^{2}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow 0=\\mathrm y_{0}+38.56 \\times 43-\\frac{1}{2} \\times 9.8 \\times(43)^{2} \\\\\\Rightarrow 0=\\mathrm y_{0}-7402 \\\\\\therefore \\quad \\mathrm y_{0}=7402 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eঅতএব, গোলা নিক্ষেপের মুহূর্তে বিমানের উচ্চতা ছিল 7402 m (প্রায়) [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, [math]\\mathrm v_{x}=\\mathrm v_{x_{0}}[/math]\u003Cbr\u003E [math]\\hspace{2cm}=\\mathrm v_{0} \\cos \\theta_{0}=70.8 \\cos 33=59.38 \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcamscanner-09-26-2023-1004-3-removebg-preview_1755582984_TmJb0JtK.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\begin{array}{l}\\mathrm v_{\\mathrm{y}}=\\mathrm v_{\\mathrm{y}_{0}}-\\mathrm{gt} \\\\=38.56-9.8 \\times 43=-382.84 \\mathrm{~m} \\mathrm{~s}^{-1} \\\\\\therefore \\tan \\theta=\\frac{\\mathrm v_{\\mathrm{y}}}{\\mathrm v_{\\mathrm{x}}} \\\\\\quad \\theta=\\tan ^{-1}\\left(\\frac{382.84}{59.38}\\right)=81.18^{\\circ}\\end{array}[/math]\u003Cbr\u003Eসুতরাং নিক্ষেপণ কোণের সমান কোণে ভূমিতে আঘাত করবে না। [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E গড় মুক্ত পথ হল কণাগুলোর মধ্যে সংঘর্ষের আগে গড়ে তারা যে দূরত্ব যায়; গ্যাসের জন্য সাধারণ সূত্রটি [math]\\lambda=\\dfrac{1}{\\sqrt{2}\\,n\\sigma}[/math], যেখানে [math]n[/math] কণার ঘনত্ব ও [math]\\sigma[/math] সংঘর্ষ ক্ষেত্রফল।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মহাকর্ষীয় ধ্রুবক [math]G[/math]কে সর্বজনীন বলা হয় কারণ এটি নিউটনের মহাকর্ষণ আইনে সকল দেহ ও স্থানে একরকমভাবে প্রযোজ্য এবং ভর ও দূরত্বের সাথে সম্পর্ক স্থাপন করে (দেহের আবদ্ধ গুণমুগ্ধতার উপর নির্ভর করে না)।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বিমানের উচ্চতা বের করতে উল্লম্ব গতির সমীকরণ ব্যবহার করুন; যদি নিক্ষেপণের প্রাথমিক গতিমাত্রা [math]u[/math], কোণ [math]\\theta[/math] এবং মাটি আঘাতের সময় [math]T[/math] হয়, তাহলে উচ্চতা [math]h=u\\sin\\theta\\;T-\\tfrac{1}{2}gT^{2}[/math]।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যদি বায়ু প্রতিরোধ না ধরা হয় এবং গোলাটি একই উচ্চতায় নিক্ষেপিত ও আঘাত করে, তবে আঘাতের কোণ নিক্ষেপণের কোণের সমকোণ (মাত্রার দিক উল্টো) হবে; কারণ টেকনিক্যালি শেষের উল্লম্ব দ্রুট [math]v_y=u\\sin\\theta-gT=-u\\sin\\theta[/math], ফলে [math]\\tan\\phi=\\dfrac{v_y}{v_x}=\\dfrac{-u\\sin\\theta}{u\\cos\\theta}=-\\tan\\theta[/math], অর্থাৎ কোণের মান সমান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 400700,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3504,
+          "full_name": "Govt. Edward College, Pabna",
+          "short_name": "GECP",
+          "slug": "gecp",
+          "pivot": {
+            "question_bank_id": 400700,
+            "tag_id": 3504,
+            "year": "2020",
+            "created_at": "2025-08-19T05:56:25.000000Z",
+            "updated_at": "2025-08-19T05:56:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400701,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের তথ্য অনুসারে প্রিতম ছাদে উঠতে পারত কি না? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও ।"
+        },
+        "question": "একদিন এক প্রীতি ম্যাচ খেলার সময় প্রিতম ব্যাট দিয়ে আঘাত করায় টি পার্শ্ববর্তী এ বলটি একটি উঁচু ভবনের ছাদে পড়ল। ডাক্তারের নিষেধ থাকায় প্রিতম 96 m এর বেশি উঁচুতে উঠতে অস্বীকৃতি জানিয়ে ছাদে বল আনতে গেল না। প্লাবন ছাদে উঠে বলটিকে উল্লম্বের সাথে 60° কোণে [math]5 \\ m \\ s^{-1}[/math] বেগে নিচে ফেলে দিল। বলটি ছুঁড়ে মারার 3 sec পরে ভূমি থেকে 2 m উঁচুতে প্রিতম বলটি ধরে ফেলল ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eনিক্ষেপণ বেগ, [math]\\rm{v}_{0}=5 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eঅনুভূমিকের সাথে নিক্ষেপণ কোণ, [math]\\theta_{0}=30^{\\circ}[/math]\u003Cbr\u003E [math]\\hspace{1.2 cm}[/math]\u003Cbr\u003Eসময়, [math]\\rm{t = 3 s}[/math]\u003Cbr\u003E [math]\\hspace{0.5 cm}[/math]\u003Cbr\u003Eধরি, ভবনটির উচ্চতা [math]\\rm{h}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E উদ্দীপক অনুসারে,[math]\\qquad\\begin{aligned} \\rm{h-2}&=\\rm{v_{0} \\sin \\theta_{0} t+\\frac{1}{2} g t^{2}}\\\\ \\Rightarrow \\rm{h}&=\\left(5 \\times \\sin 30^{\\circ} \\times 3+\\frac{1}{2} \\times 9.8 \\times 3^{2}+2\\right) \\mathrm{m}\\\\ \\therefore\\rm{h}&=53.6 \\mathrm{~m}\\end{aligned}[/math]\u003Cbr\u003Eউপরোক্ত গাণিতিক বিশ্লেষণ হতে দেখা যাচ্ছে ভবনটির উচ্চতা [math]53.6\\rm{~m}[/math]\u003Cbr\u003E যা [math]96\\rm{~m}[/math]\u003Cbr\u003E অপেক্ষা কম। অতএব, উদ্দীপকের তথ্য অনুসারে প্রিতম ছাদে উঠতে পারত।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রথমে উল্লম্ব ভরের উপাদান: [math]u_y=5\\cos60^\\circ=2.5\\ \\text{m/s}[/math]. 3 s পরে উল্লম্ব অবতরণ: [math]s=u_yt+\\tfrac{1}{2}gt^2=2.5\\times3+\\tfrac{1}{2}\\times9.8\\times3^2=51.6\\ \\text{m}[/math]. ছাদটির মাটির উপরে উচ্চতা = [math]51.6+2=53.6\\ \\text{m}[/math], যা [math]96\\ \\text{m}[/math] থেকে অনেক কম, তাই প্রিতম 96 m সীমার ভেতরে থাকায় ছাদে উঠে নিতে পারতেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 400701,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 400701,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 400701,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-08-19T05:56:25.000000Z",
+            "updated_at": "2025-08-19T05:56:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400702,
+      "value": {
+        "options": {
+          "গ": "যদি জিসান বস্তুটিকে 50 [math]\\mathrm{ms}^{-1}[/math] বেগে নিক্ষেপ করে তবে কত সময় পর সেটি ভূমিতে আঘাত করবে?"
+        },
+        "question": "জিসান 100 m উঁচু দালানের ছাদ থেকে অনুভূমিকের সাথে 60° কোণে নিচের দিকে একটি বস্তু নিক্ষেপ করলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,নিক্ষেপণ বেগ, [math]\\mathrm{v}=50 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eনিক্ষেপণ কোণ, [math]\\theta_{0}=-60^{\\circ}[/math]\u003Cbr\u003E [ [math]\\therefore[/math]\u003Cbr\u003E নিচের দিকে ]উচ্চতা, h = – 30 [ নিচের দিকে ]সময়কাল, t = ?আমরা জানি,[math]\\mathrm{h}=\\mathrm{v}_{0} \\sin \\theta_{0} \\mathrm{t}-\\frac{1}{2} g \\mathrm{t}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]-30=-50 \\sin 60 t-\\frac{1}{2} \\times 9.8 t^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]-30=-25 \\sqrt{3} t-4.9 t^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]4.9 t^{2}+25 \\sqrt{3} t-30=0[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{t}=-9.483 \\mathrm{sec}, 0.645 \\mathrm{sec}[/math]\u003Cbr\u003Eসময় ঋণাত্মক হতে পারে না বিধায়[math]\\therefore \\mathrm{t}=0.645 \\mathrm{sec}[/math]\u003Cbr\u003Eসুতরাং বস্তুটি 0.645 sec পরে ভূমিতে আঘাত করবে। (Ans.) [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বেগের উল্লম্ব অংশ [math]v_y=50\\sin60^\\circ=25\\sqrt{3}\\ \\mathrm{m/s}[/math] (নীচের দিকে)। উল্লম্ব সরে যাওয়া পূর্ণ করে [math]100= v_y t+\\tfrac{1}{2}gt^2[/math] (নীচে ধনাত্মক ধরে), তাই [math]4.9t^2+25\\sqrt{3}\\,t-100=0[/math] এবং ইতিবাচক মূল থেকে [math]t\\approx1.90\\ \\mathrm{s}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 400702,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:56:25.000000Z",
+            "updated_at": "2025-08-19T05:56:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400699,
+      "value": {
+        "options": {
+          "ক": "প্রক্ষেপক কী?",
+          "খ": "অনুভূমিক পাল্লা বলতে কী বুঝ?",
+          "গ": "যদি জিসান বস্তুটিকে 50 [math]\\mathrm{ms}^{-1}[/math] বেগে নিক্ষেপ করে তবে কত সময় পর সেটি ভূমিতে আঘাত করবে?",
+          "ঘ": "জিসান যদি বস্তুটিকে অনুভূমিক বরাবর নিক্ষেপ করতো তাহলে তার গতিপথ কীরূপ হতো বিশ্লেষণ কর।"
+        },
+        "question": "জিসান 100 m উঁচু দালানের ছাদ থেকে অনুভূমিকের সাথে 60° কোণে নিচের দিকে একটি বস্তু নিক্ষেপ করলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eঅভিকর্ষের প্রভাবে শূন্য স্থানে ভূমির সাথে তীর্যকভাবে নিক্ষিপ্ত বস্তুকে প্রক্ষিপ্ত বস্তু বা প্রাস বলে। [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপ্রক্ষেপণ বিন্দুগামী অনুভূমিক তলের উপর প্রক্ষিপ্ত বস্তুটি যে বিন্দুতে পতিত হয় প্রক্ষেপণ বিন্দু হতে ওই বিন্দুর অনুভূমিক বরাবর দূরত্বকে প্রাসের অনুভূমিক পাল্লা বলে। অনুভূমিকের সাথে [math]\\theta[/math]\u003Cbr\u003E কোণে প্রাসকে [math]\\mathrm{v}_{0}[/math]\u003Cbr\u003E বেগে নিক্ষেপ করলে অনুভূমিক পাল্লা হবে [math]\\mathrm{R}=\\frac{\\mathrm{v}_{0}^{2} \\sin 2 \\theta}{\\mathrm{g}}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,নিক্ষেপণ বেগ, [math]\\mathrm{v}=50 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eনিক্ষেপণ কোণ, [math]\\theta_{0}=-60^{\\circ}[/math]\u003Cbr\u003E [ [math]\\therefore[/math]\u003Cbr\u003E নিচের দিকে ]উচ্চতা, h = – 30 [ নিচের দিকে ]সময়কাল, t = ?আমরা জানি,[math]\\mathrm{h}=\\mathrm{v}_{0} \\sin \\theta_{0} \\mathrm{t}-\\frac{1}{2} g \\mathrm{t}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]-30=-50 \\sin 60 t-\\frac{1}{2} \\times 9.8 t^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]-30=-25 \\sqrt{3} t-4.9 t^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]4.9 t^{2}+25 \\sqrt{3} t-30=0[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{t}=-9.483 \\mathrm{sec}, 0.645 \\mathrm{sec}[/math]\u003Cbr\u003Eসময় ঋণাত্মক হতে পারে না বিধায়[math]\\therefore \\mathrm{t}=0.645 \\mathrm{sec}[/math]\u003Cbr\u003Eসুতরাং বস্তুটি 0.645 sec পরে ভূমিতে আঘাত করবে। (Ans.) [math]\\\\[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-13-panjeri2-115_1755582981_mA8Z4lAN.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eঅনুভূমিকের সমান্তরালে নিক্ষিপ্ত কোনো বস্তুর আদিবেগ [math]V_{0}[/math]\u003Cbr\u003E হলে,অনুভূমিক বরাবর আদিবেগের উপাংশ,[math]\\begin{aligned}\\mathrm{v}_{\\mathrm{y}_{0}} & =\\mathrm{v}_{0} \\cos 0^{\\circ} \\\\& =\\mathrm{v}_{0}\\end{aligned}[/math]\u003Cbr\u003Eও উল্লম্ব বরাবর আদিবেগের উপাংশ,[math]\\begin{aligned}\\mathrm{v}_{\\mathrm{y}_{0}} & =\\mathrm{v}_{0} \\cos 0^{\\circ} \\\\& =0\\end{aligned}[/math]\u003Cbr\u003Et সময়ে প্রাসটি x দূরত্ব অতিক্রম করলে,[math]x=v_{x_{0}} t=v_{0} t[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]t=\\frac{x}{v_{0}}[/math]\u003Cbr\u003Eআবার, t সময়ে বস্তুটি y উচ্চতা অতিক্রম করলে,[math]y=v_{y_{0}} t+\\frac{1}{2} g^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=0 \\times t+\\frac{1}{2} g t^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{y}=\\frac{1}{2} \\mathrm{gt}^{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]y=\\frac{1}{2} g\\left(\\frac{x}{v_{0}}\\right)^{2}[/math]\u003Cbr\u003E [math]\\therefore \\quad \\mathrm{y}=\\frac{\\mathrm{g}}{2 \\mathrm{v}_{0}^{2}} \\mathrm{x}^{2}[/math]\u003Cbr\u003Eএ সমীকরণ যে কোনো মুহূর্তে x ও y এর সম্পর্ক নির্দেশ করে। এই সমীকরণই হলো অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর চলরেখের সমীকরণ।এখানে g ও [math]\\mathrm{v}_{0}[/math]\u003Cbr\u003E ধ্রুবক বলে [math]\\frac{\\mathrm{g}}{2 \\mathrm{v}_{0}^{2}}=\\mathrm{c}[/math]\u003Cbr\u003E লিখলে,[math]y=c x^{2}[/math]\u003Cbr\u003Eযা একটি পরাবৃত্তের সমীকরণ অতএব, অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর চলরেখ বা গতিপথ হচ্ছে একটি পরাবৃত্ত।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রক্ষেপক হল এমন একটি বস্তু যা প্রাথমিক অভিক্ষেপ বেগ পেয়ে কেবলমাত্র মহাকর্ষ দ্বারা নিয়ন্ত্রিত গতিপথে চলে; অর্থাৎ নিক্ষেপের পরে বায়ুপ্রতিবন্ধকতা উপেক্ষা করে গতি করে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E অনুভূমিক পাল্লা বলতে লঞ্চ পয়েন্ট থেকে ভূমিতে আঘাত করার সময় পর্যন্ত বস্তু যে অনুভূমিক দূরত্ব অতিক্রম করে তা বুঝায়; সাধারণত [math]R=v_x t[/math] দিয়ে হিসাব করা হয় যেখানে [math]v_x[/math] অনুভূমিক বেগ এবং [math]t[/math] পতনের সময়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এখানে [math]v=50\\ \\mathrm{m/s}[/math] ও কোণ [math]60^\\circ[/math] নিচের দিকে, তাই খাড়া উপাদান [math]v_{y0}=-50\\sin60^\\circ=-25\\sqrt{3}\\ \\mathrm{m/s}[/math]. উচ্চতা [math]100\\ \\mathrm{m}[/math] মানে ভূমিতে পৌঁছানোর শর্ত: [math]100-25\\sqrt{3}\\,t-\\tfrac{1}{2}(9.8)t^2=0[/math], এই সমীকরণ সমাধান করলে বাস্তব ধনাত্মক মূল হয় [math]t\\approx1.90\\ \\mathrm{s}[/math]।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অনুভূমিক নিক্ষেপে খাড়া প্রাথমিক বেগ শূন্য হয়, অনুভূমিক বেগ স্থায়ী থাকে [math]v_x=50\\cos60^\\circ=25\\ \\mathrm{m/s}[/math] এবং পতনের সময় [math]t=\\sqrt{2h/g}=\\sqrt{200/9.8}\\approx4.52\\ \\mathrm{s}[/math]; ফলে গতিপথ একটি ধনাত্মক পরাবৃত্ত (x বনাম y তে) যেখানে x সমানুপাতিকভাবে বাড়ে ও y গ্র্যাফ অ্যাক্সেলের নিচে-বক্ররেখা অনুসারে পড়ে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 400699,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:56:21.000000Z",
+            "updated_at": "2025-08-19T05:56:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400697,
+      "value": {
+        "options": {
+          "ক": "135.15m",
+          "খ": "145.15m",
+          "গ": "155.15m",
+          "ঘ": "165.15m"
+        },
+        "question": "170m উঁচু দালানের ছাদ থেকে অনুভূমিকের সাথে 30° কোণ করে নীচের দিকে একটি বস্তু নিক্ষেপ করা হল । এর আদিবেগ 40m/s । দালানের পাদবিন্দু থেকে কত দূরে এটি ভূমিতে আঘাত করবে?",
+        "solution": "[math]\\left(40 \\sin 30^{\\circ}\\right) t+\\frac{1}{2} g^{2}=170 \\Rightarrow t=4.193[/math]\u003Cbr\u003E [math]x=\\left(40 \\cos 30^{\\circ}\\right) t=40 \\frac{\\sqrt{3}}{2} \\times 4.193 \\mathrm{~m}=145.245 \\mathrm{~m}[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fcapture-removebg-preview20-202022-11-30t055525384_1755582980_vnBJm8lp.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 400697,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 54,
+          "full_name": "Jessore University of Science & Technology (A Unit)",
+          "short_name": "JUST-A",
+          "slug": "just-a",
+          "pivot": {
+            "question_bank_id": 400697,
+            "tag_id": 54,
+            "year": "11-12",
+            "created_at": "2025-08-19T05:56:20.000000Z",
+            "updated_at": "2025-08-19T05:56:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 400698,
+      "value": {
+        "options": {
+          "ক": "[math]0.5 \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math]",
+          "খ": "[math]1 \\mathrm{~m} \\cdot \\mathrm{s}^{- 1}[/math]",
+          "গ": "[math]2 \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math]",
+          "ঘ": "[math]9.8 \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math]"
+        },
+        "question": "উচ্চতা থেকে একটি স্থির বস্তু নিচের দিকে পড়ছে। বায়ু প্রবাহের কারণে বস্তুটি অনুভূমিক 1 m দূরত্বে ভূমিকে স্পর্শ করে। বায়ুর অনুভূমিক বেগ কত?",
+        "solution": "বস্তুটির পতনকালে উল্লম্ব গতি অভিকর্ষের প্রভাবে ঘটে, যা [math]\\frac{1}{2}gt^2[/math]\u003Cbr\u003E সূত্রানুসারে বস্তুর পতনের সময় ( [math]t[/math]\u003Cbr\u003E) নির্ণয়ে সহায়ক। যেহেতু প্রশ্নে উল্লম্ব পতনের দূরত্ব দেওয়া নেই, আমরা অনুভূমিক সরণ এবং উল্লম্ব পতনের সময়ের মধ্যে সম্পর্ক ব্যবহার করব। বায়ু প্রবাহ বস্তুকে অনুভূমিকভাবে সরায়। যেহেতু বায়ুর অনুভূমিক বেগ ধ্রুবক, তাই অনুভূমিক দূরত্ব ( [math]x[/math]\u003Cbr\u003E) = অনুভূমিক বেগ ( [math]v_x[/math]\u003Cbr\u003E) [math]\\times[/math]\u003Cbr\u003E সময় ( [math]t[/math]\u003Cbr\u003E)। এখানে [math]x = 1[/math]\u003Cbr\u003E m। তাই [math]1 = v_x \\times t[/math]\u003Cbr\u003E. যদি আমরা ধরে নিই যে বস্তুটি 1 সেকেন্ডে 1 মিটার দূরত্ব অতিক্রম করে (যেমনটা বিকল্প B-তে দেওয়া আছে), তবে [math]t=1[/math]\u003Cbr\u003E সেকেন্ড হবে। এই সময়কালে বস্তুটি অভিকর্ষের প্রভাবে উল্লম্বভাবে পতিত হবে। উল্লম্ব গতির জন্য কোন তথ্য না থাকায়, অনুভূমিক এবং উল্লম্ব গতির মধ্যে সম্পর্কটি সরাসরি স্থাপন করা কঠিন। তবে, প্রশ্নটির প্রেক্ষাপটে এবং বিকল্পগুলির মধ্যে, বায়ু প্রবাহের কারণে অনুভূমিকভাবে 1 মিটার দূরত্ব অতিক্রম করার জন্য সাধারণত একটি নির্দিষ্ট সময় লাগে যা উল্লম্ব পতনের সময়ের সাথে সামঞ্জস্যপূর্ণ। যদি অনুভূমিক বেগ [math]1 \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math]\u003Cbr\u003E হয় এবং বস্তুটি 1 সেকেন্ডে ভূমি স্পর্শ করে, তবে এটি 1 মিটার অনুভূমিক দূরত্ব অতিক্রম করবে। এটি একটি সরলীকৃত অনুমান যা এই ধরণের প্রশ্নে প্রায়শই করা হয় যদি অন্য কোনও তথ্য সরবরাহ না করা হয়। অন্যান্য বিকল্পগুলি এই সরলীকৃত সম্পর্ক থেকে ভিন্ন সময় বা বেগের সাথে সামঞ্জস্যপূর্ণ।",
+        "explanation": "",
+        "correct_answer": "B.[math]1 \\mathrm{~m} \\cdot \\mathrm{s}^{- 1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6319,
+      "created_at": "2025-08-19T05:56:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 400698,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T05:56:20.000000Z",
+            "updated_at": "2025-08-19T05:56:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6515&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6515&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6319&grade=1&lesson=6515&per_page=200&question_paper_id=48532&subject=280&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}

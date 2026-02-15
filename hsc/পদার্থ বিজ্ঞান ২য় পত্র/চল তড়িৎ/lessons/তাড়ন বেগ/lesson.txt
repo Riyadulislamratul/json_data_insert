@@ -1,0 +1,667 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 422694,
+      "value": {
+        "options": {
+          "ঘ": "উভয় অংশে তড়িৎ প্রবাহ একই হওয়া সত্ত্বেও তাড়ন দ্রুতি ভিন্ন হওয়ার কারণ ব্যাখ্যা কর।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun205202-3_1755588201_91YatVrO.png\" alt=\"\"\u003E\u003Cbr/\u003E\n\nচিত্রে [math]2.5 \\ mm[/math] ব্যাসের একটি অ্যালুমিনিয়াম তারের এক প্রান্ত ও [math]18 \\ mm[/math] ব্যাসের একটি তামার তারের এক প্রান্তের সাথে ঝালাই করে লাগানো আছে। এর মধ্য দিয়ে [math]1.3 \\ A[/math] স্থির মাত্রার তড়িৎ প্রবাহ চলছে। অ্যালুমিনিয়াম ও তামার একক আয়তনে মুক্ত ইলেকট্রনের সংখ্যা যথাক্রমে [math]6.1 \\times 10^{28} \\text { electron } / \\mathrm{m}^{3}[/math] ও [math]8.49 \\times 10^{28} \\text { electron } / \\mathrm{m}^{3}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eকোনো ধাতব পরিবাহকের প্রস্থচ্ছেদের ক্ষেত্রফল A, প্রতি একক আয়তনে মুক্ত ইলেকট্রনের সংখ্যা n, ইলেকট্রনের তাড়নবেগ v এবং ঐ পরিবাহকের মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহ I হলে, I = nAve যেখানে, e= প্রত্যেক ইলেকট্রনে আধানের পরিমাণ।[math]v=\\frac{I}{n A e}[/math]যেহেতু উদ্দীপকে অ্যালুমিনিয়াম ও তামার তারে তড়িৎ প্রবাহ একই সেহেতু তাড়ন বেগের মান তারদ্বয়ের প্রস্থচ্ছেদের ক্ষেত্রফল এবং প্রতি একক আয়তনে মুক্ত ইলেকট্রনের সংখ্যার উপর নির্ভরশীল। উদ্দীপকে অ্যালুমিনিয়াম ও তামার তারদ্বয়ের প্রস্থচ্ছেদের ক্ষেত্রফল ও প্রতি একর আয়তনে মুক্ত ইলেকট্রনের সংখ্যা সমান নয়। এ কারণে উভয় অংশে তড়িৎ প্রবাহ একই হওয়া স্বত্ত্বেও তাড়ন দ্রুতি ভিন্ন।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কারণ একই কারেন্টে তাড়ন দ্রুতি [math]v_d=I/(n e A)[math] সূত্রে নির্ভর করে, যেখানে [math]n[/math] মুক্ত ইলেকট্রনের ঘনত্ব ও [math]A[/math] কাটা ক্ষেত্রফল। অ্যালুমিনিয়ামের তারের ব্যাস ছোট হওয়ায় [math]A[/math] অনেক ছোট এবং তারের [math]n[/math] কপার থেকে সামান্য কম হওয়ায় একই [math]I[/math] এ অ্যালুমিনিয়ামে [math]v_d[/math] বেশি হয়, কপার তারে বড় ব্যাস ও বেশি [math]n[/math] থাকার কারণে [math]v_d[/math] ছোট থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:23:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 422694,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:23:21.000000Z",
+            "updated_at": "2025-08-19T07:23:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422695,
+      "value": {
+        "options": [],
+        "question": "একটি তারের প্রস্থচ্ছেদের ক্ষেত্রফল [math]5 \\ mm^2[/math]। এর মধ্যদিয়ে [math]20 \\ A[/math] তড়িৎ প্রবাহ চলছে। পরিবাহীর প্রতি ঘনমিটারে যুক্ত ইলেকট্রনের সংখ্যা\n\n[math]5 \\times 10^{28}[/math] হলে ইলেকট্রনের তাড়ন দ্রুতি নির্ণয় কর।",
+        "solution": "[math](5 \\times 10^{-4}ms^{-1})[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E [math][/math]\u003Cbr\u003Eএখানে,তারের প্রস্থচ্ছেদের ক্ষেত্রফল, [math]A=5mm^2[/math]\u003Cbr\u003Eতড়িৎ প্রবাহ, প্রতি ঘনমিটারে মুখত ইলেকট্রন সংখ্যা, [math]n= 5 \\times 10^{28}m^{-3}[/math]\u003Cbr\u003Eতাড়ন দ্রুতি, [math]v=?[/math]\u003Cbr\u003Eইলেক্ট্রনের চার্জ, [math]e=1.6 \\times 10^{-19}C[/math]\u003Cbr\u003Eআমরা জানি, [math]I=nAve[/math]\u003Cbr\u003E [math]\\Rightarrow \\ v=\\frac{I}{nAe}[/math]\u003Cbr\u003E [math]\\begin{array}{l} \\frac{20}{5 \\times 10^{28} \\times 5 \\times 10^{-6} \\times 1.6 \\times 10^{-19}} \\\\ \\therefore v=5 \\times 10^{-4} \\mathrm{~ms}^{-1} \\text { (Ans.) } \\\\ \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: অর্থপ্রবাহের তাড়ন দ্রুতি দেয় \n[math]v=\\dfrac{I}{n e A}[/math] \nযেখানে [math]A=5\\ \\text{mm}^2=5\\times10^{-6}\\ \\text{m}^2[/math], [math]n=5\\times10^{28}\\ \\text{m}^{-3}[/math], [math]e=1.6\\times10^{-19}\\ \\text{C}[/math]। তাই\n[math]v=\\dfrac{20}{(5\\times10^{28})(1.6\\times10^{-19})(5\\times10^{-6})}=5\\times10^{-4}\\ \\text{m/s}[/math]।\nএই মানটি ছোট কারণ তামার মতো পরিবাহীতে ইলেকট্রনের সংখ্যা খুব বেশি হলে প্রত্যেক কণার গড় তড়ন দ্রুতি অনেক কম থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:23:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 422695,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:23:21.000000Z",
+            "updated_at": "2025-08-19T07:23:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422696,
+      "value": {
+        "options": [],
+        "question": "একটি পরিবাহীতে প্রবাহমাত্রা [math]12 \\ A[/math] পরিবাহীতে একক আয়তনে ইলেকট্রন সংখ্যা [math]=5 \\times 10^{21}[/math], পরিবাহীর প্রস্থচ্ছেদের ক্ষেত্রফল [math]0.5 \\ cm^{2}[/math] এবং ইলেকট্রনের আধান [math]1.6 \\times 10^{-19}C[/math] | পরিবাহীতে ইলেকট্রনের তাড়ন বেগ কত?",
+        "solution": "[math](3 \\times 10^{-2}cms^{-1})[/math]",
+        "explanation": "ব্যাখ্যা: ব্যবহার করি [math]I = n e A v_d[/math], তাই [math]v_d = \\dfrac{I}{n e A}[/math]. একক রূপান্তর করে [math]n=5\\times10^{21}\\,cm^{-3}=5\\times10^{27}\\,m^{-3}[/math] এবং [math]A=0.5\\,cm^{2}=5\\times10^{-5}\\,m^{2}[/math] হলে\n\n[math]v_d=\\dfrac{12}{(5\\times10^{27})(1.6\\times10^{-19})(5\\times10^{-5})}=\\dfrac{12}{4.0\\times10^{4}}=3.0\\times10^{-4}\\,m/s.[/math]\n\nঅতএব ইলেকট্রনের তাড়নবেগ [math]3\\times10^{-4}\\,m/s[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:23:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 422696,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T07:23:21.000000Z",
+            "updated_at": "2025-08-19T07:23:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422697,
+      "value": {
+        "options": [],
+        "question": "ইলেকট্রনের তাড়ন বেগ কাকে বলে?",
+        "solution": "বিদ্যুৎ প্রবাহের সময় যে গড় বেগে ইলেকট্রন নিম্ন বিভব থেকে উচ্চ বিভব প্রান্তের দিকে ধাবিত হয়, তাকে ইলেকট্রনের তাড়ন বেগ বলে।",
+        "explanation": "ইলেকট্রনের তাড়ন বেগ হলো বৈদ্যুতিক ক্ষেত্রের প্রভাবে পরিবাহকের ভেতরে ইলেকট্রনগুলোর গড় সরণ্যগত দ্রুততা — অর্থাৎ তাপগত এলোমেলো গতি থেকে আলাদাভাবে ক্ষেত্রের কারণে গঠিত ক্ষুদ্র গড় গতি। কারণ ক্ষেত্র ইলেকট্রনগুলোকে নির্দিষ্ট দিকে টানে, ফলে তাদের এলোমেলো গতির উপর একটি ছোট কিন্তু নির্দিষ্ট নেট গতি তৈরি হয় যা তাড়ন বেগ বলে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:23:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 422697,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 422697,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 422697,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-08-19T07:23:21.000000Z",
+            "updated_at": "2025-08-19T07:23:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422693,
+      "value": {
+        "options": {
+          "গ": "তামা ও অ্যালুমিনিয়াম অংশে ইলেকট্রনের তাড়ন দ্রুতি নির্ণয় কর ।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fphy-220part-220pun205202-3_1755588200_tdzCQ1I4.png\" alt=\"\"\u003E\u003Cbr/\u003E\n\nচিত্রে [math]2.5 \\ mm[/math] ব্যাসের একটি অ্যালুমিনিয়াম তারের এক প্রান্ত ও [math]18 \\ mm[/math] ব্যাসের একটি তামার তারের এক প্রান্তের সাথে ঝালাই করে লাগানো আছে। এর মধ্য দিয়ে [math]1.3 \\ A[/math] স্থির মাত্রার তড়িৎ প্রবাহ চলছে। অ্যালুমিনিয়াম ও তামার একক আয়তনে মুক্ত ইলেকট্রনের সংখ্যা যথাক্রমে [math]6.1 \\times 10^{28} \\text { electron } / \\mathrm{m}^{3}[/math] ও [math]8.49 \\times 10^{28} \\text { electron } / \\mathrm{m}^{3}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, অ্যালুমিনিয়াম তারের ক্ষেত্রে,ব্যাস, [math]\\mathrm{d}_{\\mathrm{A} \\ell}=2.5 \\mathrm{~mm}=2.5 \\times 10^{-3} \\mathrm{~m}[/math]\u003Cbr\u003Eএকক আয়তনে যুক্ত ইলেকট্রন সংখ্যা, [math]\\mathrm{n}_{\\mathrm{Al}}=6.1 \\times 10^{28} \\text { electron } / \\mathrm{m}^{3}[/math]\u003Cbr\u003Eআবার তামার ক্ষেত্রে, ব্যাস , [math]\\mathrm{d}_{\\mathrm{Co}}=1.8 \\mathrm{~mm}=1.8 \\times 10^{-3} \\mathrm{~m}[/math]\u003Cbr\u003Eএকক আয়তনে মুক্ত ইলেকট্রন সংখ্যা, [math]\\mathrm{n}_{\\mathrm{Cu}}=8.49 \\times 10^{28} \\text { electron } / \\mathrm{m}^{3}[/math]\u003Cbr\u003Eউভয় তারের মধ্য দিয়ে তড়িৎ প্রবাহ, I = 1.3A ধরি, অ্যালুমিনিয়াম ও তামার অংশে ইলেকট্রনের তাড়ন দ্রুতি যথাক্রমে[math]v_{\\mathrm{Al}} , \\mathrm{v}_{\\mathrm{Cu}}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\begin{array}{c}\\mathrm{I}=\\mathrm{nAve}=\\mathrm{n} \\times \\frac{\\pi \\mathrm{d}^{2}}{4} \\times v \\mathrm{e} \\\\\\therefore \\mathrm{v}=\\frac{4 \\mathrm{I}}{\\mathrm{n} \\pi \\mathrm{d}^{2} \\mathrm{e}}\\end{array}[/math]\u003Cbr\u003Eঅ্যালুমিনিয়ামের ক্ষেত্রে,[math]\\begin{aligned}\\mathrm{v}_{\\mathrm{A} \\ell} & =\\frac{4 \\mathrm{I}}{\\mathrm{n}_{\\mathrm{A} \\ell} \\times \\pi \\mathrm{d}^{2} \\mathrm{e}} \\\\& =\\frac{4 \\times 1.3}{6.1 \\times 10^{28} \\times 3.1416 \\times\\left(2.5 \\times 10^{-23}\\right)^{2} \\times 1.6 \\times 10^{-19}} \\\\& =2.71 \\times 10^{-5} \\mathrm{~ms}^{-1} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003Eতামার ক্ষেত্রে,[math]\\begin{aligned}v_{\\mathrm{cu}} & =\\frac{4 I}{\\mathrm{n}_{\\mathrm{cu}} \\times \\pi \\mathrm{d}^{2} \\mathrm{e}} \\\\& =\\frac{4 \\times 1.3}{8.49 \\times 10^{-23} \\times 3.1416 \\times\\left(1.8 \\times 10^{-3}\\right) \\times 1.6 \\times 10^{-19}}\\end{aligned}[/math]\u003Cbr\u003E [math]=3.76 \\times 10^{-5} \\mathrm{~ms}^{-1} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E তাড়ন দ্রুতি নির্ণয়ে ব্যবহার করি [math]I = n e A v_d[/math], তাই [math]v_d=\\dfrac{I}{n e A}[/math]. অ্যালুমিনিয়ামের ক্ষেত্রফল [math]A_{Al}=\\pi(1.25\\times10^{-3})^2=4.9087\\times10^{-6}\\ \\mathrm{m^2}[/math] এবং তামার ক্ষেত্রফল [math]A_{Cu}=\\pi(9\\times10^{-3})^2=2.5447\\times10^{-4}\\ \\mathrm{m^2}[/math]। সংখ্যাগুলো বসিয়ে পাওয়া যায় [math]v_{Al}\\approx\\dfrac{1.3}{6.1\\times10^{28}\\times1.6\\times10^{-19}\\times4.9087\\times10^{-6}}\\approx2.7\\times10^{-5}\\ \\mathrm{m/s}[/math] এবং [math]v_{Cu}\\approx\\dfrac{1.3}{8.49\\times10^{28}\\times1.6\\times10^{-19}\\times2.5447\\times10^{-4}}\\approx3.8\\times10^{-7}\\ \\mathrm{m/s}[/math]। অল্প ব্যাসবিশিষ্ট অ্যালুমিনিয়ামে ক্ষেত্রফল ছোট হওয়ায় ইলেকট্রনের তাড়ন দ্রুতি বেশি হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:23:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 422693,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T07:23:20.000000Z",
+            "updated_at": "2025-08-19T07:23:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422687,
+      "value": {
+        "options": {
+          "ক": "[math]0.015625\\mathrm{~ms}^{-1}[/math]",
+          "খ": "[math]0.015625\\ \\mathrm{cms}^{-1}[/math]",
+          "গ": "[math]\\frac{1}{128}\\mathrm{~ms}^{-1}[/math]",
+          "ঘ": "[math]\\text{Impossible to calculate from above data}[/math]",
+          "ঙ": "[math]\\text{ None of them}[/math]"
+        },
+        "question": "[math]4 \\times 10^{-6} \\mathrm{~m}^{2}[/math] বিশিষ্ট একটি পরিবাহীর ভেতর দিয়ে [math]5A[/math] তড়িৎ প্রবাহিত হচ্ছে। পরিবাহীর মধ্যে চার্জের [math]5 \\times 10^{26} / \\mathrm{m}^{3}[/math] হলে ইলেক্ট্রনের [math]\\text{drift speed}[/math] কত?",
+        "solution": "[math]I\\ \\Rightarrow\\ nAve\\ \\Rightarrow\\ v=\\dfrac{1}{Ane}=\\dfrac{5}{4\\times10^{-6}\\times5\\times10^{26}\\times1.6\\times10^{-19}}ms^{-1}=\\dfrac{1}{64}\\mathrm{~ms}^{-1}=0.015625\\mathrm{~ms}^{-1}[/math]",
+        "explanation": "",
+        "correct_answer": "A.[math]0.015625\\mathrm{~ms}^{-1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:23:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 422687,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 114,
+          "full_name": "Engg Guccho (Ka Unit – Without Architecture)",
+          "short_name": "CKRUET-Ka",
+          "slug": "ckruet-ka",
+          "pivot": {
+            "question_bank_id": 422687,
+            "tag_id": 114,
+            "year": "20-21",
+            "created_at": "2025-08-19T07:23:19.000000Z",
+            "updated_at": "2025-08-19T07:23:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422688,
+      "value": {
+        "options": {
+          "ক": "[math]0.15625 \\mathrm{~ms}^{-1}[/math]",
+          "খ": "[math]0.015625 \\mathrm{cms}^{-1}[/math]",
+          "গ": "[math]\\frac{1}{128} \\mathrm{~ms}^{-1}[/math]",
+          "ঘ": "[math]None of them[/math]"
+        },
+        "question": "[math]4 \\times 10^{-6} \\mathrm{~m}^{2}[/math] প্রস্থচ্ছেদ বিশিষ্ট একটি পরিবাহীর ভেতর দিয়ে [math]5A[/math] তড়িৎ প্রবাহিত হচ্ছে। পরিবাহীর মধ্যে চার্জেল ঘনত্ব [math]5 \\times 10^{26} / \\mathrm{m}^{3}=[/math] হলে ইলেকট্রনের drift speed কত?",
+        "solution": "[math]I=nAve[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow \\mathrm{v}=\\frac{1}{\\text { Ane }}=\\frac{5}{4 \\times 10^{-6} \\times 5 \\times 10^{26} \\times 1.6 \\times 10^{-19} \\mathrm{~ms}^{-1}} \\\\=\\frac{1}{64} \\mathrm{~ms}^{-1}=0.015625 \\mathrm{~ms}^{-1}\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]0.15625 \\mathrm{~ms}^{-1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:23:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 14,
+          "year": "2020-2021",
+          "pivot": {
+            "question_bank_id": 422688,
+            "year_id": 14
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 114,
+          "full_name": "Engg Guccho (Ka Unit – Without Architecture)",
+          "short_name": "CKRUET-Ka",
+          "slug": "ckruet-ka",
+          "pivot": {
+            "question_bank_id": 422688,
+            "tag_id": 114,
+            "year": "20-21",
+            "created_at": "2025-08-19T07:23:19.000000Z",
+            "updated_at": "2025-08-19T07:23:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422689,
+      "value": {
+        "options": {
+          "ক": "[math]v=\\dfrac{j}{ne}[/math]",
+          "খ": "[math]v=jne[/math]",
+          "গ": "[math]v=\\dfrac{aj}{ne}[/math]",
+          "ঘ": "[math]v=\\dfrac{ej}{n}[/math]"
+        },
+        "question": "নিচের কোন সমীকরণটি তাড়ন বেগ ও প্রবাহঘনত্বেরমধ্যে সম্পর্ক নির্দেশ করে?",
+        "solution": "প্রবাহ ঘনত্ব ( [math]j[/math]\u003Cbr\u003E), ইলেকট্রনের সংখ্যা ঘনত্ব ( [math]n[/math]\u003Cbr\u003E), এবং ইলেকট্রনের চার্জ ( [math]e[/math]\u003Cbr\u003E) এর পরিপ্রেক্ষিতে তাড়ন বেগকে ( [math]v[/math]\u003Cbr\u003E) প্রকাশ করার জন্য সঠিক সম্পর্কটি হলো [math]j = n e v[/math]\u003Cbr\u003E. এই সমীকরণ থেকে [math]v[/math]\u003Cbr\u003E কে আলাদা করলে আমরা পাই [math]v = \\dfrac{j}{ne}[/math]\u003Cbr\u003E. অন্য বিকল্পগুলিতে এই সম্পর্কটি সঠিকভাবে প্রকাশ করা হয়নি।",
+        "explanation": "",
+        "correct_answer": "A.[math]v=\\dfrac{j}{ne}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:23:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 18,
+          "year": "2019-2020",
+          "pivot": {
+            "question_bank_id": 422689,
+            "year_id": 18
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 422689,
+            "tag_id": 57,
+            "year": "19-20",
+            "created_at": "2025-08-19T07:23:19.000000Z",
+            "updated_at": "2025-08-19T07:23:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422690,
+      "value": {
+        "options": {
+          "ক": "2.0",
+          "খ": "1.5",
+          "গ": "0.3",
+          "ঘ": "0.2",
+          "ঙ": "0.02"
+        },
+        "question": "[math]1mm[/math] ব্যাসার্ধের একটি পরিবাহী তারের ভিতর দিয়ে [math]40A[/math] বিদ্যুৎ প্রবাহিত হচ্ছে। মুক্ত ইলেকট্রনের ঘনত্ব [math]4 \\times 10^{28}[/math] ইলেকট্রনের তাড়ন বেগ কত [math]mm.s^{-1}[/math]?",
+        "solution": "[math]\\ \\text{I=nAve}\\\\ \\therefore \\text{v}=\\dfrac{1}{n A e}=1.9867 \\times 10^{-3} \\mathrm{~ms}^{-1}=2 \\mathrm{~mm.s}^{-1}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:23:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 422690,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 422690,
+            "tag_id": 73,
+            "year": "12-13",
+            "created_at": "2025-08-19T07:23:19.000000Z",
+            "updated_at": "2025-08-19T07:23:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422691,
+      "value": {
+        "options": {
+          "ক": "30 m/s",
+          "খ": "40 m/s",
+          "গ": "49 m/s",
+          "ঘ": "20 m/s"
+        },
+        "question": "একটি পাথরের টুকরা একটি 122.5m উঁচু পাহাড়ের চূড়া থেকে [math]9.8 m/s^2[/math] ধ্রুব ত্বরণে পতিত হলে মাটি স্পর্শ করার মুহুর্তে পাথরের টুকরাটি কত বেগে চলবে?",
+        "solution": "[math]\\begin{array}{l}\\text{Hints: } v^{2}=u^{2}+2 g h\\\\\\text{Solve: } v^{2}=u^{2}+2 g h \\\\\\Rightarrow v=\\sqrt{u^{2}+2 g h} \\quad[u=0]\\\\\\Rightarrow \\mathrm{v}=\\sqrt{0^{2}+2 \\times 9.8 \\times 122.5} \\\\\\therefore \\mathrm{v}=49 \\mathrm{~ms}^{-1}\\end{array}[/math]",
+        "explanation": "ব্যাখ্যাঃ u আদিবেগ নিয়ে a ত্বরণে গতিশীল কোন বস্তুর s দূরত্ব অতিক্রম করার পর বেগ [math]v^{2}=u^{2}+2 a s[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:23:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 27,
+          "year": "2007-2008",
+          "pivot": {
+            "question_bank_id": 422691,
+            "year_id": 27
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 422691,
+            "tag_id": 73,
+            "year": "07-08",
+            "created_at": "2025-08-19T07:23:19.000000Z",
+            "updated_at": "2025-08-19T07:23:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 422692,
+      "value": {
+        "options": [],
+        "question": "একটি [math]2.0cm[/math] প্রস্থ এবং [math]1.0mm[/math] পুরুত্বের কপারের পাতকে [math]B = 1.5\\ Weber/m^2[/math] চুম্বক ক্ষেত্রে রাখা হল। এই পাতের ভিতর দিয়ে [math]200\\ A[/math] বিদ্যুৎ প্রবাহিত করা হলে এর প্রস্থ বরাবর কি পরিমাণ হল বিভব পার্থক্য সৃষ্টি হবে? (কপারের মুক্ত ইলেক্ট্রনের সংখ্যা, [math]n=8.4\\times 10^{28} electron/m^3[/math]]",
+        "solution": "( Answer : [math]2.23\\times10^{-5}\\mathrm{volt}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : [math]V_{\\text{Hall }}=\\dfrac{1B}{\\text{ nte }}=\\dfrac{200\\times1.5}{8.4\\times10^{28}\\times1\\times10^{-3}\\times1.6\\times10^{-19}}=2.23\\times10^{-5}\\mathrm{volt}\\text{ (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: পাতার প্রস্থ বরাবর সৃষ্টি হওয়া হল বিভব পার্থক্য হল-ফেক্ট থেকে পাওয়া যায়, [math]E_H=v_dB[/math] এবং [math]v_d=J/(ne)=I/(newt)[math], তাই [math]V_H=E_Hw=\\dfrac{BI}{net}[/math] (প্রস্থ [math]w[/math] ক্যান্সেল হয়ে যায় এবং মাত্রা পাতের পুরুত্বের উপর নির্ভর করে)। এখানে [math]B=1.5\\ \\mathrm{T},\\ I=200\\ \\mathrm{A},\\ n=8.4\\times10^{28}\\ \\mathrm{m^{-3}},\\ e=1.6\\times10^{-19}\\ \\mathrm{C},\\ t=1.0\\times10^{-3}\\ \\mathrm{m}[/math], ফলে\n[math]V_H=\\dfrac{1.5\\times200}{(8.4\\times10^{28})(1.6\\times10^{-19})(1.0\\times10^{-3})}\\approx2.23\\times10^{-5}\\ \\mathrm{V}\\approx22.3\\ \\mu\\mathrm{V}.[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6329,
+      "created_at": "2025-08-19T07:23:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 422692,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 80,
+          "full_name": "Bangladesh University of Engineering & Technology",
+          "short_name": "BUET",
+          "slug": "buet",
+          "pivot": {
+            "question_bank_id": 422692,
+            "tag_id": 80,
+            "year": "14-15",
+            "created_at": "2025-08-19T07:23:19.000000Z",
+            "updated_at": "2025-08-19T07:23:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6329&grade=1&lesson=6635&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6329&grade=1&lesson=6635&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6329&grade=1&lesson=6635&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 11,
+  "total": 11
+}

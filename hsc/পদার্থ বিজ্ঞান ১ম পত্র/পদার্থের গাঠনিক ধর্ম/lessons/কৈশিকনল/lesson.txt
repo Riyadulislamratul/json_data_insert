@@ -1,0 +1,133 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 411482,
+      "value": {
+        "options": [],
+        "question": "একটি কাচের কৈশিক নল পেট্রোলে খাড়াভাবে ডুবানো হলে পেট্রোল কৈশিক নল বেয়ে 4 cm উপরে উঠে। পেট্রোলের পৃষ্ঠটান [math]2.5 \\times 10^{-2} \\mathrm{~N} \\cdot \\mathrm{m}^{-1}[/math] এবং ঘনত্ব [math]7.5 \\times 10^{2} \\mathrm{~kg} \\cdot \\mathrm{m}^{-3}[/math] হলে কৈশিক নলের ব্যাসার্ধ নির্ণয় করো।",
+        "solution": "( Answer : [math]1.7 \\times 10^{-4} \\mathrm{~m}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে, উচ্চতা, [math]\\mathrm{h}=4 \\mathrm{~cm}[/math]\u003Cbr\u003E [math]=4 \\times 10^{-2} \\mathrm{~m}[/math]\u003Cbr\u003Eপৃষ্ঠটান, [math]\\mathrm{T}=2.5 \\times 10^{-2} \\mathrm{Nm}^{-1}[/math]\u003Cbr\u003Eঘনত্ব, [math]\\rho=7.5 \\times 10^{2} \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003Eনলের ব্যাসার্ধ, r = ?আমরা জানি, [math]\\mathrm{T}=\\frac{\\mathrm{rh} \\rho \\mathrm{g}}{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{r}=\\frac{2 \\mathrm{~T}}{\\mathrm{~h} \\rho \\mathrm{g}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{2 \\times 2.5 \\times 10^{-2}}{4 \\times 10^{-2} \\times 7.5 \\times 10^{2}} \\times 9.8 \\mathrm{~ms}^{-2} \\\\=1.7 \\times 10^{-4} \\mathrm{~m} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: কপিল্যারির উচ্চতা [math]h=\\dfrac{2\\sigma\\cos\\theta}{\\rho g r}[/math] সূত্র দিয়ে নির্ণয় করা হয় এবং কাঁচ-পেট্রলের ক্ষেত্রে ধরা যায় [math]\\cos\\theta\\approx1[/math]. তাই [math]r=\\dfrac{2\\sigma}{\\rho g h}=\\dfrac{2\\times2.5\\times10^{-2}}{7.5\\times10^{2}\\times9.8\\times0.04}\\approx1.7\\times10^{-4}\\ \\text{m}[/math] (প্রায় [math]170\\ \\mu\\text{m}[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:45:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 411482,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:45:36.000000Z",
+            "updated_at": "2025-08-19T06:45:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 411481,
+      "value": {
+        "options": {
+          "ঘ": "গাণিতিক বিশ্লেষণের সাহায্যে দুই নলে পারদ স্তম্ভের উচ্চতার পার্থক্যের কারণ ব্যাখ্যা করো।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-17-panjeri2-03-01_1755585935_DnJEZZbz.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nউপরের চিত্র থেকে নিচের প্রশ্নের উত্তর দাও।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপকের চিত্র থেকে দেখা যায়, বায়ুর চাপে নল দুটিতে পারদ উঠেছে। লক্ষ্যণীয় এক্ষেত্রে পুরু নলে পারদ স্তম্ভের উপরিতল সমতল হওয়ায় কৈশিকতার কারণে তরলের আরোহণ বা অবনমন হয় নি। ফলে এ নলে পারদের চাপ বায়ুমণ্ডলের প্রকৃত চাপ নির্দেশ করে। অন্যদিকে সরু নলের মধ্যে, পারদের উপরিতল গোলীয় হওয়ায় কৈশিকতার কারণে তরলের অবনমন হয়। কৈশিকতার কারণে তরলের অবনমন [math]\\mathrm{h}^{\\prime}[/math]\u003Cbr\u003E হলে,তরলের পৃষ্ঠটান, [math]\\mathrm{T}=\\frac{\\pi \\rho_{\\mathrm{gh}}}{2 \\cos \\theta}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{h}=\\frac{2 \\mathrm{~T} \\cos \\theta}{\\pi \\rho_{\\mathrm{g}}}[/math]\u003Cbr\u003Eউদ্দীপক হতে,কাচের সাথে পারদের স্পর্শ কোণ, [math]\\theta=140^{\\circ}[/math]\u003Cbr\u003Eপারদের পৃষ্ঠটান, [math]\\mathrm{T}=4.65 \\times 10^{-1} \\mathrm{Nm}^{-1}=0.465 \\mathrm{Nm}^{-1}[/math]\u003Cbr\u003Eকৈশিক নলের ব্যাসার্ধ, [math]\\mathrm{r}=1.5 \\mathrm{~mm}=0.0015 \\mathrm{~m}[/math]\u003Cbr\u003Eপারদের ঘনত্ব, [math]\\rho=13596 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eঅতএব, [math]h^{\\prime}=\\frac{2(0.465)\\left(\\cos 140^{\\circ}\\right)}{(0.0015)(13596)(9.8)} \\mathrm{m}[/math]\u003Cbr\u003E [math]=-0.0036 \\mathrm{~m}=-3.6 \\mathrm{~mm}[/math]\u003Cbr\u003Eএখানে, ঋণাত্মক চিহ্ন দ্বারা অবনমন বুঝায়। অতএব সরু নলের মধ্যে পারদ স্তম্ভের উচ্চতা অপেক্ষা মোটা নলে পারদ স্তম্ভের উচ্চতা কম হবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: U-নল ধরে একই অনুভূমিক স্তরে চাপসমতা থাকায়\n[math]ρ_1 g h_1 + ρ_{Hg} g h_{Hg1} = ρ_2 g h_2 + ρ_{Hg} g h_{Hg2}[/math]।\nএটি সরল করলে পাই\n[math]ρ_{Hg}(h_{Hg2}-h_{Hg1}) = ρ_1 h_1 - ρ_2 h_2 \\Rightarrow Δh_{Hg}=\\frac{ρ_1 h_1-ρ_2 h_2}{ρ_{Hg}}[/math]।\nঅর্থাৎ পারদের উচ্চতার পার্থক্য দুটি তরলের ঘনত্ব ও তাদের স্তম্ভের উচ্চতার অনুষঙ্গিক ফলাফল—ঘনত্ব ভিন্ন হলে সমান চাপ রাখতে পারদের উচ্চতাও বদলায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:45:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 411481,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:45:36.000000Z",
+            "updated_at": "2025-08-19T06:45:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6323&grade=1&lesson=6571&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6323&grade=1&lesson=6571&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6323&grade=1&lesson=6571&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 2,
+  "total": 2
+}

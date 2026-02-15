@@ -1,0 +1,798 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 414319,
+      "value": {
+        "options": {
+          "গ": "পাহাড়ের চূড়ায় সরল দোলকের দোলনকাল বের কর।"
+        },
+        "question": "মতিন একদিন একটি সেকেন্ড দোলককে পাহাড়ের পাদদেশে নিয়ে গেলে সঠিক সময় পায় কিন্তু পাহাড়ের চূড়ায় নিয়ে গিয়ে সে লক্ষ্য করল যে দোলকটি ঘণ্টায় 30 সেকেন্ড সময় হারায়। [ পৃথিবীর ব্যাসার্ধ R - 6400km, অভিকর্ষজ ত্বরণ [math]\\mathrm{g}=9.8 \\mathrm{~m} / \\mathrm{s}^{2 }[/math]]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eদেওয়া আছে,পাহাড়ের চূড়ায় প্রতি ঘণ্টায় প্রাপ্ত অর্ধদোলন সংখ্যা,[math]\\begin{array}{l}=3600-30 \\\\=3570\\end{array}[/math]\u003Cbr\u003Eযেহেতু 3570 গুলো অর্ধদোলন দেয় 3600 সেকেন্ডে\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-19-panjeri2-2042-1_1755586437_zQSPbPWo.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]=2.0168 \\mathrm{sec}[/math]\u003Cbr\u003Eইহাই নির্ণেয় দোলনকাল। (Ans.) [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E মানে সেকেন্ড দোলকের পূর্ণ দোলনের নামমাত্র কাল [math]T=2\\ \\text{s}[/math]। এটি প্রতি ঘন্টায় 30 সেকেন্ড হারাচ্ছে, তাই বাস্তব এক ঘন্টায় প্রদর্শিত সময় [math]3600-30=3570\\ \\text{s}[/math]। প্রদর্শিত সময় = (এক ঘন্টায় দোলনের সংখ্যা)×(প্রতি দোলনের নামমাত্র সময়) = [math]\\dfrac{3600}{T'}\\times 2=\\dfrac{7200}{T'}[/math]। তাই [math]\\dfrac{7200}{T'}=3570\\Rightarrow T'=\\dfrac{7200}{3570}=\\dfrac{240}{119}\\approx2.0168\\ \\text{s}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414319,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:53:57.000000Z",
+            "updated_at": "2025-08-19T06:53:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414320,
+      "value": {
+        "options": {
+          "গ": "বায়ুতে শব্দের বেগ [math]340 {~ms}^{-1}[/math] হলে দুই মুখ খোলা ১ম ও ২য় উপসুরের কম্পাঙ্ক নির্ণয় কর।"
+        },
+        "question": "পদার্থ বিজ্ঞান ব্যবহারিক ক্লাসে নীলা, দীনা ও বিনা তরঙ্গ নিয়ে কাজ করছিলো। নীলা [math]0.18\\ m[/math] দৈর্ঘ্যের একটি দুই মুখ খোলা নল নিলো এবং [math]0.4 \\ {kg} {m}^{-3}[/math] ঘনত্বের মাধ্যমে একটি সুতা টানটান করে একটি তরঙ্গ সৃষ্টি করলো। সুতার তরঙ্গের সমীকরণ [math]{y}=0.9 \\sin \\left(\\dfrac{x}{15}+\\dfrac{2 t}{0.3}\\right) \\text { S.I}[/math] একক। অপরদিকে দিনা ও বিনা দুটি স্থানের শব্দের তীব্রতা লেভেল [math]68\\ dB[/math] এবং [math]74\\ dB[/math] পরিমাপ করল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, নলের দৈর্ঘ্য, [math]l=0.18 \\mathrm{~m}[/math]\u003Cbr\u003Eশব্দের বেগ, [math]\\mathrm{v}=340 \\mathrm{~m} \\mathrm{~s}^{-1}[/math]\u003Cbr\u003Eআমরা জানি, দুই মুখ খোলা নলে ১ম উপসুরের জন্য, [math]\\lambda_{1}=l[/math]\u003Cbr\u003E [math]\\hspace{2.5cm}\\Rightarrow\\lambda_{1}=0.18 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ১ম উপসুরের কম্পাঙ্ক, [math]f_1=\\frac{\\mathrm v}{\\lambda_1}[/math]\u003Cbr\u003E [math]\\hspace{5cm}=\\frac{340 \\mathrm{~m} \\mathrm{~s}^{-1}}{0.18 \\mathrm{~m}}=1888.89 \\mathrm{~Hz}[/math]\u003Cbr\u003Eআবার, ২য় উপসুরের জন্য, [math]\\lambda_{2}=\\frac{2}{3} l[/math]\u003Cbr\u003E [math]\\hspace{5.2cm}=\\frac{2}{3} \\times 0.18 \\mathrm{~m}=0.12 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ২য় উপসুরের কম্পাঙ্ক, [math]f_2=\\frac{\\mathrm v}{\\lambda_2}[/math]\u003Cbr\u003E [math]\\hspace{5cm}=\\frac{340}{0.12} \\mathrm{~Hz}=2833.33 \\mathrm{~Hz}[/math]\u003Cbr\u003Eঅতএব, নির্ণেয় ১ম ও ২য় উপসুরের কম্পাঙ্ক যথাক্রমে 1888.89 Hz এবং 2833.33 Hz [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দুই-মুখ খোলা নলের জন্য হারমনিকগুলোর সূত্র [math]f_n=\\dfrac{n v}{2L}[/math] যেখানে [math]v=340\\ {m/s}[/math], [math]L=0.18\\ m[/math]. তাই প্রথম উপসুরে [math]f_1=\\dfrac{340}{2\\times0.18}=944.44\\ \\text{Hz}[/math] এবং দ্বিতীয় উপসুরে [math]f_2=\\dfrac{2\\times340}{2\\times0.18}=1888.89\\ \\text{Hz}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414320,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 344,
+          "full_name": "Ideal School & College, Motijheel, Dhaka",
+          "short_name": "ISCM",
+          "slug": "iscm",
+          "pivot": {
+            "question_bank_id": 414320,
+            "tag_id": 344,
+            "year": "2020",
+            "created_at": "2025-08-19T06:53:57.000000Z",
+            "updated_at": "2025-08-19T06:53:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414318,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের নল দুটি কী একই কম্পাঙ্কের মূল সুর তৈরি করতে পারবে? যদি না পারে তাহলে কীভাবে একই। কম্পাঙ্কের মূল সুর তৈরি করা সম্ভব বিশ্লেষণ করো।"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-19-panjeri2-2018-02_1755586436_Ly6WxvhH.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nচিত্রে একমুখ খোলা নল (ক) এবং দুই মুখ খোলা নলে (খ) বায়ুস্তরের কম্পন দেখানো হয়েছে। নল দুটির প্রত্যেকটির দৈর্ঘ্য [math]l[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএকমুখ খোলা নলে মূলসুরের কম্পাঙ্ক [math]\\mathrm{f}=\\frac{\\mathrm{v}}{4 l}[/math]\u003Cbr\u003E ........(i)এবং দুই মুখ খোলা নলে মূলসুরের কম্পাঙ্ক, [math]\\mathrm{f}=\\frac{\\mathrm{v}}{2 l}[/math]\u003Cbr\u003E ...... (ii)এখানে [math]l[/math]\u003Cbr\u003E হলো নলের দৈর্ঘ্য(i) ও (ii) নং হতে স্পষ্ট যে, উভয় ক্ষেত্রে v এবং [math]l[/math]\u003Cbr\u003E এর মান একই হলে, একমুখ খোলা নলে মূলসুরের কম্পাঙ্ক [math]\\neq[/math]\u003Cbr\u003E দুই মুখ খোলা নলে মূল সুরের কম্পাঙ্ক।এক্ষেত্রে, দুই মুখ খোলা নলে মূল সুরের কম্পাঙ্ক [math]=2 \\times[/math]\u003Cbr\u003E একমুখ খোলা নলে মূল সুরের কম্পাঙ্ক। উভয় নলে একই কম্পাঙ্কের মূলসূর উৎপন্ন করতে হলে, এক মুখ খোলা নলের মূলসূরের কম্পাঙ্ক বাড়িয়ে দুইমুখ খোলা নলের মূলসুরের কম্পাঙ্কের সমান করতে হবে।(i) নং সমীকরণ অনুযায়ী, [math]\\mathrm{f} \\propto \\frac{1}{l}(\\because \\mathrm{v}[/math]\u003Cbr\u003E ধ্রুবক )কম্পাঙ্ক দ্বিগুণ করতে হলে নলের দৈর্ঘ্য পূর্বের তুলনায় অর্ধেক করতে হবে। সুতরাং একমুখ খোলা নলের দৈর্ঘ্য কেটে পূর্বের তুলনায় অর্ধেক করা হলে, উদ্দীপকের নল দুটি একই কম্পাঙ্কের মূলসূর উৎপন্ন করতে পারবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E না — যে নল দুটির দৈর্ঘ্য একই [math]l[/math] থাকলে একমুখ‑খোলা নলের মূল সুরের হার [math]f_{\\text{one‑open}}=\\dfrac{v}{4l}[/math] এবং দুইমুখ‑খোলা নলের মূল সুরের হার [math]f_{\\text{two‑open}}=\\dfrac{v}{2l}[/math] হয়, অর্থাৎ দুইমুখ‑খোলা নলের ফ্রিকোয়েন্সি দ্বিগুণ। একই মূল সুর পেতে হলে একমুখ‑খোলা নলের দৈর্ঘ্য পরিবর্তন করতে হবে; যদি একমুখ‑খোলা নলের নতুন দৈর্ঘ্য [math]l'=\\dfrac{l}{2}[/math] রাখা হয় তাহলে [math]f=\\dfrac{v}{4l'}=\\dfrac{v}{2l}[/math] হয়ে দুই নল একই মূল সুর তৈরি করবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414318,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:53:56.000000Z",
+            "updated_at": "2025-08-19T06:53:56.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414315,
+      "value": {
+        "options": {
+          "ঘ": "চিত্রের সাহায্যে একমুখ ও দুইমুখ খোলা নলের মূল সুর ও প্রথম উপসুর গঠন বিশ্লেষণ করো।"
+        },
+        "question": "একটি একমুখ খোলা নলের প্রথম উপসুর একটি দুইমুখ খোলা নলের প্রথম উপসুরের সাথে ঐকতানে আছে। একমুখ খোলা নলের মূল সুরের কম্পাংক 100 Hz এবং বাতাসে শব্দের বেগ 350 [math]\\mathrm{m.s}^{-1}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eযদি নলের মাঝে কোনো সুস্পন্দ বিন্দু বা নিস্পন্দ বিন্দু সৃষ্টি না হয় তবে এক মুখ বন্ধ নলের বন্ধ প্রান্তে নিস্পন্দ বিন্দু আর খোলা প্রান্তে সুস্পন্দ বিন্দু গঠিত হবে অর্থাৎ নলে একটি অর্ধ লুপ গঠিত হবে (চিত্র: ১-ক)। একমুখ বন্ধ নলে বায়ুস্তম্ভের এরূপ কম্পনের ফলে যে সুর নির্গত হয় তা ঐ বায়ুস্তম্ভের জন্য প্রথম সমমেল বা মূল সুর। এক্ষেত্রে নলের দৈর্ঘ্য তরঙ্গ দৈর্ঘ্যের এক-চতুর্থাংশের সমান হয় অর্থাৎ [math]L=\\lambda_{1} / 4[/math]\u003Cbr\u003E হয়। বায়ুতে শব্দের বেগ v এবং মূল সুরের কম্পাঙ্ক [math]f_{1}[/math]\u003Cbr\u003E হলে,[math]\\mathrm{v}=f_{1} \\lambda_{1}=4 f_{1} L[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-19-panjeri2-2026-1_1755586435_VkfW0w9p.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eএকমুখ বন্ধ নলে বায়ুস্তম্ভের মূল সুরের কম্পাঙ্ক,[math]f_{1}=\\frac{v}{4 L}[/math]\u003Cbr\u003Eযদি নলের মাঝে একটি সুস্পন্দ বিন্দু ও একটি নিস্পন্দ বিন্দু সৃষ্টি হয় তবে এক মুখ বন্ধ নলে একটি পূর্ণ ও একটি অর্ধ লুপ গঠিত হবে (চিত্র: ১-খ)। সেক্ষেত্রে নলের দৈর্ঘ্য তরঙ্গ দৈর্ঘ্যের তিন-চতুর্থাংশের সমান হয় অর্থাৎ [math]L=3 \\lambda_{2} / 4[/math]\u003Cbr\u003E হয়। এক মুখ বন্ধ নলে বায়ুস্তম্ভের এরূপ কম্পনের ফলে যে সুর নির্গত হয় তা ঐ বায়ুস্তম্ভের জন্য প্রথম উপসূর। প্রথম উপসুরের কম্পাঙ্ক [math]f_{2}[/math]\u003Cbr\u003E হলে,[math]v=f_{2} \\lambda_{2}=\\frac{4}{3} f_{2} L[/math]\u003Cbr\u003Eসুতরাং একমুখ বন্ধ নলে বায়ুস্তম্ভের প্রথম উপসুরের কম্পাঙ্ক,দুই মুখ খোলা নলের বায়ুস্তম্ভের কম্পাঙ্ক:যদি নলের মাঝে অতিরিক্ত কোনো সুস্পন্দ বিন্দু সৃষ্টি না হয় তবে দুই মুখ খোলা নলের দুপ্রান্তে দুটি সুস্পন্দ বিন্দু এবং মাঝে একটি নিস্পন্দ বিন্দু গঠিত হবে অর্থাৎ নলে দুটি অর্ধলুপ গঠিত হবে (চিত্র: ২-ক)। দুই মুখ খোলা নলে বায়ুস্তম্ভের এরূপ কম্পনের ফলে যে সুর নির্গত হয় তা ঐ বায়ুস্তম্ভের জন্য প্রথম সমমেল বা মূল সুর। এক্ষেত্রে নলের দৈর্ঘ্য তরঙ্গ দৈর্ঘ্যের অর্ধেকের সমান হয় অর্থাৎ [math]L=\\lambda_{1} / 2[/math]\u003Cbr\u003E হয়। বায়ুতে শব্দের বেগ v এবং মূল সুরের কম্পাঙ্ক [math]f_{1}[/math]\u003Cbr\u003E হলে,[math]v=f_{1} \\lambda_{1}=2 f_{1} L[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-19-panjeri2-2027-1_1755586435_T1UxtzdO.png\" alt=\"undefined\"\u003E\u003Cbr/\u003Eসুতরাং দুই মুখ খোলা নলে বায়ুস্তম্ভের মূল সুরের কম্পাঙ্ক,[math]f_{2}=\\frac{v}{L}=2 \\times \\frac{v}{2 L}=2 f_{1}[/math]\u003Cbr\u003Eযদি নলের মাঝে একটি সুস্পন্দ বিন্দু ও দুটি নিস্পন্দ বিন্দু সৃষ্টি হয় তবে দুই মুখ খোলা নলে একটি পূর্ণ ও দুটি অর্ধলুপ গঠিত হবে (চিত্র: ২-খ)'। সেক্ষেত্রে নলের দৈর্ঘ্য তরঙ্গদৈর্ঘ্যের সমান হয় অর্থাৎ [math]L=\\lambda_{2}[/math]\u003Cbr\u003E হয়। দুই মুখ খোলা নলে বায়ুস্তম্ভের এরূপ কম্পনের ফলে যে সুর নির্গত হয় তা ঐ বায়ুস্তম্ভের জন্য প্রথম উপসুরের কম্পাঙ্ক [math]f_{2}[/math]\u003Cbr\u003E হলে,[math]v=f_{2} \\lambda_{2}=f_{2} L[/math]\u003Cbr\u003Eসুতরাং দুই মুখ খোলা নলে বায়ুস্তম্ভের প্রথম উপসুরের কম্পাঙ্ক,[math]f_{2}=\\frac{v}{L}=2 \\times \\frac{v}{2 L}=2 f_{1}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E একমুখ খোলা নলের মূল সুরে বন্ধ প্রান্তে গঠিত হবে নোড এবং খোলা প্রান্তে অ্যান্টিনোড, এখানে [math]\\lambda = v/f = 350/100 = 3.5\\ \\mathrm{m}[/math] তাই লম্বা [math]L=\\lambda/4=0.875\\ \\mathrm{m}[/math]; প্রথম উপসুরটি হল তৃতীয় হারমনিক (3rd), লহরি বিন্যাসে থাকবে এক অতিরিক্ত নোড ও অ্যান্টিনোড এবং কম্পাংক [math]3\\times100=300\\ \\mathrm{Hz}[/math]. দুইমুখ খোলা নলের মূল সুরে দুই শেষে অ্যান্টিনোড, [math]L=\\lambda/2[/math] এবং প্রথম উপসুর (দ্বিতীয় হারমনিক) হলে লম্বা [math]L=\\lambda[/math] ও মাঝখানে নোড ও দুই প্রান্তে অ্যান্টিনোড থাকবে; এই প্রথম উপসুরের কম্পাংক হবে [math]2f_0=300\\ \\mathrm{Hz}[/math], ফলে উভয় নলের প্রথম উপসুরের গঠন ও ফ্রিকোয়েন্সি চিত্রানুযায়ী মেলে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414315,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:53:55.000000Z",
+            "updated_at": "2025-08-19T06:53:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414316,
+      "value": {
+        "options": [],
+        "question": "একটি বন্ধ অর্গান নলের দৈর্ঘ্য 15 cm। নলটির মূল সুরের কম্পাঙ্ক 560 Hz হলে বায়ুতে শব্দের বেগ নির্ণয় করো।",
+        "solution": "( Answer : [math]336 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,কম্পাঙ্ক, [math]f=560 \\mathrm{~Hz}[/math]\u003Cbr\u003Eনলের দৈর্ঘ্য, [math]l=15 \\mathrm{~cm}=0.15 \\mathrm{~m}[/math]\u003Cbr\u003Eশব্দের বেগ, [math]\\mathrm{v}=\\text { ? }[/math]\u003Cbr\u003Eএক মুখ বন্ধ নলের ক্ষেত্রে মূল সুরের জন্য আমরা জানি,[math]\\mathrm{f}=\\frac{\\mathrm{v}}{4 l}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{v}=4 \\mathrm{f}l[/math]\u003Cbr\u003E [math]\\begin{array}{l}=4 \\times 560 \\mathrm{~Hz} \\times 0.15 \\mathrm{~m} \\\\=336 \\mathrm{~ms}^{-1} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "নলটি এক প্রান্তে বন্ধ হলে মূল সুরের তরঙ্গদৈর্ঘ্য [math]\\lambda=4L[/math] হয়, তাই শব্দের বেগ [math]v=f\\lambda=4fL[/math]. এখানে [math]L=0.15\\ \\text{m}[/math] ও [math]f=560\\ \\text{Hz}[/math], ফলে [math]v=560\\times4\\times0.15=336\\ \\text{m/s}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414316,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:53:55.000000Z",
+            "updated_at": "2025-08-19T06:53:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414317,
+      "value": {
+        "options": [],
+        "question": "একটি লোহার ফাঁপা নলের একমুখে আঘাত করে অপরমুখে দুইটি শব্দ শোনার জন্য নলের দৈর্ঘ্য ন্যূন তম কত হতে হবে? লোহা ও বায়ুতে শব্দের বেগ যথাক্রমে [math]5130 \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math] ও [math]350 \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math]।",
+        "solution": "( Answer : [math]37.56 \\mathrm{~m}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,লোহাতে শব্দের বেগ, [math]\\nu_{\\mathrm{i}}[/math]\u003Cbr\u003E [math]=5130 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eবায়ুতে শব্দের বেগ, [math]\\nu_{\\mathrm{a}}[/math]\u003Cbr\u003E [math]=350 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eমানুষের শ্রবণ অনুভূতির ন্যূনতম সময়, [math]\\mathrm{t}=0.1 \\mathrm{~s}[/math]\u003Cbr\u003Eনলের ন্যূনতম দৈর্ঘ্য, [math]l[/math]\u003Cbr\u003E = ?দুটি শব্দ শোনার জন্য নলের অপরপ্রান্তে বায়ু মাধ্যম ও লোহা মাধ্যম দিয়ে শব্দ অতিক্রম করতে সময়ের পার্থক্য ন্যূনতম 0.1s হতে হবে[math]\\therefore \\frac{l}{\\nu_{\\mathrm{a}}}-\\frac{l}{\\nu_{\\mathrm{i}}}=0.1[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]l\\left(\\frac{1}{350}-\\frac{1}{5130}\\right)=0.1[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]l=\\frac{0.1}{\\left(\\frac{1}{350}-\\frac{1}{5130}\\right)}[/math]\u003Cbr\u003E [math]\\therefore l=37.56 \\mathrm{~m} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "দুটি শব্দ একসাথে আলাদা করে শোনা যাবে যদি বাতাস ও লোহার মাধ্যমে আসা শব্দের সময়ের পার্থক্য অন্তত কানে শনাক্তযোগ্য মান ধরে নেওয়া হয় (সাধারণত [math]0.01\\ \\text{s}[/math])। সময়ের পার্থক্য [math]\\Delta t=L\\Big(\\dfrac{1}{v_{\\text{air}}}-\\dfrac{1}{v_{\\text{iron}}}\\Big)[/math] হওয়ায়  \n[math]L=\\dfrac{0.01}{\\dfrac{1}{350}-\\dfrac{1}{5130}}\\approx 3.76\\ \\text{m}[/math]। তাই ন্যূনতম দৈর্ঘ্য প্রায় [math]3.76\\ \\text{m}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414317,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:53:55.000000Z",
+            "updated_at": "2025-08-19T06:53:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414307,
+      "value": {
+        "options": {
+          "A": "20 cm",
+          "B": "10 cm",
+          "C": "5 cm",
+          "D": "2.5 cm"
+        },
+        "question": "\u003Cbr/\u003E\u003Cimg src=\"https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20PHY%2019%20bOard%20MCQ-'_5--.png?alt=media&token=03206689-9592-4fed-af13-709918687b69\" alt=\"undefined\"\u003E\u003Cbr/\u003E\n\nউদ্দীপকের চিত্রের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\n[math]MN = 40\\ cm[/math] হলে, [math]AB = ?[/math]",
+        "solution": "এখানে, [math]MN =[/math]\u003Cbr\u003E চারটি লুপ [math]= 2 \\times 2[/math]\u003Cbr\u003E টি লুপ [math]=2\\lambda[/math]\u003Cbr\u003E।[math]AB=[/math]\u003Cbr\u003E পরস্পর বিপরীত দশায় থাকা পাশাপাশি দুটি কণার দূরত্ব [math]=\\dfrac{\\lambda}{2}=\\dfrac{1}{4} \\times 2 \\lambda=\\dfrac{1}{4} \\times 40 \\mathrm{~cm}=10 \\mathrm{~cm}[/math]\u003Cbr\u003E।স্থির তরঙ্গের ক্ষেত্রে পাশাপাশি দুটি নোড বা এন্টিনোডের দূরত্ব [math]=\\dfrac{\\lambda}{2}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "B.10 cm"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 414307,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414307,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 414307,
+            "tag_id": 6,
+            "year": "2019",
+            "created_at": "2025-08-19T06:53:53.000000Z",
+            "updated_at": "2025-08-19T06:53:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414308,
+      "value": {
+        "options": {
+          "ক": "একটি মাত্র বাদ্যযন্ত্র বাজিয়ে",
+          "খ": "অনেকগুলো বাদ্যযন্ত্র একসঙ্গে বাজিয়ে",
+          "গ": "কয়েকটি শব্দ একের পর এক উচ্চারিত করে",
+          "ঘ": "কতগুলো শব্দ একসঙ্গে উৎপাদন করে"
+        },
+        "question": "সলো (Solo) কিভাবে সৃষ্টি হয়?",
+        "solution": "সলো (Solo): একটি মাত্র বাদ্যযন্ত্র হতে যে স্বর সৃষ্টি হয় তাকে সলো বা একক সঙ্গীত বলে।",
+        "explanation": "",
+        "correct_answer": "A.একটি মাত্র বাদ্যযন্ত্র বাজিয়ে"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 414308,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 757,
+          "full_name": "Jhenidah Government Veterinary College",
+          "short_name": "JGVC",
+          "slug": "jgvc",
+          "pivot": {
+            "question_bank_id": 414308,
+            "tag_id": 757,
+            "year": "17-18",
+            "created_at": "2025-08-19T06:53:53.000000Z",
+            "updated_at": "2025-08-19T06:53:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414309,
+      "value": {
+        "options": {
+          "ক": "ত্রয়ী",
+          "খ": "সমতান",
+          "গ": "অর্কেস্ট্রা",
+          "ঘ": "সলো"
+        },
+        "question": "একটি মাত্র বাদ্যযন্ত্র বাজালে যে সুরের সৃষ্টি হয় তাকে কি বলে?",
+        "solution": "একটি মাত্র বাদ্যযন্ত্র বা গায়কী দ্বারা পরিবেশিত সুরকে 'সলো' বলে। এটি একক পরিবেশনাকে বোঝায়। ত্রয়ী বলতে তিনটি বাদ্যযন্ত্রের সমন্বয়, সমতান বলতে একই রকম সুর বা তাল এবং অর্কেস্ট্রা হলো অনেক বাদ্যযন্ত্রের সমন্বয়ে গঠিত সঙ্গীত দল, তাই এই বিকল্পগুলি সঠিক নয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 414309,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 414309,
+            "tag_id": 3,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:53:53.000000Z",
+            "updated_at": "2025-08-19T06:53:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414310,
+      "value": {
+        "options": {
+          "ক": "লম্বিক এবং স্থির",
+          "খ": "লম্বিক এবং অগ্রগামী",
+          "গ": "আর ও অগ্রগামী",
+          "ঘ": "আড় ও স্থির"
+        },
+        "question": "একমুখ বন্ধ একটি নলে একটি শব্দতরঙ্গ সৃষ্টি করা হলো। নলের দৈর্ঘ্য এমনভাবে ঠিক করা হলো যেন নলের ভেতরে শব্দ সর্বোচ্চ জোরালো হয়। নলের ভেতরে শব্দ তরঙ্গের প্রকৃতি কী হবে?",
+        "solution": "নলের ভেতরে সৃষ্ট শব্দতরঙ্গটি স্থির তরঙ্গ (standing wave) হবে। যেহেতু নলের মুখটি বন্ধ, তাই সেখানে শব্দের বেগ শূন্য হয় (নিস্পন্দ বিন্দু) এবং অন্য প্রান্ত খোলা থাকায় সেখানে শব্দের বিস্তার সর্বোচ্চ হয় (কম্পন বিন্দু)। লম্বিক তরঙ্গ (longitudinal wave) হল শব্দের ক্ষেত্রে প্রযোজ্য, কারণ শব্দ বায়ু মাধ্যমের কণাগুলির সমান্তরালে কম্পনের মাধ্যমে সঞ্চালিত হয়। অগ্রগামী তরঙ্গ (travelling wave) আলোকের ক্ষেত্রে প্রযোজ্য, যেখানে তরঙ্গ মাধ্যমের কণাগুলির কম্পনের দিকের সাথে লম্বভাবে সঞ্চালিত হয়।\n\nশব্দতরঙ্গ একটি যান্ত্রিক তরঙ্গ, যা বায়ু বা অন্য কোনো মাধ্যমের কণাগুলির কম্পনের মাধ্যমে সঞ্চালিত হয়। এই তরঙ্গ লম্বিক প্রকৃতির। একমুখ বন্ধ নলের ক্ষেত্রে, বন্ধ প্রান্তে নিস্পন্দ বিন্দু (node) এবং খোলা প্রান্তে কম্পন বিন্দু (antinode) তৈরি হয়, যা স্থির তরঙ্গের বৈশিষ্ট্য।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414310,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:53:53.000000Z",
+            "updated_at": "2025-08-19T06:53:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414311,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একমুখ বন্ধ নলে যখন মৌলিক সুর উৎপন্ন হয় তখন—\n\ni. একটিমাত্র সম্পন্ন ও নিষ্পন্ন বিন্দু থাকে\n\nii. এর তরঙ্গদৈর্ঘ্য সবচেয়ে কম\n\niii. একে প্রথম হারমোনিক বলে\n\nনিচের কোনটি সঠিক?",
+        "solution": "একমুখ বন্ধ নলে যখন মৌলিক সুর (fundamental note) উৎপন্ন হয়, তখন নলের খোলা মুখে একটি অ সম্পন্ন (antinode) এবং বন্ধ মুখে একটি সম্পন্ন (node) তৈরি হয়। এটিই হলো সবচেয়ে সরল কম্পন অবস্থা, যেখানে কেবল একটি অ সম্পন্ন ও একটি সম্পন্ন বিন্দু থাকে। এই অবস্থায় উৎপন্ন সুরের তরঙ্গদৈর্ঘ্য নলের দৈর্ঘ্যের চার গুণ হয় ( [math]\\lambda = 4L[/math]), যা সর্বোচ্চ তরঙ্গদৈর্ঘ্য নির্দেশ করে, সর্বনিম্ন নয়। এই মৌলিক সুরকেই প্রথম হারমোনিক (first harmonic) বা গ্রাউন্ড স্টেট (ground state) বলা হয়। তাই, i এবং iii বিবৃতি দুটি সঠিক।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414311,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:53:53.000000Z",
+            "updated_at": "2025-08-19T06:53:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414312,
+      "value": {
+        "options": {
+          "ক": "দ্বিতীয় উপসুর",
+          "খ": "তৃতীয় উপসুর",
+          "গ": "চতুর্থ উপসুর",
+          "ঘ": "পঞ্চম উপসুর"
+        },
+        "question": "বন্ধ নলে উৎপন্ন পঞ্চম সমমেল হলো এই নলের–",
+        "solution": "বদ্ধ নলে (closed pipe) মূল সুরের কম্পাঙ্ক ( [math]f_0[/math]\u003Cbr\u003E) হলে, উৎপন্ন সুরগুলো হল [math]f_0, 3f_0, 5f_0, 7f_0, 9f_0, \\dots[/math]\u003Cbr\u003E । এই সুরগুলোকে বলা হয় মূল সুর ও তার বিজোড় গুণিতক। উপসুর (overtone) হল মূল সুরের চেয়ে উচ্চতর কম্পাঙ্কের যেকোনো সুর।প্রথম উপসুর হল [math]3f_0[/math]\u003Cbr\u003E, যা মূল সুরের তৃতীয় গুণিতক।দ্বিতীয় উপসুর হল [math]5f_0[/math]\u003Cbr\u003E, যা মূল সুরের পঞ্চম গুণিতক।তৃতীয় উপসুর হল [math]7f_0[/math]\u003Cbr\u003E, যা মূল সুরের সপ্তম গুণিতক।সুতরাং, পঞ্চম সমমেল (fifth harmonic) হল [math]5f_0[/math]\u003Cbr\u003E, যা মূল সুরের পঞ্চম গুণিতক। এটি বদ্ধ নলের ক্ষেত্রে দ্বিতীয় উপসুর (second overtone)।সাধারণভাবে, বদ্ধ নলের ক্ষেত্রে n-তম উপসুর (overtone) মূল সুরের [math](2n+1)[/math]\u003Cbr\u003E তম গুণিতক হয়, অর্থাৎ [math](2n+1)f_0[/math]\u003Cbr\u003E ।এখানে, পঞ্চম সমমেল হল [math]5f_0[/math]\u003Cbr\u003E । তাহলে [math]2n+1 = 5[/math]\u003Cbr\u003E ।[math]2n = 5 - 1[/math]\u003Cbr\u003E [math]2n = 4[/math]\u003Cbr\u003E [math]n = 2[/math]\u003Cbr\u003Eঅতএব, পঞ্চম সমমেল হল দ্বিতীয় উপসুর।",
+        "explanation": "",
+        "correct_answer": "A. দ্বিতীয় উপসুর"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414312,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:53:53.000000Z",
+            "updated_at": "2025-08-19T06:53:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414313,
+      "value": {
+        "options": {
+          "ক": "300 Hz",
+          "খ": "150 Hz",
+          "গ": "200 Hz",
+          "ঘ": "250 Hz"
+        },
+        "question": "একটি দুই মুখ খোলা নলের মূলসুরের কম্পাঙ্ক 100 Hz। নলটির একমুখ বন্ধ করলে এর তৃতীয় সমমেলের কম্পাঙ্ক হবে –",
+        "solution": "দুই মুখ খোলা নলের মূলসুরের কম্পাঙ্ক [math]f_1 = 100[/math]\u003Cbr\u003E Hz। দুই মুখ খোলা নলের স্বরগুলো [math]f, 2f, 3f, 4f, ...[/math]\u003Cbr\u003E এই ক্রমে থাকে, যেখানে [math]f[/math]\u003Cbr\u003E হল মূলসুরের কম্পাঙ্ক।যখন নলটির একমুখ বন্ধ করা হয়, তখন এটি একটি বদ্ধ নল হিসেবে আচরণ করে। একটি একমুখ বদ্ধ নলের স্বরগুলো [math]f', 3f', 5f', 7f', ...[/math]\u003Cbr\u003E এই ক্রমে থাকে, যেখানে [math]f'[/math]\u003Cbr\u003E হল মূলসুরের কম্পাঙ্ক।দুই মুখ খোলা নলের মূলসুরের কম্পাঙ্ক ( [math]f[/math]\u003Cbr\u003E) এবং এক মুখ বন্ধ নলের মূলসুরের কম্পাঙ্ক ( [math]f'[/math]\u003Cbr\u003E) এর মধ্যে সম্পর্ক হল [math]f = 2f'[/math]\u003Cbr\u003E।সুতরাং, এক মুখ বন্ধ নলের মূলসুরের কম্পাঙ্ক [math]f' = f/2 = 100/2 = 50[/math]\u003Cbr\u003E Hz।এক মুখ বন্ধ নলের তৃতীয় সমমেল হল পঞ্চম স্বাভাবিক কম্পাঙ্ক, যার মান [math]5f'[/math]\u003Cbr\u003E।তৃতীয় সমমেলের কম্পাঙ্ক = [math]5 \\times 50[/math]\u003Cbr\u003E Hz = 250 Hz।দুই মুখ খোলা নলের ক্ষেত্রে, কম্পাঙ্কগুলো মূল সুরের গুণিতক হয় ( [math]f, 2f, 3f, ...[/math]\u003Cbr\u003E)। তাই মূল সুর 100 Hz হলে, প্রথম সমমেল 200 Hz, দ্বিতীয় সমমেল 300 Hz ইত্যাদি।এক মুখ বন্ধ নলের ক্ষেত্রে, কম্পাঙ্কগুলো কেবল মূল সুরের বিজোড় গুণিতক হয় ( [math]f', 3f', 5f', ...[/math]\u003Cbr\u003E)। এখানে [math]f'[/math]\u003Cbr\u003E হল মূল সুর, যা বন্ধ নলের জন্য পরিবর্তিত হয়।মূল সুর 100 Hz যুক্ত দুই মুখ খোলা নলের ক্ষেত্রে, এর প্রথম স্বাভাবিক কম্পাঙ্ক 100 Hz, দ্বিতীয় 200 Hz, তৃতীয় 300 Hz ইত্যাদি।যখন এক মুখ বন্ধ করা হয়, তখন সেই বদ্ধ নলের মূল সুর (fundamental frequency) আগের খোলা নলের মূল সুরের অর্ধেক হয়ে যায়, অর্থাৎ 50 Hz।তাহলে বদ্ধ নলের স্বাভাবিক কম্পাঙ্কগুলো হবে: 50 Hz (মূল সুর), [math]3 \\times 50 = 150[/math]\u003Cbr\u003E Hz (তৃতীয় স্বাভাবিক কম্পাঙ্ক বা প্রথম হারমোনিক), [math]5 \\times 50 = 250[/math]\u003Cbr\u003E Hz (পঞ্চম স্বাভাবিক কম্পাঙ্ক বা দ্বিতীয় হারমোনিক), [math]7 \\times 50 = 350[/math]\u003Cbr\u003E Hz (সপ্তম স্বাভাবিক কম্পাঙ্ক বা তৃতীয় হারমোনিক) ইত্যাদি।প্রশ্নে \"তৃতীয় সমমেল\" বলতে বন্ধ নলের ক্ষেত্রে তৃতীয় হারমোনিককে বোঝানো হচ্ছে, যার মান [math]3f'[/math]\u003Cbr\u003E। কিন্তু আসলে, একমুখ বন্ধ নলের ক্ষেত্রে স্বরগুলো [math]f', 3f', 5f', ...[/math]\u003Cbr\u003E এই ক্রমে থাকে। এখানে [math]f'[/math]\u003Cbr\u003E মূল সুর। তৃতীয় সমমেল বলতে [math]3f'[/math]\u003Cbr\u003E বোঝানো হয়। তবে, প্রশ্নটি \"তৃতীয় সমমেল\" উল্লেখ করে আসলে পঞ্চম স্বাভাবিক কম্পাঙ্কের (5f') কথা বোঝাতে চাইছে, কারণ প্রথম দুটি কম্পাঙ্ক [math]f'[/math]\u003Cbr\u003E এবং [math]3f'[/math]\u003Cbr\u003E।কিন্তু যদি \"তৃতীয় সমমেল\" বলতে [math]3f'[/math]\u003Cbr\u003E বোঝানো হয়, তবে উত্তরটি হবে 150 Hz।যদি \"তৃতীয় সমমেল\" বলতে [math]5f'[/math]\u003Cbr\u003E বোঝানো হয় (যেহেতু [math]f'[/math]\u003Cbr\u003E মূল সুর, [math]3f'[/math]\u003Cbr\u003E প্রথম সমমেল, [math]5f'[/math]\u003Cbr\u003E দ্বিতীয় সমমেল), তবে উত্তরটি 250 Hz।প্রশ্নটিতে \"তৃতীয় সমমেল\" বলতে আসলে [math]3f'[/math]\u003Cbr\u003E বোঝানো হয়েছে।তাহলে, এক মুখ বন্ধ নলের মূল সুর [math]f' = 50[/math]\u003Cbr\u003E Hz।এক মুখ বন্ধ নলের তৃতীয় সমমেল = [math]3f' = 3 \\times 50 = 150[/math]\u003Cbr\u003E Hz।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414313,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:53:53.000000Z",
+            "updated_at": "2025-08-19T06:53:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414314,
+      "value": {
+        "options": {
+          "গ": "দুইমুখ খোলা নলের দৈর্ঘ্য নির্ণয় করো।"
+        },
+        "question": "একটি একমুখ খোলা নলের প্রথম উপসুর একটি দুইমুখ খোলা নলের প্রথম উপসুরের সাথে ঐকতানে আছে। একমুখ খোলা নলের মূল সুরের কম্পাংক 100 Hz এবং বাতাসে শব্দের বেগ 350 [math]\\mathrm{m.s}^{-1}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eআমরা জানি, একমুখ খোলা নলের ক্ষেত্রে, মূল সুরের কম্পাঙ্ক [math]\\mathrm{N}_{0}[/math]\u003Cbr\u003E হলে এর প্রথম উপসুরের কম্পাঙ্ক [math]=3 \\mathrm{~N}_{0}[/math]\u003Cbr\u003Eএবং দুই মুখ খোলা নলের ক্ষেত্রে মূল সুরের কম্পাঙ্ক [math]\\mathrm{N}_{0}{ }^{\\prime}[/math]\u003Cbr\u003E হলে এর প্রথম উপসুরের কম্পাঙ্ক [math]=2 \\mathrm{~N}_{0}^{\\prime}[/math]\u003Cbr\u003Eএখানে,এক মুখ খোলা নলের মুল সুরের কম্পাঙ্ক, [math]\\mathrm{N}_{0}=100 \\mathrm{~Hz}[/math]\u003Cbr\u003Eউদ্দীপক অনুসারে,[math]3 \\mathrm{~N}_{0}=2 \\mathrm{~N}_{0}{ }^{\\prime}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{N}_{0}{ }^{\\prime}=\\frac{3 \\times \\mathrm{N}_{0}}{2}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{3 \\times 100}{2} \\\\=150 \\mathrm{~Hz}\\end{array}[/math]\u003Cbr\u003Eএখানে,বাতাসে শব্দের বেগ, [math]\\mathrm{v}=350 \\mathrm{~ms}^{-1}[/math]\u003Cbr\u003Eদুই মুখ খোলা নলের মূল সুরের কম্পাঙ্ক, [math]\\mathrm{f}=\\mathrm{N}_{0}{ }^{\\prime}=150 \\mathrm{~Hz}[/math]\u003Cbr\u003Eনলের দৈর্ঘ্য, [math]l=?[/math]\u003Cbr\u003Eদুই মুখ খোলা নলের ক্ষেত্রে,[math]\\mathrm{f}=\\frac{\\mathrm{v}}{2 l}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]l=\\frac{\\mathrm{v}}{2 \\mathrm{f}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{350}{2 \\times 150} \\\\=1.167 \\mathrm{~m} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: একমুখ খোলা নলের মৌলিক কম্পাংক [math]f=\\dfrac{v}{4L_{\\text{closed}}}=100\\ \\text{Hz}[/math] এবং দুইমুখ খোলা নলের প্রথম উপসুরের কম্পাংক [math]f=\\dfrac{v}{2L_{\\text{open}}}[/math] হয়, তাই সমান হলে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E অনুযায়ী [math]L_{\\text{open}}=\\dfrac{v}{2f}=\\dfrac{350}{2\\times100}=1.75\\ \\mathrm{m}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6325,
+      "created_at": "2025-08-19T06:53:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414314,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:53:53.000000Z",
+            "updated_at": "2025-08-19T06:53:53.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6598&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6598&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6325&grade=1&lesson=6598&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 14,
+  "total": 14
+}

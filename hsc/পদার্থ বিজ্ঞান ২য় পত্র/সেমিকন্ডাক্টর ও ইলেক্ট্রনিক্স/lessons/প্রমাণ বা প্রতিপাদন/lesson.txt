@@ -1,0 +1,164 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 436707,
+      "value": {
+        "options": {
+          "ক": "[math]I_E = I_C - I_B[/math]",
+          "খ": "[math]I_E = I_C[/math]",
+          "গ": "[math]I_E = I_C + I_B[/math]",
+          "ঘ": "[math]I_E = I_B - I_C[/math]"
+        },
+        "question": "নিচের কোন সূত্রটি সঠিক?",
+        "solution": "কালেক্টরের কারেন্ট ( [math]I_C[/math]\u003Cbr\u003E) এবং বেস কারেন্ট ( [math]I_B[/math]\u003Cbr\u003E) এর সমষ্টি হল এমিটার কারেন্ট ( [math]I_E[/math]\u003Cbr\u003E)। তাই, [math]I_E = I_B + I_C[/math]\u003Cbr\u003E সূত্রটি সঠিক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:52:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 436707,
+            "year_id": 12
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 904,
+          "full_name": "Patuakhali Science And Technology University (A Unit)",
+          "short_name": "PSTU-A",
+          "slug": "pstu-a",
+          "pivot": {
+            "question_bank_id": 436707,
+            "tag_id": 904,
+            "year": "17-18",
+            "created_at": "2025-08-19T07:52:21.000000Z",
+            "updated_at": "2025-08-19T07:52:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 436708,
+      "value": {
+        "options": [],
+        "question": "গ্যালিলিও রূপান্তর লরেঞ্জ রূপান্তরের একটি বিশেষ রূপ— ব্যাখ্যা করো।",
+        "solution": "লরেন্টজ রূপান্তর সমীকরণ থেকে আমরা জানি, [math]x^{\\prime}=\\frac{x-v t}{\\sqrt{1-\\frac{v_{2}}{c^{2}}}}[/math]\u003Cbr\u003E এবং[math]t^{\\prime}=\\frac{t-\\frac{v_{x}}{c^{2}}}{\\sqrt{1-\\frac{v^{2}}{c^{2}}}}[/math]\u003Cbr\u003E । এখন, গতিশীল কাঠামোর বেগ v যদি আলোর বেগ Cএর মানের তুলনায় খুবই ছোট হয়, অর্থাৎ v \u003C\u003C c হয়, তখন, [math]\\frac{\\mathrm{v}}{\\mathrm{c}} \\rightarrow 0[/math]\u003Cbr\u003E ও [math]\\left(\\frac{\\mathrm{v}}{\\mathrm{c}}\\right)^{2} \\rightarrow 0[/math]\u003Cbr\u003E হয়। ফলে [math]1-\\frac{v^{2}}{c^{2}} \\approx 1[/math]\u003Cbr\u003E হয় এবং সমীকরণ দুইটি হয়, [math]\\mathrm{x}^{\\prime}=\\mathrm{x} -v t[/math]\u003Cbr\u003Eএবং [math]t^{\\prime}=t[/math]\u003Cbr\u003E। এগুলো আসলে গ্যালিলিওর রূপান্তর সমীকরণ। এজন্য গ্যালিলিও রূপান্তর লরেন্টজ রূপান্তরের একটি বিশেষ রূপ।",
+        "explanation": "ব্যাখ্যা: লরেঞ্জ রূপান্তরের সাধারণ রূপ হল [math]t'=\\gamma\\bigl(t-\\frac{vx}{c^2}\\bigr),\\quad x'=\\gamma(x-vt)[/math] যেখানে [math]\\gamma=(1-v^2/c^2)^{-1/2}[/math]. যদি আলোর গতি [math]c\\to\\infty[/math] ধরা হয় (অর্থাৎ আপেক্ষিকতা প্রভাব অপ্রাসঙ্গিক), তখন [math]\\gamma\\to1[/math] এবং [math]t'=t,\\;x'=x-vt[/math] পাওয়া যায়, যা গ্যালিলিও রূপান্তর। অর্থাৎ লরেঞ্জ রূপান্তর থেকে সময়-প্রভাব বাদ দিলে গ্যালিলিও রূপান্তর বিশেষ সীমা হিসেবে আসে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 281,
+      "book_grade_id": 1,
+      "content_chunk_id": 6336,
+      "created_at": "2025-08-19T07:52:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 436708,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 436708,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 281,
+        "title": "পদার্থ বিজ্ঞান ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 436708,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-08-19T07:52:21.000000Z",
+            "updated_at": "2025-08-19T07:52:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6716&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6716&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6336&grade=1&lesson=6716&question_paper_id=48532&subject=281&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 2,
+  "total": 2
+}

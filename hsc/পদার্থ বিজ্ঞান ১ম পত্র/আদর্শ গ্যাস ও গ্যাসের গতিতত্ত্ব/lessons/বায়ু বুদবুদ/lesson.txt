@@ -1,0 +1,3215 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 414755,
+      "value": {
+        "options": {
+          "ঘ": "বেলুনের সর্বোচ্চ প্রসারণের ক্ষমতা [math]9[/math] লিটার। পানির উপরিতলে বেলুনটি অক্ষত অবস্থায় পৌঁছাবে কি? বিশ্লেষণপূর্বক মতামত দাও।"
+        },
+        "question": "একটি বায়ুপূর্ণ বেলুনকে একটি হ্রদের [math]40.81\\ m[/math] গভীরতায় নিয়ে যাওয়ায় সেটি [math]1[/math] লিটার আয়তন ধারণ করল। হ্রদের তলদেশে বেলুনে আরও [math]1[/math] লিটার বায়ু প্রবেশ করিয়ে ছেড়ে দেওয়া হলো। বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{Nm}^{-2}[/math], পানির ঘনত্ব [math]10^{3} \\mathrm{~kg} \\mathrm{~m}^{-3}[/math] এবং [math]\\mathrm{g}=9.804 \\mathrm{~ms}^{-2}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবেলুনের আদি আয়তন [math]=\\mathrm{V}_{1}[/math]\u003Cbr\u003E (ধরি)[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবায়ুর চাপ, [math]\\rm{P}_{1}=10^{5} \\mathrm{~N} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের তলদেশে আয়তন, [math]\\mathrm{V}_{2}=1 \\mathrm{~L}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{P}_{2} & =\\mathrm{P}_{1}+\\mathrm{h} \\rho \\mathrm{g} \\\\ & =10^{5} \\mathrm{~N} \\mathrm{~m}^{-2}+40.81 \\mathrm{~m} \\times 1000 \\mathrm{~kg} \\mathrm{~m}^{-3} \\times 9.8 \\mathrm{~m} \\mathrm{~s}^{-2} \\\\ & =10^{5} \\mathrm{~N} \\mathrm{~m}^{-2}+399938 \\mathrm{~N} \\mathrm{~m}^{-2}=499938 \\mathrm{~Pa} \\end{aligned}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\rm{P}_{1} \\rm{V}_{1} &=\\rm{P_{2} V_{2}}\\\\ \\Rightarrow \\mathrm{V}_{1} &=\\frac{\\mathrm{P}_{2} \\mathrm{~V}_{2}}{\\mathrm{P}_{1}}=\\frac{499938 \\mathrm{~Pa} \\times 1 \\mathrm{~L}}{10^{5} \\mathrm{~Pa}}=4.99938 \\mathrm{~L} \\approx 5 \\mathrm{~L} \\end{aligned}[/math]\u003Cbr\u003Eঅতএব, নিমজ্জনের পূর্বে উদ্দীপকের বেলুনের আয়তন [math]5\\rm{~L}[/math]\u003Cbr\u003E ছিল।আবার,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের তলদেশে বেলুনের আয়তন, [math]\\mathrm{P}_{1}=499938 \\mathrm{~Pa}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের পৃষ্ঠদেশে চাপ, [math]\\mathrm{P}_{2}=10^{5} \\mathrm{~Pa}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eএখন, হ্রদের পৃষ্ঠদেশে আয়তন [math]\\mathrm{V}_{2}[/math]\u003Cbr\u003E হলে,আমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\mathrm{P}_{1} \\mathrm{~V}_{1}&=\\mathrm{P}_{2} \\mathrm{~V}_{2}\\\\ \\Rightarrow \\mathrm{V}_{2} & =\\frac{\\mathrm{P}_{1} \\mathrm{~V}_{1}}{\\mathrm{P}_{2}}=\\frac{499938 \\mathrm{~Pa} \\times 2 \\mathrm{~L}}{10^{5} \\mathrm{~Pa}}=9.99876 \\mathrm{~L} \\approx 10 \\mathrm{~L} \\end{aligned}[/math]\u003Cbr\u003Eএখানে, [math]\\mathrm{V}_{2}\u003E9 \\mathrm{~L}[/math]\u003Cbr\u003Eঅতএব, পানির উপরিতলে বেলুনটি অক্ষত থাকবে না অর্থাৎ ফুটে যাবে।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E তে বর্ণিত অনুযায়ী গভীরে চাপটি হবে [math]P=P_0+\\rho g h=10^5+10^3\\times9.804\\times40.81\\approx5.0010124\\times10^5\\ \\mathrm{Pa}[/math]. গ্যাস একই তাপমাত্রায় বোয়েলের সূত্র মতে পৃষ্ঠে এসে প্রতিটি [math]1\\ \\mathrm{L}[/math] ঘর্ষিত গ্যাসকে [math]P/P_0\\approx5.0010124[/math] গুণ প্রসারিত করবে, তাই দুইটি মিলিয়ে পৃষ্ঠে মোট আয়তন হবে প্রায় [math]2\\times5.0010124\\approx10.002\\ \\mathrm{L}[/math], যা [math]9\\ \\mathrm{L}[/math] ক্ষমতার বেশি। অতএব বেলুনটি 9 লিটারের সর্বোচ্চ প্রসারণ ক্ষমতা থাকলে এটি পৃষ্ঠে পৌঁছানোর আগে ফুটে যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 414755,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414755,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 414755,
+            "tag_id": 1,
+            "year": "2015",
+            "created_at": "2025-08-19T06:54:31.000000Z",
+            "updated_at": "2025-08-19T06:54:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414754,
+      "value": {
+        "options": {
+          "ঘ": "তরল মিশ্রিত করার পর পৃষ্ঠদেশে আসা বুদবুদগুলোর আয়তনের কোনোরূপ পরিবর্তন হবে কি-না বিশ্লেষণপূর্বক মতামত দাও।"
+        },
+        "question": "পদার্থবিজ্ঞান ল্যাবে একদল ছাত্র লক্ষ করল বিশুদ্ধ পানিপূর্ণ পাত্রে বায়ু বুদবুদ তলদেশ থেকে পৃষ্ঠদেশে আসার ফলে আয়তন [math]1.1[/math] গুণ হয় । পরীক্ষার এক পর্যায়ে একজন ছাত্র পানিতে অন্য একটি তরল মিশ্রিত করায় পানির ঘনত্ব বেড়ে দ্বিগুণ হয়ে যায় । (বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{Nm}^{-2}[/math])।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eউদ্দীপক হতে পাই,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপাত্রের পৃষ্ঠদেশের চাপ, [math]\\rm{P}_{2}=10^{5} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপাত্রের তলদেশের আয়তন, [math]\\rm{V_{1}=V}[/math]\u003Cbr\u003E (ধরি) .[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপাত্রের পৃষ্ঠদেশের আয়তন, [math]\\mathrm{V}_{2}=1.1 \\mathrm{~V}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপাত্রের গভীরতা, [math]\\mathrm{h}=?[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পাত্রের তলদেশের চাপ, [math]\\rm{P_1} =[/math]\u003Cbr\u003E বায়ুমণ্ডলের চাপ [math]+ \\rm{h}[/math]\u003Cbr\u003E গভীরতার পানির চাপ[math]\\hspace{5 cm}=10^{5}+\\mathrm{h} \\rho \\mathrm{g}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad \\rm{P_{1} V_{1}=P_{2} V_{2}}\\\\ \\Rightarrow \\left(10^{5}+\\mathrm{h \\rho g}\\right) \\mathrm{V}=10^{5} \\times 1.1 \\mathrm{~V}\\\\ \\Rightarrow \\mathrm{h} \\rho \\mathrm{g}=10^{5} \\times 1.1-10^{5}\\\\ \\Rightarrow \\mathrm{h} \\rho \\mathrm{g}=0.1 \\times 10^{5}\\\\ \\Rightarrow \\mathrm{h}=\\dfrac{0.1 \\times 10^{5}}{\\rho g}=\\dfrac{0.1 \\times 10^{5}}{1000 \\times 9.8}=1.02 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eঅতএব, পাত্রের উচ্চতা [math]1.02 \\mathrm{~m}[/math]\u003Cbr\u003E।উদ্দীপক হতে পাই,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপাত্রের পৃষ্ঠদেশের আয়তন, [math]\\rm{V}_{2}=?[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব [math]=\\rho=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eতরল মিশ্রণের ঘনত্ব, [math]\\rho^{\\prime}=2 =2 \\times 1000 \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\qquad\\mathrm{P}_{1} \\mathrm{~V}_{1}=\\mathrm{P}_{2} \\mathrm{~V}_{2}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\Rightarrow \\left(10^{5}+\\mathrm{h} \\rho^{\\prime} \\mathrm{g}\\right) \\mathrm{V}=10^{5} \\times \\mathrm{V}_{2}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\Rightarrow \\mathrm{V}_{2}=\\dfrac{10^{5}+\\mathrm{h}^{\\prime} \\mathrm{g}}{10^{5}} \\mathrm{~V}[/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\Rightarrow \\mathrm{V}_{2}=\\dfrac{10^{5}+1.02 \\times 2 \\times 1000 \\times 9.8}{10^{5}} \\mathrm{~V}\\quad[/math]\u003Cbr\u003E [math][\\because ~\\mathrm{h}=1.02][/math]\u003Cbr\u003E [math]\\hspace{1.5 cm}\\Rightarrow \\mathrm{V}_{2}=1.199 \\mathrm{~V}=1.2 \\mathrm{~V}[/math]\u003Cbr\u003Eউপরের গাণিতিক বিশ্লেষণে দেখা যায়, পানির ঘনত্ব বৃদ্ধি করলে পৃষ্ঠদেশে আসা বুদবুদগুলোর আয়তন তলদেশের আয়তনের [math]1.2[/math]\u003Cbr\u003E গুণ হবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বুদবুলগুলোর আয়তন পরিবর্তন হবে—বড়বে; কারণ অভ্যন্তরীণ চাপ-আয়তনের সম্পর্ক থেকে [math]PV=\\text{const}[/math] (Boyle)। প্রথম অবস্থায় سطحের তুলনায় তলদেশের চাপ [math]P_b=1.1P_0[/math] হলে [math]P_b-P_0=0.1P_0=10^4\\ \\mathrm{N/m^2}[/math]; ঘনত্ব দ্বিগুণ হলে ঐ হাইড্রোস্ট্যাটিক অংশ দ্বিগুণ হয়ে নতুন তলদেশের চাপ হয় [math]P'_b=P_0+2\\times10^4=1.2P_0[/math], ফলে আয়তনের অনুপাত হবে [math]V_s'/V_b'=P'_b/P_0=1.2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 414754,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414754,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414754,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T06:54:31.000000Z",
+            "updated_at": "2025-08-19T06:54:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414743,
+      "value": {
+        "options": {
+          "গ": "হ্রদের গভীরতা নির্ণয় করো।"
+        },
+        "question": "একটি বায়ু বুদবুদ হ্রদের তলদেশ হতে পানির উপরিপৃষ্ঠে আসলে এর আয়তন দ্বিগুণ হয়। বায়ুর চাপ [math]=1.01 \\times 10^{5} \\mathrm{~Pa.}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের উপরে বায়ুমণ্ডলীয় চাপ, [math]\\mathrm{P}_{\\mathrm{atm}}=1.01 \\times 10^{5} \\mathrm{~Pa}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবুদবুদের, আদি আয়তন [math]= V_1[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eচূড়ান্ত আয়তন, [math]V_{2}=2 \\mathrm{~V}_{1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{~kg} \\cdot \\mathrm{m}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের গভীরতা, [math]h[/math]\u003Cbr\u003E হলে,আমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad \\mathrm{P}_{1} \\mathrm{~V}_{1}=\\mathrm{P}_{2} \\mathrm{~V}_{2} \\\\ \\Rightarrow\\left(\\mathrm{P}_{\\mathrm{atm}}+h \\rho g\\right) \\mathrm{V}_{1}=\\mathrm{P}_{\\mathrm{atm}} \\times 2 \\mathrm{~V}_{1} \\\\ \\Rightarrow \\mathrm{P}_{\\mathrm{atm}}+h \\rho g=2 \\mathrm{P}_{\\mathrm{atm}}\\\\ \\begin{aligned}\\therefore \\mathrm{h} & =\\frac{\\mathrm{P}_{\\mathrm{atm}}}{\\rho \\mathrm{g}} \\\\ & =\\frac{1.01 \\times 10^{5}}{1000 \\times 9.8}=10.306 \\mathrm{~m} \\rm{~Ans}\\end{aligned}\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: বুদবুলি তাপমাত্রা ধ্রুব রেখে বয়েলের ধরণে আচরণ করলে [math]p_iV_i=p_0V_{\\text{surface}}[/math] এবং [math]V_{\\text{surface}}=2V_i[/math] দ্বারা [math]p_i=2p_0[/math] হয়; তবে [math]p_i=p_0+\\rho gh[/math] হওয়ায় [math]\\rho gh=p_0[/math]. তাই [math]h=\\dfrac{p_0}{\\rho g}=\\dfrac{1.01\\times10^5}{1000\\times9.8}\\approx10.3\\ \\text{m}[/math], অর্থাৎ প্রায় 10.3 মিটার।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414743,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414743,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 414743,
+            "tag_id": 1,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414741,
+      "value": {
+        "options": {
+          "গ": "মিঠাপানির পুকুরের গভীরতা নির্ণয় করো ।"
+        },
+        "question": "দুইজন শিক্ষার্থী একটি দ্বীপে বেড়াতে গিয়ে পাশাপাশি অবস্থিত দুটি পুকুরের বায়ু বুদবুদ নিম্নরূপ পর্যবেক্ষণ করল । বায়ুমণ্ডলের চাপ = [math]10^5[/math] Pa\n\n\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1st-part-1-2023-2_1755586470_ATZMAfzH.jpg\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,পুকুরের উপরে বায়ুমণ্ডলীয় চাপ, [math]P_{atm} = 10^5[/math]\u003Cbr\u003E Paবুদবুদের, আদি আয়তন = [math]V_1[/math]\u003Cbr\u003Eচূড়ান্ত আয়তন, [math]V_2 = 4V_1[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho = 1.0 \\times 10^3 kgm^{-3}[/math]\u003Cbr\u003Eপুকুরের গভীরতা = h হলে,আমরা জানি,[math]\\begin{array}{l}\\mathrm{P}_{1} \\mathrm{~V}_{1}=\\mathrm{P}_{2} \\mathrm{~V}_{2} \\\\\\Rightarrow\\text { }\\left(\\mathrm{P}_{\\mathrm{atm}}+\\mathrm{h} \\rho \\mathrm{g}\\right) \\cdot \\mathrm{V}_{1}=\\mathrm{P}_{\\mathrm{atm}} \\times 4 \\mathrm{~V}_{1} \\\\\\Rightarrow\\text { } \\mathrm{P}_{\\mathrm{atm}}+\\mathrm{h} \\rho \\mathrm{g}=4 \\mathrm{P}_{\\mathrm{atm}} \\\\\\therefore \\mathrm{h}=\\frac{3 \\mathrm{P}_{\\mathrm{atm}}}{\\rho \\mathrm{g}} \\\\\\quad=\\frac{3 \\times 10^{5}}{1.0 \\times 10^{3} \\times 9.8} \\\\\\quad=30.6 \\mathrm{~m} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: বুদবুর ফলে তলদেশে থাকা চাপ ও বায়ুমণ্ডলের চাপে পার্থক্যটি জলস্তম্ভের ওজন দ্বারা তৈরি, তাই [math]p_{\\text{তল}}=p_0+ρgh[/math] এবং থেকে [math]h=\\dfrac{p_{\\text{তল}}-p_0}{ρg}[/math]. এখানে [math]p_0=10^5\\ \\text{Pa}[/math], [math]ρ\\approx1000\\ \\text{kg/m}^3[/math] ও [math]g\\approx9.8\\ \\text{m/s}^2[/math] বসিয়ে প্রয়োজনীয় মান বসিয়ে সমাধান করলেই গভীরতা পাওয়া যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 414741,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414741,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414741,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414742,
+      "value": {
+        "options": {
+          "ঘ": "তাপমাত্রার পরিবর্তন বিবেচনায় নিয়ে হ্রদটির গভীরতা নির্ণয় করা সম্ভব— গাণিতিক বিশ্লেষণ করো।"
+        },
+        "question": "কোনো একদিন কাপ্তাই হ্রদের পানির উপরিতলে বায়ুর তাপমাত্রা 28°C, বায়ুমণ্ডলীয় চাপ [math]10^{5} \\mathrm{pa}[/math] এবং শিশিরাঙ্ক 10.5°C। হ্রদের তলদেশের পানির তাপমাত্রা 7°C এবং পানির গড় ঘনত্ব [math]\\mathrm{kgm}^{-3}[/math]। ঐদিন হ্রদটির তলদেশ হতে একটি বায়ু বুদবুদ পানির উপরিতলে উঠে আসায় এর ব্যাসার্ধ তিনগুণ হলো। [ 10°C, 11°C ও 28°C তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে 9.2, 9.9 ও 28.5 mm পারদ চাপ ]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,ঘনত্ব, [math]\\rho=1000 \\mathrm{\\ kgm}^{-3}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eপানির উপরিতলে বায়ুর বুদবুদেরব্যাসার্ধ = rপানির উপরিতলে আয়তন[math]\\mathrm{V}_{1}=\\mathrm{V}[/math]\u003Cbr\u003Eতলদেশে আয়তন, [math]\\mathrm{V}_{2}=\\frac{4}{3} \\pi \\mathrm{r}_{2}^{3}[/math]\u003Cbr\u003E[ পানির তলদেশে বায়ু বুদবুদের ব্যাসার্থ উপরিতলের ব্যাসার্ধের এক তৃতীয়াংশ ][math]=\\frac{4}{3} \\pi\\left(\\frac{r}{3}\\right)^{3}=\\frac{4}{3} \\pi r^{3} \\times \\frac{1}{27}=\\frac{V}{27}[/math]\u003Cbr\u003Eধরি,পানির গভীরতা = hপানির উপরিতলে তাপমাত্রা,[math]\\begin{aligned}\\mathrm{T}_{1} & =(273+28) \\mathrm{K} \\\\& =301 \\mathrm{~K}\\end{aligned}[/math]\u003Cbr\u003Eতলদেশে তাপমাত্রা,[math]\\begin{aligned}\\mathrm{T}_{2} & =(273+7) \\mathrm{K} \\\\& =280 \\mathrm{~K}\\end{aligned}[/math]\u003Cbr\u003Eবায়ুর চাপ,[math]\\mathrm{P}_{1}=10^{5} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eঅর্থাৎ, তলদেশে চাপ, [math]\\mathrm{P}_{2}=[/math]\u003Cbr\u003Eপানির উপরিতলে চাপ + h গভীরতায় পানির চাপবা, [math]P_{2}=P_{1}+h \\rho g[/math]\u003Cbr\u003Eআমরা জানি ,[math]\\frac{P_{1} V_{1}}{T_{1}}=\\frac{P_{2} V_{2}}{T_{2}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{10^{5} \\times \\mathrm{V}}{301}[/math]\u003Cbr\u003E [math]=\\frac{\\left(P_{1}+h \\rho g\\right) \\frac{V}{27}}{280}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{P}_{1}+\\mathrm{h} \\rho g[/math]\u003Cbr\u003E [math]=\\frac{10^{5} \\times 280 \\times 27}{301}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{h} \\rho \\mathrm{g}=2511627.91-\\mathrm{P}_{1}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]h \\rho g=2511627.91-10^{5}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{h}=\\frac{2411627.91}{\\rho \\mathrm{g}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{2411627.91}{1000 \\times 9.8} \\\\=246.08 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eঅতএব, তাপমাত্রার পরিবর্তন বিবেচনায় হ্রদের গভীরতা নির্ণয় করা সম্ভব এবং হ্রদের গভীরতার মান হবে 246.08m।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সঠিক—কারণ বুদবুলের ভিতরের বায়ুর মোল সংখ্যা অপরিবর্তিত থেকে আইডিয়াল গ্যাস সূত্র ও হাইড্রোস্ট্যাটিক চাপ প্রয়োগ করে গভীরতার সমীকরণ পাওয়া যায়। সমীকরণগুলো হলো\n[math]\\frac{P_{atm}+\\rho g h - e_{bot}}{T_{bot}}=\\frac{27\\,(P_{atm}-e_{surf})}{T_{surf}},[/math]\nঅর্থাৎ\n[math]\\rho g h=27\\frac{T_{bot}}{T_{surf}}\\,(P_{atm}-e_{surf})+e_{bot}-P_{atm}.[/math]\nএখানে [math]P_{atm}=10^5\\ \\mathrm{Pa}[/math], [math]e_{surf}[/math] কে ডিউ‑পয়েন্ট (≈10.5°C) থেকে এবং [math]e_{bot}[/math] কে নীচের তাপমাত্রার স্যাচুরেশন চাপ থেকে (mmHg→Pa-এ রূপান্তর করে) বসালে প্রদত্ত ঘনত্ব [math]\\rho[/math] দিয়ে সরাসরি [math]h[/math] নির্ণয় করা সম্ভব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 414742,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414742,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 414742,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414744,
+      "value": {
+        "options": {
+          "ঘ": "উল্লিখিত বেলুনটিতে বিশেষ ব্যবস্থায় তলদেশে থাকা অবস্থায় আরও [math]1[/math] লিটার বায়ু প্রবেশ করিয়ে মুখ বন্ধ অবস্থায় ছেড়ে দেয়া হলে অক্ষত অবস্থায় পানির উপরিতলে আসবে কি? বিশ্লেষণ করো।"
+        },
+        "question": "স্থির তাপমাত্রায় [math]5.1[/math] লিটার বায়ুপূর্ণ একটি বেলুনকে [math]40\\rm{~m}[/math] গভীর পানির তলদেশে নেয়ায় বেলুনটি [math]1.1[/math] লিটার আয়তন ধারণ করে। বেলুনটির সর্বোচ্চ প্রসারণ ক্ষমতা [math]9.5[/math] লিটার এবং ঐ স্থানে অভিকর্ষজ ত্বরণ [math]9.8 \\mathrm{~ms}^{-2}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রারম্ভিক আয়তন, [math]\\mathrm{V}_{1}=5.1 \\mathrm{~L}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশেষ আয়তন, [math]\\mathrm{V}_{2}=1.1 \\mathrm{~L}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির গভীরতা, [math]\\mathrm{h}=40 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবায়ুর চাপ, [math]P_{1}=?[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eতলদেশে চাপ [math]P_2[/math]\u003Cbr\u003E হলে,আমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} ~~\\quad \\mathrm{P}_{1} \\mathrm{~V}_{1}=\\mathrm{P}_{2} \\mathrm{~V}_{2} \\\\ \\Rightarrow \\mathrm{P}_{1} \\times \\mathrm{V}_{1}=\\left(\\mathrm{P}_{1}+\\mathrm{h} \\rho \\mathrm{g}\\right) \\times \\mathrm{V}_{2} \\\\ \\Rightarrow \\mathrm{P}_{1} \\times 5.1=\\left(\\mathrm{P}_{1}+40 \\times 1000 \\times 9.8\\right) \\times 1.1 \\\\ \\Rightarrow 4.64 \\mathrm{P}_{1}=\\mathrm{P}_{1}+392000 \\\\ \\Rightarrow 4.64 \\mathrm{P}_{1}-\\mathrm{P}_{1}=392000 \\\\ \\Rightarrow 3.64 \\mathrm{P}_{1}=392000 \\\\ \\therefore~~ \\mathrm{P}_{1}=107692.31 \\text { Pa.(Ans.) } \\end{array}[/math]\u003Cbr\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রারম্ভিক আয়তন, [math]\\mathrm{V}_{1}=(1.1+1) \\mathrm{L} =2.1 \\mathrm{~L}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির গভীরতা, h = 40 m[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির গভীরে চাপ, [math]P_{1}=P_{2}+h \\rho g[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~ P_{1} V_{1}=P_{2} V_{2} \\\\ \\Rightarrow \\left(P_{2}+h \\rho g\\right) V_{1}=P_{2} V_{2} \\\\ \\Rightarrow V_{2}=\\frac{\\left(P_{2}+h \\rho g\\right) V_{1}}{P_{2}} \\\\ \\qquad=\\frac{(1.07692 .31+40 \\times 1000 \\times 9.8) 2.1}{107692.31} \\\\ \\qquad =9.744 \\mathrm{~L} \\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ উল্লিখিত বেলুনটিতে তলদেশে থাকা অবস্থায় আরও 1 লিটার বায়ু প্রবেশ করিয়ে মুখ বন্ধ অবস্থায় ছেড়ে দেওয়া হলে পানির উপরিতলে আসার পর এর আয়তন হবে 9.744 লিটার। কিন্তু প্রশ্নমতে, বেলুনটির সর্বোচ্চ প্রসারণ ক্ষমতা 9.5 লিটার। তাই বেলুনটি অক্ষত অবস্থায় পানির উপরিতলে আসবে না।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E না — কারণ তলদেশে ১ লিটার যোগ করলে তলদেশে আয়তন হবে [math]1.1+1=2.1\\ \\rm L[/math], এবং উপরে উঠলে আয়তন হবে [math]V_{\\rm surface}=2.1\\times\\frac{5.1}{1.1}=2.1\\times4.636\\ldots=9.736\\ \\rm L[/math], যা সর্বোচ্চ [math]9.5\\ \\rm L[/math] ছাড়ায়; তাই বেলুনটি অক্ষত অবস্থায় উপরে আসবে না (ফাটবে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414744,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414744,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 414744,
+            "tag_id": 46,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414745,
+      "value": {
+        "options": {
+          "গ": "বুদবুদ কর্তৃক অতিক্রান্ত উলম্ব দূরত্ব নির্ণয় করো।"
+        },
+        "question": "কিশোর পাশা একদিন [math]1020 \\mathrm{~kgm}^{-3}[/math] ঘনত্বের লবণাক্ত পানির হ্রদে ডুবুরির পোশাক পরে ডুবে দিলেন। সে লক্ষ করল পানির নিচে বুদবুদের আয়তন উপরি তলে এসে দ্বিগুণ আয়তন লাভ করেছে। বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{~Pa},[/math] হ্রদের পানির সর্বত্র তাপমাত্রা সমান।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1020 \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রারম্ভিক আয়তন [math]=V_{1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}\\therefore[/math]\u003Cbr\u003E শেষ আয়তন [math]\\mathrm{V}_{2}=2 \\mathrm{~V}_{1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশেষ চাপ, [math]P_{2}=10^{5} \\mathrm{~Pa}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রারম্ভিক চাপ, [math]P_{1}=P_{2}+h \\rho g[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅতিক্রান্ত উলম্ব দূরত্ব, h = ?আমরা জানি,[math]\\hspace{1.6 cm}\\begin{array}{l} \\quad ~ P_{1} V_{1}=P_{2} V_{2} \\\\ \\Rightarrow \\left(P_{2}+h \\rho g\\right) V_{1}=P_{2} V_{2} \\\\ \\Rightarrow P_{2} V_{1}+h \\rho g V_{1}=P_{2} V_{2} \\\\ \\Rightarrow \\mathrm{h}=\\frac{\\mathrm{P}_{2} \\mathrm{~V}_{2}-\\mathrm{P}_{2} \\mathrm{~V}_{1}}{\\rho g \\mathrm{~V}_{1}} \\\\ \\qquad =\\frac{10^{5} \\times 2 \\mathrm{~V}_{1}-10^{5} \\times \\mathrm{V}_{1}}{1020 \\times 9.8 \\mathrm{~V}_{1}} \\\\ \\qquad =10.004 \\mathrm{~m} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E তাপমাত্রা ধ্রুবক থাকায় বুদবুতে বোলের আইন প্রযোজ্য: [math]pV=\\text{const}[/math], এবং পানির ভিতরের চাপ হচ্ছে [math]p=p_0+\\rho g h[/math] (যেখানে [math]p_0=10^5\\ \\mathrm{Pa}[/math]). দ্বিগুণ আয়তনের জন্য [math]p_0=(p_0+\\rho g h)/2[/math] থেকে [math]h=\\dfrac{p_0}{\\rho g}=\\dfrac{10^5}{1020\\times9.8}\\approx10.0\\ \\mathrm{m}[/math], তাই বুদবুদটি প্রায় 10 মিটার উঠেছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414745,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414745,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414745,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414746,
+      "value": {
+        "options": {
+          "ঘ": "উদ্দীপকের হ্রদটি মিঠাপানির হলে ডুবুরি কোন পানির হ্রদে নামতে বেশি স্বাচ্ছন্দ্য বোধ করেছিল বিশ্লেষণপূর্বক মতামত দাও।"
+        },
+        "question": "কিশোর পাশা একদিন [math]1020 \\mathrm{~kgm}^{-3}[/math] ঘনত্বের লবণাক্ত পানির হ্রদে ডুবুরির পোশাক পরে ডুবে দিলেন। সে লক্ষ করল পানির নিচে বুদবুদের আয়তন উপরি তলে এসে দ্বিগুণ আয়তন লাভ করেছে। বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{~Pa},[/math] হ্রদের পানির সর্বত্র তাপমাত্রা সমান।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eলবনাক্ত পানির ঘনত্ব সাধারণত মিঠাপানির চেয়ে বেশি হয়।পানিতে ডুবন্ত অবস্থায় পানি কর্তৃক একটি উর্ধ্বমুখী চাপ কাজ করে ডুবুরির উপর যাকে প্লবতা বলে।এখানে,[math]\\hspace{1 cm}V[/math]\u003Cbr\u003E = ডুবুরির আয়তন[math]\\hspace{1 cm}\\rho[/math]\u003Cbr\u003E = পানির ঘনত্ব[math]\\hspace{1 cm}g[/math]\u003Cbr\u003E = অভিকর্ষজ ত্বরণআমরা জানি,[math]\\hspace{1.7 cm}[/math]\u003Cbr\u003Eপ্লবতা [math]=\\mathrm{V} \\rho \\mathrm{g}[/math]\u003Cbr\u003Eতাই পানির ঘনত্ব যত বেশি হবে, প্লবতা বা পানি কর্তৃক উর্ধ্বমুখী চাপ তত বৃদ্ধি পাবে। তখন ডুবুরির পানির ভিতর চলাফেরা করা আরও কষ্টকর হবে। যেহেতু লবণাক্ত পানির ঘনত্ব বেশি তাই লবণাক্ত পানিতে ডুবুরি বেশি ঊর্ধ্বমুখী চাপ অনুভব করবে। কিন্তু মিঠাপানিতে এই উর্ধ্বমুখী চাপ কম হবে যেহেতু ঘনত্ব কম। · সুতরাং বলা যায়, ডুবুরি মিঠাপানির হ্রদে নামতে বেশি স্বাচ্ছন্দ্যবোধ করেছিল।",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E লবণাক্ত পানির ঘনত্ব মিঠা পানির চেয়ে বেশি হওয়ায় একই আয়তনের পোশাকে উপরিভাগীয় বল বেশি হবে, কারণ [math]F_b=\\rho Vg[/math]। অতএব ডুবুরি লবণাক্ত হ্রদে বেশি ভাসবে এবং বেশি স্বাচ্ছন্দ্য বোধ করবে; মিঠা পানিতে ভাসার জন্য বেশি শ্রম লাগত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414746,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414746,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414746,
+            "tag_id": 4,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414747,
+      "value": {
+        "options": {
+          "গ": "[math]\\rm{A}[/math] হ্রদের তলদেশে চাপ কত?"
+        },
+        "question": "[math]\\rm{A ~ও~ B}[/math] দুটি হ্রদের তলদেশ থেকে একটি বায়ু বুদবুদ পানির উপরিতলে উঠলে এর আয়তন চারগুণ হয়। [math]\\text{A ও B}[/math] হ্রদের পানির ঘনত্ব যথাক্রমে [math]1000 \\mathrm{~kgm}^{-3}[/math] ও [math]1100 \\mathrm{~kgm}^{-3}[/math]। বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{~Pa}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরা যাক,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ, [math]P_1[/math]\u003Cbr\u003E এবং বুদবুদের আয়তন [math]V_1[/math]\u003Cbr\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের উপরিতলে চাপ [math]P_2=[/math]\u003Cbr\u003E বায়ুমণ্ডলীয় চাপ [math]=10^{5} \\mathrm{~Pa}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের উপরিতলে বুদবুদের আয়তন, [math]\\mathrm{V}_{2}=4 \\mathrm{~V}_{1}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~P_{1} V_{1}=P_{2} V_{2} \\\\ \\Rightarrow \\mathrm{P}_{1}=\\frac{\\mathrm{P}_{2} \\mathrm{~V}_{2}}{\\mathrm{~V}_{1}}=\\frac{\\mathrm{P}_{2} \\times 4 \\mathrm{~V}_{1}}{\\mathrm{~V}_{1}} \\\\ \\qquad ~=4 \\mathrm{P}_{2}=4 \\times 10^{5} \\mathrm{~Pa} \\text { (Ans.) } \\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বুদবুলের জন্য বয়েল‑আইন প্রযোজ্য: [math]P_1V_1=P_2V_2[/math]. উপরিতলে আয়তন চারগুণ হওয়ায় [math]V_{\\text{surface}}=4V_{\\text{bottom}}[/math], তাই [math]P_{\\text{bottom}}=4P_{\\text{surface}}=4\\times10^5\\ \\mathrm{Pa}[/math] (ঘনত্বের তথ্য এখানে প্রয়োজন নেই)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414747,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414747,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414747,
+            "tag_id": 7,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414749,
+      "value": {
+        "options": {
+          "ঘ": "[math]\\text{A ও B}[/math] হ্রদের মধ্যে কোনটির গভীরতা বেশি তা গাণিতিকভাবে বিশ্লেষণের মাধ্যমে নির্ধারণ কর।"
+        },
+        "question": "[math]\\rm{A ~ও~ B}[/math] দুটি হ্রদের তলদেশ থেকে একটি বায়ু বুদবুদ পানির উপরিতলে উঠলে এর আয়তন চারগুণ হয়। [math]\\text{A ও B}[/math] হ্রদের পানির ঘনত্ব যথাক্রমে [math]1000 \\mathrm{~kgm}^{-3}[/math] ও [math]1100 \\mathrm{~kgm}^{-3}[/math]। বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{~Pa}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবায়ুমণ্ডলের চাপ, [math]P_{1}=10^{5} \\mathrm{~Pa}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রারম্ভিক আয়তন [math]=V_{2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশেষ আয়তন [math]V_{1}=4 V_{1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ, [math]P_{2}=P_{1}+h \\rho g[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের গভীরতা, [math]\\mathrm{h}_{\\mathrm{A}}=?[/math]\u003Cbr\u003EA হ্রদের ক্ষেত্রে,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad ~ P_{1} V_{1}=P_{2} V_{2}\\\\ \\Rightarrow P_{1} V_{1}=\\left(P_{1}+h_{A} \\rho g\\right) V_{2}\\\\ \\Rightarrow P_{1} V_{1}=P_{1} V_{2}+h_{A} \\rho g V_{2}\\\\ \\Rightarrow h_{A} \\rho g V_{2}=P_{1} V_{1}-P_{1} V_{2}\\\\ \\Rightarrow h_{\\mathrm{A}}=\\frac{\\mathrm{P}_{1} V_{1}-\\mathrm{P}_{1} V_{2}}{\\rho g V_{2}}\\\\ \\Rightarrow \\mathrm{h}_{\\mathrm{A}}=\\frac{\\mathrm{P}_{1}\\left(\\mathrm{~V}_{1}-V_{2}\\right)}{\\rho g V_{2}}\\\\ ~\\qquad =\\frac{10^{5}\\left(4 \\mathrm{~V}_{2}-\\mathrm{V}_{2}\\right)}{.1000 \\times 9.8 \\times \\mathrm{V}_{2}}\\\\ ~\\qquad =30.61 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E A হ্রদের গভীরতা 30.61 mআবার,এখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eবায়ুমণ্ডলের চাপ, [math]\\mathrm{P}_{1}=10^{5} \\mathrm{~Pa}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপ্রারম্ভিক আয়তন [math]= V_2[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eশেষ আয়তন, [math]V_{1}=4 V_{2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1100 \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}= 9 .8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ, [math]\\mathrm{P}_{2}=\\mathrm{P}_{1}+\\mathrm{h \\rho g}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের গভীরতা, [math]h_{B}=?[/math]\u003Cbr\u003Eঅনুরূপভাবে, B হ্রদের ক্ষেত্রে,[math]\\hspace{1.5 cm}\\begin{aligned} h_{B} & =\\frac{P_{1}\\left(V_{1}-V_{2}\\right)}{\\rho g V_{2}} \\\\ & =\\frac{10^{5} \\times\\left(4 V_{2}-V_{2}\\right)}{1100 \\times 9.8 \\times V_{2}} \\\\ & =\\frac{10^{5} \\times 3 V_{2}}{1100 \\times 9.8 \\times V_{2}} \\\\ & =27.83 \\mathrm{~m} \\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E B হ্রদের গভীরতা 27.83 m[math]\\hspace{1 cm}\\therefore \\mathrm{h}_{\\mathrm{A}}\u003E\\mathrm{h}_{\\mathrm{B}}[/math]\u003Cbr\u003Eঅতএব, A ও B হ্রদের মধ্যে A হ্রদের গভীরতা বেশি । (Ans)",
+        "explanation": "ব্যাখ্যা: বয়েল সূত্র অনুযায়ী [math]P_iV_i=P_0V_f[/math] এবং [math]V_f=4V_i[/math] হলে [math]P_i=4P_0[/math]. অতঃপর হাইড্রোস্ট্যাটিক চাপের সূত্র দিয়ে [math]P_i=P_0+\\rho gh\\Rightarrow \\rho gh=3P_0\\Rightarrow h=\\dfrac{3P_0}{\\rho g}[/math], তাই গভীরতা ঘনত্বের সাথে বিপরীত সম্পর্কিত। গণনায় [math]h_A=\\dfrac{3\\times10^5}{1000\\times9.8}\\approx30.6\\ \\text{m}[/math] ও [math]h_B\\approx27.8\\ \\text{m}[/math], সুতরাং A হ্রদের গভীরতা বেশি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414749,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414749,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414749,
+            "tag_id": 7,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414750,
+      "value": {
+        "options": {
+          "ঘ": "বেলুনটি হ্রদের পৃষ্ঠে এসে বিস্ফোরিত হওয়ার সম্ভাবনা গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "একটি হ্রদের তলদেশ ও পৃষ্ঠের পানির তাপমাত্রা যথাক্রমে [math]8^\\circ C[/math] ও [math]30^\\circ C[/math]। [math]2L[/math] আয়তনবিশিষ্ট একটি বায়ুপূর্ণ বেলুন হ্রদের তলদেশ হতে ছেড়ে দেয়া হলো। বেলুনটির সর্বোচ্চ প্রসারণ সক্ষমতা [math]15\\ L[/math]। হ্রদের পৃষ্ঠে বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{Nm}^{-2}[/math], হ্রদের গভীরতা [math]15\\ m[/math] এবং পানির ঘনত্ব [math]1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রাসের গভীরতা, [math]\\mathrm{h}=15 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের তলদেশে আয়তন, [math]\\rm{V_{1}=2 L}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের তলদেশে তাপমাত্রা, [math]\\mathrm{T}_{1}=281 \\mathrm{~K}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের পৃষ্ঠে তাপমাত্রা, [math]\\mathrm{T}_{2}=303 \\mathrm{~K}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের পৃষ্ঠে চাপ, [math]\\mathrm{P}_{2}=10^{5} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ,[math]\\hspace{1.5 cm}\\begin{aligned} \\rm{P}_{1} & =10^{5}+\\mathrm{h} \\rho \\rm{g} \\\\ & =\\left(10^{5}+15 \\times 1000 \\times 9.8\\right) \\mathrm{Pa} \\\\ & =247000 \\mathrm{Nm}^{-2} \\end{aligned}[/math]\u003Cbr\u003Eএখন, হ্রদের পৃষ্ঠে বেলুনটির আয়তন [math]\\rm{V}_2[/math]\u003Cbr\u003E হলে, আমরা জানি,[math]\\hspace{1.5 cm}\\begin{aligned} \\frac{\\mathrm{P}_{1} \\mathrm{~V}_{1}}{\\mathrm{~T}_{1}}&=\\frac{\\mathrm{P}_{2} \\mathrm{~V}_{2}}{\\mathrm{~T}_{2}}\\\\ \\Rightarrow V_{2} & =\\frac{P_{1} V_{1} T_{2}}{P_{2} T_{1}} \\\\ & =\\frac{247000 \\times 2 \\times 303}{10^{5} \\times 281} \\mathrm{~L} \\\\ \\therefore V_{2} & =5.33 \\mathrm{~L} \\end{aligned}[/math]\u003Cbr\u003E [math]\\hspace{.5 cm}[/math]\u003Cbr\u003Eযেহেতু, [math]\\rm{V}_{2}\u003C15 \\mathrm{~L}[/math]\u003Cbr\u003Eঅর্থাৎ, হ্রদের পৃষ্ঠে বেলুনটির আয়তন বেলুনের সর্বোচ্চ প্রসারণ সক্ষমতা অপেক্ষা কম, সেহেতু বেলুনটি হ্রদের পৃষ্ঠে এসে বিস্ফোরিত হওয়ার সম্ভাবনা নেই।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বেলুনটির চাপ-আয়তন-তাপ সম্পর্ক ব্যবহার করে বিশ্লেষণ করা যায়: নীচে [math]P_1=P_{atm}+\\rho g h=10^5+1000\\times9.8\\times15\\approx2.47\\times10^5\\ \\mathrm{Pa}[/math] এবং [math]T_1=8^\\circ C=281\\ \\mathrm{K},\\ T_2=30^\\circ C=303\\ \\mathrm{K}[/math]. তাই [math]V_2=V_1\\frac{P_1}{P_2}\\frac{T_2}{T_1}=2\\ \\mathrm{L}\\times\\frac{2.47\\times10^5}{10^5}\\times\\frac{303}{281}\\approx5.33\\ \\mathrm{L}[/math]. যেহেতু [math]5.33\\ \\mathrm{L}\u003C15\\ \\mathrm{L}[/math], বেলুনটি পৃষ্ঠে এসে বিস্ফোরিত হবে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 414750,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414750,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 414750,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414751,
+      "value": {
+        "options": {
+          "ঘ": "ডুবুরী উদ্দীপকের ' [math]B[/math]' স্থানে অক্সিজেন সিলিন্ডার ছাড়া অনুসন্ধান কার্য চালাতে পারবে কি? গাণিতিক বিশ্লেষণসহ মতামত দাও।"
+        },
+        "question": "একজন ডুবুরী অক্সিজেন সিলিন্ডার ছাড়া [math]6m[/math] গভীর পর্যন্ত পানির নিচে অনুসন্ধান চালাতে পারে। পানির উপরিতলে ' [math]A[/math]' স্থানে [math]10^{5} \\mathrm{~Pa}[/math] চাপে গ্যাসপূর্ণ একটি বেলুনের আয়তন [math]10^{-3} \\mathrm{~m}^{3}[/math]। বেলুনটি পানিতে ' [math]B[/math]' স্থানে নিমজ্জিত করলে আয়তন হয় [math]5 \\times 10^{3} \\mathrm{~m}^{-3}[/math]। (পানির ঘনত্ব [math]=10^{3} \\times \\mathrm{k g} \\mathrm{m}^{-33}[/math] অভিকর্ষজ ত্বরণ [math]= 9.8ms^{-2}[/math])",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}\\text {A}[/math]\u003Cbr\u003E স্থানের চাপ, [math]\\mathrm{P}=10^{5} \\mathrm{~Pa}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}\\mathrm{A}[/math]\u003Cbr\u003E স্থানে বেলুনের আয়তন, [math]\\rm{V}=10^{-3} \\mathrm{~m}^{3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}\\mathrm{B}[/math]\u003Cbr\u003E স্থানে চাপ, [math]\\mathrm{P}^{\\prime}=\\mathrm{P}+\\mathrm{h} \\rho \\mathrm{g}[/math]\u003Cbr\u003E [ [math]\\mathrm{h=B}[/math]\u003Cbr\u003E স্থানের গভীরতা][math]\\hspace{1 cm}\\mathrm{B}[/math]\u003Cbr\u003E স্থানে বেলুনের আয়তন, [math]\\rm{V}^{\\prime}=5 \\times 10^{-4} \\mathrm{~m}^{3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=10^{3} \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\rm{g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}[/math]\u003Cbr\u003Eধরি, পানির সর্বত্র একই তাপমাত্রা বিরাজমান।[math]\\hspace{1.5 cm}\\begin{array}{l} \\therefore \\mathrm{~PV}=\\mathrm{P}^{\\prime} \\mathrm{V}^{\\prime} \\\\ \\Rightarrow \\mathrm{PV}=(\\mathrm{P}+\\mathrm{hpg}) \\mathrm{V}^{\\prime} \\\\ \\Rightarrow \\mathrm{PV}=\\mathrm{PV}+\\mathrm{hpgV^{ \\prime }} \\\\ \\Rightarrow \\mathrm{h}=\\dfrac{\\mathrm{P}\\left(\\mathrm{V}-\\mathrm{V}^{\\prime}\\right)}{\\rho \\mathrm{gV}^{\\prime}} \\\\ \\Rightarrow \\mathrm{h}=\\dfrac{10^{5}\\left(10^{-3}-5 \\times 10^{-4}\\right)}{10^{3} \\times 9.8 \\times 5 \\times 10^{-4} \\mathrm{~m}} \\\\ \\therefore \\mathrm{~h}=10.2 \\mathrm{~m} \\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ [math]\\mathrm{B}[/math]\u003Cbr\u003E স্থানের গভীরতা [math]10.2 \\mathrm{~m}[/math]\u003Cbr\u003E। উদ্দীপক অনুসারে ডুবুরী অক্সিজেন সিলিন্ডার ছাড়া [math]6\\rm{~m}[/math]\u003Cbr\u003E-এর অধিক গভীরতায় অনুসন্ধান চালাতে পারে না।অতএব, ডুবুরী উদ্দীপকের [math]\\mathrm{B}[/math]\u003Cbr\u003E স্থানে অক্সিজেন সিলিন্ডার ছাড়া অনুসন্ধান চালাতে পারে না।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বেলুনের ক্ষেত্রে বয়েলের আইন ব্যবহার করলে [math]P_1V_1=P_2V_2[/math], তাই\n[math]P_2=10^5\\times\\frac{10^{-3}}{5\\times10^{-4}}=2\\times10^5\\ \\text{Pa}[/math].\nএর মানে গভীরে চাপ [math]P_2=P_{atm}+\\rho gh[/math] এবং\n[math]h=\\frac{P_2-P_{atm}}{\\rho g}=\\frac{10^5}{10^3\\times9.8}\\approx10.2\\ \\text{m}[/math].\nডুবুরী কেবল [math]6\\ \\text{m}[/math] পর্যন্ত অক্সিজেন সিলিন্ডার ছাড়া যেতে পারেন, তাই [math]B[/math] স্থানে তিনি যেতে পারবেন না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 414751,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3179,
+          "full_name": "Cumilla Board",
+          "short_name": "CB",
+          "slug": "comilla-board",
+          "pivot": {
+            "question_bank_id": 414751,
+            "tag_id": 3179,
+            "year": "2019",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414748,
+      "value": {
+        "options": {
+          "গ": "[math]\\rm{A}[/math] হ্রদের তলদেশে চাপ কত?"
+        },
+        "question": "[math]\\rm{A ~ও~ B}[/math] দুটি হ্রদের তলদেশ থেকে একটি বায়ু বুদবুদ পানির উপরিতলে উঠলে এর আয়তন চারগুণ হয়। [math]\\text{A ও B}[/math] হ্রদের পানির ঘনত্ব যথাক্রমে [math]1000 \\mathrm{~kgm}^{-3}[/math] ও [math]1100 \\mathrm{~kgm}^{-3}[/math]। বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{~Pa}[/math]।",
+        "solution": "",
+        "explanation": "ব্যাখ্যা: বুদবুর ধীরগতিতে উঠলে তাপমাত্রা নেয়ি ধরা হলে বুদবুরের জন্য বয়েল-এর নীতি প্রযোজ্য, [math]pV=\\text{constant}[/math]। সরফেসে ভলিউম চারগুণ হলে তলদেশের চাপ হবে চতুর্গুণ(surface) চাপের, এবং বুদবুরের চাপই চারপাশের তরলের চাপ হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E তলদেশে চাপ: [math]p=4\\times10^{5}\\ \\mathrm{Pa}[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 2,
+          "year": "2021",
+          "pivot": {
+            "question_bank_id": 414748,
+            "year_id": 2
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414748,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414748,
+            "tag_id": 7,
+            "year": "2021",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414752,
+      "value": {
+        "options": {
+          "গ": "[math]A[/math] স্থানের হ্রদের গভীরতা নির্ণয় কর।"
+        },
+        "question": "[math]A[/math] স্থানের একটি হ্রদের তলদেশ হতে একটি বায়ু বুদবুদ পানির উপরিতলে আসায় বুদবুদের ব্যাসার্ধ দ্বিগুণ হয়। হ্রদটিতে বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{~N} g^{-2}[/math], বায়ুর তাপমাত্রা [math]18.6^{\\circ} \\mathrm{C}[/math] এবং আপেক্ষিক আর্দ্রতা [math]52.4\\%[/math]। অন্য কোনো দিন [math]B[/math] স্থানের অন্য একটি হ্রদে বায়ুর তাপমাত্রা [math]A[/math] স্থানের হ্রদের সমান এবং শিশিরাঙ্ক [math]7.4^\\circ C,\\ 7^\\circ C,\\ 8^\\circ C,\\ 18^\\circ C\\ ও\\ 19^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]7.5 \\times 10^{-3} \\mathrm{~m},\\ 8.2 \\times 10^{-3} \\mathrm{~m},\\ 15.6\\times 10^{-3} \\mathrm{~m}\\ ও\\ 16.5 \\tim es 10^{-3} \\mathrm{~m}[/math] পারদ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের গভীরতা [math]\\rm{h}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের তলদেশের আয়তন [math]\\rm{V}_1[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eএবং বুদবুদের ব্যাসার্ধ [math]\\rm{r}_1[/math]\u003Cbr\u003E হলে, [math]\\mathrm{V}_{1}=\\dfrac{4}{3} \\pi \\mathrm{r}_{1}^{3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের উপরিতলের ব্যাসার্ধ [math]\\rm{r_{2}=2 r_{1}}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E আয়তন, [math]\\mathrm{V}_{2}=\\dfrac{4}{3} \\pi \\mathrm{r}_{2}^{3}=\\dfrac{4}{3} \\pi\\left(2 \\mathrm{r}_{1}\\right)^{3}=8 \\times \\dfrac{4}{3} \\pi \\mathrm{r}_{1}^{3}=8 \\mathrm{~V}_{1}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ, [math]\\mathrm{P}_{1}=\\mathrm{P}_{2}+\\mathrm{h} \\rho \\mathrm{g}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eহ্রদের উপরিতলে চাপ, [math]\\mathrm{P}_{2}=10^{5} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eধরি, হ্রদের সর্বত্র একই তাপমাত্রা বিরাজমান[math]\\hspace{1.5 cm}\\begin{array}{ll} \\therefore \\mathrm{P}_{1} \\mathrm{~V}_{1}=\\mathrm{P}_{2} \\mathrm{~V}_{2} \\\\ \\Rightarrow \\mathrm{P}_{1} \\mathrm{~V}_{1}=\\mathrm{P}_{2} \\times 8 \\mathrm{~V}_{1} \\\\ \\Rightarrow \\mathrm{P}_{1}=8 \\mathrm{P}_{2} \\\\ \\Rightarrow \\mathrm{P}_{2}+\\mathrm{h} \\rho \\mathrm{g}=8 \\mathrm{P}_{2} \\\\ \\Rightarrow \\mathrm{h}=\\dfrac{7 \\mathrm{P}_{2}}{\\mathrm{\\rho g}}=\\dfrac{7 \\times 10^{5}}{1000 \\times 9.8} \\mathrm{~m}=71.43 \\mathrm{~m} \\\\ \\therefore \\mathrm{h}=71.43 \\rm{~m} \\end{array}[/math]\u003Cbr\u003Eঅতএব, [math]\\rm{A}[/math]\u003Cbr\u003E স্থানের হ্রদের গভীরতা [math]71.43 \\mathrm{~m}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: বুদবুদের ব্যাসার্ধ দ্বিগুণ হলে আয়তন বাড়ে [math]2^3=8[/math] গুণ, তাই স্থিতিস্থাপক তাপমাত্রায় বুদবুদের জন্য বয়েলের সূত্রে [math]P_{\\text{bottom}}V_{\\text{bottom}}=P_{\\text{atm}}V_{\\text{surface}}[/math] এবং [math]V_{\\text{surface}}=8V_{\\text{bottom}}\\Rightarrow P_{\\text{bottom}}=8P_{\\text{atm}}.[/math] তাই গভীরতার কারণে অতিরিক্ত চাপে [math]\\Delta P=P_{\\text{bottom}}-P_{\\text{atm}}=7P_{\\text{atm}}=7\\times10^5\\ \\text{Pa}\u003C/math] এবং [math]h=\\Delta P/(\\rho g)=\\dfrac{7\\times10^5}{1000\\times9.8}\\approx71.4\\ \\text{m}.[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 414752,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 414752,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 414752,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 414752,
+            "year_id": 9
+          }
+        },
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 414752,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414752,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414752,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414752,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414752,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 414752,
+            "tag_id": 5,
+            "year": "2018",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 414752,
+            "tag_id": 4,
+            "year": "2018",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 414752,
+            "tag_id": 47,
+            "year": "2018",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 414752,
+            "tag_id": 46,
+            "year": "2018",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 414752,
+            "tag_id": 1,
+            "year": "2018",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414753,
+      "value": {
+        "options": {
+          "গ": "পানির তাপমাত্রা ধ্রুব থাকলে পাত্রটির উচ্চতা কত?"
+        },
+        "question": "পদার্থবিজ্ঞান ল্যাবে একদল ছাত্র লক্ষ করল বিশুদ্ধ পানিপূর্ণ পাত্রে বায়ু বুদবুদ তলদেশ থেকে পৃষ্ঠদেশে আসার ফলে আয়তন [math]1.1[/math] গুণ হয় । পরীক্ষার এক পর্যায়ে একজন ছাত্র পানিতে অন্য একটি তরল মিশ্রিত করায় পানির ঘনত্ব বেড়ে দ্বিগুণ হয়ে যায় । (বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{Nm}^{-2}[/math])।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই,[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপাত্রের পৃষ্ঠদেশের চাপ, [math]\\rm{P}_{2}=10^{5} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপাত্রের তলদেশের আয়তন, [math]\\rm{V_{1}=V}[/math]\u003Cbr\u003E (ধরি) .[math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপাত্রের পৃষ্ঠদেশের আয়তন, [math]\\mathrm{V}_{2}=1.1 \\mathrm{~V}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003E [math]\\hspace{1 cm}[/math]\u003Cbr\u003Eপাত্রের গভীরতা, [math]\\mathrm{h}=?[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পাত্রের তলদেশের চাপ, [math]\\rm{P_1} =[/math]\u003Cbr\u003E বায়ুমণ্ডলের চাপ [math]+ \\rm{h}[/math]\u003Cbr\u003E গভীরতার পানির চাপ[math]\\hspace{5 cm}=10^{5}+\\mathrm{h} \\rho \\mathrm{g}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{1.5 cm}\\begin{array}{l} \\quad \\rm{P_{1} V_{1}=P_{2} V_{2}}\\\\ \\Rightarrow \\left(10^{5}+\\mathrm{h \\rho g}\\right) \\mathrm{V}=10^{5} \\times 1.1 \\mathrm{~V}\\\\ \\Rightarrow \\mathrm{h} \\rho \\mathrm{g}=10^{5} \\times 1.1-10^{5}\\\\ \\Rightarrow \\mathrm{h} \\rho \\mathrm{g}=0.1 \\times 10^{5}\\\\ \\Rightarrow \\mathrm{h}=\\dfrac{0.1 \\times 10^{5}}{\\rho g}=\\dfrac{0.1 \\times 10^{5}}{1000 \\times 9.8}=1.02 \\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eঅতএব, পাত্রের উচ্চতা [math]1.02 \\mathrm{~m}[/math]\u003Cbr\u003E।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পানির তাপমাত্রা ধ্রুব হওয়ায় বুদবুলের জন্য আইসোথার্মিক শর্তে [math]pV=\\text{const}[/math] প্রযোজ্য, তাই তলদেশে চাপ [math]p_{\\text{তল}}=1.1\\,p_{\\text{বায়ু}}[/math]. হাইড্রোস্ট্যাটিক সমতা দিয়ে [math]p_{\\text{তল}}=p_{\\text{বায়ু}}+\\rho gH[/math], ফলে [math]\\rho gH=0.1\\,p_{\\text{বায়ু}}[/math]. গ্রহণ করলে [math]p_{\\text{বায়ু}}=10^5\\ \\mathrm{N/m^2},\\ \\rho=1000\\ \\mathrm{kg/m^3},\\ g\\approx10\\ \\mathrm{m/s^2}[/math], তাই [math]H=\\dfrac{0.1\\times10^5}{1000\\times10}=1\\ \\mathrm{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 414753,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 414753,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 414753,
+            "tag_id": 7,
+            "year": "2017",
+            "created_at": "2025-08-19T06:54:30.000000Z",
+            "updated_at": "2025-08-19T06:54:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414731,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকের হ্রদের গভীরতা নির্ণয় কর।"
+        },
+        "question": "একটি পানিপূর্ণ হ্রদের তলদেশ থেকে একটি বায়ু বুদবুদ পানির উপরিতলে আসতে আসতে ব্যাস দ্বিগুণ হয়। [math]\\rho=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]এবং স্বাভাবিক বায়ুমণ্ডলীয় চাপ [math]1 \\times 10^{5} \\mathrm{~N} \\mathrm{~m}^{-2}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eব্যাস দ্বিগুণ অর্থাৎ, [math]\\mathrm{R}^{\\prime}=2 \\mathrm{R}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E আয়তন, [math]\\mathrm{V}^{\\prime}=\\frac{4}{3} \\pi\\left(\\frac{\\mathrm{R}^{\\prime}}{2}\\right)^{3}[/math]\u003Cbr\u003E [math]\\hspace{2.5cm}\\begin{array}{l}=\\frac{4}{3} \\times \\pi \\times\\left(\\frac{2 R}{2}\\right)^{3} \\\\=\\frac{4}{3} \\times \\pi \\times \\mathrm{R}^{3} \\\\=\\frac{4}{3} \\times \\pi \\times(2 \\mathrm{R})^{3} \\\\=8 \\times \\frac{4}{3} \\times \\pi \\times \\mathrm{R}^{3} \\\\=8 \\mathrm{~V}\\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ ব্যাস দ্বিগুণ হলে আয়তন 8 গুণ বড় হয় ।ধরি, তলদেশে বুদবুদের আয়তন [math]\\mathrm{= V_{1}}[/math]\u003Cbr\u003Eপানির উপরে বুদবুদের আয়তন, [math]\\mathrm{V_{2}=8 V_{1}}[/math]\u003Cbr\u003Eহ্রদের উপরে চাপ, [math]\\mathrm P_{2}=1 \\times 10^{5} \\mathrm{~N} \\mathrm{~m}^{-2}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ, [math]\\mathrm{P_{1}=P_{2}+h \\rho g}[/math]\u003Cbr\u003Eহ্রদের পানির ঘনত্ব, [math]\\rho=1020 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003Eআমরা জানি, [math]\\mathrm{P_1V_1=P_2V_2}[/math]\u003Cbr\u003E [math]\\hspace{1cm}\\begin{array}{l}\\Rightarrow \\mathrm{\\left(P_2+h\\rho g\\right)V_1}=\\mathrm{P_2\\times8V_1}\\\\\\Rightarrow \\mathrm h=\\mathrm{\\frac{P_2\\times(8-1)}{\\rho g}}=\\frac{1\\times10^5\\times7}{1000\\times9.8}\\mathrm{~m}=71.4\\mathrm{~m}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E হ্রদের গভীরতা, 71.4 m [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ডায়ামিটার দ্বিগুণ হলে আয়তন বাড়ে আটগুণ, তাই [math]V_2=8V_1[/math]। বাক্সীয় (isothermal) শর্তে [math]P_1V_1=P_2V_2[/math] যেখানে [math]P_1=P_{atm}+\\rho g h[/math] এবং [math]P_2=P_{atm}[/math], ফলে [math]P_{atm}+\\rho g h=8P_{atm}[/math] বা [math]\\rho g h=7P_{atm}[/math]। তাই [math]h=\\dfrac{7P_{atm}}{\\rho g}=\\dfrac{7\\times10^5}{1000\\times9.8}\\approx71.4\\ \\text{m}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414731,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 349,
+          "full_name": "Comilla Victoria Govt. College",
+          "short_name": "CVGC",
+          "slug": "cvgc",
+          "pivot": {
+            "question_bank_id": 414731,
+            "tag_id": 349,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414732,
+      "value": {
+        "options": {
+          "ঘ": "হ্রদটি [math]0.8[/math] আপেক্ষিক গুরুত্বের তরলে পূর্ণ থাকলে বায়ূবুদবুদের আয়তনের কিরূপ পরিবর্তন হবে গাণিতিক ব্যাখ্যা দাও।"
+        },
+        "question": "একটি পানিপূর্ণ হ্রদের তলদেশ থেকে একটি বায়ু বুদবুদ পানির উপরিতলে আসতে আসতে ব্যাস দ্বিগুণ হয়। [math]\\rho=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]এবং স্বাভাবিক বায়ুমণ্ডলীয় চাপ [math]1 \\times 10^{5} \\mathrm{~N} \\mathrm{~m}^{-2}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eহ্রদটির তরলের আপেক্ষিক গুরুত্ব 0.8 হলে,অর্থাৎ তরলের ঘনত্ব [math]=0.8 \\times 1000 \\mathrm{~kg} \\mathrm{~m}^{-3} =800 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003Eহ্রদের গভীরতা, h = 71.4m ['গ' নং থেকে প্রাপ্ত][math]\\hspace{1.5cm}\\begin{array}{l}\\therefore\\mathrm{P_1V_1=P_2V_2}\\\\\\Rightarrow\\mathrm{\\left(P_2+h\\rho g\\right)\\times V_1=P_2V_2}\\\\\\Rightarrow\\mathrm{\\frac{V_2}{V_1}=\\frac{P_2+h\\rho g}{P_2}}\\\\\\qquad\\ \\ =\\frac{1\\times10^5+(71.4\\times800\\times9.8)}{1\\times10^5}=6.6\\end{array}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\therefore\\mathrm{\\frac{V_2}{V_1}}=6.6\\\\\\Rightarrow \\mathrm{V_2=6.6V_1}\\end{array}[/math]\u003Cbr\u003Eঅর্থাৎ হ্রদটির পানির আপেক্ষিক গুরুত্ব 0.8 হলে বুদবুদের আয়তন পূর্বের 6.6 গুণ হতো । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বুদবুটির ব্যাস দ্বিগুণ হলে আয়তন হবে [math](2)^3=8[/math] গুণ বেশি (Boyle-এর আইন ধরে [math]P V=\\text{const}[/math])। তাপমাত্রা ধ্রুব ধরে উপরের চাপ [math]P_0[/math] হলে তল থেকে উর্ধ্বগামী অবস্থায় চাপের অনুপাত হবে [math]P_{\\text{তল}}/P_0=8[/math], অর্থাৎ [math]P_0+\\rho g h=8P_0\\Rightarrow h=\\dfrac{7P_0}{\\rho g}[/math]। [math]\\rho=0.8\\times1000=800\\ \\mathrm{kg/m^3}[/math] বসালে [math]h=\\dfrac{7\\times10^5}{800\\times9.8}\\approx89.3\\ \\mathrm{m}[/math]। তাই আয়তন আটগুণ হবে এবং সেই ঘনীভূত তরলে তল থেকে প্রায় [math]89.3\\ \\mathrm{m}[/math] গভীরতা থেকে বুদবুটি উঠে এলে ব্যাস দ্বিগুণ হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414732,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 349,
+          "full_name": "Comilla Victoria Govt. College",
+          "short_name": "CVGC",
+          "slug": "cvgc",
+          "pivot": {
+            "question_bank_id": 414732,
+            "tag_id": 349,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414733,
+      "value": {
+        "options": {
+          "ঘ": "বুদবুদের আকার দুই রকম হওয়ার যৌক্তিক কারণ গাণিতিকভাবে বিশ্লেষণ কর।"
+        },
+        "question": "একদিন সকালে ইশিতা স্কুলে যাবার পথে একটি হ্রদের পাশ দিয়ে যাওয়ার সময় লক্ষ করল হ্রদের স্বচ্ছ পানির তলদেশ থেকে বায়ু বুদবুদ পানির উপরে এসে বুদবুদটি বড় আকার ( [math]5[/math] গুণ) ধারণ করেছে। অন্য আরেক দিন পর্যবেক্ষণ করে দেখা গেল, উপরিতলে আসায় বুদবুদের আকার হয়েছে [math]4 \\dfrac{1}{2}[/math] গুণ । উভয় ক্ষেত্রে বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{Nm}^{-2}[/math] ছিল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eএখানে, ১ম ক্ষেত্রে, ধরি,নদীর তলদেশে বুদবুদের আয়তন, [math]\\mathrm{V_1=\\mathrm{~V}}[/math]\u003Cbr\u003Eনদীর পৃষ্ঠদেশে বুদবুদের আয়তন, [math]\\mathrm{V_2=5\\mathrm{~V}}[/math]\u003Cbr\u003Eতরল দেশে তাপমাত্রা, [math]\\mathrm{T}_{1}[/math]\u003Cbr\u003Eপৃষ্ঠদেশে তাপমাত্রা, [math]\\mathrm{T}_{2}[/math]\u003Cbr\u003Eআবার, অন্য দিনের ক্ষেত্রে, ধরি, নদীর তলদেশে আয়তন, [math]\\mathrm{V}_{1}^{\\prime}=\\mathrm{~V}^{\\prime}[/math]\u003Cbr\u003Eনদীর পৃষ্ঠদেশে আয়তন, [math]\\mathrm{V}_{2}^{\\prime}=\\frac{9 \\mathrm{~V}^{\\prime}}{2}[/math]\u003Cbr\u003Eএখন অন্য দিনের তলদেশের তাপমাত্রা, [math]\\mathrm{T}_{1}^{\\prime}[/math]\u003Cbr\u003Eহলে এবং পৃষ্ঠের তাপমাত্রা, [math]\\mathrm{T}_{2}^{\\prime}[/math]\u003Cbr\u003Eএখন, প্রথম ক্ষেত্রে,[math]\\hspace{1.5cm}\\begin{array}{l}\\ \\ \\ \\quad\\frac{\\mathrm{P}_1\\mathrm{~V}_1}{\\mathrm{~T}_1}=\\frac{\\mathrm{P}_2\\mathrm{~V}_2}{\\mathrm{~T}_2}\\\\\\Rightarrow\\frac{\\mathrm{T}_2}{\\mathrm{~T}_1}=\\frac{\\mathrm{P}_2\\mathrm{~V}_2}{\\mathrm{P}_1\\mathrm{~V}_1}=\\frac{\\mathrm{P}_2\\times5\\mathrm{~V}}{\\mathrm{P}_1\\times\\mathrm{V}_2}\\\\\\Rightarrow\\frac{\\mathrm{T}_2}{\\mathrm{~T}_1}=\\frac{5\\mathrm{P}_2}{\\mathrm{P}_1}\\end{array}[/math]\u003Cbr\u003Eআবার,[math]\\hspace{.5cm}\\begin{array}{l}\\ \\ \\ \\frac{\\mathrm{P}_1^{\\prime}\\mathrm{V}_1^{\\prime}}{\\mathrm{T}_1^{\\prime}}=\\frac{\\mathrm{P}_2^{\\prime}\\mathrm{V}_2^{\\prime}}{\\mathrm{T}_2^{\\prime}}\\\\\\Rightarrow\\frac{\\mathrm{T}_2^{\\prime}}{\\mathrm{T}_1^{\\prime}}=\\frac{\\mathrm{P}_2^{\\prime}\\mathrm{V}_2^{\\prime}}{\\mathrm{P}_1^{\\prime}\\mathrm{V}_1^{\\prime}}=\\frac{\\mathrm{P}_2^{\\prime}\\times9\\mathrm{~V}}{\\mathrm{P}_1^{\\prime}\\times2\\mathrm{~V}}=\\frac{4.5\\mathrm{P}_2^{\\prime}}{\\mathrm{P}_1^{\\prime}}\\end{array}[/math]\u003Cbr\u003Eএখন, উভয় ক্ষেত্রে বায়ুমণ্ডলের চাপ সমান ও হ্রদের গভীরতা সমান হওয়ায় [math]\\mathrm{\\frac{P_2}{P_1}=\\frac{P_2^{\\prime}}{P_1^{\\prime}}}[/math]\u003Cbr\u003E হবে।[math]\\therefore \\quad \\frac{\\mathrm{T}_{2}}{\\mathrm{~T}_{1}} \\neq \\frac{\\mathrm{T}_{2}^{\\prime}}{\\mathrm{T}_{1}^{\\prime}}[/math]\u003Cbr\u003Eঅর্থাৎ উভয় ক্ষেত্রে তাপমাত্রার পার্থক্য সমান নয়।অতএব, তাপমাত্রার পার্থক্যের কারণে দুই দিনের বুদবুদের আকার দুই রকম দেখা গিয়েছিল। দ্বিতীয় দিনে বায়ুর তাপমাত্রা কম থাকায় সেদিন বুদবুদের আয়তন কমে গিয়েছিল কেননা স্থির চাপে কোনো গ্যাসের আয়তন এর পরম তাপমাত্রার সমানুপাতিক । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বুদবুুদের চাপ–আয়তন সম্পর্ক (বয়েল-এর সূত্র) অনুযায়ী [math]P_1V_1=P_2V_2[/math], তাই সম্প্রসারণের অনুপাৎ \n[math]f=\\frac{V_2}{V_1}=\\frac{P_1}{P_2}=\\frac{P_{atm}+\\rho g h}{P_{atm}}=1+\\frac{\\rho g h}{P_{atm}}[/math]. অতএব গভীরতা [math]h=\\dfrac{(f-1)P_{atm}}{\\rho g}[/math]. [math]P_{atm}=10^5\\ \\mathrm{N/m^2},\\ \\rho\\approx1000\\ \\mathrm{kg/m^3},\\ g\\approx10\\ \\mathrm{m/s^2}[/math] হলে [math]f=5\\Rightarrow h\\approx40\\ \\mathrm{m}[/math] এবং [math]f=4.5\\Rightarrow h\\approx35\\ \\mathrm{m}[/math]. তাই বুদবুদগুলো ভিন্ন গভীরে তৈরি হওয়ায় তাদের উপরে এসে ভলিউম ভিন্ন হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414733,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 238,
+          "full_name": "Bhola Govt College, Bhola",
+          "short_name": "BGC",
+          "slug": "bgc",
+          "pivot": {
+            "question_bank_id": 414733,
+            "tag_id": 238,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414734,
+      "value": {
+        "options": {
+          "গ": "চলনবিলের তলদেশে উৎপন্ন বায়ু বুদবুদটির ব্যাসার্ধ পৃষ্ঠতলে কতগুণ হবে?"
+        },
+        "question": "[math]15\\ m[/math] গভীরতা ও [math]10^\\circ C[/math] তাপমাত্রা বিশিষ্ট তলদেশ হতে একটি বায়ু বুদবুদ [math]20^\\circ C[/math] তাপমাত্রা বিশিষ্ট চলনবিলের পৃষ্ঠতলে উঠে আসে। আবহাওয়া অধিদপ্তরের বুলেটিন মোতাবেক ঐ এলাকার শিশিরাঙ্ক [math]15^\\circ C[/math]। একই দিনে টাঙ্গুয়ার হাওড় সংলগ্ন পর্যবেক্ষণ কেন্দ্রে রাখা আর্দ্র ও শুষ্ক বাম্বের তাপমাত্রা যথাক্রমে [math]28^\\circ C\\ ও\\ 30^\\circ C[/math]। উল্লেখ্য যে [math]30^\\circ C,\\ 28^\\circ C,\\ 27^\\circ C,\\ 26^\\circ C,\\ 20^\\circ C\\ ও\\ 15^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয়বাষ্প চাপ যথাক্রমে [math]31.85 \\times 10^{-3} \\mathrm{~m},\\ 28.45 \\times 10^{-3} \\mathrm{~m},\\ 26.85 \\times 10^{-3} \\mathrm{~m},\\ 25.25 \\times 10^{-3} \\mathr m{~m},\\ 17.54\\times 10^{-3} \\mathrm{~m}\\ ও\\ 12.81 \\times 10^{-3} \\mathrm{~m}[/math] পারদ চাপ। ( [math]30 ^\\circ C[/math] তাপমাত্রায় গ্লেইসারের উৎপাদক [math]1.65[/math], বায়ুমণ্ডলের চাপ [math]101325\\ Pa[/math], পানির ঘনত্ব [math]10^{-3} \\mathrm{~kg} \\mathrm{~m}^{-3}[/math])",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, চলনবিলের তলদেশে চাপ, [math]\\mathrm{P_1}=\\mathrm{P+h\\rho g}[/math]\u003Cbr\u003E [math]\\hspace{1cm}[/math]\u003Cbr\u003Eচলনবিলের তলদেশের আয়তন, [math]\\mathrm{V_{1}}[/math]\u003Cbr\u003E [math]\\hspace{1cm}[/math]\u003Cbr\u003Eচলনবিলের তলদেশে তাপমাত্রা, [math]\\mathrm{T}_{1}=10^{\\circ} \\mathrm{C}=283 \\mathrm{~K}[/math]\u003Cbr\u003E [math]\\hspace{1cm}[/math]\u003Cbr\u003Eচলনবিলের পৃষ্ঠে চাপ, [math]\\mathrm{P_2}=\\mathrm{P}[/math]\u003Cbr\u003E [math]\\hspace{1cm}[/math]\u003Cbr\u003Eচলনবিলের পৃষ্ঠের আয়তন, [math]\\mathrm{V_{2}}[/math]\u003Cbr\u003E [math]\\hspace{1cm}[/math]\u003Cbr\u003Eচলনবিলের পৃষ্ঠের তাপমাত্রা, [math]\\mathrm{T}_{2}=20^{\\circ} \\mathrm{C}=293 \\mathrm{~K}[/math]\u003Cbr\u003Eবুদবুদের ব্যাসার্ধ চলনবিলের পৃষ্ঠে এবং তলদেশে যথাক্রমে [math]\\mathrm{r}_{2}[/math]\u003Cbr\u003E ও [math]\\mathrm{r}_{1}[/math]\u003Cbr\u003E হলে-আমরা জানি,[math]\\hspace{.5cm}\\begin{array}{l}\\ \\ \\ \\ \\ \\frac{\\mathrm{P}_1\\mathrm{~V}_1}{\\mathrm{~T}_1}=\\frac{\\mathrm{P}_2\\mathrm{~V}_2}{\\mathrm{~T}_2}\\\\\\Rightarrow\\frac{(\\mathrm{P}+\\mathrm{h}\\rho\\mathrm{g})\\mathrm{V}_1}{283}=\\frac{\\mathrm{PV_2}}{293}\\\\\\Rightarrow\\frac{\\left(101325+15\\times10^3\\times9.8\\right)\\mathrm{V}_1}{283}=\\frac{101325\\mathrm{~V}_2}{293}\\\\\\Rightarrow877.47\\mathrm{~V}_1=345.82\\mathrm{~V}_2\\\\\\Rightarrow\\mathrm{V}_2=2.54\\mathrm{~V}_1\\\\\\Rightarrow\\frac{4}{3}\\pi\\mathrm{r}_2^3=2.54\\times\\frac{4}{3}\\pi\\mathrm{r}_1^3\\\\\\Rightarrow\\mathrm{r}_2=\\sqrt[3]{2.54}\\mathrm{r}_1\\\\\\therefore\\mathrm{r}_2=1.36\\mathrm{r}_1\\end{array}[/math]\u003Cbr\u003Eচলনবিলের পৃষ্ঠে বুদবুদের ব্যাসার্ধে এর তলদেশের বুদবুদের ব্যাসার্ধের 1.36 গুণ হবে । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বুদবুলে অ-সংকোচনীয় বায়ুর অংশ অপরিবর্তিত থেকে ভলিউমের পরিবর্তন হয় চাপ ও তাপমাত্রার কারণে, তাই\n\n[math]\\dfrac{V_2}{V_1}=\\dfrac{(P_1-e_{s1})}{(P_2-e_{s2})}\\cdot\\dfrac{T_2}{T_1}[/math]\n\nএবং ব্যাসার্ধের অনুপাত হলো [math](V_2/V_1)^{1/3}[/math]. ন্যূনতম মান বসিয়ে:\n\n[math]P_1=101325+1000\\times9.8\\times15=248325\\ \\text{Pa},\\quad P_2=101325\\ \\text{Pa}[/math]\n\n[math]e_{s1}(10^\\circ\\!C)\\approx1227\\ \\text{Pa},\\quad e_{s2}(20^\\circ\\!C)\\approx2338\\ \\text{Pa}[/math]\n\n[math]T_1=283.15\\ \\text{K},\\ T_2=293.15\\ \\text{K}[/math]\n\nতাহলে\n\n[math]\\dfrac{V_2}{V_1}=\\dfrac{247098}{98987}\\times\\dfrac{293.15}{283.15}\\approx2.585[/math]\n\nঅতএব ব্যাসার্ধের অনুপাত\n\n[math]\\left(2.585\\right)^{1/3}\\approx1.37.[/math]\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সুতরাং পৃষ্ঠে বুদবুলটির ব্যাসার্ধ তলদেশের চেয়ে প্রায় [math]1.37[/math] গুণ বড়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414734,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3504,
+          "full_name": "Govt. Edward College, Pabna",
+          "short_name": "GECP",
+          "slug": "gecp",
+          "pivot": {
+            "question_bank_id": 414734,
+            "tag_id": 3504,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414735,
+      "value": {
+        "options": {
+          "A": "[math]38.82 m[/math]",
+          "B": "[math]40.82 m[/math]",
+          "C": "[math]42.82 m[/math]",
+          "D": "[math]44.82 m[/math]"
+        },
+        "question": "One afternoon, Jamil and his friends were gossiping beside a lake. All on a sudden, Jamil noticed that a bubble from the bottom of the lake of transparent water was coming out on the surface of the water. After coming to the surface, the bubble took a large size. Size of the bubble on the surface was 5 times, and atmospheric pressure was [math]10^{5} \\mathrm{Nm}^{-2} .[/math] [Density of water, [math]p = 1000 kgm³[/math]]. Calculate the depth of the lake.",
+        "solution": "[math]\\frac{P_{a}+P_{w}}{P_{a}}=5 \\Rightarrow P_{a}+P_{w}=5 P_{a} \\Rightarrow P_{w}=4 P_{a}[/math]\u003Cbr\u003E [math]\\Rightarrow h \\rho g=4 \\mathrm{P}_{\\mathrm{a}} \\Rightarrow \\mathrm{h}=\\frac{4 \\mathrm{P}_{\\mathrm{a}}}{\\rho \\mathrm{g}}=\\frac{4 \\times 10^{5}}{10^{3} \\times 9.8} \\mathrm{~m}=40.82 \\mathrm{~m}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.[math]40.82 m[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 11,
+          "year": "2021-2022",
+          "pivot": {
+            "question_bank_id": 414735,
+            "year_id": 11
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 414735,
+            "tag_id": 55,
+            "year": "21-22",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414736,
+      "value": {
+        "options": {
+          "ক": "72.4m",
+          "খ": "289.6m",
+          "গ": "580m",
+          "ঘ": "651.4m",
+          "ঙ": "950m"
+        },
+        "question": "কোন হ্রদের তলদেশ থেকে পানির উপরিতলে আসা একটি বায়ু বুদবুদের ব্যাস [math]4[/math] গুণ হয়। হ্রদের পৃষ্ঠে বায়ু মণ্ডলের চাপ স্বাভাবিক বায়ুমণ্ডলের চাপের সমান এবং হ্রদের পানির উষ্ণতা ধ্রুবক হলে হ্রদের গভীরতা কত? [পৃষ্ঠদেশে বায়ুর চাপ [math]= 101325Pa[/math]]",
+        "solution": "[math]P_{1} V_{1}=P_{2} V_{2} \\Rightarrow P_{1} \\times 4^{3}=\\left(P_{1}+h \\rho g\\right) \\times 1 \\Rightarrow h=651.4 \\mathrm{~m}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 19,
+          "year": "2018-2019",
+          "pivot": {
+            "question_bank_id": 414736,
+            "year_id": 19
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 414736,
+            "tag_id": 88,
+            "year": "18-19",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414737,
+      "value": {
+        "options": {
+          "A": "2.35mm",
+          "B": "2.10mm",
+          "C": "2.50mm",
+          "D": "2.40mm"
+        },
+        "question": "A bubble rises from the bottom of a lake of depth [math]80.0\\ m[/math] where the temperature is [math]4^{\\circ} \\mathrm{C}[/math]. The water temperature at the surface is [math]18^{\\circ} \\mathrm{C}[/math]. If the bubble's initial diameter is [math]1.0 \\mathrm{~mm}[/math], what is diameter when it reaches the surface?",
+        "solution": "[math]\\dfrac{P_{1} V_{1}}{T_{1}}=\\dfrac{P_{2} V_{2}}{T_{2}} \\Rightarrow \\dfrac{P_{1} d_{1}^{3}}{T_{1}}=\\dfrac{P_{2} d_{2}^{3}}{T_{2}}\\\\ P_{1}=101.325 \\times 10^{3}+80 \\times 1000 \\times 9.8 ;\\\\ P_{2}=101.325 \\times 10^{3} \\therefore d_{2}=2.10 \\mathrm{~mm}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 414737,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 55,
+          "full_name": "Islamic University of Technology",
+          "short_name": "IUT",
+          "slug": "iut",
+          "pivot": {
+            "question_bank_id": 414737,
+            "tag_id": 55,
+            "year": "16-17",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414738,
+      "value": {
+        "options": {
+          "ক": "10.8",
+          "খ": "11.8",
+          "গ": "12.8",
+          "ঘ": "13.8",
+          "ঙ": "22.8"
+        },
+        "question": "একটি সাবানের বুদবুদের ব্যাসার্ধ [math]1cm[/math] এবং সাবানের দ্রবণের পৃষ্ঠটান [math]3.2 \\times 10^{-2}N/m[/math]। বুদবুদের বাইরের এবং ভিতরের তলের মধ্যে অতিরিক্ত চাপের পরিমাণ কত [math]N/m^2[/math]?",
+        "solution": "[math]P=\\frac{4 T}{R}=12.8 \\mathrm{Nm}^{-2}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 13,
+          "year": "2016-2017",
+          "pivot": {
+            "question_bank_id": 414738,
+            "year_id": 13
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 73,
+          "full_name": "Shahjalal University of Science & Technology (B Unit)",
+          "short_name": "SUST-B",
+          "slug": "sust-b",
+          "pivot": {
+            "question_bank_id": 414738,
+            "tag_id": 73,
+            "year": "16-17",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414739,
+      "value": {
+        "options": {
+          "ক": "20.41m",
+          "খ": "30.61m",
+          "গ": "40.81m",
+          "ঘ": "51.01m"
+        },
+        "question": "একটি লেকের তলদেশ থেকে উপরিতলে আসার সময় বুদবুদ আয়তনে 5 গুণ হয়। বায়ুমন্ডলের চাপ [math]10^5 Nm^{-2}[/math] হলে লেকের গভীরতা কত ?",
+        "solution": "[math]P_{1} V_{1}=P_{2} V_{2} \\Rightarrow\\left(P_{2}+h \\rho g\\right) V=P_{2} \\times V \\times 5[/math]\u003Cbr\u003E [math]\\Rightarrow \\mathrm{h}=\\frac{5 \\mathrm{P}_{2}-\\mathrm{P}_{2}}{\\rho \\mathrm{g}}=\\frac{4 \\mathrm{P}_{2}}{\\rho \\mathrm{g}}=\\frac{4 \\times 10^{5}}{1000 \\times 9.8}=40.81 \\mathrm{~m}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 414739,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 480,
+          "full_name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj (B Unit)",
+          "short_name": "BSMRSTU-B",
+          "slug": "bsmrstu-b",
+          "pivot": {
+            "question_bank_id": 414739,
+            "tag_id": 480,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414740,
+      "value": {
+        "options": {
+          "ক": "77.43cm",
+          "খ": "21.93m",
+          "গ": "11.03m",
+          "ঘ": "71.43m"
+        },
+        "question": "কোন হ্রদের তলদেশ থেকে পানির উপরিতলে আসায় একটি বায়ু বুদবুদের ব্যাস দ্বিগুণ হয়। হ্রদের পৃষ্ঠে বায়ু মন্ডলের চাপ [math]10^5Nm^{-2}[/math] হলে এবং হ্রদের পানি উষ্ণতা ধ্রুবক হলে হ্রদের গভীরতা কত?",
+        "solution": "হ্রদের তলদেশের চাপ, [math]p_2 =[/math]\u003Cbr\u003E বায়ুমন্ডলীয় চাপ [math]+h[/math]\u003Cbr\u003E গভীরতায় পানির চাপ [math]= p_2 + hpg[/math]\u003Cbr\u003E [math]Again,P_1V_1=P_2V_2[/math]\u003Cbr\u003E [math]\\therefore\\left(\\mathrm{P}_{2}+\\mathrm{h} \\delta \\mathrm{g}\\right) \\mathrm{V}=\\mathrm{P}_{2} \\times \\mathrm{gV}[\\because[/math]\u003Cbr\u003Eআয়তন= (ব্যাস) [math]^3[/math]\u003Cbr\u003E [math]]\\therefore \\mathrm{h}=\\frac{7 \\mathrm{P}_{2}}{\\rho \\mathrm{g}}=\\frac{7 \\times 10^{5}}{10^{3} \\times 9.8}=71.43 \\mathrm{~m}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 414740,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 502,
+          "full_name": "Jessore University of Science & Technology (C Unit)",
+          "short_name": "JUST-C",
+          "slug": "just-c",
+          "pivot": {
+            "question_bank_id": 414740,
+            "tag_id": 502,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414730,
+      "value": {
+        "options": {
+          "ঘ": "হ্রদটি যদি শুধু পানি দ্বারা পূর্ণ থাকতো তাহলে সর্বোচ্চ দেড়গুণ প্রসারণশীল দুই লিটার আয়তনের একটি বেলুন হ্রদটির তলদেশ হতে উপরিতলে নিয়ে আসা সম্ভব হবে কী? গাণিতিক যুক্তি দাও।"
+        },
+        "question": "[math]1020 \\mathrm{~kg} \\mathrm{~m}{ }^{-3}[/math] ঘনত্বের লবণ পানি দ্বারা পূর্ণ একটি হ্রদের তলদেশ থেকে উপরিতলে আসার ফলে বায়ু বুদবুদের আয়তন দ্বিগুণ হয়। স্বাভাবিক বায়ু মণ্ডলীয় চাপ [math]10^{5} \\mathrm{~Pa}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eতলদেশে বুদবুদের আয়তন, [math]\\mathrm{V_{1}=2 L}[/math]\u003Cbr\u003Eহ্রদের উপরে চাপ, [math]\\mathrm{P_{2}}=10^{5} \\mathrm{~Pa}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ, [math]\\mathrm{P_{1}=P_{2}+h \\rho g}[/math]\u003Cbr\u003Eহ্রদের গভীরতা, h = 10 m [গ থেকে প্রাপ্ত ]পানির ঘনত্ব, [math]\\rho=1000 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003Eপানির উপরে বুদবুদের আয়তন, [math]\\mathrm{V_2}[/math]\u003Cbr\u003E হলে,আমরা জানি, [math]\\mathrm{P_1V_1=P_2V_2}[/math]\u003Cbr\u003E [math]\\hspace{1.5cm}\\begin{array}{l}\\Rightarrow \\mathrm{\\left(P_2+h\\rho g\\right)V_1=P_2V_2}\\\\\\Rightarrow \\left(10^5\\mathrm{~Pa}+10\\mathrm{~m}\\times1000\\mathrm{~kg}\\mathrm{~m}^{-3}\\times9.8\\mathrm{~m}^{-2}\\right)\\times2\\mathrm{~L}=10^5\\mathrm{~Pa}\\times\\mathrm{V}_2\\\\\\Rightarrow \\mathrm{V_2}=3.96\\mathrm{~L}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore \\frac{\\mathrm{V}_{2}}{\\mathrm{~V}_{1}}=\\frac{3.96}{2}=1.98[/math]\u003Cbr\u003E গুণ[math]\\therefore[/math]\u003Cbr\u003E হ্রদের উপরে আসলে বেলুনটি 1.98 গুণ প্রসারিত হবে যা দেড় গুণের চেয়ে বেশি। [math]\\therefore[/math]\u003Cbr\u003E বেলুনটি তলদেশ হতে উপরে নিয়ে আসা সম্ভব না । [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E নলকে বুদবুদ দ্বিগুণ হলে বটম চাপে বায়ুর চাপ দ্বিগুণ হওয়ায় Boyle-এর সূত্র দিয়ে [math]1\\times10^{5}+ρ_{\\text{salt}}gh=2\\times10^{5}[/math], তাই [math]h=\\dfrac{10^{5}}{1020\\times9.8}\\approx10\\ \\text{m}[/math]। তৎপরবর্তীতে মিষ্টি পানির ঘনত্ব [math]1000\\ \\text{kg m}^{-3}[/math] ধরে প্রসারণ অনুপাত হবে [math]\\dfrac{1\\times10^{5}+1000\\times9.8\\times10}{1\\times10^{5}}=1.98[/math]। যেহেতু [math]1.98\u003E1.5[/math], একটি 2 লিটার যার সর্বোচ্চ প্রসারণশীলতা 1.5 গুণ, তা নিরাপদে উপরের দিকে আনা যাবে না (অতিমাত্রায় প্রসারিত হয়ে ছিঁড়ে যেতে পারে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414730,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 2026,
+          "full_name": "Narail Govt. Victoria College",
+          "short_name": "NGVC",
+          "slug": "ngvc",
+          "pivot": {
+            "question_bank_id": 414730,
+            "tag_id": 2026,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414717,
+      "value": {
+        "options": [],
+        "question": "কোনো হ্রদের তলদেশ থেকে পানির উপরিতলে আসায় একটি বায়ু বুদবুদের আয়তন 7 গুণ হয়। বায়ু মণ্ডলের চাপ [math]10^{6} \\mathrm{Nm}^{-2}[/math] হ্রদের গভীরতা কত?",
+        "solution": "( Answer : [math]612.25 \\mathrm{~m}[/math] )",
+        "explanation": "ব্যাখ্যা: বুদবু আয়তন 7 গুণ হলে বোয়েল–লুরের সূত্র অনুযায়ী [math]P_{\\text{গভীর}}V_{\\text{গভীর}}=P_{\\text{পৃষ্ঠ}}V_{\\text{পৃষ্ঠ}}[/math] এবং [math]V_{\\text{পৃষ্ঠ}}=7V_{\\text{গভীর}}[/math] থেকে [math]P_{\\text{গভীর}}=7P_{\\text{পৃষ্ঠ}}[/math]. গভীরতায় মোট চাপ [math]P_{\\text{গভীর}}=P_{\\text{পৃষ্ঠ}}+ρgh[/math] হওয়ায় [math]ρgh=6P_{\\text{পৃষ্ঠ}}[/math], তারপর [math]h=\\dfrac{6P_{\\text{পৃষ্ঠ}}}{ρg}=\\dfrac{6\\times10^{6}}{10^{3}\\times10}=600\\ \\mathrm{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414717,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414705,
+      "value": {
+        "options": [],
+        "question": "কোন হ্রদের তলদেশ থেকে পানির উপরিতলে আসার একটি বায়ু বুদবুদের ব্যাস দ্বিগুণ হয়। হ্রদের পৃ ষ্ঠে বায়ুমন্ডলের চাপ স্বাভাবিক বায়ুমণ্ডলীর চাপের সমান এবং হ্রদের পানির উষ্ণতা ধ্রুবক হলে হ্রদের গভীরতা কত?",
+        "solution": "(Answer : [math]72.375 \\mathrm{~m}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : ব্যাস দ্বিগুণ হয় অর্থাৎ আয়তন হয় আট গুণ। আগে আয়তন [math]V_{1}=V[/math]\u003Cbr\u003E হলে পরে [math]V_{2}=8 V[/math]\u003Cbr\u003Eতাহলে, [math]P_{1} V_{1}=P_{2} V_{2}[/math]\u003Cbr\u003E [ [math]T[/math]\u003Cbr\u003E ধ্রুবক] বা, [math](\\mathbf{P}+\\mathrm{h} \\rho \\mathrm{g}) \\mathrm{V}=\\mathrm{P} \\times 8 \\mathrm{~V}[/math]\u003Cbr\u003E বা [math]P+h \\rho g=8 P[/math]\u003Cbr\u003E বা [math]h \\rho g=7 P[/math]\u003Cbr\u003E [math]\\Rightarrow h=\\dfrac{7 \\times P}{\\rho g}=\\dfrac{7 \\times 101325}{10^{3} \\times 9.8} \\quad \\therefore h=72.375 \\mathrm{~m} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: তাপমাত্রা ধ্রুবক তাই [math]PV=\\text{constant}[/math]; বুদবুরের ব্যাস দ্বিগুণ হলে আয়তন বেড়ে যায় [math]V\\propto d^3[/math] ফলে [math]V_{\\text{surface}}/V_{\\text{bottom}}=2^3=8[/math] এবং [math]P_{\\text{bottom}}V_{\\text{bottom}}=P_0V_{\\text{surface}}\\Rightarrow P_{\\text{bottom}}=8P_0[/math]. হাইড্রোস্ট্যাটিক চাপের সূত্রানুযায়ী [math]P_{\\text{bottom}}=P_0+\\rho g h[/math], তাই [math]\\rho g h=7P_0[/math]. সুতরাং [math]h=\\dfrac{7P_0}{\\rho g}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 31,
+          "year": "2013-2014",
+          "pivot": {
+            "question_bank_id": 414705,
+            "year_id": 31
+          }
+        },
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 414705,
+            "year_id": 21
+          }
+        },
+        {
+          "id": 33,
+          "year": "2004-2005",
+          "pivot": {
+            "question_bank_id": 414705,
+            "year_id": 33
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 501,
+          "full_name": "Chittagong University of Engineering & Technology",
+          "short_name": "CUET",
+          "slug": "cuet",
+          "pivot": {
+            "question_bank_id": 414705,
+            "tag_id": 501,
+            "year": "13-14",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        },
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 414705,
+            "tag_id": 109,
+            "year": "09-10",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        },
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 414705,
+            "tag_id": 88,
+            "year": "04-05",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414706,
+      "value": {
+        "options": [],
+        "question": "একটি পুকুরে পানির গভীরতা [math]6m[/math]। বায়ুমন্ডলের তাপমাত্রা [math]27^\\circ C[/math] এবং পানির মধ্যে উহা প্রতি মিটার গভীরতার জন্য [math]0.5^\\circ C[/math] কমে। পানির ঘনত্বের পরিবর্তন উপেক্ষা করতঃ পুকুরের তলদেশে উৎপন্ন একটি মার্শ গ্যাসের বুদবুদ ও উহার উপরিতলে পৌঁছার অবস্থায় আয়তনের পরিবর্তনের শতকরা হার নির্ণয় কর।",
+        "solution": "(Answer : [math]59.6 \\%[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : [math]P_{2}=P_{1}+h \\rho g=1.013 \\times 10^{5}+(6 \\times 1000 \\times 9.8)=1.6 \\times 10^{5} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E [math]T_{1}=300 \\mathrm{~K} \\quad T_{2}=(300-6 \\times 0.5)=297 \\mathrm{~K}\\quad \\mid[/math]\u003Cbr\u003E এখানে, [math]V_2[/math]\u003Cbr\u003E হল আদি আয়তন।[math]\\dfrac{P_{1} V_{1}}{T_{1}}=\\dfrac{P_{2} V_{2}}{T_{2}} \\quad \\therefore \\dfrac{V_{2}}{V_{1}}=\\dfrac{P_{1} T_{2}}{T_{1} P_{2}}=\\dfrac{1.013 \\times 10^{5} \\times 297}{1.6 \\times 10^{5} \\times 300}=0.626 \\therefore \\dfrac{V_{1}}{V_{2}}=1.596[/math]\u003Cbr\u003Eএখন, আয়তনের শতকরা পরিবর্তন, [math]\\dfrac{V_{1}-V_{2}}{V_{2}} \\times 100 \\%=(1.596-1) \\times 100 \\%=59.6 \\%[/math]\u003Cbr\u003E বৃদ্ধি।",
+        "explanation": "ব্যাখ্যা: উষ্ণতা ও চাপ বদলালে বুদবলের আয়তন আইডিয়াল গ্যাস সূত্র অনুসারে পরিবর্তিত হয়ে থাকে, কারণ [math]\\dfrac{PV}{T} = \\text{constant}[/math]. তাপমাত্রা নীচে থেকে শুরু করে [math]T_1=(27-0.5\\times6)^\\circ C=24^\\circ C=297\\ \\text{K}[/math] এবং উপরে [math]T_2=27^\\circ C=300\\ \\text{K}[/math], চাপ নিচুতে [math]P_1=P_0+\\rho g h=101325+1000\\times9.8\\times6=160125\\ \\text{Pa}[/math] ও উপরে [math]P_2=P_0=101325\\ \\text{Pa}[/math]। তাই\n[math]\\dfrac{V_2}{V_1}=\\dfrac{P_1}{P_2}\\cdot\\dfrac{T_2}{T_1}=\\dfrac{160125}{101325}\\cdot\\dfrac{300}{297}\\approx1.5966,[/math]\nঅর্থাৎ আয়তন প্রায় [math]59.7\\%[/math] বৃদ্ধি পায় (প্রায় [math]60\\%[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 28,
+          "year": "2005-2006",
+          "pivot": {
+            "question_bank_id": 414706,
+            "year_id": 28
+          }
+        },
+        {
+          "id": 28,
+          "year": "2005-2006",
+          "pivot": {
+            "question_bank_id": 414706,
+            "year_id": 28
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 414706,
+            "tag_id": 109,
+            "year": "05-06",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        },
+        {
+          "id": 88,
+          "full_name": "Khulna University of Engineering & Technology",
+          "short_name": "KUET",
+          "slug": "kuet",
+          "pivot": {
+            "question_bank_id": 414706,
+            "tag_id": 88,
+            "year": "05-06",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414707,
+      "value": {
+        "options": [],
+        "question": "কোনো হ্রদের তলদেশ থেকে পানির উপরিতলে আসার ফলে একটি বাতাসের বুদবুদের আয়তন তিন গুণ বেড়ে যায়। হ্রদের পৃষ্ঠে বায়ুমন্ডলের চাপ [math]10^{5} \\mathrm{~N} \\cdot \\mathrm{m}^{-2}[/math] হলে হ্রদের গভীরতা কত?",
+        "solution": "( Answer : [math]20.41 \\mathrm{~m}[/math] )",
+        "explanation": "ব্যাখ্যা: বুদবুতে গ্যাসের পরিমাণ এবং তাপমাত্রা ধরা হলে বয়েল-বাধ্যতা প্রযোজ্য, [math]p_1V_1=p_2V_2[/math] এবং [math]V_2=3V_1[/math] হলে [math]p_1=3p_2=3p_0[/math]. তদ্ব্যতীত হাইড্রোস্ট্যাটিক চাপে [math]p_1=p_0+\\rho gh[/math] হওয়ায় [math]\\rho gh=2p_0[/math] এবং [math]h=\\dfrac{2p_0}{\\rho g}[/math]; [math]p_0=10^5\\ \\mathrm{N/m^2},\\ \\rho=1000\\ \\mathrm{kg/m^3},\\ g=10\\ \\mathrm{m/s^2}[/math] নিলে [math]h=20\\ \\mathrm{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414707,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414708,
+      "value": {
+        "options": [],
+        "question": "20m পানির নিচে একটি বুদবুদের আয়তন [math]0.00003 \\mathrm{~m}^{3}[/math]। বায়ুমন্ডলের চাপ [math]9 8000 \\text { N.m }{ }^{-2}[/math] হলে পানির উপরিতলে বুদবুদটির আয়তন কত হবে?",
+        "solution": "( Answer : [math]9 \\times 10^{-5} \\mathrm{~m}^{3}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,পানির গভীরতা, [math]\\mathrm{h}=20 \\mathrm{~m}[/math]\u003Cbr\u003Eপানির তলদেশে বুদবুদের আয়তন, [math]V_{1}=0.00003 \\mathrm{~m}^{3}[/math]\u003Cbr\u003Eবায়ুমণ্ডলের চাপ, [math]\\mathrm{P}=98000 \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eপানির উপরিতলে বুদবুদের আয়তন, [math]V_{2}=?[/math]\u003Cbr\u003Eপানির তলদেশে মোট চাপ,[math]P_{1}=[/math]\u003Cbr\u003E বায়ুমণ্ডলের চাপ + পানিরচাপ [math]=\\mathrm{P}=\\mathrm{h} \\rho g[/math]\u003Cbr\u003Eপানির উপরিতলে চাপ, [math]p_2= p[/math]\u003Cbr\u003Eআমরা জানি, [math]P_{1} V_{1}=P_{2} V_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math](\\mathrm{P}+\\mathrm{h} \\rho \\mathrm{g}) \\mathrm{V}_{1}=\\mathrm{PV}_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{V}_{2}=\\frac{(\\mathrm{P}+\\mathrm{h} \\rho \\mathrm{g}) \\mathrm{V}_{1}}{\\mathrm{P}}[/math]\u003Cbr\u003E [math]=\\frac{(98000+20 \\times 1000 \\times 9.8) \\times 0.00003}{98000}[/math]\u003Cbr\u003E [math]\\therefore \\mathrm{V}_{2}=9 \\times 10^{-5} \\mathrm{~m}^{3} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "বুঝাতে: বুদবুরুর ভলিউম চাপের বিপরীতে বদলায়, তাই প্রথমে গভীরে মোট চাপ হিসাব করি [math]p=p_0+ρgh[/math] যেখানে [math]p_0=9.8×10^4\\,\\mathrm{Pa},\\;ρ=1000\\,\\mathrm{kg/m^3},\\;g=9.8\\,\\mathrm{m/s^2},\\;h=20\\,\\mathrm{m}[/math]; তাই [math]p=9.8×10^4+1000×9.8×20=2.94×10^5\\,\\mathrm{Pa}=3p_0[/math]. বয়েলের নিয়ম প্রয়োগ করে [math]p_{\\text{surface}}V_{\\text{surface}}=p_{\\text{depth}}V_{\\text{depth}}[/math], ফলে [math]V_{\\text{surface}}=(p_{\\text{depth}}/p_0)V_{\\text{depth}}=3×0.00003=0.00009\\,\\mathrm{m^3}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414708,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414709,
+      "value": {
+        "options": [],
+        "question": "একটি লেকের তলদেশ থেকে পানির উপরিতলে আসার সময় বাতাসের বুদবুদ আয়তনে দ্বিগুণ হয়। বায়ুমন্ডলের চাপ [math]10^{5} \\mathrm{~N}.\\mathrm{m}^{-2}[/math] হলে লেকটির গভীরতা কত?",
+        "solution": "( Answer : 10.2 m)",
+        "explanation": "ব্যাখ্যা: বুদবুলটি সমতাপীয়ভাবে সম্প্রসারিত হওয়ায় বয়েলের সূত্র প্রযোজ্য: [math]P_1V_1=P_2V_2[/math], এবং [math]V_2=2V_1[/math] হওয়ায় [math]P_1=2P_{atm}[/math]. গভীরে মোট চাপ [math]P_1=P_{atm}+ρgh=2P_{atm}[/math] থেকে [math]ρgh=P_{atm}[/math] হয়, ফলে [math]h=\\dfrac{P_{atm}}{ρg}=\\dfrac{10^5}{1000\\times9.8}\\approx10.2\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414709,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414710,
+      "value": {
+        "options": [],
+        "question": "হ্রদের তলদেশ হতে পৃষ্ঠদেশ আসায় একটি'বায়ু বুদবুদের ব্যাস দ্বিগুণ হয়। হ্রদের পৃষ্ঠে বায়ুমন্ডলীয় চা প স্বাভাবিক বায়ুমন্ডলীয় চাপের সমান এবং হ্রদের পানির উষ্ণতা ধ্রুব হলে হ্রদের গভীরতা কত?",
+        "solution": "( Answer : [math]71.42 \\mathrm{~m}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :যেহেতু বুদবুদের আয়তন এর ব্যাসের ঘনফলের সমানুপাতিক, তাই বুদবুদের ব্যাস দ্বিগুণ হলে এর আয়তন আটগুণ হবে ।এখানে, হ্রদের তলদেশে বুদবুদের আয়তন, [math]\\mathrm{V}_{1}=\\mathrm{V}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E হ্রদের পৃষ্ঠে বুদবুদের আয়তন, [math]\\mathrm{V}_{2}=8 \\mathrm{~V}[/math]\u003Cbr\u003Eপানির ঘনত্ব, [math]\\rho=10^{3} \\mathrm{kgm}^{-3}[/math]\u003Cbr\u003Eঅভিকর্ষজ ত্বরণ, [math]\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eহ্রদের গভীরতা, [math]\\mathrm{h}=?[/math]\u003Cbr\u003Eধরা যাক, হ্রদের তলদেশে চাপ [math]=\\mathrm{P}_{1}[/math]\u003Cbr\u003Eহ্রদের পৃষ্ঠদেশে চাপ, [math]P_{2}=[/math]\u003Cbr\u003E বায়ুমণ্ডলীয় চাপ [math]=10^{5} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E [math]\\therefore \\quad \\mathrm{P}_{1}=[/math]\u003Cbr\u003E বায়ুমণ্ডলের চাপ + h গভীরতায় পানির চাপ[math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{P}_{1}=\\mathrm{P}_{2}+\\mathrm{h} \\rho \\mathrm{g}[/math]\u003Cbr\u003Eতাপমাত্রা ধ্রুব বিবেচনায় বয়েলের সূত্র থেকে পাই, [math]\\mathrm{P}_{1} \\mathrm{~V}_{1}=\\mathrm{P}_{2} \\mathrm{~V}_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\left(\\mathrm{P}_{2}+\\mathrm{h} \\rho \\mathrm{g}\\right) \\mathrm{V}_{1}=\\mathrm{P}_{2} \\mathrm{~V}_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\left(\\mathrm{P}_{2}+\\mathrm{h} \\rho \\mathrm{g}\\right) \\mathrm{V}=\\mathrm{P}_{2} \\times 8 \\mathrm{~V}[/math]\u003Cbr\u003E [math]\\begin{array}{ll}\\therefore & \\mathrm{h} \\rho g=7 \\mathrm{P}_{2} \\\\\\therefore & \\mathrm{h}=\\frac{7 \\mathrm{P}_{2}}{\\rho g}\\end{array}[/math]\u003Cbr\u003E [math]=\\frac{7 \\times 10^{5}}{10^{3} \\times 9.8}[/math]\u003Cbr\u003E [math]=71.42 \\mathrm{~m} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ব্যাস দ্বিগুণ হলে আয়তন ৮ গুণ হয় এবং স্থির তাপে বয়েলের আইন অনুযায়ী পৃষ্ঠচাপ ও তলের চাপের সম্পর্ক হল [math]p_bV_b=p_sV_s[/math], ফলে নীচের চাপ [math]p_b=8p[/math]. হাইড্রোস্ট্যাটিক সূত্রে [math]p_b=p+\\rho g h[/math] হওয়ায় [math]\\rho g h=7p[/math] এবং তাই [math]h=\\dfrac{7p}{\\rho g}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414710,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414711,
+      "value": {
+        "options": [],
+        "question": "একজন ডুবুরি হ্রদের তলদেশে কাজ করার সময় [math]2.0 \\mathrm{~cm}^{3}[/math] আয়তনের বুদবুদ উপরের দিকে প্রবাহিত হচ্ছে। পানির উপরিতলে বুদবুদের আয়তন হয় [math]4.0 \\mathrm{~cm}^{3}[/math] কিন্তু তাপমাত্রা অপরিবর্তিত থাকে। যদি বায়ুমণ্ডলীয় চাপ 10 m পানির চাপের সমান হয়, হ্রদের গভী রতা কত?",
+        "solution": "( Answer : 10 m)",
+        "explanation": "বায়ু ঢোকা ও তাপমাত্রা অপরিবর্তিত থাকায় বুদবুদের জন্য বোয়েলের আইন প্রযোজ্য: [math]pV=\\text{const}[/math]. পানির ওজন দিয়ে চাপকে মিটার পানির সমতলে নেওয়া হলে উপরিতলের চাপ [math]p_2=10[/math] এবং তলদেশের চাপ [math]p_1=10+h[/math] (মিটার পানির সমতুল্য), তাই [math](10+h)\\times2=10\\times4[/math], ফলে [math]10+h=20[/math] এবং [math]h=10\\ \\mathrm{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 414711,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414712,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে উল্লিখিত হ্রদের গভীরতা নির্ণয় কর।"
+        },
+        "question": "কোনো হ্রদের তলদেশ থেকে পানির উপরিতলে আসায় একটি বায়ু বুদবুদ আয়তনে পাঁচগুণ হয়। বায়ুমণ্ডলের চাপ [math]10^{5}[/math] [math]\\mathrm{Nm}^{-2}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E [math]40.82 \\mathrm{~m}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: নিচে চাপ [math]P_1=P_{\\text{atm}}+\\rho g h[/math] এবং উপরে চাপ [math]P_2=P_{\\text{atm}}[/math]; বোয়েলের সূত্রে [math]P_1V_1=P_2V_2[/math] এবং [math]V_2=5V_1[/math] হলে [math]P_{\\text{atm}}+\\rho g h=5P_{\\text{atm}}[/math], তাই [math]\\rho g h=4P_{\\text{atm}}[/math]. জলীয় ঘনত্ব [math]\\rho=1000\\ \\mathrm{kg/m^3}[/math] ও [math]g\\approx10\\ \\mathrm{m/s^2}[/math] নিয়ে [math]h=\\dfrac{4\\times10^5}{1000\\times10}=40\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414712,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414713,
+      "value": {
+        "options": [],
+        "question": "কোনো হ্রদের তলদেশ থেকে পৃষ্ঠে আসার ফলে একটি বাতাসের বুদবুদের আয়তন তিনগুণ হয়। হ্রদে র পৃষ্ঠে বায়ুমণ্ডলে চাপ [math]10^{5} \\mathrm{Nm}^{-2}[/math] হলে হ্রদের গভীরতা কত?",
+        "solution": "( Answer : [math]20.41 \\mathrm{~m}[/math] )",
+        "explanation": "ব্যাখ্যা: পানির গভীরে চাপ [math]p_1=p_0+\\rho g h[/math] এবং বুদবু উপরে এসে আয়তন তিনগুণ হলে Boyle-এর ধারা অনুসারে [math]p_1V_1=p_0V_2 \\Rightarrow p_1=3p_0[/math]. তাই [math]\\rho g h= p_1-p_0=2p_0[/math], ফলে [math]h=\\dfrac{2p_0}{\\rho g}=\\dfrac{2\\times10^5}{1000\\times9.8}\\approx20.4\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414713,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414714,
+      "value": {
+        "options": [],
+        "question": "কোনো হ্রদের তলদেশ থেকে পৃষ্ঠে আসার ফলে একটি বাতাসের বুদবুদের আয়তন দ্বিগুণ হয়। হ্রদের পৃষ্ঠে বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{~N} \\mathrm{~m}^{-2}[/math] হলে হ্রদের গভীরতা কত?",
+        "solution": "( Answer : [math]10.2 \\mathrm{~m}[/math] )",
+        "explanation": "ব্যাখ্যা: বুদবুর জন্য বয়েলের আইন প্রযোজ্য [math]pV=\\text{constant}[/math], তাই তলদেশের চাপ [math]p_0+ρgh[/math] এবং পৃষ্ঠে চাপ [math]p_0[/math] হলে [math](p_0+ρgh)V_{\\text{তল}}=p_0V_{\\text{পৃ}}[/math] এবং [math]V_{\\text{পৃ}}=2V_{\\text{তল}}[/math] থেকে [math]p_0+ρgh=2p_0[/math]. ফলে [math]h=\\dfrac{p_0}{ρg}[/math]; পানি জন্য [math]ρ=1000\\ \\text{kg/m}^3,\\ g=9.8\\ \\text{m/s}^2[/math], তাই [math]h=\\dfrac{10^5}{1000\\times9.8}\\approx10.2\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414714,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414715,
+      "value": {
+        "options": [],
+        "question": "কোনো হ্রদের তলদেশ থেকে পৃষ্ঠে আসার ফলে একটি বাতাসের বুদবুদের ব্যাস তিনগুণ হয়ে যায়। ব্যারোমিটার পারদস্তম্ভের উচ্চতা 75 cm হলে হ্রদের গভীরতা কত? [পারদের ঘনত্ব [math]13596 \\mathrm{\\ kgm}^{-3}[/math] ]",
+        "solution": "( Answer : [math]265.12 \\mathrm{~m}[/math] )",
+        "explanation": "বুদবুটির ব্যাস তিনগুণ হলে আয়তন [math]3^3=27[/math] গুণ বৃদ্ধি পায়; তাই বুকলে Boyle-এর নিয়ম অনুযায়ী নিচের চাপে বাতাসের চাপ হলো سطحের চাপের [math]27[/math] গুণ: [math]p_{\\text{depth}}=27p_{\\text{atm}}[/math], ফলে [math]\\rho_{\\text{water}} g h = p_{\\text{depth}}-p_{\\text{atm}}=26p_{\\text{atm}}[/math]. বায়ুমানের চাপ বারোমিটারের উচ্চতার সাহায্যে [math]p_{\\text{atm}}=\\rho_{\\text{Hg}} g h_{\\text{Hg}}=\\;13596\\times g\\times0.75[/math]; এখানে [math]\\rho_{\\text{water}}=1000\\ \\mathrm{kgm^{-3}}[/math] ধরা হলে [math]h=\\dfrac{26\\,p_{\\text{atm}}}{\\rho_{\\text{water}}g}=\\dfrac{26\\times13596\\times0.75}{1000}\\approx265.1\\ \\mathrm{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414715,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414716,
+      "value": {
+        "options": [],
+        "question": "কোনো হ্রদের তলদেশ হতে একটি বায়ু বুদবুদের আয়তন তার পৃষ্ঠে ওঠার পর বেড়ে 10 গুণ হয়। হ্রদের পৃষ্ঠে বায়ুমণ্ডলের চাপ 76 cm পারদস্তম্ভ হলে হ্রদটির গভীরতা কত? পারদের ঘনত্ব [math]13.6 \\times 10^{3}[/math] [math]\\mathrm{kgm}^{-3}[/math]।",
+        "solution": "( Answer : [math]93.03 \\mathrm{~m}[/math] )",
+        "explanation": "বুদবুয়ের আয়তন 10 গুণ হওয়ায় বোয়েলের সূত্র অনুযায়ী নিচে থাকা চাপে উপরে চাপের তিগুণ নয়—সঠিকভাবে, যদি [math]V_{\\text{তারল্য}}=V_0[/math] এবং [math]V_{\\text{পৃষ্ঠ}}=10V_0[/math] তবে [math]P_{\\text{তারল্য}}V_{\\text{তারল্য}}=P_{\\text{পৃষ্ঠ}}V_{\\text{পৃষ্ঠ}}\u003C/math] থেকে [math]P_{\\text{তারল্য}}=10P_{\\text{পৃষ্ঠ}}[/math]. নীচের চাপটি বায়ুমণ্ডলের চাপ প্লাস জলবহমান চাপ, তাই [math]P_{\\text{তারল্য}}=P_{atm}+ρ_{water}gh[/math], ফলে [math]ρ_{water}gh=9P_{atm}[/math]. এখানে [math]P_{atm}=ρ_{Hg}g(0.76\\ \\text{m})[/math], তাই [math]h=\\dfrac{9ρ_{Hg}(0.76)}{ρ_{water}}=\\dfrac{9\\times13.6\\times0.76}{1.0}\\approx93\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 414716,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414704,
+      "value": {
+        "options": [],
+        "question": "কোন হ্রদের তলদেশ থেকে পানির উপরিতলে আসায় একটি বায়ু বুদবুদের ব্যাস দ্বিগুণ হয়। হ্রদের পৃ ষ্ঠে বায়ুমন্ডলের চাপ [math]10^{5} \\mathrm{Nm}^{-2}[/math] হলে হ্রদের গভীরতা কত? [পানির তাপমাত্রা [math]4^\\circ C[/math]]",
+        "solution": "(Answer : [math]71.428 \\mathrm{~m}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution : [math]P_{i} V_{i}=P_{f} V_{f}\\ \\mid\\ V \\propto d^{3} \\therefore V_{f}=8 V_{i}\\\\ \\Rightarrow\\left(10^{5}+h \\rho g\\right) V_{i}=10^{5} \\times 8 V_{1} \\Rightarrow h \\rho g=7 \\times 10^{5}\\\\ \\therefore h=\\dfrac{7 \\times 10^{5}}{1000 \\times 9.8}=71.428 \\mathrm{~m} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বুদবুরুর জন্য বয়েল–শার্লের বিধি উপরোক্ত—[math]P_1V_1=P_2V_2[/math]—প্রযোজ্য; ব্যাস দ্বিগুণ হলে আয়তন [math]2^3=8[/math] গুণ বাড়ে, তাই [math]P_{\\text{bottom}}=8P_{\\text{surface}}[/math]. হাইড্রোস্ট্যাটিক চাপের সূত্র অনুযায়ী [math]P_{\\text{bottom}}-P_{\\text{surface}}=ρgh[/math], যেখানে [math]P_{\\text{surface}}=10^5\\ \\mathrm{N/m^2}[/math] এবং পানির ঘনত্ব ( [math]4^\\circ\\text{C}[/math]) [math]ρ=1000\\ \\mathrm{kg/m^3}[/math]। ফলে\n[math]7\\times10^5=1000\\times9.8\\times h\\Rightarrow h=\\dfrac{7\\times10^5}{1000\\times9.8}\\approx71.4\\ \\text{m}.",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 22,
+          "year": "2015-2016",
+          "pivot": {
+            "question_bank_id": 414704,
+            "year_id": 22
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 109,
+          "full_name": "Rajshahi University of Engineering & Technology",
+          "short_name": "RUET",
+          "slug": "ruet",
+          "pivot": {
+            "question_bank_id": 414704,
+            "tag_id": 109,
+            "year": "15-16",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414718,
+      "value": {
+        "options": [],
+        "question": "কোনো হ্রদের তলদেশ থেকে পানির উপরিতলে আসার সময় বাতাসের বুদবুদ আয়তনে দ্বিগুণ হয়। বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{Nm}^{-2}[/math] হলে, হ্রদের গভীরতা কত?",
+        "solution": "( Answer : 10.2m (প্রায়) )",
+        "explanation": "ব্যাখ্যা: তলদেশে বুদবুটির চাপ [math]p_1=p_0+\\rho g h[/math] এবং উপরিতে চাপ [math]p_0[/math]; বয়লের আইনে [math]p_1V_1=p_0V_2[/math] এবং [math]V_2=2V_1[/math] হওয়ায় [math]p_1=2p_0[/math], ফলে [math]p_0+\\rho g h=2p_0[/math]. তাই [math]h=\\dfrac{p_0}{\\rho g}=\\dfrac{10^5}{1000\\times 9.8}\\approx 10.2\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 414718,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414719,
+      "value": {
+        "options": [],
+        "question": "একজন ডুবুরি হ্রদের তলদেশে কাজ করার সময় [math]2.0 \\mathrm{cm}^{3}[/math] আয়তনের বুদবুদ উপরের দিকে প্রবাহিত হচ্ছে। পানির উপরিতলে বুদবুদের আয়তন হয় [math]4.0 \\mathrm{~cm}^{3}[/math] কিন্তু তাপমাত্রা অপরিবর্তিত থাকে। যদি বায়ুমণ্ডলীয় চাপ 10m পানির চাপের সমান হয়, হ্রদের গভীর তা কত?",
+        "solution": "( Answer : 10 m)",
+        "explanation": "ব্যাখ্যা: বুদবুলের তাপমাত্রা অপরিবর্তিত থাকায় বয়েল-এর নিয়ম প্রযোজ্য, [math]P_1V_1=P_2V_2[/math]. উপরে [math]V_2=4.0\\ \\mathrm{cm^3}[/math], তলে [math]V_1=2.0\\ \\mathrm{cm^3}[/math], তাই [math]P_1=P_2\\frac{V_2}{V_1}=2P_{atm}[/math]. নিচের চাপ হলো [math]P_1=P_{atm}+\\rho g h[/math] থেকে [math]\\rho g h=P_{atm}[/math], এবং প্রশ্নে দেয়া অনুযায়ী [math]P_{atm}[/math] পানির ১০ m চাপের সমান, তাই [math]h=10\\ \\mathrm{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 414719,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414720,
+      "value": {
+        "options": [],
+        "question": "লবণাক্ত কোনো হ্রদের তলদেশ থেকে পানির উপরিতরে আসার ফলে কোনো বায়ু বুদবুদ আয়তনে দ্বিগুণ হয়। যদি বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{~Pa}[/math] হয়, তবে বুদবুদটি কর্তৃক উল্লম্ব অতিক্রান্ত দূরত্ব কত হবে?",
+        "solution": "( Answer : 10.2 m)",
+        "explanation": "বুদবুলের আয়তন দ্বিগুণ হওয়ায় আইসোথার্মাল ধরা হলে [math]P_1V_1=P_2V_2[/math] থেকে প্রাথমিক চাপ হবে [math]P_1=2P_{\\text{atm}}[/math]. তাই [math]P_{\\text{atm}}+\\rho gh=2P_{\\text{atm}}\\Rightarrow\\rho gh=P_{\\text{atm}}[/math] এবং [math]h=\\dfrac{P_{\\text{atm}}}{\\rho g}=\\dfrac{10^5}{10^3\\times9.8}\\approx10.2\\ \\mathrm{m}\\ (\\text{প্রায় }10\\ \\mathrm{m}).",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 414720,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414721,
+      "value": {
+        "options": [],
+        "question": "30 m গভীর একটি হ্রদের তলদেশে বুদবুদের আয়তন যদি [math]3 \\mathrm{~cm}^{3}[/math] হয়, পানির উপরিতলে এর আয়তন কত হবে? (ধরে নাও, তাপমাত্রা অপরিবর্তিত ছিল এবং বায়ুমণ্ডলীয় চাপ 10 m পানির চাপের সমান)",
+        "solution": "( Answer : [math]12 \\mathrm{~cm}^{3}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :দেওয়া আছে,হ্রদের গভীরতা, h = 30mহ্রদের তলদেশে বুদবুদের আয়তন, [math]\\mathrm{V}_{1}=3 \\mathrm{~cm}^{3}[/math]\u003Cbr\u003Eপানির উপরিতলে বায়ুচাপ, [math]P_{2}=10 \\mathrm{~m}[/math]\u003Cbr\u003E পানির চাপ[math]\\begin{array}{l}=10 \\times 10^{3} \\times 9.8 \\\\=9.8 \\times 10^{4} \\mathrm{Nm}^{-2}\\end{array}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ, [math]\\mathrm{P}_{1}=\\mathrm{P}_{2}+\\mathrm{h} \\rho_{\\mathrm{w}} \\mathrm{g}[/math]\u003Cbr\u003Eপানির উপরিতলে বুদবুদের আয়তন, [math]\\mathrm{V}_{2}=?[/math]\u003Cbr\u003Eআমরা জানি, [math]P_{1} V_{1}=P_{2} V_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]V_{2}=\\frac{P_{1} V_{1}}{P_{2}}[/math]\u003Cbr\u003E [math]=\\frac{\\left(\\mathrm{P}_{2}+\\mathrm{h} \\rho_{\\mathrm{w}} \\mathrm{g}\\right) \\mathrm{V}_{1}}{\\mathrm{P}_{2}}=\\frac{\\left(9.8 \\times 10^{4}+30 \\times 10^{3} \\times 9.8\\right) \\times 3}{9.8 \\times 10^{4}}[/math]\u003Cbr\u003E [math]=12 \\mathrm{~cm}^{3} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বুদবুরের তাপমাত্রা অপরিবর্তিত থাকায় বোয়েলের নিয়ম প্রযোজ্য, অর্থাৎ [math]P_1V_1=P_2V_2[/math]. নিচে মোট চাপ = বায়ুমণ্ডলীয় (10 m পানির সমান) + হাইডোস্ট্যাটিক (30 m) = [math]40\\ \\text{m পানির চাপ}[/math], সুতরাং উপরে চাপ = [math]10\\ \\text{m পানির চাপ}[/math]। তাহলে [math]V_{_surface}=3\\ \\text{cm}^3\\times\\frac{40}{10}=12\\ \\text{cm}^3[/math], তাই উত্তর 12 cm³।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 414721,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414722,
+      "value": {
+        "options": {
+          "গ": "নিমজ্জনের পূর্বে উদ্দীপকের বেলুনের আয়তন কত ছিল?"
+        },
+        "question": "একটি বায়ুপূর্ণ বেলুনকে একটি হ্রদের 40.81 m গভীরতায় নিয়ে যাওয়ায় সেটি লিটার আয়তন ধারণ করে। হ্রদের তলদেশে বেলুনে আরও 1 লিটার বায়ু প্রবেশ করিয়ে ছেড়ে দেওয়া হলো। বায়ুমণ্ডলের চাপ [math]10^{5} \\mathrm{Nm}^{-2}[/math] পানির ঘনত্ব [math]10^{3} \\mathrm{kgm}^{-3}[/math] এবং [math]g = 9.804 \\mathrm{~ms}^{-2}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eমনে করি, নিমজ্জনের পূর্বে বেলুনের আয়তন ছিল [math]=V_{1}[/math]\u003Cbr\u003Eহ্রদের তলদেশে বেলুনের প্রারম্ভিক আয়তন, [math]V_{2}=1 \\mathrm{~L}[/math]\u003Cbr\u003Eহ্রদের গভীরতা, [math]h=40.81 \\mathrm{~m}[/math]\u003Cbr\u003Eহ্রদের উপরিতলে চাপ, [math]P_{1}=10^{5} \\mathrm{~N} \\cdot \\mathrm{m}^{-2}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ, [math]P_{2}=P_{1}+h \\rho g[/math]\u003Cbr\u003Eবয়েলের সূত্রানুসারে,[math]P_{1} V_{1}=P_{2} V_{2}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]P_{1} V_{1}=\\left(P_{1}+h \\rho g\\right) V_{2}[/math]\u003Cbr\u003E [math]\\therefore \\quad V_{1}=\\frac{\\left(P_{1}+h \\rho g\\right) V_{2}}{P_{1}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=\\frac{10^{5} \\mathrm{~N} \\cdot \\mathrm{m}^{-2}+40.81 \\mathrm{~m} \\times 10^{3} \\mathrm{~kg} \\cdot \\mathrm{m}^{-3} \\times 9.8 \\mathrm{~m} \\cdot \\mathrm{s}^{-2}}{10^{5} \\mathrm{~N} \\cdot \\mathrm{m}^{-2}} \\times 1 \\mathrm{~L} \\\\=5 \\mathrm{~L}\\end{array}[/math]\u003Cbr\u003Eঅতএব, নিমজ্জনের পূর্বে উদ্দীপকের বেলুনের আয়তন 5 L ছিল। (Ans.) [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পানির তলে চাপ [math]p = 10^{5} + 10^{3}\\times 9.804\\times 40.81 = 5.0010124\\times 10^{5}\\,\\mathrm{Nm^{-2}}[/math]. বয়লের আইন অনুযায়ী [math]p_{atm}V_{0}=pV_{depth}[/math], তাই [math]V_{0}=\\dfrac{5.0010124\\times10^{5}}{10^{5}}\\times 1\\ \\mathrm{L}\\approx 5.001\\ \\mathrm{L}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414722,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414723,
+      "value": {
+        "options": [],
+        "question": "কোনো হ্রদের তলদেশ থেকে পানির উপরিতলে আসায় একটি বায়ু বুদবুদের আয়তন 3 গুণ হয়। বায়ু মণ্ডলের চাপ [math]1.013 \\times 10^{5} \\mathrm{~Pa}[/math] হলে হ্রদের গভীরতা কত?",
+        "solution": "( Answer : [math]20.67 \\mathrm{~m}[/math] )",
+        "explanation": "ব্যাখ্যা: বুদবুর ধীরে ধীরে উপরে উঠলে তাপমাত্রা ধরা হলে বায়ুসূত্র (বয়েলস আইন) ব্যবহারে [math]P_1V_1=P_2V_2[/math]. given [math]V_2=3V_1[/math] এবং [math]P_2=1.013\\times10^5\\ \\text{Pa}[/math] থেকে [math]P_1=3P_2=3.039\\times10^5\\ \\text{Pa}[/math]. গভীরতার চাপ হলো [math]P_1=P_{\\text{atm}}+\\rho gh[/math], সুতরাং [math]h=(P_1-P_{\\text{atm}})/(\\rho g)=(3.039-1.013)\\times10^5/(1000\\times9.8)\\approx20.7\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414723,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414724,
+      "value": {
+        "options": [],
+        "question": "জলাশয়ের কত গভীরতায় একটি বুদবুদের আয়তন উপরতলে থাকাকালীন আয়তন অপেক্ষা অর্ধেক হবে? ঐ সময় বায়ুমণ্ডলের চাপ 760 mm এবং পারদের ঘনত্ব [math]13.6 \\times 10^{3} \\mathrm{kgm}^{-3}[/math]।",
+        "solution": "( Answer : [math]10.336 \\mathrm{~m}[/math] )",
+        "explanation": "ব্যাখ্যা: বুদবুদের তাপমাত্রা ধ্রুব ধরে বয়েল-এর নিয়ম অনুসারে [math]PV=\\text{constant}[/math], তাই যখন উপরের আয়তন তুলনায় নিচে আয়তন অর্ধেক হবে তখন চাপ দ্বিগুণ হবে: [math]P_{\\text{deep}}=2P_{\\text{atm}}[/math]. একই সময়ে হাইডোস্ট্যাটিক চাপ দিয়ে [math]P_{\\text{deep}}=P_{\\text{atm}}+\\rho_w g h[/math], ফলে [math]\\rho_w g h=P_{\\text{atm}}[/math] এবং [math]h=\\dfrac{P_{\\text{atm}}}{\\rho_w g}=\\dfrac{\\rho_{Hg}h_{Hg}}{\\rho_w}[/math] (এখানে [math]P_{\\text{atm}}=\\rho_{Hg} g h_{Hg}[/math] এবং [math]g[/math] বাতিল হয়)। সংখ্যায় বসালে [math]h=\\dfrac{13.6\\times10^{3}\\times0.76}{1000}\\approx10.34\\ \\text{m}[/math], তাই গভীরতা প্রায় 10.3 মিটার।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 414724,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414725,
+      "value": {
+        "options": [],
+        "question": "কোনো হ্রদের তলদেশের থেকে পানির উপরিতলে আসা একটি বুদবুদের আয়তনে পাঁচ গুণ হয়। বায়ু মণ্ডলের চাপ [math]10^{5} \\mathrm{Nm}^{-2}[/math] হলে হ্রদের গভীরতা কত?",
+        "solution": "( Answer : [math]40.82 \\mathrm{~m}[/math])",
+        "explanation": "ব্যাখ্যা: বুদবু উঠার সময় তাপমাত্রা ধরা হলে বয়েল-এর আইন প্রযোজ্য: [math]P_1V_1=P_2V_2[/math], এবং [math]V_{\\text{surface}}=5V_{\\text{bottom}}[/math] হওয়ায় [math]P_{\\text{bottom}}=5P_{\\text{atm}}[/math]. উপরিভাগে চাপ ও তলের চাপের পার্থক্য হল [math]P_{\\text{bottom}}=P_{\\text{atm}}+ρgh[/math], তাই [math]ρgh=4P_{\\text{atm}}[/math] এবং [math]h=\\dfrac{4P_{\\text{atm}}}{ρg}[/math]. সাংখ্যিকভাবে, [math]h=\\dfrac{4×10^5}{1000×9.8}\\approx40.8\\ \\mathrm{m}[/math] (প্রায় [math]40\\ \\mathrm{m}[/math] যদি [math]g=10\\ \\mathrm{m/s^2}[/math] ধরা হয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414725,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414726,
+      "value": {
+        "options": [],
+        "question": "কোনো হ্রদের তলদেশের থেকে পানির উপরিতলে আসা একটি বায়ু বুদবুদের ব্যাস দ্বিগুণ হয়। হ্রদের পৃষ্ঠে বায়ুমন্ডলের চাপ স্বাভাবিক বায়ুমন্ডলীয় চাপের সমান এবং হ্রদের পানির উষ্ণতা ধ্রুবক হলে হ্রদের গভীরতা কত ?",
+        "solution": "( Answer : [math]72.375 \\mathrm{~m}[/math])",
+        "explanation": "ব্যাখ্যা: টেম্পারেচার ধ্রুবক থাকায় বুদবুরে [math]pV=\\text{const}[/math] (বয়েলের নিয়ম) প্রযোজ্য; ব্যাস দ্বিগুণ হলে ব্যাসার্ধ দ্বিগুণ হওয়ায় আয়তন আটগুণ হয়, অর্থাৎ [math]V_{\\text{top}}=8V_{\\text{bottom}}[/math], তাই [math]p_{\\text{bottom}}=8p_{\\text{top}}=8p_{atm}[/math]. বুদবুরের নিচের চাপ হল [math]p_{atm}+\\rho g h[/math], ফলে [math]p_{atm}+\\rho g h=8p_{atm}\\Rightarrow h=\\dfrac{7p_{atm}}{\\rho g}\\approx\\dfrac{7\\times101300}{1000\\times9.8}\\approx72\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 414726,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414727,
+      "value": {
+        "options": {
+          "গ": "চট্টগ্রামের হ্রদের গভীরতা নির্ণয় কর।"
+        },
+        "question": "চট্টগ্রামের একটি হ্রদের তলদেশ হতে একটি বায়ু বুদবুদ পানির উপরিতলে আসায় বুদবুদের আয়তন আটগুণ হয়। হ্রদটিতে বায়ুমণ্ডলের চাপ [math]10\\ Pa[/math], বায়ুর তাপমাত্রা [math]18.6^\\circ C[/math] এবং আপেক্ষিক আর্দ্রতা [math]53\\%[/math]। অন্য কোনো দিন রাজশাহীর একটি হ্রদে বায়ুর তাপমাত্রা চট্টগ্রামের হ্রদের সমান এবং শিশিরাঙ্ক [math]7.4^\\circ C,\\ 7^\\circ C,\\ 8^\\circ C,\\ 18^\\circ C[/math] এবং [math]19^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে [math]7.5 \\times 10^{-3} \\mathrm{~m}, 8. 2 \\times 10^{-3} \\mathrm{~m}, 15.6 \\times 10^{-3} \\mathrm{~m},\\ ও\\ 16.5 \\times 10^{-3} \\mathrm{~m}[/math] পারদ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, হ্রদের গভীরতা hহ্রদের তলদেশের আয়তন [math]\\mathrm{V_{1}}[/math]\u003Cbr\u003Eহ্রদের উপরিতলের আয়তন, [math]\\mathrm{V_{2}}=8 \\mathrm{V_{1}}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ, [math]\\mathrm{P_1}=\\mathrm{P_2+h}\\rho\\mathrm{g}[/math]\u003Cbr\u003Eহ্রদের উপরিতলে চাপ, [math]\\mathrm{P}_{2}=10^{5} \\mathrm{~Nm}^{-2}[/math]\u003Cbr\u003Eধরি, হ্রদের সর্বত্র একই তাপমাত্রা বিরাজমান[math]\\hspace{1cm}\\begin{array}{ll}\\therefore&\\mathrm{P_1V_1}=\\mathrm{P_2V_2}\\\\\\Rightarrow &\\mathrm{P_1V_1}=\\mathrm{P_2\\times8V_1}\\\\\\Rightarrow &\\mathrm{P_1}=\\mathrm{8P_2}\\\\\\Rightarrow &\\mathrm{P_2+h\\rho g}=8\\mathrm{P_2}\\\\\\Rightarrow &\\mathrm h=\\mathrm{\\frac{7P_2}{\\rho g}}=\\frac{7\\times10^5}{1000\\times9.8}\\mathrm{~m}\\ =\\ 71.43\\mathrm{~m}\\\\\\therefore&\\mathrm{h}=71.43\\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eঅতএব, চট্টগ্রামের হ্রদের গভীরতা 71.43 m [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বুদবুদের ওঠার সময় তাপমাত্রা ধ্রুব ধরে ধরে বলপদ্ধতি প্রয়োগ করলে [math]pV=\\text{constant}[/math] হয়, তাই নীচে থাকা চাপে ওরের সাথে সম্পর্ক থাকে: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বুদবুদের পৃষ্ঠচাপে তুলনায় নীচের চাপ [math]p_{\\text{নিচ}}=8p_{\\text{পৃষ্ঠ}}[/math]. জলস্তম্ভের হাইড্রোস্ট্যাটিক সম্পর্ক অনুযায়ী [math]p_{\\text{নিচ}}=p_{\\text{পৃষ্ঠ}}+\\rho gh[/math] হওয়ায় পার্থক্য দিয়ে পাওয়া যায় [math]\\rho gh=(8-1)p_{\\text{পৃষ্ঠ}}=7p_{\\text{পৃষ্ঠ}}[/math], তাই গভীরতা [math]h=\\dfrac{7p_{\\text{পৃষ্ঠ}}}{\\rho g}[/math]. বায়ুমন্ডলীয় চাপকে [math]p_{\\text{পৃষ্ঠ}}=10^{5}\\ \\mathrm{Pa}[/math], [math]\\rho=1000\\ \\mathrm{kg/m^3},\\ g=9.8\\ \\mathrm{m/s^2}[/math] নিলে [math]h\\approx\\dfrac{7\\times10^{5}}{1000\\times9.8}\\approx71.4\\ \\mathrm{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414727,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3508,
+          "full_name": "Qadirabad Cantonment Public School, Natore QCPS",
+          "short_name": "QCSC",
+          "slug": "qcsc",
+          "pivot": {
+            "question_bank_id": 414727,
+            "tag_id": 3508,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414728,
+      "value": {
+        "options": {
+          "গ": "[math]A[/math] স্থানের হ্রদের গভীরতা নির্ণয় কর।"
+        },
+        "question": "[math]A[/math] স্থানের একটি হ্রদের তলদেশ হতে একটি বায়ু বুদবুদ পানির উপরিতলে আসায় বুদবুদের ব্যাসার্ধ দ্বিগুণ হয় । হ্রদটিতে বায়ুমণ্ডলের চাপ [math]10^{3} \\mathrm{~Pa}[/math], বায়ুর তাপমাত্রা [math]18.6^\\circ C[/math] এবং আপেক্ষিক আর্দ্রতা [math]52.4\\%[/math]। অন্য কোনো দিন [math]B[/math] স্থানের জন্য একটি অন্য একটি হ্রদে বায়ুর তাপমাত্রা [math]A[/math] স্থানের হ্রদের সমান এবং শিশিরাংক [math]7.4^\\circ C[/math]। [math]7^\\circ C,\\ 8^\\circ C,\\ 18^\\circ C[/math] ও [math]19^\\circ C[/math] তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে [math]7.5 \\times 10^{-3} \\mathrm{~m},\\ 8.2 \\times 10^{-3} \\mathrm{~m},\\ 15.6 \\times 10^{-3} \\mathrm{~m},\\ 16.5 \\times 10^{-3} \\mathrm{~m}[/math] পারদ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, হ্রদের গভীরতা h[math]\\hspace{1.2cm}[/math]\u003Cbr\u003Eহ্রদের তলদেশের আয়তন [math]\\mathrm{V}_{1}[/math]\u003Cbr\u003E [math]\\hspace{1.2cm}[/math]\u003Cbr\u003Eএবং বুদবুদের ব্যাসার্ধ [math]\\mathrm{r_1}[/math]\u003Cbr\u003E হলে, [math]\\mathrm{V}_{1}=\\frac{4}{3} \\pi \\mathrm{r}_{1}^{3}[/math]\u003Cbr\u003E [math]\\hspace{1.2cm}[/math]\u003Cbr\u003Eহ্রদের উপরিতলের ব্যাসার্ধ [math]\\mathrm{r_2}=2\\mathrm{r_1}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E আয়তন, [math]\\mathrm{V}_{2}=\\frac{4}{3} \\pi \\mathrm{r}_{2}^{3}=\\frac{4}{3} \\pi\\left(2 \\mathrm{r}_{1}\\right)^{3}=8 \\times \\frac{4}{3} \\pi \\mathrm{r}_{1}^{3}=8 \\mathrm{~V}_{1}[/math]\u003Cbr\u003Eহ্রদের তলদেশে চাপ, [math]\\mathrm{P}_{1}=\\mathrm{P}_{2}+\\mathrm{h} \\rho \\mathrm{g}[/math]\u003Cbr\u003Eহ্রদের উপরিতলে চাপ, [math]\\mathrm{P_{2}}=10^{5} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eধরি, হ্রদের সর্বত্র একই তাপমাত্রা বিরাজমান[math]\\hspace{1.5cm}\\begin{array}{l}\\therefore\\mathrm{P_1V_1}=\\mathrm{P_2V_2}\\\\\\Rightarrow \\mathrm{P_1V_1}=\\mathrm{P_2}\\times\\mathrm{8V_1}\\\\\\Rightarrow \\mathrm{P_1=8P_2}\\\\\\Rightarrow \\mathrm{P_2+h\\rho g=8P_2}\\\\\\Rightarrow \\mathrm{h=\\frac{7P_2}{\\rho g}}=\\frac{7\\times10^5}{1000\\times9.8}\\mathrm{~m}=71.43\\mathrm{~m}\\\\\\therefore\\quad\\mathrm{h}=71.43\\mathrm{~m}\\end{array}[/math]\u003Cbr\u003Eঅতএব, A স্থানের হ্রদের গভীরতা 71.43 m [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ব্যাখ্যা: বুদবুলের মধ্যে অ-বাষ্পীয় বায়ুর মোল সংখ্যা অপরিবর্তিত থাকে তাই [math]p_{\\text{air}}V=const[/math]; বুদবুল উপরে উঠলে আয়তন [math]8[/math] গুণ হওয়ায় তলদেশের বায়ুর আংশিক চাপ হবে উপরের আংশিক চাপের [math]8[/math] গুণ, অর্থাৎ [math]P_{\\text{atm}}+\\rho gh-p_v=8(P_{\\text{atm}}-p_v)[/math] থেকে [math]h=\\dfrac{7(P_{\\text{atm}}-p_v)}{\\rho g}[/math]. হ্রদের তাপমাত্রায় স্যাচুরেট বাষ্পচাপ আনুমানিক [math]15.6\\times10^{-3}+0.6(0.9\\times10^{-3})=16.14\\times10^{-3}\\ \\text{mHg}[/math], বাস্তব বাষ্পচাপ [math]0.524\\times16.14\\times10^{-3}\\ \\text{mHg}=8.456\\times10^{-3}\\ \\text{mHg}\\approx1127\\ \\text{Pa}[/math]; বায়ুমণ্ডলীয় চাপ ধরা হলে [math]P_{\\text{atm}}=10^5\\ \\text{Pa}[/math], ফলে [math]h\\approx\\dfrac{7(10^5-1127)}{1000\\times9.8}\\approx71\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414728,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3432,
+          "full_name": "BAF Shaheen college, Jessore",
+          "short_name": "BAFSCJ",
+          "slug": "bafscj",
+          "pivot": {
+            "question_bank_id": 414728,
+            "tag_id": 3432,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 414729,
+      "value": {
+        "options": {
+          "গ": "হ্রদটির গভীরতা নির্ণয় কর।"
+        },
+        "question": "[math]1020 \\mathrm{~kg} \\mathrm{~m}{ }^{-3}[/math] ঘনত্বের লবণ পানি দ্বারা পূর্ণ একটি হ্রদের তলদেশ থেকে উপরিতলে আসার ফলে বায়ু বুদবুদের আয়তন দ্বিগুণ হয়। স্বাভাবিক বায়ু মণ্ডলীয় চাপ [math]10^{5} \\mathrm{~Pa}[/math]।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eধরি, তলদেশে বুদবুদের আয়তন, [math]\\mathrm{= V_{1}}[/math]\u003Cbr\u003Eপানির উপরে বুদবুদের আয়তন, [math]\\mathrm{V_{2}=2 V_{1}}[/math]\u003Cbr\u003Eহ্রদের উপরে চাপ, [math]\\mathrm{P_{2}}=10^{5} \\mathrm{~Pa}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E হ্রদের তলদেশে চাপ, [math]\\mathrm{P_{1}=P_{2}+h \\rho g}[/math]\u003Cbr\u003Eহ্রদের লবণ পানির ঘনত্ব, [math]\\rho=1020 \\mathrm{~kg} \\mathrm{~m}^{-3}[/math]\u003Cbr\u003Eআমরা জানি,[math]\\hspace{.5cm}\\begin{array}{l}\\therefore\\mathrm{P}_1\\mathrm{~V}_1=\\mathrm{P}_2\\mathrm{~V}_2\\\\\\Rightarrow\\left(\\mathrm{P}_2+\\mathrm{h}\\rho\\mathrm{g}\\right)\\mathrm{V}_1=\\mathrm{P}_22\\mathrm{~V}_1\\\\\\Rightarrow\\mathrm{h}=\\frac{\\mathrm{P}_2(2-1)}{\\rho\\mathrm{g}}\\\\\\ \\ \\ \\ \\ \\quad\\ \\ =\\frac{10^5\\mathrm{~Pa}\\times(2-1)}{1020\\mathrm{~kg}\\mathrm{~m}^{-3}\\times9.8\\mathrm{~m}\\mathrm{~s}^{-2}}\\\\\\ \\ \\ \\ \\ \\ \\ \\ =10\\mathrm{~m}\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E হ্রদের গভীরতা, h = 10 m [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বুদবু তলদেশে ও উপরে চাপের অনুপাত অনুযায়ী Boyle-এর আইন প্রযোজ্য, [math]P_1V_1=P_2V_2[/math]. উপরে ভলিউম দ্বিগুণ হলে [math]P_1=2P_{\\text{atm}}[/math], যেখানে তলদেশের চাপ [math]P_1=P_{\\text{atm}}+\\rho g h[/math]; তাই [math]\\rho g h=P_{\\text{atm}}[/math] এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এর জন্য [math]h=\\dfrac{10^5}{1020\\times9.8}\\approx10\\ \\text{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6326,
+      "created_at": "2025-08-19T06:54:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 414729,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 2026,
+          "full_name": "Narail Govt. Victoria College",
+          "short_name": "NGVC",
+          "slug": "ngvc",
+          "pivot": {
+            "question_bank_id": 414729,
+            "tag_id": 2026,
+            "year": "2020",
+            "created_at": "2025-08-19T06:54:29.000000Z",
+            "updated_at": "2025-08-19T06:54:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6605&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6605&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6326&grade=1&lesson=6605&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 52,
+  "total": 52
+}

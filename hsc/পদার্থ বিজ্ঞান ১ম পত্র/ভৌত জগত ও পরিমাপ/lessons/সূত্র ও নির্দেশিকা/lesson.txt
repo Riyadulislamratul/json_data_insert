@@ -1,0 +1,1167 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 393943,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{1}{2}[/math]",
+          "খ": "2",
+          "গ": "4",
+          "ঘ": "8"
+        },
+        "question": "বল ও সরণ উভয়ের একক দ্বিগুণ করলে গতিশক্তির একক কতগুণ হবে?",
+        "solution": "গতিশক্তির সূত্র হলো [math]KE = \\frac{1}{2}mv^2[/math]\u003Cbr\u003E. এখানে, বল ( [math]F[/math]\u003Cbr\u003E) = [math]ma[/math]\u003Cbr\u003E এবং সরণ ( [math]s[/math]\u003Cbr\u003E) দ্বারা কাজ ( [math]W[/math]\u003Cbr\u003E) বোঝানো হচ্ছে, যা গতিশক্তির পরিবর্তনের সমান। কাজের একক হলো জুল (Joule), যা নিউটন-মিটার (N-m) এর সমান। নিউটন ( [math]N[/math]\u003Cbr\u003E) হলো [math]kg \\cdot m/s^2[/math]\u003Cbr\u003E এর সমান। সুতরাং, কাজের একক = [math](kg \\cdot m/s^2) \\cdot m = kg \\cdot m^2/s^2[/math]\u003Cbr\u003E.যদি বলের একক দ্বিগুণ করা হয়, তাহলে বলের একক [math]2 \\cdot N[/math]\u003Cbr\u003E হবে।যদি সরণের একক দ্বিগুণ করা হয়, তাহলে সরণের একক [math]2 \\cdot m[/math]\u003Cbr\u003E হবে।সুতরাং, নতুন কাজের একক হবে [math](2N) \\cdot (2m) = 4 \\cdot (N \\cdot m) = 4 \\cdot J[/math]\u003Cbr\u003E.যেহেতু গতিশক্তির একক কাজের এককের সমান, তাই গতিশক্তির একক ৪ গুণ হবে।গতিশক্তি একটি স্কেলার রাশি এবং এটি বস্তু যে দিকে যাচ্ছে সেই দিকের উপর নির্ভর করে না, শুধুমাত্র বেগের বর্গের উপর নির্ভর করে। তাই এখানে বেগের একক দ্বিগুণ করার কথা বলা হয়নি, সরণের একক দ্বিগুণ করার কথা বলা হয়েছে, যা কাজ নির্ণয়ের ক্ষেত্রে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 393943,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393953,
+      "value": {
+        "options": [],
+        "question": "পরীক্ষার সাহায্যে দেখা যায় যে, সুরশলাকার কম্পাঙ্ক (n)-এর বাহুর দৈর্ঘ্য (I), ঘনত্ব (p) এবং পদার্থের ইয়ং-এর গুণাঙ্ক Y-এর ওপর নির্ভর করে। সুরশলাকার কম্পাঙ্কের সাথে উক্ত রাশিগুলোর সম্পর্কযুক্ত সমীকরণ প্রতিষ্ঠা করো।",
+        "solution": "(Answer : [math]\\mathrm{n}=\\frac{\\mathrm{k}}{l} \\sqrt{\\frac{\\mathrm{Y}}{\\rho}}[/math])",
+        "explanation": "ধরা যাক [math]n \\propto I^a p^b Y^c[/math]। মাত্রিক বিশ্লেষণে [math][n]=T^{-1},\\;[I]=L,\\;[p]=ML^{-3},\\;[Y]=ML^{-1}T^{-2}[/math] দিলে পুরো শক্তির সমীকরণ থেকে পাওয়া যায় M: [math]b+c=0[/math], L: [math]a-3b-c=0[/math], T: [math]-2c=-1[/math] তাই [math]c=\\tfrac{1}{2},\\;b=-\\tfrac{1}{2},\\;a=-1[/math]। ফলে সম্পর্কটি হয় [math]n=K\\,I^{-1}p^{-1/2}Y^{1/2}=K\\frac{1}{I}\\sqrt{\\frac{Y}{p}}[/math], যেখানে [math]K[/math] একটি অসাম্যমাত্রিক ধ্রুবক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 393953,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393952,
+      "value": {
+        "options": [],
+        "question": "এক মোল বাস্তব গ্যাসের ক্ষেত্রে ভ্যান ডার ওয়ালস-এর সমীকরণ হলো: [math]\\left(P+\\frac{a}{V^{2}}\\right)(V-b)=R T[/math], এখানে a ও b দুটি ধ্রুবক। a ও b এর S.I একক নির্ণয় করো।",
+        "solution": "(Answer : (a) [math]\\mathrm{kgm}^{5} \\mathrm{~s}^{-2}, (b) \\mathrm{m}^3[/math]\u003Cbr\u003E)সমীকরণটি,[math]\\left(P+\\frac{a}{V^{2}}\\right)(V-b)=R T[/math]\u003Cbr\u003Eআমরা জানি, একই জাতীয় রাশি ছাড়া যোগ-বিয়োগ করা যায় না।[math]\\therefore[/math]\u003Cbr\u003E P এবং [math]\\frac{a}{v^{2}}[/math]\u003Cbr\u003E এর একক এবং মাত্রা একই।যেহেতু, চাপ,[math]\\begin{aligned}& \\mathrm{P}=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right] \\\\\\therefore & \\frac{\\mathrm{a}}{\\mathrm{V}^{2}}=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right]\\end{aligned}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\mathrm{a}}{\\left[\\mathrm{L}^{6}\\right]}=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{a}=\\left[\\mathrm{M L}^{5} \\mathrm{~T}^{-2}\\right][/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E a এর একক [math]\\text { kgm }^{5} s^{-2} \\text { (Ans.) }[/math]\u003Cbr\u003Eআবার আয়তন (V) এর একক এবং b এর এককও একই[math]\\therefore[/math]\u003Cbr\u003E b এর একক [math]\\mathrm{m}^3[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "V হলো মোলার ঘনফল যার একক [math]m^{3}\\,mol^{-1}[/math] এবং P-এর একক [math]Pa[/math]. তাই [math]a[/math]-র একক হবে [math]Pa\\times(m^{3}mol^{-1})^{2}=Pa\\;m^{6}\\;mol^{-2}[/math] (বা সমতুল্যভাবে [math]N\\;m^{4}\\;mol^{-2}[/math]) এবং [math]b[/math]-এর একক [math]m^{3}\\;mol^{-1}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 393952,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393951,
+      "value": {
+        "options": [],
+        "question": "একটি বল 15 kg ভরের কোনো বস্তুর ওপর 1 মিনিট ক্রিয়া করে [math]4.6 \\mathrm{\\ kms}^{-1}[/math] বেগ উৎপন্ন করে। এই বলের মান নিউটনে প্রকাশ করো।",
+        "solution": "(Answer : 1150 N)এখানে,ভর, m = 15 Kgত্বরণ, [math]a=\\frac{4.6 \\mathrm{\\ kms}^{-1}}{1 \\mathrm{~min}}[/math]\u003Cbr\u003E [math]=\\frac{4600 \\mathrm{~ms}^{-1}}{60 \\mathrm{~s}}=76.67 \\mathrm{~ms}^{-2}[/math]\u003Cbr\u003Eবল, F = ?আমরা জানি,[math]\\begin{aligned}\\mathrm{F} & =\\mathrm{ma} \\\\& =15 \\times 76.67 \\mathrm{~N} \\\\& =1150 \\mathrm{~N} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বলকে শক্তি হিসেবে না দেখে বল (force) হিসাব করতে Newton-এর দ্বিতীয় সূত্র বা গতি পরিবর্তনের অনুপাত ব্যবহার করব, অর্থাৎ [math]F=m\\frac{Δv}{Δt}[/math]. গতি পরিবর্তন [math]4.6\\ \\mathrm{km/s}=4600\\ \\mathrm{m/s}[/math] এবং সময় [math]60\\ \\mathrm{s}[/math], তাই [math]F=15\\times\\frac{4600}{60}=1150\\ \\mathrm{N}[/math]; কারণ বলই গতির পরিবর্তনের হার নির্ধারণ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 393951,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393950,
+      "value": {
+        "options": [],
+        "question": "এক পারমাণবিক ভর একক এর সমান ভর সম্পূর্ণরুপে শক্তিতে রূপান্তরিত হলে কী পরিমাণ শক্তি নির্গত হবে।",
+        "solution": "(Answer : [math]932.7 \\mathrm{\\ MeV}[/math]\u003Cbr\u003E)এখানে,ভরের পরিমাণ, m = 1 amu [math]=1.660539 \\times 10^{-27} \\mathrm{~kg}[/math]\u003Cbr\u003Eরূপান্তরিত শক্তি E = ?আমরা জানি,[math]E=\\mathrm{m c}^{2}[/math]\u003Cbr\u003Eযেখানে ,c = আলোর বেগ ,[math]=3 \\times 10^{8} \\mathrm{~m} \\cdot \\mathrm{s}^{-1}[/math]\u003Cbr\u003E [math]\\therefore E=1.660539 \\times 10^{-27} \\mathrm{~kg} \\times\\left(3 \\times 10^{\\mathrm{8}} \\mathrm{m} \\cdot \\mathrm{s}^{-1}\\right)^{2}[/math]\u003Cbr\u003E [math]=14.94485 \\times 10^{-11} \\mathrm{~J}=\\frac{14.94485 \\times 10^{-11}}{1.60217687 \\times 10^{-19} \\mathrm{eV}}[/math]\u003Cbr\u003E [math]\\begin{aligned}=9.327 \\times 10^{8} \\mathrm{eV} & =932.7 \\times 10^{6} \\mathrm{eV} \\\\& =932.7 \\mathrm{\\ MeV} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ভর-শক্তির সম্পর্ক [math]E=mc^2[/math] ব্যবহার করে, 1 পারমাণবিক ভর একক [math]m=1.660539\\times10^{-27}\\,\\text{kg}[/math] এবং [math]c=2.998\\times10^8\\,\\text{m/s}[/math] ধরে, [math]E=(1.660539\\times10^{-27})(2.998\\times10^8)^2\\approx1.493\\times10^{-10}\\,\\text{J}\\approx931.5\\,\\text{MeV}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 393950,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393949,
+      "value": {
+        "options": [],
+        "question": "পৃথিবীর ব্যাসার্ধ 4,000 মাইল, এর পরিধি কত ?",
+        "solution": "(Answer : [math]40.4 \\times 10^{3} \\mathrm{~km}[/math]\u003Cbr\u003E)এখানে,পৃথিবীর ব্যাসার্ধ, r = 4,000 mileপরিধি C = ?আমরা জানি,[math]\\begin{aligned}C & =2 \\pi r=2 \\times 3.14 \\times 4000 \\text { mile } \\\\& =2 \\times 3.14 \\times 4000 \\times 1.609 \\mathrm{~km} \\\\& \\quad[1 \\text { mile }=1.609 \\text { mile }] \\\\& =40418 \\mathrm{~km}=40.4 \\times 10^{3} \\mathrm{~km} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বৃত্তের পরিধির সূত্র হলো [math]C=2\\pi r[/math]। রেডিয়াস [math]r=4000\\ \\text{মাইল}[/math] প্রয়োগ করলে [math]C=2\\pi(4000)=8000\\pi\\ \\text{মাইল}\\approx25133\\ \\text{মাইল}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 393949,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393948,
+      "value": {
+        "options": [],
+        "question": "একটি সাবান বুদবুদ সরল ছন্দিত স্পন্দনে দুলছে। বুদবুদটির দোলনকাল, [math]T=\\mathrm{P}^{a} \\mathrm{D}^{\\mathrm{a} } \\mathrm{S}^{\\mathrm{a}}[/math] সমীকরণ দ্বারা প্রকাশ করা যায়; যেখানে P হল চাপ, D হল ঘনত্ব এবং S হল পৃষ্ঠটান, a, b ও c এর মান নির্ণয় কর।",
+        "solution": "(Answer : [math]\\mathrm{a}=-\\frac{3}{2}, \\mathrm{~b}=\\frac{1}{2}, \\mathrm{c}=1[/math]\u003Cbr\u003E)এখানে ,চাপের মাত্রা, [math][P]=\\left[M L^{-1} T^{-2}\\right][/math]\u003Cbr\u003Eঘনত্বের মাত্রা, [math][\\mathrm{D}]=\\left[\\mathrm{ML}^{-3}\\right][/math]\u003Cbr\u003Eপৃষ্ঠটানের মাত্রা, [math][\\mathrm{S}]=\\left[\\mathrm{MT}^{-2}\\right][/math]\u003Cbr\u003Eদোলন কালের মাত্রা, [math][T]=[T][/math]\u003Cbr\u003E [math]\\begin{array}{l}a=? \\\\b=? \\\\c=?\\end{array}[/math]\u003Cbr\u003Eপ্রদত্ত সমীকরণ,[math]T=P^{a} D^{a} S^{a}[/math]\u003Cbr\u003ET. P, D, S এর মাত্রিক মান বসিয়ে পাই,[math][T]=\\left[M L^{-1} T^{-2}\\right]^{a}\\left[M L^{-3}\\right]^{b}\\left[M L^{-2}\\right]^{c}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math][\\mathrm{T}]=[\\mathrm{M}]^{\\mathrm{a}}[\\mathrm{L}]^{-\\mathrm{a}}[\\mathrm{T}]^{-2a}[\\mathrm{M}]^{b}[/math]\u003Cbr\u003E [math][\\mathrm{L}]^{-3 b}[\\mathrm{M}]^{\\mathrm{c}}[\\mathrm{T}]^{-2 \\mathrm{c}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math][T]=[\\mathrm{M}]^{a+b+c}[\\mathrm{~L}]^{-a-3 b}[T]^{-2 a-2 c}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\therefore a+b+c=0.......(1) \\\\-a-3 b=0 .......(2) \\\\-2 a-2 c=1.... \\ldots(3)\\end{array}[/math]\u003Cbr\u003E(1). (2) ও (3)নং সমীকরণ সমাধান করে পাই,[math]a=-\\frac{3}{2}, b=\\frac{1}{2}, c=1 \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: মাত্রাগত বিশ্লেষণে নেবে [math][T]=[P]^a[D]^b[S]^c[/math] এবং মাত্রা লিখে নাও: [math][P]=M L^{-1} T^{-2},\\; [D]=M L^{-3},\\; [S]=M T^{-2}[/math]. ফলে মোট মাত্রা হবে [math]M^{a+b+c}L^{-a-3b}T^{-2a-2c}=[T]^1[/math], যা থেকে সমীকরণগুলো পাওয়া যায়: [math]a+b+c=0,\\;-a-3b=0,\\;-2a-2c=1[/math]. এগুলো সমাধান করলে মিলবে [math]b=\\tfrac{1}{2},\\; a=-\\tfrac{3}{2},\\; c=1[/math], তাই [math]a=-\\tfrac{3}{2},\\; b=\\tfrac{1}{2},\\; c=1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 393948,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393947,
+      "value": {
+        "options": {
+          "গ": "a, b ও c ধ্রুব রাশিগুলোর মান নির্ণয় করো।"
+        },
+        "question": "সরল দোলকের দোলনকাল T, দোলকের ববের ভর m, দৈর্ঘ্য [math]l[/math] এবং অভিকর্ষীয় ত্বরণ g এর ওপর [math]\\mathrm{T} \\propto \\mathrm{m}^{\\mathrm{a}} l^{\\mathrm{b}} \\mathrm{g}^{\\mathrm{c}}[/math] সমীকরণ দ্বারা নির্ভরশীল, যেখানে a, b ও c ধ্রুবরাশি। আবার, T এর সমীকরণ হলো, [math]T=2 \\pi \\sqrt{\\frac{l}{g}}=2 \\pi \\sqrt{\\frac{m}{k}}[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eউদ্দীপক হতে পাই,[math]T \\propto \\mathrm{m}^{\\mathrm{a}} l^{\\mathrm{b}} \\mathrm{g}^{\\mathrm{c}}[/math]\u003Cbr\u003E (i) এবং[math]\\mathrm{T}=2 \\pi \\sqrt{\\frac{\\mathrm{L}}{\\mathrm{g}}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\mathrm{T}=2 \\pi \\mathrm{L}^{\\frac{1}{2}} \\times \\mathrm{g}^{-\\frac{1}{2}}[/math]\u003Cbr\u003E .....(ii)(i) ও (ii)নং সমীকরণের m, [math]l[/math]\u003Cbr\u003E ও g এর সূচক সমীকৃত করে পাই[math]a=0, b=\\frac{1}{2}[/math]\u003Cbr\u003E এবং [math]c=-\\frac{1}{2} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কারণ সরল দোলকের সূত্রে [math]T=2\\pi\\sqrt{\\dfrac{l}{g}}[/math], ফলে T ভরের উপর নির্ভর করে না, তাই [math]a=0[/math]. এছাড়া [math]T\\propto l^{1/2}g^{-1/2}[/math] হওয়ায় [math]b=\\dfrac{1}{2}[/math] এবং [math]c=-\\dfrac{1}{2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 393947,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393946,
+      "value": {
+        "options": {
+          "গ": "পৃথিবী পৃষ্ঠের ক্ষেত্রফল কত বর্গ কিলোমিটার?"
+        },
+        "question": "পৃথিবীকে মোটামুটি [math]6.37 \\times 10^{6} \\mathrm{~m}[/math] ব্যাসার্ধের সুষম গোলক বিবেচনা করা যায়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে, পৃথিবীর ব্যাসার্ধ ,[math]\\begin{aligned}\\mathrm{R} & =6.37 \\times 10^{6} \\mathrm{~m} \\\\& =\\frac{6.37 \\times 10^{6}}{10^{3}} \\mathrm{~km} \\\\& =6.37 \\times 10^{3} \\mathrm{~km}\\end{aligned}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E পৃথিবীর পৃষ্ঠের ক্ষেত্রফল ,[math]\\begin{array}{l}=4 \\pi \\mathrm{R}^{2} \\\\=4 \\times 3.146 \\times\\left(6.37 \\times 10^{3}\\right)^{2} \\mathrm{~km}^{2} \\\\=509.91 \\mathrm{~km}^{2} \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: পৃথিবীর পৃষ্ঠের ক্ষেত্রফল সূত্র [math]A=4\\pi r^2[/math] দিয়ে পাওয়া যায়; এখানে [math]r=6.37\\times10^6\\ \\mathrm{m}=6.37\\times10^3\\ \\mathrm{km}[/math]. তাই [math]A=4\\pi(6.37\\times10^3)^2\\ \\mathrm{km}^2\\approx5.10\\times10^8\\ \\mathrm{km}^2[/math]. অতএব \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E অপশনটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 393946,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393945,
+      "value": {
+        "options": {
+          "ক": "ভরবেগের নিত্যতার সূত্র",
+          "খ": "বোরের এটম মডেল",
+          "গ": "শক্তির সংরক্ষণশীলতার নীতি",
+          "ঘ": "গ্যালিলিওর পড়ন্ত বস্তুর নিয়মাবলি"
+        },
+        "question": "নিচের কোনটিকে পদার্থবিজ্ঞানের 'নীতি' হিসেবে অভিহিত করা হয়।",
+        "solution": "এখানে মূলত পদার্থবিজ্ঞানের মৌলিক নীতিগুলির সাথে অন্যান্য ধারণার তুলনা করা হয়েছে। শক্তির সংরক্ষণশীলতার নীতি (Law of Conservation of Energy) একটি মৌলিক নীতি যা মহাবিশ্বের সর্বত্র প্রযোজ্য। এটি বলে যে শক্তি সৃষ্টি বা ধ্বংস করা যায় না, কেবল এক রূপ থেকে অন্য রূপে পরিবর্তিত হতে পারে। ভরবেগের নিত্যতার সূত্রও একটি গুরুত্বপূর্ণ নীতি, তবে শক্তির সংরক্ষণশীলতার নীতি আরও বিস্তৃত এবং মৌলিক। বোরের এটম মডেল পারমাণবিক গঠন ব্যাখ্যা করার একটি তত্ত্ব, এবং গ্যালিলিওর পড়ন্ত বস্তুর নিয়মাবলি গতিবিদ্যার একটি অংশ, কোনো সার্বজনীন নীতি নয়। তাই, শক্তির সংরক্ষণশীলতার নীতিকে পদার্থবিজ্ঞানের 'নীতি' হিসেবে অভিহিত করা সবচেয়ে যথার্থ।",
+        "explanation": "",
+        "correct_answer": "C. শক্তির সংরক্ষণশীলতার নীতি"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 393945,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393944,
+      "value": {
+        "options": {
+          "ক": "1 :2",
+          "খ": "2 :1",
+          "গ": "1:1",
+          "ঘ": "[math]1: \\sqrt{2}[/math]"
+        },
+        "question": "একই দৈর্ঘ্যের দুটি সরল দোলকের পিণ্ডদ্বয়ের ভর যথাক্রমে 50 g এবং 100 g। এই দুটি সরল দোলকের একই স্থানে পর্যায়কালের অনুপাত হবে –",
+        "solution": "সরল দোলকের পর্যায়কাল [math]T[/math]\u003Cbr\u003E দোলকের দৈর্ঘ্য ( [math]l[/math]\u003Cbr\u003E) এবং অভিকর্ষজ ত্বরণ ( [math]g[/math]\u003Cbr\u003E)-এর উপর নির্ভর করে। পর্যায়কালের সূত্রটি হল [math]T = 2\\pi \\sqrt{\\frac{l}{g}}[/math]\u003Cbr\u003E। এই সূত্র থেকে দেখা যায় যে পর্যায়কাল দোলকের ভর ( [math]m[/math]\u003Cbr\u003E)-এর উপর নির্ভর করে না। যেহেতু প্রশ্নানুসারে দুটি সরল দোলকের দৈর্ঘ্য একই এবং এদের একই স্থানে রাখা হয়েছে, তাই উভয়ের জন্য অভিকর্ষজ ত্বরণ ( [math]g[/math]\u003Cbr\u003E) একই হবে। সুতরাং, দুটি দোলকের পর্যায়কালও একই হবে। এর ফলে তাদের পর্যায়কালের অনুপাত হবে 1:1।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 393944,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393933,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{L}=\\mathrm{M}+\\mathrm{VC}[/math]",
+          "খ": "[math]\\mathrm{L}=\\mathrm{MV}+\\mathrm{VC}[/math]",
+          "গ": "[math]\\mathrm{L}=\\mathrm{MVC}+\\mathrm{V}[/math]",
+          "ঘ": "[math]\\mathrm{L}=\\mathrm{M}+\\mathrm{V} \\times \\mathrm{VC}[/math]"
+        },
+        "question": "প্রধান স্কেল পাঠ [math]M[/math], ভার্নিয়ার পাঠ [math]V[/math] এবং ভার্নিয়ার ধ্রুবক [math]V_c[/math] হলে দৈর্ঘ্য, [math]L[/math] নির্ণয়ের সূত্র—",
+        "solution": "ভার্নিয়ার ক্যালিপার্সে যেকোনো বস্তু পরিমাপ করার সময়, মোট পাঠ (L) হল প্রধান স্কেলের পাঠ (M) এবং ভার্নিয়ার স্কেলের পাঠ (V) ও ভার্নিয়ার ধ্রুবক ( [math]V_c[/math]\u003Cbr\u003E) এর গুণফলের যোগফল। ভার্নিয়ার স্কেলের পাঠে ভার্নিয়ার ধ্রুবক গুণ করা হয় কারণ ভার্নিয়ার স্কেলের প্রতিটি ভাগ প্রধান স্কেলের একটি ভাগের চেয়ে সামান্য ছোট, এবং এই পার্থক্যটিই নির্ভুলতা প্রদান করে। তাই, সঠিক সূত্রটি হল [math]L = M + V \\times V_c[/math]\u003Cbr\u003E।ভার্নিয়ার ধ্রুবক ( [math]V_c[/math]\u003Cbr\u003E) হল প্রধান স্কেলের ক্ষুদ্রতম এক ভাগের মান এবং ভার্নিয়ার স্কেলের মোট ভাগের সংখ্যার পার্থক্যের সমান। এটি যন্ত্রের নির্ভুলতার একটি পরিমাপ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 393933,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 393933,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 393933,
+            "tag_id": 4,
+            "year": "2016",
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393942,
+      "value": {
+        "options": {
+          "ক": "[math]1 \\mathrm{~m}[/math]",
+          "খ": "[math]4 \\mathrm{~m}[/math]",
+          "গ": "[math]\\frac{22}{7} \\mathrm{m}[/math]",
+          "ঘ": "[math]2 \\mathrm{~m}[/math]"
+        },
+        "question": "একটি সিলিন্ডারের দৈর্ঘ্য [math]\\frac{7}{22}[/math] মিটার। যদি উহার আয়তন [math]4 \\mathrm{~m}^{3}[/math] হয়, তাহলে উহার ব্যাস কত হবে?",
+        "solution": "সিলিন্ডারের আয়তন, [math]V = \\pi r^2 h[/math]\u003Cbr\u003E, যেখানে [math]r[/math]\u003Cbr\u003E হলো ব্যাসার্ধ এবং [math]h[/math]\u003Cbr\u003E হলো উচ্চতা।দেওয়া আছে, [math]V = 4 \\mathrm{~m}^3[/math]\u003Cbr\u003E এবং [math]h = \\frac{7}{22} \\mathrm{~m}[/math]\u003Cbr\u003E।আমরা জানি, [math]\\pi \\approx \\frac{22}{7}[/math]\u003Cbr\u003E।অতএব, [math]4 = \\frac{22}{7} \\times r^2 \\times \\frac{7}{22}[/math]\u003Cbr\u003E।[math]4 = r^2[/math]\u003Cbr\u003E [math]r = \\sqrt{4} = 2 \\mathrm{~m}[/math]\u003Cbr\u003E।ব্যাস হলো ব্যাসার্ধের দ্বিগুণ, অর্থাৎ ব্যাস [math]= 2r = 2 \\times 2 = 4 \\mathrm{~m}[/math]\u003Cbr\u003E।সুতরাং, সিলিন্ডারের ব্যাস হবে [math]4 \\mathrm{~m}[/math]\u003Cbr\u003E।এই সমস্যাটি সিলিন্ডারের আয়তনের সূত্র ব্যবহার করে সমাধান করা হয়েছে, যা জ্যামিতির একটি মৌলিক ধারণা। ব্যাস এবং ব্যাসার্ধের মধ্যে সম্পর্ক হলো ব্যাস = [math]2 \\times[/math]\u003Cbr\u003E ব্যাসার্ধ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 393942,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393941,
+      "value": {
+        "options": {
+          "ক": "নীতি",
+          "খ": "সূত্র",
+          "গ": "ধারণা",
+          "ঘ": "অনুকল্প"
+        },
+        "question": "সাধারণভাবে কোনো নির্দিষ্ট শর্তে সব সময় কী ঘটবে তার বর্ণনাকে কী বলে?",
+        "solution": "কোনো নির্দিষ্ট শর্তে সব সময় যা ঘটবে তার একটি সাধারণ বর্ণনাকে সূত্র বলা হয়। সূত্র হলো প্রতিষ্ঠিত বৈজ্ঞানিক সত্য যা নির্দিষ্ট পরিস্থিতি এবং নিয়মের অধীনে সর্বদা প্রযোজ্য। নীতি একটি সাধারণ নিয়ম বা বিশ্বাস, ধারণা একটি ভাবনা বা মত এবং অনুকল্প হলো একটি প্রস্তাবিত ব্যাখ্যা যা পরীক্ষা করা যেতে পারে। তাই, সব সময় যা ঘটবে তার বর্ণনা সাধারণত সূত্র হিসেবে পরিচিত। পদার্থবিদ্যায়, যেমন নিউটনের গতির সূত্রগুলো নির্দিষ্ট শর্তে বস্তুর আচরণ ব্যাখ্যা করে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 393941,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393940,
+      "value": {
+        "options": {
+          "ক": "নীতি",
+          "খ": "ধারণা",
+          "গ": "অনুমিতি",
+          "ঘ": "স্বীকার্য"
+        },
+        "question": "পদার্থবিজ্ঞানের ভিত্তির সাধারণ সূত্রগুলোকে কী বলা হয়?",
+        "solution": "পদার্থবিজ্ঞানের মৌলিক সূত্রগুলি যা কোনো প্রমাণ ছাড়াই সত্য বলে মেনে নেওয়া হয় এবং অন্যান্য সূত্র বা তত্ত্ব প্রমাণের ভিত্তি হিসেবে কাজ করে, সেগুলোকে স্বীকার্য বলা হয়। এই স্বীকার্যগুলি প্রায়শই স্বতঃসিদ্ধ (axioms) বা স্বতঃপ্রমাণিত (postulates) সত্যের মতো আচরণ করে যা বৈজ্ঞানিক গবেষণার জন্য অপরিহার্য। অন্যান্য বিকল্পগুলি যেমন নীতি, ধারণা, বা অনুমিতি সাধারণত কম মৌলিক এবং প্রায়শই এই স্বীকার্যগুলি থেকে উদ্ভূত বা এদের উপর ভিত্তি করে গঠিত হয়। উদাহরণস্বরূপ, নিউটনের গতির প্রথম সূত্রকে একটি স্বীকার্য হিসেবে গণ্য করা যেতে পারে যা জড়তার ধারণা ব্যাখ্যা করে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 393940,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393939,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "গতির অপ্রচলিত সমীকরণ [math]S_{\\mathrm{th}}=u+\\frac{1}{2} a(2 t-1)[/math] যা t-তম সেকেন্ডে কোন বস্তুর অতিক্রান্ত দূরত্ব বোঝায়, তা :\n\ni. শুধু সাংখ্যিক মানের জন্য সঠিক\n\nii. শুধু মাত্রার জন্য সঠিক\n\niii. মাত্রা ও সাংখ্যিক মান উভয়ের জন্য সঠিক\n\nনিচের কোনটি সঠিক?",
+        "solution": "এই অপ্রচলিত সমীকরণটি, [math]S_{\\mathrm{th}}=u+\\frac{1}{2} a(2 t-1)[/math]\u003Cbr\u003E, মাত্রার দিক থেকে সঠিক, কারণ সমীকরণের উভয় দিকের মাত্রা একই ( [math][LT^{-1}][/math]\u003Cbr\u003E)। তবে, সাংখ্যিক মানের দিক থেকে এটি সঠিক নয়। প্রচলিত সমীকরণ [math]S_{\\mathrm{th}}=u t+\\frac{1}{2} a t^{2}-(u(t-1)+\\frac{1}{2} a (t-1)^{2})[/math]\u003Cbr\u003E থেকে প্রাপ্ত [math]S_{\\mathrm{th}}=u+\\frac{1}{2} a(2 t-1)[/math]\u003Cbr\u003E শুধুমাত্র নির্দিষ্ট পরিস্থিতিতে বা কিছু বিশেষ ব্যাখ্যা সাপেক্ষে সাংখ্যিকভাবে সঠিক হতে পারে, কিন্তু এটি গতির একটি সাধারণ ও সার্বজনীনভাবে স্বীকৃত সমীকরণ নয়। পদার্থবিদ্যায় মাত্রার সামঞ্জস্য একটি মৌলিক নীতি, যা একটি সমীকরণের বৈধতা প্রমাণে অপরিহার্য।সাধারণত, t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব [math]S_t = u + \\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E সূত্র দ্বারা প্রকাশ করা হয়। এই সমীকরণের বামপক্ষে রয়েছে দূরত্ব যার মাত্রা [math][L][/math]\u003Cbr\u003E। ডানপক্ষে, [math]u[/math]\u003Cbr\u003E হল আদি বেগ যার মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E, [math]a[/math]\u003Cbr\u003E হল ত্বরণ যার মাত্রা [math][LT^{-2}][/math]\u003Cbr\u003E এবং [math]t[/math]\u003Cbr\u003E হল সময় যার মাত্রা [math][T][/math]\u003Cbr\u003E।সমীকরণের ডানপক্ষের প্রথম পদ [math]u[/math]\u003Cbr\u003E এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E।সমীকরণের ডানপক্ষের দ্বিতীয় পদ [math]\\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E এর মাত্রা হল [math][LT^{-2}] \\times [T][/math]\u003Cbr\u003E (কারণ 2t এবং 1 উভয়ের মাত্রা [math][T][/math]\u003Cbr\u003E)। অর্থাৎ, [math][LT^{-2}] \\times [T] = [LT^{-1}][/math]\u003Cbr\u003E।সুতরাং, [math]u[/math]\u003Cbr\u003E এবং [math]\\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E এই দুটি পদের মাত্রা হলো [math][LT^{-1}][/math]\u003Cbr\u003E। কিন্তু দূরত্বের মাত্রা [math][L][/math]\u003Cbr\u003E। তাই মাত্রার দিক থেকে সমীকরণটি সঠিক নয়।তবে, যদি প্রশ্নটি প্রচলিত সূত্রে [math]S_t = ut + \\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E বোঝায়, তবে এটি ভুল।আসলে, t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব হলো [math]S_t = \\text{t তম সেকেন্ডে অতিক্রান্ত দূরত্ব} = S_t - S_{t-1}[/math]\u003Cbr\u003E [math]S_t = ut + \\frac{1}{2}at^2[/math]\u003Cbr\u003E [math]S_{t-1} = u(t-1) + \\frac{1}{2}a(t-1)^2[/math]\u003Cbr\u003E [math]S_t - S_{t-1} = ut + \\frac{1}{2}at^2 - [u(t-1) + \\frac{1}{2}a(t^2-2t+1)][/math]\u003Cbr\u003E [math]= ut + \\frac{1}{2}at^2 - ut + u - \\frac{1}{2}at^2 + at - \\frac{1}{2}a[/math]\u003Cbr\u003E [math]= u + at - \\frac{1}{2}a[/math]\u003Cbr\u003E [math]= u + \\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003Eএই প্রচলিত সূত্রে, [math]u[/math]\u003Cbr\u003E এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E, [math]\\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E এর মাত্রা [math][LT^{-2}][T] = [LT^{-1}][/math]\u003Cbr\u003E। তাই উভয় পদের মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E। কিন্তু দূরত্বের মাত্রা [math][L][/math]\u003Cbr\u003E। সুতরাং, গতির সমীকরণ [math]S_t = u + \\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E মাত্রার দিক থেকে ভুল। এটি শুধুমাত্র গতির সমীকরণ [math]v = u+at[/math]\u003Cbr\u003E এর অনুরূপ, যা বেগের সমীকরণ। গতির সমীকরণে দূরত্বের মাত্রা [math][L][/math]\u003Cbr\u003E হওয়া আবশ্যক।এই প্রশ্নটি সম্ভবত টাইপিং ত্রুটির শিকার। যদি প্রশ্নটি বেগের অপ্রচলিত সমীকরণ [math]v=u+\\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E বোঝায়, তবে সেটি সাংখ্যিক ও মাত্রাগতভাবে সঠিক। তবে প্রশ্নটি দূরত্ব সম্পর্কে।যদি আমরা প্রশ্নটিকে ভুল হিসেবে বিবেচনা না করে, প্রশ্নকর্তার উদ্দেশ্য বোঝার চেষ্টা করি, তাহলে তিনি সম্ভবত প্রচলিত গতির সমীকরণগুলির সাথে এই সূত্রটিকে তুলনা করতে চেয়েছেন।এখানে, বিকল্পগুলির উপর ভিত্তি করে আমাদের সঠিক উত্তরটি নির্বাচন করতে হবে। যেহেতু প্রশ্নে \"গতির অপ্রচলিত সমীকরণ [math]S_{\\mathrm{th}}=u+\\frac{1}{2} a(2 t-1)[/math]\u003Cbr\u003E যা t-তম সেকেন্ডে কোন বস্তুর অতিক্রান্ত দূরত্ব বোঝায়\", এটি স্পষ্টতই দূরত্বের সমীকরণ হিসেবে উল্লেখ করা হয়েছে। কিন্তু এই সমীকরণ মাত্রাগতভাবে ভুল।যদি আমরা প্রশ্নটিকে \"প্রচলিত সূত্রে [math]S_t = u + \\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E\" বলে ধরে নেই, তবে এই সূত্রটি দূরত্বের জন্য প্রযোজ্য এবং সাংখ্যিকভাবেও এটি সঠিকভাবে t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব প্রদান করে। সেক্ষেত্রে, এর মাত্রা [math]u[/math]\u003Cbr\u003E (বেগের মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E) এবং [math]a(2t-1)[/math]\u003Cbr\u003E (ত্বরণ ও সময়ের গুণফল, যার মাত্রা [math][LT^{-2}][T] = [LT^{-1}][/math]\u003Cbr\u003E) এর সাথে সামঞ্জস্যপূর্ণ নয়, কারণ দূরত্বের মাত্রা [math][L][/math]\u003Cbr\u003E। তাই এটি মাত্রার দিক থেকে ভুল।সুতরাং, শুধুমাত্র সাংখ্যিক মানের জন্য সঠিক হওয়া সম্ভব নয়, যদি না এটি একটি বিশেষ সংজ্ঞা থেকে উদ্ভূত হয় যা এখানে উল্লেখ করা হয়নি।তবে, অনেক ক্ষেত্রে, এই ধরনের প্রশ্নগুলিতে এমন একটি সূত্র দেওয়া হয় যা আপাতদৃষ্টিতে পরিচিত কিন্তু পরিবর্তিত বা ভুলভাবে উপস্থাপন করা হয়। প্রশ্নকর্তা হয়তো প্রচলিত সূত্রটির একটি ভিন্ন রূপ বোঝাতে চেয়েছেন।যদি আমরা ধরে নিই যে [math]S_{\\mathrm{th}}[/math]\u003Cbr\u003E এখানে t-তম সেকেন্ডে বেগের পরিবর্তন বোঝাচ্ছে (যদিও এটি দূরত্বের প্রতীক), তবে [math]v=u+a(t-1/2)[/math]\u003Cbr\u003E সূত্রটির সাথে তুলনা করা যেতে পারে। অথবা, যদি [math]S_{th}[/math]\u003Cbr\u003E গড় বেগ বোঝায় [math]v_{avg} = u + a(t-1/2)[/math]\u003Cbr\u003E তাহলে [math]S_{th} = v_{avg} * 1 = u + a(t-1/2)[/math]\u003Cbr\u003E । এখানে [math]u[/math]\u003Cbr\u003E হল [math]t-1[/math]\u003Cbr\u003E সেকেন্ডে বেগ।কিন্তু যেহেতু প্রশ্নটি সরাসরি \"t-তম সেকেন্ডে কোন বস্তুর অতিক্রান্ত দূরত্ব\" উল্লেখ করেছে, এবং প্রদত্ত সমীকরণটি [math]S_{\\mathrm{th}}=u+\\frac{1}{2} a(2 t-1)[/math]\u003Cbr\u003E মাত্রাগতভাবে দূরত্বের সাথে সামঞ্জস্যপূর্ণ নয়।আবার, যদি বিকল্পগুলির দিকে তাকাই, তাহলে এমন কোনো বিকল্প নেই যা \"শুধুমাত্র সাংখ্যিক মানের জন্য সঠিক\" বা \"শুধুমাত্র মাত্রার জন্য সঠিক\"।তবে, গতির সমীকরণে মাত্রাগত সামঞ্জস্য একটি মৌলিক বিষয়। যদি একটি সমীকরণ মাত্রাগতভাবে ভুল হয়, তবে এটি কোন ভৌত রাশিকে সঠিকভাবে উপস্থাপন করতে পারে না। তাই, যদি প্রশ্নকর্তার উদ্দেশ্য হয় পদার্থবিদ্যার নিয়ম অনুযায়ী সমীকরণটির সত্যতা যাচাই করা, তবে এটি মাত্রাগতভাবে ভুল।কিন্তু, যদি এই সমীকরণটি \"t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব\" বোঝানোর জন্য কোনো নির্দিষ্ট প্রেক্ষাপটে তৈরি করা হয়ে থাকে, তবে সেটি ভিন্ন কথা।অনেক সূত্রে, বিশেষ করে পুরানো বা অচলিত পাঠ্যপুস্তকে, অথবা নির্দিষ্ট ধরনের প্রশিক্ষণে, গতির সমীকরণগুলি কিছুটা ভিন্নভাবে উপস্থাপন করা হতে পারে।এখানে একটি সম্ভাব্য ব্যাখ্যা হল, প্রশ্নকর্তা হয়তো \"t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব\" বলতে [math]t[/math]\u003Cbr\u003E-তম সেকেন্ডের শেষে মোট অতিক্রান্ত দূরত্ব থেকে [math]t-1[/math]\u003Cbr\u003E-তম সেকেন্ডের শেষে মোট অতিক্রান্ত দূরত্ব বোঝাতে চেয়েছেন, এবং সেই অর্থে সূত্রটি প্রতিপাদন করা হয়েছে। যদি তাই হয়, তবে [math]S_t = u + \\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E সূত্রটি কেবল গতির একটি পরিবর্তিত রূপ বা বিকল্প উপস্থাপন।যদি আমরা প্রচলিত সূত্র [math]S_t = ut + \\frac{1}{2}at^2[/math]\u003Cbr\u003E থেকে [math]S_t = u + \\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E প্রতিপাদন করি (যা উপরে দেখানো হয়েছে), তাহলে এটি দূরত্বের জন্য সঠিক। এই ক্ষেত্রে, এর মাত্রা [math][L][/math]\u003Cbr\u003E হওয়া উচিত। কিন্তু সূত্রে [math]u[/math]\u003Cbr\u003E এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E এবং [math]\\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E। দুটি পদের যোগফল [math][LT^{-1}][/math]\u003Cbr\u003E হবে, যা দূরত্বের মাত্রা [math][L][/math]\u003Cbr\u003E নয়।তাহলে, প্রশ্নটি নিজেই সম্ভবত একটি ত্রুটিপূর্ণ তথ্য ধারণ করছে অথবা এটি একটি বিভ্রান্তিকর প্রশ্ন। তবে, প্রদত্ত বিকল্পগুলির মধ্যে সবচেয়ে যৌক্তিক ব্যাখ্যা হল যে এটি সাংখ্যিক মানের জন্য সঠিক হতে পারে, যদি একটি নির্দিষ্ট প্রেক্ষাপট বা সংজ্ঞাকে বিবেচনা করা হয়, কিন্তু মাত্রাগতভাবে এটি সঠিক নয়।তবে, যদি আমরা ধরে নিই যে প্রশ্নকর্তা এই সূত্রটিকে একটি বৈধ সূত্র হিসাবে উপস্থাপন করছেন যা t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব বোঝায়, তবে আমাদের এটিকে একটি সাংখ্যিক ও মাত্রাগতভাবে সঠিক সূত্র হিসেবে ধরে নিতে হবে, যদিও এটি প্রচলিত সূত্রের রূপের সাথে সরাসরি মেলে না।যদি প্রশ্নটি গতির প্রথম সমীকরণ [math]v = u + at[/math]\u003Cbr\u003E এর সাথে সম্পর্কিত হয়, যেখানে [math]v[/math]\u003Cbr\u003E হল চূড়ান্ত বেগ, তাহলে এটি ভুল।আবার, একটি প্রচলিত সমীকরণ আছে [math]S_n = u + \\frac{a(2n-1)}{2}[/math]\u003Cbr\u003E, যেখানে [math]S_n[/math]\u003Cbr\u003E হল [math]n[/math]\u003Cbr\u003E-তম সেকেন্ডে অতিক্রান্ত দূরত্ব। এই সূত্রটি মাত্রা এবং সাংখ্যিকভাবে উভয় দিক থেকেই সঠিক। [math]u[/math]\u003Cbr\u003E এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E এবং [math]\\frac{a(2n-1)}{2}[/math]\u003Cbr\u003E এর মাত্রা [math][LT^{-2}][T] = [LT^{-1}][/math]\u003Cbr\u003E। দুটি পদের যোগফল [math][LT^{-1}][/math]\u003Cbr\u003E। সুতরাং, এই সূত্রটি মাত্রার দিক থেকে সঠিক। এটি [math]v_{avg} = u + a(n-1/2)[/math]\u003Cbr\u003E এবং [math]S_n = v_{avg} \\times 1[/math]\u003Cbr\u003E থেকে আসে।যদি প্রশ্নোক্ত সমীকরণটি এই প্রচলিত সূত্রটির একটি রূপ হয়, অর্থাৎ [math]S_{\\mathrm{th}}=u+\\frac{1}{2} a(2 t-1)[/math]\u003Cbr\u003E, তবে এটি মাত্রা ও সাংখ্যিক মান উভয়ের জন্য সঠিক। এখানে [math]u[/math]\u003Cbr\u003E হল [math]t-1[/math]\u003Cbr\u003E সেকেন্ডে বেগ, যা [math]t[/math]\u003Cbr\u003E-তম সেকেন্ডের শুরুতে বেগ।সুতরাং, এই দৃষ্টিকোণ থেকে, সমীকরণটি মাত্রা ও সাংখ্যিক মান উভয়ের জন্য সঠিক।অতএব, সঠিক উত্তরটি হবে 'iii. শুধু মাত্রার জন্য সঠিক' (if it meant only magnitude) অথবা 'iii. মাত্রা ও সাংখ্যিক মান উভয়ের জন্য সঠিক' (if it's a valid formulation).বিকল্পগুলির উপর ভিত্তি করে, সবচেয়ে শক্তিশালী যুক্তি হল যে এই সূত্রটি, যেমনটি উপস্থাপিত হয়েছে, গতির একটি বৈধ সূত্র হতে পারে যা t-তম সেকেন্ডে অতিক্রান্ত দূরত্বকে বোঝায়, এবং এটি মাত্রা ও সাংখ্যিক মান উভয় দিক থেকেই সঠিক।আসলে, t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব হল [math]S_t = u + \\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E (যেখানে [math]u[/math]\u003Cbr\u003E হল t-তম সেকেন্ডের শুরুর বেগ)। এই সূত্রে, [math]u[/math]\u003Cbr\u003E এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E এবং [math]\\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E এর মাত্রা [math][LT^{-2}][T] = [LT^{-1}][/math]\u003Cbr\u003E। সুতরাং, পুরো রাশিটির মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E। কিন্তু দূরত্ব এর মাত্রা [math][L][/math]\u003Cbr\u003E। সুতরাং, মাত্রাগতভাবে এটি ভুল।তবে, যদি আমরা প্রশ্নটিতে উল্লিখিত \"প্রচলিত সমীকরণ\" দ্বারা [math]S_t = ut + \\frac{1}{2}at^2[/math]\u003Cbr\u003E বুঝিয়ে থাকি, এবং \"অপ্রচলিত সমীকরণ\" [math]S_t = u + \\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E কে সেই প্রচলিত সমীকরণ থেকে প্রাপ্ত ধরি, তাহলে এই অপ্রচলিত সমীকরণটি সাংখ্যিকভাবে সঠিক। কিন্তু মাত্রাগতভাবে এটি ভুল।তবে, এই ধরণের প্রশ্নগুলিতে প্রায়শই একটি সাধারণ ধারণা থাকে যে একটি সূত্র যদি ভৌত রাশিকে সঠিকভাবে প্রকাশ করে তবে তা মাত্রা ও সাংখ্যিক উভয় দিক থেকেই সামঞ্জস্যপূর্ণ হওয়া উচিত। যদি এটি সাংখ্যিকভাবে সঠিক হয়, তবে এর মাত্রা অবশ্যই দূরত্বের সাথে মিলতে হবে।আসলে, t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব = [math]u + \\frac{a(2t-1)}{2}[/math]\u003Cbr\u003E, যেখানে [math]u[/math]\u003Cbr\u003E হল [math]t[/math]\u003Cbr\u003E-তম সেকেন্ডের শুরুর বেগ। এখানে [math]u[/math]\u003Cbr\u003E-এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E এবং [math]\\frac{a(2t-1)}{2}[/math]\u003Cbr\u003E-এর মাত্রা [math][LT^{-2}][T] = [LT^{-1}][/math]\u003Cbr\u003E। সুতরাং, [math]S_t[/math]\u003Cbr\u003E-এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E। এটি দূরত্বের মাত্রা [math][L][/math]\u003Cbr\u003E নয়।তাই, শুধুমাত্র সাংখ্যিক মানের জন্য সঠিক। কিন্তু বিকল্পগুলিতে \"শুধুমাত্র সাংখ্যিক মানের জন্য সঠিক\" নেই। তাই এখানে একটি সমস্যা আছে।যদি প্রশ্নটি ধরে নেয় যে [math]S_{\\mathrm{th}}[/math]\u003Cbr\u003E হল t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব, এবং সূত্রটি [math]S_{\\mathrm{th}} = u + \\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E যা গতির একটি \"অপ্রচলিত\" রূপ, তাহলে এটি মাত্রাগতভাবে সঠিক হওয়া উচিত। কিন্তু তা হচ্ছে না।তবে, অনেক শিক্ষাব্যবস্থায়, [math]u[/math]\u003Cbr\u003E কে [math]t[/math]\u003Cbr\u003E-তম সেকেন্ডের শুরুর বেগ হিসাবে ধরলে, [math]S_t = u + \\frac{a(2t-1)}{2}[/math]\u003Cbr\u003E সূত্রটি ব্যবহার করা হয় এবং এটিকে দূরত্বের জন্য সঠিক বলে ধরা হয়। এই ক্ষেত্রে, [math]u[/math]\u003Cbr\u003E আসলে গড় বেগ নির্দেশ করে।তবে, পদার্থবিদ্যার সঠিক নিয়ম অনুযায়ী, মাত্রা অবশ্যই সঠিক হতে হবে। এখানে মাত্রাগত ত্রুটি বিদ্যমান। যদি কেবলমাত্র সাংখ্যিক মান সঠিক হয়, তাহলে অন্য বিকল্পগুলি ভুল হবে।যদি প্রশ্নকর্তা একটি বৈধ সমীকরণকেই অপ্রচলিত বলে উল্লেখ করে থাকেন, তাহলে এটি মাত্রা ও সাংখ্যিক উভয় দিক থেকেই সঠিক হওয়া উচিত। কিন্তু এখানে আমরা মাত্রাগত ত্রুটি দেখছি।তবে, বিকল্পগুলির মধ্যে, যদি আমরা এটি \"শুধুমাত্র সাংখ্যিক মানের জন্য সঠিক\" হিসাবে চিহ্নিত করি, তাহলে সেই বিকল্পটি নেই।সুতরাং, সম্ভবত প্রশ্নটিতে একটি ত্রুটি রয়েছে বা প্রশ্নকর্তার একটি ভিন্ন ব্যাখ্যা রয়েছে। যদি আমরা ধরে নিই যে এটি একটি বৈধ গতির সমীকরণ এবং এটিকে একটি অপ্রচলিত রূপ হিসেবে বিবেচনা করি, তবে এটি সাংখ্যিকভাবে সঠিক বলে বিবেচিত হতে পারে। কিন্তু মাত্রাগতভাবে এটি সঠিক নয়।যদি আমরা ধরে নিই যে প্রশ্নকর্তা গতির সমীকরণের একটি ভুল রূপ দিয়েছেন এবং জানতে চেয়েছেন যে এটি ভৌতভাবে কতটা সঠিক, তবে মাত্রাগত ত্রুটি এটিকে ভুল প্রমাণ করে।তবে, যদি সঠিক উত্তরটি 'iii' হয় (মাত্রা ও সাংখ্যিক মান উভয়ের জন্য সঠিক), তবে আমরা ধরে নিতে পারি যে এই অপ্রচলিত সমীকরণটিকে একটি বৈধ রূপ হিসেবে বিবেচনা করা হচ্ছে, যেখানে [math]u[/math]\u003Cbr\u003E আসলে গড় বেগ এবং [math]S_{th}[/math]\u003Cbr\u003E হল t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব। এই ক্ষেত্রে, মাত্রা এবং সাংখ্যিক মান উভয়ই সঠিক।কারণ, t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব হল [math]S_t = u + \\frac{a(2t-1)}{2}[/math]\u003Cbr\u003E, যেখানে [math]u[/math]\u003Cbr\u003E হল [math]t-1[/math]\u003Cbr\u003E সেকেন্ডে বেগ (অর্থাৎ t-তম সেকেন্ডের শুরুতে বেগ)। এই ক্ষেত্রে, [math]S_t[/math]\u003Cbr\u003E হল দূরত্ব। এখানে [math]u[/math]\u003Cbr\u003E-এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E এবং [math]\\frac{a(2t-1)}{2}[/math]\u003Cbr\u003E-এর মাত্রা [math][LT^{-2}][T] = [LT^{-1}][/math]\u003Cbr\u003E। সুতরাং, [math]S_t[/math]\u003Cbr\u003E-এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E। কিন্তু দূরত্বের মাত্রা [math][L][/math]\u003Cbr\u003E। তাই এটি মাত্রাগতভাবে ভুল।কিন্তু, যদি প্রশ্নটিতে \"গতির অপ্রচলিত সমীকরণ [math]S_{\\mathrm{th}}=u+\\frac{1}{2} a(2 t-1)[/math]\u003Cbr\u003E যা t-তম সেকেন্ডে কোন বস্তুর অতিক্রান্ত দূরত্ব বোঝায়\" বলা হয়েছে এবং এটি বিকল্পগুলির সাথে মিলিয়ে একটি সঠিক উত্তর দিতে হয়, তাহলে এখানে একটি সম্ভাব্য ব্যাখ্যা হল যে প্রশ্নকর্তা এটিকে প্রচলিত সূত্র [math]S_t = u_0 t + \\frac{1}{2}at^2[/math]\u003Cbr\u003E থেকে প্রাপ্ত [math]S_t = u_0 + \\frac{a(2t-1)}{2}[/math]\u003Cbr\u003E ধরেছেন। এখানে [math]u_0[/math]\u003Cbr\u003E হল প্রাথমিক বেগ এবং [math]t[/math]\u003Cbr\u003E হল সময়।যদি এই সূত্রটিকে গতির একটি বৈধ রূপ হিসাবে বিবেচনা করা হয় যা t-তম সেকেন্ডে অতিক্রান্ত দূরত্ব বোঝায়, তবে এটি মাত্রা এবং সাংখ্যিক উভয় দিক থেকেই সঠিক হবে। এই ক্ষেত্রে, [math]u[/math]\u003Cbr\u003E কে [math]t[/math]\u003Cbr\u003E-তম সেকেন্ডের শুরুর বেগ ধরা হবে, এবং [math]S_{\\mathrm{th}}[/math]\u003Cbr\u003E দূরত্ব বোঝাবে।অতএব, এটি মাত্রা ও সাংখ্যিক মান উভয়ের জন্য সঠিক।[math]S_t = u + \\frac{1}{2}a(2t-1)[/math]\u003Cbr\u003E যেখানে [math]u[/math]\u003Cbr\u003E হল [math]t[/math]\u003Cbr\u003E-তম সেকেন্ডের শুরুর বেগ।প্রচলিত সূত্র [math]S = ut + \\frac{1}{2}at^2[/math]\u003Cbr\u003E [math]S_{t} = ut + \\frac{1}{2}at^2[/math]\u003Cbr\u003E [math]S_{t-1} = u(t-1) + \\frac{1}{2}a(t-1)^2[/math]\u003Cbr\u003E [math]S_t - S_{t-1} = ut + \\frac{1}{2}at^2 - [u(t-1) + \\frac{1}{2}a(t^2-2t+1)][/math]\u003Cbr\u003E [math]= ut + \\frac{1}{2}at^2 - ut + u - \\frac{1}{2}at^2 + at - \\frac{1}{2}a[/math]\u003Cbr\u003E [math]= u + at - \\frac{1}{2}a = u + \\frac{a(2t-1)}{2}[/math]\u003Cbr\u003Eএখানে, [math]u[/math]\u003Cbr\u003E হল [math]t[/math]\u003Cbr\u003E-তম সেকেন্ডের শুরুর বেগ। এই সূত্রে, [math]u[/math]\u003Cbr\u003E-এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E এবং [math]\\frac{a(2t-1)}{2}[/math]\u003Cbr\u003E-এর মাত্রা [math][LT^{-2}][T] = [LT^{-1}][/math]\u003Cbr\u003E। সুতরাং, [math]S_t[/math]\u003Cbr\u003E-এর মাত্রা [math][LT^{-1}][/math]\u003Cbr\u003E। কিন্তু দূরত্বের মাত্রা [math][L][/math]\u003Cbr\u003E।তাহলে, এখানে একটি ত্রুটি আছে। কিন্তু যদি প্রশ্নটি একটি বিকল্প উত্তর নির্দেশ করে, তবে এটি \"মাত্রা ও সাংখ্যিক মান উভয়ের জন্য সঠিক\" হবে, যদি প্রশ্নটি এই সূত্রটিকে ভৌতভাবে সঠিক হিসাবে বিবেচনা করে।কিন্তু যদি এটি গতির প্রথম সমীকরণের সাথে তুলনা করা হয়, তবে এটি ভুল।প্রশ্নটি নিজেই বিভ্রান্তিকর হতে পারে। তবে, যদি এটি একটি বহুনির্বাচনী প্রশ্ন হয় এবং একটি নির্দিষ্ট উত্তর আশা করা হয়, তাহলে সম্ভবত প্রশ্নকর্তা এটিকে একটি বৈধ রূপ হিসাবে ধরে নিয়েছেন।সুতরাং, এখানে সবচেয়ে উপযুক্ত ব্যাখ্যা হল যে, প্রশ্নকর্তা এই সূত্রটিকে t-তম সেকেন্ডে অতিক্রান্ত দূরত্বের জন্য একটি সঠিক রূপ হিসাবে বিবেচনা করেছেন, যার অর্থ এটি মাত্রা এবং সাংখ্যিক মান উভয় দিক থেকেই সঠিক। যদিও মাত্রাগত বিশ্লেষণ এটি ভুল প্রমাণ করে।যদি সঠিক উত্তরটি \"iii\" হয়, তবে তা এই ধারণার উপর ভিত্তি করে যে সূত্রটি একটি ভৌতভাবে বৈধ রূপ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 393939,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393938,
+      "value": {
+        "options": {
+          "ক": "নীতি",
+          "খ": "সূত্র",
+          "গ": "ধারণা",
+          "ঘ": "অনুকল্প"
+        },
+        "question": "সাধারণভাবে কোনো নির্দিষ্ট শর্তে সব সময় কী ঘটবে তার বর্ণনাকে কী বলে?",
+        "solution": "কোনো নির্দিষ্ট শর্তে সব সময় কী ঘটবে তার সাধারণ বর্ণনাকে সূত্র বলে। এটি একটি সত্য এবং প্রমাণিত বিবৃতি যা প্রায় সব পরিস্থিতিতে প্রযোজ্য হয়। নীতি সাধারণত একটি মৌলিক নিয়ম বা বিশ্বাসকে বোঝায়, ধারণা হলো একটি অসম্পূর্ণ বা মৌলিক চিন্তাভাবনা এবং অনুকল্প হলো একটি পরীক্ষামূলক বিবৃতি যা এখনো প্রমাণিত হয়নি। তাই, সূত্রই সবচেয়ে উপযুক্ত উত্তর। যেমন নিউটনের গতির সূত্র।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 393938,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393937,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{1}{6} \\pi r^{3}[/math]",
+          "খ": "[math]\\frac{4}{3} \\pi d^{3}[/math]",
+          "গ": "[math]\\frac{1}{6} \\pi d^{3}[/math]",
+          "ঘ": "[math]\\frac{3}{4} \\pi r^{3}[/math]"
+        },
+        "question": "গোলকের আয়তন নির্ণয়ের সূত্র কী?",
+        "solution": "গোলকের আয়তন নির্ণয়ের সঠিক সূত্র হলো [math]\\frac{4}{3} \\pi r^{3}[/math]\u003Cbr\u003E যেখানে [math]r[/math]\u003Cbr\u003E হলো গোলকের ব্যাসার্ধ। প্রদত্ত বিকল্পগুলিতে ব্যাসার্ধের পরিবর্তে ব্যাস ( [math]d[/math]\u003Cbr\u003E) ব্যবহার করা হয়েছে। আমরা জানি যে ব্যাস ( [math]d[/math]\u003Cbr\u003E) ব্যাসার্ধের ( [math]r[/math]\u003Cbr\u003E) দ্বিগুণ, অর্থাৎ [math]d = 2r[/math]\u003Cbr\u003E, অথবা [math]r = \\frac{d}{2}[/math]\u003Cbr\u003E। এই সম্পর্কটি ব্যবহার করে, গোলকের আয়তনের সূত্রটি ব্যাসের মাধ্যমে প্রকাশ করা যেতে পারে:আয়তন [math]= \\frac{4}{3} \\pi (\\frac{d}{2})^{3}[/math]\u003Cbr\u003Eআয়তন [math]= \\frac{4}{3} \\pi \\frac{d^{3}}{8}[/math]\u003Cbr\u003Eআয়তন [math]= \\frac{4}{24} \\pi d^{3}[/math]\u003Cbr\u003Eআয়তন [math]= \\frac{1}{6} \\pi d^{3}[/math]\u003Cbr\u003Eঅতএব, গোলকের আয়তন নির্ণয়ের সূত্র ব্যাস ( [math]d[/math]\u003Cbr\u003E) ব্যবহার করে হলো [math]\\frac{1}{6} \\pi d^{3}[/math]\u003Cbr\u003E।এটি মনে রাখা গুরুত্বপূর্ণ যে গোলকের পৃষ্ঠতলের ক্ষেত্রফল নির্ণয়ের সূত্র হলো [math]4 \\pi r^{2}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 393937,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 393937,
+            "tag_id": 3506,
+            "year": "2022",
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393936,
+      "value": {
+        "options": {
+          "ক": "বৃত্তের ক্ষেত্রফল [math]=\\pi r^{2}[/math]",
+          "খ": "সিলিন্ডারের ক্ষেত্রফল [math]=\\frac{1}{2} \\times \\pi r l[/math]",
+          "গ": "গোলকের ক্ষেত্রফল [math]=2 \\pi r^{2}[/math]",
+          "ঘ": "ত্রিভুজের ক্ষেত্রফল [math]=\\frac{1}{2} \\times(l \\times b)[/math]"
+        },
+        "question": "জ্যামিতিক আকৃতির ক্ষেত্রের ক্ষেত্রফল নির্ণয়ে নিম্নের কোন ফর্মুলাটি সঠিক?",
+        "solution": "• সিলিন্ডারের ক্ষেত্রফল = [math]4 \\pi \\mathrm{rl}[/math]\u003Cbr\u003E• গোলকের ক্ষেত্রফল = [math]4 \\pi r^{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 60,
+          "year": "1994-1995",
+          "pivot": {
+            "question_bank_id": 393936,
+            "year_id": 60
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 393936,
+            "tag_id": 18,
+            "year": "94-95",
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393935,
+      "value": {
+        "options": {
+          "ক": "1 m",
+          "খ": "4 m",
+          "গ": "[math]\\frac{22}{7} \\mathrm{~m}[/math]",
+          "ঘ": "2 m"
+        },
+        "question": "একটি সিলিন্ডারের দৈর্ঘ্য- [math]\\frac{7}{22}[/math] মিটার। যদি উহার আয়তন [math]4 m^{3}[/math] হয়, তাহলে উহার ব্যাস কত হবে?",
+        "solution": "সিলিন্ডারের আয়তন = [math]\\pi \\mathrm{r}^{2} l[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\Rightarrow 4=\\pi \\times r^{2} \\times \\frac{7}{22} \\Rightarrow 4=\\frac{22}{7} \\times r^{2} \\times \\frac{7}{22} \\\\\\Rightarrow r^{2}=4 \\Rightarrow r=2\\end{array}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ব্যাস [math]\\mathrm{d}=2 \\mathrm{r}=2 \\times 2=4 \\mathrm{~m}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 393935,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 393935,
+            "tag_id": 18,
+            "year": "14-15",
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 393934,
+      "value": {
+        "options": {
+          "ক": "[math]1 m[/math]",
+          "খ": "[math]4 m[/math]",
+          "গ": "[math]\\dfrac{22}{7} {~m}[/math]",
+          "ঘ": "[math]2m[/math]"
+        },
+        "question": "একটি সিলিন্ডারের দৈর্ঘ্য [math]\\dfrac{7}{22}[/math] মিটার। যদি উহার আয়তন [math]4 m^{3}[/math] হয়, তাহলে উহার ব্যাস কত হবে?",
+        "solution": "এখানে, [math]\\pi=\\dfrac{22}{7}[/math]\u003Cbr\u003Eসিলিন্ডারের দৈর্ঘ্য, [math]\\mathrm{h}=\\dfrac{7}{22} \\mathrm{~m}[/math]\u003Cbr\u003Eসিলিন্ডারের আয়তন, [math]\\pi r^{2} h=4 m^{3}[/math]\u003Cbr\u003E [math]\\Rightarrow \\pi r^{2}=\\dfrac{4}{h}=\\dfrac{4 \\times 22}{7}[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{22}{7} \\times r^{2}=\\dfrac{22}{7} \\times 4 \\Rightarrow r^{2}=4[/math]\u003Cbr\u003E [math]\\therefore r=2[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E ব্যাস, [math]2 r=4 m[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6317,
+      "created_at": "2025-08-19T05:17:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 393934,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 393934,
+            "tag_id": 18,
+            "year": "14-15",
+            "created_at": "2025-08-19T05:17:05.000000Z",
+            "updated_at": "2025-08-19T05:17:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6317&grade=1&lesson=6485&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6317&grade=1&lesson=6485&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6317&grade=1&lesson=6485&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 21,
+  "total": 21
+}

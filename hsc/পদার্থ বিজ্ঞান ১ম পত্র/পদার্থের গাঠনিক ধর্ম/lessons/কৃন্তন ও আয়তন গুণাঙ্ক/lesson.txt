@@ -1,0 +1,1605 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 412123,
+      "value": {
+        "options": [],
+        "question": "পারদের আয়তন গুণাঙ্ক [math]2 \\times[/math] [math]10^{10} \\mathrm{Nm}^{-2}[/math] বলতে কী বুঝ? ব্যাখ্যা ক র।",
+        "solution": "স্থিতিস্থাপক সীমার মধ্যে বস্তুর আয়তন পীড়ন ও আয়তন বিকৃতির অনুপাত একটি ধ্রুব সংখ্যা। এই ধ্রুব সংখ্যাকে বস্তুর উপাদানের আয়তন গুণাঙ্ক বলে। পারদের আয়তন গুণাঙ্ক [math]2 \\times 10^{10} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E বলতে বোঝায় যে, পারদের একক আয়তন বিকৃতি সৃষ্টি করতে [math]1 \\mathrm{~m}^{2}[/math]\u003Cbr\u003E ক্ষেত্রফলের উপর [math]2 \\times 10^{10} \\mathrm{~N}[/math]\u003Cbr\u003E বল প্রয়োগ করতে হবে।",
+        "explanation": "পারদের আয়তন গুণাঙ্ক বলতে তার bulk modulus বোঝায়, মানে চাপ পরিবর্তনের অনুপাতে আয়তনের আপেক্ষিক পরিবর্তনকে মাপার সংখ্যা যার মান [math]2\\times10^{10}\\ \\mathrm{Nm^{-2}}[/math]. সংজ্ঞা হলো [math]K=-\\frac{\\Delta p}{\\Delta V/V}[/math], তাই যদি চাপ [math]\\Delta p[/math] বাড়ে তাহলে আয়তনের আপেক্ষিক পরিবর্তন হবে [math]\\Delta V/V=-\\frac{\\Delta p}{2\\times10^{10}}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 412123,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 412123,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-08-19T06:47:02.000000Z",
+            "updated_at": "2025-08-19T06:47:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412122,
+      "value": {
+        "options": [],
+        "question": "10cm ব্যাসার্ধের গোলকে 50 বায়ুমণ্ডলীয় চাপ প্রয়োগ করলে আয়তন 0.1cc কমে । আয়তন গুণাংক নির্ণয় কর।",
+        "solution": "( Answer : [math]2.12 \\times .10^{11} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution :দেওয়া আছে, গোলকের ব্যাসার্ধ, [math]\\mathrm{r}=10 \\mathrm{~cm}=1 \\times 10^{-1} \\mathrm{~m}[/math]\u003Cbr\u003E.বায়ুচাপ, P = 50 বায়ুমণ্ডলীয় চাপ , [math]=50 \\times 1.013 \\times 10^{5} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eআয়তন কমে যায়, [math]v=0.1 \\mathrm{cc}=1 \\times 10^{-7} \\mathrm{~m}^{3}[/math]\u003Cbr\u003Eআয়তন গুণাংক, K = ?আমরা জানি,গোলকের আয়তন,[math]\\begin{aligned}V & =\\frac{4}{3} \\pi r^{3} \\\\& =\\frac{4}{3} \\pi\\left(1 \\times 10^{-1}\\right)^{3}\\end{aligned}[/math]\u003Cbr\u003Eএখন , [math]{\\mathrm{K}}=\\frac{\\mathrm{PV}}{\\mathrm{v}}=\\frac{50 \\times 1.013 \\times 10^{5} \\times 4 \\times 3.14 \\times\\left(1 \\times 10^{-1}\\right)^{3}}{3 \\times 1 \\times 10^{-7}}[/math]\u003Cbr\u003E [math]=2.12 \\times .10^{11} \\mathrm{Nm}^{-2} \\text {. (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: আয়তন গুণাংক (bulk modulus) নির্ণয়ের সূত্র [math]K=-\\Delta P/(\\Delta V/V)[/math]। গোলকের আদি আয়তন [math]V=\\tfrac{4}{3}\\pi r^3=\\tfrac{4}{3}\\pi(10\\ \\text{cm})^3=\\tfrac{4000}{3}\\pi\\ \\text{cm}^3\\approx4188.79\\ \\text{cm}^3[/math] এবং [math]\\Delta V=0.1\\ \\text{cm}^3,[/math] সুতরাং [math]K=\\Delta P\\frac{V}{\\Delta V}=50\\ \\text{atm}\\times\\frac{4188.79}{0.1}\\approx2.094\\times10^{6}\\ \\text{atm}\\approx2.12\\times10^{11}\\ \\text{Pa}[/math] — এইটাই আয়তন গুণাংক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 412122,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:47:02.000000Z",
+            "updated_at": "2025-08-19T06:47:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412121,
+      "value": {
+        "options": [],
+        "question": "[math]5 \\times 10^{7} \\mathrm{Nm}^{-2}[/math] চাপে 1000ce পারদ কতটুকু সংকুচিত হবে? পারদের আয়তন গুণাংক [math]2.5 \\times 10^{10} \\mathrm{Nm}^{-2}[/math]।",
+        "solution": "( Answer : 2cc)",
+        "explanation": "ব্যাখ্যা: ভলিউম সংকোচনের জন্য ব্যাল্ক মডুলাসের সম্পর্ক [math]\\frac{\\Delta V}{V}=-\\frac{\\Delta P}{K}[/math]। এখানে [math]\\frac{\\Delta V}{V}=-\\frac{5\\times10^{7}}{2.5\\times10^{10}}=-2\\times10^{-3}[/math], তাই [math]\\Delta V=-2\\times10^{-3}\\times1000\\ \\text{cc}=-2\\ \\text{cc}[/math]। নেতিবাচক চিহ্ন ভলিউম হ্রাস বোঝায়; সুতরাং পারদটি 2 cc দিয়ে সংকুচিত হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3467,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "giyas-uddeen-szar",
+          "pivot": {
+            "question_bank_id": 412121,
+            "tag_id": 3467,
+            "year": null,
+            "created_at": "2025-08-19T06:47:02.000000Z",
+            "updated_at": "2025-08-19T06:47:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412120,
+      "value": {
+        "options": [],
+        "question": "[math]3 \\times 10^{7} \\text { N.m }{ }^{-2}[/math] আয়তন পীড়নে কোনো পদার্থের আয়তন বিকৃতি [math]1 .5 \\times 10^{-4}[/math] হলো। ঐ পদার্থের আয়তন গুণাঙ্ক কত?",
+        "solution": "( Answer : [math]2 \\times 10^{\\mathrm{11}} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,আয়তন পীড়ন, [math]\\frac{\\mathrm{F}}{\\mathrm{A}}=3 \\times 10^{7}[/math]\u003Cbr\u003E [math]\\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eআয়তন বিকৃতি, [math]\\frac{v}{V}=1.5 \\times 10^{-4}[/math]\u003Cbr\u003Eআয়তন গুণাঙ্ক, B = ?আমরা জানি,[math]\\begin{aligned}\\mathrm{B} & =\\frac{\\frac{\\mathrm{F}}{\\mathrm{A}}}{\\frac{v}{\\mathrm{~V}}} \\\\& =\\frac{3 \\times 10^{7} \\mathrm{Nm}^{-2}}{1.5 \\times 10^{-4}}\\end{aligned}[/math]\u003Cbr\u003E [math]\\mathrm{B}=2 \\times 10^{\\mathrm{11}} \\mathrm{Nm}^{-2} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: আয়তন গুণাঙ্কের সংজ্ঞা [math]K=\\frac{\\text{চাপ}}{\\text{আয়তন বিকৃতি}}[/math], তাই [math]K=\\frac{3\\times10^{7}}{1.5\\times10^{-4}}[/math]. গাণিতিকভাবে [math]K=2\\times10^{11}\\ \\text{N·m}^{-2}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3444,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "ishak-szar",
+          "pivot": {
+            "question_bank_id": 412120,
+            "tag_id": 3444,
+            "year": null,
+            "created_at": "2025-08-19T06:47:02.000000Z",
+            "updated_at": "2025-08-19T06:47:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412119,
+      "value": {
+        "options": {
+          "ঘ": "দ্বিতীয় শিক্ষার্থী কেন এবং কত চাপ প্রয়োগ করতে বাধ্য হয়েছিল তার যথাযথ ব্যাখ্যা দাও।"
+        },
+        "question": "দুইজন শিক্ষার্থী r ও 2r ব্যাসার্ধের তামার দুটি সুষম গোলক নিয়ে কলেজ পরীক্ষাগারে কাজ করছিল। প্রথম শিক্ষার্থী r ব্যাসার্ধের গোলকে 100 বায়ুমণ্ডলীয় চাপ প্রয়োগে আয়তনের 0.1% হ্রাস পরিমাপ করল। দ্বিতীয় শিক্ষার্থী একই রকম চাপ দ্বিতীয় গোলকে প্রয়োগ করে দেখল আয়তনের হ্রাস একই রকম হয় না। অতঃপর সে চাপের পরিমাণ বৃদ্ধি করে প্রথম শিক্ষার্থীর সমান আয়তন হ্রাস করতে সক্ষম হল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003Eপ্রথম গোলকের আয়তন [math]V_{1}=\\frac{4}{3} \\pi r^{3}[/math]\u003Cbr\u003E [math]\\therefore[/math]\u003Cbr\u003E প্রথম গোলকের আয়তনের পরিবর্তন, [math]\\Delta v=0.1 \\% \\text { of } \\frac{4}{3} \\pi r^{3}[/math]\u003Cbr\u003E [math]=\\frac{0.1}{100} \\times \\frac{4}{3} \\pi r^{3}=\\frac{\\pi r^{3}}{750}[/math]\u003Cbr\u003Eদ্বিতীয় গোলকের আয়তন, [math]V_{2}=\\frac{4}{3} \\pi(2 r)^{3}=\\frac{32}{3} \\pi r^{3}[/math]\u003Cbr\u003Eদ্বিতীয় গোলকের ক্ষেত্রে সমপরিমাণ আয়তন পরিবর্তন ঘটাতে প্রয়োজনীয় চাপ P হলে,এখানে,আয়তন গুণাঙ্ক, [math]\\mathrm{K}=10^{10} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\mathrm{V}_{2}=\\frac{32}{3} \\pi \\mathrm{r}^{3} \\\\\\Delta \\mathrm{v}=\\frac{\\pi \\mathrm{r}^{3}}{750}\\end{array}[/math]\u003Cbr\u003E [math]K=\\frac{P}{\\frac{\\Delta v}{V_{2}}}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]P=K \\times \\frac{\\Delta v}{V_{2}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}=10^{10} \\times \\frac{\\frac{\\pi r^{3}}{750}}{\\frac{32}{3} \\pi r^{3}} \\\\=10^{10} \\times \\frac{3}{32 \\times 750}\\end{array}[/math]\u003Cbr\u003E [math]=10^{10} \\times 0.000125=12.5 \\times 10^{5} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eসমপরিমাণ আয়তন সংকোচন করতে চাপের পরিমাণ প্রথম গোলকের চেয়ে কমাতে হবে। কারণ এক্ষেত্রে সমপরিমাণ আয়তন হ্রাস মানে হলো, বিকৃতি পূর্বের তুলনায় কম।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ব্যাখ্যা: যদি গোলকগুলো পাতলা গোলকাবরণ (thin spherical shells) এবং একই পাতলের পুরুত্ব ও উপকরণ ধরা হয়, তখন আপেক্ষিক আয়তন-চ্যুতি প্রায় অনুপাতে হয় [math]\\Delta V/V\\propto pR/t[/math]; ফলে একবারের জন্য রশ্মি দ্বিগুণ হলে সংবেদনশীলতা দ্বিগুণ হয়, তাই একই আপেক্ষিক আয়তন হ্রাস পেতে চাপের মান ব্যাসার্ধের বিপরীত অনুপাতে পরিবর্তন করতে হবে। অতএব দ্বিতীয়কে প্রথম শিক্ষার্থীর মান [math]p_1=100\\ \\text{atm}[/math] এর বদলে [math]p_2=p_1\\cdot\\frac{r}{2r}=\\tfrac{1}{2}p_1=50\\ \\text{atm}[/math] প্রয়োগ করতে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 412119,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:47:02.000000Z",
+            "updated_at": "2025-08-19T06:47:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412118,
+      "value": {
+        "options": {
+          "গ": "প্রথম শিক্ষার্থীর পরিমাপকৃত আয়তন গুণাঙ্ক কেমন ছিল?"
+        },
+        "question": "দুইজন শিক্ষার্থী r ও 2r ব্যাসার্ধের তামার দুটি সুষম গোলক নিয়ে কলেজ পরীক্ষাগারে কাজ করছিল। প্রথম শিক্ষার্থী r ব্যাসার্ধের গোলকে 100 বায়ুমণ্ডলীয় চাপ প্রয়োগে আয়তনের 0.1% হ্রাস পরিমাপ করল। দ্বিতীয় শিক্ষার্থী একই রকম চাপ দ্বিতীয় গোলকে প্রয়োগ করে দেখল আয়তনের হ্রাস একই রকম হয় না। অতঃপর সে চাপের পরিমাণ বৃদ্ধি করে প্রথম শিক্ষার্থীর সমান আয়তন হ্রাস করতে সক্ষম হল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,আয়তন পীড়ন, P = গোলক পৃষ্ঠেপ্রযুক্ত চাপ = 100 বায়ুমণ্ডলীয় চাপ[math]=100 \\times 10^{5} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eআদি আয়তন = vআয়তনের পরিবর্তন,[math]\\begin{aligned}\\Delta \\mathrm{v} & =0.1 \\% \\times \\mathrm{V} \\\\& =\\frac{0.1}{100} \\mathrm{~V}\\end{aligned}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]\\frac{\\Delta \\mathrm{v}}{\\mathrm{V}}=\\frac{0.1}{100}[/math]\u003Cbr\u003Eআয়তন গুণাঙ্ক, K = ?আমরা জানি,আয়তন গুণাঙ্ক,[math]\\begin{aligned}K & =\\frac{P}{\\Delta v / V} \\\\& =\\frac{100 \\times 10^{5}}{\\frac{0.1}{100}} \\\\& =10^{10} \\mathrm{~N} / \\mathrm{m}^{2} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: আয়তন গুণাঙ্ক (compressibility) হল আয়তনের আপেক্ষিক পরিবর্তন প্রতি চাপের পরিবর্তন, [math]\\kappa=-\\frac{\\Delta V/V}{\\Delta P}[/math]. \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রথম শিক্ষার্থীর ক্ষেত্রে [math]\\Delta V/V=0.001[/math] ও [math]\\Delta P=100\\ \\text{atm}=1.013\\times10^7\\ \\text{Pa}[/math], তাই [math]\\kappa=\\frac{0.001}{1.013\\times10^7}\\approx9.87\\times10^{-11}\\ \\text{Pa}^{-1}\\ (=1.0\\times10^{-5}\\ \\text{atm}^{-1}).\u003C/math\u003E",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 412118,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:47:02.000000Z",
+            "updated_at": "2025-08-19T06:47:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412117,
+      "value": {
+        "options": [],
+        "question": "[math]20 \\mathrm{~kg}-\\mathrm{wt} / \\mathrm{cm}^{2}[/math] চাপে 5 লিটার গ্লিসারিনের আয়ত ন 2.5 cc কমে যায়। গ্লিসারিনের আয়তন গুণাঙ্ক নির্ণয় করো ।",
+        "solution": "( Answer : [math]3.92 \\times 10^{9} \\mathrm{Nm}^{-2}[/math] )",
+        "explanation": "ব্যাখ্যা: আয়তন গুণাঙ্কের সংজ্ঞা [math]K=-\\dfrac{\\Delta P}{\\Delta V/V}[/math], এবং এখানে প্রয়োগ করা চাপটিকে [math]\\Delta P=P[/math] ধরে নেওয়া হলে [math]K=P\\frac{V}{\\Delta V}[/math]।  \nএখানে [math]V=5\\ \\text{L}=5000\\ \\text{cc},\\ \\Delta V=2.5\\ \\text{cc}[/math], তাই [math]\\dfrac{V}{\\Delta V}=2000[/math] এবং [math]K=20\\times2000=40000\\ \\text{kg-wt/cm}^2\\approx3.92\\times10^9\\ \\text{Pa}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3505,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tfajjl-szar",
+          "pivot": {
+            "question_bank_id": 412117,
+            "tag_id": 3505,
+            "year": null,
+            "created_at": "2025-08-19T06:47:02.000000Z",
+            "updated_at": "2025-08-19T06:47:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412116,
+      "value": {
+        "options": {
+          "গ": "উদ্দীপকে উল্লিখিত গোলকের উপাদানের আয়তন গুণাঙ্ক কত? উক্ত গোলকের উপর [math]8 \\times 10^{6} \\mathrm{Nm}^{-2}[/math] আয়তন পীতন প্রযুক্ত হলে আয়তন বিকৃতি কত হবে।"
+        },
+        "question": "একটি ধাতব গোলকের উপর [math]3 \\times 10^{6} \\mathrm{Nm}^{-2}[/math] আয়তন পীড়ন প্রয়োগ করলে 0.4 আয়তন বিকৃতি হয়।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখানে,আয়তন পীড়ন, [math]\\mathrm{P}=3 \\times 10^{6} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eআয়তন বিকৃতি [math]\\frac{\\mathrm{v}}{\\mathrm{V}}=0.4[/math]\u003Cbr\u003Eআমরা জানি,\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-17-panjeri2-28-1_1755586022_ig9MFG9G.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]=\\frac{\\mathrm{P}}{\\mathrm{v} / \\mathrm{V}}[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\therefore \\mathrm{K}=\\frac{3 \\times 10^{6}}{0.4}=7.5 \\times 10^{6} \\mathrm{Nm}^{-2}\\\\\\text{(Ans.)}\\end{array}[/math]\u003Cbr\u003Eএখন গোলকটির উপর [math]8 \\times 10^{6} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E আয়তন পীড়ন প্রযুক্ত হলে,এখানে,গোলকের আয়তন গুণাঙ্ক,[math]\\mathrm{K}=7.5 \\times 10^{6} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eআয়তন পীড়ন, [math]\\mathrm{P}=8 \\times 10^{6} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc-phy1-17-panjeri2-29-1_1755586021_QdUWQdbz.png\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\begin{array}{l}=\\frac{\\mathrm{P}}{\\mathrm{K}} \\\\=\\frac{8 \\times 10^{6}}{7.5 \\times 10^{6}} \\\\=1.067 \\text { (Ans.) }\\end{array}[/math]\u003Cbr\u003E [math]\\\\[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E আয়তন গুণাঙ্ক (bulk modulus) সংজ্ঞা অনুযায়ী [math]B=\\dfrac{\\text{চাপ}}{\\text{আয়তন বিকৃতি}}[/math]; তাই [math]B=\\dfrac{3\\times10^6}{0.4}=7.5\\times10^6\\ \\mathrm{N/m^2}[/math]. একই গুণাঙ্কে [math]8\\times10^6\\ \\mathrm{N/m^2}[/math] চাপ দিলে আয়তন বিকৃতি হবে [math]\\Delta V/V=\\dfrac{8\\times10^6}{7.5\\times10^6}\\approx1.0667[/math] (মাত্রাহীন)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3507,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "tpn-szar",
+          "pivot": {
+            "question_bank_id": 412116,
+            "tag_id": 3507,
+            "year": null,
+            "created_at": "2025-08-19T06:47:02.000000Z",
+            "updated_at": "2025-08-19T06:47:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412111,
+      "value": {
+        "options": {
+          "ক": "[math]1.1 \\times 10^{7} \\mathrm{Nm}^{-2}[/math]",
+          "খ": "[math]2.5 \\times 10^{7} \\mathrm{Nm}^{-2}[/math]",
+          "গ": "[math]2 \\times 10^{7} \\mathrm{Nm}^{-2}[/math]",
+          "ঘ": "[math]3 \\times 10^{7} \\mathrm{Nm}^{-2}[/math]"
+        },
+        "question": "[math]2\\rm{~mm}[/math] ব্যাসার্ধবিশিষ্ট পানির ফোঁটার আয়তনকে চাপ প্রয়োগে তার আদি আয়তনের তুলনায় [math]0.5\\%[/math] সংকুচিত করা হলো। আয়তন গুণাংকের মান [math]2.2 \\times 109 \\mathrm{Nm}^{-2}[/math] এবং পৃষ্ঠটান [math]72 \\times 10-3 \\mathrm{Nm}^{-1}[/math]।\n\nউদ্দীপকের তথ্যের আলোকে নিচের প্রশ্নের উত্তর দাও :\n\nচাপের মান—",
+        "solution": "[math]\\mathrm{K}=\\dfrac{\\mathrm{FV}}{\\mathrm{Av}}=\\dfrac{\\mathrm{PV}}{\\mathrm{v}} \\Rightarrow \\mathrm{P}=\\dfrac{{\\mathrm{Kv}}}{\\mathrm{V}}=\\dfrac{2.2 \\times 10^{3} \\times \\mathrm{V} \\times 0.5 \\%}{\\mathrm{~V}}=1.1 \\times 10^{7}\\mathrm{N} / \\mathrm{m}^{2}[/math]",
+        "explanation": "",
+        "correct_answer": "A.[math]1.1 \\times 10^{7} \\mathrm{Nm}^{-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 412111,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 367,
+          "full_name": "Comilla Cadet College",
+          "short_name": "CCC",
+          "slug": "ccc",
+          "pivot": {
+            "question_bank_id": 412111,
+            "tag_id": 367,
+            "year": "2022",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412115,
+      "value": {
+        "options": [],
+        "question": "1.5 লিটার গ্লিসারিন [math]9.8 \\times 10^{5} \\text { N.m }^{-2}[/math] চাপে [math]0.3675 \\times 10^{-6 }[/math] [math]\\mathrm{m}^{3}[/math] সংকুচিত হয়। গ্লিসারিনের আয়তন গুণাঙ্ক নির্ণয় করো।",
+        "solution": "( Answer : [math]4 \\times 10^{9} \\mathrm{Nm}^{-2}[/math])",
+        "explanation": "ব্যাখ্যা: গ্লিসারিনের আয়তন গুণাঙ্ক হচ্ছে চাপ পরিবর্তনের এবং আপেক্ষিক আয়তন পরিবর্তনের অনুপাত, [math]K=\\frac{ΔP}{ΔV/V}[/math]. এখানে [math]V=1.5\\ \\text{L}=1.5\\times10^{-3}\\ \\mathrm{m}^{3},\\ ΔV=0.3675\\times10^{-6}\\ \\mathrm{m}^{3},\\ ΔP=9.8\\times10^{5}\\ \\mathrm{N\\,m^{-2}}[/math], তাই [math]ΔV/V=2.45\\times10^{-4}[/math] এবং [math]K=\\dfrac{9.8\\times10^{5}}{2.45\\times10^{-4}}=4.0\\times10^{9}\\ \\mathrm{N\\,m^{-2}}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 412115,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412114,
+      "value": {
+        "options": [],
+        "question": "এক বায়ুমণ্ডলীয় চাপে কোনো বস্তুর আয়তন [math]3500 \\mathrm{~cm}^{3}[/math] এবং 25 বায়ুমণ্ডলীয় চা পে [math]3499.915 \\mathrm{~cm}^{3}[/math] । বস্তুর উপাদানের আয়তন গুণাঙ্ক নির্ণয় করো। এক বায়ুমণ্ডলীয় চাপ [math]=1.013 \\times 10^{5} \\mathrm{~Pa}[/math] ।",
+        "solution": "( Answer : [math]1.00108 \\times 10^{11} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,চাপ [math]\\Delta \\mathrm{P}=24 \\times 1.013 \\times 10^{5} \\mathrm{~Pa}[/math]\u003Cbr\u003Eআয়তন ,[math]\\begin{array}{l}V=3500 \\mathrm{~cm}^{3} \\\\=3500 \\times 10^{-6} \\mathrm{~m}^{3}\\end{array}[/math]\u003Cbr\u003Eআয়তন হ্রাস,[math]\\begin{aligned}v & =(3500-3499.915) \\\\& =0.085 \\mathrm{~cm}^{3} \\\\& =0.085 \\times 10^{-6} \\mathrm{~m}^{3}\\end{aligned}[/math]\u003Cbr\u003Eআয়তন গুণাঙ্ক, B =?আমরা জানি,[math]\\begin{aligned}\\mathrm{B} & =\\frac{\\Delta \\mathrm{PV}}{v} \\\\& =\\frac{24 \\times 1.013 \\times 10^{5} \\times 3500 \\times 10^{-6}}{0.085 \\times 10^{-6}} \\\\& =1.00108 \\times 10^{11} \\mathrm{Nm}^{-2} \\text { (Ans.) }\\end{aligned}[/math]\u003Cbr\u003E",
+        "explanation": "বস্তুটির আয়তন গুণাঙ্ক (ভলিউমিক কমপ্রেসিবিলিটি) সংজ্ঞা হলো [math]\\kappa = -\\frac{1}{V}\\frac{\\Delta V}{\\Delta P}[/math]; এখানে [math]V=3500\\ \\mathrm{cm^3}[/math], [math]\\Delta V=3499.915-3500=-0.085\\ \\mathrm{cm^3}[/math] এবং [math]\\Delta P=(25-1)\\times1.013\\times10^5=2.4312\\times10^6\\ \\mathrm{Pa}[/math]. \nঅতএব [math]\\kappa = -\\frac{-0.085/3500}{2.4312\\times10^6}=9.997\\times10^{-12}\\ \\mathrm{Pa^{-1}}\\approx1.0\\times10^{-11}\\ \\mathrm{Pa^{-1}}[/math], এবং তার বিপরীত (বাল্ক মডিউল) প্রায় [math]K\\approx1.0\\times10^{11}\\ \\mathrm{Pa}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 412114,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412113,
+      "value": {
+        "options": [],
+        "question": "[math]3 \\times 10^{7} \\text { N.m }{ }^{-2}[/math] আয়তন পীড়নে কোনো পদার্থের আয়তন বিকৃতি [math]1 .5 \\times 10^{-4}[/math] হলো। ঐ পদার্থের আয়তন গুণাঙ্ক কত?",
+        "solution": "( Answer : [math]2 \\times 10^{\\mathrm{11}} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E )[math]\\\\[/math]\u003Cbr\u003ESolution :এখানে,আয়তন পীড়ন, [math]\\frac{\\mathrm{F}}{\\mathrm{A}}=3 \\times 10^{7}[/math]\u003Cbr\u003E [math]\\mathrm{Nm}^{-2}[/math]\u003Cbr\u003Eআয়তন বিকৃতি, [math]\\frac{v}{V}=1.5 \\times 10^{-4}[/math]\u003Cbr\u003Eআয়তন গুণাঙ্ক, B = ?আমরা জানি,[math]\\begin{aligned}\\mathrm{B} & =\\frac{\\frac{\\mathrm{F}}{\\mathrm{A}}}{\\frac{v}{\\mathrm{~V}}} \\\\& =\\frac{3 \\times 10^{7} \\mathrm{Nm}^{-2}}{1.5 \\times 10^{-4}}\\end{aligned}[/math]\u003Cbr\u003E [math]\\mathrm{B}=2 \\times 10^{\\mathrm{11}} \\mathrm{Nm}^{-2} \\text { (Ans.) }[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: আয়তন গুণাঙ্ক (bulk modulus) চাপকে আয়তন বিকৃতিতে ভাগ করলে পাওয়া যায়, তাই [math]K=\\frac{\\text{চাপ}}{\\text{আয়তন বিকৃতি}}[/math]. এখানে [math]K=\\frac{3\\times10^{7}}{1.5\\times10^{-4}}=2\\times10^{11}\\ \\text{N·m}^{-2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3506,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "pramanik-szar",
+          "pivot": {
+            "question_bank_id": 412113,
+            "tag_id": 3506,
+            "year": null,
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412112,
+      "value": {
+        "options": [],
+        "question": "একটি পদার্থের উপর প্রযুক্ত আয়তন পীড়ন [math]3 \\times 10^{3} \\mathrm{Nm}^{-2}[/math] এবং আয়তন বিকৃতি [math]1.5 \\times 10 ^{-3}[/math] হলে ঐ পদার্থের উপাদানের আয়তন গুণাংক নির্ণয় কর।",
+        "solution": "(Answer : [math]2 \\times 10^{11} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E)[math]\\\\[/math]\u003Cbr\u003ESolution :আয়তন গুনাংক = আয়তন পীড়ন/আয়তন বিকৃতি [math]=\\frac{3 \\times 10^{4} \\mathrm{Nm}^{-2}}{1.5 \\times 10^{-3}}=2 \\times 10^{11} \\mathrm{Nm}^{-2}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: আয়তন গুণাংক সংজ্ঞা অনুযায়ী চাপকে আয়তন পরিবর্তনের অনুপাতে ভাগ করলে পাওয়া যায়, [math]K=\\dfrac{P}{\\Delta V/V}[/math]. সুতরাং [math]K=\\dfrac{3\\times10^3}{1.5\\times10^{-3}}=2\\times10^6\\ \\mathrm{N\\,m^{-2}}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 25,
+          "year": "2006-2007",
+          "pivot": {
+            "question_bank_id": 412112,
+            "year_id": 25
+          }
+        }
+      ],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 474,
+          "full_name": "Bangladesh University of Textiles",
+          "short_name": "BUTex",
+          "slug": "butex",
+          "pivot": {
+            "question_bank_id": 412112,
+            "tag_id": 474,
+            "year": "06-07",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412098,
+      "value": {
+        "options": {
+          "ক": "[math]\\text { MLT }^{-2}[/math]",
+          "খ": "[math]\\mathrm{MLT}^{-1}[/math]",
+          "গ": "[math]M L^{-1} T^{-2}[/math]",
+          "ঘ": "[math]\\mathrm{M}^{-1} \\mathrm{LT}^{-2}[/math]"
+        },
+        "question": "আয়তন গুণাংকের মাত্রা কোনটি?",
+        "solution": "আয়তন গুণাঙ্ক (Bulk Modulus) হলো কোনো পদার্থের উপর লম্বভাবে প্রযুক্ত চাপ এবং তার ফলে আয়তনের আপেক্ষিক পরিবর্তনের অনুপাত। চাপের মাত্রা হলো বল/ক্ষেত্রফল, অর্থাৎ [math][P] = \\frac{[F]}{[A]} = \\frac{MLT^{-2}}{L^2} = ML^{-1}T^{-2}[/math]\u003Cbr\u003E। আয়তনের আপেক্ষিক পরিবর্তন একটি মাত্রাবিহীন রাশি। তাই আয়তন গুণাঙ্কের মাত্রা চাপের মাত্রার সমান।আয়তন গুণাঙ্ক [math]\\beta = -V \\frac{dP}{dV}[/math]\u003Cbr\u003E।এখানে, [math]V[/math]\u003Cbr\u003E হলো আয়তন, যার মাত্রা [math][V] = L^3[/math]\u003Cbr\u003E।[math]dP[/math]\u003Cbr\u003E হলো চাপের পরিবর্তন, যার মাত্রা [math][dP] = ML^{-1}T^{-2}[/math]\u003Cbr\u003E।[math]dV[/math]\u003Cbr\u003E হলো আয়তনের পরিবর্তন, যার মাত্রা [math][dV] = L^3[/math]\u003Cbr\u003E।তাহলে, আয়তন গুণাঙ্কের মাত্রা হবে:[math][\\beta] = \\frac{[V][dP]}{[dV]} = \\frac{L^3 \\times ML^{-1}T^{-2}}{L^3} = ML^{-1}T^{-2}[/math]\u003Cbr\u003E।সুতরাং, সঠিক উত্তরটি হলো [math]ML^{-1}T^{-2}[/math]\u003Cbr\u003E। এই মাত্রা চাপ, Young's modulus, Shear modulus এবং Rigidity modulus-এর মাত্রার সাথে একই।\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fhsc20board2c20physics201st20paper2c20chapter-72c20riyel20roy2c20date-19-11-202420cq2c20serial20no-12_1755586020_3jDCxacn.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E",
+        "explanation": "",
+        "correct_answer": "C.[math]M L^{-1} T^{-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 412098,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 412098,
+            "tag_id": 47,
+            "year": "2024",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412110,
+      "value": {
+        "options": {
+          "ক": "সংনম্যতা",
+          "খ": "দৃঢ়তার গুণাঙ্ক",
+          "গ": "ইয়ং গুণাক",
+          "ঘ": "স্থিতিস্থাপক গুণাক"
+        },
+        "question": "আয়তন গুণাঙ্কের বিপরীত রাশিকে কি বলে ?",
+        "solution": "আয়তন গুণাঙ্কের বিপরীত রাশি হলো সংনম্যতা। এটি একটি পদার্থের আয়তন পরিবর্তন হওয়ার প্রবণতা নির্দেশ করে যখন তার উপর চাপ প্রয়োগ করা হয়। অন্যান্য বিকল্পগুলি পদার্থের বিকৃতি বা দৃঢ়তার সাথে সম্পর্কিত, কিন্তু আয়তন পরিবর্তনের সাথে সরাসরি সম্পর্কিত নয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 412110,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1912,
+          "full_name": "IDEAL COLLEGE, DHANMONDI",
+          "short_name": "ICD",
+          "slug": "icd",
+          "pivot": {
+            "question_bank_id": 412110,
+            "tag_id": 1912,
+            "year": "2022",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412109,
+      "value": {
+        "options": {
+          "ক": "[math]2.1 \\times 10^{8} \\mathrm{Nm}^{-2}[/math]",
+          "খ": "[math]2.1 \\times 10^{9} \\mathrm{Nm}^{-2}[/math]",
+          "গ": "[math]2.1 \\times 10^{10} \\mathrm{Nm}^{-2}[/math]",
+          "ঘ": "[math]2.1 \\times 10^{11} \\mathrm{Nm}^{-2}[/math]"
+        },
+        "question": "পানির আয়তন গুনাংক কত?",
+        "solution": "পানির আয়তন গুণাঙ্ক [math]2.1 \\times 10^{9} \\mathrm{Nm}^{-2}[/math]",
+        "explanation": "",
+        "correct_answer": "B.[math]2.1 \\times 10^{9} \\mathrm{Nm}^{-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 17,
+          "year": "2011-2012",
+          "pivot": {
+            "question_bank_id": 412109,
+            "year_id": 17
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 788,
+          "full_name": "Chattogram Veterinary and Animal Sciences University",
+          "short_name": "CVASU",
+          "slug": "cvasu",
+          "pivot": {
+            "question_bank_id": 412109,
+            "tag_id": 788,
+            "year": "11-12",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412108,
+      "value": {
+        "options": {
+          "ক": "[math]0.22\\times 10^{10}\\mathrm{Nm}^{-2}[/math]",
+          "খ": "[math]0.22\\times 10^{13}\\mathrm{Nm}^{-2}[/math]",
+          "গ": "[math]2.2\\times 10^6\\mathrm{Nm}^{-2}[/math]",
+          "ঘ": "[math]2.2\\mathrm{Nm}^{-2}[/math]"
+        },
+        "question": "পানির আয়তন প্রসারণ গুণাঙ্ক [math]0.22 \\times 10^{10} \\mathrm{Nm}^{-2}[/math]। [math]1\\rm{L}[/math] পানির আয়তন [math]0.1\\%[/math] পরিবর্তন করতে কত চাপের প্রয়োজন?",
+        "solution": "[math]K=\\dfrac{p}{\\frac{d v}{v}} P=.22 \\times 10^{10} \\times \\dfrac{.1}{100}=2.2 \\times 10^{6} \\mathrm{Nm}^{-2}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 16,
+          "year": "2012-2013",
+          "pivot": {
+            "question_bank_id": 412108,
+            "year_id": 16
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 11,
+          "full_name": "University of Rajshahi (C Unit)",
+          "short_name": "RU-C",
+          "slug": "ru-c",
+          "pivot": {
+            "question_bank_id": 412108,
+            "tag_id": 11,
+            "year": "12-13",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412107,
+      "value": {
+        "options": {
+          "ক": "[math]2.6 \\times 10^{10} \\mathrm{Nm}^{-2}[/math]",
+          "খ": "[math]2.6 \\times 10^{9} \\mathrm{Nm}^{-2}[/math]",
+          "গ": "[math]2.4 \\times 10^{10} \\mathrm{Nm}^{-2}[/math]",
+          "ঘ": "[math]2.4 \\times 10^{9} \\mathrm{Nm}^{-2}[/math]"
+        },
+        "question": "[math]300 \\mathrm{~cm}^{3}[/math] পারদের উপর কি পরিমাণ চাপ প্রয়োগ করলে এর আয়তন [math]270 \\mathrm{~cm}^{3}[/math] হবে? (পারদের আয়তন গুণাংক [math]2.6 \\times 10^{10} \\mathrm{Nm}^{-2}[/math])",
+        "solution": "[math]B=\\dfrac{P}{\\frac{v}{v}} \\Rightarrow P=B \\times \\dfrac{v}{V}=2.6 \\times 10^{10} \\times \\dfrac{30}{300}=2.6 \\times 10^{9} \\mathrm{~Pa}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 412107,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 57,
+          "full_name": "Jahangirnagar University (A Unit)",
+          "short_name": "JU-A",
+          "slug": "ju-a",
+          "pivot": {
+            "question_bank_id": 412107,
+            "tag_id": 57,
+            "year": "14-15",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412106,
+      "value": {
+        "options": {
+          "ক": "আয়তন বিকৃতি",
+          "খ": "পীড়ন",
+          "গ": "আয়তন গুণাঙ্ক",
+          "ঘ": "সংনম্যতা"
+        },
+        "question": "আয়তন গুণাঙ্কের বিপরীত রাশিকে বলে-",
+        "solution": "আয়তন গুণাঙ্কের বিপরীত রাশি হলো সংনম্যতা। আয়তন গুণাঙ্ক (Bulk Modulus, [math]K[/math]\u003Cbr\u003E) হলো বস্তুর আয়তনের পরিবর্তনের সাথে পীড়নের (stress) অনুপাত। অন্যদিকে, সংনম্যতা (Compressibility, [math]\\beta[/math]\u003Cbr\u003E) হলো আয়তন গুণাঙ্কের বিপরীত রাশি, অর্থাৎ [math]\\beta = 1/K[/math]\u003Cbr\u003E। এটি নির্দেশ করে যে কোনো বস্তুকে নির্দিষ্ট পরিমাণ চাপ প্রয়োগে তার আয়তন কতটা সংকুচিত হবে।",
+        "explanation": "",
+        "correct_answer": "D.সংনম্যতা"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 12,
+          "year": "2017-2018",
+          "pivot": {
+            "question_bank_id": 412106,
+            "year_id": 12
+          }
+        },
+        {
+          "id": 21,
+          "year": "2009-2010",
+          "pivot": {
+            "question_bank_id": 412106,
+            "year_id": 21
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 58,
+          "full_name": "University of Rajshahi (A Unit)",
+          "short_name": "RU-A",
+          "slug": "ru-a",
+          "pivot": {
+            "question_bank_id": 412106,
+            "tag_id": 58,
+            "year": "17-18",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        },
+        {
+          "id": 3212,
+          "full_name": "Comilla University (A Unit)",
+          "short_name": "CoU-A",
+          "slug": "cou-a",
+          "pivot": {
+            "question_bank_id": 412106,
+            "tag_id": 3212,
+            "year": "09-10",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412105,
+      "value": {
+        "options": {
+          "ক": "বৃদ্ধি পায়",
+          "খ": "কমে",
+          "গ": "পরিবর্তিত থাকে",
+          "ঘ": "প্রথমে বাড়ে তারপর কমে",
+          "ঙ": "None"
+        },
+        "question": "পানিকে [math]0^\\circ C[/math] তাপমাত্রা হতে [math]10^\\circ C[/math] তাপমাত্রায় উত্তপ্ত করলে উহার আয়তন–",
+        "solution": "[math]4^\\circ C[/math]\u003Cbr\u003E তাপমাত্রায় পানির ঘনত্ব সর্বাধিক হয়। তাই পানিকে [math]0^\\circ C[/math]\u003Cbr\u003E তাপমাত্রা হতে [math]10^\\circ C[/math]\u003Cbr\u003E তাপমাত্রায় উত্তপ্ত।",
+        "explanation": "",
+        "correct_answer": "."
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 26,
+          "year": "2014-2015",
+          "pivot": {
+            "question_bank_id": 412105,
+            "year_id": 26
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 18,
+          "full_name": "Medical Admission Test (MBBS",
+          "short_name": "Medical",
+          "slug": "medical",
+          "pivot": {
+            "question_bank_id": 412105,
+            "tag_id": 18,
+            "year": "14-15",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412104,
+      "value": {
+        "options": {
+          "ক": "কাঠিন্যের গুণাক",
+          "খ": "ইয়ং-এর গুণাঙ্ক",
+          "গ": "পরসনের অনুপাত",
+          "ঘ": "সংনম্যতা"
+        },
+        "question": "আয়তন গুণাঙ্কের বিপরীত রাশি কোনটি?",
+        "solution": "কোনো বস্তুর চারদিক থেকে সমান চাপ প্রয়োগ করলে বস্তুটির আয়তন কমে যায়। বস্তুর এ ধর্মকে সংনম্যতা বলে। আয়তন গুণাঙ্কের বিপরীত রাশিকে সংনম্যতা বলে।",
+        "explanation": "",
+        "correct_answer": "D.সংনম্যতা"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 412104,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 412104,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 412104,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 412104,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 412104,
+            "tag_id": 1,
+            "year": "2017",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        },
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 412104,
+            "tag_id": 6,
+            "year": "2016",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412103,
+      "value": {
+        "options": {
+          "ক": "অসংনম্যতা",
+          "খ": "সংনম্যতা",
+          "গ": "কাঠিন্যের গুণাক",
+          "ঘ": "ইয়ং এর গুণাঙ্ক"
+        },
+        "question": "আয়তন গুণাঙ্কের অন্য নাম কী?",
+        "solution": "স্থিতিস্থাপক সীমার মধ্যে বস্তুর আয়তন পীড়ন ও আয়তন বিকৃতির অনুপাতকে বস্তুর উপাদানের আয়তন গুণাঙ্ক বলে। স্থিতিস্থাপক সীমার মধ্যে আয়তন বিকৃতি ও আয়তন পীড়নের অনুপাতকে সংনম্যতা বলে।আয়তন গুণাঙ্ক = আয়তন পীড়ন /আয়তন বিকৃতি[math]= \\frac{1}{ \\frac{আয়তন বিকৃতি}{আয়তন পীড়ন}}[/math]= 1/ সংনম্যতা",
+        "explanation": "",
+        "correct_answer": "A.অসংনম্যতা"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 412103,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 412103,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 412103,
+            "tag_id": 7,
+            "year": "2019",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412102,
+      "value": {
+        "options": {
+          "ক": "[math]2 \\times 10^{10} \\mathrm{Nm}^{-2}[/math]",
+          "খ": "[math]2 \\times 10^{9} \\mathrm{Nm}^{-2}[/math]",
+          "গ": "[math]0.02 \\times 10^{10} \\mathrm{Nm}^{-2}[/math]",
+          "ঘ": "[math]0.5 \\times 10^{-10} \\mathrm{Nm}^{-2}[/math]"
+        },
+        "question": "কিছু পরিমাণ পানিকে তার মোট আয়তনের 10% সংকুচিত করতে কত পরিমাণ চাপ প্রয়োগ করতে হবে, যেখানে পানির আয়তন গুণাঙ্ক [math]2 \\times 10^{9} \\mathrm{Nm}^{-2} ?[/math]",
+        "solution": "এখানে ,পানির আয়তন গুণাঙ্ক, [math]B = 2 \\times 10^99 Nm^{-2}[/math]\u003Cbr\u003Eআয়তন বিকৃতি, [math]\\frac{v}{V} = 10% = 0.1[/math]\u003Cbr\u003Eপ্রযুক্ত চাপ, P = ?[math]B = \\frac{Pv}{V}\\\\\\Rightarrow P = \\frac{Bv}{V}\\\\ = 2 \\times 10^9 \\times (\\frac{v}{V})\\\\=2 \\times 10^9 \\times 0.1 \\\\ = 0.02 \\times 10^{10}\\ NM^{-2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.[math]0.02 \\times 10^{10} \\mathrm{Nm}^{-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 412102,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 412102,
+            "tag_id": 47,
+            "year": "2022",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412101,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{ML}^{-2} \\mathrm{~T}^{-1}[/math]",
+          "খ": "[math]\\mathrm{ML}^{-1} \\mathrm{~T}^{-1}[/math]",
+          "গ": "[math]M^{-1} L^{-1} T^{-1}[/math]",
+          "ঘ": "[math]\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}[/math]"
+        },
+        "question": "আয়তন গুণাঙ্কের মাত্রা কোনটি?",
+        "solution": "সকল প্রকার স্থিতিস্থাপক গুণাঙ্ক একটি স্কেলার রাশি, মাত্রা [math]ML^{-1}T^{-2}[/math]",
+        "explanation": "",
+        "correct_answer": "D.[math]\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 412101,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 412101,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 6,
+          "full_name": "Chattogram Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board",
+          "pivot": {
+            "question_bank_id": 412101,
+            "tag_id": 6,
+            "year": "2022",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412100,
+      "value": {
+        "options": {
+          "ক": "[math]C=\\frac{1}{K}[/math]",
+          "খ": "[math]\\mathrm{C}=\\frac{3}{2} \\mathrm{KT}[/math]",
+          "গ": "[math]C=\\sqrt{\\frac{3 \\mathrm{KT}}{\\mathrm{m}}}[/math]",
+          "ঘ": "[math]\\frac{\\mathrm{C}}{\\mathrm{K}}=1[/math]"
+        },
+        "question": "কোনো বস্তুর আয়তন গুণাঙ্ক (K) এবং সংনম্যতার (C) মধ্যে সম্পর্ক কোনটি?",
+        "solution": "স্থিতিস্থাপক সীমার মধ্যে আয়তন বিকৃতি ও আয়তন পীড়নের অনুপাতকে সংনম্যতা বলে।অর্থাৎ, সংনম্যতা, C = আয়তন বিকৃতি / আয়তন পীড়ন= 1/ ( আয়তন পীড়ন / আয়তন বিকৃতি )= 1 / আয়তন গুণাঙ্ক= [math]\\frac{1}{k}[/math]",
+        "explanation": "",
+        "correct_answer": "A.[math]C=\\frac{1}{K}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 412100,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 412100,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 412100,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 412099,
+      "value": {
+        "options": {
+          "ক": "[math]\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]",
+          "খ": "[math]\\left[\\mathrm{MLT}^{-1}\\right][/math]",
+          "গ": "[math]\\left[\\mathrm{M}^{-1} \\mathrm{~L}^{-1} \\mathrm{~T}^{-2}\\right][/math]",
+          "ঘ": "[math]\\left[\\mathrm{M}^{-2} \\mathrm{~L}^{-1} \\mathrm{~T}^{-1}\\right][/math]"
+        },
+        "question": "ইয়ং এর গুণাংকের মাত্রা—",
+        "solution": "আমরা জানি , ইয়ং এর গুণাঙ্ক = পীড়ন/বিকৃতি[math]\\therefore[/math]\u003Cbr\u003E ইয়ং এর গুণাঙ্কের মাত্রা = পীড়ন/বিকৃতি এর মাত্রা[math]=\\frac {ML^{-1}T^{-2}}{\\frac{L}{L}}[/math]\u003Cbr\u003E [math]=ML^{-1}T^{-2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right][/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 280,
+      "book_grade_id": 1,
+      "content_chunk_id": 6323,
+      "created_at": "2025-08-19T06:47:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 412099,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 412099,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 280,
+        "title": "পদার্থ বিজ্ঞান ১ম পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 412099,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-08-19T06:47:00.000000Z",
+            "updated_at": "2025-08-19T06:47:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=6323&grade=1&lesson=6577&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=6323&grade=1&lesson=6577&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=6323&grade=1&lesson=6577&question_paper_id=48532&subject=280&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 26,
+  "total": 26
+}
